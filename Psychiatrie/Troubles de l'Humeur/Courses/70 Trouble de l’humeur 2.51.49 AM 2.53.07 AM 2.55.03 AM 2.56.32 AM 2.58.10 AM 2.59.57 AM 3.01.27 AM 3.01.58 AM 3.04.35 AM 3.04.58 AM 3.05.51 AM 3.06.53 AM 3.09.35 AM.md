@@ -926,9 +926,6 @@ L'hospitalisation est indiquée :
   - Mélancolie, forme délirante
   - Risque suicidaire
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

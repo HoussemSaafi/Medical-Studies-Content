@@ -145,9 +145,6 @@ Les **carcinomes nasopharyngiens** (CNP) ont une répartition géographique part
 
 ## 2-2 Âge
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

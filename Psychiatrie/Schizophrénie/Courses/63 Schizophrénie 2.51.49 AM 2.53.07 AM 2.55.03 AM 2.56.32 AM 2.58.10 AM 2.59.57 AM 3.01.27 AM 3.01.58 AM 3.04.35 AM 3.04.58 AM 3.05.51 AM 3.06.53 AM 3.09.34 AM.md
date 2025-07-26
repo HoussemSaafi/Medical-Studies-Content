@@ -587,9 +587,6 @@ Tableau: Aperçu des principaux **antipsychotiques** disponibles en Tunisie.
 | DCI                | Noms                     | Doses recommandées (mg/jour) | Dose maximale (mg/jour) |
 |--------------------|-------------------------|------------------------------|-------------------------|
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -775,9 +772,6 @@ Ces effets contre-indiquent ces produits chez le glaucomateux et le prostatique.
   - Galactorrhée chez l'homme et chez la femme avec gynécomastie, espacement des menstruations ou aménorrhée,
   - Frigidité chez la femme,
   - Impuissance chez l'homme,
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

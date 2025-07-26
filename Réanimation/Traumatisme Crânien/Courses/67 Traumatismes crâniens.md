@@ -981,6 +981,3 @@ L'élaboration d'un projet de rééducation du traumatisé crânien est plurifac
 - L'amélioration de la concentration et de l'attention
 
 ### La réinsertion socioprofessionnelle
-
-
-This formatting improves readability while preserving all the original content exactly as provided.

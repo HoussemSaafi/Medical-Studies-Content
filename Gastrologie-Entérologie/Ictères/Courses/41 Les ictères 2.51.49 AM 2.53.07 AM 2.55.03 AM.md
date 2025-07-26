@@ -1324,9 +1324,6 @@ Il est moins fréquent, autosomique récessif.
 
 #### * **Hémoglobinopathies**
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

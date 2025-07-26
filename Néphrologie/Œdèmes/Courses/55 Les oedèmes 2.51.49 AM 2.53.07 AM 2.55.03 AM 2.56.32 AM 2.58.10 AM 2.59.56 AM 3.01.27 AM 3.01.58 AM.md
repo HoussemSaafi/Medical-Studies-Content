@@ -615,12 +615,6 @@ Ils visent selon le contexte à diagnostiquer une affection :
 
 ## - **Cardiaque** :
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
-
-
 # Diagnostic and Evaluation
 
 ## Cardiology

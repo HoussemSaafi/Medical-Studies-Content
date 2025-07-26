@@ -192,10 +192,6 @@ C'est la première étape de la formation des urines qui consiste à faire passe
 
 Elle consiste à ramener la substance de la lumière **tubulaire** vers les **capillaires péritubulaires** (glucose, `Na+`, `HCO3-` ...).
 
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -714,11 +710,6 @@ La filtration glomérulaire baisse ou s'annule quand : (Annexe 1)
 ---
 
 ## Page 23
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
 
 
 ## 2. L'IRA fonctionnelle ou pré-rénale (voir schéma de l'annexe 2)

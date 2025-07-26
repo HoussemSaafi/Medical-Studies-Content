@@ -661,6 +661,3 @@ L'abstention thérapeutique peut être proposée si toutes les conditions suivan
 # CONCLUSION
 
 La **GEU** est l'urgence gynécologique la plus fréquente et la plus grave. Tout médecin, quelque soit sa spécialité, ne doit jamais passer à côté du diagnostic de **GEU**. Le traitement est basé actuellement sur le **méthotrexate** dans `60 %` des cas. Le **gold standard** du traitement chirurgical (`40 %` des cas) est la **cœlioscopie**.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.

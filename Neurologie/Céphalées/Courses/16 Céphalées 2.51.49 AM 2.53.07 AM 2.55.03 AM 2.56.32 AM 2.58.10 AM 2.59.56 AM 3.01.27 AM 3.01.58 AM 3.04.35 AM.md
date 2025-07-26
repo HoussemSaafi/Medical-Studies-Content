@@ -731,9 +731,6 @@ L'examen clinique peut révéler des douleurs à la palpation des muscles cervic
 | :-- | :-- | :-- | :-- |
 | Durée | `4-72 h` | `15 min-3 h` | `30 min-7 jours` |
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

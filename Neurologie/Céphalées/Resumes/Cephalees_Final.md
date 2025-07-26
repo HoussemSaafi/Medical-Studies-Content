@@ -183,9 +183,6 @@
 | **Aspect** | **Description** | **PEC** |
 |------------|-----------------|---------|
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

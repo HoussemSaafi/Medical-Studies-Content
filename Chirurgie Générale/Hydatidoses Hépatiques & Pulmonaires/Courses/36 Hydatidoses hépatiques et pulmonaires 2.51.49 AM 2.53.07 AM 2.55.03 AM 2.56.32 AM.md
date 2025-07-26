@@ -982,11 +982,6 @@ La segmentation scannographique du foie est calquée sur la segmentation fonctio
 - Une coupe horizontale passant par la partie haute du foie permet de montrer les segments supérieurs par rapport aux veines sus-hépatiques (et donc les 4 secteurs) : segments 7 et 8 et la partie haute des segments 2, 3 et 4 (fig. 3).
 
 
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
-
-
 ## **Scanning Techniques**
 
 - Une coupe horizontale passant par la branche porte gauche permet de bien montrer les segments 2, 3 et 4 et le segment 1 (fig. 4)

@@ -1006,9 +1006,6 @@ Elle peut être
 > **Hypothyroïdie post radique (radiothérapie externe cervicale)**:
 Le risque d'**hypothyroïdie** est fonction de la dose administrée.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

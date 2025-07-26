@@ -565,9 +565,6 @@ L'**IS** primaire congénitale est d'installation le plus souvent brutale aigue 
 - La maladie est transmise sur le mode autosomique récessif.
 - Cette forme classique se révèle le plus souvent à la naissance ou chez le jeune enfant.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

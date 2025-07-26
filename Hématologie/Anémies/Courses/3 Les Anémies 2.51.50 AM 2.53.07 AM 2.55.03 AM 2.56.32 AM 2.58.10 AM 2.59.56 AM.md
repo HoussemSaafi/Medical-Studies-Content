@@ -915,9 +915,6 @@ Les formes thérapeutiques stables sont l'**acide folique** et l'**acide foliniq
 
 #### 1.2. Besoins et réserves
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -1252,9 +1249,6 @@ $\rightarrow$ **Traitement** :
 - **Anémies hémolytiques** chroniques
 
 #### b-4 : Carences iatrogènes :
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

@@ -129,9 +129,6 @@ Le bilan des entrées des ions hydrogène est résumé dans le tableau I.
 | Type d'acides | La production cellulaire des produits acides | Alimentation |
 | ------------- | ------------------------------------------- | ------------ |
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -315,9 +312,6 @@ These systems are characterized by:
 
 - A very high concentration in cells allows for significant buffering capacity.
 - A $\mathrm{pK}_{\mathrm{A}}$ close to normal pH, being higher than that of carbonic acid.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

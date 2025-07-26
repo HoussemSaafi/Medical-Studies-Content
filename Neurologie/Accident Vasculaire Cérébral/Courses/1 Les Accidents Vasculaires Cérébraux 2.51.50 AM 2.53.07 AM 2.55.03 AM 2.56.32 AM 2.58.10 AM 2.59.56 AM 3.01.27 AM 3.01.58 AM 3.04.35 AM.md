@@ -764,9 +764,6 @@ Ces symptômes traduisent le plus souvent une **ischémie** du territoire **caro
 
 ### **AIT possible:**
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

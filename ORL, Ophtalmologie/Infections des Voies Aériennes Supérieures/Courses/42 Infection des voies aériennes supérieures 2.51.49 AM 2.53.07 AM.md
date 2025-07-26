@@ -736,9 +736,6 @@ Suite à un barotraumatisme sinusien (accident de plongée ou d'aviation) ou à 
 
 L'agent infectieux déclencheur de la sinusite est habituellement un virus (rhinovirus, myxovirus, adénovirus).
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -1159,9 +1156,6 @@ Les antalgiques en association avec des vasoconstricteurs locaux (durée maximal
 Les corticoïdes par voie orale peuvent être utiles en cure courte (durée maximale : 7 jours), en traitement adjuvant à une **antibiothérapie** efficace afin de diminuer l'inflammation muqueuse et améliorer le drainage sinusien.
 
 > **Note:** L'utilité des anti-inflammatoires non stéroïdiens à dose anti-inflammatoire n'est pas démontrée ; ils pourraient par ailleurs favoriser la diffusion de l'infection sous forme de cellulite ou de fasciite de la face ou du cou, prélude à une possible médiastinite.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 
@@ -1587,9 +1581,6 @@ Le traitement se fait en ambulatoire si l'évolution est favorable sous **cortic
 
   - `0.5 ml/kg` de solution à **1/1000** diluée dans **4 ml** de sérum physiologique
   - `0.05 ml/kg` de solution à **1/1000** diluée dans **4 ml** de sérum physiologique
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

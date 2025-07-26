@@ -166,9 +166,6 @@ Il existe trois modes de contamination principaux du **VHB** : parentérale (san
 
 ## a. Par voie parentérale (sanguine)
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

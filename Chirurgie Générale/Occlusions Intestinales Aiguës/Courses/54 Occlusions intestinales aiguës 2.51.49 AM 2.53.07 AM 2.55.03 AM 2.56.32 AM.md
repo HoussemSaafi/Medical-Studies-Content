@@ -138,15 +138,6 @@ L'anse est distendue, ses parois sont amincies, blanchâtres et lisses. La paroi
 
 ### 3. Stade de nécrose :
 
-> **Note**: The third stage is implied but not explicitly described in the original text. If more details are provided, they can be added here.
-
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
-
-
 L'anse est inerte, ecchymotique, rouge foncé puis violacée. La paroi intestinale est alourdie, infiltrée par l'extravasation sanguine. À ce stade, et en **per-opératoire** se pose le diagnostic de **vitalité** de l'anse et par conséquent la conservation ou la **résection intestinale**.
 
 ---

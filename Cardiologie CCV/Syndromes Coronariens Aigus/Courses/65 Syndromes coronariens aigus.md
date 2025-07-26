@@ -907,12 +907,6 @@ C'est un inhibiteur direct et réversible du récepteur P2Y12 (n'a pas besoin d'
 
 ### Cangrelor
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
-
-
 # Le Cangrelor
 
 **Le cangrelor** est un inhibiteur direct réversible à courte durée d'action des récepteurs **P2Y12** administré par voie intra-veineuse. Il peut être envisagé chez les patients qui n'ont pas reçu d'inhibiteurs des récepteurs **P2Y12** et subissant une **ICP**.

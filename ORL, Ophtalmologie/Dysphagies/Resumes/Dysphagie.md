@@ -189,9 +189,6 @@ Le patient a attendu ou a bu de l'eau pour être soulagé‖ est contraint de s�
 1. **Tumeurs** du pharynx : (Bénigne ou maligne)
    - Terrain : Alcoolo-tabagique
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

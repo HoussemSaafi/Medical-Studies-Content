@@ -80,9 +80,6 @@ L'**œsophage** présente à décrire :
 
 **Fig. 3.** Rétrécissements de l'**œsophage**.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -148,9 +145,6 @@ La **jonction pharyngo-œsophagienne** est une zone de transition entre le phary
 ## Page 7
 
 - un triangle inférieur, en-dessous du muscle crico-pharyngien constituant le point de faiblesse anatomique ${ }^{7}$, et recouvert de fibres musculaires lisses circulaires de la paroi œsophagienne.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

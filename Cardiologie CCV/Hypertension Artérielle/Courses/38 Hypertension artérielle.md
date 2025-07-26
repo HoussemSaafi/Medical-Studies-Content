@@ -598,11 +598,6 @@ En cas de **pression artérielle** `≥ 180 / 110 mmHg`, il est recommandé de c
 
 Il est recommandé que le diagnostic d'**hypertension** soit basé sur (ESH/ESC 2018):
 
-> **Note**: Ensure that all measurements are taken in a controlled environment for accurate diagnosis.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

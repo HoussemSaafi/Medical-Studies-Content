@@ -478,9 +478,6 @@ Possible devant une **GEU arrêtée** (clinique, biologique et écho)
 #### **β-HCG :**
 Après un **TTT conservateur**, car :
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

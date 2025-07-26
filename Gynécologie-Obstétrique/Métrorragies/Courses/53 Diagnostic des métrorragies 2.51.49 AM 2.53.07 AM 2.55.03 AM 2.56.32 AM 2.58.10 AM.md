@@ -622,8 +622,3 @@ Le choix de la technique dépend des antécédents obstétricaux de la patiente,
 - **Hystérectomie d'hémostase** : représente l'intervention ultime, et radicale. Elle est réservée à un échec du traitement conservateur/chirurgical ou radiologique ou lorsque la patiente présente un état hémodynamique difficilement contrôlable avec échec des traitements médicaux ou en cas de rupture utérine complexe.
 
 ---
-
-## Page 17
-
-
-This formatting improves readability while preserving all the original content exactly as provided.

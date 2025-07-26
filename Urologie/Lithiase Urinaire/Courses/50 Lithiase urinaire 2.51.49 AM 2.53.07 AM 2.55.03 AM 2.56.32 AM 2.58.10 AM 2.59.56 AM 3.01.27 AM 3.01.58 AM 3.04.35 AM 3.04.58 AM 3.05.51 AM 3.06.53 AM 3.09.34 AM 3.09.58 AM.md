@@ -1214,7 +1214,3 @@ $\mathrm{N}^{\circ}$ Validation : 0650202252
 | | | Résistant à la **LEC** | | | Résistant à la **LEC** | |
 
 > **Note**: **LEC** stands for **Lithotripsie extracorporelle**.
-
-
-
-This formatting improves readability while preserving all the original content exactly as provided.

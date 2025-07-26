@@ -231,9 +231,6 @@ This formatting improves readability while preserving all the original content.
 - Le groupe **A** comporte 2 sous-groupes : **A1** et **A2**. 80% des sujets de **GS A** sont **A1** et 20% sont **A2**.
 - On distingue également 2 sous-groupes **A1B** et **A2B** au sein du groupe **AB**.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 

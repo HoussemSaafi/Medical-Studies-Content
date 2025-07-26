@@ -89,14 +89,14 @@ Quelques éléments sémiologiques, permettant de distinguer les **purpuras hém
 ### Tableau 1 : Eléments Distinctifs entre **purpura vasculaire** et **purpura thrombopénique**
 
 | **Purpura Thrombopénique** | **Purpura Vasculaire** |
-| :--: | :--: |
-| Monomorphe | Polymorphe |
-| Non infiltré | Infiltré et palpable |
-| Non Nécrotique | Parfois Nécrotique |
-| Diffus | Déclive |
-| Cutané et Muqueux | Cutané |
+|----------------------------|-----------------------|
+| Monomorphe                 | Polymorphe            |
+| Non infiltré               | Infiltré et palpable  |
+| Non Nécrotique             | Parfois Nécrotique    |
+| Diffus                     | Déclive               |
+| Cutané et Muqueux          | Cutané                |
 | Syndrome hémorragique associé <br> (gingivorragie - épistaxis) | Pas de Syndrome hémorragique |
-| Poussée Unique | Plusieurs poussées |
+| Poussée Unique             | Plusieurs poussées    |
 
 ---
 
@@ -137,12 +137,12 @@ Les éléments de gravité d'un **purpura** doivent être identifiés à partir 
 
 ### Tableau 2 : score hémorragique de **Buchanan**
 
-|  | **Grade 0** | **Grade 1** (mineur) | **Grade 2** (moyen) | **Grade 3** (modéré) | **Grade 4** (sévère) | **Grade 5** (pronostic vital en jeu) |
-| :-- | :--: | :-- | :-- | :-- | :-- | :-- |
-| **Peau** | - | Rares pétéchies ou ecchymoses | pétéchies ou ecchymoses indiscutables | Nombreuses pétéchies et ecchymoses | Pétéchies et ecchymoses extensives | - |
-| **Epistaxis** | - | Sang dans une narine | **Epistaxis** `≤ 15` minutes | **Epistaxis** **15** minutes | **Epistaxis** répétées | - |
-| **Buccal** | - | Pétéchies du palais | Bulles sans saignement actif | Saignement actif intermittent | Saignement actif continue | - |
-| **Global** | - | Quelques lésions hémorragiques cutanées sans lésions muqueuses | Lésions hémorragiques cutanées modérées à sévères mais sans saignement muqueux | Saignement muqueux ne demandant pas d'intervention médicale | Saignement muqueux actif ou suspicion de saignement profond nécessitant une intervention médicale | Saignement documenté du système nerveux central ou hémorragie fatale dans n'importe quel site |
+|                      | **Grade 0** | **Grade 1** (mineur) | **Grade 2** (moyen) | **Grade 3** (modéré) | **Grade 4** (sévère) | **Grade 5** (pronostic vital en jeu) |
+|----------------------|:-----------:|:---------------------|:--------------------|:---------------------|:---------------------|:-------------------------------------|
+| **Peau**             | -           | Rares pétéchies ou ecchymoses | pétéchies ou ecchymoses indiscutables | Nombreuses pétéchies et ecchymoses | Pétéchies et ecchymoses extensives | -                                   |
+| **Epistaxis**        | -           | Sang dans une narine | **Epistaxis** `≤ 15` minutes | **Epistaxis** **15** minutes | **Epistaxis** répétées | -                                   |
+| **Buccal**           | -           | Pétéchies du palais  | Bulles sans saignement actif | Saignement actif intermittent | Saignement actif continue | -                                   |
+| **Global**           | -           | Quelques lésions hémorragiques cutanées sans lésions muqueuses | Lésions hémorragiques cutanées modérées à sévères mais sans saignement muqueux | Saignement muqueux ne demandant pas d'intervention médicale | Saignement muqueux actif ou suspicion de saignement profond nécessitant une intervention médicale | Saignement documenté du système nerveux central ou hémorragie fatale dans n'importe quel site |
 
 ---
 
@@ -154,12 +154,12 @@ Risque fonctionnel ou vital immédiat si grade `≥ 8`
 
 ### Tableau 3: score hémorragique de **Créteil** (permet de guider la prescription d'**immunoglobulines intraveineuses**)
 
-| **Age** |  | **Saignement gastrointestinal** |  |
-| :--: | :--: | :--: | :--: |
-| **Age** **> 65** ans | 2 | Saignement digestif sans anémie | 4 |
-| **Age** **> 75** ans | 5 | Saignement digestif avec anémie (perte de plus de 2 g d'**hémoglobine**) et/ou choc | 15 |
-| **Saignement cutané** |  | **Saignement urinaire** |  |
-| **Purpura** pétéchial localisé (membres) | 1 | **Hématurie** macroscopique sans anémie | 4 |
+| **Âge**                                 | Score | **Saignement gastrointestinal**                                                                 | Score |
+|------------------------------------------|:-----:|-----------------------------------------------------------------------------------------------|:-----:|
+| **Âge > 65 ans**                        |   2   | Saignement digestif sans anémie                                                               |   4   |
+| **Âge > 75 ans**                        |   5   | Saignement digestif avec anémie (perte de plus de 2 g d'**hémoglobine**) et/ou choc           |  15   |
+| **Saignement cutané**                    |       | **Saignement urinaire**                                                                       |       |
+| **Purpura pétéchial localisé (membres)** |   1   | **Hématurie** macroscopique sans anémie                                                       |   4   |
 
 
 ---
@@ -240,17 +240,17 @@ Indépendamment de la cause, une **thrombopénie** peut provoquer un **syndrome 
 
 ### Tableau 2 : Médicaments pouvant entraîner une thrombopénie
 
-| **Par mécanisme immunoallergique** | | **Par cytotoxicité directe** |
-| :-- | :-- | :-- |
-| aspirine | pénicillamine | |
-| céphalosporines | pénicilline | diurétiques thiazidiques |
-| chlorpromazine | phénothiazine | phénylbutazone |
-| digitoxine | phénylbutazone | |
-| glycopeptides | quinine - quinidine | |
-| héparine | rifampicine | |
-| hydantoïnes | sels d'or | |
-| isoniazide | sulfamides | |
-| méprobamate | | |
+| **Par mécanisme immunoallergique** |  | **Par cytotoxicité directe**         |
+|:------------------------------------|:-------------------------------------|:-------------------------------------|
+| aspirine                            | pénicillamine                        |                                      |
+| céphalosporines                     | pénicilline                          | diurétiques thiazidiques             |
+| chlorpromazine                      | phénothiazine                        | phénylbutazone                       |
+| digitoxine                          | phénylbutazone                       |                                      |
+| glycopeptides                       | quinine - quinidine                  |                                      |
+| héparine                            | rifampicine                          |                                      |
+| hydantoïnes                         | sels d'or                            |                                      |
+| isoniazide                          | sulfamides                           |                                      |
+| méprobamate                         |                                      |                                      |
 
 ## Allo-immune
 
@@ -711,9 +711,6 @@ Doit préciser :
 - Les comportements sexuels à risque et la consommation de toxiques (alcool, toxicomanie)
 - La profession et l'exposition éventuelle à des toxiques
 - Tout voyage récent dans un pays tropical (paludisme)
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

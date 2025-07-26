@@ -177,12 +177,6 @@ Le déplacement vers la droite de sa courbe de dissociation signifie que l'**hé
 
 ## Page 5
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
----
-
-markdown
 Le $\mathrm{CO}_{2}$ est le produit final du métabolisme cellulaire. $\mathrm{Le}_{\mathrm{CO}_{2}}$ est 24 fois plus soluble dans l'eau que l'O2 et sa capacité de diffusion est 20 fois supérieure. Mais la plus grande quantité de $\mathrm{CO}_{2}$ stockée dans l'organisme l'est sous forme de **carbonates** et **bicarbonates** de calcium dans les os. De façon aiguë le $\mathrm{CO}_{2}$ sanguin se répartit de façon variable et réversible entre **plasma** et **érythrocytes** qui, ensemble, assurent son transport des tissus vers les poumons.
 
 Environ 5% du $\mathrm{CO}_{2}$ sont dissous dans l'eau du plasma et 5% supplémentaires sont présents dans le plasma liés aux terminaisons NH2 des protéines pour former des **carbamates**. Le reste (90%) est présent sous forme d'ions **bicarbonates**.
@@ -599,9 +593,6 @@ Après absorption, de nombreux **organophosphorés** doivent être activés par 
 ## Page 20
 
 (récepteurs **nicotiniques**), des fibres postganglionnaires du **système parasympathique** (récepteurs **muscariniques**, inhibés par l'**atropine**) et du **système nerveux central**.
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

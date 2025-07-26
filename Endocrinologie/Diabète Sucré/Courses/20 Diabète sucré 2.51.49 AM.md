@@ -756,9 +756,6 @@ Ce stade est caractérisé par l'installation de signes respiratoires sine mater
 
 ## Page 20
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
@@ -2118,9 +2115,6 @@ Deux ordres de conseils doivent être donnés : les gestes à éviter et ceux qu
 ---
 
 ## Page 50
-
-
-This formatting improves readability while preserving all the original content exactly as provided.
 
 ---
 

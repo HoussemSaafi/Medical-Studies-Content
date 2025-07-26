@@ -1135,12 +1135,8 @@ d. **Les sujets à bas risque** sont ceux dont l'équation **SCORE** donne un r�
 
 Une prise en charge nutritionnelle rigoureuse et adaptée, doit être mise en place pour chaque patient, quel que soit le niveau de risque.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
-markdown
 # Prévention Primaire
 
 En prévention primaire, les mesures **hygiéno-diététiques** doivent être initiées seules pendant au moins 3 mois.

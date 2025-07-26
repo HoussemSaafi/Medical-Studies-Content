@@ -302,9 +302,6 @@ La persistance de l'inflammation pulmonaire entraîne des modifications structur
 
 > **Note:** The persistence of pulmonary inflammation can lead to irreversible structural changes in the lungs, significantly impacting respiratory function.
 
-
-This formatting improves readability while preserving all the original content exactly as provided.
-
 ---
 
 
