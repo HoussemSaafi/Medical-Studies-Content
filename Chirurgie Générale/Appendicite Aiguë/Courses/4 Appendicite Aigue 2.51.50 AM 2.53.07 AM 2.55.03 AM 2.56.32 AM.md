@@ -190,13 +190,14 @@ L'inflammation va progressivement s'étendre aux 4 couches pariétales et entrai
 
 ### Tableau 1 : Les formes anatomo-pathologiques d'appendicite aigue
 
-| **Formes non compliquées** (80% des cas) | **Appendicite catarrhale** | Infiltration et atteinte isolée de la muqueuse |
-|-----------------------------------------|-----------------------------|-----------------------------------------------|
-|                                         | **Appendicite suppurée**    | Abcès intra-pariétaux et fausses membranes péri-appendiculaires |
-|                                         | **Appendicite gangréneuse** | Nécrose de la paroi |
-| **Formes compliquées** (20% des cas)   | **Abcès appendiculaire**     | Inaugural ou compliquant une appendicite gangréneuse/suppurée |
-|                                         | **Péritonite appendiculaire** | Infection diffuse généralisée de la cavité abdominale d'emblée par perforation appendiculaire, par diffusion de l'infection ou par rupture d'un abcès appendiculaire |
-| **Formes particulières**               | **Plastron appendiculaire**  | Masse diffuse en FIDt infiltrant des structures de voisinage (iléon, côlon, grand omentum, paroi abdominale) |
+| **Catégorie**                           | **Forme**                      | **Description**                                                                                                                                         |
+|------------------------------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Formes non compliquées** (80% des cas) | **Appendicite catarrhale**      | Infiltration et atteinte isolée de la muqueuse                                                                                                          |
+|                                          | **Appendicite suppurée**        | Abcès intra-pariétaux et fausses membranes péri-appendiculaires                                                                                        |
+|                                          | **Appendicite gangréneuse**     | Nécrose de la paroi                                                                                                                                    |
+| **Formes compliquées** (20% des cas)     | **Abcès appendiculaire**        | Inaugural ou compliquant une appendicite gangréneuse/suppurée                                                                                          |
+|                                          | **Péritonite appendiculaire**   | Infection diffuse généralisée de la cavité abdominale d'emblée par perforation appendiculaire, par diffusion de l'infection ou par rupture d'un abcès appendiculaire |
+| **Formes particulières**                 | **Plastron appendiculaire**     | Masse diffuse en FIDt infiltrant des structures de voisinage (iléon, côlon, grand omentum, paroi abdominale)                                           |
 
 # 4. Examen Clinique
 

@@ -684,10 +684,10 @@ Plusieurs éléments diagnostiques et définitions de l'insuffisance rénale aig
 ### Tableau 1: Classification de l'insuffisance rénale aiguë selon les recommandations internationales **KDIGO** 2012
 
 | Le stade de l'**IRA** | La créatininémie | La diurèse |
-| --- | --- | --- |
-| Stade 1 | Augmentation `>26 μmol/L (3 mg/L)` en 48 heures ou `>50%` en 7 jours | `<0,5 ml/kg/h` pendant 6 à 12 h |
-| Stade 2 | Créatininémie `x 2` en 7 jours | `<0,5 ml/kg/h ≥ 12 h` |
-| Stade 3 | Créatininémie `x 3` en 7 jours ou créatininémie `>354 μmol/L (40 mg/L)` en l'absence de valeur antérieure ou nécessité de dialyse | `<0,3 ml/kg/h ≥ 24 h` ou anurie `≥ 12 h` |
+|-----------------------|------------------|------------|
+| Stade 1               | Augmentation `>26 μmol/L (3 mg/L)` en 48 heures ou `>50%` en 7 jours | `<0,5 ml/kg/h` pendant 6 à 12 h |
+| Stade 2               | Créatininémie `x 2` en 7 jours | `<0,5 ml/kg/h ≥ 12 h` |
+| Stade 3               | Créatininémie `x 3` en 7 jours ou créatininémie `>354 μmol/L (40 mg/L)` en l'absence de valeur antérieure ou nécessité de dialyse | `<0,3 ml/kg/h ≥ 24 h` ou anurie `≥ 12 h` |
 
 ---
 
@@ -889,12 +889,12 @@ Schématiquement, de nombreux points opposent ces 2 entités (tableau 2) mais il
 
 ### Tableau 2 : Principaux signes distinctifs entre **insuffisance rénale aiguë** et **insuffisance rénale chronique**
 
-| Signes distinctifs | **IRA** | **IRC** |
-| :-- | :-- | :-- |
-| Installation de l'**IR** | Rapide (heures, jours ou semaines) | Lente (mois, années) |
-| **Anémie** | Habituellement absente | Souvent présente |
-| **Hypocalcémie** | Absente | Présente |
-| Taille des reins à l'**échographie** | Conservée | Diminuée |
+| Signes distinctifs                        | **IRA**                                 | **IRC**                |
+|-------------------------------------------|-----------------------------------------|------------------------|
+| Installation de l'**IR**                  | Rapide (heures, jours ou semaines)      | Lente (mois, années)   |
+| **Anémie**                               | Habituellement absente                  | Souvent présente       |
+| **Hypocalcémie**                         | Absente                                 | Présente               |
+| Taille des reins à l'**échographie**      | Conservée                               | Diminuée               |
 
 - Une **IRA** peut survenir chez des patients ayant une **IRC**, par exemple après une injection de produits de contraste iodés ou lors de la prise d'**anti-inflammatoires non stéroïdiens**.
 - L'**IRA** peut être associée à une **anémie**, en cas d'**hémolyse aiguë** ou de **choc hémorragique** eux-mêmes pouvant être à l'origine de l'**IRA**.
@@ -1272,12 +1272,12 @@ Une élévation inhabituellement rapide de la **kaliémie**, de la **phosphorém
 
 ### Tableau 6: Principales causes d'IRA par **nécroses tubulaires aiguës**
 
-| Mécanisme                          | Causes                                                                 |
-|------------------------------------|-----------------------------------------------------------------------|
-| **Ischémiques** par choc           | Septique, hypovolémique, hémorragique, anaphylactique, cardiogénique |
-| **Toxicité** tubulaire directe     | **Aminosides**, Produits de contraste iodés, **AINS**, **Cisplatine**, **Amphotéricine B**, **Céphalosporines** (1ère génération) |
-| **Précipitation** intratubulaire   | Chaînes légères d'immunoglobulines (**myélome**), **Myoglobine** (**rhabdomyolyse**), **Hémoglobine** (**hémolyse**), Syndrome de lyse tumorale, Médicaments: **Acyclovir**, inhibiteurs des protéases, **Méthotrexate**, Sulfamides, anti-rétroviraux |
-| **Autres**                         | - **CIVD** <br> - **Pancréatite** aiguë |
+| Mécanisme                        | Causes                                                                                                                                                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ischémiques** par choc         | Septique, hypovolémique, hémorragique, anaphylactique, cardiogénique                                                                                                                                  |
+| **Toxicité** tubulaire directe   | **Aminosides**, Produits de contraste iodés, **AINS**, **Cisplatine**, **Amphotéricine B**, **Céphalosporines** (1ère génération)                                                                    |
+| **Précipitation** intratubulaire | Chaînes légères d'immunoglobulines (**myélome**), **Myoglobine** (**rhabdomyolyse**), **Hémoglobine** (**hémolyse**), Syndrome de lyse tumorale, Médicaments: **Acyclovir**, inhibiteurs des protéases, **Méthotrexate**, Sulfamides, anti-rétroviraux |
+| **Autres**                       | - **CIVD**<br>- **Pancréatite** aiguë                                                                                                                                                                 |
 
 ---
 

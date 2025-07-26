@@ -277,7 +277,7 @@ Des examens fongiques, parasitaires et virologiques pourront également être r�
 ### Tableau 2. Démarche diagnostique devant une adénopathie en fonction de la localisation
 
 | Aire ganglionnaire | Infections | Tumeurs | IMMUNOLOGIQUE |
-| :--: | :--: | :--: | :--: |
+|--------------------|------------|---------|---------------|
 | **Sous-mandibulaire** | - Cavité buccale <br> - Lèvres, fosses nasales | - Sphère ORL <br> (oropharynx, langue,...) |  |
 | **Cervicale** | - Scalp, cou, dents <br> - **Viroses** (CMV, EBV) <br> - **Toxoplasmose** <br> - **Maladie des griffes de chat** <br> - **Tuberculose** | - Base de langue <br> - Pharynx <br> - Larynx <br> - Cavum <br> - **Thyroïde** <br> - **Glandes salivaires** <br> - **Lymphome** | - **MALADIE DE KIKUCHI** |
 | **Occipitale** | - Scalp <br> - Piqûre infectée |  |  |

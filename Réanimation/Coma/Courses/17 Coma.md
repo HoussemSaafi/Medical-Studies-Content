@@ -270,23 +270,23 @@ Pour cela, de multiples échelles ont été développées. Certaines sont trop c
 
 ### Tableau 1 : Score de Glasgow (GCS)
 
-| Item                | Clinique                          | Score |
-| :------------------ | :-------------------------------- | :---- |
-| Ouverture des yeux  | Spontanée                        | 4     |
-|                     | À l'appel                         | 3     |
-|                     | À la douleur                      | 2     |
-|                     | Aucune                            | 1     |
-| Réponse motrice     | Obéit à l'ordre                   | 6     |
-|                     | Localise la douleur               | 5     |
-|                     | Réaction d'évitement à la douleur adaptée | 4     |
-|                     | Flexion inadaptée                 | 3     |
-|                     | Extension                         | 2     |
-|                     | Aucune                            | 1     |
-| Réponse verbale     | Claire et adaptée                 | 5     |
-|                     | Confuse                           | 4     |
-|                     | Incohérente mais compréhensible  | 3     |
-|                     | Incompréhensible                  | 2     |
-|                     | Aucune                            | 1     |
+| Item                | Clinique                                   | Score |
+|---------------------|--------------------------------------------|-------|
+| Ouverture des yeux  | Spontanée                                  | 4     |
+| Ouverture des yeux  | À l'appel                                  | 3     |
+| Ouverture des yeux  | À la douleur                               | 2     |
+| Ouverture des yeux  | Aucune                                     | 1     |
+| Réponse motrice     | Obéit à l'ordre                            | 6     |
+| Réponse motrice     | Localise la douleur                        | 5     |
+| Réponse motrice     | Réaction d'évitement à la douleur adaptée  | 4     |
+| Réponse motrice     | Flexion inadaptée                          | 3     |
+| Réponse motrice     | Extension                                  | 2     |
+| Réponse motrice     | Aucune                                     | 1     |
+| Réponse verbale     | Claire et adaptée                          | 5     |
+| Réponse verbale     | Confuse                                    | 4     |
+| Réponse verbale     | Incohérente mais compréhensible            | 3     |
+| Réponse verbale     | Incompréhensible                           | 2     |
+| Réponse verbale     | Aucune                                     | 1     |
 
 Pour éviter des erreurs d'évaluation, il est important de connaître les conditions et les limites de la mesure du **score de Glasgow**. Il faut tout d'abord éliminer un déficit neurosensoriel ou une altération périphérique de la commande : surdité, cécité, tétraplégie, en particulier. De la même façon, pour évaluer la réponse verbale, il faut bien entendu que le sujet ait été capable au préalable de s'exprimer verbalement, dans un langage compréhensible par l'examinateur. Lorsqu'il existe une asymétrie de la réponse motrice, on choisit toujours la meilleure réponse motrice pour la cotation. Cette réponse doit être recherchée au niveau du membre supérieur placé en flexion sur le tronc.
 

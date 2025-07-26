@@ -635,15 +635,15 @@ Une fois le diagnostic d'**HTA** est posé, il est recommandé de la classer en 
 
 ### Tableau n°1 : Classification de l'HTA
 
-| Catégorie                | **PA systolique** <br> (mmHg) | **PA diastolique** <br> (mmHg) |
-|--------------------------|:------------------------:|:------------------------:|
-| **PA optimale**          | < 120 et                  | < 80                     |
-| **PA normale**           | 120-129 et/ou             | 80-84                    |
-| **PA normale haute**     | 130-139 et/ou             | 85-89                    |
-| **Hypertension grade 1** | 140-159 et/ou             | 90-99                    |
-| **Hypertension grade 2** | 160-179 et/ou             | 100-109                  |
-| **Hypertension grade 3** | ≥ 180 et/ou               | ≥ 110                    |
-| **HTA systolique isolée**| ≥ 140 et                  | < 90                     |
+| Catégorie                  | **PA systolique** <br> (mmHg) | **PA diastolique** <br> (mmHg) |
+|----------------------------|:-----------------------------:|:------------------------------:|
+| **PA optimale**            | < 120 et                      | < 80                           |
+| **PA normale**             | 120-129 et/ou                 | 80-84                          |
+| **PA normale haute**       | 130-139 et/ou                 | 85-89                          |
+| **Hypertension grade 1**   | 140-159 et/ou                 | 90-99                          |
+| **Hypertension grade 2**   | 160-179 et/ou                 | 100-109                        |
+| **Hypertension grade 3**   | ≥ 180 et/ou                   | ≥ 110                          |
+| **HTA systolique isolée**  | ≥ 140 et                      | < 90                           |
 
 * Il s'agit des pressions des sujets adultes de 18 ans ou plus.
 
@@ -1374,11 +1374,11 @@ La classification de **Kirkendall** établie par le fond d'œil, permet de faire
 
 ### Tableau n° 3 : Classification de Kirkendall
 
-| Stade | Lésions aigues : **Rétinopathie hypertensive** | Lésions chroniques : **Artériosclérose** |
-| :---: | :---: | :---: |
-| **Stade I** | Rétrécissement artériel diffus | Signe de croisement artério-veineux |
-| **Stade II** | Hémorragies, nodules, exsudats cotonneux | Rétrécissement artériel localisé |
-| **Stade III** | **Edème papillaire** | Signe de pré occlusion veineuse |
+| Stade        | Lésions aigues : **Rétinopathie hypertensive** | Lésions chroniques : **Artériosclérose**         |
+|:------------:|:----------------------------------------------:|:------------------------------------------------:|
+| **Stade I**  | Rétrécissement artériel diffus                 | Signe de croisement artério-veineux              |
+| **Stade II** | Hémorragies, nodules, exsudats cotonneux       | Rétrécissement artériel localisé                 |
+| **Stade III**| **Edème papillaire**                          | Signe de pré occlusion veineuse                  |
 
 ---
 

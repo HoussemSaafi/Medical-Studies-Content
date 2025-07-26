@@ -352,13 +352,13 @@ Initialement, les chiffres de **pression artérielle** sont maintenus par la mis
 
 ### Tableau I. Signes cliniques en fonction de la quantité de sang perdue (pour un patient de 70 Kg, ayant un volume sanguin de 5 litres) d'après [7].
 
-| Pertes (% volume sanguin) | Quantité | Signes cliniques |
-|---------------------------|----------|-------------------|
-| 10%                       | 500 ml  | éventuellement **hypotension orthostatique** (cf donneur de sang) |
-| 20%                       | 1000 ml | **tachycardie**, **hypotension orthostatique**, pouls capillaire ralenti |
-| 30%                       | 1500 ml | **tachycardie**, **hypotension légère** à modérée |
-| 40%                       | 2000 ml | pouls filant, bas débit cardiaque, **hypotension sévère**, **tachypnée** |
-| 50%                       | 2500 ml | **collapsus sévère**, décès |
+| Pertes (% volume sanguin)      | Quantité  | Signes cliniques                                                                                  |
+|-------------------------------|-----------|---------------------------------------------------------------------------------------------------|
+| 10%                           | 500 ml    | éventuellement **hypotension orthostatique** (cf donneur de sang)                                 |
+| 20%                           | 1000 ml   | **tachycardie**, **hypotension orthostatique**, pouls capillaire ralenti                          |
+| 30%                           | 1500 ml   | **tachycardie**, **hypotension légère** à modérée                                                 |
+| 40%                           | 2000 ml   | pouls filant, bas débit cardiaque, **hypotension sévère**, **tachypnée**                          |
+| 50%                           | 2500 ml   | **collapsus sévère**, décès                                                                       |
 
 Les **cristalloïdes** (sérum salé isotonique (NaCl 0,9%)) sont actuellement les solutés de remplissage de choix. Les études ont montré la supériorité des **cristalloïdes** par rapport aux **colloïdes** en termes de mortalité, d'aggravation de la fonction rénale et de surcout. Le sérum salé hypertonique à **7,5%** est recommandé à la dose de 250 ml en bolus non renouvelable dans les traumatismes crâniens avec choc hémorragique. Il a l'avantage d'avoir un pouvoir d'expansion à **800%**.
 

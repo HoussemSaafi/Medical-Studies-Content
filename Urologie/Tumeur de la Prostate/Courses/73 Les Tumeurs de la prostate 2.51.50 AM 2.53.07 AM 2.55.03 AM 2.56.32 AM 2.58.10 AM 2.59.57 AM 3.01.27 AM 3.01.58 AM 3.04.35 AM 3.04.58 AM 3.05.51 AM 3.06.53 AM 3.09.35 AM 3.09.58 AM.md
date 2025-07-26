@@ -2627,10 +2627,10 @@ Le **cabazitaxel** représente le **traitement standard** de **chimiothérapie**
 ### Tableau 2 : Indications du Traitement du Cancer de la Prostate
 
 | **STADES NON METASTATIQUES ET ESPERANCE DE VIE > 10 ANS** |
-| :--: |
-| **Tumeur localisée à faible risque** |
+|-----------------------------------------------------------|
+| **Tumeur localisée à faible risque**                      |
 | - **Traitement immédiat** : <br>   - prostatectomie <br>   - ou curiethérapie <br>   - ou radiothérapie externe <br> - **Traitement différé** à discuter dans des situations particulières : « surveillance active » |
-| **Tumeur localisée à risque intermédiaire** |
+| **Tumeur localisée à risque intermédiaire**                |
 | - **Traitement immédiat** : <br>   - prostatectomie (curage ganglionnaire recommandé) <br>   - ou radiothérapie externe** en association à une hormonothérapie courte (intermédiaire défavorable) |
 
 

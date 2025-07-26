@@ -1508,13 +1508,13 @@ Le trouble peut être :
 
 ### Tableau III : Principales étiologies des AVC ischémiques selon l'âge
 
-| Sujet jeune | Sujet âgé |
-| :---------- | :-------- |
-| - **Malformations vasculaires** | - **HTA** |
-| - **HTA** | - **Angiopathie amyloïde** (hématome lobaire) |
-| - **Tumeur cérébrale** | - **Tumeur cérébrale** |
-| - **Angéites cérébrales** | - **AVK** |
-| - **Anomalies de l'hémostase** : **AVK** |  |
+| Sujet jeune                                   | Sujet âgé                                         |
+| ---------------------------------------------- | ------------------------------------------------- |
+| - **Malformations vasculaires**                | - **HTA**                                         |
+| - **HTA**                                     | - **Angiopathie amyloïde** (hématome lobaire)     |
+| - **Tumeur cérébrale**                         | - **Tumeur cérébrale**                            |
+| - **Angéites cérébrales**                      | - **AVK**                                         |
+| - **Anomalies de l'hémostase** : **AVK**       |                                                   |
 
 ---
 

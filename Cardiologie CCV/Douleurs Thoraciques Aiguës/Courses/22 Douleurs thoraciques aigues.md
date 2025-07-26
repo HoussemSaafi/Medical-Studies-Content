@@ -775,17 +775,18 @@ Les avantages et limites des différents examens d'imagerie est résumée dans l
 
 ### Tableau 2 : Avantages et limites des différents examens d'imagerie
 
-| Avantages/désavantages | ETT | ETO | Scanner | IRM | Aortographie |
-| :-- | :--: | :--: | :--: | :--: | :--: |
-| Facilité | +++ | ++ | +++ | ++ | + |
-| Fiabilité du diagnostic | + | +++ | +++ | +++ | ++ |
-| Utilisation au lit du malade/en salle de radiologie interventionnelle | ++ | ++ | - | - | ++ |
-| Répétition des examens | ++ | + | ++(+) | +++ | - |
-| Visualisation de la paroi aortique | + | +++ | +++ | +++ | - |
-| Coût | - | - | - | - | - |
-| Radiations | 0 | 0 | -- | - | -- |
-| Néphrotoxicité | 0 | 0 | -- | - | -- |
-| + : aspect positif ; - : aspect négatif |  |  |  |  |  |
+| Avantages/désavantages                                         | ETT  | ETO  | Scanner | IRM  | Aortographie |
+| -------------------------------------------------------------- | :--: | :--: | :-----: | :--: | :----------: |
+| Facilité                                                       | +++  | ++   | +++     | ++   | +            |
+| Fiabilité du diagnostic                                        | +    | +++  | +++     | +++  | ++           |
+| Utilisation au lit du malade / en salle de radiologie interventionnelle | ++   | ++   | -       | -    | ++           |
+| Répétition des examens                                         | ++   | +    | ++(+)   | +++  | -            |
+| Visualisation de la paroi aortique                             | +    | +++  | +++     | +++  | -            |
+| Coût                                                           | -    | -    | -       | -    | -            |
+| Radiations                                                     | 0    | 0    | --      | -    | --           |
+| Néphrotoxicité                                                 | 0    | 0    | --      | -    | --           |
+
+> + : aspect positif ; - : aspect négatif
 
 # 1.2.4. La démarche diagnostique
 
@@ -793,9 +794,9 @@ La démarche diagnostique devant une suspicion de **DAA** dépend de la probabil
 
 ### Tableau 3 : Données cliniques pour l'évaluation de la probabilité d'une DAA
 
-| Conditions à haut risque | Caractéristiques à haut risque de la douleur | Données à haut risque à l'examen clinique |
-| :--: | :--: | :--: |
-| **Syndrome de Marfan** (ou autre maladie du tissu conjonctif) <br> - Antécédent familial de maladie aortique <br> - **Valvulopathie aortique** connue <br> - **AAT** connu <br> - Antécédent de geste sur l'aorte (y compris chirurgie cardiaque) | **Douleur** dans le thorax, le dos ou l'abdomen, avec au moins un des éléments suivants: <br> - début brutal <br> - intensité élevée <br> - type : déchirure | - **Défaut de perfusion** : <br> - absence d'un pouls <br> - asymétrie tensionnelle <br> - déficit neurologique focal <br> - **Souffle d'insuffisance aortique** (nouveau et avec douleur) <br> - **Hypotension** ou choc |
+| Conditions à haut risque                                                                                                                                         | Caractéristiques à haut risque de la douleur                                                                                                                                         | Données à haut risque à l'examen clinique                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Syndrome de Marfan** (ou autre maladie du tissu conjonctif)  <br> - Antécédent familial de maladie aortique  <br> - **Valvulopathie aortique** connue  <br> - **AAT** connu  <br> - Antécédent de geste sur l'aorte (y compris chirurgie cardiaque) | **Douleur** dans le thorax, le dos ou l'abdomen, avec au moins un des éléments suivants :  <br> - début brutal  <br> - intensité élevée  <br> - type : déchirure | - **Défaut de perfusion** :  <br> - absence d'un pouls  <br> - asymétrie tensionnelle  <br> - déficit neurologique focal  <br> - **Souffle d'insuffisance aortique** (nouveau et avec douleur)  <br> - **Hypotension** ou choc |
 
 ---
 
@@ -1129,16 +1130,16 @@ Elle est évaluée sur 4 critères :
 
 ### Tableau 4 : Score PESI simplifié
 
-| Paramètres                | Quotation                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| Age                       | 1 point si âge `>80`                                                   |
-| Comorbidités              | 1 point                                                                   |
-| Cancer                    | 1 point                                                                   |
-| Insuffisance respiratoire chronique | 1 point                                                               |
-| Examen clinique           | 1 point                                                                   |
-| FC `>110/mn`             | 1 point                                                                   |
-| PAS `<100 mmHg`           | 1 point                                                                   |
-| SaO2 `<90 %`             | 1 point                                                                   |
+| Paramètres                          | Quotation                        |
+|--------------------------------------|----------------------------------|
+| Age                                 | 1 point si âge `>80`             |
+| Comorbidités                        | 1 point                          |
+| Cancer                              | 1 point                          |
+| Insuffisance respiratoire chronique | 1 point                          |
+| Examen clinique                     | 1 point                          |
+| FC `>110/mn`                        | 1 point                          |
+| PAS `<100 mmHg`                     | 1 point                          |
+| SaO2 `<90 %`                        | 1 point                          |
 
 ---
 
@@ -1157,13 +1158,12 @@ Ces critères permettent de classer les **EP** selon le risque de décès préco
 
 ### Tableau 6 : Classification de la sévérité de l'EP selon le risque de décès précoce
 
-| Risque de décès précoce |  | Indicateurs de risque |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  | Instabilité hémodynamique ${ }^{1}$ | Paramètres cliniques d'**EP** sévère et/ou de comorbidités : **PESI** classe III-V ou sPESI `≥ 1` | Dysfonction VD à l'**ETT** ou à l'angioscanner ${ }^{2}$ | Troponinémie augmentée |
-| Élevé |  | `+` | `(+)` | `+` | `(+)` |
-| Intermédiaire | Intermédiaire-haut | `-` | `+` | `+` | `+` |
-|  | Intermédiaire-bas | `-` | `+` | 1 (ou 0 ) présent |  |
-| Bas |  | `-` | `-` | `-` | Dosage optionnel : si fait, négatif |
+| Risque de décès précoce | Sous-groupe        | Instabilité hémodynamique ${ }^{1}$ | Paramètres cliniques d'**EP** sévère et/ou de comorbidités : **PESI** classe III-V ou sPESI `≥ 1` | Dysfonction VD à l'**ETT** ou à l'angioscanner ${ }^{2}$ | Troponinémie augmentée                           |
+|------------------------|--------------------|:------------------------------------:|:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------------------------------------------:|
+| Élevé                  |                    | `+`                                 | `(+)`                                                                                             | `+`                                                      | `(+)`                                            |
+| Intermédiaire          | Intermédiaire-haut | `-`                                 | `+`                                                                                               | `+`                                                      | `+`                                              |
+| Intermédiaire          | Intermédiaire-bas  | `-`                                 | `+`                                                                                               | 1 (ou 0) présent                                         |                                                    |
+| Bas                    |                    | `-`                                 | `-`                                                                                               | `-`                                                      | Dosage optionnel : si fait, négatif              |
 
 # 1.4. **Péricardite aiguë**
 

@@ -1421,15 +1421,15 @@ La classification de la sévérité chez l'enfant d'âge scolaire (`6-11` *ans*)
 
 ### Tableau n ${ }^{\circ} 2$ : évaluation initiale de l'exacerbation d'asthme chez les enfants de moins de **5** ans (GINA 2021)
 
-| Symptômes          | Légère | Sévère*                                                                 |
-|--------------------|--------|-----------------------------------------------------------------------|
-| **Altération conscience** | Non    | Agitation, confusion ou somnolence                                    |
-| **Saturation** $\mathrm{O}_{2}{ }^{* *}$ | `>95 %` | `<92 %`                                                               |
-| **Élocution** $\dagger$ | Phrases | Mots                                                                 |
-| **Fréquence cardiaque** | `<100 bpm` | `>180 bpm` (`0-3` *ans*) <br> `>150 bpm` (`3-5` *ans*)               |
-| **Fréquence respiratoire** | `≤ 40 / minute` | `>40 / minute`                                                      |
-| **Cyanose**         | Absent | Présent                                                             |
-| **Wheezing**        | Variable | Silence                                                             |
+| Symptômes                              | Légère         | Sévère*                                                        |
+|----------------------------------------|----------------|----------------------------------------------------------------|
+| **Altération conscience**              | Non            | Agitation, confusion ou somnolence                             |
+| **Saturation** $\mathrm{O}_{2}{ }^{* *}$ | `>95 %`        | `<92 %`                                                        |
+| **Élocution** $\dagger$                | Phrases        | Mots                                                           |
+| **Fréquence cardiaque**                | `<100 bpm`     | `>180 bpm` (`0-3` *ans*)<br>`>150 bpm` (`3-5` *ans*)           |
+| **Fréquence respiratoire**             | `≤ 40 / minute`| `>40 / minute`                                                 |
+| **Cyanose**                            | Absent         | Présent                                                        |
+| **Wheezing**                           | Variable       | Silence                                                        |
 
 > *La présence d'un seul signe indique que l'exacerbation d'asthme est sévère.*
 > **Saturation avant traitement bronchodilatateur.** $\dagger$
@@ -1502,19 +1502,19 @@ Des explorations seront demandées en présence des signes d'inquiétudes (*clin
 
 ### Tableau n° 5: Les principaux diagnostics différentiels
 
-| **Diagnostic différentiel** | **Signes évocateurs** |
-| :--: | :--: |
-| **Inhalation corps étranger** | Syndrome de pénétration, pneumopathie récidivante, signes pulmonaires focaux |
-| **Bronchite bactérienne persistante** | Toux grasse persistante; mauvaise réponse aux médicaments anti **asthme** |
-| **Trachéomalacie** | Une respiration aigüe et bruyante en pleurant ou en mangeant, ou lors d'infections des voies respiratoires supérieures; symptômes souvent présents dès la naissance |
-| **Cardiopathie congénitale** | Souffle cardiaque; cyanose lors des tétés; retard de croissance; tachycardie; tachypnée; hépatomégalie |
-| **Mucoviscidose** | Infections pulmonaires récurrentes; retard de croissance (malabsorption); selles volumineuses et graisseuses |
-| **Dyskinésie ciliaire primaire** | Toux et infections pulmonaires récurrentes; détresse respiratoire néonatale, otites chroniques; situs inversus (50% des enfants) |
-| **Dysplasie broncho-pulmonaire** | Prématurité, oxygénothérapie prolongée >28 jours |
-| **Déficit immunitaire** | Fièvre et infections récurrentes (y compris non respiratoires); retard de croissance |
-| **Reflux gastro-œsophagien** | Vomissements, toux lors des tétées, infections pulmonaires à répétitions |
-| **Tuberculose** | Toux, fièvre prolongée résistante aux antibiotiques, contage tuberculeux |
-| **Dilatation des bronches** | Toux productive, infections récidivantes |
+| **Diagnostic différentiel**         | **Signes évocateurs**                                                                                                                        |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Inhalation corps étranger**       | Syndrome de pénétration, pneumopathie récidivante, signes pulmonaires focaux                                                                 |
+| **Bronchite bactérienne persistante** | Toux grasse persistante; mauvaise réponse aux médicaments anti **asthme**                                                                    |
+| **Trachéomalacie**                  | Une respiration aigüe et bruyante en pleurant ou en mangeant, ou lors d'infections des voies respiratoires supérieures; symptômes souvent présents dès la naissance |
+| **Cardiopathie congénitale**        | Souffle cardiaque; cyanose lors des tétés; retard de croissance; tachycardie; tachypnée; hépatomégalie                                      |
+| **Mucoviscidose**                   | Infections pulmonaires récurrentes; retard de croissance (malabsorption); selles volumineuses et graisseuses                                 |
+| **Dyskinésie ciliaire primaire**    | Toux et infections pulmonaires récurrentes; détresse respiratoire néonatale, otites chroniques; situs inversus (50% des enfants)            |
+| **Dysplasie broncho-pulmonaire**    | Prématurité, oxygénothérapie prolongée >28 jours                                                                                            |
+| **Déficit immunitaire**             | Fièvre et infections récurrentes (y compris non respiratoires); retard de croissance                                                         |
+| **Reflux gastro-œsophagien**        | Vomissements, toux lors des tétées, infections pulmonaires à répétitions                                                                     |
+| **Tuberculose**                     | Toux, fièvre prolongée résistante aux antibiotiques, contage tuberculeux                                                                    |
+| **Dilatation des bronches**         | Toux productive, infections récidivantes                                                                                                     |
 
 Les explorations sont à demander fonction des symptômes et résultats radiographiques:
 
@@ -1775,12 +1775,12 @@ Every asthma attack must be reassessed after the first hour of management, wheth
 
 #### Tableau n° 7: Therapeutic Steps According to GINA 2021 (Children Under 5 Years)
 
-| **Preferred Control Treatment** | **Step 1** | **Step 2** | **Step 3** | **Step 4** |
-| :---: | :---: | :---: | :---: | :---: |
-|  |  | Low-dose daily ICS | Medium-dose ICS | Same treatment + Specialist advice + ICS nebulization |
-| **Other Control Treatment Options** |  | Daily ALT <br> Intermittent ICS | Low-dose ICS + ALT | Add ALT <br> Increase dose/frequency of ICS |
-| **Reliever Treatment** | Short-acting bronchodilators |  |  |  |
-| **Indications** | Infrequent virus-induced wheezing and few intercritical symptoms | Partially or uncontrolled asthma <br> ≥ 3 exacerbations in the year | Asthma diagnosis and no control with low-dose ICS <br> First check diagnosis, exposure | Asthma diagnosis and no control with double-dose ICS technique, adherence |
+|                                | **Step 1**                                   | **Step 2**                        | **Step 3**                                                                 | **Step 4**                                              |
+|--------------------------------|----------------------------------------------|-----------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------|
+| **Preferred Control Treatment** |                                              | Low-dose daily ICS                | Medium-dose ICS                                                            | Same treatment + Specialist advice + ICS nebulization   |
+| **Other Control Treatment Options** |                                          | Daily ALT <br> Intermittent ICS   | Low-dose ICS + ALT                                                         | Add ALT <br> Increase dose/frequency of ICS             |
+| **Reliever Treatment**         | Short-acting bronchodilators                 |                                   |                                                                            |                                                         |
+| **Indications**                | Infrequent virus-induced wheezing and few intercritical symptoms | Partially or uncontrolled asthma <br> ≥ 3 exacerbations in the year | Asthma diagnosis and no control with low-dose ICS <br> First check diagnosis, exposure | Asthma diagnosis and no control with double-dose ICS technique, adherence |
 
 **ICS**: Inhaled Corticosteroids, **ALT**: Anti-leukotrienes
 
@@ -1790,9 +1790,8 @@ Every asthma attack must be reassessed after the first hour of management, wheth
 
 #### Tableau n° 8: Asthma Treatment Steps According to GINA 2021 (6-12 Years)
 
-|  | **Step 1** | **Step 2** | **Step 3** | **Step 4** | **Step 5** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
+|                | **Step 1** | **Step 2** | **Step 3** | **Step 4** | **Step 5** |
+|:--------------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 
 ---
 
@@ -1832,11 +1831,11 @@ Every asthma attack must be reassessed after the first hour of management, wheth
 
 ### Tableau n° 10: Les doses des CSI pour les enfants d'âge entre 6-12 ans
 
-| **Corticostéroïde inhalé** | **Enfants de 6 à 11 ans** | **Doses faibles** | **Doses moyennes** | **Doses élevées** |
-|-----------------------------|---------------------------|-------------------|---------------------|-------------------|
-| Dipropionate Béclométasone | 100-200 | >200-400 | >400 |
-| Budésonide | 100-200 | >200-400 | >400 |
-| Propionate Fluticasone | 50-100 | >100-200 | >200 |
+| **Corticostéroïde inhalé**      | **Enfants de 6 à 11 ans** | **Doses faibles** | **Doses moyennes** | **Doses élevées** |
+|---------------------------------|---------------------------|-------------------|--------------------|-------------------|
+| Dipropionate Béclométasone      | 100-200                   | >200-400          | >400               |                   |
+| Budésonide                      | 100-200                   | >200-400          | >400               |                   |
+| Propionate Fluticasone          | 50-100                    | >100-200          | >200               |                   |
 
 ---
 

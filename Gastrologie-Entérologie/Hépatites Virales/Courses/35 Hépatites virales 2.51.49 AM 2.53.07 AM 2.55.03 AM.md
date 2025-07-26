@@ -801,12 +801,12 @@ Au terme de ce bilan initial, et en tenant compte des transaminases, du profil s
 
 #### Tableau 1 : Différentes formes de l'infection virale B
 
-| Nouvelle terminologie | Phase 1 Infection chronique **AgHBe**+ | Phase 2 Hépatite chronique **AgHBe**+ | Phase 3 Infection chronique **AgHBe**- | Phase 4 Hépatite chronique **AgHBe**- | B |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Ancienne terminologie | Immunotolérance | Clairance immune | Portage inactif | Hépatite chronique **AgHBe**- |  |
-| **CVB** (UI/mL) | `>10^7` | `10^4 - 10^7` | `<2000` | `>2000` |  |
-| **ALAT** | Normales | Élevées | Normales | Élevées ou fluctuantes | ou |
-| Activité/fibrose | Absentes ou minimes | Modérées ou sévères | Absentes | Modérées ou sévères | ou |
+| Nouvelle terminologie                                   | Phase 1 Infection chronique **AgHBe**+ | Phase 2 Hépatite chronique **AgHBe**+ | Phase 3 Infection chronique **AgHBe**- | Phase 4 Hépatite chronique **AgHBe**- | B   |
+|---------------------------------------------------------|:--------------------------------------:|:-------------------------------------:|:--------------------------------------:|:-------------------------------------:|:---:|
+| Ancienne terminologie                                   | Immunotolérance                        | Clairance immune                      | Portage inactif                        | Hépatite chronique **AgHBe**-         |     |
+| **CVB** (UI/mL)                                         | `>10^7`                                | `10^4 - 10^7`                         | `<2000`                                | `>2000`                               |     |
+| **ALAT**                                                | Normales                               | Élevées                               | Normales                               | Élevées ou fluctuantes                | ou  |
+| Activité/fibrose                                        | Absentes ou minimes                    | Modérées ou sévères                   | Absentes                               | Modérées ou sévères                   | ou  |
 
 #### b. **Hépatite chronique virale D**
 
@@ -1285,35 +1285,20 @@ Malgré le développement de nouveaux traitements pour les **hépatites chroniqu
 
 ### Tableau 3 : Profil épidémiologique, clinique et évolutif des virus des hépatites
 
-| Virus  | A       | B       | C       | D       | E       |
-|--------|---------|---------|---------|---------|---------|
-| Famille | Picornaviridae | Hépadnaviridae | Flaviviridae | Viroïde | Hepeviridae |
-| Génome | ARN+ | ADN
-Circulaire
-Partiellement
-bicaténaire | ARN+ | ARN- | ARN+ |
-| Enveloppe | Non | Oui | Oui | Oui
-(celle du VHB) | Non |
-| Réservoir | Homme | Homme | Homme | Homme | Animal (porc) |
-| Principaux modes de transmission | Entérale | **Parentérale** +++
-**Sexuelle** +++
-**Mère-enfant** +++ | **Parentérale** +++
-**Sexuelle** +
-**Mère-enfant** + | **Parentérale** +++
-**Sexuelle** ++
-**Mère-enfant** + | Entérale |
-| Endémicité en Tunisie | En transition | Faible Endémicité | Faible Endémicité | Faible Endémicité | Non endémique
-(Cas sporadiques) |
-| Incubation | 15 - 45 j | 40 - 180 j | 15 - 45 j | 15 - 45 j | 15 - 45 j |
-| Évolution |  |  |  |  |  |
-| Hépatite fulminante | 0.1% | 1% | Exceptionnelle | Co-infection > 1%
-Surinfection > 1% | 0.5 - 4%
-20% femme enceinte |
-| Passage à la chronicité | Non | 10 % | 80 % | 10% si co-infection
-80% si surinfection | Uniquement chez l'immunodéprimé
-(66%) |
-| Cirrhose | - | + | + | + | Uniquement chez l'immunodéprimé |
-| Cancer du Foie | - | + | + | + | - |
+| Virus                           | A                | B                  | C                | D                | E                           |
+|----------------------------------|------------------|--------------------|------------------|------------------|-----------------------------|
+| Famille                         | Picornaviridae   | Hépadnaviridae     | Flaviviridae     | Viroïde          | Hepeviridae                 |
+| Génome                          | ARN+             | ADN Circulaire Partiellement bicaténaire | ARN+             | ARN-             | ARN+                        |
+| Enveloppe                       | Non              | Oui                | Oui              | Oui (celle du VHB) | Non                        |
+| Réservoir                       | Homme            | Homme              | Homme            | Homme            | Animal (porc)               |
+| Principaux modes de transmission| Entérale         | **Parentérale** +++<br>**Sexuelle** +++<br>**Mère-enfant** +++ | **Parentérale** +++<br>**Sexuelle** +<br>**Mère-enfant** + | **Parentérale** +++<br>**Sexuelle** ++<br>**Mère-enfant** + | Entérale                    |
+| Endémicité en Tunisie           | En transition    | Faible Endémicité  | Faible Endémicité| Faible Endémicité| Non endémique (Cas sporadiques) |
+| Incubation                      | 15 - 45 j        | 40 - 180 j         | 15 - 45 j        | 15 - 45 j        | 15 - 45 j                   |
+| Évolution                       |                  |                    |                  |                  |                             |
+| Hépatite fulminante             | 0.1%             | 1%                 | Exceptionnelle   | Co-infection > 1%<br>Surinfection > 1% | 0.5 - 4%<br>20% femme enceinte |
+| Passage à la chronicité         | Non              | 10 %               | 80 %             | 10% si co-infection<br>80% si surinfection | Uniquement chez l'immunodéprimé (66%) |
+| Cirrhose                        | -                | +                  | +                | +                | Uniquement chez l'immunodéprimé |
+| Cancer du Foie                  | -                | +                  | +                | +                | -                            |
 
 > **Note**: The table above provides a comprehensive overview of the epidemiological, clinical, and evolutionary profiles of hepatitis viruses.
 

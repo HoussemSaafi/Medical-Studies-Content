@@ -160,7 +160,7 @@ Comme dans toute pathologie aiguë, la gravité potentielle est liée à 3 facte
 ### Tableau II : Évaluation de la gravité d'une bronchiolite (HAS 2019 modifiée)
 
 | Formes cliniques | Légère | Modérée | Grave |
-| :--: | :--: | :--: | :--: |
+|:-----------------------------|:-------:|:--------:|:------:|
 | **État général** ou comportement altéré | Non | Non | Oui |
 | **Fréquence respiratoire** (FR) | < 60 `C/mn` | 60-69 `C/mn` | < 30 `C/mn` ou `≥ 70 C/mn` ou respiration superficielle |
 | **Apnée** | Non | Non | Oui |
@@ -178,24 +178,13 @@ Comme dans toute pathologie aiguë, la gravité potentielle est liée à 3 facte
 
 ### Tableau III : critères d'hospitalisation (objectif 4)
 
-
 ---
 
-
-# Terrain
-
-| Terrain | - Âge `<6` semaines <br> - Prématurité `<34` SA, âge corrigé `<3` mois <br> - **Cardiopathie** sous-jacente en particulier shunt gauche-droite (ce d'autant qu'il existe une **hypertension artérielle pulmonaire** associée). <br> - **Pathologie pulmonaire** chronique sévère (dysplasie bronchopulmonaire, mucoviscidose, dyskinésie ciliaire....) <br> - **Immunosuppression** |
-| :--: | :--: |
-
-# Sévérité clinique
-
-| Sévérité clinique | - Altération de l'état général <br> - **Fréquence respiratoire** `>60 / min` chez le nourrisson et `>70 / min` chez le nouveau-né. <br> - Apnées, irrégularité respiratoire. <br> - Signes cliniques d'**hypoxémie** (cyanose) ou d'**hypercapnie** (sueurs, troubles de la conscience) <br> - **Saturation transcutanée en oxygène** inférieure à `92 %` à l'air ambiant. <br> - Signes de lutte marqués (tirage intercostal, sus-sternal et battement des ailes du nez) <br> - Troubles digestifs (difficultés de prendre la tétée ou le biberon, ne termine pas la moitié de son biberon, vomissements après chaque tétée, fausses routes) ou déshydratation. |
-| :--: | :--: |
-
-# Conditions socioéconomiques ou d'environnement défavorables
-
-| Conditions socioéconomiques ou d'environnement défavorables | Capacité de la famille réduite en termes de surveillance, de compréhension et d'accès aux soins. |
-| :--: | :--: |
+| **Critère** | **Détail** |
+|:--|:--|
+| **Terrain** | - Âge `<6` semaines <br> - Prématurité `<34` SA, âge corrigé `<3` mois <br> - **Cardiopathie** sous-jacente en particulier shunt gauche-droite (ce d'autant qu'il existe une **hypertension artérielle pulmonaire** associée). <br> - **Pathologie pulmonaire** chronique sévère (dysplasie bronchopulmonaire, mucoviscidose, dyskinésie ciliaire....) <br> - **Immunosuppression** |
+| **Sévérité clinique** | - Altération de l'état général <br> - **Fréquence respiratoire** `>60 / min` chez le nourrisson et `>70 / min` chez le nouveau-né. <br> - Apnées, irrégularité respiratoire. <br> - Signes cliniques d'**hypoxémie** (cyanose) ou d'**hypercapnie** (sueurs, troubles de la conscience) <br> - **Saturation transcutanée en oxygène** inférieure à `92 %` à l'air ambiant. <br> - Signes de lutte marqués (tirage intercostal, sus-sternal et battement des ailes du nez) <br> - Troubles digestifs (difficultés de prendre la tétée ou le biberon, ne termine pas la moitié de son biberon, vomissements après chaque tétée, fausses routes) ou déshydratation. |
+| **Conditions socioéconomiques ou d'environnement défavorables** | Capacité de la famille réduite en termes de surveillance, de compréhension et d'accès aux soins. |
 
 ---
 

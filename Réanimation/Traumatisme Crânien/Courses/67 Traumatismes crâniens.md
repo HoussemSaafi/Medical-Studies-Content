@@ -620,14 +620,14 @@ Le **score de Glasgow-Lièges** permet d'étudier ces **réflexes**. Il est cot�
 
 ### Tableau 4 : Score de Liège
 
-| **Réflexes** | **Cotation** |
-| :-- | :--: |
-| Fronto-orbiculaire | 5 |
-| Oculo-céphalique vertical | 4 |
-| Photo-moteur | 3 |
-| Oculo-céphalique horizontal | 2 |
-| Oculo-cardiaque | 1 |
-| Aucun | 0 |
+| **Réflexes**                  | **Cotation** |
+|-------------------------------|:------------:|
+| Fronto-orbiculaire            |      5       |
+| Oculo-céphalique vertical     |      4       |
+| Photo-moteur                  |      3       |
+| Oculo-céphalique horizontal   |      2       |
+| Oculo-cardiaque               |      1       |
+| Aucun                         |      0       |
 
 ---
 

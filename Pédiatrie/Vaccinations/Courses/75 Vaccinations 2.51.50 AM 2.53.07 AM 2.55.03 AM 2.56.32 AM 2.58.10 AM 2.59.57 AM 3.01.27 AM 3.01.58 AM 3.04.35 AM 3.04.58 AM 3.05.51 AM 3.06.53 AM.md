@@ -155,24 +155,11 @@ Il existe différents types de vaccins (Tableau 2)
 
 ### Tableau II : les différents types de vaccins
 
-| **Vaccins vivants atténués** | **Bactéries**: Vaccin **BCG** |
-| :--: | :--: |
-|  | **Virus**: anti polio oral, anti rougeole, anti rubéole, anti varicelle, anti oreillons et anti fièvre jaune, anti rotavirus |
-
-| **Vaccins inactivés (antigènes tués)** | **Bactéries**: Vaccin anticoquelucheux à cellules entières (Cce) |
-
-
-This formatting improves readability while preserving all the original content.
-
----
-
-
-| **Virus** | **Vaccin de l'encéphalite japonaise inactivé**, **vaccin antipoliomyélitique inactivé** (VPI), **vaccin anti grippal**, **vaccin anti hépatite A**, **vaccin anti rabique**, **vaccin anti COVID19 à virus inactivé** |
-| **Vaccins sous-unitaires (antigènes purifiés)** | **Protéiques**: **Vaccin anti-hépatite B** <br> **Vaccin anticoquelucheux acellulaire** (Ca) |
-| | ![img-1.jpeg](https://raw.githubusercontent.com/brightly-dev/images/refs/heads/main/Vaccinations_02afb7ad/img-1.jpeg) |
-| | **Vaccin conjugué**: **Vaccin anti-Haemophilus influenzae type b** (Hib) conjugué, **vaccin antiméningococcique A et B conjugué** <br> **Vaccins antipneumococciques** (VPC-10, VPC-13) conjugués <br> **Vaccin Vi conjugué** |
-| | **Anatoxines**: **Anatoxine tétanique**, <br> **Anatoxine diphtérique** |
-| | **Vaccins recombinants par Géni-génétique**: **anti hépatite B** <br> **anti papillomavirus** |
+| **Type de vaccin** | **Exemples** |
+| :-- | :-- |
+| **Vaccins vivants atténués** | **Bactéries**: Vaccin **BCG**<br>**Virus**: anti polio oral, anti rougeole, anti rubéole, anti varicelle, anti oreillons et anti fièvre jaune, anti rotavirus |
+| **Vaccins inactivés (antigènes tués)** | **Bactéries**: Vaccin anticoquelucheux à cellules entières (Cce)<br>**Virus**: **Vaccin de l'encéphalite japonaise inactivé**, **vaccin antipoliomyélitique inactivé** (VPI), **vaccin anti grippal**, **vaccin anti hépatite A**, **vaccin anti rabique**, **vaccin anti COVID19 à virus inactivé** |
+| **Vaccins sous-unitaires (antigènes purifiés)** | **Protéiques**: **Vaccin anti-hépatite B** <br> **Vaccin anticoquelucheux acellulaire** (Ca)<br>![img-1.jpeg](https://raw.githubusercontent.com/brightly-dev/images/refs/heads/main/Vaccinations_02afb7ad/img-1.jpeg)<br>**Vaccin conjugué**: **Vaccin anti-Haemophilus influenzae type b** (Hib) conjugué, **vaccin antiméningococcique A et B conjugué** <br> **Vaccins antipneumococciques** (VPC-10, VPC-13) conjugués <br> **Vaccin Vi conjugué**<br>**Anatoxines**: **Anatoxine tétanique**, <br> **Anatoxine diphtérique**<br>**Vaccins recombinants par Géni-génétique**: **anti hépatite B** <br> **anti papillomavirus** |
 | **Vaccin à base d'acide nucléique et à vecteur viral** | **Vaccin anti COVID19 à ARN** <br> **Vaccin anti COVID 19 à vecteur viral** |
 
 ---

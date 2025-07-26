@@ -127,7 +127,7 @@ Le bilan des entrées des ions hydrogène est résumé dans le tableau I.
 ### Tableau I : Bilan des entrées des ions hydrogène
 
 | Type d'acides | La production cellulaire des produits acides | Alimentation |
-|---------------|---------------------------------------------|--------------|
+| ------------- | ------------------------------------------- | ------------ |
 
 
 This formatting improves readability while preserving all the original content exactly as provided.
@@ -446,13 +446,13 @@ La réabsorption des bicarbonates par le tubule proximal est saturable. Elle est
 
 ### Tableau IV : Les variations du taux de réabsorption des bicarbonates
 
-| **Augmentation du taux de réabsorption** | **Diminution du taux de réabsorption** |
-|-----------------------------------------|----------------------------------------|
-| Hypovolémie                              | Expansion des liquides extracellulaires |
-| Déplétion potassique avec hypokaliémie  | Hypocapnie                              |
-| Hypercapnie                              | Hyperkaliémie                           |
-| Hypercalcémie                            |                                        |
-| Déplétion en chlorure                    |                                        |
+| **Augmentation du taux de réabsorption**         | **Diminution du taux de réabsorption**           |
+|--------------------------------------------------|--------------------------------------------------|
+| Hypovolémie                                      | Expansion des liquides extracellulaires          |
+| Déplétion potassique avec hypokaliémie           | Hypocapnie                                       |
+| Hypercapnie                                      | Hyperkaliémie                                    |
+| Hypercalcémie                                    |                                                  |
+| Déplétion en chlorure                            |                                                  |
 
 ## b. L'excrétion acide :
 
@@ -464,16 +464,16 @@ L'excrétion rénale d'acide est faite sous trois formes: libre, liée aux phosp
 
 ### Tableau V : L'excrétion rénale d'acide
 
-| **Excrétion nette d'acide** | **Particularités** |
-|-----------------------------|---------------------|
-| **Forme libre**             | **pH urinaire et négligeable** |
-| **H⁺ libre**                | `100 µmol/L`        |
-| **H₂PO₄⁻**                  | **H⁺ + HPO₄²⁻ ⇒ H₂PO₄⁻** |
-|                             | `20 mEq/j`          |
-|                             | **Acidité titrable et fixe (1/3)** |
-| **Ammonium**                | **H⁺ + NH₃ ⇒ NH₄⁺** |
-|                             | `40 mEq/j`          |
-|                             | **2/3 et variable (*8)** |
+| **Excrétion nette d'acide** | **Particularités**                       |
+|-----------------------------|------------------------------------------|
+| **Forme libre**             | **pH urinaire et négligeable**           |
+| **H⁺ libre**                | `100 µmol/L`                             |
+| **H₂PO₄⁻**                  | **H⁺ + HPO₄²⁻ ⇒ H₂PO₄⁻**                 |
+|                             | `20 mEq/j`                               |
+|                             | **Acidité titrable et fixe (1/3)**       |
+| **Ammonium**                | **H⁺ + NH₃ ⇒ NH₄⁺**                      |
+|                             | `40 mEq/j`                               |
+|                             | **2/3 et variable (*8)**                 |
 
 > * En cas de charge acide, l'excès d'acide est éliminé par le rein sous forme d'ammonium. Cette forme peut augmenter jusqu'à huit fois sa production journalière.
 
@@ -656,10 +656,10 @@ Cette réponse est hautement reproductible à partir de modèles statistiques qu
 
 ### Tableau VII : Les réponses compensatrices des différents troubles primitifs
 
-| Trouble primitif          | Réponse compensatrice attendue                                                                                     | Délai :         | Limites         |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------|-----------------|
-| **Acidose métabolique**   | **Alcalose respiratoire** : $\mathrm{PaCO}_{2} \text{ att } = 1,5 \times \left[\mathrm{HCO}_{3}^{-}\right] + 8 (\pm 2) \text{ mmHg}$ | 15 à 20 mn     | $\mathrm{PaCO}_{2} = 10 \text{ mmHg}$ |
-| **Alcalose métabolique**  | **Acidose respiratoire** : $\mathrm{PaCO}_{2} \text{ att } = 0,7 \times \left[\mathrm{HCO}_{3}^{-}\right] + 21 (\pm 2) \text{ mmHg}$ | 24 à 36 h      | $\mathrm{PaCO}_{2} = 55 \text{ mmHg}$ |
+| Trouble primitif         | Réponse compensatrice attendue                                                                                                         | Délai :      | Limites                              |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------|
+| **Acidose métabolique** | **Alcalose respiratoire** : $\mathrm{PaCO}_{2} \text{ att } = 1,5 \times \left[\mathrm{HCO}_{3}^{-}\right] + 8 (\pm 2) \text{ mmHg}$   | 15 à 20 mn   | $\mathrm{PaCO}_{2} = 10 \text{ mmHg}$ |
+| **Alcalose métabolique**| **Acidose respiratoire** : $\mathrm{PaCO}_{2} \text{ att } = 0,7 \times \left[\mathrm{HCO}_{3}^{-}\right] + 21 (\pm 2) \text{ mmHg}$   | 24 à 36 h    | $\mathrm{PaCO}_{2} = 55 \text{ mmHg}$ |
 
 *att: attendue ; h : heures ; resp: respiratoire ; min : minutes*
 
@@ -671,11 +671,11 @@ Les différentes définitions des troubles simples, mixtes et complexes sont rep
 
 ### Tableau VIII : Les différents troubles de l'équilibre **acidobasique**
 
-| Trouble(s) | Définition                                                                                     | Exemples :                                                                                     |
-|------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Simples** | Une seule anomalie sans autre perturbation associée                                             | **Acidose respiratoire** ou **métabolique** <br> **Alcalose respiratoire** ou **métabolique** |
-| **Mixtes**  | Association d'une perturbation **métabolique** et **respiratoire** allant dans le même sens | **Acidose respiratoire** et **métabolique** <br> **Alcalose respiratoire** et **métabolique** |
-| **Complexes** | Association de 2 ou 3 troubles simples qui ne vont pas tous dans le même sens                  | **Acidose métabolique** associé à une **alcalose respiratoire**                                |
+| Trouble(s)      | Définition                                                                                          | Exemples :                                                                                           |
+|-----------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Simples**     | Une seule anomalie sans autre perturbation associée                                                 | **Acidose respiratoire** ou **métabolique** <br> **Alcalose respiratoire** ou **métabolique**        |
+| **Mixtes**      | Association d'une perturbation **métabolique** et **respiratoire** allant dans le même sens         | **Acidose respiratoire** et **métabolique** <br> **Alcalose respiratoire** et **métabolique**        |
+| **Complexes**   | Association de 2 ou 3 troubles simples qui ne vont pas tous dans le même sens                       | **Acidose métabolique** associé à une **alcalose respiratoire**                                      |
 
 ---
 
@@ -756,19 +756,19 @@ On distingue trois mécanismes (tableau IX) :
 
 ### Tableau IX: Les étiologies des acidoses métaboliques à TAP élevé
 
-| Type                                      | Causes                     | Anions indosés             |
-|-------------------------------------------|-----------------------------|---------------------------|
-| **Production endogène aiguë d'H+**       |                             |                           |
-| Acidose lactique                         | Acidose lactique           | Lactates                  |
-| Cétoacidoses                             | Diabétique                 | $\beta$ hydroxy-butyrate  |
-|                                           | Alcoolique                 |                           |
-|                                           | Jeune                      |                           |
-| **Surcharge exogène aiguë d'H+**       |                             |                           |
-| Intoxications                           | Méthanol                   | Formate                   |
-|                                           | Ethylène glycol            | Glyoxalate, oxalate       |
-|                                           | Aspirine                   | Salicylates               |
-| **Défaut d'élimination des H+**         |                             |                           |
-| Insuffisance rénale chronique avancée  |                             | Sulfates, phosphates, hippurate |
+| Type                                    | Causes             | Anions indosés                  |
+|------------------------------------------|--------------------|---------------------------------|
+| **Production endogène aiguë d'H+**      |                    |                                 |
+| Acidose lactique                        | Acidose lactique   | Lactates                        |
+| Cétoacidoses                            | Diabétique         | $\beta$ hydroxy-butyrate        |
+|                                         | Alcoolique         |                                 |
+|                                         | Jeune              |                                 |
+| **Surcharge exogène aiguë d'H+**        |                    |                                 |
+| Intoxications                           | Méthanol           | Formate                         |
+|                                         | Ethylène glycol    | Glyoxalate, oxalate             |
+|                                         | Aspirine           | Salicylates                     |
+| **Défaut d'élimination des H+**         |                    |                                 |
+| Insuffisance rénale chronique avancée    |                    | Sulfates, phosphates, hippurate |
 
 ---
 
@@ -918,19 +918,19 @@ Il convient de distinguer les **acidoses respiratoires** d'origine **neuromuscul
 ### Tableau XI : Les mécanismes et causes des acidoses respiratoires
 
 | **Acidoses respiratoires aigues** | **Acidoses respiratoires chroniques** |
-| :--: | :--: |
-| **Obstruction des voies aériennes** |  |
+| :-------------------------------- | :------------------------------------ |
+| **Obstruction des voies aériennes** |                                      |
 | Inhalation, **laryngospasme**, **bronchospasme** sévère, obstacle des voies aériennes supérieures | **BPCO** |
-| **Dépression des centres respiratoires** |  |
+| **Dépression des centres respiratoires** |                                    |
 | **Anesthésie générale**, sédatifs, **traumatisme crânien**, **accident vasculaire cérébral** | Surdosage chronique en sédatifs, **syndrome de Pickwick**, **tumeur cérébrale** |
-| **Défaillances cardiovasculaires** |  |
-| **Arrêt cardiaque**, **œdème pulmonaire** |  |
-| **Déficits neuromusculaires** |  |
+| **Défaillances cardiovasculaires** |                                      |
+| **Arrêt cardiaque**, **œdème pulmonaire** |                                  |
+| **Déficits neuromusculaires** |                                         |
 | **Botulisme**, **tétanos**, **hypokaliémie**, **syndrome de Guillain-Barré**, crise de **myasthénie**, toxiques (curares, organophosphorés) | **Polyomyélite**, **sclérose latérale amyotrophique**, **sclérose en plaques**, **myopathies**, **paralysie diaphragmatique**, **myxoedème** |
-| **Atteintes thoracopulmonaires** |  |
+| **Atteintes thoracopulmonaires** |                                       |
 | **Pneumothorax**, **hémothorax**, **pneumonie** sévère, **SDRA** | **Cyphoscoliose**, **fibrose pulmonaire**, **obésité**, **hydrothorax**, **ascite**, **dysfonction diaphragmatique** |
-| **Ventilation artificielle** |  |
-| **Hypoventilation accidentelle**, **hypercapnie permissive** |  |
+| **Ventilation artificielle** |                                         |
+| **Hypoventilation accidentelle**, **hypercapnie permissive** |          |
 
 ---
 
@@ -952,13 +952,13 @@ Les signes cliniques sont rares mais peuvent associer plusieurs atteintes (table
 
 #### Tableau XII : Les signes cliniques des **alcaloses métaboliques**
 
-| **Type** : | **Signes** : | **Mécanismes** : |
-| :-- | :-- | :-- |
-| **Neurologique** | Trouble de la vigilance, convulsions, délire | Baisse du débit sanguin cérébral |
-|  | **Faiblesse musculaire**, **tétanie**, **myoclonies** | Baisse du **calcium ionisé** |
-| **Cardiovasculaire** | **Syndrome coronarien aigu** | Diminution du débit sanguin coronaire |
-|  | Troubles du rythme auriculaire ou ventriculaire | Complications spécifiques de l'**hypokaliémie** de transfert |
-| **Respiratoire** | **Hypoxémie** | **Hypoventilation alvéolaire** |
+| **Type**              | **Signes**                                         | **Mécanismes**                                      |
+|-----------------------|----------------------------------------------------|-----------------------------------------------------|
+| **Neurologique**      | Trouble de la vigilance, convulsions, délire       | Baisse du débit sanguin cérébral                    |
+|                       | **Faiblesse musculaire**, **tétanie**, **myoclonies** | Baisse du **calcium ionisé**                        |
+| **Cardiovasculaire**  | **Syndrome coronarien aigu**                       | Diminution du débit sanguin coronaire               |
+|                       | Troubles du rythme auriculaire ou ventriculaire    | Complications spécifiques de l'**hypokaliémie** de transfert |
+| **Respiratoire**      | **Hypoxémie**                                      | **Hypoventilation alvéolaire**                      |
 
 #### - Les étiologies :
 
@@ -979,8 +979,8 @@ Les mécanismes d'apparition impliquent classiquement soit une perte en protons 
 
 #### Tableau XIII : Les mécanismes, les signes cliniques, biologiques et les étiologies des **alcaloses métaboliques**
 
-|  | **Chlorosensibles** | **Chlororésistantes** |
-| :-- | :-- | :-- |
+|                      | **Chlorosensibles** | **Chlororésistantes** |
+|----------------------|---------------------|-----------------------|
 
 
 This formatting enhances the readability and visual presentation of the content while strictly preserving every word, number, and medical term.
@@ -992,12 +992,13 @@ This formatting enhances the readability and visual presentation of the content 
 
 ## Mécanismes et Cliniques
 
-| **Mécanismes** | **Perte en protons** $(\mathrm{HCl}++$ ), d'origine digestive ou rénale | **Pertes rénales d'ion** $\mathrm{H}+(\neq \mathrm{HCl})$ |
-| **Cliniques** | **Déshydratation extracellulaire** | **Pas de déshydratation extracellulaire** |
-| **Biologie sanguine** | **Hypochlorémie** | **Chlorémie normale ou légèrement diminuée** |
-|  | **Hypokaliémie** | **Hypokaliémie** |
-| **Etiologies** | **Pertes digestives en chlore** : <br> vomissements abondants, les aspirations gastriques... | **Hyperaldostéronismes** (syndrome de Conn, HTA malignes) |
-|  | **Pertes rénales** : diurétiques chlorurétiques, alcalose des hypoventilations chroniques <br> **Surcharge en bicarbonate** ou d'un précurseur de bicarbonate | **Hyper-corticismes** (syndrome de Cushing) |
+|                        | **Chlorosensibles**<br>**Perte en protons** $(\mathrm{HCl}++)$, d'origine digestive ou rénale | **Chlororésistantes**<br>**Pertes rénales d'ion** $\mathrm{H}+(\neq \mathrm{HCl})$ |
+|------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Cliniques**          | **Déshydratation extracellulaire**                                                           | **Pas de déshydratation extracellulaire**                                          |
+| **Biologie sanguine**  | **Hypochlorémie**                                                                            | **Chlorémie normale ou légèrement diminuée**                                       |
+|                        | **Hypokaliémie**                                                                             | **Hypokaliémie**                                                                   |
+| **Etiologies**         | **Pertes digestives en chlore** : <br> vomissements abondants, les aspirations gastriques...  | **Hyperaldostéronismes** (syndrome de Conn, HTA malignes)                          |
+|                        | **Pertes rénales** : diurétiques chlorurétiques, alcalose des hypoventilations chroniques <br> **Surcharge en bicarbonate** ou d'un précurseur de bicarbonate | **Hyper-corticismes** (syndrome de Cushing)                |
 
 ---
 

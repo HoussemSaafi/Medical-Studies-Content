@@ -532,16 +532,16 @@ C'est la cause la plus fréquente d'**HDH** : 50% des cas. L'**hémorragie** est
 
 ### Tableau 1 : Classification endoscopique de **FORREST** des **ulcères** hémorragiques
 
-| Classification | Description | Risque de récidive |
-| :-- | :-- | :-- |
-| I : | Saignement actif | 55% |
-| Ia | En jet |  |
-| IIa | En nappe |  |
-| II : | Stigmates de saignement récent |  |
-| IIa | Vaisseau visible | 45% |
-| IIb | Caillot adhérent | 20% |
-| IIc | Tache pigmentée | 10% |
-| III | Cratère propre | <5% |
+| Classification | Description                    | Risque de récidive |
+|:--------------:|:------------------------------|:------------------:|
+| I :            | Saignement actif               | 55%                |
+| Ia             | En jet                        |                    |
+| Ib             | En nappe                      |                    |
+| II :           | Stigmates de saignement récent|                    |
+| IIa            | Vaisseau visible              | 45%                |
+| IIb            | Caillot adhérent              | 20%                |
+| IIc            | Tache pigmentée               | 10%                |
+| III            | Cratère propre                | <5%                |
 
 > **Note**: La classification est utile pour l'indication du traitement endoscopique et l'évaluation du pronostic.
 

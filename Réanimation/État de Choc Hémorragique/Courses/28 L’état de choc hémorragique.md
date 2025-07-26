@@ -377,13 +377,12 @@ Les objectifs de cette transfusion sont bien codifiés et sont fonction de la pr
 
 ### Tableau II : Seuils transfusionnels au cours du choc hémorragique
 
-|  | **OBJECTIFS** |  |
-| :--: | :--: | :--: |
-|  | **EDC hémorragique sans TC associé** | **EDC hémorragique avec TC associé** |
-| **Hb** | $\geq 7 \mathrm{~g} / \mathrm{dl}$ | $\geq 10 \mathrm{~g} / \mathrm{dl}$ |
-| **TP** | $>40 \%$ | $\geq 50 \%$ avec **INR** $<1.5$ |
-| **Plaquettes** | $\geq 50000$ | $\geq 100000$ |
-| **Fibrinogène*** | $>1.5 \mathrm{~g} / \mathrm{L}$ | $>1.5 \mathrm{~g} / \mathrm{L}$ |
+|                | **EDC hémorragique sans TC associé** | **EDC hémorragique avec TC associé** |
+|:--------------:|:------------------------------------:|:-------------------------------------:|
+| **Hb**         | $\geq 7 \mathrm{~g} / \mathrm{dl}$   | $\geq 10 \mathrm{~g} / \mathrm{dl}$  |
+| **TP**         | $>40 \%$                             | $\geq 50 \%$ avec **INR** $<1.5$     |
+| **Plaquettes** | $\geq 50000$                         | $\geq 100000$                        |
+| **Fibrinogène*** | $>1.5 \mathrm{~g} / \mathrm{L}$    | $>1.5 \mathrm{~g} / \mathrm{L}$      |
 
 > **INR** : International Normolised Ratio
 

@@ -1480,9 +1480,10 @@ En pratique, la surveillance du traitement associera de façon périodique un bi
 
 ### Tableau III : Stratégie de l'utilisation des statines dans l'hypercholestérolémie (ESC 2019)
 
-| **Modéré** <br> Score 1-5% | Entre `1 g/l (2,6 mmol/l)` et `1,9 g/l (4,1 mmol/l)` | `>1,9 mmol/l (4,9 mmol/l)` <br> ou si objectif non atteint | `<1 g/l (2,6 mmol/l)` |
-|-------------------------|-----------------------------------------------------|-----------------------------------------------------|------------------------|
-| **Faible** <br> Score `<1 %` | Entre `1,16 g/l (3 mmol/l)` et `1,9 g/l (4,1 mmol/l)` | `>1,9 mmol/l (4,9 mmol/l)` <br> ou si objectif non atteint | `<1,16 g/l (3 mmol/l)` |
+|                                      | Valeur cible LDL-C intermédiaire                        | Indication de statine si LDL-C élevé ou objectif non atteint         | Objectif atteint (LDL-C bas)                |
+|--------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|
+| **Modéré** <br> Score 1-5%           | Entre `1 g/l (2,6 mmol/l)` et `1,9 g/l (4,1 mmol/l)`   | `>1,9 mmol/l (4,9 mmol/l)` <br> ou si objectif non atteint           | `<1 g/l (2,6 mmol/l)`                       |
+| **Faible** <br> Score `<1 %`         | Entre `1,16 g/l (3 mmol/l)` et `1,9 g/l (4,1 mmol/l)`  | `>1,9 mmol/l (4,9 mmol/l)` <br> ou si objectif non atteint           | `<1,16 g/l (3 mmol/l)`                      |
 
 
 > **Note**: The table formatting has been improved for better readability. The content has been strictly preserved as per the requirements.

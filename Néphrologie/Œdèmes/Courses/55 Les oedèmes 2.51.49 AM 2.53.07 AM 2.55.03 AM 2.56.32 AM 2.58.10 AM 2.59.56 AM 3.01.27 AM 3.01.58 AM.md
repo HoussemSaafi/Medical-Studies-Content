@@ -193,15 +193,15 @@ Il convient également d'apprécier les caractéristiques des **œdèmes** qui p
 
 ### Tableau 2 : Caractéristiques des **œdèmes** selon leurs types
 
-| **Œdème** | Prend le godet | Couleur | Consistance | Peau en regard |
-| --- | --- | --- | --- | --- |
-| **Rénal** | Oui | Blanc | Mou/ferme | - |
-| **Hépatique** | Oui | Blanc | Mou/ferme | - |
-| **Digestif** | Oui | Blanc | Mou/ferme | - |
-| **Cardiaque** | `+/-` | Blanc | Mou/ferme | - |
-| **Thyroïdien** | Non | Blanc | Elastique | - |
-| **Lymphatique** | Non | Peau luisante | Dur | Peau d'orange |
-| **Inflammatoire** | Non | Rouge, bleuâtre | Mou | Signes inflammatoires |
+| **Œdème**         | Prend le godet | Couleur         | Consistance   | Peau en regard         |
+|-------------------|----------------|-----------------|---------------|------------------------|
+| **Rénal**         | Oui            | Blanc           | Mou/ferme     | -                      |
+| **Hépatique**     | Oui            | Blanc           | Mou/ferme     | -                      |
+| **Digestif**      | Oui            | Blanc           | Mou/ferme     | -                      |
+| **Cardiaque**     | +/-            | Blanc           | Mou/ferme     | -                      |
+| **Thyroïdien**    | Non            | Blanc           | Elastique     | -                      |
+| **Lymphatique**   | Non            | Peau luisante   | Dur           | Peau d'orange          |
+| **Inflammatoire** | Non            | Rouge, bleuâtre | Mou           | Signes inflammatoires  |
 
 ---
 

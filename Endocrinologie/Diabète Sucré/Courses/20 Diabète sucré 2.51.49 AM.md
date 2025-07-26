@@ -2642,31 +2642,32 @@ Les **insulines** utilisées aujourd'hui sont :
 
 ### Tableau III - Les insulines humaines commercialisées en Tunisie
 
-| Durée d'action | Nom commercial | Présentation |
-| :-------------: | :-------------: | :---------------------------------------------------: |
-| **Insuline rapide** | Actrapid ${ }^{\circledR}$ HM <br> Insuman rapide | Suspension injectable, flacon de **10 ml** (`100 UI/ml`) |
-| | Actrapid ${ }^{\circledR}$ HMPenfill ${ }^{\circledR}$ | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
-| **Insuline intermédiaire** | Insulatard ${ }^{\circledR}$ HM NPH <br> Insumanbasale | Suspension injectable, flacon de **10 ml** (`100 UI/ml`) |
-| | Insulatard ${ }^{\circledR}$ HM NPH Penfill ${ }^{\circledR}$ | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
-| **Insuline biphasique** | Mixtard ${ }^{\circledR} 30 HM$ <br> Insumancomb | Suspension injectable, flacon de **10 ml** (`100 UI/ml`) |
-| | Mixtard ${ }^{\circledR} 30 HM$ Penfill ${ }^{\circledR}$ | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
+| Durée d'action         | Nom commercial                                                        | Présentation                                                    |
+|------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|
+| **Insuline rapide**    | Actrapid ${ }^{\circledR}$ HM <br> Insuman rapide                    | Suspension injectable, flacon de **10 ml** (`100 UI/ml`)        |
+|                        | Actrapid ${ }^{\circledR}$ HMPenfill ${ }^{\circledR}$               | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
+| **Insuline intermédiaire** | Insulatard ${ }^{\circledR}$ HM NPH <br> Insumanbasale           | Suspension injectable, flacon de **10 ml** (`100 UI/ml`)        |
+|                        | Insulatard ${ }^{\circledR}$ HM NPH Penfill ${ }^{\circledR}$        | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
+| **Insuline biphasique**| Mixtard ${ }^{\circledR} 30 HM$ <br> Insumancomb                     | Suspension injectable, flacon de **10 ml** (`100 UI/ml`)        |
+|                        | Mixtard ${ }^{\circledR} 30 HM$ Penfill ${ }^{\circledR}$            | Suspension injectable, boite de `5` cartouches de **3 ml** (`100 UI/ml`) |
 
 ### Tableau IV - Les analogues de l'insuline commercialisés en Tunisie
 
-| Durée d'action | Nom de la molécule | Nom commercial | Présentation |
-| :-------------: | :-----------------: | :-------------: | :---------------------------------------------------: |
-| **Analogue rapide** | **Asparte** | NovoRapid ${ }^{\circledR}$ FlexPen ${ }^{\circledR}$ | Suspension injectable (`100 UI/ml`), boite de `5` stylos pré-remplis (**3 ml**) |
-| | **Glulisine** | Apidra ${ }^{\circledR}$ Solostar ${ }^{\circledR}$ | |
-
+| Durée d'action         | Nom de la molécule | Nom commercial                                         | Présentation                                                    |
+|------------------------|--------------------|--------------------------------------------------------|-----------------------------------------------------------------|
+| **Analogue rapide**    | **Asparte**        | NovoRapid ${ }^{\circledR}$ FlexPen ${ }^{\circledR}$  | Suspension injectable (`100 UI/ml`), boite de `5` stylos pré-remplis (**3 ml**) |
+|                        | **Glulisine**      | Apidra ${ }^{\circledR}$ Solostar ${ }^{\circledR}$    |                                                                 |
 
 ---
 
+| Durée d'action         | Nom de la molécule | Nom commercial                                         | Présentation                                                    |
+|------------------------|--------------------|--------------------------------------------------------|-----------------------------------------------------------------|
+| **Analogue lent**      | **Glargine**       | **Lantus ${ }^{\circledR}$ Solostar ${ }^{\circledR}$**|                                                                 |
+|                        | **Levemir**        | **Levemir ${ }^{\circledR}$ FlexPen ${ }^{\circledR}$**|                                                                 |
 
-| **Analogue lent** | **Glargine** | **Lantus ${ }^{\circledR}$ Solostar ${ }^{\circledR}$** |  |
-|-------------------|--------------|---------------------------------------------|----|
-|                   | **Levemir**   | **Levemir ${ }^{\circledR}$ FlexPen ${ }^{\circledR}$** |  |
-
-| **Analogue prémixée** | **Asparte biphasique** | **NovoMix ${ }^{\circledR} 30$ FlexPen ${ }^{\circledR}$** |  |
+| Durée d'action             | Nom de la molécule      | Nom commercial                                         | Présentation                                                    |
+|----------------------------|-------------------------|--------------------------------------------------------|-----------------------------------------------------------------|
+| **Analogue prémixée**      | **Asparte biphasique**  | **NovoMix ${ }^{\circledR} 30$ FlexPen ${ }^{\circledR}$** |                                                            |
 
 ---
 
@@ -2928,14 +2929,14 @@ Les recommandations de l'**ADA** 2019 privilégient l'objectif cardio-vasculaire
 
 ### Tableau VI : Stratégie thérapeutique centrée sur le patient
 
-| Objectif                                      | Médications indiquées avec la metformine                                                                 | Médications à éviter                                                                 |
-|----------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Correction de la glycémie post prandiale     | Acarbose, glinides, gliptines, insuline rapide                                                                 |                                                                                     |
-| Eviter les hypoglycémies                     | Acarbose, gliptines, agonistes de GLP-1, i-SGLT-2, analogues de l'insuline                          | Sulfamides ++                                                                       |
-| Eviter la prise de poids                      | Agonistes de GLP-1, gliptines                                                                             | Sulfamides, insuline, glitazones                                                       |
-| **IRC**                                      | Gliquidone, glinides, gliptines (moitié dose), insuline                                                    | Metformine, sulfamides, i-SGLT-2                                                      |
-| Réduction du coût                            | Metformine, sulfamides, insuline humaine, génériques                                                    | Gliptines, analogues de l'insuline et de GLP-1, i-SGLT-2                             |
-| Protection cardio-vasculaire                 | Analogues GLP-1, i-SGLT-2                                                                               | Sulfamides, glitazone                                                                 |
+| Objectif                                  | Médications indiquées avec la metformine                                         | Médications à éviter                                         |
+|--------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Correction de la glycémie post prandiale   | Acarbose, glinides, gliptines, insuline rapide                                   |                                                              |
+| Eviter les hypoglycémies                   | Acarbose, gliptines, agonistes de GLP-1, i-SGLT-2, analogues de l'insuline        | Sulfamides ++                                                |
+| Eviter la prise de poids                   | Agonistes de GLP-1, gliptines                                                     | Sulfamides, insuline, glitazones                             |
+| **IRC**                                   | Gliquidone, glinides, gliptines (moitié dose), insuline                           | Metformine, sulfamides, i-SGLT-2                             |
+| Réduction du coût                          | Metformine, sulfamides, insuline humaine, génériques                              | Gliptines, analogues de l'insuline et de GLP-1, i-SGLT-2     |
+| Protection cardio-vasculaire               | Analogues GLP-1, i-SGLT-2                                                         | Sulfamides, glitazone                                        |
 
 > **Note:** L'observance thérapeutique étant souvent altérée par la polymédication (ADO, antihypertenseurs, statines, anti-agrégants plaquettaires...) et par le nombre de prises médicamenteuses quotidiennes, la commercialisation de diverses associations fixes : antidiabétiques oraux (metformine + sulfamides : Amaryl®, Glucovance®, metformine + gliptines : Janumet®, Galvumet®, Vildamet..), antihypertenseurs (IEC ou ARA2 et/ou diurétiques...), antihypertenseurs + statines... permettent d'alléger le protocole thérapeutique.
 
@@ -3124,10 +3125,10 @@ L'**insulinothérapie** par voie intraveineuse discontinue doit être évitée c
 
 ### Tableau VII : Modalités de contrôle de la glycémie en fonction des caractéristiques du diabète et des divers types d'interventions
 
-|  | Chirurgie courte et/ou mineure | Chirurgie longue et/ou lourde | Urgence |
-| :--: | :--: | :--: | :--: |
-| Diabète non insulinotraité équilibré | Poursuite des **ADO** sauf metformine et i-SGLT-2 | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **ADO** ou insuline selon les cas |
-| Diabète insulinotraité équilibré | Maintien **insulinothérapie** S/C <br> Apport **glucosé** 5% IV | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV |
+|                                      | Chirurgie courte et/ou mineure                                         | Chirurgie longue et/ou lourde                                         | Urgence                                                               |
+|--------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Diabète non insulinotraité équilibré | Poursuite des **ADO** sauf metformine et i-SGLT-2                      | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **ADO** ou insuline selon les cas                                     |
+| Diabète insulinotraité équilibré     | Maintien **insulinothérapie** S/C <br> Apport **glucosé** 5% IV        | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV |
 | Diabète insulinotraité non équilibré | Passage à **insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV | **Insulinothérapie** IV à débit continu <br> Apport **S glucosé** 5% IV |
 
 ---

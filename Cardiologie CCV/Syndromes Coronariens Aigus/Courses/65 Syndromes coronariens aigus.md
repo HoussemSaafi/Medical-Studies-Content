@@ -205,18 +205,18 @@ Les territoires électriques de l'**IDM** sont définis en fonction de la diffus
 
 ### Tableau (1) : Territoires électrocardiographiques de l'infarctus du myocarde et corrélation avec les artères coronaires coupables
 
-| Dérivations ECG | Territoires anatomiques | Artère coronaire coupable (responsable) |
-| :--: | :--: | :--: |
-| V1 à V3 | Antéro-septal | IVA |
-| V3 à V5 | Apical | IVA |
-| DI - aVL V5 - V6 | Latéral haut Latéral bas | Diagonale Cx / Marginale |
-| DII - DIII - aVF | Inférieur | CD / Cx |
-| V7 à V9 | Basal |  |
-| V1 à V5 | Antéro-septo-apical | IVA |
-| V1 à V6 | Antérieur | IVA |
-| V1 à V6 + DI - aVL | Antérieur étendu | IVA |
-| V1 à V3 + DII - DIII - aVF | Septal profond | IVA |
-| V1 à V6 + DI - VL + DII - DIII - aVF | Circonférentiel | Tronc commun - IVA |
+| Dérivations ECG                        | Territoires anatomiques      | Artère coronaire coupable (responsable) |
+|:---------------------------------------:|:---------------------------:|:---------------------------------------:|
+| V1 à V3                                | Antéro-septal               | IVA                                     |
+| V3 à V5                                | Apical                      | IVA                                     |
+| DI - aVL - V5 - V6                     | Latéral haut Latéral bas    | Diagonale Cx / Marginale                |
+| DII - DIII - aVF                       | Inférieur                   | CD / Cx                                 |
+| V7 à V9                                | Basal                       |                                         |
+| V1 à V5                                | Antéro-septo-apical         | IVA                                     |
+| V1 à V6                                | Antérieur                   | IVA                                     |
+| V1 à V6 + DI - aVL                     | Antérieur étendu            | IVA                                     |
+| V1 à V3 + DII - DIII - aVF             | Septal profond              | IVA                                     |
+| V1 à V6 + DI - aVL + DII - DIII - aVF  | Circonférentiel             | Tronc commun - IVA                      |
 
 ---
 
@@ -467,14 +467,14 @@ Parmi les bradycardies et les troubles de la conduction, le plus grave est le **
 
 #### Tableau (2) : Particularités du bloc auriculo-ventriculaire selon la localisation de l'infarctus du myocarde
 
-|  | **BAV** associé à un **IDM** inférieur | **BAV** associé à un **IDM** antérieur |
-| :-- | :-- | :-- |
-| Fréquence | Plus fréquent | Plus rare |
-| Mécanisme | Hypertonie vagale et/ou ischémie par atteinte de l'artère du nœud auriculo-ventriculaire | Nécrose myocardique impliquant les branches du faisceau de His au niveau du septum |
-| Siège | Haut situé (supra-hissien) | Bas situé (infra-hissien) |
-| Echappement ventriculaire | Relativement rapide à QRS fins | Lent, instable, à QRS larges |
-| Tolérance hémodynamique | Bien toléré | Mal toléré |
-| Réversibilité, pronostic | Résolution spontanée après reperfusion | Souvent irréversible, taux de mortalité élevé en raison d'une nécrose myocardique extensive associée |
+|                                      | **BAV** associé à un **IDM** inférieur                                                                 | **BAV** associé à un **IDM** antérieur                                                                                 |
+|--------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Fréquence                            | Plus fréquent                                                                                          | Plus rare                                                                                                              |
+| Mécanisme                            | Hypertonie vagale et/ou ischémie par atteinte de l'artère du nœud auriculo-ventriculaire               | Nécrose myocardique impliquant les branches du faisceau de His au niveau du septum                                     |
+| Siège                                | Haut situé (supra-hissien)                                                                             | Bas situé (infra-hissien)                                                                                              |
+| Echappement ventriculaire            | Relativement rapide à QRS fins                                                                         | Lent, instable, à QRS larges                                                                                           |
+| Tolérance hémodynamique              | Bien toléré                                                                                            | Mal toléré                                                                                                             |
+| Réversibilité, pronostic             | Résolution spontanée après reperfusion                                                                 | Souvent irréversible, taux de mortalité élevé en raison d'une nécrose myocardique extensive associée                   |
 
 ---
 

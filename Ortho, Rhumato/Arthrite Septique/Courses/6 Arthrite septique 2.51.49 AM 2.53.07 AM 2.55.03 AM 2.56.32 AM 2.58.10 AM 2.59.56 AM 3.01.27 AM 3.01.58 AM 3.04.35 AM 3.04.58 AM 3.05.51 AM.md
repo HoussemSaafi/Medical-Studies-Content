@@ -435,7 +435,7 @@ $\mathbf{A B G}=$ **Antibiogramme**, $\mathbf{F Q}=$ **Fluoroquinolones** $\math
 ### Tableau des Antibiotiques
 
 | **ANTIBIOTIQUES** | **DOSES JOURNALIERES** | **OBSERVATIONS** |
-| :--: | :--: | :--: |
+|-------------------|-----------------------|------------------|
 | **Pénicillines M** <br> - **Oxacilline** <br> - **Flucloxacilline** | `150-200 mg/kg` <br> `50-100 mg/kg` | Traitement d'entretien <br> Meilleure biodisponibilité orale. |
 | **C1G:** **Céfapirine** | `100-150 mg/kg` |  |
 | **C3G:** <br> - **Céfotaxime** <br> - **Ceftriaxone** <br> - **Ceftazidime** | `100-200 mg/kg` <br> `50-100 mg/kg` <br> `100 mg/kg` |  |
@@ -444,7 +444,7 @@ $\mathbf{A B G}=$ **Antibiogramme**, $\mathbf{F Q}=$ **Fluoroquinolones** $\math
 **C1G:** **Céphalosporines de 1ère génération**, **C3G:** **Céphalosporines de 3ème génération**
 
 | **ANTIBIOTIQUES** | **DOSES JOURNALIERES** | **OBSERVATIONS** |
-| :--: | :--: | :--: |
+|-------------------|-----------------------|------------------|
 | **Pristinamycine** | `50-100 mg/kg` | Mauvaise tolérance digestive à forte dose (>50 mg/kg/j). Activité bactéricide diminuée si résistance à l'érythromycine. |
 | **Clindamycine** | 2,4 g |  |
 | **Fluoroquinolones** <br> - **Ofloxacine** <br> - **Ciprofloxacine** | **600 mg** <br> **1500 mg** | Association obligatoire au début du traitement, particulièrement en cas de résistance à l'acide nalidixique. |

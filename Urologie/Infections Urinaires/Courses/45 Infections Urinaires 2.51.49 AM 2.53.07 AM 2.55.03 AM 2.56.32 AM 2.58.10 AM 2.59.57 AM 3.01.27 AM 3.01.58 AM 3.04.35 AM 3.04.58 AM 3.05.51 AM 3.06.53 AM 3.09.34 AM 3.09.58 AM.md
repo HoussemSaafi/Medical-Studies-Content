@@ -95,17 +95,17 @@ Les souches communautaires étaient sensibles à la majorité des antibiotiques 
 
 ### Tableau I. Taux de résistance d'**Escherichia coli** aux antibiotiques en Tunisie (2017)
 
-| Antibiotique | taux de résistance |
-| :-- | :--: |
-| **Aminopénicillines** | **71,7%** |
-| **Amoxicilline-acide clavulanique** | **26,1%** |
-| **Pivmécillinam** | pas de documentation |
-| **Céphalosporines** de 3ème génération (**C3G**) <br> (céfotaxime, ceftriaxone) | **18%** |
-| **Aminosides** <br> gentamicine <br> amikacine | **13%** |
-| **Triméthoprime-sulfaméthoxazole** | **0,2%** |
-| **Fluoroquinolones** <br> (ofloxacine, ciprofloxacine) | **25%** |
-| **Nitrofurantoïne** | **0,3%** à **10,8%** |
-| **Carbapénèmes** <br> imipénème <br> ertapénème | **0,1%** |
+| Antibiotique                                                                 | taux de résistance         |
+|-----------------------------------------------------------------------------|:-------------------------:|
+| **Aminopénicillines**                                                       | **71,7%**                 |
+| **Amoxicilline-acide clavulanique**                                         | **26,1%**                 |
+| **Pivmécillinam**                                                           | pas de documentation      |
+| **Céphalosporines** de 3ème génération (**C3G**) (céfotaxime, ceftriaxone)  | **18%**                   |
+| **Aminosides** (gentamicine, amikacine)                                     | **13%**                   |
+| **Triméthoprime-sulfaméthoxazole**                                          | **0,2%**                  |
+| **Fluoroquinolones** (ofloxacine, ciprofloxacine)                           | **25%**                   |
+| **Nitrofurantoïne**                                                         | **0,3%** à **10,8%**      |
+| **Carbapénèmes** (imipénème, ertapénème)                                    | **0,1%**                  |
 
 ---
 

@@ -247,25 +247,25 @@ Le seuil préconisé des **D-dimères** est inférieur à `500 ng/mL` pour les s
 
 ### Tableau 2 : Les causes d'élévation des **D-Dimères**
 
-| Physiologique | Pathologique |
-| :-- | :-- |
-| Âge | **Maladie thromboembolique** veineuse |
-| Grossesse | Ischémie myocardique |
-| Période néonatale | Artériopathie périphérique |
-| Période postopératoire | Insuffisance cardiaque |
-| Populations noires | Fibrillation auriculaire |
-|  | Dissection aortique |
-|  | **AVC** |
-|  | Traitement thrombolytique |
-|  | Cancer |
-|  | Infections |
-|  | Traumatismes récents |
-|  | Hémorragies |
-|  | Hémolyse |
-|  | **CIVD** |
-|  | Insuffisance rénale et hépatique |
-|  | Hospitalisation |
-|  | Alitement |
+| Physiologique           | Pathologique                                 |
+|------------------------|----------------------------------------------|
+| Âge                    | **Maladie thromboembolique** veineuse        |
+| Grossesse              | Ischémie myocardique                         |
+| Période néonatale      | Artériopathie périphérique                   |
+| Période postopératoire | Insuffisance cardiaque                       |
+| Populations noires     | Fibrillation auriculaire                     |
+|                        | Dissection aortique                          |
+|                        | **AVC**                                      |
+|                        | Traitement thrombolytique                    |
+|                        | Cancer                                       |
+|                        | Infections                                   |
+|                        | Traumatismes récents                         |
+|                        | Hémorragies                                  |
+|                        | Hémolyse                                     |
+|                        | **CIVD**                                     |
+|                        | Insuffisance rénale et hépatique             |
+|                        | Hospitalisation                              |
+|                        | Alitement                                    |
 
 ### 4.4. Diagnostic Différentiel :
 
@@ -399,12 +399,12 @@ La **MVTE** est une maladie multifactorielle. Parmi les facteurs étiologiques, 
 
 ### Tableau 4 : Facteurs transitoires
 
-| Facteurs transitoires, Situations à risque |  |
-| :-- | :-- |
-| **Chirurgie** | Orthopédique, abdominale lourde, arthroscopie du genou, neurochirurgie |
-| **Traumatisme** | Fractures, contusions, entorses |
-| **Obstétrique** | Grossesse <br> Accouchement <br> Césarienne <br> Post-partum <br> Avortement |
-| **Immobilisation** | Alitement prolongé <br> Paralysie <br> Immobilisation plâtrée <br> Voyage prolongé |
+| Facteurs transitoires, Situations à risque | Exemples |
+|--------------------------------------------|--------------------------------------------------------------------------|
+| **Chirurgie**                             | Orthopédique, abdominale lourde, arthroscopie du genou, neurochirurgie   |
+| **Traumatisme**                           | Fractures, contusions, entorses                                          |
+| **Obstétrique**                           | Grossesse <br> Accouchement <br> Césarienne <br> Post-partum <br> Avortement |
+| **Immobilisation**                        | Alitement prolongé <br> Paralysie <br> Immobilisation plâtrée <br> Voyage prolongé |
 
 ---
 
@@ -412,15 +412,15 @@ La **MVTE** est une maladie multifactorielle. Parmi les facteurs étiologiques, 
 
 ### Tableau 5 : Facteurs permanents liés au patient
 
-| Facteurs permanents liés au patient |  |
-| :--: | :--: |
-| **Âge** | Risque progressivement croissant |
-| **Thrombophilies constitutionnelles** | Déficit en **Antithrombine**, **Protéine S**, **Protéine C** Résistance à l'action de la **protéine C activée** ou mutation **Leiden** du **Fact V** <br> Mutation 20210 du gène de la **prothrombine** <br> **Hyperhomocystéinémie** |
-| **Thrombophilies acquises** | **Syndrome des antiphospholipides** **Syndrome néphrotique** Antécédent de maladie **thromboembolique** veineuse **Cancer** en évolution et leucémie, **syndrome Myéloprolifératif** |
-| **Maladies inflammatoires** | Infections chroniques <br> Infection **SARS-COV-2** <br> **Entéropathie inflammatoire chronique** <br> **Maladie de Behçet** <br> **Lupus érythémateux systémique** <br> **Thromboangéite oblitérante de Léo Buerger** |
-| **Médicaments** | Contraception orale **oestroprogestative** <br> Traitement hormonal substitutif de la ménopause <br> **Thrombopénie induite à l'héparine** <br> **Chimiothérapie**, **tamoxifène**, **thalidomide**, **carbamazepine** |
-| **Maladie Cardiovasculaire** | **Infarctus du myocarde** <br> **Insuffisance cardiaque** <br> **Artériopathie décompensée** <br> **Cœur pulmonaire chronique** <br> **Insuffisance veineuse chronique** |
-| **Compression veineuse** | **Syndrome de Cockett** <br> **Obésité** |
+| Facteurs permanents liés au patient      |                                                                                   |
+|------------------------------------------|-----------------------------------------------------------------------------------|
+| **Âge**                                 | Risque progressivement croissant                                                  |
+| **Thrombophilies constitutionnelles**    | Déficit en **Antithrombine**, **Protéine S**, **Protéine C**<br>Résistance à l'action de la **protéine C activée** ou mutation **Leiden** du **Fact V**<br>Mutation 20210 du gène de la **prothrombine**<br>**Hyperhomocystéinémie** |
+| **Thrombophilies acquises**              | **Syndrome des antiphospholipides**<br>**Syndrome néphrotique**<br>Antécédent de maladie **thromboembolique** veineuse<br>**Cancer** en évolution et leucémie, **syndrome Myéloprolifératif** |
+| **Maladies inflammatoires**              | Infections chroniques<br>Infection **SARS-COV-2**<br>**Entéropathie inflammatoire chronique**<br>**Maladie de Behçet**<br>**Lupus érythémateux systémique**<br>**Thromboangéite oblitérante de Léo Buerger** |
+| **Médicaments**                         | Contraception orale **oestroprogestative**<br>Traitement hormonal substitutif de la ménopause<br>**Thrombopénie induite à l'héparine**<br>**Chimiothérapie**, **tamoxifène**, **thalidomide**, **carbamazepine** |
+| **Maladie Cardiovasculaire**             | **Infarctus du myocarde**<br>**Insuffisance cardiaque**<br>**Artériopathie décompensée**<br>**Cœur pulmonaire chronique**<br>**Insuffisance veineuse chronique** |
+| **Compression veineuse**                 | **Syndrome de Cockett**<br>**Obésité** |
 
 ---
 
@@ -894,14 +894,14 @@ Augmentation des troponines.
 
 ##### Tableau 7 : Score de PESI simplifié (sPESI)
 
-| Critère                          | Points |
-|----------------------------------|--------|
-| Age > 80 ans                     | +1     |
-| Cancer                           | +1     |
-| Insuffisance cardiaque chronique ou pathologie respiratoire chronique | +1     |
-| **Fc** ≥ 110/min                 | +1     |
-| **PA** systolique < 100 mmHg     | +1     |
-| **SaO2** < 90%                   | +1     |
+| Critère                                                                 | Points |
+|-------------------------------------------------------------------------|--------|
+| Age > 80 ans                                                            | +1     |
+| Cancer                                                                  | +1     |
+| Insuffisance cardiaque chronique ou pathologie respiratoire chronique   | +1     |
+| **Fc** ≥ 110/min                                                        | +1     |
+| **PA** systolique < 100 mmHg                                            | +1     |
+| **SaO2** < 90%                                                          | +1     |
 
 Le score se calcule en sommant les points :
 
@@ -942,13 +942,12 @@ Deux sous-groupes :
 
 ### Tableau 8 : Classification de la sévérité de l'embolie pulmonaire et le risque de décès précoce (intra hospitalier ou à 30 jours)
 
-| Early mortality risk |  | Indicators of risk |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  | **Haemodynamic instability**<sup>a</sup> | **Clinical parameters of PE severity** and/or comorbidity: **PESI** class III-V or **sPESI** ≥ 1 | **RV dysfunction** on **TTE** or **CTPA**<sup>b</sup> | **Elevated cardiac troponin levels**<sup>c</sup> |
-| **High** |  | + | (+)<sup>c</sup> | + | (+) |
-| **Intermediate** | **Intermediate-high** | - | +< | + | + |
-|  | **Intermediate-low** | - | +< | One (or none) positive |  |
-| **Low** |  | - | - | - | Assessment optional: if assessed, negative |
+| Early mortality risk | Subgroup             | **Haemodynamic instability**<sup>a</sup> | **Clinical parameters of PE severity** and/or comorbidity: **PESI** class III-V or **sPESI** ≥ 1 | **RV dysfunction** on **TTE** or **CTPA**<sup>b</sup> | **Elevated cardiac troponin levels**<sup>c</sup> |
+|:--------------------:|:--------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
+| **High**             |                      | +                                        | (+)<sup>c</sup>                                                                                  | +                                                      | (+)                                                    |
+| **Intermediate**     | Intermediate-high    | -                                        | +<                                                                                               | +                                                      | +                                                      |
+|                      | Intermediate-low     | -                                        | +<                                                                                               | One (or none) positive                                 |                                                        |
+| **Low**              |                      | -                                        | -                                                                                                | -                                                      | Assessment optional: if assessed, negative              |
 
 Ainsi, en cas d'embolie pulmonaire grave (à risque élevé), l'**angioscanner** est à réaliser en premier lieu s'il est immédiatement disponible. À défaut, l'**échographie cardiaque** peut constituer une alternative pour le diagnostic positif (Figure 8).
 
@@ -1021,15 +1020,15 @@ Avant de démarrer un traitement par de l'héparine, il est impératif d'élimin
 
 ### Tableau 10 : Contre-indications du traitement anticoagulant
 
-| **Absolues** | **Relatives** |
-| :-- | :-- |
-| **Hémorragie patente** | Intervention chirurgicale récente |
-| **AVC hémorragique récent** | Tumeur cérébrale |
-| Intervention neuro-médullaire récente | **Hémorragie digestive récente** |
-| **Traumatisme crânien grave** | Ulcère gastroduodénal évolutif |
-| **Thrombopénie (plq<50000 G/I)** | **Hématurie macroscopique** |
-| Antécédents de **TIH** (pour l'héparine) | **HTA sévère non contrôlée** |
-| **Anomalie sévère de l'hémostase** |  |
+| **Absolues**                                 | **Relatives**                    |
+|:---------------------------------------------|:---------------------------------|
+| **Hémorragie patente**                       | Intervention chirurgicale récente|
+| **AVC hémorragique récent**                  | Tumeur cérébrale                 |
+| Intervention neuro-médullaire récente        | **Hémorragie digestive récente** |
+| **Traumatisme crânien grave**                | Ulcère gastroduodénal évolutif   |
+| **Thrombopénie (plq<50000 G/I)**             | **Hématurie macroscopique**      |
+| Antécédents de **TIH** (pour l'héparine)     | **HTA sévère non contrôlée**     |
+| **Anomalie sévère de l'hémostase**           |                                  |
 
 ---
 
@@ -1141,10 +1140,9 @@ Parmi les caractéristiques pharmacocinétiques des **AODs**, il faut souligner 
 ### Tableau 12 : Indications et posologies des anticoagulants oraux directs dans la MVTE
 
 |  | Rivaroxaban <br> (Xarelto) | Dabigatran <br> (Pradaxa) | Apixaban <br> (Eliquis) |
-| :--: | :--: | :--: | :--: |
-| Prévention de la **TVP** après chirurgie orthopédique (PTG et PTH) | `10 mg 1 x / jour` | `220 mg 1 x / jour` ou `150 mg 1 x / jour` | `2.5 mg 2 x / jour` |
-|  | hanche: 5 semaines <br> genou: 2 semaines | hanche: 28-35 jours <br> genou: 10 jours | hanche: 32-38 jours <br> genou: 10-14 jours |
-| Traitement de la **TVP** ou d' **EP** Prévention de la **MTEV** au long cours | `15 mg 2 x / jour` (3 semaines) <br> puis `20 mg 1 x / jour` | `150 mg 2 x / jour` | `10 mg 2 x / jour` (7 jours), <br> puis `5 mg 2 x / jour` |
+| :-- | :-- | :-- | :-- |
+| Prévention de la **TVP** après chirurgie orthopédique (PTG et PTH) | `10 mg 1 x / jour` <br> hanche: 5 semaines <br> genou: 2 semaines | `220 mg 1 x / jour` ou `150 mg 1 x / jour` <br> hanche: 28-35 jours <br> genou: 10 jours | `2.5 mg 2 x / jour` <br> hanche: 32-38 jours <br> genou: 10-14 jours |
+| Traitement de la **TVP** ou d' **EP** <br> Prévention de la **MTEV** au long cours | `15 mg 2 x / jour` (3 semaines) <br> puis `20 mg 1 x / jour` | `150 mg 2 x / jour` | `10 mg 2 x / jour` (7 jours), <br> puis `5 mg 2 x / jour` |
 
 ---
 
@@ -1162,11 +1160,9 @@ Le traitement thrombolytique d'une **EP** aiguë restaure la perfusion pulmonair
 
 ### Tableau 13 : Contre-indications des fibrinolytiques
 
-| Absolues | - **Hémorragie** active <br> - **Accident ischémique cérébral** de moins de 2 mois <br> - **Hémorragie intracrânienne** |
-| :--: | :--: |
-
-
-This formatting enhances readability while preserving all the original content.
+| **Absolues** |
+|:-------------|
+| - **Hémorragie** active <br> - **Accident ischémique cérébral** de moins de 2 mois <br> - **Hémorragie intracrânienne** |
 
 ---
 

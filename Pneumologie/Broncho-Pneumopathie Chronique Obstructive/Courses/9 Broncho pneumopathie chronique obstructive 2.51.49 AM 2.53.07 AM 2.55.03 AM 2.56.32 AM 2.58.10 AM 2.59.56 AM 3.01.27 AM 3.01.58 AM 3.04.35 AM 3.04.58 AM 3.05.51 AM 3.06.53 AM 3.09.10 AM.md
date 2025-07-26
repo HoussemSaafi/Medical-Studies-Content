@@ -1005,25 +1005,23 @@ $\mathrm{N}^{\circ}$ Validation : 0809202064
 
 ### Tableau 2. Résumé des différences cliniques, fonctionnelles et évolutives entre l'emphysème Centro-lobulaire et Pan-lobulaire.
 
-|  | Emphysème <br> panlobulaire (Type A) | Emphysème <br> centrolobulaire (Type B) |
-| :-- | :-- | :-- |
-| Terrain | Tabac, plus jeune | Tabac |
-| Symptômes | **DE** ++ <br> expectorations | Toux, expectorations <br> **DE** |
-| Signes physiques | Maigreur, longiligne, <br> distension | Obésité, cyanose, signes <br> d'**HTP** |
-| **EFR** | **TVO**, distension | **TVO** |
-| **GDS** | Hypoxémie tardive | Hypoxémie, hypercapnie <br> précoce |
-| **ETT** | Pas d'**HTP** | **HTP** précoce |
-
-
-This formatting improves readability while preserving all the original content.
+|                                | Emphysème panlobulaire (Type A)           | Emphysème centrolobulaire (Type B)        |
+|--------------------------------|-------------------------------------------|-------------------------------------------|
+| Terrain                        | Tabac, plus jeune                         | Tabac                                     |
+| Symptômes                      | **DE** ++ <br> expectorations             | Toux, expectorations <br> **DE**          |
+| Signes physiques               | Maigreur, longiligne, <br> distension     | Obésité, cyanose, signes <br> d'**HTP**   |
+| **EFR**                        | **TVO**, distension                       | **TVO**                                   |
+| **GDS**                        | Hypoxémie tardive                         | Hypoxémie, hypercapnie <br> précoce       |
+| **ETT**                        | Pas d'**HTP**                             | **HTP** précoce                           |
 
 ---
 
+|                              | Emphysème panlobulaire (Type A)                  | Emphysème centrolobulaire (Type B)                      |
+|------------------------------|--------------------------------------------------|---------------------------------------------------------|
+| **Imagerie**                 | **Distension, emphysème** prédominant aux bases  | **Distension modérée ou absente**, prédominant aux sommets |
+| **Évolution vers l'IRC**     | **Tardive**                                      | **Précoce**                                             |
 
-| **Imagerie** | **Distension, emphysème** prédominant aux bases | **Distension modérée ou absente**, prédominant aux sommets |
-|--------------|-------------------------------------------------|---------------------------------------------------------|
-| **Évolution vers l'IRC** | **Tardive** | **Précoce** |
-
+This formatting improves readability while preserving all the original content.
 ---
 
 ## Page 35

@@ -391,14 +391,14 @@ Bien qu'il n'existe pas de consensus dans la littérature sur la relation entre 
 
 ### Tableau I : Manifestations cliniques associées au niveau **HbCO**
 
-| **HbCO** (%) | Réponse chez un adulte sain |
-| :--: | :-- |
-| 0.3-0.7 | Niveau physiologique |
-| 5-10 | Niveau observable chez un fumeur |
-| 10-30 | Céphalées modérées, nausées, tachycardie |
-| 30-40 | Céphalées sévères, vomissements, irritabilité, ataxie, troubles visuels |
-| 40-50 | Céphalées, confusion, syncope |
-| >50-60 | Coma, convulsions, dépression cardiovasculaire, décès |
+| **HbCO** (%) | Réponse chez un adulte sain                                                         |
+|:------------:|------------------------------------------------------------------------------------|
+| 0.3-0.7      | Niveau physiologique                                                                |
+| 5-10         | Niveau observable chez un fumeur                                                    |
+| 10-30        | Céphalées modérées, nausées, tachycardie                                            |
+| 30-40        | Céphalées sévères, vomissements, irritabilité, ataxie, troubles visuels             |
+| 40-50        | Céphalées, confusion, syncope                                                       |
+| >50-60       | Coma, convulsions, dépression cardiovasculaire, décès                               |
 
 Un bilan biologique de retentissement est nécessaire devant chaque suspicion d'intoxication au **CO**, il comprend :
 
