@@ -1,0 +1,3344 @@
+{
+  "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+  "terms": [
+    {
+      "term": "lithogénèse",
+      "definition": "Processus de formation des calculs dans les voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase urinaire",
+        "calculs"
+      ],
+      "description": "La lithogénèse comprend plusieurs étapes, dont la nucléation, la croissance cristalline, l'agrégation cristalline et la rétention des cristaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calculs calciques",
+      "definition": "Type de calculs urinaires composés principalement de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxalates de calcium",
+        "lithiase urinaire"
+      ],
+      "description": "Les calculs calciques sont les plus fréquents et peuvent être oxalo-dépendants ou calcium-dépendants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calculs non calciques",
+      "definition": "Type de calculs urinaires ne contenant pas de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calculs uriques",
+        "calculs cystiniques"
+      ],
+      "description": "Les calculs non calciques incluent les calculs uriques, cystiniques et d'infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxalates de calcium",
+      "definition": "Type de calculs calciques composés d'oxalate de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Whewellite",
+        "Weddellite"
+      ],
+      "description": "Les oxalates de calcium peuvent être monohydratés (Whewellite) ou dihydratés (Weddellite).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Whewellite",
+      "definition": "Forme monohydratée des oxalates de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxalates de calcium monohydratés"
+      ],
+      "description": "Les Whewellite sont souvent brunâtres, lisses et de petite taille.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Weddellite",
+      "definition": "Forme dihydratée des oxalates de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxalates de calcium dihydratés"
+      ],
+      "description": "Les Weddellite sont souvent jaunâtres, spiculés et de grande taille.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase rénale",
+      "definition": "Présence de calculs dans les reins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase urinaire"
+      ],
+      "description": "La lithiase rénale peut avoir des conséquences graves sur le rein et l'individu.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithotritie",
+      "definition": "Technique de fragmentation des calculs urinaires par ondes de choc.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithotritie extracorporelle"
+      ],
+      "description": "La lithotritie est une méthode non invasive pour traiter les calculs urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NLPC",
+      "definition": "Néphrolithotomie percutanée, technique chirurgicale pour enlever les calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "chirurgie percutanée"
+      ],
+      "description": "La NLPC est une méthode chirurgicale mini-invasive pour traiter les calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urétéroscopie",
+      "definition": "Technique endoscopique pour visualiser et traiter les calculs dans l'uretère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "urétéroscopie rigide",
+        "urétéroscopie souple"
+      ],
+      "description": "L'urétéroscopie permet de traiter les calculs urétéraux de manière mini-invasive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AUSP",
+      "definition": "Abdomen sans préparation, examen radiologique de l'abdomen sans préparation.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "radiographie abdominale"
+      ],
+      "description": "L'AUSP est utilisé pour détecter les calculs urinaires et autres anomalies abdominales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose tubulaire",
+      "definition": "Trouble rénal caractérisé par une incapacité des tubules rénaux à acidifier correctement l'urine, entraînant une acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose tubulaire rénale"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "tubules rénaux"
+      ],
+      "description": "L'acidose tubulaire peut être complète ou incomplète et est souvent associée à des calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercalciurie",
+      "definition": "Excrétion urinaire excessive de calcium, souvent associée à des troubles métaboliques ou rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "calculs rénaux"
+      ],
+      "description": "L'hypercalciurie est un facteur de risque majeur pour la formation de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperparathyroïdie primaire",
+      "definition": "Trouble endocrinien caractérisé par une production excessive de parathormone par les glandes parathyroïdes, entraînant une hypercalcémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypercalcémie",
+        "parathormone"
+      ],
+      "description": "L'hyperparathyroïdie primaire est une cause fréquente de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acétazolamide",
+      "definition": "Inhibiteur de l'anhydrase carbonique utilisé pour traiter le glaucome, l'épilepsie et d'autres conditions.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "dichlorphénamide",
+        "topiramate"
+      ],
+      "description": "L'acétazolamide peut entraîner des calculs rénaux comme effet secondaire.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la gestion des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dichlorphénamide",
+      "definition": "Inhibiteur de l'anhydrase carbonique utilisé pour traiter le glaucome et d'autres conditions.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "acétazolamide",
+        "topiramate"
+      ],
+      "description": "Le dichlorphénamide peut entraîner des calculs rénaux comme effet secondaire.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la gestion des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbapatites",
+      "definition": "Type de phosphate de calcium qui précipite et cristallise dans des urines à pH élevé.",
+      "category": "pathologie",
+      "synonyms": [
+        "phosphates carbonatés"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "pH urinaire"
+      ],
+      "description": "Les carbapatites sont souvent associées à des calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "struvite",
+      "definition": "Phosphate ammoniaco-magnésien qui se forme en milieu alcalin et est souvent associé à des infections urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "phosphate ammoniaco-magnésium"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "infection urinaire"
+      ],
+      "description": "La struvite est fréquente dans les calculs rénaux complexes ou coralliformes.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brushite",
+      "definition": "Hydrogénophosphate de calcium qui se forme dans des urines plus acides et est calcium-dépendant.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calculs rénaux",
+        "hyperparathyroïdie"
+      ],
+      "description": "La brushite est une forme rare de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperuricurie",
+      "definition": "Excrétion urinaire excessive d'acide urique, souvent associée à des troubles métaboliques ou rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperuricémie",
+        "calculs rénaux"
+      ],
+      "description": "L'hyperuricurie est un facteur de risque pour la formation de calculs d'acide urique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cystinurie",
+      "definition": "Trouble héréditaire caractérisé par une excrétion urinaire excessive de cystine, entraînant la formation de calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cystine",
+        "calculs rénaux"
+      ],
+      "description": "La cystinurie est une cause rare mais grave de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cystine",
+      "definition": "Acide aminé qui, lorsqu'il est excrété en excès dans l'urine, peut former des calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cystinurie",
+        "calculs rénaux"
+      ],
+      "description": "La cystine est peu soluble et forme des calculs rénaux récidivants.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxalate",
+      "definition": "Sel ou ester de l'acide oxalique, souvent impliqué dans la formation de calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calculs rénaux",
+        "hyperoxalurie"
+      ],
+      "description": "L'oxalate est un composant fréquent des calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperoxalurie",
+      "definition": "Excrétion urinaire excessive d'oxalate, souvent associée à des troubles métaboliques ou rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxalate",
+        "calculs rénaux"
+      ],
+      "description": "L'hyperoxalurie est un facteur de risque pour la formation de calculs oxalocalciques.",
+      "expansion": null,
+      "clinical_significance": "Importante dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéine de Tamm-Horsfall",
+      "definition": "Glycoprotéine urinaire qui joue un rôle dans la défense contre les infections urinaires et la prévention de la formation de calculs rénaux.",
+      "category": "physiologie",
+      "synonyms": [
+        "uromoduline"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "infection urinaire"
+      ],
+      "description": "La protéine de Tamm-Horsfall a des propriétés antiagrégantes qui peuvent être altérées par certains facteurs.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la compréhension de la formation des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxalocalcique monohydraté",
+      "definition": "Forme cristalline de l'oxalate de calcium, un composant courant des calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "whewellite"
+      ],
+      "related_terms": [
+        "oxalate de calcium",
+        "lithiase oxalocalcique"
+      ],
+      "description": "L'oxalate de calcium monohydraté est une forme cristalline courante des calculs rénaux, souvent associée à une consommation élevée d'oxalate.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "oxalate de calcium cristaux",
+        "whewellite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phosphate de calcium",
+      "definition": "Composé chimique formé de phosphate et de calcium, souvent trouvé dans les calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase phosphocalcique",
+        "carbapatite"
+      ],
+      "description": "Le phosphate de calcium est un composant courant des calculs rénaux, souvent associé à des infections urinaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "phosphate de calcium cristaux",
+        "carbapatite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase d'infection",
+      "definition": "Type de calcul rénal formé en présence d'une infection urinaire, souvent composé de struvite.",
+      "category": "pathologie",
+      "synonyms": [
+        "calculs infectieux"
+      ],
+      "related_terms": [
+        "struvite",
+        "infection urinaire"
+      ],
+      "description": "Les lithiases d'infection se forment en présence d'une infection urinaire et sont souvent composées de struvite.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des infections urinaires.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "lithiase d'infection",
+        "struvite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithogenèse",
+      "definition": "Processus de formation des calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcul rénal",
+        "lithiase"
+      ],
+      "description": "La lithogenèse est le processus par lequel des cristaux se forment et s'agrègent pour former des calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Important dans la compréhension et la prévention des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "lithogenèse",
+        "calcul rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calculs",
+      "definition": "Concrétions solides formées dans les voies urinaires à partir de cristaux de sels minéraux.",
+      "category": "pathologie",
+      "synonyms": [
+        "lithiase",
+        "pierres rénales"
+      ],
+      "related_terms": [
+        "lithiase urinaire",
+        "néphrolithiase"
+      ],
+      "description": "Les calculs sont des formations solides dans les voies urinaires, souvent composées de sels minéraux comme l'oxalate de calcium ou l'acide urique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des maladies rénales.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "calculs rénaux",
+        "lithiase"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obstacle congénital",
+      "definition": "Anomalie présente à la naissance qui peut obstruer les voies urinaires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "anomalie congénitale",
+        "obstruction urinaire"
+      ],
+      "description": "Un obstacle congénital est une anomalie présente à la naissance qui peut entraîner une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des maladies rénales congénitales.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "obstacle congénital",
+        "anomalie congénitale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anomalie anatomique",
+      "definition": "Déviation de la structure normale d'un organe ou d'une partie du corps.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "malformation",
+        "déformation"
+      ],
+      "description": "Une anomalie anatomique est une déviation de la structure normale d'un organe ou d'une partie du corps, souvent congénitale.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des maladies congénitales.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "anomalie anatomique",
+        "malformation"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "germes uréasiques",
+      "definition": "Bactéries capables de décomposer l'urée en ammoniac et en dioxyde de carbone, favorisant la formation de calculs de struvite.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Proteus",
+        "Klebsiella",
+        "struvite"
+      ],
+      "description": "Les germes uréasiques sont des bactéries qui décomposent l'urée, augmentant le pH urinaire et favorisant la formation de calculs de struvite.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des infections urinaires.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "germes uréasiques",
+        "Proteus"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calculs de struvite",
+      "definition": "Type de calcul rénal composé de magnésium, d'ammonium et de phosphate, souvent associé à des infections urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "calculs de phosphate ammoniaco-magnésien"
+      ],
+      "related_terms": [
+        "struvite",
+        "infection urinaire"
+      ],
+      "description": "Les calculs de struvite sont formés en présence d'infections urinaires par des bactéries uréasiques et sont composés de magnésium, d'ammonium et de phosphate.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des infections urinaires.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "calculs de struvite",
+        "struvite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ion citrate",
+      "definition": "Ion organique présent dans l'urine qui inhibe la formation de cristaux de calcium.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "citrate",
+        "lithiase"
+      ],
+      "description": "L'ion citrate est un inhibiteur naturel de la cristallisation du calcium dans l'urine, aidant à prévenir la formation de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "ion citrate",
+        "citrate"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "magnésium",
+      "definition": "Élément minéral essentiel qui joue un rôle dans de nombreuses fonctions corporelles, y compris la prévention de la formation de calculs rénaux.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "minéral",
+        "lithiase"
+      ],
+      "description": "Le magnésium est un minéral essentiel qui aide à prévenir la formation de calculs rénaux en inhibant la cristallisation des sels de calcium.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des calculs rénaux.",
+      "normal_values": "1.7-2.2 mg/dL",
+      "image_search_terms": [
+        "magnésium",
+        "minéral"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyrophosphate",
+      "definition": "Composé chimique qui inhibe la formation de cristaux de calcium dans l'urine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase",
+        "inhibiteur de cristallisation"
+      ],
+      "description": "Le pyrophosphate est un inhibiteur naturel de la cristallisation du calcium dans l'urine, aidant à prévenir la formation de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "pyrophosphate",
+        "inhibiteur de cristallisation"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "zinc",
+      "definition": "Élément trace essentiel qui joue un rôle dans de nombreuses fonctions corporelles, y compris la prévention de la formation de calculs rénaux.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "minéral",
+        "lithiase"
+      ],
+      "description": "Le zinc est un élément trace essentiel qui aide à prévenir la formation de calculs rénaux en inhibant la cristallisation des sels de calcium.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des calculs rénaux.",
+      "normal_values": "0.66-1.10 mcg/mL",
+      "image_search_terms": [
+        "zinc",
+        "minéral"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxalate de calcium",
+      "definition": "Composé chimique formé de calcium et d'oxalate, souvent trouvé dans les calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase oxalocalcique",
+        "whewellite"
+      ],
+      "description": "L'oxalate de calcium est un composant courant des calculs rénaux, souvent associé à une consommation élevée d'oxalate.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "oxalate de calcium cristaux",
+        "whewellite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiases phosphocalciques",
+      "definition": "Calculs rénaux composés de phosphate de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "phosphate de calcium",
+        "carbapatite"
+      ],
+      "description": "Les lithiases phosphocalciques sont des calculs rénaux composés de phosphate de calcium, souvent associés à des infections urinaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "lithiases phosphocalciques",
+        "carbapatite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiases uriques",
+      "definition": "Calculs rénaux composés d'acide urique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "acide urique",
+        "goutte"
+      ],
+      "description": "Les lithiases uriques sont des calculs rénaux composés d'acide urique, souvent associés à la goutte.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "lithiases uriques",
+        "acide urique"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monoconstitutionnels",
+      "definition": "Calculs rénaux composés d'un seul type de cristal.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calculs purs",
+        "lithiase"
+      ],
+      "description": "Les calculs monoconstitutionnels sont des calculs rénaux composés d'un seul type de cristal, contrairement aux calculs mixtes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "monoconstitutionnels",
+        "calculs purs"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbapatite",
+      "definition": "Forme cristalline de phosphate de calcium, souvent trouvée dans les calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "phosphate de calcium",
+        "lithiase phosphocalcique"
+      ],
+      "description": "La carbapatite est une forme cristalline courante des calculs rénaux, souvent associée à des infections urinaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "carbapatite",
+        "phosphate de calcium"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coliques néphrétiques",
+      "definition": "Douleur intense causée par le passage d'un calcul rénal à travers les voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "colique rénale"
+      ],
+      "related_terms": [
+        "calcul rénal",
+        "lithiase"
+      ],
+      "description": "Les coliques néphrétiques sont des douleurs intenses causées par le passage d'un calcul rénal à travers les voies urinaires, souvent accompagnées de nausées et de vomissements.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des calculs rénaux.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "coliques néphrétiques",
+        "colique rénale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colique néphrétique",
+      "definition": "Douleur intense causée par la présence d'un calcul dans les voies urinaires, souvent due à l'obstruction du flux urinaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "colique rénale"
+      ],
+      "related_terms": [
+        "lithiase urinaire",
+        "calcul rénal"
+      ],
+      "description": "La colique néphrétique est une urgence urologique caractérisée par une douleur intense, souvent localisée dans le flanc et irradiant vers l'aine et les organes génitaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation rapide pour déterminer la cause et le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "colique néphrétique",
+        "calcul rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyurique",
+      "definition": "Caractérisé par une production excessive d'urine.",
+      "category": "physiologie",
+      "synonyms": [
+        "polyurie"
+      ],
+      "related_terms": [
+        "diurèse",
+        "oligo-anurie"
+      ],
+      "description": "La polyurie peut être un signe de diverses conditions médicales, y compris le diabète insipide et le diabète sucré.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polyurie",
+        "diurèse"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "vésicaux irritatifs",
+      "definition": "Symptômes liés à l'irritation de la vessie, souvent caractérisés par des mictions fréquentes et douloureuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "symptômes vésicaux"
+      ],
+      "related_terms": [
+        "cystite",
+        "pollakiurie"
+      ],
+      "description": "Les signes vésicaux irritatifs peuvent inclure des douleurs vésicales, des mictions fréquentes et une sensation de brûlure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vésicaux irritatifs",
+        "cystite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "péritonéaux",
+      "definition": "Relatif au péritoine, la membrane séreuse qui tapisse la cavité abdominale et recouvre les organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "péritonéal"
+      ],
+      "related_terms": [
+        "péritonite",
+        "cavité abdominale"
+      ],
+      "description": "Les signes péritonéaux peuvent inclure une douleur abdominale intense, une défense abdominale et une sensibilité à la palpation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonéaux",
+        "péritonite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "cœliaque",
+      "definition": "Relatif au plexus cœliaque, un réseau de nerfs situé dans l'abdomen qui innerve plusieurs organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "plexus cœliaque"
+      ],
+      "related_terms": [
+        "plexus nerveux",
+        "innervation abdominale"
+      ],
+      "description": "Le plexus cœliaque est impliqué dans la transmission de la douleur et d'autres sensations provenant des organes abdominaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plexus cœliaque",
+        "innervation abdominale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "mésentérique",
+      "definition": "Relatif au mésentère, une membrane qui soutient l'intestin grêle et contient des vaisseaux sanguins et des nerfs.",
+      "category": "anatomie",
+      "synonyms": [
+        "mésentérique"
+      ],
+      "related_terms": [
+        "mésentère",
+        "vaisseaux mésentériques"
+      ],
+      "description": "Le plexus mésentérique est impliqué dans l'innervation et la vascularisation de l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mésentérique",
+        "mésentère"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "pollakiurie",
+      "definition": "Mictions fréquentes et en petites quantités, souvent associées à une irritation de la vessie.",
+      "category": "pathologie",
+      "synonyms": [
+        "pollakiurie"
+      ],
+      "related_terms": [
+        "cystite",
+        "vésicaux irritatifs"
+      ],
+      "description": "La pollakiurie est un symptôme courant des infections urinaires et des irritations de la vessie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pollakiurie",
+        "cystite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "impériosités",
+      "definition": "Besoin urgent et fréquent d'uriner, souvent associé à une irritation de la vessie.",
+      "category": "pathologie",
+      "synonyms": [
+        "impériosités mictionnelles"
+      ],
+      "related_terms": [
+        "pollakiurie",
+        "cystite"
+      ],
+      "description": "Les impériosités sont un symptôme courant des infections urinaires et des irritations de la vessie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "impériosités",
+        "cystite"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "juxtavésical",
+      "definition": "Situé à proximité de la vessie.",
+      "category": "anatomie",
+      "synonyms": [
+        "juxtavésical"
+      ],
+      "related_terms": [
+        "uretère",
+        "vessie"
+      ],
+      "description": "Le segment juxtavésical de l'uretère est la partie de l'uretère située près de la vessie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "juxtavésical",
+        "uretère"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "lithiase urinaire",
+      "definition": "Présence de calculs ou de pierres dans les voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "calculs urinaires",
+        "pierres urinaires"
+      ],
+      "related_terms": [
+        "colique néphrétique",
+        "hématurie"
+      ],
+      "description": "La lithiase urinaire peut causer des douleurs intenses, des infections et des obstructions des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lithiase urinaire",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urologiques",
+      "definition": "Relatif à l'urologie, la spécialité médicale qui traite les maladies des voies urinaires et des organes génitaux masculins.",
+      "category": "pathologie",
+      "synonyms": [
+        "urologie"
+      ],
+      "related_terms": [
+        "lithiase urinaire",
+        "colique néphrétique"
+      ],
+      "description": "Les antécédents urologiques peuvent inclure des malformations, des infections ou des interventions chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "urologiques",
+        "urologie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "hyperparathyroïdie",
+      "definition": "Augmentation de l'activité des glandes parathyroïdes, souvent associée à des niveaux élevés de calcium dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperparathyroïdie"
+      ],
+      "related_terms": [
+        "parathyroïdes",
+        "calcium sanguin"
+      ],
+      "description": "L'hyperparathyroïdie peut causer des calculs rénaux, des fractures osseuses et d'autres complications.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperparathyroïdie",
+        "parathyroïdes"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "rectocolite hémorragique",
+      "definition": "Inflammation chronique du rectum et du côlon, souvent caractérisée par des saignements et des douleurs abdominales.",
+      "category": "pathologie",
+      "synonyms": [
+        "rectocolite hémorragique"
+      ],
+      "related_terms": [
+        "rectum",
+        "côlon"
+      ],
+      "description": "La rectocolite hémorragique peut causer des diarrhées sanglantes, des douleurs abdominales et une perte de poids.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rectocolite hémorragique",
+        "côlon"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "iléites",
+      "definition": "Inflammation de l'iléon, la partie terminale de l'intestin grêle.",
+      "category": "pathologie",
+      "synonyms": [
+        "iléite"
+      ],
+      "related_terms": [
+        "iléon",
+        "intestin grêle"
+      ],
+      "description": "Les iléites peuvent causer des douleurs abdominales, des diarrhées et une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iléites",
+        "iléon"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "résections iléales",
+      "definition": "Chirurgie consistant à enlever une partie de l'iléon.",
+      "category": "pathologie",
+      "synonyms": [
+        "résection iléale"
+      ],
+      "related_terms": [
+        "iléon",
+        "chirurgie intestinale"
+      ],
+      "description": "Les résections iléales peuvent être nécessaires pour traiter des maladies inflammatoires de l'intestin ou des tumeurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "résections iléales",
+        "iléon"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "oligo-anurie",
+      "definition": "Diminution ou absence de production d'urine.",
+      "category": "pathologie",
+      "synonyms": [
+        "oligo-anurie"
+      ],
+      "related_terms": [
+        "diurèse",
+        "insuffisance rénale"
+      ],
+      "description": "L'oligo-anurie peut être un signe d'insuffisance rénale aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oligo-anurie",
+        "insuffisance rénale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "radio-opaques",
+      "definition": "Caractérise des substances ou des structures qui apparaissent opaques sur les radiographies en raison de leur densité.",
+      "category": "imagerie",
+      "synonyms": [
+        "radio-opaque"
+      ],
+      "related_terms": [
+        "radiographie",
+        "densité"
+      ],
+      "description": "Les calculs radio-opaques contiennent souvent du calcium et sont visibles sur les radiographies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "radio-opaques",
+        "radiographie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "radio-transparents",
+      "definition": "Caractérise des substances ou des structures qui ne sont pas visibles sur les radiographies en raison de leur faible densité.",
+      "category": "imagerie",
+      "synonyms": [
+        "radio-transparent"
+      ],
+      "related_terms": [
+        "radiographie",
+        "densité"
+      ],
+      "description": "Les calculs radio-transparents ne contiennent pas de calcium et ne sont pas visibles sur les radiographies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "radio-transparents",
+        "radiographie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "aérocolie",
+      "definition": "Présence excessive de gaz dans le côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "aérocolie"
+      ],
+      "related_terms": [
+        "côlon",
+        "gaz intestinal"
+      ],
+      "description": "L'aérocolie peut être causée par une obstruction intestinale ou une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aérocolie",
+        "côlon"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "stase stercorale",
+      "definition": "Accumulation excessive de matières fécales dans le côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "stase stercorale"
+      ],
+      "related_terms": [
+        "côlon",
+        "constipation"
+      ],
+      "description": "La stase stercorale peut être causée par une constipation sévère ou une obstruction intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "stase stercorale",
+        "côlon"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "pyélocalicielles",
+      "definition": "Relatif aux cavités pyélocalicielles, les structures internes du rein qui collectent l'urine.",
+      "category": "anatomie",
+      "synonyms": [
+        "pyélocaliciel"
+      ],
+      "related_terms": [
+        "rein",
+        "cavités rénales"
+      ],
+      "description": "Les cavités pyélocalicielles incluent le bassinet et les calices rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pyélocalicielles",
+        "rein"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "hyperéchogène",
+      "definition": "Caractérise une structure qui apparaît plus brillante que les tissus environnants sur une échographie en raison de sa capacité à réfléchir les ondes ultrasonores.",
+      "category": "imagerie",
+      "synonyms": [
+        "hyperéchogène"
+      ],
+      "related_terms": [
+        "échographie",
+        "ultrasons"
+      ],
+      "description": "Les calculs rénaux apparaissent souvent hyperéchogènes sur une échographie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperéchogène",
+        "échographie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "calculs urétéraux",
+      "definition": "Calculs situés dans les uretères, les canaux qui transportent l'urine des reins à la vessie.",
+      "category": "pathologie",
+      "synonyms": [
+        "lithiase urétérale"
+      ],
+      "related_terms": [
+        "lithiase rénale",
+        "calcul rénal"
+      ],
+      "description": "Les calculs urétéraux peuvent causer une obstruction urinaire et des douleurs intenses, souvent appelées coliques néphrétiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlébolithe pelvien",
+      "definition": "Calcification dans une veine pelvienne, souvent confondue avec un calcul urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcul rénal",
+        "lithiase urinaire"
+      ],
+      "description": "Le phlébolithe pelvien est une calcification bénigne qui peut être visualisée sur les images radiologiques et doit être distinguée des calculs urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase coralliforme",
+      "definition": "Type de lithiase pyélique avec des prolongements caliciels, ressemblant à du corail.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase pyélique",
+        "calcul rénal"
+      ],
+      "description": "La lithiase coralliforme est une forme complexe de calcul rénal qui peut être difficile à traiter.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase pyélique",
+      "definition": "Calcul situé dans le bassinet rénal, la partie du rein où l'urine s'accumule avant de passer dans l'uretère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase rénale",
+        "calcul rénal"
+      ],
+      "description": "La lithiase pyélique peut causer des douleurs et des obstructions urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urétérohydronéphrose",
+      "definition": "Dilatation de l'uretère et du rein en amont d'une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hydronéphrose",
+        "obstruction urinaire"
+      ],
+      "description": "L'urétérohydronéphrose est une condition où l'uretère et le rein se dilatent en raison d'une obstruction, souvent causée par un calcul.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphromégalie",
+      "definition": "Augmentation de la taille du rein, souvent due à une obstruction ou une maladie rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertrophie rénale",
+        "obstruction urinaire"
+      ],
+      "description": "La néphromégalie peut être un signe d'obstruction urinaire ou d'autres maladies rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélectasie",
+      "definition": "Dilatation du bassinet rénal, souvent due à une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hydronéphrose",
+        "obstruction urinaire"
+      ],
+      "description": "La pyélectasie est une condition où le bassinet rénal se dilate en raison d'une obstruction.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "graisse périrénale",
+      "definition": "Tissu adipeux entourant le rein, qui peut être affecté par des infiltrations ou des épanchements en cas de maladie rénale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "graisse périurétérale",
+        "infiltration rénale"
+      ],
+      "description": "La graisse périrénale peut montrer des signes d'infiltration ou d'épanchement en cas de maladie rénale ou d'obstruction urinaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "graisse périurétérale",
+      "definition": "Tissu adipeux entourant l'uretère, qui peut être affecté par des infiltrations ou des épanchements en cas de maladie rénale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "graisse périrénale",
+        "infiltration rénale"
+      ],
+      "description": "La graisse périurétérale peut montrer des signes d'infiltration ou d'épanchement en cas de maladie rénale ou d'obstruction urinaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "unités Hounsfield",
+      "definition": "Échelle de mesure de la densité des tissus sur les images de TDM, allant de -1000 (air) à +1000 (os dense).",
+      "category": "imagerie",
+      "synonyms": [
+        "échelle Hounsfield"
+      ],
+      "related_terms": [
+        "TDM",
+        "densité tissulaire"
+      ],
+      "description": "Les unités Hounsfield permettent de quantifier la densité des tissus sur les images de TDM, aidant à différencier les types de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CN",
+      "definition": "Colique néphrétique, une douleur intense causée par un calcul rénal bloquant l'uretère.",
+      "category": "pathologie",
+      "synonyms": [
+        "colique rénale"
+      ],
+      "related_terms": [
+        "lithiase urinaire",
+        "calcul rénal"
+      ],
+      "description": "La colique néphrétique est une urgence médicale nécessitant une intervention rapide pour soulager la douleur et traiter l'obstruction.",
+      "expansion": "Colique Néphrétique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uretère",
+      "definition": "Canal qui transporte l'urine des reins à la vessie.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "rein",
+        "vessie"
+      ],
+      "description": "L'uretère peut être obstrué par des calculs, causant des douleurs et des complications urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTH",
+      "definition": "Parathormone, une hormone sécrétée par les glandes parathyroïdes qui régule le métabolisme du calcium et du phosphore.",
+      "category": "physiologie",
+      "synonyms": [
+        "parathyrine"
+      ],
+      "related_terms": [
+        "calcium",
+        "phosphore"
+      ],
+      "description": "Le dosage de la PTH est important dans l'évaluation des troubles métaboliques liés à la lithiase urinaire.",
+      "expansion": "Parathyroid Hormone",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A.A",
+      "definition": "Acides aminés, les unités de base des protéines.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "protéines",
+        "métabolisme"
+      ],
+      "description": "Le dosage des acides aminés par chromatographie urinaire est utilisé pour évaluer les désordres métaboliques liés à la lithiase urinaire.",
+      "expansion": "Acides Aminés",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrocalcinose",
+      "definition": "Dépôt de calcium dans le parenchyme rénal, souvent associé à des troubles métaboliques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase rénale",
+        "calcul rénal"
+      ],
+      "description": "La néphrocalcinose peut être un signe de troubles métaboliques sous-jacents et nécessite une évaluation approfondie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Uro TDM",
+      "definition": "Tomodensitométrie urologique, une TDM spécifique pour évaluer les structures urologiques.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "TDM",
+        "imagerie urologique"
+      ],
+      "description": "L'Uro TDM est utilisée pour diagnostiquer et évaluer les pathologies urologiques, y compris les calculs rénaux et les obstructions.",
+      "expansion": "Urological CT",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urétéropyélographie rétrograde",
+      "definition": "Procédure diagnostique et thérapeutique où un contraste est injecté dans les uretères pour visualiser les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélographie",
+        "imagerie urologique"
+      ],
+      "description": "L'urétéropyélographie rétrograde est utilisée pour diagnostiquer et traiter les obstructions urinaires et les calculs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sonde double J",
+      "definition": "Dispositif médical utilisé pour drainer les urines en contournant une obstruction urétérale.",
+      "category": "pathologie",
+      "synonyms": [
+        "stent urétéral"
+      ],
+      "related_terms": [
+        "drainage urinaire",
+        "obstruction urétérale"
+      ],
+      "description": "La sonde double J est utilisée pour soulager les obstructions urinaires et permettre le passage des urines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrostomie percutanée",
+      "definition": "Procédure où un tube est inséré directement dans le rein pour drainer les urines en cas d'obstruction.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "drainage urinaire",
+        "obstruction urinaire"
+      ],
+      "description": "La néphrostomie percutanée est utilisée pour soulager les obstructions urinaires sévères et permettre le drainage des urines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélographie descendante",
+      "definition": "Procédure où un contraste est injecté dans le rein pour visualiser les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélographie",
+        "imagerie urologique"
+      ],
+      "description": "La pyélographie descendante est utilisée pour évaluer les voies urinaires et diagnostiquer les obstructions et les calculs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de levée d'obstacle",
+      "definition": "Complication pouvant survenir après le drainage d'une obstruction urinaire, caractérisée par une diurèse excessive et des déséquilibres électrolytiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "drainage urinaire",
+        "obstruction urinaire"
+      ],
+      "description": "Le syndrome de levée d'obstacle nécessite une surveillance et une gestion appropriées pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélonéphrite obstructive",
+      "definition": "Infection rénale compliquée par une obstruction urinaire, souvent causée par un calcul.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite",
+        "obstruction urinaire"
+      ],
+      "description": "La pyélonéphrite obstructive est une urgence médicale nécessitant un traitement rapide pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélonéphrite aiguë",
+      "definition": "Infection rénale aiguë, souvent causée par une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite",
+        "infection rénale"
+      ],
+      "description": "La pyélonéphrite aiguë est une infection rénale nécessitant un traitement antibiotique et un drainage des urines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlegmon périnéphrétique",
+      "definition": "Infection sévère des tissus autour du rein, souvent causée par une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection rénale",
+        "abcès périnéphrétique"
+      ],
+      "description": "Le phlegmon périnéphrétique est une urgence médicale nécessitant un traitement antibiotique et un drainage chirurgical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyonéphrose",
+      "definition": "Infection purulente du rein, souvent causée par une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "abcès rénal",
+        "infection rénale"
+      ],
+      "description": "La pyonéphrose est une urgence médicale nécessitant un traitement antibiotique et un drainage chirurgical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélonéphrite chronique",
+      "definition": "Infection rénale chronique, souvent causée par des obstructions urinaires répétées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite",
+        "infection rénale"
+      ],
+      "description": "La pyélonéphrite chronique peut entraîner une destruction progressive du rein et nécessite un traitement à long terme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélonéphrite xantogranulomateuse",
+      "definition": "Forme rare et sévère de pyélonéphrite, caractérisée par des granulomes xanthomateux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite",
+        "infection rénale"
+      ],
+      "description": "La pyélonéphrite xantogranulomateuse est une infection rénale sévère nécessitant un traitement antibiotique et chirurgical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "UIV",
+      "definition": "Urographie intraveineuse, une technique d'imagerie utilisant un produit de contraste injecté par voie intraveineuse pour visualiser les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "urographie",
+        "imagerie urologique"
+      ],
+      "description": "L'UIV est utilisée pour diagnostiquer les obstructions urinaires et les calculs rénaux.",
+      "expansion": "Urographie IntraVeineuse",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydronéphrose",
+      "definition": "Dilatation du rein due à une obstruction de l'écoulement de l'urine.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrose hydrique"
+      ],
+      "related_terms": [
+        "pyonéphrose",
+        "urétérohydronéphrose"
+      ],
+      "description": "L'hydronéphrose peut être causée par diverses obstructions, y compris les calculs rénaux, les tumeurs, ou les malformations congénitales.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrites interstitielles",
+      "definition": "Inflammation des tissus interstitiels du rein, souvent due à des infections, des médicaments, ou des toxines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite chronique",
+        "insuffisance rénale chronique"
+      ],
+      "description": "Les néphrites interstitielles peuvent entraîner une insuffisance rénale chronique si non traitées.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement spécifique en fonction de la cause sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrectomie",
+      "definition": "Ablation chirurgicale d'un rein.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyélonéphrite xantogranulomateuse"
+      ],
+      "description": "La néphrectomie est indiquée pour des maladies rénales sévères ou des tumeurs.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale si l'autre rein n'est pas fonctionnel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie métabolique héréditaire lithogène",
+      "definition": "Maladie génétique entraînant la formation de calculs rénaux en raison de perturbations métaboliques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxalose"
+      ],
+      "description": "Exemple : l'oxalose, une maladie héréditaire autosomique récessive due à un déficit enzymatique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les complications rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxalose",
+      "definition": "Maladie héréditaire autosomique récessive due à un déficit enzymatique entraînant un dépôt d'oxalate de calcium dans les reins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie métabolique héréditaire lithogène"
+      ],
+      "description": "L'oxalose peut entraîner une insuffisance rénale chronique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les complications rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uropathie malformative",
+      "definition": "Malformation congénitale de l'appareil urinaire entraînant des anomalies structurelles.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase urinaire"
+      ],
+      "description": "Les uropathies malformatives peuvent favoriser la formation de calculs rénaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention chirurgicale pour corriger les anomalies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goutte",
+      "definition": "Maladie inflammatoire chronique caractérisée par des crises douloureuses d'arthrite due à des dépôts de cristaux d'acide urique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase urique"
+      ],
+      "description": "La goutte peut être primaire ou secondaire à un traitement uricosurique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les crises et les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coralliforme",
+      "definition": "Forme de calcul rénal ressemblant à du corail, souvent observée dans les lithiases cystiniques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase cystinique"
+      ],
+      "description": "Les calculs coralliformes sont souvent récidivants et résistants aux ondes de choc.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les récidives de calculs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ectasies canaliculaires précalicielles",
+      "definition": "Dilatation congénitale des tubes collecteurs prépapillaires, souvent bilatérale mais peut être unilatérale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Cacchi Ricci",
+        "ligne de Hodson"
+      ],
+      "description": "Anomalie anatomique fréquente visible sur l'UIV ou en cas de calcifications.",
+      "expansion": "",
+      "clinical_significance": "Peut être associée à des images d'addition sur l'UIV.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ectasies canaliculaires précalicielles",
+        "ligne de Hodson"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Cacchi Ricci",
+      "definition": "Maladie caractérisée par des ectasies canaliculaires précalicielles, souvent bilatérale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ectasies canaliculaires précalicielles",
+        "ligne de Hodson"
+      ],
+      "description": "Anomalie anatomique fréquente visible sur l'UIV ou en cas de calcifications.",
+      "expansion": "",
+      "clinical_significance": "Peut être associée à des images d'addition sur l'UIV.",
+      "normal_values": "",
+      "image_search_terms": [
+        "maladie de Cacchi Ricci",
+        "ectasies canaliculaires précalicielles"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ligne de Hodson",
+      "definition": "Ligne anatomique utilisée en imagerie pour évaluer les anomalies rénales.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ectasies canaliculaires précalicielles",
+        "maladie de Cacchi Ricci"
+      ],
+      "description": "Utilisée pour détecter des images d'addition en cas de calcifications.",
+      "expansion": "",
+      "clinical_significance": "Importante pour l'évaluation des anomalies rénales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ligne de Hodson",
+        "ectasies canaliculaires précalicielles"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rein en fer à cheval",
+      "definition": "Anomalie congénitale où les deux reins sont fusionnés à leur base, formant une structure en forme de fer à cheval.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "reins ectopiques",
+        "vaisseaux aberrants"
+      ],
+      "description": "Peut entraîner des anomalies d'écoulement des urines et une stase.",
+      "expansion": "",
+      "clinical_significance": "Peut être associé à des vaisseaux aberrants comprimant la voie excrétrice.",
+      "normal_values": "",
+      "image_search_terms": [
+        "rein en fer à cheval",
+        "reins ectopiques"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diverticules caliciels",
+      "definition": "Petites poches ou sacs qui se forment dans les calices rénaux, pouvant entraîner une stase urinaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sténoses des tiges calicielles",
+        "mégacalicose"
+      ],
+      "description": "Peuvent être associés à des sténoses des tiges calicielles et à la mégacalicose.",
+      "expansion": "",
+      "clinical_significance": "Peuvent contribuer à la formation de calculs rénaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "diverticules caliciels",
+        "sténoses des tiges calicielles"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténoses des tiges calicielles",
+      "definition": "Rétrécissement des tiges calicielles, pouvant entraîner une obstruction de l'écoulement urinaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "diverticules caliciels",
+        "mégacalicose"
+      ],
+      "description": "Peuvent être associées à des diverticules caliciels et à la mégacalicose.",
+      "expansion": "",
+      "clinical_significance": "Peuvent contribuer à la formation de calculs rénaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sténoses des tiges calicielles",
+        "diverticules caliciels"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mégacalicose",
+      "definition": "Dilatation non obstructive des calices rénaux, souvent congénitale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "diverticules caliciels",
+        "sténoses des tiges calicielles"
+      ],
+      "description": "Peut être associée à des diverticules caliciels et à des sténoses des tiges calicielles.",
+      "expansion": "",
+      "clinical_significance": "Peut contribuer à la formation de calculs rénaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "mégacalicose",
+        "diverticules caliciels"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polykystose rénale",
+      "definition": "Maladie génétique caractérisée par la formation de multiples kystes dans les reins, entraînant une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Peut être associée à des anomalies rénales et à la formation de calculs.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner une insuffisance rénale chronique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "polykystose rénale",
+        "kystes rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de la jonction pyélo-urétérale",
+      "definition": "Obstruction congénitale au niveau de la jonction entre le bassinet rénal et l'uretère, entraînant une dilatation du bassinet.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Peut entraîner une hydronephrose et des infections urinaires.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de la jonction pyélo-urétérale",
+        "hydronephrose"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Reflux vésico-rénal",
+      "definition": "Retour anormal de l'urine de la vessie vers les reins, souvent dû à une incompétence de la valve vésico-urétérale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Peut entraîner des infections urinaires récurrentes et des lésions rénales.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "reflux vésico-rénal",
+        "infections urinaires"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méga-uretère",
+      "definition": "Dilatation congénitale de l'uretère, souvent associée à une obstruction ou à un reflux vésico-rénal.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "reflux vésico-rénal"
+      ],
+      "description": "Peut entraîner des infections urinaires et des lésions rénales.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "méga-uretère",
+        "dilatation de l'uretère"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sténose urétérale",
+      "definition": "Rétrécissement de l'uretère, pouvant être congénital ou acquis, entraînant une obstruction de l'écoulement urinaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Peut être causée par une compression ou une infection.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sténose urétérale",
+        "obstruction urétérale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bricker",
+      "definition": "Technique chirurgicale de dérivation urinaire utilisant un segment d'intestin pour créer une nouvelle voie d'écoulement des urines.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "entérocystoplastie"
+      ],
+      "description": "Utilisée pour traiter les obstructions urinaires sévères.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des troubles métaboliques et des infections urinaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Bricker",
+        "dérivation urinaire"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entérocystoplastie",
+      "definition": "Technique chirurgicale utilisant un segment d'intestin pour augmenter la capacité de la vessie.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "Bricker"
+      ],
+      "description": "Utilisée pour traiter les vessies de petite capacité ou les obstructions urinaires.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des troubles métaboliques et des infections urinaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "entérocystoplastie",
+        "augmentation de la vessie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase bilatérale",
+      "definition": "Présence de calculs rénaux dans les deux reins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase sur rein unique",
+        "lithiase coralliforme"
+      ],
+      "description": "Peut compliquer le pronostic, surtout chez les sujets jeunes.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase bilatérale",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase sur rein unique",
+      "definition": "Présence de calculs rénaux dans un seul rein fonctionnel.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase bilatérale",
+        "lithiase coralliforme"
+      ],
+      "description": "Peut compliquer le pronostic, surtout chez les sujets jeunes.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase sur rein unique",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase récidivante",
+      "definition": "Réapparition fréquente de calculs rénaux après traitement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase bilatérale",
+        "lithiase sur rein unique"
+      ],
+      "description": "Peut compliquer le pronostic, surtout chez les sujets jeunes.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase récidivante",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase compliquée",
+      "definition": "Calculs rénaux associés à des complications telles que des infections ou une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase bilatérale",
+        "lithiase sur rein unique"
+      ],
+      "description": "Peut compliquer le pronostic, surtout chez les sujets jeunes.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase compliquée",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiases vésicales",
+      "definition": "Calculs situés dans la vessie, pouvant être primitifs, secondaires ou de migration.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase vésicale primitive",
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peuvent être traités par cystoscopie, lithotripsie ou chirurgie.",
+      "expansion": "",
+      "clinical_significance": "Peuvent nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiases vésicales",
+        "calculs vésicaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase vésicale primitive",
+      "definition": "Calcul vésical se formant en l'absence de toute anomalie fonctionnelle ou organique de l'appareil urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiases vésicales",
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peut survenir chez l'enfant déshydraté avec diarrhée chronique.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase vésicale primitive",
+        "calculs vésicaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cystotomie",
+      "definition": "Incision chirurgicale de la vessie pour retirer des calculs ou traiter d'autres conditions vésicales.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase vésicale primitive",
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peut être réalisée à ciel ouvert ou par voie endoscopique.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cystotomie",
+        "chirurgie vésicale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase vésicale secondaire",
+      "definition": "Calcul vésical se formant en présence d'anomalies fonctionnelles ou organiques de l'appareil urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiases vésicales",
+        "lithiase vésicale primitive"
+      ],
+      "description": "Peut être causée par une obstruction sous vésicale, une vessie neurologique, ou une bactériurie chronique.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiase vésicale secondaire",
+        "calculs vésicaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertrophie prostatique",
+      "definition": "Augmentation anormale de la taille de la prostate, souvent causée par une hyperplasie bénigne de la prostate (HBP).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peut entraîner une obstruction sous vésicale et la formation de calculs vésicaux.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypertrophie prostatique",
+        "hyperplasie bénigne de la prostate"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uropathie",
+      "definition": "Terme général désignant toute maladie ou anomalie de l'appareil urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase vésicale secondaire",
+        "haut appareil urinaire"
+      ],
+      "description": "Peut inclure des obstructions, des infections, ou des anomalies congénitales.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "uropathie",
+        "maladies urinaires"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "haut appareil urinaire",
+      "definition": "Partie de l'appareil urinaire comprenant les reins et les uretères.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "uropathie",
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peut être affecté par des calculs, des obstructions, ou des infections.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "haut appareil urinaire",
+        "reins et uretères"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paracétamol",
+      "definition": "Médicament analgésique et antipyrétique utilisé pour traiter la douleur et la fièvre.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "AINS",
+        "chlorhydrate de morphine"
+      ],
+      "description": "Peut être utilisé seul ou en association avec des AINS pour traiter la colique néphrétique.",
+      "expansion": "",
+      "clinical_significance": "Peut être utilisé chez la femme enceinte.",
+      "normal_values": "",
+      "image_search_terms": [
+        "paracétamol",
+        "analgésique"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorhydrate de morphine",
+      "definition": "Forme de morphine utilisée pour traiter la douleur sévère.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "AINS",
+        "paracétamol"
+      ],
+      "description": "Utilisé lorsque les AINS sont insuffisants pour traiter la colique néphrétique.",
+      "expansion": "",
+      "clinical_significance": "Peut être utilisé en association avec des AINS pour traiter la douleur.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chlorhydrate de morphine",
+        "morphine"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D pénicillamine",
+      "definition": "La D-pénicillamine est un médicament utilisé pour traiter la cystinurie en formant des complexes solubles avec la cystine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pénicillamine"
+      ],
+      "related_terms": [
+        "cystinurie",
+        "cystine"
+      ],
+      "description": "La D-pénicillamine est un agent chélateur qui aide à éliminer la cystine des urines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "D pénicillamine",
+        "pénicillamine"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématomes",
+      "definition": "Les hématomes sont des collections de sang en dehors des vaisseaux sanguins, souvent dues à une blessure ou une rupture de vaisseau.",
+      "category": "pathologie",
+      "synonyms": [
+        "ecchymose"
+      ],
+      "related_terms": [
+        "hématurie",
+        "pyélonéphrite"
+      ],
+      "description": "Les hématomes peuvent se former dans divers tissus et organes, y compris les reins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hématomes",
+        "ecchymose"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LEC",
+      "definition": "La lithotritie extracorporelle (LEC) est une procédure non invasive utilisée pour fragmenter les calculs rénaux à l'aide d'ondes de choc.",
+      "category": "imagerie",
+      "synonyms": [
+        "lithotritie"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "ondes de choc"
+      ],
+      "description": "La LEC permet de fragmenter les calculs en petits morceaux qui peuvent être éliminés naturellement par les voies urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "LEC",
+        "lithotritie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "empierrement urétéral",
+      "definition": "L'empierrement urétéral est l'obstruction de l'uretère par un calcul, empêchant le passage de l'urine.",
+      "category": "pathologie",
+      "synonyms": [
+        "obstruction urétérale"
+      ],
+      "related_terms": [
+        "calcul urétéral",
+        "uretère"
+      ],
+      "description": "L'empierrement urétéral peut entraîner une douleur intense et des complications rénales si non traité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "empierrement urétéral",
+        "obstruction urétérale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Alpha bloqueurs",
+      "definition": "Les alpha-bloquants sont une classe de médicaments utilisés pour traiter l'hypertension et les troubles de la prostate en relaxant les muscles lisses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "alpha-adrénergiques"
+      ],
+      "related_terms": [
+        "hypertension",
+        "hyperplasie bénigne de la prostate"
+      ],
+      "description": "Les alpha-bloquants agissent en bloquant les récepteurs alpha-adrénergiques, ce qui entraîne une relaxation des muscles lisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Alpha bloqueurs",
+        "alpha-adrénergiques"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IPDE-5",
+      "definition": "Les inhibiteurs de la phosphodiestérase-5 (IPDE-5) sont des médicaments utilisés pour traiter la dysfonction érectile et l'hypertension pulmonaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "inhibiteurs de la PDE-5"
+      ],
+      "related_terms": [
+        "dysfonction érectile",
+        "hypertension pulmonaire"
+      ],
+      "description": "Les IPDE-5 agissent en augmentant le flux sanguin en inhibant l'enzyme phosphodiestérase-5.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IPDE-5",
+        "inhibiteurs de la PDE-5"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stone free",
+      "definition": "Le terme 'stone free' désigne l'absence complète de calculs dans le rein après un traitement.",
+      "category": "classification",
+      "synonyms": [
+        "sans calcul"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "lithiase"
+      ],
+      "description": "Le statut 'stone free' est un objectif thérapeutique important pour prévenir les récidives de lithiase.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "stone free",
+        "sans calcul"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LASER Holmium-YAG",
+      "definition": "Le laser Holmium-YAG est un type de laser utilisé en urologie pour fragmenter les calculs rénaux et urétéraux.",
+      "category": "imagerie",
+      "synonyms": [
+        "laser Holmium"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "lithotritie"
+      ],
+      "description": "Le laser Holmium-YAG est efficace pour fragmenter même les calculs les plus résistants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "LASER Holmium-YAG",
+        "laser Holmium"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désinsertion urétérale",
+      "definition": "La désinsertion urétérale est une complication chirurgicale où l'uretère se détache de son point d'insertion dans la vessie.",
+      "category": "pathologie",
+      "synonyms": [
+        "stripping de l'uretère"
+      ],
+      "related_terms": [
+        "complications chirurgicales",
+        "sténose"
+      ],
+      "description": "La désinsertion urétérale peut entraîner une obstruction urinaire et nécessite une réparation chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "désinsertion urétérale",
+        "stripping de l'uretère"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lobotomie",
+      "definition": "La lobotomie est une procédure chirurgicale historique utilisée pour traiter les troubles psychiatriques en sectionnant les connexions nerveuses dans le cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "leucotomie"
+      ],
+      "related_terms": [
+        "chirurgie cérébrale",
+        "psychiatrie"
+      ],
+      "description": "La lobotomie est aujourd'hui considérée comme obsolète et éthiquement discutable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lobotomie",
+        "leucotomie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélotomie",
+      "definition": "La pyélotomie est une incision chirurgicale dans le bassinet rénal, souvent réalisée pour retirer des calculs ou traiter des obstructions.",
+      "category": "imagerie",
+      "synonyms": [
+        "incision du bassinet"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "obstruction urinaire"
+      ],
+      "description": "La pyélotomie permet un accès direct au bassinet rénal pour des interventions chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pyélotomie",
+        "incision du bassinet"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrotomie",
+      "definition": "La néphrotomie est une incision chirurgicale dans le rein, souvent réalisée pour retirer des calculs ou traiter des tumeurs.",
+      "category": "imagerie",
+      "synonyms": [
+        "incision rénale"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "tumeurs rénales"
+      ],
+      "description": "La néphrotomie permet un accès direct au rein pour des interventions chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphrotomie",
+        "incision rénale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistules",
+      "definition": "Les fistules sont des connexions anormales entre deux organes ou structures, souvent dues à une infection ou une intervention chirurgicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "communications anormales"
+      ],
+      "related_terms": [
+        "complications chirurgicales",
+        "hémorragies"
+      ],
+      "description": "Les fistules peuvent entraîner des complications telles que des infections ou des fuites de liquides corporels.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fistules",
+        "communications anormales"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "JJ",
+      "definition": "Le stent double J (JJ) est un dispositif médical utilisé pour maintenir la perméabilité de l'uretère en cas d'obstruction ou de calcul.",
+      "category": "imagerie",
+      "synonyms": [
+        "stent urétéral"
+      ],
+      "related_terms": [
+        "calcul urétéral",
+        "obstruction urinaire"
+      ],
+      "description": "Le stent JJ permet le drainage de l'urine et prévient les complications liées à l'obstruction urinaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "JJ",
+        "stent urétéral"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de levé d'obstacle",
+      "definition": "Le syndrome de levé d'obstacle est une complication pouvant survenir après le soulagement d'une obstruction urinaire, caractérisée par une diurèse excessive et des déséquilibres électrolytiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "diurèse post-obstructive"
+      ],
+      "related_terms": [
+        "obstruction urinaire",
+        "diurèse"
+      ],
+      "description": "Le syndrome de levé d'obstacle nécessite une surveillance étroite et une gestion des électrolytes pour prévenir des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome de levé d'obstacle",
+        "diurèse post-obstructive"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anurie",
+      "definition": "L'anurie est l'absence totale de production d'urine, souvent indicative d'une insuffisance rénale aiguë ou d'une obstruction urinaire complète.",
+      "category": "pathologie",
+      "synonyms": [
+        "absence de miction"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "obstruction urinaire"
+      ],
+      "description": "L'anurie est une urgence médicale nécessitant une intervention rapide pour rétablir la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anurie",
+        "absence de miction"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithoclastes",
+      "definition": "Les lithoclastes sont des dispositifs utilisés pour fragmenter les calculs urinaires à l'aide d'ondes balistiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "fragmentateurs de calculs"
+      ],
+      "related_terms": [
+        "calculs urinaires",
+        "lithotritie"
+      ],
+      "description": "Les lithoclastes sont efficaces pour fragmenter les calculs en petits morceaux qui peuvent être éliminés naturellement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lithoclastes",
+        "fragmentateurs de calculs"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sonotrode",
+      "definition": "La sonotrode est un dispositif utilisé pour fragmenter et aspirer les calculs urinaires à l'aide d'ultrasons.",
+      "category": "imagerie",
+      "synonyms": [
+        "fragmentateur ultrasonique"
+      ],
+      "related_terms": [
+        "calculs urinaires",
+        "lithotritie"
+      ],
+      "description": "La sonotrode est efficace pour fragmenter les calculs friables et les aspirer simultanément.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sonotrode",
+        "fragmentateur ultrasonique"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélolithotomie",
+      "definition": "La pyélolithotomie est une procédure chirurgicale utilisée pour retirer les calculs du bassinet rénal par une incision directe.",
+      "category": "imagerie",
+      "synonyms": [
+        "incision du bassinet rénal"
+      ],
+      "related_terms": [
+        "calculs rénaux",
+        "lithiase"
+      ],
+      "description": "La pyélolithotomie permet un accès direct au bassinet rénal pour retirer les calculs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pyélolithotomie",
+        "incision du bassinet rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urétrolithotomie",
+      "definition": "L'urétrolithotomie est une procédure chirurgicale utilisée pour retirer les calculs de l'uretère par une incision directe.",
+      "category": "imagerie",
+      "synonyms": [
+        "incision de l'uretère"
+      ],
+      "related_terms": [
+        "calculs urétéraux",
+        "lithiase"
+      ],
+      "description": "L'urétrolithotomie permet un accès direct à l'uretère pour retirer les calculs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "urétrolithotomie",
+        "incision de l'uretère"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endorothèse urétérale",
+      "definition": "L'endorothèse urétérale est un dispositif médical utilisé pour maintenir la perméabilité de l'uretère en cas d'obstruction ou de calcul.",
+      "category": "imagerie",
+      "synonyms": [
+        "stent urétéral"
+      ],
+      "related_terms": [
+        "calcul urétéral",
+        "obstruction urinaire"
+      ],
+      "description": "L'endorothèse urétérale permet le drainage de l'urine et prévient les complications liées à l'obstruction urinaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endorothèse urétérale",
+        "stent urétéral"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrostomie",
+      "definition": "La néphrostomie est une procédure chirurgicale consistant à créer une ouverture dans le rein pour drainer l'urine en cas d'obstruction.",
+      "category": "imagerie",
+      "synonyms": [
+        "drainage rénal"
+      ],
+      "related_terms": [
+        "obstruction urinaire",
+        "calculs rénaux"
+      ],
+      "description": "La néphrostomie permet de soulager l'obstruction urinaire et de drainer l'urine directement à partir du rein.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphrostomie",
+        "drainage rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parathyroidectomie",
+      "definition": "Intervention chirurgicale consistant à retirer une ou plusieurs glandes parathyroïdes, souvent réalisée pour traiter l'hyperparathyroïdie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "glandes parathyroïdes"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "parathyroidectomie",
+        "glandes parathyroïdes"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Echo",
+      "definition": "Échographie, une technique d'imagerie utilisant les ultrasons pour visualiser les structures internes du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "imagerie médicale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "échographie",
+        "ultrasons"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRT",
+      "definition": "Insuffisance Rénale Terminale, stade avancé de la maladie rénale où les reins ne fonctionnent plus suffisamment pour maintenir la vie.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance rénale",
+        "dialyse"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "IRT",
+        "insuffisance rénale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithogènes",
+      "definition": "Facteurs ou conditions qui favorisent la formation de calculs rénaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calculs rénaux",
+        "lithiase"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithogènes",
+        "calculs rénaux"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiasique",
+      "definition": "Relatif à la lithiase, la formation de calculs dans les voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase",
+        "calculs"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithiasique",
+        "lithiase"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urologue",
+      "definition": "Médecin spécialisé dans le diagnostic et le traitement des maladies du système urinaire et des organes génitaux masculins.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "urologie",
+        "système urinaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "urologue",
+        "urologie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrologue",
+      "definition": "Médecin spécialisé dans le diagnostic et le traitement des maladies rénales.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "néphrologie",
+        "reins"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "néphrologue",
+        "néphrologie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bactériologiste",
+      "definition": "Médecin ou scientifique spécialisé dans l'étude des bactéries et de leurs effets sur la santé.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "bactériologie",
+        "bactéries"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "bactériologiste",
+        "bactériologie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biochimiste",
+      "definition": "Scientifique spécialisé dans l'étude des processus chimiques et des substances chimiques dans les organismes vivants.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "biochimie",
+        "chimie biologique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "biochimiste",
+        "biochimie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oxalate de calcium Monohydraté",
+      "definition": "Type de calcul rénal composé d'oxalate de calcium monohydraté, souvent de petite taille et de couleur brunâtre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcul rénal",
+        "oxalate de calcium"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Oxalate de calcium Monohydraté",
+        "calcul rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oxalate de calcium Dihydraté",
+      "definition": "Type de calcul rénal composé d'oxalate de calcium dihydraté, souvent de petite taille et de couleur jaunâtre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcul rénal",
+        "oxalate de calcium"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Oxalate de calcium Dihydraté",
+        "calcul rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phosphate ammoniaco-magnésien",
+      "definition": "Type de calcul rénal composé de phosphate ammoniaco-magnésien, souvent associé à des infections urinaires à germes uréasiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcul rénal",
+        "infection urinaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Phosphate ammoniaco-magnésien",
+        "calcul rénal"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md"
+  ],
+  "total_terms": 163
+}

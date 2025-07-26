@@ -1,0 +1,2227 @@
+{
+  "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+  "terms": [
+    {
+      "term": "syndromes coronariens aigus",
+      "definition": "Ensemble de conditions médicales caractérisées par une ischémie myocardique aiguë, souvent due à une occlusion partielle ou totale des artères coronaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCA"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angor instable"
+      ],
+      "description": "Les syndromes coronariens aigus incluent l'infarctus du myocarde avec ou sans élévation du segment ST, et l'angor instable.",
+      "expansion": null,
+      "clinical_significance": "Les SCA nécessitent une intervention rapide pour prévenir des complications graves comme l'infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinolytiques",
+      "definition": "Médicaments utilisés pour dissoudre les caillots sanguins, souvent administrés en cas d'infarctus du myocarde pour rétablir le flux sanguin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thrombolytiques"
+      ],
+      "related_terms": [
+        "streptokinase",
+        "tPA"
+      ],
+      "description": "Les fibrinolytiques agissent en convertissant le plasminogène en plasmine, qui dégrade la fibrine dans les caillots.",
+      "expansion": null,
+      "clinical_significance": "Utilisés en urgence pour traiter les occlusions coronaires aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioplastie",
+      "definition": "Procédure médicale utilisée pour élargir les artères rétrécies ou obstruées, souvent par l'insertion d'un ballonnet gonflable.",
+      "category": "imagerie",
+      "synonyms": [
+        "angioplastie coronaire"
+      ],
+      "related_terms": [
+        "stent",
+        "intervention coronaire percutanée"
+      ],
+      "description": "L'angioplastie est souvent utilisée pour traiter les syndromes coronariens aigus en rétablissant le flux sanguin dans les artères coronaires.",
+      "expansion": null,
+      "clinical_significance": "Intervention cruciale pour le traitement des occlusions coronaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angor instable",
+      "definition": "Forme d'angine de poitrine caractérisée par des épisodes de douleur thoracique imprévisibles et sévères, souvent due à une ischémie myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "angina instable"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "ischémie myocardique"
+      ],
+      "description": "L'angor instable peut progresser vers un infarctus du myocarde et nécessite une évaluation et un traitement rapides.",
+      "expansion": null,
+      "clinical_significance": "Condition nécessitant une surveillance et une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères coronaires",
+      "definition": "Vaisseaux sanguins qui fournissent le sang oxygéné au muscle cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "coronaires"
+      ],
+      "related_terms": [
+        "artère coronaire gauche",
+        "artère coronaire droite"
+      ],
+      "description": "Les artères coronaires incluent l'artère coronaire gauche et l'artère coronaire droite, qui se divisent en plusieurs branches pour vasculariser le cœur.",
+      "expansion": null,
+      "clinical_significance": "Les obstructions dans ces artères peuvent conduire à des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus de Valsalva",
+      "definition": "Dilatations situées à la base de l'aorte, juste au-dessus des valves aortiques.",
+      "category": "anatomie",
+      "synonyms": [
+        "sinus aortiques"
+      ],
+      "related_terms": [
+        "valve aortique",
+        "aorte"
+      ],
+      "description": "Les sinus de Valsalva jouent un rôle dans la fermeture des valves aortiques et la distribution du flux sanguin.",
+      "expansion": null,
+      "clinical_significance": "Important pour la fonction valvulaire aortique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus transmural",
+      "definition": "Infarctus du myocarde qui affecte toute l'épaisseur du muscle cardiaque, souvent dû à une occlusion complète d'une artère coronaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus complet"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "ischémie myocardique"
+      ],
+      "description": "L'infarctus transmural est souvent associé à un sus-décalage du segment ST sur l'électrocardiogramme.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie myocardique",
+      "definition": "Réduction du flux sanguin vers le muscle cardiaque, entraînant un manque d'oxygène et de nutriments.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie cardiaque"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "infarctus du myocarde"
+      ],
+      "description": "L'ischémie myocardique peut être causée par une occlusion partielle ou totale des artères coronaires.",
+      "expansion": null,
+      "clinical_significance": "Peut conduire à une nécrose myocardique si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plaque d'athérome",
+      "definition": "Accumulation de lipides, de cellules inflammatoires et de débris cellulaires dans la paroi des artères, contribuant à l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [
+        "plaque athéromateuse"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "thrombus"
+      ],
+      "description": "La rupture ou l'érosion d'une plaque d'athérome peut conduire à la formation d'un thrombus et à une occlusion artérielle.",
+      "expansion": null,
+      "clinical_significance": "Principal facteur de risque pour les syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FEVG",
+      "definition": "Fraction d'éjection du ventricule gauche, mesure du pourcentage de sang éjecté par le ventricule gauche à chaque contraction.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEVG"
+      ],
+      "related_terms": [
+        "échocardiographie",
+        "fonction ventriculaire"
+      ],
+      "description": "La FEVG est un indicateur important de la fonction cardiaque et est souvent mesurée par échocardiographie.",
+      "expansion": "fraction d'éjection du ventricule gauche",
+      "clinical_significance": "Une FEVG réduite peut indiquer une insuffisance cardiaque.",
+      "normal_values": "55-70%",
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HBPM",
+      "definition": "Héparine de bas poids moléculaire, un anticoagulant utilisé pour prévenir la formation de caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HBPM"
+      ],
+      "related_terms": [
+        "énoxaparine",
+        "dalteparine"
+      ],
+      "description": "L'HBPM est souvent utilisée dans la prévention et le traitement des thromboses veineuses et des embolies pulmonaires.",
+      "expansion": "héparine de bas poids moléculaire",
+      "clinical_significance": "Utilisée pour prévenir les complications thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NSTEMI",
+      "definition": "Infarctus du myocarde sans élévation du segment ST, une forme d'infarctus du myocarde caractérisée par une occlusion partielle ou intermittente des artères coronaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "NSTEMI"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "STEMI"
+      ],
+      "description": "Le NSTEMI est souvent associé à une libération de marqueurs de nécrose myocardique comme la troponine.",
+      "expansion": "non-ST elevation myocardial infarction",
+      "clinical_significance": "Nécessite une stratification du risque et une prise en charge adaptée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA ST (+)",
+      "definition": "Syndrome coronarien aigu avec sus-décalage persistant du segment ST, souvent dû à une occlusion complète d'une artère coronaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCA ST (+)"
+      ],
+      "related_terms": [
+        "STEMI",
+        "infarctus du myocarde"
+      ],
+      "description": "Le SCA ST (+) nécessite une reperfusion coronaire urgente par fibrinolyse ou angioplastie.",
+      "expansion": "syndrome coronarien aigu avec sus-décalage persistant du segment ST",
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA ST (-)",
+      "definition": "Syndrome coronarien aigu sans sus-décalage persistant du segment ST, souvent dû à une occlusion partielle ou intermittente des artères coronaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCA ST (-)"
+      ],
+      "related_terms": [
+        "NSTEMI",
+        "angor instable"
+      ],
+      "description": "Le SCA ST (-) inclut le NSTEMI et l'angor instable et nécessite une stratification du risque pour orienter le traitement.",
+      "expansion": "syndrome coronarien aigu sans sus-décalage persistant du segment ST",
+      "clinical_significance": "Condition nécessitant une évaluation et une prise en charge adaptées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STEMI",
+      "definition": "Infarctus du myocarde avec élévation du segment ST, une forme d'infarctus du myocarde caractérisée par une occlusion complète d'une artère coronaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "STEMI"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "NSTEMI"
+      ],
+      "description": "Le STEMI nécessite une reperfusion coronaire urgente par fibrinolyse ou angioplastie.",
+      "expansion": "ST elevation myocardial infarction",
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "USIC",
+      "definition": "Unité de soins intensifs cardiologiques, une unité spécialisée dans la prise en charge des patients atteints de maladies cardiaques graves.",
+      "category": "classification",
+      "synonyms": [
+        "USIC"
+      ],
+      "related_terms": [
+        "soins intensifs",
+        "unité de soins coronariens"
+      ],
+      "description": "L'USIC fournit une surveillance et un traitement intensifs pour les patients atteints de syndromes coronariens aigus et d'autres maladies cardiaques graves.",
+      "expansion": "unité de soins intensifs cardiologiques",
+      "clinical_significance": "Unité essentielle pour la prise en charge des patients cardiaques critiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spasme coronaire",
+      "definition": "Contraction anormale et soudaine des artères coronaires, réduisant le flux sanguin vers le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasospasme coronaire"
+      ],
+      "related_terms": [
+        "angor de Prinzmetal"
+      ],
+      "description": "Le spasme coronaire peut provoquer une ischémie myocardique et des symptômes d'angor.",
+      "expansion": null,
+      "clinical_significance": "Peut être une cause de syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose myocytaire",
+      "definition": "Mort des cellules musculaires cardiaques due à un manque d'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose des myocytes"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "nécrose transmurale"
+      ],
+      "description": "La nécrose myocytaire est une conséquence de l'ischémie prolongée et peut entraîner une perte de fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la gravité de l'infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose transmurale",
+      "definition": "Nécrose qui affecte toute l'épaisseur du muscle cardiaque, de l'endocarde au péricarde.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus transmural"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "nécrose myocytaire"
+      ],
+      "description": "La nécrose transmurale est souvent associée à des infarctus du myocarde avec onde Q.",
+      "expansion": null,
+      "clinical_significance": "Indique une atteinte plus sévère du muscle cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "micronécrose cellulaire",
+      "definition": "Petites zones de nécrose cellulaire dans le muscle cardiaque, souvent causées par des emboles de thrombus.",
+      "category": "pathologie",
+      "synonyms": [
+        "micronécrose myocardique"
+      ],
+      "related_terms": [
+        "NSTEMI",
+        "troponines"
+      ],
+      "description": "La micronécrose cellulaire peut entraîner une élévation des troponines sans onde Q sur l'ECG.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de dommages myocardiques mineurs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponines",
+      "definition": "Protéines spécifiques du muscle cardiaque, utilisées comme marqueurs biologiques pour détecter les dommages myocardiques.",
+      "category": "biologie",
+      "synonyms": [
+        "troponine T",
+        "troponine I"
+      ],
+      "related_terms": [
+        "NSTEMI",
+        "IDM"
+      ],
+      "description": "L'élévation des troponines indique une nécrose myocardique.",
+      "expansion": null,
+      "clinical_significance": "Marqueur sensible et spécifique pour le diagnostic de l'infarctus du myocarde.",
+      "normal_values": "Valeurs normales < 0.04 ng/mL",
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA",
+      "definition": "Syndrome coronarien aigu, un groupe de conditions médicales caractérisées par une réduction soudaine du flux sanguin vers le cœur.",
+      "category": "acronyme",
+      "synonyms": [
+        "syndrome coronarien"
+      ],
+      "related_terms": [
+        "angor instable",
+        "STEMI",
+        "NSTEMI"
+      ],
+      "description": "Les SCA incluent l'angor instable, le STEMI et le NSTEMI.",
+      "expansion": "Syndrome Coronarien Aigu",
+      "clinical_significance": "Urgence médicale nécessitant une évaluation et un traitement rapides.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTDVG",
+      "definition": "Pression télédiastolique ventriculaire gauche, une mesure de la pression dans le ventricule gauche à la fin de la diastole.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression télédiastolique"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "hémodynamique"
+      ],
+      "description": "Une PTDVG élevée peut indiquer une insuffisance cardiaque ou une altération de la fonction diastolique.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de la fonction ventriculaire gauche.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Onde de Pardee",
+      "definition": "Sus-décalage du segment ST sur l'ECG, convexe vers le haut, indiquant une ischémie myocardique aiguë.",
+      "category": "imagerie",
+      "synonyms": [
+        "onde de Pardee"
+      ],
+      "related_terms": [
+        "STEMI",
+        "ECG"
+      ],
+      "description": "L'onde de Pardee est un signe électrique précoce d'un infarctus du myocarde avec sus-décalage du segment ST.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de l'ischémie myocardique aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IVA",
+      "definition": "Interventriculaire antérieure, une branche de l'artère coronaire droite qui irrigue la partie antérieure du septum interventriculaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère interventriculaire antérieure"
+      ],
+      "related_terms": [
+        "artère coronaire",
+        "septum interventriculaire"
+      ],
+      "description": "L'IVA est souvent impliquée dans les infarctus antéro-septaux.",
+      "expansion": null,
+      "clinical_significance": "Artère coronaire importante pour l'irrigation du septum interventriculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cx",
+      "definition": "Artère circonflexe, une branche de l'artère coronaire gauche qui irrigue la partie postéro-latérale du ventricule gauche.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère circonflexe"
+      ],
+      "related_terms": [
+        "artère coronaire",
+        "ventricule gauche"
+      ],
+      "description": "La Cx est souvent impliquée dans les infarctus latéraux.",
+      "expansion": null,
+      "clinical_significance": "Artère coronaire importante pour l'irrigation de la partie postéro-latérale du ventricule gauche.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CD",
+      "definition": "Artère coronaire droite, une artère qui irrigue principalement le ventricule droit et la partie inférieure du ventricule gauche.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère coronaire droite"
+      ],
+      "related_terms": [
+        "artère coronaire",
+        "ventricule droit"
+      ],
+      "description": "La CD est souvent impliquée dans les infarctus inférieurs.",
+      "expansion": null,
+      "clinical_significance": "Artère coronaire importante pour l'irrigation du ventricule droit et de la partie inférieure du ventricule gauche.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Troponine I",
+      "definition": "Protéine spécifique du muscle cardiaque utilisée comme marqueur biologique de la nécrose myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Troponine Ic"
+      ],
+      "related_terms": [
+        "Troponine T",
+        "troponinémie"
+      ],
+      "description": "La troponine I est libérée dans le sang après une lésion myocardique et est utilisée pour diagnostiquer l'infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Marqueur clé pour le diagnostic de l'infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Troponine T",
+      "definition": "Protéine spécifique du muscle cardiaque utilisée comme marqueur biologique de la nécrose myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Troponine Tc"
+      ],
+      "related_terms": [
+        "Troponine I",
+        "troponinémie"
+      ],
+      "description": "La troponine T est libérée dans le sang après une lésion myocardique et est utilisée pour diagnostiquer l'infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Marqueur clé pour le diagnostic de l'infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponinémie",
+      "definition": "Concentration de troponines dans le sang, utilisée comme marqueur de la nécrose myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "niveau de troponine"
+      ],
+      "related_terms": [
+        "Troponine I",
+        "Troponine T"
+      ],
+      "description": "La troponinémie est un indicateur crucial pour le diagnostic de l'infarctus du myocarde et la stratification du risque chez les patients avec syndrome coronarien aigu.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponines ultra-sensibles",
+      "definition": "Tests de troponines avec une sensibilité accrue permettant une détection précoce de la nécrose myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hs-troponines"
+      ],
+      "related_terms": [
+        "troponinémie",
+        "Troponine I",
+        "Troponine T"
+      ],
+      "description": "Les troponines ultra-sensibles permettent un diagnostic plus précoce de l'infarctus du myocarde aigu.",
+      "expansion": null,
+      "clinical_significance": "Améliore la précocité du diagnostic et la prise en charge des patients avec syndrome coronarien aigu.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "revascularisation myocardique",
+      "definition": "Procédure médicale visant à restaurer le flux sanguin vers le muscle cardiaque ischémique.",
+      "category": "pathologie",
+      "synonyms": [
+        "revascularisation coronaire"
+      ],
+      "related_terms": [
+        "angioplastie",
+        "pontage coronarien"
+      ],
+      "description": "La revascularisation myocardique peut être réalisée par angioplastie ou pontage coronarien pour traiter les maladies coronariennes.",
+      "expansion": null,
+      "clinical_significance": "Intervention cruciale pour restaurer le flux sanguin vers le cœur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GRACE",
+      "definition": "Score de stratification du risque pour les patients avec syndrome coronarien aigu, utilisé pour évaluer le risque de mortalité et d'événements cardiovasculaires.",
+      "category": "classification",
+      "synonyms": [
+        "score GRACE"
+      ],
+      "related_terms": [
+        "score TIMI",
+        "score CRUSADE"
+      ],
+      "description": "Le score GRACE prend en compte plusieurs facteurs cliniques pour estimer le risque de décès et d'infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Outil important pour la stratification du risque chez les patients avec syndrome coronarien aigu.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CRUSADE",
+      "definition": "Score de stratification du risque hémorragique pour les patients avec syndrome coronarien aigu, utilisé pour évaluer le risque de saignements majeurs.",
+      "category": "classification",
+      "synonyms": [
+        "score CRUSADE"
+      ],
+      "related_terms": [
+        "score GRACE",
+        "score ARC-HBR"
+      ],
+      "description": "Le score CRUSADE prend en compte plusieurs facteurs cliniques pour estimer le risque de saignements majeurs.",
+      "expansion": null,
+      "clinical_significance": "Outil important pour la stratification du risque hémorragique chez les patients avec syndrome coronarien aigu.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARC-HBR",
+      "definition": "Consensus de l'Academic Research Consortium pour définir le risque hémorragique élevé chez les patients avec syndrome coronarien aigu.",
+      "category": "classification",
+      "synonyms": [
+        "ARC-HBR"
+      ],
+      "related_terms": [
+        "score CRUSADE",
+        "score GRACE"
+      ],
+      "description": "Le consensus ARC-HBR prend en compte plusieurs critères majeurs et mineurs pour définir le risque hémorragique élevé.",
+      "expansion": null,
+      "clinical_significance": "Outil important pour la stratification du risque hémorragique chez les patients avec syndrome coronarien aigu.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardite",
+      "definition": "Inflammation du muscle cardiaque, souvent due à une infection virale, bactérienne ou auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "cardiomyopathie"
+      ],
+      "description": "La myocardite peut entraîner une insuffisance cardiaque, des arythmies et, dans les cas graves, la mort subite.",
+      "expansion": null,
+      "clinical_significance": "La myocardite est une cause importante de dysfonctionnement cardiaque chez les jeunes adultes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tako-Tsubo",
+      "definition": "Cardiomyopathie de stress, également connue sous le nom de syndrome du cœur brisé, caractérisée par une dysfonction ventriculaire gauche transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "cardiomyopathie de stress",
+        "syndrome du cœur brisé"
+      ],
+      "related_terms": [
+        "myocardite",
+        "infarctus du myocarde"
+      ],
+      "description": "Le syndrome de Tako-Tsubo est souvent déclenché par un stress émotionnel ou physique intense et se résout généralement en quelques semaines.",
+      "expansion": null,
+      "clinical_significance": "Bien que souvent réversible, le syndrome de Tako-Tsubo peut entraîner des complications graves, y compris une insuffisance cardiaque aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance cardiaque aigue",
+      "definition": "Incapacité soudaine du cœur à pomper suffisamment de sang pour répondre aux besoins de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "ICA"
+      ],
+      "related_terms": [
+        "œdème aigu du poumon",
+        "choc cardiogénique"
+      ],
+      "description": "L'insuffisance cardiaque aiguë peut être causée par une ischémie myocardique, une arythmie ou une surcharge volémique.",
+      "expansion": null,
+      "clinical_significance": "L'ICA est une urgence médicale nécessitant une intervention rapide pour stabiliser l'état hémodynamique du patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "état de choc",
+      "definition": "État clinique caractérisé par une perfusion tissulaire inadéquate, entraînant une hypoxie cellulaire et une dysfonction des organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc"
+      ],
+      "related_terms": [
+        "choc cardiogénique",
+        "choc septique"
+      ],
+      "description": "L'état de choc peut être causé par une insuffisance cardiaque, une hypovolémie ou une infection grave.",
+      "expansion": null,
+      "clinical_significance": "Le choc est une urgence médicale nécessitant une réanimation rapide pour restaurer la perfusion tissulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachycardies",
+      "definition": "Fréquence cardiaque anormalement élevée, généralement supérieure à 100 battements par minute chez l'adulte.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bradycardies",
+        "arythmies"
+      ],
+      "description": "Les tachycardies peuvent être physiologiques (réponse à l'exercice) ou pathologiques (arythmies, insuffisance cardiaque).",
+      "expansion": null,
+      "clinical_significance": "Les tachycardies pathologiques peuvent entraîner une instabilité hémodynamique et nécessitent une évaluation et un traitement appropriés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradycardies",
+      "definition": "Fréquence cardiaque anormalement basse, généralement inférieure à 60 battements par minute chez l'adulte.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tachycardies",
+        "arythmies"
+      ],
+      "description": "Les bradycardies peuvent être physiologiques (athlètes) ou pathologiques (bloc auriculo-ventriculaire, dysfonction sinusale).",
+      "expansion": null,
+      "clinical_significance": "Les bradycardies pathologiques peuvent entraîner une insuffisance cardiaque et nécessitent une évaluation et un traitement appropriés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladies neurologiques",
+      "definition": "Affections du système nerveux central ou périphérique, entraînant des dysfonctions neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "accident vasculaire cérébral",
+        "hémorragie méningée"
+      ],
+      "description": "Les maladies neurologiques peuvent être aiguës ou chroniques et peuvent entraîner des déficits neurologiques variés.",
+      "expansion": null,
+      "clinical_significance": "Les maladies neurologiques aiguës nécessitent une évaluation et un traitement rapides pour minimiser les séquelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athéromateuses",
+      "definition": "Relatif à l'athérome, une accumulation de lipides et de cellules inflammatoires dans la paroi des artères, formant des plaques d'athérome.",
+      "category": "pathologie",
+      "synonyms": [
+        "athérosclérose"
+      ],
+      "related_terms": [
+        "plaques d'athérome",
+        "sténose artérielle"
+      ],
+      "description": "Les lésions athéromateuses sont une cause majeure de maladies cardiovasculaires, y compris l'infarctus du myocarde et l'accident vasculaire cérébral.",
+      "expansion": null,
+      "clinical_significance": "La progression des lésions athéromateuses peut entraîner une ischémie tissulaire et des complications thrombotiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothrombotique",
+      "definition": "Qui favorise la formation de thrombus (caillots sanguins).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Les états prothrombotiques augmentent le risque de thrombose veineuse ou artérielle et d'embolie.",
+      "expansion": null,
+      "clinical_significance": "La gestion des états prothrombotiques est cruciale pour prévenir les complications thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VG",
+      "definition": "Ventricule gauche, la chambre du cœur responsable de pomper le sang oxygéné vers l'aorte et le reste du corps.",
+      "category": "anatomie",
+      "synonyms": [
+        "ventricule gauche"
+      ],
+      "related_terms": [
+        "ventricule droit",
+        "oreillette gauche"
+      ],
+      "description": "Le VG est essentiel pour maintenir la circulation systémique et la perfusion des organes.",
+      "expansion": null,
+      "clinical_significance": "La dysfonction du VG peut entraîner une insuffisance cardiaque et d'autres complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Killip",
+      "definition": "Classification clinique de l'insuffisance cardiaque aiguë basée sur les signes cliniques et la sévérité de l'insuffisance ventriculaire gauche.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "œdème aigu du poumon"
+      ],
+      "description": "La classification Killip est utilisée pour évaluer la sévérité de l'insuffisance cardiaque aiguë et le pronostic des patients avec un infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "La classification Killip est un outil important pour la stratification du risque et la prise de décision clinique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMUR/USIC",
+      "definition": "Service Mobile d'Urgence et de Réanimation / Unité de Soins Intensifs de Cardiologie, des unités spécialisées dans la prise en charge des urgences cardiaques.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SAMU",
+        "réanimation"
+      ],
+      "description": "Le SMUR et l'USIC sont essentiels pour la prise en charge rapide et spécialisée des patients avec des syndromes coronariens aigus.",
+      "expansion": null,
+      "clinical_significance": "Le SMUR et l'USIC jouent un rôle crucial dans la réduction de la mortalité et des complications des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêtabloqueurs",
+      "definition": "Médicaments qui bloquent les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension, l'angine de poitrine et certaines arythmies.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "bêta-antagonistes",
+        "bêta-adrénergiques"
+      ],
+      "description": "Les bêtabloqueurs réduisent la fréquence cardiaque et la contractilité myocardique, diminuant ainsi la demande en oxygène du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Les bêtabloqueurs sont essentiels dans la gestion des syndromes coronariens aigus et des insuffisances cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TV/FV",
+      "definition": "Tachycardie ventriculaire / Fibrillation ventriculaire, des arythmies ventriculaires graves pouvant entraîner une mort subite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arythmies",
+        "tachycardie"
+      ],
+      "description": "La TV et la FV sont des urgences médicales nécessitant une intervention rapide, souvent une défibrillation.",
+      "expansion": null,
+      "clinical_significance": "La TV et la FV sont des causes majeures de mort subite cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioplastie primaire",
+      "definition": "Procédure d'urgence pour ouvrir une artère coronaire bloquée en utilisant un ballonnet gonflable.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "angioplastie coronaire transluminale percutanée (ACTP)"
+      ],
+      "related_terms": [
+        "stent",
+        "cathétérisme cardiaque"
+      ],
+      "description": "L'angioplastie primaire est souvent utilisée pour traiter les infarctus du myocarde avec sus-décalage du segment ST (STEMI).",
+      "expansion": "Angioplastie Primaire",
+      "clinical_significance": "Réduit la mortalité et améliore les résultats cliniques chez les patients avec STEMI.",
+      "normal_values": null,
+      "image_search_terms": [
+        "angioplastie primaire",
+        "cathétérisme cardiaque"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographique",
+      "definition": "Relatif à l'échocardiographie, une technique d'imagerie utilisant les ultrasons pour visualiser le cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "écho",
+        "échocardiogramme"
+      ],
+      "related_terms": [
+        "échocardiographie Doppler",
+        "échocardiographie transœsophagienne"
+      ],
+      "description": "L'échocardiographie est utilisée pour évaluer la structure et la fonction du cœur.",
+      "expansion": "Échocardiographique",
+      "clinical_significance": "Essentiel pour le diagnostic et le suivi des maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échocardiographie",
+        "échocardiogramme"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémopéricarde",
+      "definition": "Accumulation de sang dans le péricarde, l'enveloppe fibreuse entourant le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "épanchement péricardique hémorragique"
+      ],
+      "related_terms": [
+        "tamponnade cardiaque",
+        "péricardite"
+      ],
+      "description": "L'hémopéricarde peut être causé par une rupture cardiaque ou une blessure pénétrante.",
+      "expansion": "Hémopéricarde",
+      "clinical_significance": "Peut entraîner une tamponnade cardiaque, une condition potentiellement fatale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémopéricarde",
+        "tamponnade cardiaque"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardiocentèse",
+      "definition": "Procédure médicale consistant à retirer du liquide du péricarde à l'aide d'une aiguille.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ponction péricardique"
+      ],
+      "related_terms": [
+        "tamponnade cardiaque",
+        "péricardite"
+      ],
+      "description": "La péricardiocentèse est utilisée pour traiter la tamponnade cardiaque et pour diagnostiquer les épanchements péricardiques.",
+      "expansion": "Péricardiocentèse",
+      "clinical_significance": "Peut être une procédure de sauvetage en cas de tamponnade cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "péricardiocentèse",
+        "ponction péricardique"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc cardiogénique",
+      "definition": "État d'hypoperfusion tissulaire résultant d'une insuffisance cardiaque aiguë, souvent due à un infarctus du myocarde.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc cardiaque"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "infarctus du myocarde"
+      ],
+      "description": "Le choc cardiogénique est une urgence médicale nécessitant une intervention rapide pour restaurer la fonction cardiaque.",
+      "expansion": "Choc Cardiogénique",
+      "clinical_significance": "Peut entraîner une défaillance multiorgane et la mort si non traité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc cardiogénique",
+        "choc cardiaque"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographie-Doppler",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer la structure et la fonction du cœur, ainsi que le flux sanguin.",
+      "category": "imagerie",
+      "synonyms": [
+        "écho-Doppler"
+      ],
+      "related_terms": [
+        "échocardiographie",
+        "Doppler cardiaque"
+      ],
+      "description": "L'échocardiographie-Doppler est utilisée pour diagnostiquer diverses maladies cardiaques, y compris les valvulopathies et les troubles de la fonction ventriculaire.",
+      "expansion": "Échocardiographie-Doppler",
+      "clinical_significance": "Essentiel pour le diagnostic et le suivi des maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échocardiographie-Doppler",
+        "écho-Doppler"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrysectomie",
+      "definition": "Intervention chirurgicale consistant à enlever un anévrysme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "résection d'anévrysme"
+      ],
+      "related_terms": [
+        "anévrysme",
+        "chirurgie vasculaire"
+      ],
+      "description": "L'anévrysectomie est souvent réalisée pour prévenir la rupture d'un anévrysme.",
+      "expansion": "Anévrysectomie",
+      "clinical_significance": "Peut être nécessaire pour prévenir des complications graves, telles que la rupture d'anévrysme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrysectomie",
+        "résection d'anévrysme"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance mitrale",
+      "definition": "Incapacité de la valve mitrale à se fermer complètement, entraînant un reflux de sang du ventricule gauche vers l'oreillette gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "régurgitation mitrale"
+      ],
+      "related_terms": [
+        "prolapsus mitral",
+        "sténose mitrale"
+      ],
+      "description": "L'insuffisance mitrale peut être causée par diverses conditions, y compris les maladies valvulaires dégénératives et les infarctus du myocarde.",
+      "expansion": "Insuffisance Mitrale",
+      "clinical_significance": "Peut entraîner une insuffisance cardiaque et nécessiter une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance mitrale",
+        "régurgitation mitrale"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défibrillateur automatique implantable (DAI)",
+      "definition": "Dispositif médical implanté chirurgicalement pour surveiller le rythme cardiaque et administrer des chocs électriques en cas de troubles du rythme potentiellement mortels.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "défibrillateur implantable",
+        "DAI"
+      ],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Utilisé en prévention secondaire de la mort subite chez les patients à haut risque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "implantable cardioverter defibrillator",
+        "ICD device"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Dressler",
+      "definition": "Forme de péricardite tardive survenant après un infarctus du myocarde, souvent associée à des symptômes systémiques tels que la fièvre et les douleurs articulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "péricardite post-infarctus"
+      ],
+      "related_terms": [
+        "péricardite",
+        "infarctus du myocarde"
+      ],
+      "description": "Rare à l'ère de l'angioplastie primaire, souvent lié à une reperfusion tardive ou à une nécrose étendue.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Dressler syndrome",
+        "post-MI pericarditis"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographie",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser le cœur, ses structures et son fonctionnement.",
+      "category": "imagerie",
+      "synonyms": [
+        "écho",
+        "échocardiogramme"
+      ],
+      "related_terms": [
+        "IRM",
+        "tomodensitométrie"
+      ],
+      "description": "Utilisée pour diagnostiquer diverses conditions cardiaques, y compris les épanchements péricardiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "echocardiography",
+        "heart ultrasound"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinolytique",
+      "definition": "Médicament utilisé pour dissoudre les caillots sanguins en activant le système fibrinolytique naturel du corps.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thrombolytique"
+      ],
+      "related_terms": [
+        "fibrinolyse",
+        "angioplastie"
+      ],
+      "description": "Administré par voie intraveineuse dans les 10 minutes suivant l'ECG en cas de STEMI.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrinolytic agent",
+        "thrombolytic drug"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bétabloquant",
+      "definition": "Médicament qui bloque les récepteurs bêta-adrénergiques, réduisant ainsi la fréquence cardiaque et la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêtabloquant",
+        "beta-blocker"
+      ],
+      "related_terms": [
+        "aténolol",
+        "insuffisance cardiaque"
+      ],
+      "description": "Utilisé pour traiter l'hypertension, l'angine de poitrine et l'insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "beta blocker",
+        "atenolol"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteur du P2Y12",
+      "definition": "Un inhibiteur du P2Y12 est un médicament qui bloque le récepteur P2Y12 sur les plaquettes, empêchant ainsi l'agrégation plaquettaire et la formation de caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antiagrégant plaquettaire",
+        "inhibiteur de l'agrégation plaquettaire"
+      ],
+      "related_terms": [
+        "aspirine",
+        "ticagrelor",
+        "prasugrel",
+        "clopidogrel"
+      ],
+      "description": "Les inhibiteurs du P2Y12 sont utilisés pour prévenir les événements thrombotiques chez les patients à risque de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements ischémiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA ST-",
+      "definition": "SCA ST- est l'abréviation de Syndrome Coronaire Aigu avec sus-décalage du segment ST, indiquant une occlusion complète d'une artère coronaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "infarctus du myocarde avec sus-décalage du segment ST"
+      ],
+      "related_terms": [
+        "SCA",
+        "infarctus du myocarde"
+      ],
+      "description": "Le SCA ST- est une urgence médicale nécessitant une intervention rapide pour restaurer le flux sanguin coronaire.",
+      "expansion": "Syndrome Coronaire Aigu avec sus-décalage du segment ST",
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioplastie coronaire",
+      "definition": "L'angioplastie coronaire est une procédure médicale utilisée pour élargir les artères coronaires rétrécies ou obstruées.",
+      "category": "imagerie",
+      "synonyms": [
+        "intervention coronaire percutanée",
+        "ICP"
+      ],
+      "related_terms": [
+        "coronarographie",
+        "stent"
+      ],
+      "description": "L'angioplastie coronaire est souvent réalisée en conjonction avec la pose de stents pour maintenir l'ouverture des artères.",
+      "expansion": null,
+      "clinical_significance": "Traitement essentiel pour les patients avec des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ticagrelor",
+      "definition": "Le ticagrelor est un inhibiteur des récepteurs P2Y12 utilisé pour prévenir les événements thrombotiques chez les patients à risque de maladies cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Brilique"
+      ],
+      "related_terms": [
+        "prasugrel",
+        "clopidogrel"
+      ],
+      "description": "Le ticagrelor est souvent utilisé en association avec l'aspirine pour une double thérapie antiplaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements ischémiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prasugrel",
+      "definition": "Le prasugrel est un inhibiteur des récepteurs P2Y12 utilisé pour prévenir les événements thrombotiques chez les patients à risque de maladies cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Efient"
+      ],
+      "related_terms": [
+        "ticagrelor",
+        "clopidogrel"
+      ],
+      "description": "Le prasugrel est souvent utilisé en association avec l'aspirine pour une double thérapie antiplaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements ischémiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clopidogrel",
+      "definition": "Le clopidogrel est un inhibiteur des récepteurs P2Y12 utilisé pour prévenir les événements thrombotiques chez les patients à risque de maladies cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Plavix"
+      ],
+      "related_terms": [
+        "ticagrelor",
+        "prasugrel"
+      ],
+      "description": "Le clopidogrel est souvent utilisé en association avec l'aspirine pour une double thérapie antiplaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements ischémiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs de la glycoprotéine IIbIIIa",
+      "definition": "Les inhibiteurs de la glycoprotéine IIbIIIa sont des médicaments qui bloquent l'agrégation plaquettaire en empêchant la liaison du fibrinogène aux récepteurs IIbIIIa sur les plaquettes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antiagrégants plaquettaires"
+      ],
+      "related_terms": [
+        "abciximab",
+        "eptifibatide",
+        "tirofiban"
+      ],
+      "description": "Utilisés dans les situations de sauvetage ou en cas de complication thrombotique pendant une ICP.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications thrombotiques pendant les interventions coronariennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fondaparinux",
+      "definition": "Le fondaparinux est un anticoagulant synthétique qui inhibe spécifiquement le facteur Xa, utilisé pour prévenir les thromboses veineuses et artérielles.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Arixtra"
+      ],
+      "related_terms": [
+        "enoxaparine",
+        "HNF"
+      ],
+      "description": "Le fondaparinux est souvent utilisé en complément du traitement antiplaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements thrombotiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enoxaparine",
+      "definition": "L'enoxaparine est une héparine de bas poids moléculaire utilisée comme anticoagulant pour prévenir et traiter les thromboses veineuses et artérielles.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Lovenox"
+      ],
+      "related_terms": [
+        "fondaparinux",
+        "HNF"
+      ],
+      "description": "L'enoxaparine est souvent utilisée en complément du traitement antiplaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements thrombotiques chez les patients avec syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bivalirudine",
+      "definition": "La bivalirudine est un anticoagulant direct qui inhibe la thrombine, utilisé pour prévenir les thromboses pendant les interventions coronariennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Angiomax"
+      ],
+      "related_terms": [
+        "HNF",
+        "fondaparinux"
+      ],
+      "description": "La bivalirudine est utilisée comme alternative à l'HNF pendant les angioplasties coronaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des événements thrombotiques pendant les interventions coronariennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SYNTAX score",
+      "definition": "Le SYNTAX score est un système de classification utilisé pour évaluer la complexité des lésions coronariennes et aider à la décision de traitement.",
+      "category": "classification",
+      "synonyms": [
+        "score SYNTAX"
+      ],
+      "related_terms": [
+        "EuroSCORE",
+        "STS risk score"
+      ],
+      "description": "Le SYNTAX score est utilisé pour déterminer la meilleure stratégie de revascularisation pour les patients avec des syndromes coronariens aigus.",
+      "expansion": null,
+      "clinical_significance": "Important dans la planification du traitement des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EuroSCORE",
+      "definition": "Le EuroSCORE est un système de classification utilisé pour évaluer le risque opératoire chez les patients subissant une chirurgie cardiaque.",
+      "category": "classification",
+      "synonyms": [
+        "score EuroSCORE"
+      ],
+      "related_terms": [
+        "STS risk score",
+        "SYNTAX score"
+      ],
+      "description": "Le EuroSCORE est utilisé pour estimer le risque de mortalité et de complications post-opératoires.",
+      "expansion": null,
+      "clinical_significance": "Important dans la planification du traitement des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STS risk score",
+      "definition": "Le STS risk score est un système de classification utilisé pour évaluer le risque opératoire chez les patients subissant une chirurgie cardiaque.",
+      "category": "classification",
+      "synonyms": [
+        "score STS"
+      ],
+      "related_terms": [
+        "EuroSCORE",
+        "SYNTAX score"
+      ],
+      "description": "Le STS risk score est utilisé pour estimer le risque de mortalité et de complications post-opératoires.",
+      "expansion": null,
+      "clinical_significance": "Important dans la planification du traitement des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "streptokinase",
+      "definition": "Fibrinolytique d'origine naturelle extrait de cultures de streptocoques hémolytiques, utilisé pour activer le plasminogène.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "plasmine"
+      ],
+      "description": "La streptokinase est très immunogène et peut provoquer des réactions allergiques.",
+      "expansion": null,
+      "clinical_significance": "Utilisée dans le traitement des infarctus du myocarde et des thromboses veineuses profondes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "streptokinase",
+        "streptocoques hémolytiques"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasminogène",
+      "definition": "Proenzyme inactive qui, lorsqu'elle est activée, devient la plasmine, une enzyme qui dégrade la fibrine dans les caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "plasmine",
+        "fibrine",
+        "fibrinolytiques"
+      ],
+      "description": "Le plasminogène est un composant clé du système fibrinolytique, qui aide à dissoudre les caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plasminogène",
+        "plasmine",
+        "fibrine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasmine",
+      "definition": "Enzyme protéolytique qui dégrade la fibrine dans les caillots sanguins, formée à partir du plasminogène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "fibrinolytiques"
+      ],
+      "description": "La plasmine est essentielle pour la dissolution des caillots sanguins et le maintien de la fluidité sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plasmine",
+        "plasminogène",
+        "fibrine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urokinase",
+      "definition": "Enzyme protéolytique isolée de cultures cellulaires rénales embryonnaires humaines, utilisée comme fibrinolytique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "plasmine"
+      ],
+      "description": "L'urokinase active le plasminogène pour former la plasmine, aidant à dissoudre les caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "urokinase",
+        "plasminogène",
+        "fibrine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinospécifiques",
+      "definition": "Caractéristique des fibrinolytiques qui agissent préférentiellement sur la fibrine des caillots, minimisant l'activité systémique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrinolytiques",
+        "fibrine",
+        "plasminogène"
+      ],
+      "description": "Les agents fibrinospécifiques sont plus sûrs et efficaces car ils ciblent spécifiquement la fibrine des caillots.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrinospécifiques",
+        "fibrinolytiques",
+        "fibrine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinogénolytique",
+      "definition": "Activité des fibrinolytiques qui dégrade le fibrinogène en dehors du caillot, pouvant entraîner des complications hémorragiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrinolytiques",
+        "fibrinogène",
+        "fibrine"
+      ],
+      "description": "L'activité fibrinogénolytique peut être un effet secondaire indésirable des fibrinolytiques de première génération.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrinogénolytique",
+        "fibrinolytiques",
+        "fibrinogène"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "activateur tissulaire du plasminogène (t-PA)",
+      "definition": "Protéine qui active le plasminogène pour former la plasmine, utilisée dans les fibrinolytiques de nouvelle génération.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "t-PA"
+      ],
+      "related_terms": [
+        "plasminogène",
+        "plasmine",
+        "fibrine"
+      ],
+      "description": "Le t-PA est plus spécifique de la fibrine et a un meilleur profil efficacité/sécurité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "t-PA",
+        "plasminogène",
+        "fibrine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alteplase",
+      "definition": "Dérivé recombinant de l'activateur tissulaire du plasminogène (t-PA), utilisé comme fibrinolytique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "t-PA"
+      ],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "plasmine"
+      ],
+      "description": "L'alteplase est utilisé pour traiter les infarctus du myocarde et les accidents vasculaires cérébraux ischémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alteplase",
+        "t-PA",
+        "plasminogène"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "reteplase",
+      "definition": "Dérivé recombinant de l'activateur tissulaire du plasminogène (t-PA), utilisé comme fibrinolytique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "r-PA"
+      ],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "plasmine"
+      ],
+      "description": "La reteplase est utilisée pour traiter les infarctus du myocarde et a une demi-vie prolongée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "reteplase",
+        "r-PA",
+        "plasminogène"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tenecteplase",
+      "definition": "Dérivé recombinant de l'activateur tissulaire du plasminogène (t-PA), utilisé comme fibrinolytique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "TNK-tPA"
+      ],
+      "related_terms": [
+        "plasminogène",
+        "fibrine",
+        "plasmine"
+      ],
+      "description": "La tenecteplase est utilisée pour traiter les infarctus du myocarde et a une demi-vie prolongée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tenecteplase",
+        "TNK-tPA",
+        "plasminogène"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HSHC",
+      "definition": "Hydrocortisone, un corticostéroïde utilisé pour prévenir les réactions allergiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hydrocortisone"
+      ],
+      "related_terms": [
+        "corticostéroïde",
+        "allergie"
+      ],
+      "description": "L'HSHC est administrée avant la streptokinase pour réduire le risque de réactions allergiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HSHC",
+        "hydrocortisone",
+        "corticostéroïde"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IVD",
+      "definition": "Injection intraveineuse directe, méthode d'administration de médicaments directement dans la veine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "injection intraveineuse directe"
+      ],
+      "related_terms": [
+        "intraveineuse",
+        "injection"
+      ],
+      "description": "L'IVD est utilisée pour administrer des médicaments rapidement et directement dans la circulation sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IVD",
+        "injection intraveineuse"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ST",
+      "definition": "Segment ST, une partie de l'électrocardiogramme représentant la période entre la dépolarisation et la repolarisation des ventricules.",
+      "category": "imagerie",
+      "synonyms": [
+        "segment ST"
+      ],
+      "related_terms": [
+        "électrocardiogramme",
+        "dépolarisation",
+        "repolarisation"
+      ],
+      "description": "Les modifications du segment ST sont souvent indicatives d'une ischémie myocardique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ST",
+        "segment ST",
+        "électrocardiogramme"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RIVA",
+      "definition": "Rythme Idioventriculaire Accéléré, un rythme cardiaque anormal originaire des ventricules.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "extrasystoles ventriculaires"
+      ],
+      "description": "",
+      "expansion": "Rythme Idioventriculaire Accéléré",
+      "clinical_significance": "Peut être un signe de reperfusion après une fibrinolyse.",
+      "normal_values": "",
+      "image_search_terms": [
+        "RIVA",
+        "rythme idioventriculaire"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CPK(-MB)",
+      "definition": "Créatine Phosphokinase de type MB, une isoenzyme spécifique du muscle cardiaque, utilisée comme marqueur de l'infarctus du myocarde.",
+      "category": "pathologie",
+      "synonyms": [
+        "CPK-MB",
+        "créatine kinase MB"
+      ],
+      "related_terms": [
+        "troponines",
+        "myoglobine"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Élévation de la CPK-MB indique une lésion myocardique.",
+      "normal_values": "Valeurs normales < 5 ng/mL",
+      "image_search_terms": [
+        "CPK-MB",
+        "marqueurs cardiaques"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasodilatation coronaire",
+      "definition": "Dilatation des artères coronaires, augmentant le flux sanguin vers le myocarde.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation",
+        "artères coronaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour traiter l'angine de poitrine et l'hypertension.",
+      "normal_values": "",
+      "image_search_terms": [
+        "vasodilatation coronaire",
+        "artères coronaires"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance ventriculaire gauche",
+      "definition": "Incapacité du ventricule gauche à pomper efficacement le sang, entraînant une accumulation de sang dans les poumons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "ventricule gauche"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner un œdème pulmonaire et une insuffisance cardiaque congestive.",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance ventriculaire gauche",
+        "insuffisance cardiaque"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs de la phosphodiestérase type 5",
+      "definition": "Médicaments utilisés pour traiter la dysfonction érectile et l'hypertension artérielle pulmonaire en inhibant l'enzyme phosphodiestérase de type 5.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "sildénafil",
+        "tadalafil"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Contre-indiqués avec les dérivés nitrés en raison du risque d'hypotension sévère.",
+      "normal_values": "",
+      "image_search_terms": [
+        "inhibiteurs de la phosphodiestérase type 5",
+        "sildénafil"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastralgies",
+      "definition": "Douleurs ou inconforts situés dans la région de l'estomac.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "douleurs gastriques",
+        "inconfort gastrique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Symptôme courant de troubles gastro-intestinaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gastralgies",
+        "douleurs gastriques"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastrite érosive",
+      "definition": "Inflammation de la muqueuse gastrique caractérisée par des érosions superficielles.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrite",
+        "érosions gastriques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut être causée par l'aspirine et d'autres AINS.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gastrite érosive",
+        "érosions gastriques"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénosine diphosphate",
+      "definition": "Nucléotide impliqué dans la coagulation sanguine en activant les plaquettes via les récepteurs P2Y12.",
+      "category": "physiologie",
+      "synonyms": [
+        "ADP"
+      ],
+      "related_terms": [
+        "plaquettes",
+        "récepteurs P2Y12"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Cible des inhibiteurs des récepteurs P2Y12 pour prévenir les événements thrombotiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "adénosine diphosphate",
+        "ADP"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thiénopirydine",
+      "definition": "Classe de médicaments antiplaquettaires qui inhibent l'agrégation plaquettaire en bloquant les récepteurs P2Y12.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "clopidogrel",
+        "prasugrel"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour prévenir les événements thrombotiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thiénopirydine",
+        "clopidogrel"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytochromes",
+      "definition": "Enzymes hépatiques impliquées dans le métabolisme des médicaments et d'autres substances.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "métabolisme hépatique",
+        "enzymes hépatiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Important dans le métabolisme des médicaments comme le clopidogrel.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cytochromes",
+        "métabolisme hépatique"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GPIIbIIIa",
+      "definition": "Récepteur plaquettaire impliqué dans l'agrégation plaquettaire en se liant au fibrinogène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "abciximab",
+        "eptifibatide",
+        "tirofiban"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Cible des inhibiteurs des GPIIbIIIa pour prévenir les événements thrombotiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "GPIIbIIIa",
+        "récepteur plaquettaire"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TIH",
+      "definition": "Thrombopénie Induite par l'Héparine, une complication grave de l'héparinothérapie caractérisée par une diminution des plaquettes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombopénie",
+        "héparine"
+      ],
+      "description": "",
+      "expansion": "Thrombopénie Induite par l'Héparine",
+      "clinical_significance": "Peut entraîner des complications thrombotiques graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "TIH",
+        "thrombopénie induite par l'héparine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cl Créat",
+      "definition": "Clairance de la créatinine, une mesure de la fonction rénale basée sur l'excrétion de créatinine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "clairance rénale",
+        "créatinine"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indicateur important de la fonction rénale.",
+      "normal_values": "88-128 mL/min pour les hommes, 72-108 mL/min pour les femmes",
+      "image_search_terms": [
+        "Cl Créat",
+        "clairance de la créatinine"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur Xa",
+      "definition": "Enzyme clé dans la cascade de coagulation sanguine, activée par le facteur X.",
+      "category": "physiologie",
+      "synonyms": [
+        "Facteur X activé"
+      ],
+      "related_terms": [
+        "Fondaparinux"
+      ],
+      "description": "Joue un rôle crucial dans la formation de caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": "Cible de nombreux anticoagulants pour prévenir la formation de caillots sanguins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sartan",
+      "definition": "Antagoniste des récepteurs de l'angiotensine II, utilisé pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Antagoniste des récepteurs de l'angiotensine II"
+      ],
+      "related_terms": [
+        "IEC"
+      ],
+      "description": "Utilisé comme alternative aux IEC pour réduire la pression artérielle et améliorer la fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans la gestion des syndromes coronariens aigus pour améliorer la fonction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Statine",
+      "definition": "Médicament utilisé pour réduire les niveaux de cholestérol dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Inhibiteur de la HMG-CoA réductase"
+      ],
+      "related_terms": [
+        "Cholestérolémie",
+        "LDL"
+      ],
+      "description": "Utilisé pour prévenir les maladies cardiovasculaires en réduisant les niveaux de cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans la gestion des syndromes coronariens aigus pour réduire le risque de complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ézétimibe",
+      "definition": "Médicament utilisé pour réduire les niveaux de cholestérol en inhibant l'absorption du cholestérol dans l'intestin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ezetrol"
+      ],
+      "related_terms": [
+        "Statine",
+        "LDL"
+      ],
+      "description": "Utilisé en association avec les statines pour réduire les niveaux de cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans la gestion des syndromes coronariens aigus pour réduire le risque de complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Réadaptation cardiaque",
+      "definition": "Programme structuré de soins pour les patients ayant subi un événement cardiaque, visant à améliorer la santé cardiovasculaire.",
+      "category": "classification",
+      "synonyms": [
+        "Réhabilitation cardiaque"
+      ],
+      "related_terms": [
+        "Syndromes coronariens aigus"
+      ],
+      "description": "Inclut l'exercice physique, l'éducation et le soutien psychologique.",
+      "expansion": null,
+      "clinical_significance": "Important pour la récupération et la prévention des récidives après un syndrome coronaire aigu.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md"
+  ],
+  "total_terms": 106
+}

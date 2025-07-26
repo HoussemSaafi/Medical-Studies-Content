@@ -1,0 +1,2295 @@
+{
+  "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+  "terms": [
+    {
+      "term": "bronchite aiguë",
+      "definition": "Inflammation aiguë des bronches et des bronchioles, souvent d'origine infectieuse, caractérisée par une toux, une fièvre modérée et des douleurs thoraciques.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchite"
+      ],
+      "related_terms": [
+        "bronchite virale",
+        "bronchite bactérienne"
+      ],
+      "description": "La bronchite aiguë est une affection fréquente et généralement bénigne, mais peut entraîner des complications chez les personnes à risque.",
+      "expansion": null,
+      "clinical_significance": "Importante à diagnostiquer pour éviter des complications chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchite virale",
+      "definition": "Type de bronchite aiguë causée par des virus à tropisme respiratoire, caractérisée par une inflammation des voies aériennes et des symptômes généraux.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchite aiguë virale"
+      ],
+      "related_terms": [
+        "bronchite aiguë",
+        "virus respiratoire syncytial"
+      ],
+      "description": "La bronchite virale est souvent bénigne mais peut entraîner une hyperréactivité bronchique transitoire.",
+      "expansion": null,
+      "clinical_significance": "Importante à diagnostiquer pour éviter des complications chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus respiratoire syncytial",
+      "definition": "Virus à ARN de la famille des Paramyxoviridae, responsable de nombreuses infections respiratoires chez les enfants, notamment la bronchiolite.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VRS"
+      ],
+      "related_terms": [
+        "bronchiolite",
+        "bronchite virale"
+      ],
+      "description": "Le VRS est une cause fréquente de bronchiolite chez les nourrissons et peut entraîner des complications respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des infections respiratoires chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus parainfluenzae",
+      "definition": "Virus à ARN de la famille des Paramyxoviridae, responsable d'infections respiratoires, notamment chez les enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "parainfluenza"
+      ],
+      "related_terms": [
+        "bronchite virale",
+        "virus respiratoire syncytial"
+      ],
+      "description": "Le virus parainfluenzae est une cause fréquente de bronchite aiguë chez les enfants.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des infections respiratoires chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus de la grippe",
+      "definition": "Virus à ARN de la famille des Orthomyxoviridae, responsable de la grippe, une infection respiratoire aiguë.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Myxovirus influenzae"
+      ],
+      "related_terms": [
+        "bronchite virale",
+        "adénovirus"
+      ],
+      "description": "Le virus de la grippe est une cause fréquente de bronchite aiguë chez les adultes.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mycoplasma pneumoniae",
+      "definition": "Bactérie responsable de pneumonies atypiques et de bronchites aiguës, souvent associée à une toux prolongée et à une hyperréactivité bronchique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Mycoplasma pneumoniae"
+      ],
+      "related_terms": [
+        "bronchite bactérienne",
+        "Chlamydia pneumoniae"
+      ],
+      "description": "Mycoplasma pneumoniae est une cause fréquente de bronchite aiguë bactérienne.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Chlamydia pneumoniae",
+      "definition": "Bactérie intracellulaire obligatoire responsable de pneumonies atypiques et de bronchites aiguës, souvent associée à une toux prolongée et à une hyperréactivité bronchique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Chlamydia pneumoniae"
+      ],
+      "related_terms": [
+        "bronchite bactérienne",
+        "Mycoplasma pneumoniae"
+      ],
+      "description": "Chlamydia pneumoniae est une cause fréquente de bronchite aiguë bactérienne.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchiolite oblitérante",
+      "definition": "Maladie caractérisée par une obstruction des petites voies aériennes due à une prolifération anormale de cellules du revêtement bronchiolaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchiolite oblitérante"
+      ],
+      "related_terms": [
+        "bronchiolite",
+        "virus respiratoire syncytial"
+      ],
+      "description": "La bronchiolite oblitérante est une complication rare mais grave de certaines infections virales.",
+      "expansion": null,
+      "clinical_significance": "Important à identifier pour la prise en charge des complications respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antitussifs",
+      "definition": "Médicaments utilisés pour supprimer la toux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "suppresseurs de toux"
+      ],
+      "related_terms": [
+        "antalgiques",
+        "fluidifiants bronchiques"
+      ],
+      "description": "Les antitussifs sont utilisés pour traiter la toux sèche et non productive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "antitussifs médicaments",
+        "suppresseurs de toux"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fluidifiants bronchiques",
+      "definition": "Médicaments utilisés pour fluidifier les sécrétions bronchiques et faciliter leur expectoration.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "mucolytiques"
+      ],
+      "related_terms": [
+        "antalgiques",
+        "antitussifs"
+      ],
+      "description": "Les fluidifiants bronchiques aident à éliminer les sécrétions bronchiques dans les infections respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fluidifiants bronchiques médicaments",
+        "mucolytiques"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macrolide",
+      "definition": "Classe d'antibiotiques utilisés pour traiter diverses infections bactériennes, y compris celles des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "macrolides"
+      ],
+      "related_terms": [
+        "amoxicilline",
+        "cycline",
+        "antibiothérapie"
+      ],
+      "description": "Les macrolides sont efficaces contre les infections respiratoires et sont souvent utilisés chez les patients allergiques aux pénicillines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "macrolides médicaments",
+        "antibiotiques macrolides"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cycline",
+      "definition": "Classe d'antibiotiques utilisés pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "cyclines"
+      ],
+      "related_terms": [
+        "amoxicilline",
+        "macrolide",
+        "antibiothérapie"
+      ],
+      "description": "Les cyclines sont utilisées pour traiter les infections respiratoires et d'autres types d'infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cyclines médicaments",
+        "antibiotiques cyclines"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccination antigrippale",
+      "definition": "Vaccin utilisé pour prévenir la grippe, recommandé pour les personnes à risque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin contre la grippe"
+      ],
+      "related_terms": [
+        "vaccination",
+        "grippe"
+      ],
+      "description": "La vaccination antigrippale est essentielle pour prévenir la grippe chez les personnes à risque, y compris les personnes âgées et celles avec des conditions médicales chroniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vaccination antigrippale",
+        "vaccin grippe"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathies aigues communautaires",
+      "definition": "Infections pulmonaires acquises en dehors de l'hôpital ou au cours des premières 48 à 72 heures d'hospitalisation.",
+      "category": "pathologie",
+      "synonyms": [
+        "PAC"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "bronchite"
+      ],
+      "description": "Les pneumopathies aigues communautaires sont des infections pulmonaires qui peuvent être graves et nécessitent souvent un traitement antibiotique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumopathies aigues communautaires",
+        "PAC"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonies bactériennes",
+      "definition": "Infections pulmonaires causées par des bactéries, souvent graves et nécessitant un traitement antibiotique.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie bactérienne"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "antibiothérapie"
+      ],
+      "description": "Les pneumonies bactériennes sont des infections pulmonaires potentiellement graves qui nécessitent une prise en charge rapide et adéquate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumonies bactériennes",
+        "pneumonie bactérienne"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mécaniques",
+      "definition": "Mécanismes de défense physiques du corps contre les infections, tels que le filtre nasal et la barrière glottique.",
+      "category": "physiologie",
+      "synonyms": [
+        "défenses mécaniques"
+      ],
+      "related_terms": [
+        "immunologiques",
+        "défenses de l'hôte"
+      ],
+      "description": "Les défenses mécaniques aident à protéger les voies aériennes contre les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "défenses mécaniques",
+        "mécanismes de défense"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunologiques",
+      "definition": "Mécanismes de défense du système immunitaire contre les infections, tels que les IgA sécrétoires et les macrophages alvéolaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "défenses immunologiques"
+      ],
+      "related_terms": [
+        "mécaniques",
+        "défenses de l'hôte"
+      ],
+      "description": "Les défenses immunologiques jouent un rôle crucial dans la protection contre les infections respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "défenses immunologiques",
+        "système immunitaire"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DDB",
+      "definition": "Dilatation des bronches, une condition caractérisée par l'élargissement anormal des bronches.",
+      "category": "pathologie",
+      "synonyms": [
+        "dilatation des bronches"
+      ],
+      "related_terms": [
+        "BPCO",
+        "bronchite"
+      ],
+      "description": "La DDB peut augmenter le risque d'infections respiratoires en altérant les défenses locales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "DDB",
+        "dilatation des bronches"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voie hématogène",
+      "definition": "Mécanisme de contamination par dissémination des agents infectieux via le sang à partir d'un foyer primitif.",
+      "category": "physiologie",
+      "synonyms": [
+        "voie hématogène"
+      ],
+      "related_terms": [
+        "inhalation",
+        "contamination par contigüité"
+      ],
+      "description": "La voie hématogène est un mécanisme de contamination des voies respiratoires par dissémination sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "voie hématogène",
+        "contamination sanguine"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inoculation directe",
+      "definition": "Mécanisme de contamination par introduction directe des agents infectieux dans les voies respiratoires suite à un traumatisme ou une intervention chirurgicale.",
+      "category": "physiologie",
+      "synonyms": [
+        "inoculation directe"
+      ],
+      "related_terms": [
+        "inhalation",
+        "voie hématogène"
+      ],
+      "description": "L'inoculation directe est un mécanisme de contamination des voies respiratoires par traumatisme ou intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "inoculation directe",
+        "contamination traumatique"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonie alvéolaire",
+      "definition": "Type de pneumonie caractérisée par une alvéolite fibrino-leucocytaire avec exsudat endo-alvéolaire intense.",
+      "category": "pathologie",
+      "synonyms": [
+        "alvéolite fibrino-leucocytaire"
+      ],
+      "related_terms": [
+        "pneumonie interstitielle",
+        "broncho-alvéolite"
+      ],
+      "description": "La pneumonie alvéolaire est une forme de pneumonie où l'inflammation se situe principalement au niveau des alvéoles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumonie alvéolaire",
+        "alvéolite fibrino-leucocytaire"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonie interstitielle",
+      "definition": "Type de pneumonie caractérisée par une inflammation de l'interstitium avec un exsudat endo-alvéolaire minime.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie interstitielle"
+      ],
+      "related_terms": [
+        "pneumonie alvéolaire",
+        "broncho-alvéolite"
+      ],
+      "description": "La pneumonie interstitielle est une forme de pneumonie où l'inflammation se situe principalement au niveau de l'interstitium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumonie interstitielle",
+        "inflammation interstitielle"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "broncho-alvéolite",
+      "definition": "Inflammation des bronchioles et des alvéoles adjacents, souvent causée par une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "broncho-alvéolite"
+      ],
+      "related_terms": [
+        "pneumonie alvéolaire",
+        "pneumonie interstitielle"
+      ],
+      "description": "La broncho-alvéolite est une inflammation des bronchioles et des alvéoles adjacents, souvent causée par une infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "broncho-alvéolite",
+        "inflammation bronchiolaire"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchioles",
+      "definition": "Petites voies aériennes qui se ramifient à partir des bronches et mènent aux alvéoles.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronchioles"
+      ],
+      "related_terms": [
+        "alvéoles",
+        "bronches"
+      ],
+      "description": "Les bronchioles sont des voies aériennes qui mènent aux alvéoles et peuvent être affectées par des infections respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchioles",
+        "voies aériennes"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alvéoles",
+      "definition": "Petites structures en forme de sac dans les poumons où se produit l'échange de gaz.",
+      "category": "anatomie",
+      "synonyms": [
+        "alvéoles pulmonaires"
+      ],
+      "related_terms": [
+        "bronchioles",
+        "poumons"
+      ],
+      "description": "Les alvéoles sont les sites de l'échange de gaz dans les poumons et peuvent être affectées par des infections respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alvéoles",
+        "alvéoles pulmonaires"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcédation",
+      "definition": "Formation d'un abcès, une collection de pus dans les tissus, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès"
+      ],
+      "related_terms": [
+        "suppuration",
+        "nécrose"
+      ],
+      "description": "L'abcédation est la formation d'un abcès, souvent due à une infection respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "abcédation",
+        "abcès"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suppuration",
+      "definition": "Formation de pus dans les tissus, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "suppuration"
+      ],
+      "related_terms": [
+        "abcédation",
+        "nécrose"
+      ],
+      "description": "La suppuration est la formation de pus dans les tissus, souvent due à une infection bactérienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "suppuration",
+        "pus"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose",
+      "definition": "Mort cellulaire prématurée dans les tissus vivants, souvent due à une infection ou une blessure.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose"
+      ],
+      "related_terms": [
+        "abcédation",
+        "suppuration"
+      ],
+      "description": "La nécrose est la mort cellulaire prématurée dans les tissus vivants, souvent due à une infection ou une blessure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nécrose",
+        "mort cellulaire"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonie franche lobaire aiguë",
+      "definition": "Type de pneumonie caractérisée par une inflammation aiguë d'un lobe pulmonaire, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "PFLA"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "lobe pulmonaire"
+      ],
+      "description": "La pneumonie franche lobaire aiguë est une forme de pneumonie caractérisée par une inflammation aiguë d'un lobe pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumonie franche lobaire aiguë",
+        "PFLA"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "faciès vultueux",
+      "definition": "Expression faciale caractérisée par une apparence bouffie et rouge, souvent observée dans les infections graves.",
+      "category": "pathologie",
+      "synonyms": [
+        "faciès vultueux"
+      ],
+      "related_terms": [
+        "rougeur unilatérale de la pommette",
+        "herpès naso-labial"
+      ],
+      "description": "Le faciès vultueux est une expression faciale caractérisée par une apparence bouffie et rouge, souvent observée dans les infections graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "faciès vultueux",
+        "expression faciale"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de condensation pneumonique",
+      "definition": "Ensemble de signes cliniques et radiologiques caractéristiques de la pneumonie, incluant la matité, les vibrations vocales augmentées, et le souffle tubaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de condensation pneumonique"
+      ],
+      "related_terms": [
+        "matité",
+        "vibrations vocales augmentées",
+        "souffle tubaire"
+      ],
+      "description": "Le syndrome de condensation pneumonique est un ensemble de signes cliniques et radiologiques caractéristiques de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de condensation pneumonique",
+        "signes de pneumonie"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiographie thoracique",
+      "definition": "Examen d'imagerie médicale utilisant les rayons X pour visualiser les structures du thorax, y compris les poumons et le cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie du thorax"
+      ],
+      "related_terms": [
+        "radiographie de face",
+        "radiographie de profil"
+      ],
+      "description": "La radiographie thoracique est un examen d'imagerie médicale utilisé pour diagnostiquer les pneumonies et autres conditions pulmonaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "radiographie thoracique",
+        "radiographie du thorax"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperleucocytose à PNN",
+      "definition": "Augmentation du nombre de leucocytes dans le sang, en particulier des polynucléaires neutrophiles, souvent observée dans les infections bactériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperleucocytose à PNN"
+      ],
+      "related_terms": [
+        "leucocytes",
+        "polynucléaires neutrophiles"
+      ],
+      "description": "L'hyperleucocytose à PNN est une augmentation du nombre de leucocytes dans le sang, souvent observée dans les infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperleucocytose à PNN",
+        "leucocytes"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gaz de sang artériels",
+      "definition": "Analyse des gaz dans le sang artériel, utilisée pour évaluer l'oxygénation et la ventilation.",
+      "category": "pathologie",
+      "synonyms": [
+        "gaz du sang artériel"
+      ],
+      "related_terms": [
+        "hypoxémie",
+        "hypocapnie"
+      ],
+      "description": "Les gaz de sang artériels sont utilisés pour évaluer l'oxygénation et la ventilation dans diverses conditions médicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gaz de sang artériels",
+        "gaz du sang artériel"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponction pleurale",
+      "definition": "Procédure médicale consistant à prélever du liquide pleural à l'aide d'une aiguille insérée dans l'espace pleural.",
+      "category": "pathologie",
+      "synonyms": [
+        "thoracentèse"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "épanchement pleural"
+      ],
+      "description": "Utilisée pour diagnostiquer les causes de l'épanchement pleural, telles que les infections, les cancers ou les maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour le diagnostic et le traitement des pleurésies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "examen cytobactériologique des crachats (ECBC)",
+      "definition": "Analyse microbiologique des crachats pour identifier les bactéries et les cellules présentes.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "expectoration",
+        "flore oropharyngée"
+      ],
+      "description": "Utilisé pour diagnostiquer les infections respiratoires, mais peut être contaminé par la flore oropharyngée.",
+      "expansion": null,
+      "clinical_significance": "Important pour identifier les agents pathogènes responsables des infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Legionella",
+      "definition": "Genre de bactéries Gram-négatives responsables de la légionellose, une infection pulmonaire sévère.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "légionellose",
+        "pneumonie"
+      ],
+      "description": "Transmise par inhalation de gouttelettes d'eau contaminée, souvent provenant de systèmes de climatisation ou de douches.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des pneumonies sévères nécessitant une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aspiration bronchique",
+      "definition": "Procédure consistant à aspirer les sécrétions bronchiques à l'aide d'un bronchoscope.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronchoscopie",
+        "lavage broncho-alvéolaire"
+      ],
+      "description": "Utilisée pour diagnostiquer les infections respiratoires et obtenir des échantillons pour analyse microbiologique.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des infections respiratoires graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigènes urinaires solubles",
+      "definition": "Molécules spécifiques détectées dans l'urine, indicatives de certaines infections bactériennes.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène",
+        "infection urinaire"
+      ],
+      "description": "Utilisés pour diagnostiquer des infections comme la légionellose et les infections à pneumocoque.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic rapide des infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CRB65",
+      "definition": "Score clinique utilisé pour évaluer la gravité des pneumonies communautaires.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "score de gravité"
+      ],
+      "description": "Prend en compte la confusion, la fréquence respiratoire, la pression artérielle et l'âge.",
+      "expansion": null,
+      "clinical_significance": "Aide à déterminer la nécessité d'une hospitalisation ou d'un traitement ambulatoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PFLA",
+      "definition": "Pneumopathie focale lobaire aiguë, type de pneumonie caractérisée par une atteinte localisée d'un lobe pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie lobaire"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "infection pulmonaire"
+      ],
+      "description": "Cause des symptômes aigus avec une atteinte localisée du poumon.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des pneumonies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Klebsiella pneumoniae",
+      "definition": "Bactérie Gram-négative responsable de diverses infections, y compris des pneumonies et des infections urinaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection à Klebsiella",
+        "pneumonie"
+      ],
+      "description": "Cause souvent des infections nosocomiales et des pneumonies graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des infections respiratoires et urinaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acinetobacter baumannii",
+      "definition": "Bactérie Gram-négative responsable de diverses infections, y compris des pneumonies et des infections des plaies.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection à Acinetobacter",
+        "pneumonie"
+      ],
+      "description": "Cause souvent des infections nosocomiales et des pneumonies graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des infections respiratoires et des plaies infectées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAC",
+      "definition": "Pneumonie acquise en communauté, infection pulmonaire contractée en dehors d'un établissement de soins.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie communautaire"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "infection pulmonaire"
+      ],
+      "description": "Cause des symptômes aigus avec une atteinte pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des pneumonies communautaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Legionella pneumophila",
+      "definition": "Bactérie responsable de la légionellose, une infection pulmonaire sévère.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Legionella"
+      ],
+      "related_terms": [
+        "légionellose"
+      ],
+      "description": "La légionellose est une infection pulmonaire sévère causée par la bactérie Legionella pneumophila, souvent contractée par inhalation de gouttelettes d'eau contaminée.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des épidémies périodiques, souvent chez des personnes alcoolotabagiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "légionellose",
+      "definition": "Infection pulmonaire sévère causée par la bactérie Legionella pneumophila.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie des légionnaires"
+      ],
+      "related_terms": [
+        "Legionella pneumophila"
+      ],
+      "description": "La légionellose est une infection pulmonaire sévère causée par la bactérie Legionella pneumophila, souvent contractée par inhalation de gouttelettes d'eau contaminée.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des épidémies périodiques, souvent chez des personnes alcoolotabagiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigénurie",
+      "definition": "Présence d'antigènes dans l'urine, utilisée pour le diagnostic de certaines infections.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène"
+      ],
+      "description": "La détection d'antigènes dans l'urine est une méthode diagnostique pour certaines infections, y compris la légionellose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunofluorescence directe",
+      "definition": "Technique de laboratoire utilisée pour détecter des antigènes spécifiques dans des échantillons biologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène",
+        "immunofluorescence"
+      ],
+      "description": "L'immunofluorescence directe est une technique de laboratoire utilisée pour détecter des antigènes spécifiques dans des échantillons biologiques, comme les expectorations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonies virales",
+      "definition": "Infections pulmonaires causées par des virus.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie virale"
+      ],
+      "related_terms": [
+        "virus",
+        "pneumonie"
+      ],
+      "description": "Les pneumonies virales sont des infections pulmonaires causées par des virus, comme le virus de la grippe ou le SARS-CoV-2.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SARS-COV-2",
+      "definition": "Virus responsable de la COVID-19, une maladie respiratoire sévère.",
+      "category": "microbiologie",
+      "synonyms": [
+        "SARS-CoV-2"
+      ],
+      "related_terms": [
+        "COVID-19"
+      ],
+      "description": "Le SARS-CoV-2 est le virus responsable de la COVID-19, une maladie respiratoire sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathie alvéolo-interstitielle",
+      "definition": "Inflammation des alvéoles et de l'interstitium pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumopathie",
+        "alvéole",
+        "interstitium"
+      ],
+      "description": "La pneumopathie alvéolo-interstitielle est une inflammation des alvéoles et de l'interstitium pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BGN",
+      "definition": "Bacilles Gram négatif, un groupe de bactéries qui ne retiennent pas la coloration de Gram.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bacilles Gram négatif"
+      ],
+      "related_terms": [
+        "Gram négatif",
+        "bacille"
+      ],
+      "description": "Les BGN sont des bacilles Gram négatif, un groupe de bactéries qui ne retiennent pas la coloration de Gram.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyopneumothorax",
+      "definition": "Accumulation de pus dans la cavité pleurale, souvent associée à une infection pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pus",
+        "pleurale",
+        "infection pulmonaire"
+      ],
+      "description": "Le pyopneumothorax est une accumulation de pus dans la cavité pleurale, souvent associée à une infection pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumatocèles",
+      "definition": "Cavités remplies d'air dans le tissu pulmonaire, souvent résultant d'une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cavité",
+        "air",
+        "pulmonaire"
+      ],
+      "description": "Les pneumatocèles sont des cavités remplies d'air dans le tissu pulmonaire, souvent résultant d'une infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumonie lupique",
+      "definition": "Inflammation des poumons associée au lupus érythémateux disséminé.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lupus",
+        "pneumonie"
+      ],
+      "description": "La pneumonie lupique est une inflammation des poumons associée au lupus érythémateux disséminé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularites",
+      "definition": "Inflammation des vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasculite"
+      ],
+      "related_terms": [
+        "vaisseau sanguin",
+        "inflammation"
+      ],
+      "description": "Les vascularites sont des inflammations des vaisseaux sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β-lactamines",
+      "definition": "Classe d'antibiotiques caractérisée par la présence d'un noyau β-lactame dans leur structure moléculaire, incluant les pénicillines, céphalosporines, monobactames et carbapénèmes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "β-lactams"
+      ],
+      "related_terms": [
+        "pénicillines",
+        "céphalosporines",
+        "monobactames",
+        "carbapénèmes"
+      ],
+      "description": "Les β-lactamines agissent en inhibant la synthèse de la paroi cellulaire bactérienne, ce qui les rend efficaces contre une large gamme de bactéries.",
+      "expansion": null,
+      "clinical_significance": "Utilisées en première intention pour de nombreuses infections bactériennes, y compris les infections respiratoires basses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "β-lactamines",
+        "pénicillines",
+        "céphalosporines"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylocoque aureus",
+      "definition": "Bactérie Gram-positive appartenant au genre Staphylococcus, souvent impliquée dans les infections nosocomiales et communautaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Staphylococcus aureus"
+      ],
+      "related_terms": [
+        "infection staphylococcique",
+        "MRSA"
+      ],
+      "description": "Le staphylocoque aureus peut causer des infections cutanées, des pneumonies et des infections du sang.",
+      "expansion": null,
+      "clinical_significance": "Pathogène majeur dans les infections nosocomiales et communautaires, souvent résistant aux antibiotiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "staphylocoque aureus",
+        "Staphylococcus aureus"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β-lactamase",
+      "definition": "Enzyme produite par certaines bactéries qui hydrolyse le noyau β-lactame des antibiotiques, les rendant inefficaces.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "β-lactamases"
+      ],
+      "related_terms": [
+        "résistance aux antibiotiques",
+        "inhibiteur de β-lactamase"
+      ],
+      "description": "La production de β-lactamase est un mécanisme de résistance bactérienne aux β-lactamines.",
+      "expansion": null,
+      "clinical_significance": "Important facteur de résistance aux antibiotiques, nécessitant l'utilisation d'inhibiteurs de β-lactamase.",
+      "normal_values": null,
+      "image_search_terms": [
+        "β-lactamase",
+        "résistance aux antibiotiques"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synergistine",
+      "definition": "Antibiotique composé de deux molécules synergiques, la pristinamycine, efficace contre une large gamme de bactéries, y compris les bactéries Gram-positives et les germes intracellulaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pristinamycine"
+      ],
+      "related_terms": [
+        "antibiotiques",
+        "pneumocoque"
+      ],
+      "description": "La synergistine est utilisée pour traiter les infections respiratoires et cutanées.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections pneumococciques et les infections à germes intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "synergistine",
+        "pristinamycine"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pipéracilline-tazobactam",
+      "definition": "Combinaison d'un antibiotique β-lactamine (pipéracilline) et d'un inhibiteur de β-lactamase (tazobactam), efficace contre une large gamme de bactéries, y compris les bactéries Gram-négatives multirésistantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "piperacillin-tazobactam"
+      ],
+      "related_terms": [
+        "antibiotiques",
+        "β-lactamines"
+      ],
+      "description": "La pipéracilline-tazobactam est utilisée pour traiter les infections nosocomiales et les infections sévères.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections à bactéries Gram-négatives multirésistantes et les pneumonies nosocomiales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pipéracilline-tazobactam",
+        "antibiotiques"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "imipénème",
+      "definition": "Antibiotique de la classe des carbapénèmes, efficace contre une large gamme de bactéries, y compris les bactéries Gram-négatives multirésistantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "imipenem"
+      ],
+      "related_terms": [
+        "carbapénèmes",
+        "antibiotiques"
+      ],
+      "description": "L'imipénème est utilisé pour traiter les infections nosocomiales et les infections sévères.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections à bactéries Gram-négatives multirésistantes et les pneumonies nosocomiales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "imipénème",
+        "carbapénèmes"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vancomycine",
+      "definition": "Antibiotique glycopeptidique efficace contre les bactéries Gram-positives, y compris les staphylocoques résistants à la méthicilline (SARM).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vancomycin"
+      ],
+      "related_terms": [
+        "glycopeptides",
+        "SARM"
+      ],
+      "description": "La vancomycine est utilisée pour traiter les infections sévères à staphylocoques et les infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections à staphylocoques résistants à la méthicilline et les pneumonies nosocomiales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vancomycine",
+        "glycopeptides"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "teicoplanine",
+      "definition": "Antibiotique glycopeptidique similaire à la vancomycine, efficace contre les bactéries Gram-positives, y compris les staphylocoques résistants à la méthicilline (SARM).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "teicoplanin"
+      ],
+      "related_terms": [
+        "glycopeptides",
+        "SARM"
+      ],
+      "description": "La teicoplanine est utilisée pour traiter les infections sévères à staphylocoques et les infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections à staphylocoques résistants à la méthicilline et les pneumonies nosocomiales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "teicoplanine",
+        "glycopeptides"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oseltamivir",
+      "definition": "Antiviral inhibiteur de la neuraminidase, utilisé pour traiter et prévenir la grippe.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Tamiflu"
+      ],
+      "related_terms": [
+        "antiviraux",
+        "neuraminidase"
+      ],
+      "description": "L'oseltamivir est utilisé pour traiter la grippe et réduire la durée des symptômes.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre les infections grippales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oseltamivir",
+        "Tamiflu"
+      ],
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECBC",
+      "definition": "Examen Cytobactériologique des Crachats, une analyse de laboratoire pour identifier les bactéries présentes dans les crachats.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Examen Cytobactériologique des Crachats"
+      ],
+      "related_terms": [
+        "crachats",
+        "analyse de laboratoire"
+      ],
+      "description": "Utilisé pour diagnostiquer les infections respiratoires en identifiant les bactéries présentes dans les sécrétions bronchiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ampicilline",
+      "definition": "Antibiotique de la famille des pénicillines, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ampicillin"
+      ],
+      "related_terms": [
+        "pénicilline",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à pneumocoque et autres bactéries sensibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fluoroquinolone antipneumococcique",
+      "definition": "Classe d'antibiotiques utilisée pour traiter les infections à pneumocoque, notamment la lévofloxacine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lévofloxacine"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "pneumocoque"
+      ],
+      "description": "Efficace contre les infections respiratoires et autres infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalosporine de 3ème génération",
+      "definition": "Classe d'antibiotiques à large spectre, incluant le céfotaxime et la ceftriaxone, utilisée pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "céfotaxime",
+        "ceftriaxone"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles résistantes à d'autres antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "piperacilline/tazobactam",
+      "definition": "Combinaison d'un antibiotique de la famille des pénicillines (piperacilline) et d'un inhibiteur de bêta-lactamase (tazobactam), utilisée pour traiter les infections bactériennes sévères.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Tazocin"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "bêta-lactamase"
+      ],
+      "description": "Efficace contre les bactéries productrices de bêta-lactamase, y compris Pseudomonas aeruginosa.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C4G",
+      "definition": "Céphalosporine de 4ème génération, une classe d'antibiotiques à large spectre utilisée pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "céfépime"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles résistantes à d'autres antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbapème",
+      "definition": "Classe d'antibiotiques à large spectre, incluant le méropenème et l'imipenème, utilisée pour traiter diverses infections bactériennes sévères.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "méropenème",
+        "imipenème"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles résistantes à d'autres antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amikacine",
+      "definition": "Antibiotique de la famille des aminoglycosides, utilisé pour traiter les infections bactériennes sévères, notamment celles dues à des bactéries à Gram négatif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Amikin"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "aminoglycoside"
+      ],
+      "description": "Efficace contre les infections à Pseudomonas aeruginosa et autres bactéries résistantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tobramycine",
+      "definition": "Antibiotique de la famille des aminoglycosides, utilisé pour traiter les infections bactériennes sévères, notamment celles dues à des bactéries à Gram négatif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Tobrex"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "aminoglycoside"
+      ],
+      "description": "Efficace contre les infections à Pseudomonas aeruginosa et autres bactéries résistantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès pulmonaires",
+      "definition": "Collection de pus dans le tissu pulmonaire, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès du poumon"
+      ],
+      "related_terms": [
+        "infection pulmonaire",
+        "pus"
+      ],
+      "description": "Peut être causé par diverses bactéries, y compris les staphylocoques et les streptocoques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "légionelloses",
+      "definition": "Infections causées par les bactéries du genre Legionella, notamment la légionellose, une forme sévère de pneumonie.",
+      "category": "pathologie",
+      "synonyms": [
+        "légionellose"
+      ],
+      "related_terms": [
+        "Legionella",
+        "pneumonie"
+      ],
+      "description": "Often contracted by inhaling contaminated water droplets.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veinite",
+      "definition": "Inflammation d'une veine, souvent due à une infection ou une irritation.",
+      "category": "pathologie",
+      "synonyms": [
+        "phlébite"
+      ],
+      "related_terms": [
+        "veine",
+        "inflammation"
+      ],
+      "description": "Peut être causée par des cathéters intraveineux ou des infections systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allergie aux antibiotiques",
+      "definition": "Réaction immunitaire anormale à un antibiotique, pouvant entraîner des symptômes allant de légers à sévères.",
+      "category": "pathologie",
+      "synonyms": [
+        "allergie médicamenteuse"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "réaction allergique"
+      ],
+      "description": "Peut inclure des éruptions cutanées, de l'urticaire, de l'œdème ou des réactions anaphylactiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "surinfection nosocomiale",
+      "definition": "Infection acquise dans un établissement de soins de santé, souvent due à des bactéries résistantes aux antibiotiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection nosocomiale"
+      ],
+      "related_terms": [
+        "infection hospitalière",
+        "résistance aux antibiotiques"
+      ],
+      "description": "Peut être causée par des bactéries comme le staphylocoque doré résistant à la méthicilline (SARM).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie thromboembolique",
+      "definition": "Maladie caractérisée par la formation de caillots sanguins dans les veines, pouvant entraîner des complications comme l'embolie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboembolie"
+      ],
+      "related_terms": [
+        "caillot sanguin",
+        "embolie pulmonaire"
+      ],
+      "description": "Peut être causée par une immobilisation prolongée, des interventions chirurgicales ou des troubles de la coagulation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "septicémie",
+      "definition": "Infection grave du sang, souvent due à des bactéries, pouvant entraîner un choc septique.",
+      "category": "pathologie",
+      "synonyms": [
+        "sepsis"
+      ],
+      "related_terms": [
+        "infection sanguine",
+        "choc septique"
+      ],
+      "description": "Caractérisée par une réponse inflammatoire systémique à l'infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "décompensation",
+      "definition": "Détérioration soudaine de l'état de santé, souvent due à une insuffisance cardiaque, respiratoire ou rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "décompensation cardiaque"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "détérioration"
+      ],
+      "description": "Peut être causée par une surcharge de liquide, une infection ou une ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrose cicatricielle",
+      "definition": "Formation de tissu cicatriciel fibreux dans les poumons, souvent suite à une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrose pulmonaire"
+      ],
+      "related_terms": [
+        "tissu cicatriciel",
+        "fibrose"
+      ],
+      "description": "Peut entraîner une diminution de la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kinésithérapie respiratoire",
+      "definition": "Technique de rééducation utilisée pour améliorer la fonction respiratoire, souvent chez les patients atteints de maladies pulmonaires chroniques.",
+      "category": "physiologie",
+      "synonyms": [
+        "rééducation respiratoire"
+      ],
+      "related_terms": [
+        "kinésithérapie",
+        "fonction respiratoire"
+      ],
+      "description": "Inclut des exercices de respiration, des techniques de drainage bronchique et des mobilisations thoraciques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polysaccharidiques",
+      "definition": "Relatif aux polysaccharides, des molécules composées de plusieurs unités de sucres simples.",
+      "category": "microbiologie",
+      "synonyms": [
+        "polysaccharide"
+      ],
+      "related_terms": [
+        "sucres",
+        "molécules"
+      ],
+      "description": "Les polysaccharides peuvent être utilisés dans les vaccins pour stimuler une réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunité humorale",
+      "definition": "Réponse immunitaire médiée par les anticorps présents dans le sang et les fluides extracellulaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "immunité à médiation humorale"
+      ],
+      "related_terms": [
+        "anticorps",
+        "réponse immunitaire"
+      ],
+      "description": "Protège contre les infections extracellulaires, notamment les bactéries et les virus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie cardiovasculaire",
+      "definition": "Maladie affectant le cœur et les vaisseaux sanguins, souvent due à l'athérosclérose, l'hypertension ou d'autres facteurs de risque.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie cardiaque"
+      ],
+      "related_terms": [
+        "cœur",
+        "vaisseaux sanguins"
+      ],
+      "description": "Peut inclure l'infarctus du myocarde, l'insuffisance cardiaque et les accidents vasculaires cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcoolisme",
+      "definition": "Dépendance à l'alcool, caractérisée par une consommation excessive et des effets néfastes sur la santé.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcoolodépendance"
+      ],
+      "related_terms": [
+        "dépendance",
+        "alcool"
+      ],
+      "description": "Peut entraîner des complications comme la cirrhose, la pancréatite et des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asplénisme",
+      "definition": "Absence fonctionnelle de la rate, souvent due à une splénectomie ou à une maladie de la rate.",
+      "category": "pathologie",
+      "synonyms": [
+        "absence de rate"
+      ],
+      "related_terms": [
+        "rate",
+        "splénectomie"
+      ],
+      "description": "Peut entraîner une augmentation du risque d'infections graves, notamment par des bactéries encapsulées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunosuppresseur",
+      "definition": "Médicament utilisé pour supprimer ou réduire la réponse immunitaire, souvent utilisé pour prévenir le rejet de greffe ou traiter les maladies auto-immunes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunosuppresseur"
+      ],
+      "related_terms": [
+        "réponse immunitaire",
+        "greffe"
+      ],
+      "description": "Peut inclure des médicaments comme la ciclosporine, le tacrolimus et le méthotrexate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathies bactériennes communautaires",
+      "definition": "Infections pulmonaires acquises en dehors de l'hôpital, souvent causées par des bactéries comme le pneumocoque.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie communautaire"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "infection pulmonaire"
+      ],
+      "description": "Caractérisées par une inflammation des alvéoles pulmonaires et des symptômes comme la fièvre, la toux et la dyspnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Péni G",
+      "definition": "Pénicilline G, un antibiotique de la famille des pénicillines, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pénicilline G"
+      ],
+      "related_terms": [
+        "pénicilline",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à streptocoques et autres bactéries sensibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oxacilline",
+      "definition": "Antibiotique de la famille des pénicillines, utilisé pour traiter les infections à staphylocoques sensibles à la méthicilline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Oxacillin"
+      ],
+      "related_terms": [
+        "pénicilline",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à staphylocoques et autres bactéries sensibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ceftazidime",
+      "definition": "Antibiotique de la famille des céphalosporines de 3ème génération, utilisé pour traiter diverses infections bactériennes, notamment celles dues à Pseudomonas aeruginosa.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ceftazidime"
+      ],
+      "related_terms": [
+        "céphalosporine",
+        "antibiotique"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles résistantes à d'autres antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Imiprénème",
+      "definition": "Antibiotique de la famille des carbapénèmes, utilisé pour traiter diverses infections bactériennes sévères.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Imipenem"
+      ],
+      "related_terms": [
+        "carbapénème",
+        "antibiotique"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles résistantes à d'autres antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tetracycline",
+      "definition": "Antibiotique de la famille des tétracyclines, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Tetracycline"
+      ],
+      "related_terms": [
+        "tétracycline",
+        "antibiotique"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles responsables des infections respiratoires et cutanées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ticarcilline",
+      "definition": "Antibiotique de la famille des pénicillines, utilisé pour traiter diverses infections bactériennes, notamment celles dues à Pseudomonas aeruginosa.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ticarcillin"
+      ],
+      "related_terms": [
+        "pénicilline",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à Pseudomonas aeruginosa et autres bactéries sensibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ciprofloxacine",
+      "definition": "Antibiotique de la famille des fluoroquinolones, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ciprofloxacin"
+      ],
+      "related_terms": [
+        "fluoroquinolone",
+        "antibiotique"
+      ],
+      "description": "Efficace contre une large gamme de bactéries, y compris celles responsables des infections respiratoires et urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Erythromycine",
+      "definition": "Antibiotique de la famille des macrolides, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Erythromycin"
+      ],
+      "related_terms": [
+        "macrolide",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à streptocoques et autres bactéries sensibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gentamicine",
+      "definition": "Antibiotique de la famille des aminoglycosides, utilisé pour traiter diverses infections bactériennes sévères, notamment celles dues à des bactéries à Gram négatif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Gentamicin"
+      ],
+      "related_terms": [
+        "aminoglycoside",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections à Pseudomonas aeruginosa et autres bactéries résistantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Haemophilus",
+      "definition": "Genre de bactéries à Gram négatif, responsable de diverses infections, notamment les infections respiratoires et les méningites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Haemophilus influenzae"
+      ],
+      "related_terms": [
+        "infection respiratoire",
+        "méningite"
+      ],
+      "description": "Peut être causé par des bactéries comme Haemophilus influenzae.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Influenzae",
+      "definition": "Genre de bactéries Gram-négatives appartenant à la famille des Pasteurellaceae, souvent impliquées dans les infections respiratoires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Haemophilus influenzae"
+      ],
+      "related_terms": [
+        "Streptocoque",
+        "Pneumocoque"
+      ],
+      "description": "Haemophilus influenzae est une bactérie qui peut causer des infections respiratoires, des méningites et d'autres infections graves, surtout chez les enfants et les personnes immunodéprimées.",
+      "expansion": null,
+      "clinical_significance": "Importante cause de pneumonie, méningite et autres infections graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Escherichia Coli",
+      "definition": "Bactérie Gram-négative appartenant à la famille des Enterobacteriaceae, souvent présente dans le tractus intestinal humain.",
+      "category": "microbiologie",
+      "synonyms": [
+        "E. coli"
+      ],
+      "related_terms": [
+        "Colibacille",
+        "Enterobactérie"
+      ],
+      "description": "Escherichia coli est une bactérie qui peut causer des infections intestinales, urinaires et respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Importante cause d'infections urinaires et de gastro-entérites.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cefixime",
+      "definition": "Antibiotique de la classe des céphalosporines de troisième génération utilisé pour traiter les infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Cefixime"
+      ],
+      "related_terms": [
+        "Céphalosporine",
+        "Antibiotique"
+      ],
+      "description": "Utilisé pour traiter les infections bactériennes, y compris les infections respiratoires et urinaires.",
+      "expansion": null,
+      "clinical_significance": "Efficace contre une large gamme de bactéries Gram-négatives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PA systolique",
+      "definition": "Pression artérielle systolique, mesure de la pression sanguine dans les artères lorsque le cœur se contracte.",
+      "category": "physiologie",
+      "synonyms": [
+        "Pression artérielle systolique"
+      ],
+      "related_terms": [
+        "PA diastolique",
+        "Tension artérielle"
+      ],
+      "description": "La pression artérielle systolique est une mesure importante de la fonction cardiovasculaire et de la santé globale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "90-120 mmHg",
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PA diastolique",
+      "definition": "Pression artérielle diastolique, mesure de la pression sanguine dans les artères lorsque le cœur se relâche.",
+      "category": "physiologie",
+      "synonyms": [
+        "Pression artérielle diastolique"
+      ],
+      "related_terms": [
+        "PA systolique",
+        "Tension artérielle"
+      ],
+      "description": "La pression artérielle diastolique est une mesure importante de la fonction cardiovasculaire et de la santé globale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "60-80 mmHg",
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pouls",
+      "definition": "Rythme des battements cardiaques, mesuré en battements par minute.",
+      "category": "physiologie",
+      "synonyms": [
+        "Fréquence cardiaque"
+      ],
+      "related_terms": [
+        "Rythme cardiaque",
+        "Battements cardiaques"
+      ],
+      "description": "Le pouls est une mesure importante de la fonction cardiovasculaire et de la santé globale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "60-100 battements par minute",
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fréquence respiratoire",
+      "definition": "Nombre de respirations par minute, mesure de la fonction respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "Fréquence respiratoire"
+      ],
+      "related_terms": [
+        "Respiration",
+        "Ventilation"
+      ],
+      "description": "La fréquence respiratoire est une mesure importante de la fonction respiratoire et de la santé globale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "12-16 respirations par minute",
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Température",
+      "definition": "Mesure de la chaleur corporelle, généralement en degrés Celsius.",
+      "category": "physiologie",
+      "synonyms": [
+        "Température corporelle"
+      ],
+      "related_terms": [
+        "Fièvre",
+        "Hypothermie"
+      ],
+      "description": "La température corporelle est une mesure importante de la santé globale et peut indiquer des infections ou d'autres conditions médicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "36.1-37.2°C",
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TVO",
+      "definition": "Trouble ventilatoire obstructif, une condition caractérisée par une obstruction des voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "Trouble ventilatoire obstructif"
+      ],
+      "related_terms": [
+        "BPCO",
+        "Asthme"
+      ],
+      "description": "Le TVO est une condition caractérisée par une obstruction des voies respiratoires, entraînant une difficulté à respirer.",
+      "expansion": null,
+      "clinical_significance": "Condition médicale grave qui peut entraîner une insuffisance respiratoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "source_file": "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pneumologie/Infections Respiratoires Basses/Courses/43 Infections respiratoires basses communautaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md"
+  ],
+  "total_terms": 110
+}

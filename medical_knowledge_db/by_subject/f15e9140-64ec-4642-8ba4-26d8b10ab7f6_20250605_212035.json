@@ -1,0 +1,69 @@
+{
+  "subject_id": "f15e9140-64ec-4642-8ba4-26d8b10ab7f6",
+  "terms": [
+    {
+      "term": "état confusionnel",
+      "definition": "Syndrome clinique non spécifique caractérisé par un dysfonctionnement global aigu des fonctions supérieures, secondaire à une souffrance cérébrale diffuse, habituellement réversible et transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "delirium"
+      ],
+      "related_terms": [
+        "psychose aiguë",
+        "souffrance cérébrale"
+      ],
+      "description": "Associe des troubles de la conscience, un désordre cognitif global, des troubles de la vigilance, des troubles des perceptions, des troubles de l'humeur et du comportement, et des troubles somatiques.",
+      "expansion": null,
+      "clinical_significance": "Urgence diagnostique et thérapeutique",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f15e9140-64ec-4642-8ba4-26d8b10ab7f6",
+      "source_file": "Réanimation/État de Choc Cardiogénique/Courses/29 Les états confusionnels.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "delirium tremens",
+      "definition": "État de confusion aiguë et sévère, souvent accompagné de tremblements, d'hallucinations et d'agitation, survenant généralement lors du sevrage alcoolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "delirium tremens"
+      ],
+      "related_terms": [
+        "sevrage alcoolique",
+        "encéphalopathie de Gayet-Wernicke"
+      ],
+      "description": "Peut être une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles liés à l'alcool.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f15e9140-64ec-4642-8ba4-26d8b10ab7f6",
+      "source_file": "Réanimation/État de Choc Cardiogénique/Courses/29 Les états confusionnels.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amnésie lacunaire",
+      "definition": "Perte de mémoire spécifique à un événement ou une période de temps, souvent observée après la résolution d'un épisode de delirium.",
+      "category": "pathologie",
+      "synonyms": [
+        "amnésie de l'épisode critique"
+      ],
+      "related_terms": [
+        "amnésie",
+        "trouble de la mémoire"
+      ],
+      "description": "L'amnésie lacunaire est fréquente après un épisode de delirium et peut être un signe de résolution de l'état confusionnel.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f15e9140-64ec-4642-8ba4-26d8b10ab7f6",
+      "source_file": "Réanimation/État de Choc Cardiogénique/Courses/29 Les états confusionnels.md",
+      "confidence_score": 0.9
+    }
+  ],
+  "source_files": [
+    "Réanimation/État de Choc Cardiogénique/Courses/29 Les états confusionnels.md"
+  ],
+  "total_terms": 3
+}

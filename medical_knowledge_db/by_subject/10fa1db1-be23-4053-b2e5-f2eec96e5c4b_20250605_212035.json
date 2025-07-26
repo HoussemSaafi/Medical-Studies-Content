@@ -1,0 +1,3803 @@
+{
+  "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+  "terms": [
+    {
+      "term": "congénitales",
+      "definition": "Relatif à une anomalie présente dès la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "congénital"
+      ],
+      "related_terms": [
+        "acquises"
+      ],
+      "description": "Les hypothyroïdies congénitales sont des anomalies présentes dès la naissance, souvent dues à des dysgénésies thyroïdiennes ou des troubles de l'hormonosynthèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acquises",
+      "definition": "Relatif à une anomalie qui se développe après la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "acquis"
+      ],
+      "related_terms": [
+        "congénitales"
+      ],
+      "description": "Les hypothyroïdies acquises se développent après la naissance et peuvent être dues à diverses causes, y compris des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "statiques",
+      "definition": "Mesures hormonales effectuées sans stimulation ou suppression exogène.",
+      "category": "physiologie",
+      "synonyms": [
+        "dosages statiques"
+      ],
+      "related_terms": [
+        "dynamiques"
+      ],
+      "description": "Les dosages statiques mesurent les niveaux hormonaux de base sans intervention externe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dynamiques",
+      "definition": "Mesures hormonales effectuées après stimulation ou suppression exogène.",
+      "category": "physiologie",
+      "synonyms": [
+        "dosages dynamiques"
+      ],
+      "related_terms": [
+        "statiques"
+      ],
+      "description": "Les dosages dynamiques évaluent la réponse hormonale après une intervention externe, comme l'administration de TRH.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périphérique",
+      "definition": "Relatif à une anomalie située en dehors de la glande thyroïde elle-même.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie périphérique"
+      ],
+      "related_terms": [
+        "centrale"
+      ],
+      "description": "L'hypothyroïdie périphérique est due à une anomalie de la glande thyroïde elle-même, comme une dysgénésie ou un trouble de l'hormonosynthèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "centrale",
+      "definition": "Relatif à une anomalie située au niveau de l'hypothalamus ou de l'hypophyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie centrale"
+      ],
+      "related_terms": [
+        "périphérique"
+      ],
+      "description": "L'hypothyroïdie centrale est due à une insuffisance hypothalamo-hypophysaire, affectant la production de TSH.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fruste",
+      "definition": "Forme incomplète ou atténuée d'une maladie, souvent sans symptômes cliniques évidents.",
+      "category": "pathologie",
+      "synonyms": [
+        "infraclinique"
+      ],
+      "related_terms": [
+        "hypothyroïdie fruste"
+      ],
+      "description": "L'hypothyroïdie fruste est une forme légère de la maladie, souvent sans symptômes cliniques évidents mais avec des anomalies biologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocrinopathie",
+      "definition": "Maladie affectant le système endocrinien, qui régule les hormones.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie endocrinienne"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "L'hypothyroïdie est une endocrinopathie fréquente, affectant la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myxœdème",
+      "definition": "Accumulation de mucopolysaccharides dans le tissu sous-cutané, caractéristique de l'hypothyroïdie sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème myxœdémateux"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Le myxœdème est un signe clinique de l'hypothyroïdie sévère, caractérisé par un œdème non inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothalamo-hypophyso-thyroïdien",
+      "definition": "Axe hormonal impliquant l'hypothalamus, l'hypophyse et la glande thyroïde.",
+      "category": "physiologie",
+      "synonyms": [
+        "axe HHT"
+      ],
+      "related_terms": [
+        "TSH",
+        "TRH"
+      ],
+      "description": "L'axe hypothalamo-hypophyso-thyroïdien régule la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysgénésies thyroïdiennes",
+      "definition": "Anomalies du développement de la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "anomalies thyroïdiennes"
+      ],
+      "related_terms": [
+        "athyréose",
+        "ectopie thyroïdienne"
+      ],
+      "description": "Les dysgénésies thyroïdiennes incluent l'athyréose, l'ectopie thyroïdienne, et l'hypoplasie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athyréoses",
+      "definition": "Absence de tissu thyroïdien.",
+      "category": "pathologie",
+      "synonyms": [
+        "athyréose"
+      ],
+      "related_terms": [
+        "dysgénésies thyroïdiennes"
+      ],
+      "description": "L'athyréose est une absence complète de tissu thyroïdien, souvent due à une anomalie du développement embryonnaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ectopies thyroïdiennes",
+      "definition": "Localisation anormale de la glande thyroïde, souvent sublinguale.",
+      "category": "pathologie",
+      "synonyms": [
+        "ectopie thyroïdienne"
+      ],
+      "related_terms": [
+        "dysgénésies thyroïdiennes"
+      ],
+      "description": "Les ectopies thyroïdiennes sont des anomalies de migration de l'ébauche thyroïdienne, souvent localisées sous la langue.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoplasies",
+      "definition": "Développement insuffisant d'un organe ou d'un tissu.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoplasie"
+      ],
+      "related_terms": [
+        "dysgénésies thyroïdiennes"
+      ],
+      "description": "Les hypoplasies thyroïdiennes sont un développement insuffisant de la glande thyroïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémiagénésies thyroïdiennes",
+      "definition": "Absence de développement d'une moitié de la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémiagénésie thyroïdienne"
+      ],
+      "related_terms": [
+        "dysgénésies thyroïdiennes"
+      ],
+      "description": "Les hémiagénésies thyroïdiennes sont des anomalies où une moitié de la glande thyroïde ne se développe pas.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TRH",
+      "definition": "Thyréolibérine, une hormone produite par l'hypothalamus qui stimule la sécrétion de TSH par l'hypophyse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thyréolibérine"
+      ],
+      "related_terms": [
+        "TSH",
+        "hypothalamo-hypophyso-thyroïdien"
+      ],
+      "description": "La TRH stimule la sécrétion de TSH par l'hypophyse, régulant ainsi la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triiodothyronine",
+      "definition": "Hormone thyroïdienne active, souvent désignée par T3.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "T3"
+      ],
+      "related_terms": [
+        "T4",
+        "TSH"
+      ],
+      "description": "La triiodothyronine (T3) est une hormone thyroïdienne active qui régule le métabolisme et la croissance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypopituitarisme",
+      "definition": "Insuffisance de l'hypophyse, entraînant une diminution de la sécrétion des hormones hypophysaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance hypophysaire"
+      ],
+      "related_terms": [
+        "hypothyroïdie centrale"
+      ],
+      "description": "L'hypopituitarisme peut entraîner une insuffisance thyréotrope, affectant la production de TSH.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'interruption de la tige pituitaire",
+      "definition": "Anomalie embryologique où la tige pituitaire est interrompue, affectant la fonction hypophysaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "interruption de la tige pituitaire"
+      ],
+      "related_terms": [
+        "hypopituitarisme"
+      ],
+      "description": "Le syndrome d'interruption de la tige pituitaire est une anomalie embryologique affectant la fonction hypophysaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antithyroïdiens",
+      "definition": "Médicaments utilisés pour traiter l'hyperthyroïdie en réduisant la production d'hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thioamides"
+      ],
+      "related_terms": [
+        "propylthiouracile",
+        "méthimazole"
+      ],
+      "description": "Les antithyroïdiens agissent en inhibant la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'hyperthyroïdie, mais peuvent traverser la barrière placentaire et affecter le fœtus.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antithyroïdiens",
+        "médicaments thyroïdiens"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite auto-immune",
+      "definition": "Inflammation de la thyroïde causée par une réponse immunitaire anormale contre les tissus thyroïdiens.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite auto-immune"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "thyroïdite atrophique"
+      ],
+      "description": "La thyroïdite auto-immune peut entraîner une hypothyroïdie ou une hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des symptômes variés et nécessite souvent un traitement à long terme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite auto-immune",
+        "thyroïde inflammée"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie néonatale",
+      "definition": "État de déficience en hormones thyroïdiennes chez le nouveau-né, souvent dû à une anomalie congénitale ou à une carence en iode.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie congénitale"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "nouveau-né"
+      ],
+      "description": "L'hypothyroïdie néonatale peut entraîner des retards de croissance et de développement si elle n'est pas traitée.",
+      "expansion": null,
+      "clinical_significance": "Le dépistage néonatal est crucial pour une intervention précoce.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothyroïdie néonatale",
+        "dépistage thyroïdien"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iode radioactif",
+      "definition": "Forme radioactive de l'iode utilisée en médecine nucléaire pour le traitement de l'hyperthyroïdie et du cancer de la thyroïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "I-131",
+        "iode 131"
+      ],
+      "related_terms": [
+        "traitement isotopique",
+        "thyroïde"
+      ],
+      "description": "L'iode radioactif est absorbé par la thyroïde et détruit les cellules thyroïdiennes hyperactives.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter l'hyperthyroïdie et le cancer de la thyroïde, mais peut avoir des effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iode radioactif",
+        "I-131"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "axe thyréotrope",
+      "definition": "Système de régulation hormonale impliquant l'hypothalamus, l'hypophyse et la thyroïde.",
+      "category": "physiologie",
+      "synonyms": [
+        "axe hypothalamo-hypophyso-thyroïdien"
+      ],
+      "related_terms": [
+        "hypothalamus",
+        "hypophyse",
+        "thyroïde"
+      ],
+      "description": "L'axe thyréotrope régule la production et la libération des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements de cet axe peuvent entraîner des troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "axe thyréotrope",
+        "régulation thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance thyréotrope",
+      "definition": "État de déficience en hormones thyroïdiennes dû à un dysfonctionnement de l'hypophyse ou de l'hypothalamus.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie centrale"
+      ],
+      "related_terms": [
+        "hypophyse",
+        "hypothalamus"
+      ],
+      "description": "L'insuffisance thyréotrope peut être causée par des tumeurs, des traumatismes ou des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent un traitement hormonal substitutif.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance thyréotrope",
+        "hypothyroïdie centrale"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie acquise",
+      "definition": "Hypothyroïdie qui se développe après la naissance, souvent due à une destruction ou un dysfonctionnement de la thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie acquise"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "thyroïde"
+      ],
+      "description": "L'hypothyroïdie acquise peut être primitive (périphérique) ou centrale.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des symptômes variés et nécessite souvent un traitement à long terme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothyroïdie acquise",
+        "thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie primaire",
+      "definition": "Hypothyroïdie due à un dysfonctionnement direct de la thyroïde, souvent causée par une destruction auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie périphérique"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hypothyroïdie"
+      ],
+      "description": "L'hypothyroïdie primaire est la forme la plus courante d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent un traitement hormonal substitutif.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothyroïdie primaire",
+        "thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite lymphocytaire chronique de Hashimoto",
+      "definition": "Maladie auto-immune caractérisée par une inflammation chronique de la thyroïde, souvent associée à un goitre.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de Hashimoto"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "goitre"
+      ],
+      "description": "La thyroïdite de Hashimoto est caractérisée par une destruction architecturale des follicules thyroïdiens.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une hypothyroïdie et nécessite souvent un traitement à long terme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite de Hashimoto",
+        "thyroïde inflammée"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite atrophique",
+      "definition": "Forme de thyroïdite auto-immune caractérisée par une atrophie de la thyroïde sans goitre.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite atrophique"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hypothyroïdie"
+      ],
+      "description": "La thyroïdite atrophique est souvent associée à une hypothyroïdie sévère.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent un traitement hormonal substitutif.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite atrophique",
+        "thyroïde atrophiée"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "follicules thyroïdiens",
+      "definition": "Structures sphériques dans la thyroïde où les hormones thyroïdiennes sont synthétisées et stockées.",
+      "category": "anatomie",
+      "synonyms": [
+        "vésicules thyroïdiennes"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hormones thyroïdiennes"
+      ],
+      "description": "Les follicules thyroïdiens sont essentiels pour la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des follicules thyroïdiens peuvent entraîner des troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "follicules thyroïdiens",
+        "vésicules thyroïdiennes"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes B",
+      "definition": "Type de globules blancs responsables de la production d'anticorps dans la réponse immunitaire adaptative.",
+      "category": "microbiologie",
+      "synonyms": [
+        "cellules B"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "anticorps"
+      ],
+      "description": "Les lymphocytes B jouent un rôle crucial dans la défense contre les infections.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des lymphocytes B peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphocytes B",
+        "cellules B"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA",
+      "definition": "Antigènes des leucocytes humains, un système de gènes impliqués dans la régulation du système immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "antigènes des leucocytes humains"
+      ],
+      "related_terms": [
+        "système immunitaire",
+        "gènes"
+      ],
+      "description": "Les gènes HLA jouent un rôle crucial dans la compatibilité des greffes et la susceptibilité aux maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des gènes HLA peuvent être associées à diverses maladies auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA",
+        "antigènes des leucocytes humains"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microorganismes",
+      "definition": "Organismes microscopiques, incluant les bactéries, les virus, les champignons et les protozoaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "microbes"
+      ],
+      "related_terms": [
+        "bactéries",
+        "virus"
+      ],
+      "description": "Les microorganismes peuvent être pathogènes ou bénéfiques pour l'hôte.",
+      "expansion": null,
+      "clinical_significance": "Les infections microbiennes peuvent entraîner diverses maladies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "microorganismes",
+        "microbes"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroglobuline",
+      "definition": "Protéine produite par la thyroïde qui sert de précurseur pour la synthèse des hormones thyroïdiennes.",
+      "category": "physiologie",
+      "synonyms": [
+        "Tg"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hormones thyroïdiennes"
+      ],
+      "description": "La thyroglobuline est stockée dans les follicules thyroïdiens et est essentielle pour la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux de thyroglobuline sont utilisés pour surveiller le cancer de la thyroïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroglobuline",
+        "Tg"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyréocytes",
+      "definition": "Cellules épithéliales de la thyroïde responsables de la production des hormones thyroïdiennes.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules thyroïdiennes"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hormones thyroïdiennes"
+      ],
+      "description": "Les thyréocytes sont essentiels pour la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des thyréocytes peuvent entraîner des troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyréocytes",
+        "cellules thyroïdiennes"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CPA",
+      "definition": "Cellules présentatrices d'antigène, qui jouent un rôle clé dans l'initiation de la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "cellules présentatrices d'antigène"
+      ],
+      "related_terms": [
+        "système immunitaire",
+        "antigène"
+      ],
+      "description": "Les CPA présentent les antigènes aux lymphocytes T pour initier une réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des CPA peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CPA",
+        "cellules présentatrices d'antigène"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT CD4+",
+      "definition": "Lymphocytes T portant le marqueur CD4, impliqués dans la régulation de la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "lymphocytes T CD4+"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "CD4"
+      ],
+      "description": "Les LT CD4+ jouent un rôle crucial dans la défense contre les infections et la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des LT CD4+ peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LT CD4+",
+        "lymphocytes T CD4+"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT helper 1",
+      "definition": "Sous-type de lymphocytes T CD4+ qui sécrètent des cytokines pro-inflammatoires et jouent un rôle dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "LTh1",
+        "lymphocytes T helper 1"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "cytokines"
+      ],
+      "description": "Les LT helper 1 sont impliqués dans la défense contre les infections intracellulaires.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des LT helper 1 peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LT helper 1",
+        "LTh1"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interleukine 2",
+      "definition": "Cytokine produite par les lymphocytes T activés, qui stimule la prolifération et la différenciation des lymphocytes T.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IL2"
+      ],
+      "related_terms": [
+        "cytokines",
+        "lymphocytes T"
+      ],
+      "description": "L'interleukine 2 joue un rôle crucial dans la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de l'interleukine 2 peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "interleukine 2",
+        "IL2"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interféron γ",
+      "definition": "Cytokine produite par les lymphocytes T et les cellules NK, qui stimule la réponse immunitaire contre les infections virales et intracellulaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IFN γ"
+      ],
+      "related_terms": [
+        "cytokines",
+        "lymphocytes T"
+      ],
+      "description": "L'interféron γ joue un rôle crucial dans la défense contre les infections.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de l'interféron γ peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "interféron γ",
+        "IFN γ"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microenvironnement cytokinique",
+      "definition": "Environnement local dans les tissus caractérisé par la présence de cytokines spécifiques qui influencent la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "microenvironnement cytokinique"
+      ],
+      "related_terms": [
+        "cytokines",
+        "réponse immunitaire"
+      ],
+      "description": "Le microenvironnement cytokinique joue un rôle crucial dans la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies du microenvironnement cytokinique peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "microenvironnement cytokinique",
+        "cytokines"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT CD8+",
+      "definition": "Lymphocytes T portant le marqueur CD8, impliqués dans la destruction des cellules infectées ou cancéreuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "lymphocytes T CD8+"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "CD8"
+      ],
+      "description": "Les LT CD8+ jouent un rôle crucial dans la défense contre les infections virales et les cancers.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des LT CD8+ peuvent entraîner des maladies auto-immunes ou des immunodéficiences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LT CD8+",
+        "lymphocytes T CD8+"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "peroxydase thyroïdienne",
+      "definition": "Enzyme impliquée dans la synthèse des hormones thyroïdiennes, catalysant l'organification de l'iode.",
+      "category": "physiologie",
+      "synonyms": [
+        "TPO"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hormones thyroïdiennes"
+      ],
+      "description": "La peroxydase thyroïdienne est essentielle pour la production des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de la peroxydase thyroïdienne peuvent entraîner des troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "peroxydase thyroïdienne",
+        "TPO"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fas-ligand",
+      "definition": "Protéine transmembranaire qui, en se liant à son récepteur Fas, induit l'apoptose des cellules cibles.",
+      "category": "microbiologie",
+      "synonyms": [
+        "FasL"
+      ],
+      "related_terms": [
+        "apoptose",
+        "Fas"
+      ],
+      "description": "Le Fas-ligand joue un rôle crucial dans la régulation de l'apoptose.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies du Fas-ligand peuvent entraîner des maladies auto-immunes ou des cancers.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Fas-ligand",
+        "FasL"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "auto-anticorps",
+      "definition": "Anticorps dirigés contre les propres tissus ou antigènes de l'organisme, souvent associés à des maladies auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps auto-immuns"
+      ],
+      "related_terms": [
+        "anticorps",
+        "auto-immunité"
+      ],
+      "description": "Les auto-anticorps peuvent entraîner des dommages tissulaires et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Les auto-anticorps sont souvent utilisés comme marqueurs diagnostiques pour les maladies auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "auto-anticorps",
+        "anticorps auto-immuns"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite subaiguë de De Quervain",
+      "definition": "Inflammation subaiguë de la thyroïde, souvent causée par une infection virale, caractérisée par une douleur et une sensibilité de la glande.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de De Quervain"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "thyroïdite"
+      ],
+      "description": "La thyroïdite de De Quervain est souvent associée à une hyperthyroïdie transitoire suivie d'une hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent un traitement anti-inflammatoire et un suivi de la fonction thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite subaiguë de De Quervain",
+        "thyroïdite de De Quervain"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps antithyroïdiens",
+      "definition": "Anticorps dirigés contre les antigènes de la thyroïde, souvent associés à des maladies auto-immunes de la thyroïde.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-thyroïdiens"
+      ],
+      "related_terms": [
+        "anticorps",
+        "thyroïde"
+      ],
+      "description": "Les anticorps antithyroïdiens peuvent entraîner des dommages à la thyroïde et des troubles thyroïdiens.",
+      "expansion": null,
+      "clinical_significance": "Les anticorps antithyroïdiens sont souvent utilisés comme marqueurs diagnostiques pour les maladies auto-immunes de la thyroïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps antithyroïdiens",
+        "anticorps anti-thyroïdiens"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "R-TSH",
+      "definition": "Récepteur de la thyréostimuline, une protéine transmembranaire présente sur les cellules thyroïdiennes qui se lie à la TSH.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteur de la TSH"
+      ],
+      "related_terms": [
+        "TSH",
+        "thyroïde"
+      ],
+      "description": "Le R-TSH joue un rôle crucial dans la régulation de la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies du R-TSH peuvent entraîner des troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "R-TSH",
+        "récepteur de la TSH"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-Dw35",
+      "definition": "Allèle spécifique du système HLA, associé à certaines maladies auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HLA-Dw35"
+      ],
+      "related_terms": [
+        "HLA",
+        "allèle"
+      ],
+      "description": "L'allèle HLA-Dw35 est associé à une susceptibilité accrue à certaines maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de l'allèle HLA-Dw35 peuvent entraîner des maladies auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-Dw35",
+        "allèle HLA"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite de Riedel",
+      "definition": "Maladie rare caractérisée par une fibrose extensive de la thyroïde, souvent associée à une hypothyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de Riedel"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "fibrose"
+      ],
+      "description": "La thyroïdite de Riedel est caractérisée par une fibrose avasculaire dépassant la capsule thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent un traitement chirurgical et un suivi de la fonction thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite de Riedel",
+        "fibrose thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "I131",
+      "definition": "Forme radioactive de l'iode utilisée en médecine nucléaire pour le traitement de l'hyperthyroïdie et du cancer de la thyroïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "iode 131"
+      ],
+      "related_terms": [
+        "iode radioactif",
+        "traitement isotopique"
+      ],
+      "description": "L'I131 est absorbé par la thyroïde et détruit les cellules thyroïdiennes hyperactives.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter l'hyperthyroïdie et le cancer de la thyroïde, mais peut avoir des effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "I131",
+        "iode 131"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Wolff-Chaikoff",
+      "definition": "Effet de blocage transitoire de l'organification de l'iode dans la thyroïde en réponse à un apport massif d'iode.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie",
+        "NIS"
+      ],
+      "description": "L'effet de Wolff-Chaikoff est un mécanisme de protection de la thyroïde contre un excès aigu d'iode, entraînant une réduction immédiate de la synthèse des hormones thyroïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Important dans la compréhension des hypothyroïdies induites par l'iode.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thyroïde",
+        "iode"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NIS",
+      "definition": "Symporteur sodium/iode, une protéine membranaire qui transporte l'iode dans les cellules thyroïdiennes.",
+      "category": "physiologie",
+      "synonyms": [
+        "symporteur sodium/iode"
+      ],
+      "related_terms": [
+        "Wolff-Chaikoff",
+        "hypothyroïdie"
+      ],
+      "description": "Le NIS joue un rôle crucial dans la captation de l'iode par la thyroïde, nécessaire pour la synthèse des hormones thyroïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la fonction thyroïdienne normale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thyroïde",
+        "iode"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithium",
+      "definition": "Médicament utilisé principalement dans le traitement des troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyréopathie auto-immune"
+      ],
+      "description": "Le lithium peut induire des effets secondaires thyroïdiens, notamment une thyréopathie auto-immune.",
+      "expansion": "",
+      "clinical_significance": "Surveillance thyroïdienne nécessaire chez les patients sous lithium.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithium",
+        "thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antithyroïdiens de synthèse",
+      "definition": "Médicaments utilisés pour réduire la production d'hormones thyroïdiennes dans le traitement de l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Un surdosage ou un traitement inadapté peut entraîner une hypothyroïdie.",
+      "expansion": "",
+      "clinical_significance": "Surveillance nécessaire pour éviter les effets secondaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "antithyroïdiens",
+        "thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tyrosine kinase",
+      "definition": "Enzyme qui phosphoryle les résidus de tyrosine dans les protéines, jouant un rôle crucial dans la signalisation cellulaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "sunitinib",
+        "hypothyroïdie"
+      ],
+      "description": "Les inhibiteurs de la tyrosine kinase, comme le sunitinib, peuvent induire une hypothyroïdie par leur action antiangiogénique.",
+      "expansion": "",
+      "clinical_significance": "Importants dans le traitement de certains cancers.",
+      "normal_values": "",
+      "image_search_terms": [
+        "tyrosine kinase",
+        "sunitinib"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sunitinib",
+      "definition": "Inhibiteur de la tyrosine kinase utilisé dans le traitement du cancer du rein et des tumeurs stromales gastrointestinales (GIST).",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "tyrosine kinase",
+        "hypothyroïdie"
+      ],
+      "description": "Le sunitinib peut induire une hypothyroïdie par son action antiangiogénique ou son activité antithyroperoxydase.",
+      "expansion": "",
+      "clinical_significance": "Surveillance thyroïdienne nécessaire chez les patients sous sunitinib.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sunitinib",
+        "cancer du rein"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycosaminoglycanes",
+      "definition": "Polysaccharides complexes présents dans le tissu conjonctif, impliqués dans l'infiltration tissulaire dans le myxœdème.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "myxœdème",
+        "hypothyroïdie"
+      ],
+      "description": "Les glycosaminoglycanes, comme l'acide hyaluronique et le sulfate B de chondroïtine, sont responsables de l'infiltration tissulaire dans le myxœdème.",
+      "expansion": "",
+      "clinical_significance": "Importants dans la compréhension des manifestations cliniques de l'hypothyroïdie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycosaminoglycanes",
+        "myxœdème"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlipidémie athérogène",
+      "definition": "Élévation des lipides sanguins, notamment des LDL, augmentant le risque de maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéine lipase",
+        "hypothyroïdie"
+      ],
+      "description": "L'hyperlipidémie athérogène est une conséquence de l'hypothyroïdie due à une diminution de l'activité de la lipoprotéine lipase.",
+      "expansion": "",
+      "clinical_significance": "Importante dans l'évaluation du risque cardiovasculaire chez les patients hypothyroïdiens.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hyperlipidémie",
+        "athérogène"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADH",
+      "definition": "Hormone antidiurétique, sécrétée par l'hypophyse postérieure, qui régule la réabsorption de l'eau par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasopressine"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "hypothyroïdie"
+      ],
+      "description": "Une sécrétion inappropriée d'ADH peut entraîner une hyponatrémie de dilution dans l'hypothyroïdie.",
+      "expansion": "",
+      "clinical_significance": "Importante dans la gestion des troubles hydroélectrolytiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ADH",
+        "hypophyse"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prolactine",
+      "definition": "Hormone sécrétée par l'hypophyse antérieure, impliquée dans la lactation et la reproduction.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "TRH",
+        "hypothyroïdie"
+      ],
+      "description": "Une augmentation de la sécrétion de prolactine peut entraîner des troubles de la fonction sexuelle dans l'hypothyroïdie.",
+      "expansion": "",
+      "clinical_significance": "Importante dans le diagnostic des troubles endocriniens.",
+      "normal_values": "",
+      "image_search_terms": [
+        "prolactine",
+        "hypophyse"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GnIH",
+      "definition": "Hormone hypothalamique inhibitrice de la gonadotrophine, impliquée dans la régulation de la fonction gonadotrope.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie",
+        "retard pubertaire"
+      ],
+      "description": "Une expression accrue de GnIH peut être impliquée dans le retard pubertaire observé dans l'hypothyroïdie.",
+      "expansion": "",
+      "clinical_significance": "Importante dans la compréhension des troubles de la puberté.",
+      "normal_values": "",
+      "image_search_terms": [
+        "GnIH",
+        "hypothalamus"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hormones thyroïdiennes",
+      "definition": "Hormones produites par la glande thyroïde, principalement la thyroxine (T4) et la triiodothyronine (T3), qui régulent le métabolisme, la croissance et le développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "hormones thyroïdiennes",
+        "T4",
+        "T3"
+      ],
+      "related_terms": [
+        "thyroxine",
+        "triiodothyronine"
+      ],
+      "description": "Les hormones thyroïdiennes sont essentielles pour la régulation du métabolisme basal, la croissance et le développement neurologique.",
+      "expansion": null,
+      "clinical_significance": "Une carence en hormones thyroïdiennes peut entraîner une hypothyroïdie, tandis qu'un excès peut causer une hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hormone de croissance (GH)",
+      "definition": "Hormone peptidique sécrétée par l'hypophyse antérieure qui stimule la croissance, la reproduction cellulaire et la régénération.",
+      "category": "pathologie",
+      "synonyms": [
+        "GH",
+        "somatotropine"
+      ],
+      "related_terms": [
+        "hypophyse",
+        "IGF-1"
+      ],
+      "description": "La GH joue un rôle crucial dans la croissance osseuse et la régulation du métabolisme.",
+      "expansion": null,
+      "clinical_significance": "Une déficience en GH peut entraîner un retard de croissance, tandis qu'un excès peut causer un gigantisme ou une acromégalie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IGF-1",
+      "definition": "Facteur de croissance insulinomimétique de type 1, une hormone peptidique qui médie les effets de l'hormone de croissance (GH).",
+      "category": "pathologie",
+      "synonyms": [
+        "IGF-1",
+        "facteur de croissance insulinomimétique de type 1"
+      ],
+      "related_terms": [
+        "GH",
+        "hormone de croissance"
+      ],
+      "description": "L'IGF-1 est essentiel pour la croissance et le développement des tissus, notamment osseux et musculaires.",
+      "expansion": null,
+      "clinical_significance": "Des niveaux anormaux d'IGF-1 peuvent être associés à des troubles de la croissance et à des maladies métaboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie congénitale",
+      "definition": "Condition présente à la naissance caractérisée par une insuffisance de production d'hormones thyroïdiennes, entraînant des retards de croissance et de développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie congénitale",
+        "crétinisme"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "thyroïde"
+      ],
+      "description": "L'hypothyroïdie congénitale peut être due à une dysgénésie thyroïdienne ou à un défaut de synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Un dépistage précoce et un traitement rapide sont essentiels pour prévenir les retards de développement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydramnios",
+      "definition": "Excès de liquide amniotique dans la cavité amniotique pendant la grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "hydramnios",
+        "polyhydramnios"
+      ],
+      "related_terms": [
+        "liquide amniotique",
+        "grossesse"
+      ],
+      "description": "L'hydramnios peut être associé à des anomalies fœtales ou à des complications maternelles.",
+      "expansion": null,
+      "clinical_significance": "Il peut nécessiter une surveillance accrue et parfois une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradycardie fœtale",
+      "definition": "Rythme cardiaque fœtal anormalement lent, généralement inférieur à 110 battements par minute.",
+      "category": "pathologie",
+      "synonyms": [
+        "bradycardie fœtale"
+      ],
+      "related_terms": [
+        "rythme cardiaque fœtal",
+        "tachycardie fœtale"
+      ],
+      "description": "La bradycardie fœtale peut indiquer une souffrance fœtale ou une anomalie cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Elle nécessite une évaluation médicale immédiate pour déterminer la cause sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ictère néonatal prolongé",
+      "definition": "Jaunisse persistante chez le nouveau-né, souvent due à une élévation prolongée de la bilirubine.",
+      "category": "pathologie",
+      "synonyms": [
+        "ictère néonatal prolongé",
+        "jaunisse néonatale prolongée"
+      ],
+      "related_terms": [
+        "ictère",
+        "bilirubine"
+      ],
+      "description": "Un ictère néonatal prolongé peut être causé par des troubles hépatiques, des infections ou des anomalies métaboliques.",
+      "expansion": null,
+      "clinical_significance": "Il nécessite une investigation pour déterminer la cause et le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macroglossie",
+      "definition": "Hypertrophie de la langue, souvent associée à des troubles endocriniens ou génétiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "macroglossie",
+        "hypertrophie de la langue"
+      ],
+      "related_terms": [
+        "langue",
+        "hypothyroïdie"
+      ],
+      "description": "La macroglossie peut entraîner des difficultés respiratoires, alimentaires et de parole.",
+      "expansion": null,
+      "clinical_significance": "Elle peut nécessiter une intervention chirurgicale ou un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athyréose",
+      "definition": "Absence congénitale de la glande thyroïde, entraînant une hypothyroïdie sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "athyréose",
+        "absence de thyroïde"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "thyroïde"
+      ],
+      "description": "L'athyréose est une cause majeure d'hypothyroïdie congénitale et nécessite un traitement hormonal substitutif.",
+      "expansion": null,
+      "clinical_significance": "Un dépistage néonatal est crucial pour un diagnostic précoce et un traitement rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysmorphie faciale",
+      "definition": "Anomalies de la forme et des structures du visage, souvent associées à des syndromes génétiques ou des troubles du développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysmorphie faciale",
+        "anomalies faciales"
+      ],
+      "related_terms": [
+        "syndromes génétiques",
+        "développement"
+      ],
+      "description": "La dysmorphie faciale peut inclure des traits grossiers, des paupières bouffies et un nez ensellé.",
+      "expansion": null,
+      "clinical_significance": "Elle peut indiquer des troubles sous-jacents nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brachyskélie",
+      "definition": "Raccourcissement des membres, souvent observé dans les troubles du développement osseux.",
+      "category": "pathologie",
+      "synonyms": [
+        "brachyskélie",
+        "membres courts"
+      ],
+      "related_terms": [
+        "développement osseux",
+        "hypothyroïdie"
+      ],
+      "description": "La brachyskélie peut être associée à des anomalies génétiques ou à des troubles endocriniens.",
+      "expansion": null,
+      "clinical_significance": "Elle nécessite une évaluation pour déterminer la cause sous-jacente et le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crétinisme hypothyroïdien",
+      "definition": "Forme sévère d'hypothyroïdie congénitale caractérisée par un retard mental et physique important.",
+      "category": "pathologie",
+      "synonyms": [
+        "crétinisme hypothyroïdien",
+        "crétinisme"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "retard mental"
+      ],
+      "description": "Le crétinisme hypothyroïdien est historiquement associé à une carence en iode et à une absence de traitement.",
+      "expansion": null,
+      "clinical_significance": "Un dépistage néonatal a permis de réduire considérablement sa prévalence.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ectopie thyroïdienne",
+      "definition": "Position anormale de la glande thyroïde, souvent située sous la langue ou le long du trajet de migration thyroïdienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "ectopie thyroïdienne",
+        "thyroïde ectopique"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "hypothyroïdie"
+      ],
+      "description": "L'ectopie thyroïdienne peut entraîner une insuffisance thyroïdienne et nécessite un traitement hormonal substitutif.",
+      "expansion": null,
+      "clinical_significance": "Elle peut être diagnostiquée par imagerie et nécessite une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "frilosité",
+      "definition": "Sensibilité accrue au froid, souvent observée dans les troubles thyroïdiens et métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "frilosité",
+        "sensibilité au froid"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "métabolisme"
+      ],
+      "description": "La frilosité est un symptôme courant de l'hypothyroïdie et peut être associée à une diminution de la production de chaleur corporelle.",
+      "expansion": null,
+      "clinical_significance": "Elle peut indiquer une insuffisance thyroïdienne nécessitant une évaluation et un traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "teint caroténoïde",
+      "definition": "Coloration jaune-orangé de la peau due à une accumulation de caroténoïdes, souvent observée dans l'hypothyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "teint caroténoïde",
+        "coloration caroténoïde"
+      ],
+      "related_terms": [
+        "caroténoïdes",
+        "hypothyroïdie"
+      ],
+      "description": "Le teint caroténoïde est un signe clinique de l'hypothyroïdie et est souvent observé sur les paumes des mains et les plantes des pieds.",
+      "expansion": null,
+      "clinical_significance": "Il peut indiquer une insuffisance thyroïdienne nécessitant une évaluation et un traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome du canal carpien",
+      "definition": "Compression du nerf médian au niveau du poignet, causant des douleurs, des engourdissements et une faiblesse dans la main.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCC"
+      ],
+      "related_terms": [
+        "neuropathie périphérique"
+      ],
+      "description": "Le syndrome du canal carpien est souvent causé par des mouvements répétitifs de la main et du poignet.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter des interventions chirurgicales si les symptômes sont sévères.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome du canal carpien"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrose",
+      "definition": "Dégénérescence du cartilage articulaire, entraînant des douleurs et une raideur des articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "ostéoarthrite"
+      ],
+      "related_terms": [
+        "arthrite"
+      ],
+      "description": "L'arthrose est souvent liée à l'âge, à l'usure des articulations et à des facteurs génétiques.",
+      "expansion": null,
+      "clinical_significance": "Peut limiter la mobilité et la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrose"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "galactorrhée",
+      "definition": "Écoulement de lait des glandes mammaires en dehors de l'allaitement.",
+      "category": "pathologie",
+      "synonyms": [
+        "écoulement lacté"
+      ],
+      "related_terms": [
+        "hyperprolactinémie"
+      ],
+      "description": "La galactorrhée peut être causée par des taux élevés de prolactine, des médicaments ou des troubles hypophysaires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hyperprolactinémie ou une tumeur hypophysaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "galactorrhée"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperprolactinémie",
+      "definition": "Taux élevé de prolactine dans le sang, souvent causé par des tumeurs hypophysaires, des médicaments ou des troubles hypothalamiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "prolactine élevée"
+      ],
+      "related_terms": [
+        "galactorrhée"
+      ],
+      "description": "L'hyperprolactinémie peut entraîner des symptômes tels que galactorrhée, aménorrhée et infertilité.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une tumeur hypophysaire ou un trouble hypothalamique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperprolactinémie"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomégalie",
+      "definition": "Augmentation de la taille du cœur, souvent due à une hypertrophie ou une dilatation des cavités cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "cœur agrandi"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque"
+      ],
+      "description": "La cardiomégalie peut être causée par une hypertension, une maladie valvulaire ou une cardiomyopathie.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une insuffisance cardiaque ou une maladie cardiaque sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiomégalie"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T3 libre",
+      "definition": "Forme active de l'hormone thyroïdienne T3, qui est essentielle pour le métabolisme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "triiodothyronine libre"
+      ],
+      "related_terms": [
+        "TSH",
+        "FT4"
+      ],
+      "description": "Les niveaux de T3 libre sont souvent mesurés pour diagnostiquer des troubles thyroïdiens.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour les troubles thyroïdiens.",
+      "normal_values": null,
+      "image_search_terms": [
+        "T3 libre"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-TPO",
+      "definition": "Anticorps dirigés contre la thyroperoxydase, une enzyme impliquée dans la production des hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anticorps anti-thyroperoxydase"
+      ],
+      "related_terms": [
+        "anti-Tg"
+      ],
+      "description": "Les niveaux d'anti-TPO sont souvent mesurés pour diagnostiquer des maladies auto-immunes thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour les maladies auto-immunes thyroïdiennes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-TPO"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-Tg",
+      "definition": "Anticorps dirigés contre la thyroglobuline, une protéine produite par la thyroïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anticorps anti-thyroglobuline"
+      ],
+      "related_terms": [
+        "anti-TPO"
+      ],
+      "description": "Les niveaux d'anti-Tg sont souvent mesurés pour diagnostiquer des maladies auto-immunes thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour les maladies auto-immunes thyroïdiennes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-Tg"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdies",
+      "definition": "État pathologique caractérisé par une insuffisance de production des hormones thyroïdiennes, entraînant un ralentissement du métabolisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie"
+      ],
+      "related_terms": [
+        "thyroïdite auto-immune de Hashimoto",
+        "TSH",
+        "T4 libre"
+      ],
+      "description": "L'hypothyroïdie peut être primaire (due à une dysfonction de la glande thyroïde) ou secondaire (due à une insuffisance hypophysaire).",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner fatigue, prise de poids, dépression, et autres symptômes systémiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypothyroïdie",
+        "glande thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie cervicale",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les structures du cou, y compris la glande thyroïde.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie thyroïdienne"
+      ],
+      "related_terms": [
+        "thyroïdite auto-immune de Hashimoto",
+        "scintigraphie"
+      ],
+      "description": "Permet d'évaluer la taille, la forme et la structure de la glande thyroïde.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour diagnostiquer les anomalies thyroïdiennes et guider les biopsies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "échographie cervicale",
+        "thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite auto-immune de Hashimoto",
+      "definition": "Maladie auto-immune où le système immunitaire attaque la glande thyroïde, entraînant une hypothyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de Hashimoto"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "anticorps anti-TPO"
+      ],
+      "description": "Caractérisée par une thyroïde hypoéchogène, globuleuse avec des travées hyperéchogènes et des contours bosselés.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une destruction progressive de la glande thyroïde.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "thyroïdite de Hashimoto",
+        "glande thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scintigraphie",
+      "definition": "Technique d'imagerie nucléaire utilisant des radiotraceurs pour visualiser la fonction de la glande thyroïde.",
+      "category": "imagerie",
+      "synonyms": [
+        "scintigraphie thyroïdienne"
+      ],
+      "related_terms": [
+        "131I",
+        "123I",
+        "99mTc"
+      ],
+      "description": "Permet de déterminer la présence, le siège et le volume du tissu thyroïdien fonctionnel.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour le diagnostic étiologique des hypothyroïdies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "scintigraphie thyroïdienne",
+        "glande thyroïde"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "131I",
+      "definition": "Isotope radioactif de l'iode utilisé en médecine nucléaire pour la scintigraphie thyroïdienne.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "iode 131"
+      ],
+      "related_terms": [
+        "scintigraphie",
+        "123I",
+        "99mTc"
+      ],
+      "description": "Utilisé pour obtenir des informations fonctionnelles précises sur la glande thyroïde.",
+      "expansion": null,
+      "clinical_significance": "Permet de diagnostiquer les anomalies thyroïdiennes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "iode 131",
+        "scintigraphie thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "123I",
+      "definition": "Isotope radioactif de l'iode utilisé en médecine nucléaire pour la scintigraphie thyroïdienne.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "iode 123"
+      ],
+      "related_terms": [
+        "scintigraphie",
+        "131I",
+        "99mTc"
+      ],
+      "description": "Utilisé pour obtenir des informations fonctionnelles précises sur la glande thyroïde.",
+      "expansion": null,
+      "clinical_significance": "Permet de diagnostiquer les anomalies thyroïdiennes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "iode 123",
+        "scintigraphie thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "99mTc",
+      "definition": "Isotope radioactif du technétium utilisé en médecine nucléaire pour la scintigraphie thyroïdienne.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "technétium 99m"
+      ],
+      "related_terms": [
+        "scintigraphie",
+        "131I",
+        "123I"
+      ],
+      "description": "Utilisé pour obtenir des informations fonctionnelles sur la glande thyroïde.",
+      "expansion": null,
+      "clinical_significance": "Permet de diagnostiquer les anomalies thyroïdiennes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "technétium 99m",
+        "scintigraphie thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T4 libre",
+      "definition": "Forme libre de la thyroxine, une hormone thyroïdienne, qui n'est pas liée aux protéines plasmatiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "thyroxine libre"
+      ],
+      "related_terms": [
+        "TSH",
+        "T3"
+      ],
+      "description": "Un taux normal de T4 libre avec une TSH élevée peut indiquer une hypothyroïdie fruste.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer la fonction thyroïdienne.",
+      "normal_values": "10 - 25 pmol/L",
+      "image_search_terms": [
+        "T4 libre",
+        "thyroxine"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-TPO",
+      "definition": "Anticorps dirigés contre la thyroperoxydase, une enzyme impliquée dans la production des hormones thyroïdiennes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-thyroperoxydase"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "TSH"
+      ],
+      "description": "Utilisés pour préciser l'étiologie de l'hypothyroïdie fruste.",
+      "expansion": null,
+      "clinical_significance": "Présence d'anticorps anti-TPO peut indiquer une maladie auto-immune thyroïdienne.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anticorps anti-TPO",
+        "thyroperoxydase"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FIV",
+      "definition": "Fécondation in vitro, technique de procréation assistée où la fécondation de l'ovule par le spermatozoïde se fait en laboratoire.",
+      "category": "acronyme",
+      "synonyms": [
+        "fécondation in vitro"
+      ],
+      "related_terms": [
+        "grossesse multiple",
+        "prématuré"
+      ],
+      "description": "Peut être associée à des complications thyroïdiennes chez les nouveau-nés.",
+      "expansion": null,
+      "clinical_significance": "Les nouveau-nés issus de FIV peuvent présenter une hypothyroïdie fruste.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "FIV",
+        "fécondation in vitro"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DUOX2",
+      "definition": "Gène codant pour un cofacteur de la thyroperoxydase, impliqué dans la production des hormones thyroïdiennes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "DUOX2"
+      ],
+      "related_terms": [
+        "thyroperoxydase",
+        "hypothyroïdie fruste"
+      ],
+      "description": "Les mutations monoalléliques de DUOX2 peuvent entraîner des hypothyroïdies frustes.",
+      "expansion": null,
+      "clinical_significance": "Les mutations de DUOX2 sont associées à des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "DUOX2",
+        "thyroperoxydase"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Down",
+      "definition": "Trisomie 21, anomalie chromosomique caractérisée par la présence d'un chromosome 21 supplémentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "trisomie 21"
+      ],
+      "related_terms": [
+        "syndrome de Klinefelter",
+        "syndrome de Turner"
+      ],
+      "description": "Associé à des dysthyroidies auto-immunes frustes ou franches.",
+      "expansion": null,
+      "clinical_significance": "Les patients atteints du syndrome de Down peuvent présenter des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de Down",
+        "trisomie 21"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Klinefelter",
+      "definition": "Anomalie chromosomique caractérisée par la présence d'un ou plusieurs chromosomes X supplémentaires chez les hommes.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Klinefelter"
+      ],
+      "related_terms": [
+        "syndrome de Down",
+        "syndrome de Turner"
+      ],
+      "description": "Associé à des dysthyroidies auto-immunes frustes ou franches.",
+      "expansion": null,
+      "clinical_significance": "Les patients atteints du syndrome de Klinefelter peuvent présenter des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de Klinefelter"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Turner",
+      "definition": "Anomalie chromosomique caractérisée par l'absence totale ou partielle d'un chromosome X chez les femmes.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Turner"
+      ],
+      "related_terms": [
+        "syndrome de Down",
+        "syndrome de Klinefelter"
+      ],
+      "description": "Associé à des dysthyroidies auto-immunes frustes ou franches.",
+      "expansion": null,
+      "clinical_significance": "Les patients atteints du syndrome de Turner peuvent présenter des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de Turner"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Prader-Willi",
+      "definition": "Syndrome génétique caractérisé par une obésité, une hypotonie musculaire, et des troubles du développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Prader-Willi"
+      ],
+      "related_terms": [
+        "syndrome de Williams"
+      ],
+      "description": "Associé à des dysthyroidies non auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Les patients atteints du syndrome de Prader-Willi peuvent présenter des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de Prader-Willi"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Williams",
+      "definition": "Syndrome génétique caractérisé par des anomalies cardiovasculaires, des traits faciaux distinctifs, et des troubles du développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Williams"
+      ],
+      "related_terms": [
+        "syndrome de Prader-Willi"
+      ],
+      "description": "Associé à des dysthyroidies non auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Les patients atteints du syndrome de Williams peuvent présenter des troubles thyroïdiens.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de Williams"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interféron alpha",
+      "definition": "Protéine utilisée comme médicament pour traiter certaines maladies virales et cancers.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "interféron-α"
+      ],
+      "related_terms": [
+        "interféron bêta",
+        "interféron gamma"
+      ],
+      "description": "Utilisé pour ses propriétés antivirales et immunomodulatrices.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valproate",
+      "definition": "Médicament anti-épileptique utilisé pour traiter les crises d'épilepsie et certains troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "acide valproïque"
+      ],
+      "related_terms": [
+        "carbamazépine",
+        "phénytoine"
+      ],
+      "description": "Peut affecter la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dioxines",
+      "definition": "Groupe de composés chimiques toxiques persistants dans l'environnement.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "perchlorates",
+        "bisphénol A",
+        "phtalates"
+      ],
+      "description": "Perturbateurs endocriniens pouvant affecter la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perchlorates",
+      "definition": "Composés chimiques utilisés dans les explosifs et les feux d'artifice.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "dioxines",
+        "bisphénol A",
+        "phtalates"
+      ],
+      "description": "Perturbateurs endocriniens pouvant affecter la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bisphénol A",
+      "definition": "Composé chimique utilisé dans la fabrication de plastiques et de résines époxy.",
+      "category": "microbiologie",
+      "synonyms": [
+        "BPA"
+      ],
+      "related_terms": [
+        "dioxines",
+        "perchlorates",
+        "phtalates"
+      ],
+      "description": "Perturbateur endocrinien pouvant affecter la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phtalates",
+      "definition": "Groupe de composés chimiques utilisés comme plastifiants dans les plastiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "dioxines",
+        "perchlorates",
+        "bisphénol A"
+      ],
+      "description": "Perturbateurs endocriniens pouvant affecter la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite de Hashimoto",
+      "definition": "Maladie auto-immune où le système immunitaire attaque la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite chronique lymphocytaire"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "anticorps anti-TPO"
+      ],
+      "description": "Peut entraîner une hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome œdémateux",
+      "definition": "Ensemble de symptômes caractérisés par une accumulation anormale de liquide dans les tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome dépressif",
+      "definition": "Ensemble de symptômes caractérisés par une humeur dépressive persistante.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome aménorrhée-galactorrhée",
+      "definition": "Combinaison de l'absence de menstruations et de la sécrétion de lait par les seins en dehors de la grossesse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'apnées du sommeil",
+      "definition": "Trouble du sommeil caractérisé par des pauses respiratoires pendant le sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "apnée obstructive du sommeil"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc auriculo-ventriculaire",
+      "definition": "Trouble de la conduction électrique entre les oreillettes et les ventricules du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "bloc AV"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anémie résistante",
+      "definition": "Anémie qui ne répond pas au traitement standard.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "libido",
+      "definition": "Désir sexuel ou intérêt pour l'activité sexuelle.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "dysfonction érectile",
+        "infertilité"
+      ],
+      "description": "Peut être affectée par l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction érectile",
+      "definition": "Incapacité persistante à obtenir ou maintenir une érection suffisante pour une activité sexuelle satisfaisante.",
+      "category": "pathologie",
+      "synonyms": [
+        "impuissance"
+      ],
+      "related_terms": [
+        "libido",
+        "infertilité"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infertilité",
+      "definition": "Incapacité à concevoir après un an de rapports sexuels non protégés.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "libido",
+        "dysfonction érectile"
+      ],
+      "description": "Peut être un signe d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-TPO",
+      "definition": "Anticorps dirigés contre la thyroperoxydase, une enzyme de la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anti-thyroperoxydase"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "thyroïdite auto-immune"
+      ],
+      "description": "Marqueur de maladies auto-immunes de la thyroïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-Tg",
+      "definition": "Anticorps dirigés contre la thyroglobuline, une protéine de la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anti-thyroglobuline"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "thyroïdite auto-immune"
+      ],
+      "description": "Marqueur de maladies auto-immunes de la thyroïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "L-thyroxine",
+      "definition": "Forme synthétique de l'hormone thyroïdienne T4 utilisée pour traiter l'hypothyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lévothyroxine"
+      ],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Traitement standard pour l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysthyroïdie",
+      "definition": "Trouble de la fonction thyroïdienne, incluant l'hypothyroïdie et l'hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie",
+        "hyperthyroïdie"
+      ],
+      "description": "Peut causer divers symptômes et complications.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyréoglosse",
+      "definition": "Canal embryonnaire par lequel la glande thyroïde descend de la base de la langue à sa position définitive dans le cou.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ectopie",
+        "hypothyroïdie"
+      ],
+      "description": "Site possible d'ectopie thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie thyroïdienne",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser la glande thyroïde.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "scintigraphie",
+        "hypothyroïdie"
+      ],
+      "description": "Utilisée pour le diagnostic de l'hypothyroïdie congénitale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autosomique récessive",
+      "definition": "Mode de transmission génétique où deux copies du gène muté sont nécessaires pour que la maladie se manifeste.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie",
+        "troubles de l'hormonogenèse"
+      ],
+      "description": "Mode de transmission de certains troubles de l'hormonogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroperoxydase",
+      "definition": "Enzyme principale responsable du couplage et de l'organification de l'iode dans la glande thyroïde.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "dual oxydase",
+        "pendrine"
+      ],
+      "description": "Mutations peuvent causer des troubles de l'hormonogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dual oxydase",
+      "definition": "Cofacteur de la thyroperoxydase, enzyme principale responsable du couplage et de l'organification de l'iode dans la glande thyroïde.",
+      "category": "physiologie",
+      "synonyms": [
+        "DUOX",
+        "THOX"
+      ],
+      "related_terms": [
+        "thyroperoxydase",
+        "pendrine"
+      ],
+      "description": "Mutations peuvent causer des troubles de l'hormonogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pendrine",
+      "definition": "Transporteur d'iode situé à la membrane apicale de la cellule folliculaire de la glande thyroïde.",
+      "category": "physiologie",
+      "synonyms": [
+        "PDS",
+        "SLC26A4"
+      ],
+      "related_terms": [
+        "thyroperoxydase",
+        "dual oxydase"
+      ],
+      "description": "Mutations peuvent causer le syndrome de Pendred.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Pendred",
+      "definition": "Syndrome génétique caractérisé par un goitre avec ou sans hypothyroïdie, une surdité de transmission, et des anomalies osseuses de l'oreille interne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pendrine",
+        "goitre"
+      ],
+      "description": "Causé par des mutations du gène codant pour la pendrine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "symporteur iode-sodium",
+      "definition": "Protéine membranaire qui transporte simultanément l'iode et le sodium à travers la membrane cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "NIS"
+      ],
+      "related_terms": [
+        "iodure",
+        "thyroïde"
+      ],
+      "description": "Le symporteur iode-sodium est essentiel pour la captation de l'iode par la glande thyroïdienne, une étape cruciale dans la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autosomique dominante",
+      "definition": "Mode de transmission génétique où une seule copie d'un gène muté est suffisante pour provoquer une maladie.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "génétique",
+        "hérédité"
+      ],
+      "description": "Les maladies autosomiques dominantes se manifestent lorsqu'un seul allèle muté est présent.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypométabolisme",
+      "definition": "État de métabolisme réduit, souvent associé à une diminution de la production d'énergie et de la consommation d'oxygène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "métabolisme",
+        "hypothyroïdie"
+      ],
+      "description": "L'hypométabolisme peut être observé dans diverses conditions médicales, y compris l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyrotoxiques",
+      "definition": "Relatif à l'hyperthyroïdie, un état de surproduction des hormones thyroïdiennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyrotoxicosis"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "hormones thyroïdiennes"
+      ],
+      "description": "Les signes thyrotoxiques incluent la tachycardie, la perte de poids, et l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Basedow",
+      "definition": "Maladie auto-immune caractérisée par une hyperthyroïdie due à la production d'anticorps stimulant le récepteur de la TSH.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Graves"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "anticorps antithyroïdiens"
+      ],
+      "description": "La maladie de Basedow est une cause fréquente d'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps",
+      "definition": "Protéines produites par le système immunitaire en réponse à des antigènes étrangers.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "système immunitaire",
+        "antigènes"
+      ],
+      "description": "Les anticorps jouent un rôle clé dans la défense immunitaire et peuvent être impliqués dans des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite lymphocytaire chronique atrophique",
+      "definition": "Forme de thyroïdite auto-immune caractérisée par une atrophie progressive de la glande thyroïdienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "myxœdème primitif"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "hypothyroïdie"
+      ],
+      "description": "La thyroïdite lymphocytaire chronique atrophique est une cause fréquente d'hypothyroïdie chez les femmes après la ménopause.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite subaigüe silencieuse",
+      "definition": "Forme de thyroïdite auto-immune sans douleur, souvent transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite indolore"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "thyroïdite post-partum"
+      ],
+      "description": "La thyroïdite subaigüe silencieuse touche principalement les femmes entre 30 et 50 ans et peut évoluer vers une hypothyroïdie permanente dans 20% des cas.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polyendocrinopathies auto-immunes (PEAI)",
+      "definition": "Groupes de maladies auto-immunes affectant plusieurs glandes endocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndromes polyglandulaires auto-immuns"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "diabète de type 1",
+        "maladie d'Addison"
+      ],
+      "description": "Les PEAI peuvent être de type 1 ou 2, chacun associé à différentes combinaisons de maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diabète de type 1 (DT1)",
+      "definition": "Maladie auto-immune caractérisée par la destruction des cellules bêta du pancréas, entraînant un déficit en insuline.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète insulino-dépendant"
+      ],
+      "related_terms": [
+        "PEAI",
+        "maladie d'Addison"
+      ],
+      "description": "Le diabète de type 1 nécessite un traitement par insuline pour contrôler la glycémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie d'Addison",
+      "definition": "Insuffisance surrénale primaire, caractérisée par un déficit en cortisol et aldostérone.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance surrénale chronique"
+      ],
+      "related_terms": [
+        "PEAI",
+        "diabète de type 1"
+      ],
+      "description": "La maladie d'Addison peut être associée à d'autres maladies auto-immunes dans le cadre des PEAI.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Schmidt",
+      "definition": "Association de la thyroïdite de Hashimoto et de la maladie d'Addison.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome polyglandulaire auto-immun de type 2"
+      ],
+      "related_terms": [
+        "PEAI",
+        "thyroïdite de Hashimoto",
+        "maladie d'Addison"
+      ],
+      "description": "Le syndrome de Schmidt est une forme de PEAI de type 2.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Gougerot-Sjogren",
+      "definition": "Maladie auto-immune caractérisée par une sécheresse oculaire et buccale due à une atteinte des glandes exocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Sjogren"
+      ],
+      "related_terms": [
+        "test de Shirmer",
+        "facteur rhumatoïde",
+        "Ac anti-SSA et anti-SSB"
+      ],
+      "description": "Le syndrome de Gougerot-Sjogren peut être associé à d'autres maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cirrhose biliaire primitive",
+      "definition": "Maladie auto-immune du foie caractérisée par une destruction progressive des petits canaux biliaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "cirrhose biliaire primaire"
+      ],
+      "related_terms": [
+        "Ac anti-mitochondries"
+      ],
+      "description": "La cirrhose biliaire primitive est diagnostiquée par des tests sérologiques et une biopsie hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite chronique de Riedel",
+      "definition": "Forme rare de thyroïdite caractérisée par une fibrose extensive de la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite fibreuse"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "hypoparathyroïdie"
+      ],
+      "description": "La thyroïdite chronique de Riedel peut être associée à d'autres manifestations de fibrose dans le corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie post-chirurgicale",
+      "definition": "Hypothyroïdie résultant d'une thyroïdectomie totale ou subtotale.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie iatrogène"
+      ],
+      "related_terms": [
+        "thyroïdectomie"
+      ],
+      "description": "L'hypothyroïdie post-chirurgicale est une complication fréquente de la chirurgie thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "I-131",
+      "definition": "Isotope radioactif de l'iode utilisé dans le traitement de l'hyperthyroïdie et du cancer thyroïdien.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "iode radioactif"
+      ],
+      "related_terms": [
+        "IRA-thérapie",
+        "hypothyroïdie"
+      ],
+      "description": "L'I-131 est administré par voie orale et se concentre dans la glande thyroïde, détruisant les cellules thyroïdiennes hyperactives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie post radique",
+      "definition": "Hypothyroïdie résultant d'une radiothérapie externe cervicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothyroïdie iatrogène"
+      ],
+      "related_terms": [
+        "radiothérapie",
+        "maladie de Hodgkin",
+        "lymphome"
+      ],
+      "description": "L'hypothyroïdie post radique est une complication fréquente de la radiothérapie pour les cancers de la tête et du cou.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Hodgkin",
+      "definition": "Type de lymphome caractérisé par la présence de cellules de Reed-Sternberg.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphome hodgkinien"
+      ],
+      "related_terms": [
+        "lymphome",
+        "cancer"
+      ],
+      "description": "La maladie de Hodgkin est traitée par chimiothérapie et radiothérapie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interféron",
+      "definition": "Protéine utilisée dans le traitement de certaines infections virales et cancers, pouvant affecter la fonction thyroïdienne.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "interféron alpha"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "lithium"
+      ],
+      "description": "L'interféron peut induire une hypothyroïdie en modulant le système immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucémies",
+      "definition": "Cancers des cellules sanguines caractérisés par la prolifération de globules blancs anormaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer du sang"
+      ],
+      "related_terms": [
+        "lymphomes",
+        "granulomatoses"
+      ],
+      "description": "Les leucémies peuvent être aiguës ou chroniques et sont traitées par chimiothérapie et greffe de moelle osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomatoses",
+      "definition": "Maladies caractérisées par la formation de granulomes, des amas de cellules inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulomatose"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "sarcoïdose",
+        "histiocytose"
+      ],
+      "description": "Les granulomatoses peuvent affecter divers organes et systèmes du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "histiocytose",
+      "definition": "Maladie caractérisée par la prolifération anormale de cellules histiocytaires, pouvant former des granulomes.",
+      "category": "pathologie",
+      "synonyms": [
+        "histiocytose X"
+      ],
+      "related_terms": [
+        "granulomatoses",
+        "tuberculose",
+        "sarcoïdose"
+      ],
+      "description": "L'histiocytose peut affecter divers organes, y compris la thyroïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdies centrales",
+      "definition": "Hypothyroïdies dues à une insuffisance de la sécrétion de TSH par l'hypophyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance thyréotrope"
+      ],
+      "related_terms": [
+        "insuffisance corticotrope",
+        "FT4",
+        "TSH"
+      ],
+      "description": "Les hypothyroïdies centrales sont caractérisées par une FT4 basse et une TSH normale, basse ou modérément élevée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pan-hypopituitarisme",
+      "definition": "Déficit complet ou partiel de toutes les hormones hypophysaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance hypophysaire totale"
+      ],
+      "related_terms": [
+        "hypothyroïdie centrale congénitale",
+        "TRH",
+        "TSH"
+      ],
+      "description": "Le pan-hypopituitarisme peut être congénital ou acquis et est souvent associé à des mutations génétiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pit-1",
+      "definition": "Facteur de transcription essentiel pour le développement et la fonction des cellules hypophysaires sécrétant la TSH.",
+      "category": "physiologie",
+      "synonyms": [
+        "POU1F1"
+      ],
+      "related_terms": [
+        "Pro-Pit 1",
+        "LHX 3",
+        "HESX-1"
+      ],
+      "description": "Des mutations de Pit-1 peuvent entraîner un déficit en TSH et d'autres hormones hypophysaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pro-Pit 1",
+      "definition": "Protéine précurseur de Pit-1, un facteur de transcription essentiel pour le développement et la fonction des cellules hypophysaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "POU1F1 précurseur"
+      ],
+      "related_terms": [
+        "Pit-1",
+        "LHX 3",
+        "HESX-1"
+      ],
+      "description": "Des mutations de Pro-Pit 1 peuvent entraîner un déficit en TSH et d'autres hormones hypophysaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LHX 3",
+      "definition": "Facteur de transcription essentiel pour le développement et la fonction des cellules hypophysaires sécrétant la TSH.",
+      "category": "physiologie",
+      "synonyms": [
+        "LHX3"
+      ],
+      "related_terms": [
+        "Pit-1",
+        "Pro-Pit 1",
+        "HESX-1"
+      ],
+      "description": "Des mutations de LHX 3 peuvent entraîner un déficit en TSH et d'autres hormones hypophysaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HESX-1",
+      "definition": "Facteur de transcription essentiel pour le développement et la fonction des cellules hypophysaires sécrétant la TSH.",
+      "category": "physiologie",
+      "synonyms": [
+        "HESX1"
+      ],
+      "related_terms": [
+        "Pit-1",
+        "Pro-Pit 1",
+        "LHX 3"
+      ],
+      "description": "Des mutations de HESX-1 peuvent entraîner un déficit en TSH et d'autres hormones hypophysaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macroadénome hypophysaire",
+      "definition": "Tumeur bénigne de l'hypophyse de grande taille, souvent associée à des déficits hormonaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénome hypophysaire de grande taille"
+      ],
+      "related_terms": [
+        "craniopharyngiome",
+        "chirurgie",
+        "radiothérapie"
+      ],
+      "description": "Les macroadénomes hypophysaires peuvent entraîner une insuffisance thyréotrope et d'autres déficits hormonaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "craniopharyngiome",
+      "definition": "Tumeur bénigne de la région hypothalamo-hypophysaire, souvent associée à des déficits hormonaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur de la région hypothalamo-hypophysaire"
+      ],
+      "related_terms": [
+        "macroadénome hypophysaire",
+        "chirurgie",
+        "radiothérapie"
+      ],
+      "description": "Les craniopharyngiomes peuvent entraîner une insuffisance thyréotrope et d'autres déficits hormonaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Sheehan",
+      "definition": "Insuffisance hypophysaire due à une nécrose ischémique de l'hypophyse, souvent associée à un accouchement hémorragique.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose hypophysaire post-partum"
+      ],
+      "related_terms": [
+        "insuffisance thyréotrope",
+        "chirurgie",
+        "radiothérapie"
+      ],
+      "description": "Le syndrome de Sheehan peut entraîner une insuffisance thyréotrope et d'autres déficits hormonaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance corticotrope",
+      "definition": "Déficit en sécrétion d'ACTH par l'hypophyse, entraînant une insuffisance surrénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance surrénale secondaire"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "insuffisance thyréotrope"
+      ],
+      "description": "L'insuffisance corticotrope peut aggraver l'hyponatrémie associée à une insuffisance thyréotrope.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BAV",
+      "definition": "Bloc auriculo-ventriculaire, une anomalie de la conduction électrique entre les oreillettes et les ventricules du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "bloc AV"
+      ],
+      "related_terms": [
+        "bloc de branche"
+      ],
+      "description": "Peut être de différents degrés et peut entraîner des symptômes tels que des palpitations ou une syncope.",
+      "expansion": "Bloc Auriculo-Ventriculaire",
+      "clinical_significance": "Important à surveiller car peut nécessiter un pacemaker.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc de branche",
+      "definition": "Anomalie de la conduction électrique dans l'une des branches du faisceau de His, affectant la synchronisation de la contraction ventriculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "bloc de branche gauche",
+        "bloc de branche droit"
+      ],
+      "related_terms": [
+        "BAV"
+      ],
+      "description": "Peut être asymptomatique ou causer des symptômes tels que des palpitations ou une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardite myxœdémateuse",
+      "definition": "Inflammation du péricarde associée à l'hypothyroïdie, souvent avec épanchement péricardique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tamponnade",
+        "épanchement péricardique"
+      ],
+      "description": "Peut être asymptomatique ou causer des symptômes tels que la douleur thoracique ou la dyspnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomyopathie myxœdémateuse",
+      "definition": "Affection du muscle cardiaque associée à l'hypothyroïdie, caractérisée par une infiltration mucopolysaccharidique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance cardiaque"
+      ],
+      "description": "Peut entraîner une insuffisance cardiaque, surtout en présence d'une cardiopathie sous-jacente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiopathie",
+      "definition": "Terme général désignant toute maladie affectant le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie cardiaque"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "cardiomyopathie"
+      ],
+      "description": "Peut inclure des maladies congénitales, valvulaires, ischémiques ou myocardiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myopathie",
+      "definition": "Maladie musculaire caractérisée par une faiblesse et une dégénérescence des fibres musculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dystrophie musculaire"
+      ],
+      "description": "Peut être congénitale, métabolique ou inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertrophie musculaire",
+      "definition": "Augmentation anormale de la taille des fibres musculaires, souvent due à une surcharge de travail ou à une maladie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "myopathie"
+      ],
+      "description": "Peut être physiologique (chez les athlètes) ou pathologique (dans certaines maladies musculaires).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hallucinations",
+      "definition": "Perceptions sensorielles sans stimulus externe, souvent associées à des troubles psychiatriques ou neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "psychose"
+      ],
+      "description": "Peuvent être auditives, visuelles, olfactives, gustatives ou tactiles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome cérébelleux",
+      "definition": "Ensemble de symptômes résultant d'une atteinte du cervelet, caractérisé par des troubles de la coordination et de l'équilibre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ataxie"
+      ],
+      "description": "Peut inclure des symptômes tels que la dysmétrie, la dysdiadochocinésie et le nystagmus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie de Hashimoto",
+      "definition": "Maladie auto-immune rare associée à l'hypothyroïdie, caractérisée par des manifestations neurologiques variées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïdite de Hashimoto"
+      ],
+      "description": "Peut inclure des troubles cognitifs, des crises d'épilepsie et un syndrome confusionnel.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amnésie antérograde",
+      "definition": "Incapacité à former de nouveaux souvenirs après un événement ou une lésion cérébrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "amnésie rétrograde"
+      ],
+      "description": "Contrairement à l'amnésie rétrograde, les souvenirs formés avant l'événement sont préservés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désorientation temporo-spatiale",
+      "definition": "Incapacité à s'orienter dans le temps et l'espace, souvent associée à des troubles cognitifs ou neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "confusion"
+      ],
+      "description": "Peut être un signe de délire, de démence ou d'autres troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome confusionnel",
+      "definition": "État de confusion mentale caractérisé par une désorientation, une altération de la conscience et des troubles de la mémoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "délire"
+      ],
+      "related_terms": [
+        "désorientation temporo-spatiale"
+      ],
+      "description": "Peut être causé par des infections, des médicaments, des troubles métaboliques ou des lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cortico-sensible",
+      "definition": "Répondant favorablement au traitement par les corticoïdes, indiquant une sensibilité aux effets anti-inflammatoires de ces médicaments.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "corticoïdes"
+      ],
+      "description": "Utilisé pour décrire des conditions qui s'améliorent avec l'administration de corticoïdes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coma myxœdémateux",
+      "definition": "État de coma associé à une hypothyroïdie sévère, souvent précipité par des facteurs de stress tels que le froid ou une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothyroïdie"
+      ],
+      "description": "Caractérisé par une hypothermie, une défaillance cardio-pulmonaire et des signes d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothermie centrale sévère",
+      "definition": "Abaissement significatif de la température corporelle centrale, souvent en dessous de 35°C.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypothermie"
+      ],
+      "description": "Peut être due à une exposition au froid, à des troubles métaboliques ou à des maladies endocriniennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyponatrémie sévère",
+      "definition": "Niveau anormalement bas de sodium dans le sang, souvent en dessous de 125 mmol/L.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyponatrémie"
+      ],
+      "description": "Peut entraîner des symptômes neurologiques graves, y compris des convulsions et un coma.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "135-145 mmol/L",
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nanisme dysharmonieux",
+      "definition": "Retard de croissance disproportionné, souvent caractérisé par une taille anormalement courte par rapport à l'âge.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nanisme"
+      ],
+      "description": "Peut être dû à des anomalies génétiques, endocriniennes ou nutritionnelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT3",
+      "definition": "Liothyronine, la forme synthétique de l'hormone thyroïdienne T3, utilisée pour traiter l'hypothyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "liothyronine"
+      ],
+      "related_terms": [
+        "T3",
+        "LT4"
+      ],
+      "description": "Utilisée principalement dans des situations spécifiques où une action rapide est nécessaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT4",
+      "definition": "Lévothyroxine, la forme synthétique de l'hormone thyroïdienne T4, utilisée pour traiter l'hypothyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lévothyroxine"
+      ],
+      "related_terms": [
+        "T4",
+        "LT3"
+      ],
+      "description": "Convertie en T3, la forme active de l'hormone thyroïdienne, dans les tissus périphériques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thyroïdite du Post Partum Transitoire (TPP)",
+      "definition": "Une inflammation temporaire de la thyroïde qui survient après l'accouchement, souvent associée à des fluctuations des hormones thyroïdiennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Thyroïdite post-partum"
+      ],
+      "related_terms": [
+        "Hypothyroïdie",
+        "Grossesse"
+      ],
+      "description": "La TPP peut entraîner une hypothyroïdie transitoire qui nécessite un traitement temporaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Thyroïdite du Post Partum",
+        "Hypothyroïdie post-partum"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thyroïdite subaigüe de De Quervain",
+      "definition": "Une inflammation subaiguë de la thyroïde, souvent précédée d'une infection virale, caractérisée par une douleur au cou et des symptômes systémiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Thyroïdite de De Quervain"
+      ],
+      "related_terms": [
+        "Hypothyroïdie",
+        "Inflammation thyroïdienne"
+      ],
+      "description": "La thyroïdite de De Quervain est généralement transitoire et peut entraîner une hyperthyroïdie suivie d'une hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Thyroïdite subaigüe de De Quervain",
+        "Inflammation thyroïdienne"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Euthyroïdie",
+      "definition": "État de fonction thyroïdienne normale, où les niveaux d'hormones thyroïdiennes sont dans les limites normales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Euthyroïdie"
+      ],
+      "related_terms": [
+        "Hypothyroïdie",
+        "Hyperthyroïdie"
+      ],
+      "description": "L'euthyroïdie est l'état normal de la fonction thyroïdienne, sans hypothyroïdie ni hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Euthyroïdie",
+        "Fonction thyroïdienne normale"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.99
+    }
+  ],
+  "source_files": [
+    "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md"
+  ],
+  "total_terms": 184
+}

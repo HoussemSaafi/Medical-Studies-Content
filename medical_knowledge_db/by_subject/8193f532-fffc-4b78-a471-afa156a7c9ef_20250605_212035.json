@@ -1,0 +1,1341 @@
+{
+  "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+  "terms": [
+    {
+      "term": "détresses vitales",
+      "definition": "Situations où les fonctions vitales du patient sont gravement compromises, nécessitant une intervention immédiate.",
+      "category": "pathologie",
+      "synonyms": [
+        "détresse vitale"
+      ],
+      "related_terms": [
+        "choc",
+        "arrêt cardiaque"
+      ],
+      "description": "Les détresses vitales incluent des conditions comme l'insuffisance respiratoire aiguë, l'hypotension sévère, et l'arrêt cardiaque.",
+      "expansion": null,
+      "clinical_significance": "La reconnaissance et le traitement rapide des détresses vitales sont cruciaux pour la survie du patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pré-hospitalière",
+      "definition": "Phase de prise en charge du patient avant son arrivée à l'hôpital, incluant les soins d'urgence sur le lieu de l'accident et pendant le transport.",
+      "category": "classification",
+      "synonyms": [
+        "pré-hospitalier"
+      ],
+      "related_terms": [
+        "soins d'urgence",
+        "transport médicalisé"
+      ],
+      "description": "La prise en charge pré-hospitalière est cruciale pour stabiliser le patient et préparer son admission à l'hôpital.",
+      "expansion": null,
+      "clinical_significance": "Une prise en charge pré-hospitalière efficace peut réduire la mortalité et les complications chez les polytraumatisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rééducation fonctionnelle",
+      "definition": "Processus de réhabilitation visant à restaurer les capacités fonctionnelles du patient après un traumatisme ou une maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "rééducation",
+        "réhabilitation"
+      ],
+      "related_terms": [
+        "kinésithérapie",
+        "ergothérapie"
+      ],
+      "description": "La rééducation fonctionnelle inclut des exercices physiques, des thérapies manuelles, et des interventions pour améliorer la mobilité et l'autonomie.",
+      "expansion": null,
+      "clinical_significance": "Une rééducation fonctionnelle bien planifiée est essentielle pour le rétablissement complet du patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatologie",
+      "definition": "Branche de la médecine qui traite des traumatismes et de leurs conséquences sur l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "traumatologie"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "lésion"
+      ],
+      "description": "La traumatologie inclut la prévention, le diagnostic, et le traitement des blessures traumatiques.",
+      "expansion": null,
+      "clinical_significance": "La traumatologie est une spécialité médicale essentielle pour la prise en charge des patients victimes d'accidents ou de violences.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vv brachiocéphaliques",
+      "definition": "Veines qui drainent le sang de la tête, du cou et des membres supérieurs vers la veine cave supérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "veines brachiocéphaliques"
+      ],
+      "related_terms": [
+        "veine cave supérieure",
+        "système veineux"
+      ],
+      "description": "Les veines brachiocéphaliques sont des structures importantes dans le retour veineux vers le cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "veines brachiocéphaliques anatomie",
+        "système veineux thorax"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "v azygos",
+      "definition": "Veine qui draine le sang des parois thoracique et abdominale postérieures vers la veine cave supérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "veine azygos"
+      ],
+      "related_terms": [
+        "veine cave supérieure",
+        "système veineux"
+      ],
+      "description": "La veine azygos joue un rôle crucial dans le drainage veineux de la partie postérieure du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "veine azygos anatomie",
+        "système veineux thorax"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "n récurrent laryngé gauche",
+      "definition": "Nerf qui innerve les muscles du larynx, permettant la phonation et la déglutition.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf récurrent laryngé gauche"
+      ],
+      "related_terms": [
+        "larynx",
+        "nerf vague"
+      ],
+      "description": "Le nerf récurrent laryngé gauche est une branche du nerf vague qui innerve les muscles intrinsèques du larynx.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf récurrent laryngé anatomie",
+        "larynx innervation"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pylore",
+      "definition": "Sphincter musculaire situé à la jonction entre l'estomac et le duodénum, régulant le passage du contenu gastrique dans l'intestin grêle.",
+      "category": "anatomie",
+      "synonyms": [
+        "sphincter pylorique"
+      ],
+      "related_terms": [
+        "estomac",
+        "duodénum"
+      ],
+      "description": "Le pylore contrôle la vidange gastrique et prévient le reflux du contenu duodénal dans l'estomac.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pylore anatomie",
+        "sphincter pylorique"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléum",
+      "definition": "Partie terminale de l'intestin grêle, située entre le jéjunum et le gros intestin, impliquée dans l'absorption des nutriments et des vitamines.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "jéjunum",
+        "gros intestin",
+        "intestin grêle"
+      ],
+      "description": "L'iléum est responsable de l'absorption des vitamines, notamment la vitamine B12, et des acides biliaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iléum anatomie",
+        "intestin grêle"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fundus utérin",
+      "definition": "Partie supérieure de l'utérus, située au-dessus de l'insertion des trompes de Fallope.",
+      "category": "anatomie",
+      "synonyms": [
+        "fond utérin"
+      ],
+      "related_terms": [
+        "utérus",
+        "trompes de Fallope"
+      ],
+      "description": "Le fundus utérin est la partie la plus large et la plus épaisse de l'utérus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fundus utérin anatomie",
+        "utérus"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voies biliaires extra-hépatiques",
+      "definition": "Canaux situés en dehors du foie qui transportent la bile depuis le foie jusqu'au duodénum.",
+      "category": "anatomie",
+      "synonyms": [
+        "voies biliaires externes"
+      ],
+      "related_terms": [
+        "foie",
+        "duodénum",
+        "bile"
+      ],
+      "description": "Les voies biliaires extra-hépatiques incluent le cholédoque et le canal cystique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "voies biliaires extra-hépatiques anatomie",
+        "cholédoque"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fundus de l'estomac",
+      "definition": "Partie supérieure de l'estomac, située au-dessus de l'entrée de l'œsophage.",
+      "category": "anatomie",
+      "synonyms": [
+        "fond gastrique"
+      ],
+      "related_terms": [
+        "estomac",
+        "œsophage"
+      ],
+      "description": "Le fundus de l'estomac est la partie où les gaz peuvent s'accumuler, provoquant des éructations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fundus de l'estomac anatomie",
+        "estomac"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cavité péritonéale",
+      "definition": "Espace situé entre le péritoine pariétal et le péritoine viscéral, contenant les organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "péritoine",
+        "organes abdominaux"
+      ],
+      "description": "La cavité péritonéale contient une petite quantité de liquide péritonéal qui lubrifie les surfaces péritonéales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cavité péritonéale anatomie",
+        "péritoine"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méso-côlon transverse",
+      "definition": "Partie du mésentère qui soutient le côlon transverse et le relie à la paroi postérieure de l'abdomen.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "mésentère",
+        "côlon transverse"
+      ],
+      "description": "Le méso-côlon transverse contient les vaisseaux sanguins et les nerfs qui alimentent le côlon transverse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "méso-côlon transverse anatomie",
+        "mésentère"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "petit omentum",
+      "definition": "Pli du péritoine qui relie le foie à la petite courbure de l'estomac et au duodénum.",
+      "category": "anatomie",
+      "synonyms": [
+        "omentum mineur"
+      ],
+      "related_terms": [
+        "foie",
+        "estomac",
+        "duodénum"
+      ],
+      "description": "Le petit omentum contient les vaisseaux hépatiques et le ligament hépatoduodénal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "petit omentum anatomie",
+        "omentum mineur"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "grand omentum",
+      "definition": "Grand pli du péritoine qui pend de la grande courbure de l'estomac et recouvre les anses intestinales.",
+      "category": "anatomie",
+      "synonyms": [
+        "omentum majeur"
+      ],
+      "related_terms": [
+        "estomac",
+        "anses intestinales"
+      ],
+      "description": "Le grand omentum joue un rôle dans la protection et l'isolation des organes abdominaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "grand omentum anatomie",
+        "omentum majeur"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colonne vertébrale sacrococcygienne",
+      "definition": "Partie inférieure de la colonne vertébrale composée des vertèbres sacrées et coccygiennes.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "colonne vertébrale",
+        "vertèbres sacrées",
+        "vertèbres coccygiennes"
+      ],
+      "description": "La colonne vertébrale sacrococcygienne forme la base de la colonne vertébrale et supporte le poids du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "colonne vertébrale sacrococcygienne anatomie",
+        "vertèbres sacrées"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "os coxaux",
+      "definition": "Os du bassin qui forment la ceinture pelvienne et soutiennent le poids du corps.",
+      "category": "anatomie",
+      "synonyms": [
+        "os iliaques"
+      ],
+      "related_terms": [
+        "bassin",
+        "ceinture pelvienne"
+      ],
+      "description": "Les os coxaux sont composés de l'ilium, de l'ischium et du pubis.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "os coxaux anatomie",
+        "os iliaques"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périnée",
+      "definition": "Région anatomique située entre les organes génitaux externes et l'anus, formant le plancher pelvien.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "organes génitaux",
+        "anus",
+        "plancher pelvien"
+      ],
+      "description": "Le périnée est divisé en périnée antérieur (urinaire) et périnée postérieur (anal).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "périnée anatomie",
+        "plancher pelvien"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loges vésicales",
+      "definition": "Espaces anatomiques contenant la vessie et les structures associées.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vessie",
+        "structures vésicales"
+      ],
+      "description": "Les loges vésicales sont situées dans le petit bassin et contiennent la vessie et les uretères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "loges vésicales anatomie",
+        "vessie"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loges prostatiques",
+      "definition": "Espaces anatomiques contenant la prostate et les structures associées.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "prostate",
+        "structures prostatiques"
+      ],
+      "description": "Les loges prostatiques sont situées dans le petit bassin et contiennent la prostate et les vésicules séminales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "loges prostatiques anatomie",
+        "prostate"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loges génitales",
+      "definition": "Espaces anatomiques contenant les organes génitaux internes.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "organes génitaux",
+        "organes génitaux internes"
+      ],
+      "description": "Les loges génitales contiennent les ovaires, les trompes de Fallope et l'utérus chez la femme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "loges génitales anatomie",
+        "organes génitaux"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loges rectales",
+      "definition": "Espaces anatomiques contenant le rectum et les structures associées.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "rectum",
+        "structures rectales"
+      ],
+      "description": "Les loges rectales sont situées dans le petit bassin et contiennent le rectum et les vaisseaux rectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "loges rectales anatomie",
+        "rectum"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisé grave",
+      "definition": "Patient ayant subi des blessures multiples et sévères, souvent nécessitant une intervention médicale immédiate.",
+      "category": "pathologie",
+      "synonyms": [
+        "polytraumatisé"
+      ],
+      "related_terms": [
+        "polytraumatisme",
+        "blessures multiples"
+      ],
+      "description": "Le traumatisé grave présente des lésions qui peuvent mettre en danger sa vie et nécessitent une prise en charge rapide et coordonnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "traumatisé grave",
+        "polytraumatisme"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gravité des lésions",
+      "definition": "Évaluation de la sévérité des blessures subies par un patient, souvent utilisée pour déterminer le pronostic et le traitement.",
+      "category": "pathologie",
+      "synonyms": [
+        "sévérité des lésions"
+      ],
+      "related_terms": [
+        "lésions",
+        "pronostic",
+        "traitement"
+      ],
+      "description": "La gravité des lésions est évaluée en fonction de leur impact sur les fonctions vitales et le risque de complications.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gravité des lésions",
+        "sévérité des lésions"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions traumatiques",
+      "definition": "Blessures résultant d'un traumatisme physique, telles que des fractures, des contusions ou des plaies.",
+      "category": "pathologie",
+      "synonyms": [
+        "blessures traumatiques"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "fractures",
+        "contusions"
+      ],
+      "description": "Les lésions traumatiques peuvent affecter diverses parties du corps et nécessitent une évaluation et un traitement appropriés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lésions traumatiques",
+        "blessures traumatiques"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triage",
+      "definition": "Processus de classification des patients en fonction de la gravité de leurs blessures ou maladies pour déterminer l'ordre de traitement.",
+      "category": "pathologie",
+      "synonyms": [
+        "classification des patients"
+      ],
+      "related_terms": [
+        "gravité",
+        "blessures",
+        "maladies"
+      ],
+      "description": "Le triage est essentiel en situation d'urgence pour assurer que les patients les plus gravement atteints reçoivent un traitement prioritaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "triage",
+        "classification des patients"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "critères de Vittel",
+      "definition": "Ensemble de critères utilisés pour évaluer la gravité des traumatismes et déterminer la nécessité d'une prise en charge spécialisée.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "traumatismes",
+        "gravité",
+        "prise en charge"
+      ],
+      "description": "Les critères de Vittel incluent des variables physiologiques, des éléments de cinétique, des lésions anatomiques, et des facteurs de terrain.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "critères de Vittel",
+        "évaluation des traumatismes"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "saturation en O2",
+      "definition": "Mesure du pourcentage d'oxygène lié à l'hémoglobine dans le sang, indiquant l'oxygénation des tissus.",
+      "category": "physiologie",
+      "synonyms": [
+        "saturation en oxygène"
+      ],
+      "related_terms": [
+        "oxygène",
+        "hémoglobine",
+        "oxygénation"
+      ],
+      "description": "La saturation en O2 est un indicateur clé de la fonction respiratoire et de l'état général du patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "saturation en O2",
+        "saturation en oxygène"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volet thoracique",
+      "definition": "Segment de la paroi thoracique qui se déplace de manière paradoxale en raison de fractures multiples des côtes.",
+      "category": "pathologie",
+      "synonyms": [
+        "volet costal"
+      ],
+      "related_terms": [
+        "paroi thoracique",
+        "fractures des côtes"
+      ],
+      "description": "Le volet thoracique peut compromettre la ventilation et nécessite une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "volet thoracique",
+        "volet costal"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brûlure",
+      "definition": "Lésion des tissus causée par la chaleur, les produits chimiques, l'électricité ou la radiation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lésion",
+        "chaleur",
+        "produits chimiques"
+      ],
+      "description": "Les brûlures sont classées en fonction de leur profondeur et de la surface corporelle affectée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "brûlure",
+        "lésion des tissus"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracas du bassin",
+      "definition": "Fracture complexe du bassin, souvent associée à des blessures graves et une hémorragie importante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fracture du bassin",
+        "hémorragie"
+      ],
+      "description": "Le fracas du bassin nécessite une stabilisation rapide et une évaluation des structures vasculaires et nerveuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fracas du bassin",
+        "fracture du bassin"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pantalon antichoc",
+      "definition": "Dispositif médical utilisé pour comprimer les membres inférieurs et le bassin afin de rediriger le sang vers les organes vitaux en cas de choc hypovolémique.",
+      "category": "pathologie",
+      "synonyms": [
+        "pantalon de contention"
+      ],
+      "related_terms": [
+        "choc hypovolémique",
+        "compression",
+        "organes vitaux"
+      ],
+      "description": "Le pantalon antichoc est utilisé pour stabiliser les patients en état de choc jusqu'à ce qu'ils puissent recevoir un traitement définitif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pantalon antichoc",
+        "pantalon de contention"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détresse circulatoire",
+      "definition": "État de détresse physiologique caractérisé par une perfusion tissulaire inadéquate en raison d'une insuffisance de la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance circulatoire"
+      ],
+      "related_terms": [
+        "perfusion tissulaire",
+        "circulation sanguine"
+      ],
+      "description": "La détresse circulatoire peut être causée par des conditions telles que le choc, l'insuffisance cardiaque ou les hémorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "détresse circulatoire",
+        "insuffisance circulatoire"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détresse neurologique",
+      "definition": "État de détresse physiologique caractérisé par une altération de la fonction neurologique, souvent due à un traumatisme crânien ou une maladie cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance neurologique"
+      ],
+      "related_terms": [
+        "fonction neurologique",
+        "traumatisme crânien",
+        "maladie cérébrale"
+      ],
+      "description": "La détresse neurologique peut se manifester par des symptômes tels que la confusion, la perte de conscience ou les convulsions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "détresse neurologique",
+        "insuffisance neurologique"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contusion pulmonaire",
+      "definition": "Blessure du poumon causée par un traumatisme contondant, entraînant un saignement et un œdème dans le tissu pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "traumatisme contondant",
+        "saignement",
+        "œdème"
+      ],
+      "description": "La contusion pulmonaire peut entraîner une insuffisance respiratoire et nécessite une surveillance et un traitement appropriés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "contusion pulmonaire",
+        "traumatisme contondant"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisme maxillo-facial",
+      "definition": "Blessure affectant les structures de la face et de la mâchoire, souvent causée par un traumatisme contondant ou pénétrant.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "face",
+        "mâchoire",
+        "traumatisme contondant"
+      ],
+      "description": "Le traumatisme maxillo-facial peut entraîner des fractures, des lésions des tissus mous et des complications respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "traumatisme maxillo-facial",
+        "blessure de la face"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions médullaires hautes",
+      "definition": "Blessures de la moelle épinière au niveau cervical, entraînant une paralysie des membres supérieurs et inférieurs ainsi que des troubles respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "tétraplégie"
+      ],
+      "related_terms": [
+        "moelle épinière",
+        "paralysie",
+        "troubles respiratoires"
+      ],
+      "description": "Les lésions médullaires hautes nécessitent une prise en charge spécialisée pour gérer la paralysie et les complications respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lésions médullaires hautes",
+        "tétraplégie"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paralysie diaphragmatique",
+      "definition": "Paralysie du diaphragme, le principal muscle de la respiration, entraînant une insuffisance respiratoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "diaphragme",
+        "insuffisance respiratoire"
+      ],
+      "description": "La paralysie diaphragmatique peut être causée par des lésions du nerf phrénique ou des maladies neuromusculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "paralysie diaphragmatique",
+        "diaphragme"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhalation bronchique",
+      "definition": "Aspiration de substances étrangères, telles que des liquides ou des particules, dans les voies respiratoires, pouvant entraîner une obstruction et une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "aspiration bronchique"
+      ],
+      "related_terms": [
+        "voies respiratoires",
+        "obstruction",
+        "infection"
+      ],
+      "description": "L'inhalation bronchique peut être causée par une perte des réflexes de protection des voies aériennes, souvent due à une altération de la conscience.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "inhalation bronchique",
+        "aspiration bronchique"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contusion myocardique",
+      "definition": "Lésion du muscle cardiaque due à un traumatisme thoracique, souvent associée à un accident de la route ou une chute.",
+      "category": "pathologie",
+      "synonyms": [
+        "contusion cardiaque"
+      ],
+      "related_terms": [
+        "traumatisme thoracique",
+        "choc cardiogénique"
+      ],
+      "description": "La contusion myocardique peut entraîner des arythmies, une insuffisance cardiaque ou un choc cardiogénique.",
+      "expansion": null,
+      "clinical_significance": "Importante à diagnostiquer pour éviter des complications cardiaques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "contusion myocardique",
+        "traumatisme thoracique"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Trendelburg",
+      "definition": "Position où le patient est incliné avec la tête en bas et les pieds en haut pour améliorer le retour veineux.",
+      "category": "physiologie",
+      "synonyms": [
+        "position de Trendelenburg"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "hypotension"
+      ],
+      "description": "La position de Trendelenburg est utilisée pour améliorer le retour veineux et la perfusion cérébrale.",
+      "expansion": null,
+      "clinical_significance": "Utilisée en cas de choc hémorragique pour stabiliser la pression artérielle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Trendelenburg",
+        "position de Trendelenburg"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Guedel",
+      "definition": "Canule oropharyngée utilisée pour maintenir les voies aériennes ouvertes chez un patient inconscient.",
+      "category": "imagerie",
+      "synonyms": [
+        "canule de Guedel"
+      ],
+      "related_terms": [
+        "intubation",
+        "voies aériennes"
+      ],
+      "description": "La canule de Guedel est utilisée pour prévenir l'obstruction des voies aériennes par la langue.",
+      "expansion": null,
+      "clinical_significance": "Utilisée en réanimation pour assurer la liberté des voies aériennes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Guedel",
+        "canule oropharyngée"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêta-bloquant",
+      "definition": "Médicament qui bloque les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension et les arythmies.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquant"
+      ],
+      "related_terms": [
+        "hypertension",
+        "arythmie"
+      ],
+      "description": "Les bêta-bloquants peuvent masquer les signes de tachycardie en cas d'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": "Important à considérer dans l'évaluation des patients sous bêta-bloquants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-bloquant",
+        "hypertension"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypotension légère",
+      "definition": "Baisse modérée de la pression artérielle, généralement entre 90/60 mmHg et 100/70 mmHg.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypotension modérée"
+      ],
+      "related_terms": [
+        "hypotension sévère",
+        "hypertension"
+      ],
+      "description": "Peut être un signe de perte de sang ou de déshydratation.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'hypovolémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypotension sévère",
+      "definition": "Baisse importante de la pression artérielle, généralement en dessous de 90/60 mmHg.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypotension grave"
+      ],
+      "related_terms": [
+        "hypotension légère",
+        "hypertension"
+      ],
+      "description": "Peut indiquer un choc hémorragique ou un état de choc.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "collapsus sévère",
+      "definition": "Effondrement circulatoire grave avec perte de conscience et arrêt cardiaque imminent.",
+      "category": "pathologie",
+      "synonyms": [
+        "collapsus cardiovasculaire"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "arrêt cardiaque"
+      ],
+      "description": "Urgence médicale nécessitant une réanimation immédiate.",
+      "expansion": null,
+      "clinical_significance": "Situation critique nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coagulopathie post-traumatique",
+      "definition": "Trouble de la coagulation sanguine survenant après un traumatisme, souvent dû à une perte de facteurs de coagulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "coagulopathie traumatique"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "facteurs de coagulation"
+      ],
+      "description": "Peut aggraver le saignement et compliquer la prise en charge.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des traumatismes graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum salé hypertonique (SSH)",
+      "definition": "Solution saline concentrée utilisée pour augmenter la pression osmotique et réduire l'œdème cérébral.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum salé hypertonique"
+      ],
+      "related_terms": [
+        "mannitol",
+        "œdème cérébral"
+      ],
+      "description": "Utilisé pour traiter l'hypertension intracrânienne et l'œdème cérébral.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des traumatismes crâniens.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polytraumatisé",
+      "definition": "Patient ayant subi des traumatismes multiples et graves affectant plusieurs parties du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "polytraumatisme"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "choc hémorragique"
+      ],
+      "description": "Nécessite une prise en charge médicale complexe et pluridisciplinaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des traumatismes graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "salle de déchocage",
+      "definition": "Espace spécialisé dans les services d'urgence pour la prise en charge immédiate des patients en état critique, équipé pour des interventions rapides et intensives.",
+      "category": "classification",
+      "synonyms": [
+        "salle d'accueil des urgences vitales"
+      ],
+      "related_terms": [
+        "unité de soins intensifs",
+        "bloc opératoire"
+      ],
+      "description": "Utilisée pour stabiliser les patients en état critique avant des interventions plus approfondies.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la prise en charge initiale des polytraumatisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FAST",
+      "definition": "Technique d'échographie rapide utilisée pour évaluer les épanchements intrapéritonéaux et péricardiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie FAST"
+      ],
+      "related_terms": [
+        "épanchement intrapéritonéal",
+        "épanchement péricardique"
+      ],
+      "description": "Utilisée en urgence pour évaluer les traumatismes abdominaux et thoraciques.",
+      "expansion": "Focused Assessment with Sonography for Trauma",
+      "clinical_significance": "Critique pour le diagnostic rapide des épanchements chez les polytraumatisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie FAST",
+        "FAST ultrasound"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contusions pulmonaires",
+      "definition": "Blessures du tissu pulmonaire dues à un traumatisme thoracique.",
+      "category": "pathologie",
+      "synonyms": [
+        "contusions pulmonaires"
+      ],
+      "related_terms": [
+        "traumatisme thoracique",
+        "pneumothorax"
+      ],
+      "description": "Peuvent entraîner une insuffisance respiratoire et des complications infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des traumatismes thoraciques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "contusions pulmonaires",
+        "blessures pulmonaires"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémothorax",
+      "definition": "Accumulation de sang dans la cavité pleurale, souvent due à un traumatisme thoracique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémothorax"
+      ],
+      "related_terms": [
+        "traumatisme thoracique",
+        "pneumothorax"
+      ],
+      "description": "Peut entraîner un collapsus pulmonaire et une insuffisance respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Critique pour le diagnostic et la gestion des traumatismes thoraciques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémothorax",
+        "épanchement pleural sanguin"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "escarres",
+      "definition": "Lésions cutanées dues à une pression prolongée, souvent observées chez les patients alités.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcères de pression"
+      ],
+      "related_terms": [
+        "alitement prolongé",
+        "complications cutanées"
+      ],
+      "description": "Peuvent entraîner des infections et des complications graves si non traitées.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la prévention des complications chez les patients alités.",
+      "normal_values": null,
+      "image_search_terms": [
+        "escarres",
+        "ulcères de pression"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ossifications ectopiques",
+      "definition": "Formation anormale de tissu osseux en dehors du squelette, souvent après un traumatisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "paraostéoarthropathies"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "complications orthopédiques"
+      ],
+      "description": "Peuvent entraîner des raideurs articulaires et des douleurs.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la prévention des complications articulaires chez les polytraumatisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ossifications ectopiques",
+        "paraostéoarthropathies"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndromes régionaux douloureux complexes",
+      "definition": "Troubles caractérisés par une douleur chronique, une inflammation, et des anomalies vasomotrices.",
+      "category": "pathologie",
+      "synonyms": [
+        "algodystrophie"
+      ],
+      "related_terms": [
+        "douleur chronique",
+        "inflammation"
+      ],
+      "description": "Peuvent survenir après un traumatisme ou une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion de la douleur et des complications chez les polytraumatisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndromes régionaux douloureux complexes",
+        "algodystrophie"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf ulnaire",
+      "definition": "Nerf périphérique qui innerve les muscles de la main et les doigts.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf cubital"
+      ],
+      "related_terms": [
+        "gouttière épitrochléo-olécranienne",
+        "compression nerveuse"
+      ],
+      "description": "Peut être comprimé en cas d'immobilisation prolongée, entraînant une paralysie focale.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la prévention des complications neurologiques chez les patients immobilisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf ulnaire",
+        "nerf cubital"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf radial",
+      "definition": "Nerf périphérique qui innerve les muscles de l'avant-bras et de la main.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf radial"
+      ],
+      "related_terms": [
+        "gouttière humérale",
+        "compression nerveuse"
+      ],
+      "description": "Peut être comprimé en cas d'immobilisation prolongée, entraînant une paralysie focale.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la prévention des complications neurologiques chez les patients immobilisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf radial",
+        "nerf radial"
+      ],
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "laxatifs osmotiques",
+      "definition": "Les laxatifs osmotiques sont des médicaments qui attirent l'eau dans les intestins, augmentant ainsi le volume des selles et facilitant leur passage.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "laxatifs hyperosmotiques"
+      ],
+      "related_terms": [
+        "laxatifs stimulants",
+        "laxatifs de lest"
+      ],
+      "description": "Les laxatifs osmotiques sont souvent utilisés pour traiter la constipation chronique et pour préparer l'intestin avant une intervention chirurgicale ou une coloscopie.",
+      "expansion": null,
+      "clinical_significance": "Ils sont généralement bien tolérés mais peuvent causer des effets secondaires tels que des ballonnements, des crampes abdominales et des déséquilibres électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "source_file": "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Polytraumatismes/Courses/59 Polytraumatisme.md"
+  ],
+  "total_terms": 60
+}

@@ -1,0 +1,98 @@
+{
+  "category": "biologie",
+  "terms": [
+    {
+      "term": "ASAT/ALAT",
+      "definition": "Enzymes hépatiques utilisées pour évaluer la fonction hépatique.",
+      "category": "biologie",
+      "synonyms": [
+        "transaminases"
+      ],
+      "related_terms": [
+        "foie",
+        "hépatite"
+      ],
+      "description": "Les niveaux élevés d'ASAT/ALAT peuvent indiquer une atteinte hépatique.",
+      "expansion": "Aspartate aminotransférase / Alanine aminotransférase",
+      "clinical_significance": "Important pour détecter une atteinte hépatique dans le syndrome HELLP.",
+      "normal_values": "ASAT: 5-34 UI/L, ALAT: 7-55 UI/L",
+      "image_search_terms": [
+        "ASAT",
+        "ALAT",
+        "foie"
+      ],
+      "subject_id": "4846353b-dac3-4c89-9f60-dcd37a278a89",
+      "source_file": "Gynécologie-Obstétrique/Prééclampsies & Éclampsies/Courses/60 Préeclampsie et éclampsie 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyper éosinophilie",
+      "definition": "Augmentation anormale du nombre d'éosinophiles dans le sang.",
+      "category": "biologie",
+      "synonyms": [
+        "éosinophilie"
+      ],
+      "related_terms": [
+        "NFS",
+        "sérologie"
+      ],
+      "description": "L'hyper éosinophilie peut être associée à des infections parasitaires, des allergies ou d'autres conditions médicales.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour le diagnostic des infections parasitaires et des allergies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyper éosinophilie",
+        "éosinophilie"
+      ],
+      "subject_id": "b8a1dc5f-6226-4b79-864a-7ce86f45f7ad",
+      "source_file": "Chirurgie Générale/Hydatidoses Hépatiques & Pulmonaires/Courses/36 Hydatidoses hépatiques et pulmonaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponines",
+      "definition": "Protéines spécifiques du muscle cardiaque, utilisées comme marqueurs biologiques pour détecter les dommages myocardiques.",
+      "category": "biologie",
+      "synonyms": [
+        "troponine T",
+        "troponine I"
+      ],
+      "related_terms": [
+        "NSTEMI",
+        "IDM"
+      ],
+      "description": "L'élévation des troponines indique une nécrose myocardique.",
+      "expansion": null,
+      "clinical_significance": "Marqueur sensible et spécifique pour le diagnostic de l'infarctus du myocarde.",
+      "normal_values": "Valeurs normales < 0.04 ng/mL",
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NT-pro-BNP",
+      "definition": "N-terminal pro B-type Natriuretic Peptide, un fragment inactif du BNP utilisé comme marqueur de l'insuffisance cardiaque.",
+      "category": "biologie",
+      "synonyms": [
+        "NT-pro-BNP"
+      ],
+      "related_terms": [
+        "BNP",
+        "insuffisance cardiaque"
+      ],
+      "description": "Élévation du NT-pro-BNP indique une dysfonction ou une dilatation du ventricule droit.",
+      "expansion": null,
+      "clinical_significance": "Signe de gravité dans l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NT-pro-BNP",
+        "marqueurs cardiaques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 4,
+  "extraction_date": "20250605_212035"
+}

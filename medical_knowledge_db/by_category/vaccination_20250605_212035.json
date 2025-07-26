@@ -1,0 +1,30 @@
+{
+  "category": "vaccination",
+  "terms": [
+    {
+      "term": "MAPI",
+      "definition": "Manifestation Post-vaccinale Indésirable, tout incident médical survenant après la vaccination.",
+      "category": "vaccination",
+      "synonyms": [
+        "effet secondaire vaccinal"
+      ],
+      "related_terms": [
+        "vaccination",
+        "effet indésirable"
+      ],
+      "description": "Les MAPI peuvent inclure des réactions locales, des symptômes systémiques ou des complications graves.",
+      "expansion": "Manifestation Post-vaccinale Indésirable",
+      "clinical_significance": "Important pour la surveillance de la sécurité des vaccins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "MAPI",
+        "effet secondaire vaccinal"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 1,
+  "extraction_date": "20250605_212035"
+}

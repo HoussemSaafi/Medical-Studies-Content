@@ -1,0 +1,2776 @@
+{
+  "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+  "terms": [
+    {
+      "term": "douleur thoracique aiguë",
+      "definition": "Douleur soudaine et intense ressentie dans la région thoracique, souvent associée à des conditions médicales graves nécessitant une évaluation immédiate.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleur thoracique",
+        "douleur de poitrine"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "infarctus du myocarde"
+      ],
+      "description": "La douleur thoracique aiguë peut être causée par diverses conditions, y compris des problèmes cardiaques, pulmonaires, gastro-intestinaux, musculo-squelettiques ou psychogènes.",
+      "expansion": null,
+      "clinical_significance": "La douleur thoracique aiguë peut indiquer une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "douleur thoracique",
+        "ECG anormal"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détresse vitale",
+      "definition": "État clinique grave où les fonctions vitales sont compromises, nécessitant une intervention médicale immédiate.",
+      "category": "pathologie",
+      "synonyms": [
+        "détresse aiguë",
+        "urgence vitale"
+      ],
+      "related_terms": [
+        "choc",
+        "arrêt cardiaque"
+      ],
+      "description": "La détresse vitale peut être causée par des conditions telles que l'infarctus du myocarde, l'embolie pulmonaire, ou la dissection aortique.",
+      "expansion": null,
+      "clinical_significance": "La reconnaissance rapide de la détresse vitale est cruciale pour la survie du patient.",
+      "normal_values": null,
+      "image_search_terms": [
+        "détresse vitale",
+        "monitoring vital"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissection aortique",
+      "definition": "Déchirure de la paroi interne de l'aorte, permettant au sang de s'infiltrer entre les couches de la paroi aortique.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection de l'aorte"
+      ],
+      "related_terms": [
+        "anévrisme aortique",
+        "rupture aortique"
+      ],
+      "description": "La dissection aortique est une urgence médicale nécessitant une intervention chirurgicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "La dissection aortique peut être fatale si elle n'est pas traitée rapidement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dissection aortique",
+        "aorte"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECG 18 Dérivations",
+      "definition": "Électrocardiogramme utilisant 18 électrodes pour enregistrer l'activité électrique du cœur, fournissant une vue plus complète que l'ECG standard à 12 dérivations.",
+      "category": "imagerie",
+      "synonyms": [
+        "ECG 18 dérivations"
+      ],
+      "related_terms": [
+        "ECG",
+        "électrocardiogramme"
+      ],
+      "description": "L'ECG 18 dérivations est utilisé pour diagnostiquer des conditions cardiaques telles que le syndrome coronarien aigu et la péricardite.",
+      "expansion": null,
+      "clinical_significance": "L'ECG 18 dérivations permet une évaluation plus précise des anomalies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ECG 18 dérivations",
+        "électrocardiogramme"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponine ultrasensible",
+      "definition": "Marqueur biologique utilisé pour détecter les dommages au muscle cardiaque, particulièrement dans le diagnostic de l'infarctus du myocarde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "troponine"
+      ],
+      "related_terms": [
+        "CK-MB",
+        "myoglobine"
+      ],
+      "description": "La troponine ultrasensible est plus précise que les tests de troponine standard pour détecter les lésions myocardiques.",
+      "expansion": null,
+      "clinical_significance": "La troponine ultrasensible est essentielle pour le diagnostic précoce de l'infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "troponine ultrasensible",
+        "test sanguin"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gazométrie du sang",
+      "definition": "Analyse des gaz dans le sang pour évaluer l'oxygénation, la ventilation et l'équilibre acido-basique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "gazométrie artérielle"
+      ],
+      "related_terms": [
+        "pH sanguin",
+        "PaO2",
+        "PaCO2"
+      ],
+      "description": "La gazométrie du sang est utilisée pour diagnostiquer et surveiller les troubles respiratoires et métaboliques.",
+      "expansion": null,
+      "clinical_significance": "La gazométrie du sang est essentielle pour évaluer la fonction respiratoire et l'équilibre acido-basique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gazométrie du sang",
+        "analyse sanguine"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coroscanner",
+      "definition": "Tomodensitométrie des artères coronaires pour visualiser les vaisseaux sanguins du cœur et détecter les obstructions.",
+      "category": "imagerie",
+      "synonyms": [
+        "CT scan coronaire"
+      ],
+      "related_terms": [
+        "angiographie",
+        "tomodensitométrie"
+      ],
+      "description": "Le coroscanner est utilisé pour diagnostiquer les maladies coronariennes et planifier les interventions.",
+      "expansion": null,
+      "clinical_significance": "Le coroscanner permet une évaluation non invasive des artères coronaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "coroscanner",
+        "tomodensitométrie"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioscanner thoracique ou aortique",
+      "definition": "Tomodensitométrie avec injection de produit de contraste pour visualiser les vaisseaux sanguins du thorax ou de l'aorte.",
+      "category": "imagerie",
+      "synonyms": [
+        "CT angiographie thoracique",
+        "CT angiographie aortique"
+      ],
+      "related_terms": [
+        "angiographie",
+        "tomodensitométrie"
+      ],
+      "description": "L'angioscanner thoracique ou aortique est utilisé pour diagnostiquer les dissections aortiques, les embolies pulmonaires et d'autres anomalies vasculaires.",
+      "expansion": null,
+      "clinical_significance": "L'angioscanner thoracique ou aortique est essentiel pour l'évaluation des maladies vasculaires thoraciques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "angioscanner thoracique",
+        "angioscanner aortique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trépied pleurétique",
+      "definition": "Ensemble de signes cliniques caractéristiques de la pleurésie, incluant la douleur thoracique, la fièvre et la toux.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome pleurétique"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "pneumonie"
+      ],
+      "description": "Le trépied pleurétique est souvent associé à une inflammation de la plèvre et peut indiquer une infection pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Le trépied pleurétique est un indicateur important de la pleurésie et nécessite une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trépied pleurétique",
+        "pleurésie"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spasme œsophagien",
+      "definition": "Contraction involontaire et douloureuse de l'œsophage, souvent causée par des troubles moteurs de l'œsophage.",
+      "category": "pathologie",
+      "synonyms": [
+        "spasme de l'œsophage"
+      ],
+      "related_terms": [
+        "achalasie",
+        "dysphagie"
+      ],
+      "description": "Le spasme œsophagien peut causer une douleur thoracique intense et des difficultés à avaler.",
+      "expansion": null,
+      "clinical_significance": "Le spasme œsophagien peut nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "spasme œsophagien",
+        "spasme de l'œsophage"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Tietze",
+      "definition": "Inflammation douloureuse des cartilages costaux, souvent causée par un traumatisme ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "chondrite costale"
+      ],
+      "related_terms": [
+        "costochondrite",
+        "arthrite"
+      ],
+      "description": "Le syndrome de Tietze peut causer une douleur thoracique intense et un gonflement des cartilages costaux.",
+      "expansion": null,
+      "clinical_significance": "Le syndrome de Tietze peut nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Tietze",
+        "chondrite costale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite sternoclaviculaire",
+      "definition": "Inflammation de l'articulation entre le sternum et la clavicule, souvent causée par une infection ou une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite de l'articulation sternoclaviculaire"
+      ],
+      "related_terms": [
+        "arthrite",
+        "ostéoarthrite"
+      ],
+      "description": "L'arthrite sternoclaviculaire peut causer une douleur et un gonflement de l'articulation sternoclaviculaire.",
+      "expansion": null,
+      "clinical_significance": "L'arthrite sternoclaviculaire peut nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite sternoclaviculaire",
+        "arthrite de l'articulation sternoclaviculaire"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "schwannomes",
+      "definition": "Tumeurs bénignes des cellules de Schwann, qui entourent les fibres nerveuses périphériques.",
+      "category": "pathologie",
+      "synonyms": [
+        "neurinomes"
+      ],
+      "related_terms": [
+        "neurofibromes",
+        "tumeurs nerveuses"
+      ],
+      "description": "Les schwannomes peuvent causer des symptômes neurologiques tels que des douleurs, des engourdissements ou une faiblesse.",
+      "expansion": null,
+      "clinical_significance": "Les schwannomes peuvent nécessiter une intervention chirurgicale pour enlever la tumeur et soulager les symptômes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "schwannomes",
+        "neurinomes"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuropathies thoraciques",
+      "definition": "Atteintes des nerfs périphériques dans la région thoracique, souvent causées par des maladies systémiques ou des traumatismes.",
+      "category": "pathologie",
+      "synonyms": [
+        "neuropathie thoracique"
+      ],
+      "related_terms": [
+        "neuropathie périphérique",
+        "neuropathie diabétique"
+      ],
+      "description": "Les neuropathies thoraciques peuvent causer des symptômes tels que des douleurs, des engourdissements ou une faiblesse dans la région thoracique.",
+      "expansion": null,
+      "clinical_significance": "Les neuropathies thoraciques peuvent nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "neuropathies thoraciques",
+        "neuropathie thoracique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "névralgies intercostales",
+      "definition": "Douleur intense le long des nerfs intercostaux, souvent causée par une irritation ou une compression des nerfs.",
+      "category": "pathologie",
+      "synonyms": [
+        "névralgie intercostale"
+      ],
+      "related_terms": [
+        "douleur intercostale",
+        "neuropathie"
+      ],
+      "description": "Les névralgies intercostales peuvent causer une douleur thoracique intense et nécessitent un traitement pour soulager les symptômes.",
+      "expansion": null,
+      "clinical_significance": "Les névralgies intercostales peuvent nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "névralgies intercostales",
+        "névralgie intercostale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "douleurs post-thoracotomie",
+      "definition": "Douleur persistante après une chirurgie thoracique, souvent causée par des lésions nerveuses ou des adhérences.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleur post-thoracotomie"
+      ],
+      "related_terms": [
+        "douleur postopératoire",
+        "thoracotomie"
+      ],
+      "description": "Les douleurs post-thoracotomie peuvent être chroniques et nécessiter un traitement pour soulager les symptômes.",
+      "expansion": null,
+      "clinical_significance": "Les douleurs post-thoracotomie peuvent nécessiter un traitement pour soulager les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "douleurs post-thoracotomie",
+        "douleur post-thoracotomie"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trinitrine",
+      "definition": "La trinitrine est un médicament vasodilatateur utilisé pour traiter l'angine de poitrine en réduisant la charge de travail du cœur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "nitroglycérine"
+      ],
+      "related_terms": [
+        "vasodilatateur",
+        "angine de poitrine"
+      ],
+      "description": "Utilisée pour soulager la douleur thoracique d'origine coronarienne en dilatant les vaisseaux sanguins.",
+      "expansion": "trinitrine",
+      "clinical_significance": "Efficace pour le soulagement rapide des symptômes d'angine de poitrine.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trinitrine",
+        "nitroglycérine"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MVO2",
+      "definition": "La MVO2 (Myocardial Oxygen Consumption) est la consommation d'oxygène par le myocarde, un indicateur de la demande en oxygène du cœur.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "consommation d'oxygène myocardique"
+      ],
+      "description": "Utilisée pour évaluer la charge de travail du cœur et l'efficacité des traitements pour l'angine de poitrine.",
+      "expansion": "Myocardial Oxygen Consumption",
+      "clinical_significance": "Important pour la gestion des patients avec angine de poitrine et insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "MVO2",
+        "Myocardial Oxygen Consumption"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asymétrie tensionnelle",
+      "definition": "L'asymétrie tensionnelle est une différence significative de la pression artérielle entre les deux bras.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "différence de pression artérielle"
+      ],
+      "description": "Peut indiquer une dissection aortique, une sténose de l'artère sous-clavière, ou une autre pathologie vasculaire.",
+      "expansion": "asymétrie tensionnelle",
+      "clinical_significance": "Important signe clinique pour le diagnostic de pathologies vasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "asymétrie tensionnelle",
+        "différence de pression artérielle"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "frottement péricardique",
+      "definition": "Le frottement péricardique est un bruit anormal entendu à l'auscultation, caractéristique de la péricardite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "bruit péricardique"
+      ],
+      "description": "Souvent décrit comme un bruit de frottement ou de grattement, synchronisé avec le cycle cardiaque.",
+      "expansion": "frottement péricardique",
+      "clinical_significance": "Signe pathognomonique de la péricardite, nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "frottement péricardique",
+        "péricardite"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "souffle diastolique d'insuffisance aortique",
+      "definition": "Le souffle diastolique d'insuffisance aortique est un bruit cardiaque anormal entendu pendant la diastole, indiquant une insuffisance de la valve aortique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance aortique",
+        "souffle diastolique"
+      ],
+      "description": "Causé par un reflux de sang à travers la valve aortique pendant la diastole.",
+      "expansion": "souffle diastolique d'insuffisance aortique",
+      "clinical_significance": "Signe clinique important pour le diagnostic de l'insuffisance aortique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "souffle diastolique d'insuffisance aortique",
+        "insuffisance aortique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "souffle systolique d'insuffisance mitrale",
+      "definition": "Le souffle systolique d'insuffisance mitrale est un bruit cardiaque anormal entendu pendant la systole, indiquant une insuffisance de la valve mitrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance mitrale",
+        "souffle systolique"
+      ],
+      "description": "Causé par un reflux de sang à travers la valve mitrale pendant la systole.",
+      "expansion": "souffle systolique d'insuffisance mitrale",
+      "clinical_significance": "Signe clinique important pour le diagnostic de l'insuffisance mitrale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "souffle systolique d'insuffisance mitrale",
+        "insuffisance mitrale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "matité",
+      "definition": "La matité est un son sourd et atténué entendu à la percussion thoracique, indiquant la présence de liquide ou de tissu solide dans les poumons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "percussion thoracique"
+      ],
+      "description": "Souvent associée à des pleurésies, des pneumonies, ou des tumeurs pulmonaires.",
+      "expansion": "matité",
+      "clinical_significance": "Signe clinique important pour le diagnostic de pathologies pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "matité",
+        "percussion thoracique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tympanisme",
+      "definition": "Le tympanisme est un son résonnant et hyperclair entendu à la percussion thoracique, indiquant la présence d'air dans la cavité pleurale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "percussion thoracique"
+      ],
+      "description": "Souvent associé à un pneumothorax ou à une emphysème.",
+      "expansion": "tympanisme",
+      "clinical_significance": "Signe clinique important pour le diagnostic de pathologies pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tympanisme",
+        "percussion thoracique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeur de l'apex",
+      "definition": "Tumeur située à l'apex du poumon, souvent associée à des symptômes neurologiques comme le syndrome de Claude Bernard-Horner.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Claude Bernard-Horner",
+        "médiastin"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tumeur de l'apex"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système nerveux sympathique cervical",
+      "definition": "Partie du système nerveux autonome qui innerve les structures cervicales et thoraciques, impliqué dans le syndrome de Claude Bernard-Horner.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Claude Bernard-Horner",
+        "médiastin"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "système nerveux sympathique cervical"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissection de l'aorte",
+      "definition": "Déchirure de la paroi interne de l'aorte, permettant au sang de s'infiltrer entre les couches de la paroi aortique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémiplégie",
+        "vaisseaux supra-aortiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "dissection de l'aorte"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaisseaux supra-aortiques",
+      "definition": "Vaisseaux sanguins situés au-dessus de l'aorte, incluant les artères carotides et sous-clavières.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "dissection de l'aorte",
+        "hémiplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "vaisseaux supra-aortiques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vésicules",
+      "definition": "Petites lésions cutanées remplies de liquide, souvent observées dans des infections virales comme le zona.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "territoire d'innervation sensitive",
+        "zona"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "vésicules"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "territoire d'innervation sensitive",
+      "definition": "Région du corps innervée par un nerf spécifique, souvent impliquée dans des pathologies comme le zona.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vésicules",
+        "zona"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "territoire d'innervation sensitive"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies sus-claviculaires",
+      "definition": "Gonflement des ganglions lymphatiques situés au-dessus de la clavicule, souvent indicatif d'une pathologie sous-jacente.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénopathies axillaires",
+        "origine tumorale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "adénopathies sus-claviculaires"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies axillaires",
+      "definition": "Gonflement des ganglions lymphatiques situés dans l'aisselle, souvent indicatif d'une pathologie sous-jacente.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénopathies sus-claviculaires",
+        "origine tumorale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "adénopathies axillaires"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "origine tumorale",
+      "definition": "Cause liée à la présence d'une tumeur, souvent associée à des adénopathies sus-claviculaires ou axillaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénopathies sus-claviculaires",
+        "adénopathies axillaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "origine tumorale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sus-décalage du segment ST",
+      "definition": "Élévation du segment ST sur l'ECG, souvent indicative d'une ischémie myocardique aiguë.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "SCA ST (+)",
+        "ischémie myocardique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sus-décalage du segment ST"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "territoire systématisé",
+      "definition": "Région du cœur alimentée par une artère coronaire spécifique, souvent impliquée dans les syndromes coronariens aigus.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sus-décalage du segment ST",
+        "SCA ST (+)"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "territoire systématisé"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "image en «miroir»",
+      "definition": "Inversion des ondes de l'ECG dans les dérivations opposées à la région ischémique, souvent observée dans les syndromes coronariens aigus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sus-décalage du segment ST",
+        "SCA ST (+)"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "image en «miroir»"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc de branche gauche",
+      "definition": "Trouble de la conduction électrique dans le cœur, caractérisé par un retard ou une interruption de la conduction dans le faisceau de His gauche.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie myocardique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "bloc de branche gauche"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sous décalage du segment ST",
+      "definition": "Dépression du segment ST sur l'ECG, souvent indicative d'une ischémie myocardique sans occlusion complète.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "SCA sans sus-décalage persistant de ST"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sous décalage du segment ST"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA sans sus-décalage persistant de ST",
+      "definition": "Syndrome coronarien aigu sans sus-décalage persistant du segment ST, souvent indicatif d'une ischémie myocardique sans occlusion complète.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sous décalage du segment ST"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "SCA sans sus-décalage persistant de ST"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertrophie ventriculaire gauche (HVG)",
+      "definition": "Augmentation de la masse du ventricule gauche du cœur, souvent due à une surcharge de pression ou de volume.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bloc de branche gauche"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypertrophie ventriculaire gauche"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Wolff Parkinson White",
+      "definition": "Trouble de la conduction électrique du cœur caractérisé par la présence d'une voie accessoire anormale entre les oreillettes et les ventricules.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bloc de branche gauche",
+        "hypertrophie ventriculaire gauche"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Wolff Parkinson White"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stades de Holzmann",
+      "definition": "Évolution électrocardiographique de la péricardite aiguë en quatre stades distincts.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite aiguë"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "stades de Holzmann"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc de branche droit",
+      "definition": "Trouble de la conduction électrique dans le cœur, caractérisé par un retard ou une interruption de la conduction dans le faisceau de His droit.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embolie pulmonaire",
+        "tachycardie sinusale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "bloc de branche droit"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "axe droit",
+      "definition": "Déviation de l'axe électrique du cœur vers la droite, souvent observée dans des conditions comme l'embolie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embolie pulmonaire",
+        "bloc de branche droit"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "axe droit"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "S1Q3",
+      "definition": "Aspect électrocardiographique caractérisé par une onde S profonde en D1 et une onde Q profonde en D3, souvent observé dans l'embolie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embolie pulmonaire",
+        "bloc de branche droit"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "S1Q3"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponine ultrasensible (US)",
+      "definition": "Marqueur biologique très sensible et spécifique de l'ischémie myocardique, utilisé pour le diagnostic des syndromes coronariens aigus.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie myocardique",
+        "SCA"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "troponine ultrasensible"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie transoesophagienne (ETO)",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser le cœur et les structures thoraciques à travers l'œsophage.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "dissection aortique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "échographie transoesophagienne"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BBGC",
+      "definition": "Bloc de branche gauche complet, anomalie de la conduction électrique dans le cœur affectant la branche gauche du faisceau de His.",
+      "category": "physiologie",
+      "synonyms": [
+        "bloc de branche gauche"
+      ],
+      "related_terms": [
+        "BBDC",
+        "bloc de branche droit"
+      ],
+      "description": "Peut être un signe de syndrome coronarien aigu.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "BBGC",
+        "bloc de branche gauche"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BBDC",
+      "definition": "Bloc de branche droit complet, anomalie de la conduction électrique dans le cœur affectant la branche droite du faisceau de His.",
+      "category": "physiologie",
+      "synonyms": [
+        "bloc de branche droit"
+      ],
+      "related_terms": [
+        "BBGC",
+        "bloc de branche gauche"
+      ],
+      "description": "Peut être un signe de syndrome coronarien aigu.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "BBDC",
+        "bloc de branche droit"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PIED",
+      "definition": "Acronyme mnémotechnique pour les quatre urgences cardiologiques : Péricardite, Insuffisance coronaire (SCA), Embolie pulmonaire, Dissection aortique.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "SCA",
+        "embolie pulmonaire",
+        "dissection aortique"
+      ],
+      "description": "Utilisé pour se rappeler des principales urgences cardiologiques.",
+      "expansion": "Péricardite, Insuffisance coronaire, Embolie pulmonaire, Dissection aortique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PIED",
+        "urgences cardiologiques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie aigue de membre",
+      "definition": "Réduction soudaine de l'apport sanguin à un membre, souvent due à une obstruction artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie aiguë de membre"
+      ],
+      "related_terms": [
+        "embolie artérielle",
+        "thrombose artérielle"
+      ],
+      "description": "L'ischémie aiguë de membre est une urgence médicale nécessitant une revascularisation rapide pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une nécrose tissulaire, une gangrène ou la perte du membre.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie aiguë de membre",
+        "embolie artérielle"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie digestive",
+      "definition": "Réduction de l'apport sanguin aux intestins, souvent due à une obstruction artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie intestinale"
+      ],
+      "related_terms": [
+        "embolie mésentérique",
+        "thrombose mésentérique"
+      ],
+      "description": "L'ischémie digestive est une urgence médicale nécessitant une revascularisation rapide pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une nécrose intestinale, une péritonite ou la mort.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie digestive",
+        "ischémie intestinale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Marfan",
+      "definition": "Maladie génétique affectant le tissu conjonctif, caractérisée par des anomalies squelettiques, cardiovasculaires et oculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Marfan"
+      ],
+      "related_terms": [
+        "anévrisme aortique",
+        "ectopie lentis"
+      ],
+      "description": "La maladie de Marfan est une condition chronique nécessitant une surveillance médicale régulière pour prévenir les complications.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme la dissection aortique ou l'ectopie lentis.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie de Marfan",
+        "syndrome de Marfan"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "anévrysme de l'aorte ascendante",
+      "definition": "Dilatation anormale de la partie ascendante de l'aorte, souvent due à une faiblesse de la paroi aortique.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrisme aortique ascendant"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "insuffisance aortique"
+      ],
+      "description": "L'anévrisme de l'aorte ascendante est une condition nécessitant une surveillance et une intervention chirurgicale pour prévenir la rupture.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une dissection aortique ou une rupture aortique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrisme de l'aorte ascendante",
+        "anévrisme aortique ascendant"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "myopéricardite du post partum",
+      "definition": "Inflammation du myocarde et du péricarde survenant après l'accouchement, souvent d'origine virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "myopéricardite post-partum"
+      ],
+      "related_terms": [
+        "péricardite",
+        "myocardite"
+      ],
+      "description": "La myopéricardite du post-partum est une condition nécessitant une évaluation et un traitement médical pour prévenir les complications.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme l'insuffisance cardiaque ou la tamponnade.",
+      "normal_values": null,
+      "image_search_terms": [
+        "myopéricardite du post partum",
+        "myopéricardite post-partum"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "insuffisance aortique aigue",
+      "definition": "Fuite soudaine de la valve aortique, entraînant un reflux de sang dans le ventricule gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "régurgitation aortique aiguë"
+      ],
+      "related_terms": [
+        "insuffisance aortique",
+        "régurgitation aortique"
+      ],
+      "description": "L'insuffisance aortique aiguë est une urgence médicale nécessitant une intervention rapide pour corriger la fuite valvulaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance cardiaque aiguë et la mort.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance aortique aiguë",
+        "régurgitation aortique aiguë"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "flap intimal",
+      "definition": "Déchirure de la couche interne de la paroi aortique, permettant au sang de s'infiltrer entre les couches de la paroi aortique.",
+      "category": "pathologie",
+      "synonyms": [
+        "flap intimal"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "intima"
+      ],
+      "description": "Le flap intimal est un signe caractéristique de la dissection aortique, visible à l'imagerie.",
+      "expansion": null,
+      "clinical_significance": "Indique une dissection aortique nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "flap intimal",
+        "dissection aortique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "classification de Stanford",
+      "definition": "Système de classification des dissections aortiques en deux types : type A (touchant l'aorte ascendante) et type B (épargnant l'aorte ascendante).",
+      "category": "classification",
+      "synonyms": [
+        "classification de Stanford"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "type A",
+        "type B"
+      ],
+      "description": "La classification de Stanford est utilisée pour guider la prise en charge des dissections aortiques.",
+      "expansion": null,
+      "clinical_significance": "Aide à déterminer la nécessité d'une intervention chirurgicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "classification de Stanford",
+        "dissection aortique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "échographie cardiaque trans-oesophagienne",
+      "definition": "Examen d'imagerie utilisant une sonde échographique introduite dans l'œsophage pour visualiser le cœur et les gros vaisseaux.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETO",
+        "échographie trans-oesophagienne"
+      ],
+      "related_terms": [
+        "échocardiographie",
+        "échographie cardiaque"
+      ],
+      "description": "L'échographie cardiaque trans-oesophagienne est utilisée pour diagnostiquer les dissections aortiques, les valvulopathies et d'autres conditions cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Permet de visualiser le cœur et les gros vaisseaux avec une grande précision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie cardiaque trans-oesophagienne",
+        "ETO"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "échographie cardiaque transthoracique",
+      "definition": "Examen d'imagerie utilisant une sonde échographique placée sur la poitrine pour visualiser le cœur et les gros vaisseaux.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETT",
+        "échographie transthoracique"
+      ],
+      "related_terms": [
+        "échocardiographie",
+        "échographie cardiaque"
+      ],
+      "description": "L'échographie cardiaque transthoracique est utilisée pour diagnostiquer les valvulopathies, les cardiopathies et d'autres conditions cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Permet de visualiser le cœur et les gros vaisseaux de manière non invasive.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie cardiaque transthoracique",
+        "ETT"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "DAA",
+      "definition": "Dissection aortique aiguë, une déchirure soudaine de la paroi aortique permettant au sang de s'infiltrer entre les couches de la paroi aortique.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection aortique aiguë"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "anévrisme aortique"
+      ],
+      "description": "La DAA est une urgence médicale nécessitant une intervention rapide pour prévenir des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme l'insuffisance aortique, l'ischémie ou la mort.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DAA",
+        "dissection aortique aiguë"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "AVP",
+      "definition": "Accident de la voie publique, un terme désignant les accidents de la circulation.",
+      "category": "acronyme",
+      "synonyms": [
+        "accident de la voie publique"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "accident de la route"
+      ],
+      "description": "Les AVP sont une cause fréquente de traumatismes et nécessitent une évaluation médicale pour détecter les blessures.",
+      "expansion": "accident de la voie publique",
+      "clinical_significance": "Peut entraîner des traumatismes graves nécessitant une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVP",
+        "accident de la voie publique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "AAT",
+      "definition": "Anévrysme de l'aorte thoracique, une dilatation anormale de la partie thoracique de l'aorte.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrysme de l'aorte thoracique"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "anévrysme aortique"
+      ],
+      "description": "L'AAT est une condition nécessitant une surveillance et une intervention chirurgicale pour prévenir la rupture.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une dissection aortique ou une rupture aortique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AAT",
+        "anévrysme de l'aorte thoracique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "valvulopathie aortique",
+      "definition": "Anomalie de la valve aortique, souvent due à une sténose, une insuffisance ou une malformation congénitale.",
+      "category": "pathologie",
+      "synonyms": [
+        "valvulopathie aortique"
+      ],
+      "related_terms": [
+        "sténose aortique",
+        "insuffisance aortique"
+      ],
+      "description": "La valvulopathie aortique est une condition nécessitant une évaluation et un traitement pour prévenir les complications cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme l'insuffisance cardiaque ou la mort subite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "valvulopathie aortique",
+        "sténose aortique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "cœur pulmonaire aigu",
+      "definition": "Insuffisance cardiaque droite aiguë due à une obstruction massive des artères pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "CPA"
+      ],
+      "related_terms": [
+        "hypertension artérielle pulmonaire",
+        "insuffisance cardiaque droite"
+      ],
+      "description": "Le cœur pulmonaire aigu est une complication grave de l'embolie pulmonaire, nécessitant une intervention médicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "Le cœur pulmonaire aigu est une urgence médicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cœur pulmonaire aigu",
+        "insuffisance cardiaque droite"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IT",
+      "definition": "Insuffisance Tricuspide, une fuite de sang à travers la valve tricuspide du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "régurgitation tricuspide"
+      ],
+      "related_terms": [
+        "insuffisance mitrale",
+        "insuffisance aortique"
+      ],
+      "description": "L'IT peut entraîner une surcharge de volume dans le ventricule droit et une insuffisance cardiaque droite.",
+      "expansion": null,
+      "clinical_significance": "L'IT est une condition cardiaque nécessitant une évaluation et une gestion médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance tricuspide",
+        "régurgitation tricuspide"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Westermark",
+      "definition": "Signe radiologique d'hyper-clarté dans un territoire de systématisation vasculaire, souvent associé à l'embolie pulmonaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "signe de Westermark"
+      ],
+      "related_terms": [
+        "radiographie thoracique",
+        "embolie pulmonaire"
+      ],
+      "description": "Le signe de Westermark est un indicateur radiologique important pour le diagnostic de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Le signe de Westermark est un signe radiologique important à évaluer pour diagnostiquer l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "signe de Westermark",
+        "hyper-clarté pulmonaire"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BBD",
+      "definition": "Bloc de Branche Droit, une anomalie de la conduction électrique dans le cœur affectant la branche droite du faisceau de His.",
+      "category": "pathologie",
+      "synonyms": [
+        "bloc de branche droit"
+      ],
+      "related_terms": [
+        "bloc de branche gauche",
+        "bloc auriculo-ventriculaire"
+      ],
+      "description": "Le BBD peut être un signe de diverses conditions cardiaques, y compris l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Le BBD est un signe clinique important à évaluer pour diagnostiquer des conditions cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bloc de branche droit",
+        "BBD"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Wells simplifié",
+      "definition": "Score clinique utilisé pour évaluer la probabilité de l'embolie pulmonaire basé sur des critères cliniques.",
+      "category": "classification",
+      "synonyms": [
+        "score de Wells"
+      ],
+      "related_terms": [
+        "score de Genève",
+        "score de probabilité clinique"
+      ],
+      "description": "Le score de Wells simplifié est un outil important pour évaluer la probabilité de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Le score de Wells simplifié est un outil clinique important pour évaluer la probabilité de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Wells",
+        "score de Wells simplifié"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioscanner thoracique spiralé multibarette",
+      "definition": "Technique d'imagerie utilisant un scanner à détecteurs multiples pour obtenir des images détaillées des structures thoraciques, souvent utilisée pour diagnostiquer des conditions telles que l'embolie pulmonaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner thoracique",
+        "tomodensitométrie thoracique"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "thrombus"
+      ],
+      "description": "Permet de visualiser les structures thoraciques avec une grande précision, y compris les vaisseaux sanguins et les poumons.",
+      "expansion": null,
+      "clinical_significance": "Examen de référence pour le diagnostic de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "angioscanner thoracique",
+        "scanner thoracique multibarette"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scintigraphie pulmonaire de perfusion-ventilation",
+      "definition": "Technique d'imagerie nucléaire utilisant des traceurs radioactifs pour évaluer la perfusion et la ventilation des poumons.",
+      "category": "imagerie",
+      "synonyms": [
+        "scintigraphie V/Q"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "perfusion pulmonaire"
+      ],
+      "description": "Utilisée pour diagnostiquer l'embolie pulmonaire en détectant des lacunes de perfusion.",
+      "expansion": null,
+      "clinical_significance": "Très sensible pour exclure l'embolie pulmonaire si normale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "scintigraphie pulmonaire",
+        "scintigraphie V/Q"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NT-pro-BNP",
+      "definition": "N-terminal pro B-type Natriuretic Peptide, un fragment inactif du BNP utilisé comme marqueur de l'insuffisance cardiaque.",
+      "category": "biologie",
+      "synonyms": [
+        "NT-pro-BNP"
+      ],
+      "related_terms": [
+        "BNP",
+        "insuffisance cardiaque"
+      ],
+      "description": "Élévation du NT-pro-BNP indique une dysfonction ou une dilatation du ventricule droit.",
+      "expansion": null,
+      "clinical_significance": "Signe de gravité dans l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NT-pro-BNP",
+        "marqueurs cardiaques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie doppler veineux des membres inférieurs",
+      "definition": "Examen d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les veines des membres inférieurs.",
+      "category": "imagerie",
+      "synonyms": [
+        "écho-doppler veineux"
+      ],
+      "related_terms": [
+        "échographie",
+        "doppler",
+        "thrombose veineuse profonde"
+      ],
+      "description": "L'échographie doppler veineux des membres inférieurs permet de détecter des thromboses veineuses profondes.",
+      "expansion": "Échographie doppler veineux des membres inférieurs",
+      "clinical_significance": "Utilisée pour orienter le diagnostic d'embolie pulmonaire en présence de thrombose veineuse profonde.",
+      "normal_values": "Flux sanguin normal sans thrombose",
+      "image_search_terms": [
+        "échographie doppler",
+        "thrombose veineuse profonde"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiographie des artères pulmonaires",
+      "definition": "Examen d'imagerie invasif utilisant un produit de contraste pour visualiser les artères pulmonaires.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie pulmonaire"
+      ],
+      "related_terms": [
+        "angiographie",
+        "artères pulmonaires"
+      ],
+      "description": "L'angiographie des artères pulmonaires est utilisée pour diagnostiquer des pathologies vasculaires pulmonaires.",
+      "expansion": "Angiographie des artères pulmonaires",
+      "clinical_significance": "Rarement pratiquée sauf en cas de recours à une embolectomie percutanée de sauvetage.",
+      "normal_values": "Artères pulmonaires normales sans obstruction",
+      "image_search_terms": [
+        "angiographie pulmonaire",
+        "embolie pulmonaire"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolectomie percutanée de sauvetage",
+      "definition": "Procédure interventionnelle visant à retirer un thrombus des artères pulmonaires par aspiration.",
+      "category": "imagerie",
+      "synonyms": [
+        "thrombo-aspiration"
+      ],
+      "related_terms": [
+        "embolectomie",
+        "thrombolyse"
+      ],
+      "description": "L'embolectomie percutanée de sauvetage est utilisée en cas d'échec de la thrombolyse pour traiter une embolie pulmonaire.",
+      "expansion": "Embolectomie percutanée de sauvetage",
+      "clinical_significance": "Procédure de dernier recours pour traiter une embolie pulmonaire massive.",
+      "normal_values": "Absence de thrombus dans les artères pulmonaires",
+      "image_search_terms": [
+        "embolectomie",
+        "thrombo-aspiration"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méso-systolo-diastolique",
+      "definition": "Terme décrivant un bruit cardiaque qui se produit à la fois pendant la systole et la diastole.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "systole",
+        "diastole"
+      ],
+      "description": "Un bruit méso-systolo-diastolique est un bruit cardiaque qui encadre les bruits du cœur B1 et B2.",
+      "expansion": "",
+      "clinical_significance": "Important pour l'évaluation des bruits cardiaques anormaux.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bruit méso-systolo-diastolique",
+        "auscultation cardiaque"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Holzman",
+      "definition": "Stades électriques de la péricardite aiguë, décrits par Holzman, qui incluent des modifications du segment ST et de l'onde T.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "ECG"
+      ],
+      "description": "Les stades de Holzman sont utilisés pour évaluer l'évolution électrique de la péricardite aiguë.",
+      "expansion": "",
+      "clinical_significance": "Important pour le suivi et le diagnostic de la péricardite aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "stades de Holzman",
+        "péricardite aiguë"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troponines I",
+      "definition": "Biomarqueurs spécifiques de la nécrose myocardique, utilisés pour diagnostiquer les infarctus du myocarde et les myocardites.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "myocardite",
+        "infarctus du myocarde"
+      ],
+      "description": "Les troponines I sont des marqueurs sensibles et spécifiques de la nécrose myocardique.",
+      "expansion": "",
+      "clinical_significance": "Indicateur crucial pour le diagnostic des infarctus du myocarde et des myocardites.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "troponines I",
+        "nécrose myocardique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardite néoplasique",
+      "definition": "Inflammation du péricarde causée par une tumeur maligne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "tumeur maligne"
+      ],
+      "description": "La péricardite néoplasique est souvent associée à un risque accru de tamponnade.",
+      "expansion": "",
+      "clinical_significance": "Condition nécessitant une évaluation rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péricardite néoplasique",
+        "tumeur maligne"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périmyocardite",
+      "definition": "Inflammation combinée du péricarde et du myocarde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "myocardite"
+      ],
+      "description": "La périmyocardite est une complication aiguë de la péricardite.",
+      "expansion": "",
+      "clinical_significance": "Condition nécessitant une évaluation rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "périmyocardite",
+        "inflammation péricardique et myocardique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardite virale",
+      "definition": "Inflammation du péricarde causée par une infection virale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "infection virale"
+      ],
+      "description": "La péricardite virale est souvent associée à un risque accru de rechute.",
+      "expansion": "",
+      "clinical_significance": "Condition nécessitant une évaluation rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péricardite virale",
+        "infection virale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardite tuberculeuse",
+      "definition": "Inflammation du péricarde causée par une infection à Mycobacterium tuberculosis.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péricardite",
+        "tuberculose"
+      ],
+      "description": "La péricardite tuberculeuse est souvent associée à un risque accru de constriction.",
+      "expansion": "",
+      "clinical_significance": "Condition nécessitant une évaluation rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péricardite tuberculeuse",
+        "tuberculose"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADIASTOLIE AIGUE",
+      "definition": "État pathologique où le cœur ne peut pas se remplir correctement en raison d'une compression des cavités cardiaques par un épanchement péricardique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tamponnade",
+        "épanchement péricardique"
+      ],
+      "description": "L'ADIASTOLIE AIGUE est une complication grave de la tamponnade cardiaque.",
+      "expansion": "",
+      "clinical_significance": "Condition potentiellement mortelle nécessitant une intervention immédiate.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ADIASTOLIE AIGUE",
+        "tamponnade cardiaque"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pouls paradoxal de Kussmaul",
+      "definition": "Baisse anormale de la pression artérielle systolique pendant l'inspiration, souvent observée dans la tamponnade cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tamponnade",
+        "pression artérielle"
+      ],
+      "description": "Le pouls paradoxal de Kussmaul est un signe clinique important de la tamponnade cardiaque.",
+      "expansion": "",
+      "clinical_significance": "Indicateur crucial de la tamponnade cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pouls paradoxal de Kussmaul",
+        "tamponnade cardiaque"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microvoltage",
+      "definition": "Réduction de l'amplitude des ondes de l'électrocardiogramme, souvent associée à des conditions comme le péricardite ou le myxœdème.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "ECG",
+        "repolarisation",
+        "alternance électrique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "repolarisation",
+      "definition": "Phase du cycle cardiaque où le muscle cardiaque se prépare pour une nouvelle contraction après une dépolarisation.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ECG",
+        "microvoltage",
+        "alternance électrique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alternance électrique",
+      "definition": "Variation de l'amplitude des ondes de l'électrocardiogramme d'un cycle cardiaque à l'autre, souvent observée dans les épanchements péricardiques importants.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "ECG",
+        "microvoltage",
+        "repolarisation"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "septum interventriculaire",
+      "definition": "Cloison musculaire séparant les ventricules droit et gauche du cœur.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "échographie cardiaque",
+        "épanchement péricardique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cinétique",
+      "definition": "Mouvement ou activité des structures cardiaques, souvent évalué par échocardiographie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "échocardiographie",
+        "épanchement péricardique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gadolinium",
+      "definition": "Agent de contraste utilisé en IRM pour améliorer la visualisation des structures internes du corps.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM",
+        "coronarographie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "blebs",
+      "definition": "Petites bulles d'air sous la plèvre, souvent associées à des maladies pulmonaires comme l'emphysème.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "emphysème",
+        "dystrophie bulleuse"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dystrophie bulleuse",
+      "definition": "Condition caractérisée par la formation de bulles d'air dans le tissu pulmonaire, souvent associée à l'emphysème.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "blebs",
+        "emphysème"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroses interstitielles",
+      "definition": "Maladies caractérisées par une inflammation et une cicatrisation du tissu interstitiel pulmonaire, entraînant une diminution de la fonction pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "histiocytose X",
+        "pneumoconioses"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "histiocytose X",
+      "definition": "Maladie rare caractérisée par une prolifération anormale de cellules histiocytaires, souvent affectant les poumons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibroses interstitielles",
+        "pneumoconioses"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumoconioses",
+      "definition": "Maladies pulmonaires causées par l'inhalation de poussières minérales, entraînant une inflammation et une fibrose du tissu pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibroses interstitielles",
+        "histiocytose X"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeurs bronchiques",
+      "definition": "Tumeurs se développant dans les bronches, souvent malignes et pouvant entraîner une obstruction des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "emphysème obstructif",
+        "asthme"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylococcie pulmonaire",
+      "definition": "Infection pulmonaire causée par des bactéries du genre Staphylococcus, souvent caractérisée par la formation de bulles d'air dans le tissu pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "DDB",
+        "mucoviscidose"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA/IRC",
+      "definition": "Insuffisance respiratoire aiguë ou chronique, une condition où les poumons ne peuvent pas fournir suffisamment d'oxygène au corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance respiratoire aiguë",
+        "insuffisance respiratoire chronique"
+      ],
+      "related_terms": [
+        "angor",
+        "embolie pulmonaire"
+      ],
+      "description": null,
+      "expansion": "Insuffisance respiratoire aiguë/chronique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "courbe de Damoiseau",
+      "definition": "Ligne bordante axillaire visible sur une radiographie de thorax, caractéristique d'une pleurésie.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "radiographie de thorax"
+      ],
+      "description": "La courbe de Damoiseau est une ligne visible sur une radiographie de thorax qui indique la présence d'une pleurésie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cul de sac pleural",
+      "definition": "Espace anatomique situé entre les feuillets viscéral et pariétal de la plèvre, où peut s'accumuler du liquide en cas de pleurésie.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "plèvre"
+      ],
+      "description": "Le cul de sac pleural est un espace où le liquide pleural peut s'accumuler, visible sur une radiographie de thorax.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémithorax blanc",
+      "definition": "Aspect radiologique d'un hémithorax complètement opacifié, souvent dû à une grande quantité de liquide pleural.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "radiographie de thorax"
+      ],
+      "description": "Un hémithorax blanc est un signe radiologique d'une grande quantité de liquide pleural, souvent associé à une déviation du médiastin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scissurite",
+      "definition": "Inflammation des scissures pulmonaires, souvent due à une infection ou une maladie inflammatoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "inflammation"
+      ],
+      "description": "La scissurite est une inflammation des scissures pulmonaires, souvent diagnostiquée par imagerie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pachypleurite",
+      "definition": "Épaississement de la plèvre, souvent dû à une inflammation chronique ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "épaississement pleural"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "inflammation"
+      ],
+      "description": "La pachypleurite est un épaississement de la plèvre, souvent diagnostiqué par imagerie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mésothéliome",
+      "definition": "Tumeur maligne de la plèvre, souvent associée à l'exposition à l'amiante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "tumeur"
+      ],
+      "description": "Le mésothéliome est une tumeur maligne de la plèvre, souvent diagnostiquée par biopsie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie pleurale",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser la plèvre et le liquide pleural.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "ultrasons"
+      ],
+      "description": "L'échographie pleurale est utilisée pour le repérage du point de ponction en cas de pleurésie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pleurésie exsudative",
+      "definition": "Type de pleurésie caractérisé par un liquide pleural riche en protéines, souvent dû à une infection ou une tumeur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "infection"
+      ],
+      "description": "La pleurésie exsudative est souvent diagnostiquée par analyse biochimique du liquide pleural.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pleurésie transudative",
+      "definition": "Type de pleurésie caractérisé par un liquide pleural pauvre en protéines, souvent dû à une insuffisance cardiaque ou rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "insuffisance cardiaque"
+      ],
+      "description": "La pleurésie transudative est souvent diagnostiquée par analyse biochimique du liquide pleural.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponction pleurale exploratrice",
+      "definition": "Procédure médicale consistant à prélever du liquide pleural pour analyse diagnostique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pleurésie",
+        "analyse biochimique"
+      ],
+      "description": "La ponction pleurale exploratrice permet d'orienter le diagnostic étiologique des pleurésies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infection aigue",
+      "definition": "Infection soudaine et sévère, souvent caractérisée par des symptômes intenses.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection aiguë"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "fièvre"
+      ],
+      "description": "L'infection aiguë du parenchyme pulmonaire est caractéristique de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "murmures vésiculaires",
+      "definition": "Bruits respiratoires normaux entendus à l'auscultation pulmonaire, produits par le passage de l'air dans les alvéoles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "auscultation",
+        "pneumonie"
+      ],
+      "description": "La diminution des murmures vésiculaires est un signe clinique de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "souffle tubaire",
+      "definition": "Bruit respiratoire anormal entendu à l'auscultation pulmonaire, souvent dû à une obstruction bronchique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "auscultation",
+        "pneumonie"
+      ],
+      "description": "Le souffle tubaire est un signe clinique de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détresse respiratoire aigüe",
+      "definition": "État critique caractérisé par une insuffisance respiratoire sévère et soudaine.",
+      "category": "pathologie",
+      "synonyms": [
+        "détresse respiratoire aiguë"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "insuffisance respiratoire"
+      ],
+      "description": "La détresse respiratoire aiguë est un signe de gravité de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "opacité parenchymateuse",
+      "definition": "Zone de densité accrue visible sur une radiographie de thorax, souvent due à une infection ou une inflammation pulmonaire.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "radiographie de thorax"
+      ],
+      "description": "L'opacité parenchymateuse est un signe radiologique de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchogramme aérien",
+      "definition": "Image radiologique des bronches remplies d'air, visible dans une opacité parenchymateuse.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "radiographie de thorax"
+      ],
+      "description": "Le bronchogramme aérien est un signe radiologique de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pleuro-pneumopathie",
+      "definition": "Infection combinée de la plèvre et du parenchyme pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "pleurésie"
+      ],
+      "description": "La pleuro-pneumopathie est une complication de la pneumonie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholécystite aigüe",
+      "definition": "Inflammation aiguë de la vésicule biliaire, souvent due à une obstruction par un calcul.",
+      "category": "pathologie",
+      "synonyms": [
+        "cholécystite aiguë"
+      ],
+      "related_terms": [
+        "vésicule biliaire",
+        "calcul"
+      ],
+      "description": "La cholécystite aiguë peut causer des douleurs thoraciques projetées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatalgies aigues",
+      "definition": "Douleurs aiguës du foie, souvent dues à une insuffisance cardiaque droite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "foie",
+        "insuffisance cardiaque"
+      ],
+      "description": "Les hépatalgies aiguës peuvent causer des douleurs thoraciques projetées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endoscopie œso-gastro-duodénale",
+      "definition": "Technique d'endoscopie utilisée pour visualiser l'œsophage, l'estomac et le duodénum.",
+      "category": "imagerie",
+      "synonyms": [
+        "FOGD"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "œsophage"
+      ],
+      "description": "L'endoscopie œso-gastro-duodénale est utilisée pour diagnostiquer les ulcères gastroduodénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pH -métrie",
+      "definition": "Mesure du pH dans l'œsophage pour diagnostiquer le reflux gastro-œsophagien.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "reflux gastro-œsophagien",
+        "œsophage"
+      ],
+      "description": "La pH -métrie est utilisée pour diagnostiquer les formes atypiques de reflux gastro-œsophagien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sapho",
+      "definition": "Syndrome caractérisé par la synovite, l'acné, la pustulose palmoplantaire, l'hyperostose et l'ostéite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "synovite",
+        "acné",
+        "pustulose palmoplantaire",
+        "hyperostose",
+        "ostéite"
+      ],
+      "description": "Ensemble de manifestations cliniques associées à des affections cutanées et osseuses.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des douleurs articulaires et cutanées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Sapho syndrome",
+        "synovite",
+        "pustulose palmoplantaire"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiculaire",
+      "definition": "Relatif aux racines nerveuses, souvent utilisé pour décrire des douleurs provenant des racines nerveuses de la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "radicular"
+      ],
+      "related_terms": [
+        "nerf",
+        "moelle épinière",
+        "douleur"
+      ],
+      "description": "Douleurs souvent ressenties le long des trajets nerveux, pouvant être causées par une compression ou une irritation des racines nerveuses.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des douleurs nerveuses et des pathologies de la colonne vertébrale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "radiculaire",
+        "nerf",
+        "moelle épinière"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "extramédullaires",
+      "definition": "Situé à l'extérieur de la moelle épinière, souvent utilisé pour décrire des tumeurs ou des lésions nerveuses.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "moelle épinière",
+        "tumeur",
+        "lésion nerveuse"
+      ],
+      "description": "Localisation anatomique importante pour le diagnostic et le traitement des pathologies nerveuses.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des tumeurs et des lésions nerveuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "extramédullaires",
+        "moelle épinière",
+        "tumeur nerveuse"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rétrosternales",
+      "definition": "Situé derrière le sternum, souvent utilisé pour décrire des douleurs ou des lésions dans cette région.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sternum",
+        "douleur thoracique",
+        "lésion"
+      ],
+      "description": "Localisation anatomique importante pour le diagnostic des douleurs thoraciques et des pathologies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des douleurs thoraciques et des pathologies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rétrosternales",
+        "sternum",
+        "douleur thoracique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermatomes",
+      "definition": "Zones de la peau innervées par une racine nerveuse spécifique de la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "innervation",
+        "moelle épinière",
+        "nerf"
+      ],
+      "description": "Important pour le diagnostic des neuropathies et des lésions nerveuses.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des neuropathies et des lésions nerveuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dermatomes",
+        "innervation",
+        "moelle épinière"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anorganique",
+      "definition": "Se réfère à des douleurs ou des symptômes sans cause organique identifiable, souvent d'origine psychogène.",
+      "category": "pathologie",
+      "synonyms": [
+        "psychogène"
+      ],
+      "related_terms": [
+        "douleur psychogène",
+        "symptôme fonctionnel",
+        "stress"
+      ],
+      "description": "Important pour le diagnostic différentiel des douleurs thoraciques et des symptômes fonctionnels.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des douleurs thoraciques et des symptômes fonctionnels.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anorganique",
+        "douleur psychogène",
+        "symptôme fonctionnel"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumothorax compressif",
+      "definition": "Accumulation d'air dans la cavité pleurale, comprimant le poumon et entraînant un collapsus pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumothorax sous tension"
+      ],
+      "related_terms": [
+        "cavité pleurale",
+        "collapsus pulmonaire",
+        "poumon"
+      ],
+      "description": "Urgence médicale nécessitant une intervention rapide pour évacuer l'air et rétablir la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des urgences pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumothorax compressif",
+        "pneumothorax sous tension",
+        "cavité pleurale"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESC Guidelines",
+      "definition": "Recommandations cliniques publiées par la Société Européenne de Cardiologie pour la gestion des maladies cardiovasculaires.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Société Européenne de Cardiologie",
+        "recommandations cliniques",
+        "maladies cardiovasculaires"
+      ],
+      "description": "Utilisées pour guider les pratiques cliniques et améliorer les soins aux patients atteints de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ESC Guidelines",
+        "Société Européenne de Cardiologie",
+        "recommandations cliniques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ST-segment elevation",
+      "definition": "Élévation du segment ST sur un électrocardiogramme, souvent indicative d'un infarctus du myocarde aigu.",
+      "category": "pathologie",
+      "synonyms": [
+        "élévation du segment ST"
+      ],
+      "related_terms": [
+        "électrocardiogramme",
+        "infarctus du myocarde",
+        "segment ST"
+      ],
+      "description": "Important pour le diagnostic des infarctus du myocarde et des urgences cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des infarctus du myocarde et des urgences cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ST-segment elevation",
+        "élévation du segment ST",
+        "électrocardiogramme"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aortic disease",
+      "definition": "Maladies affectant l'aorte, la plus grande artère du corps, souvent associées à des anévrismes, des dissections ou des inflammations.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies aortiques"
+      ],
+      "related_terms": [
+        "aorte",
+        "anévrisme",
+        "dissection"
+      ],
+      "description": "Important pour le diagnostic et la gestion des maladies vasculaires graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des maladies vasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Aortic disease",
+        "maladies aortiques",
+        "aorte"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pulmonary embolism",
+      "definition": "Obstruction d'une artère pulmonaire par un caillot sanguin, souvent provenant des veines des membres inférieurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "embolie pulmonaire"
+      ],
+      "related_terms": [
+        "caillot sanguin",
+        "artère pulmonaire",
+        "thrombose"
+      ],
+      "description": "Urgence médicale nécessitant une intervention rapide pour dissoudre le caillot et restaurer le flux sanguin.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des urgences pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pulmonary embolism",
+        "embolie pulmonaire",
+        "caillot sanguin"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pericardial diseases",
+      "definition": "Maladies affectant le péricarde, la membrane entourant le cœur, souvent associées à des inflammations, des infections ou des hémorragies.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies péricardiques"
+      ],
+      "related_terms": [
+        "péricarde",
+        "inflammation",
+        "hémorragie"
+      ],
+      "description": "Important pour le diagnostic et la gestion des maladies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pericardial diseases",
+        "maladies péricardiques",
+        "péricarde"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md"
+  ],
+  "total_terms": 131
+}

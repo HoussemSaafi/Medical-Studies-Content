@@ -1,0 +1,1454 @@
+{
+  "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+  "terms": [
+    {
+      "term": "ABO",
+      "definition": "Système de groupes sanguins défini par la présence ou l'absence des antigènes A et B sur les globules rouges.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Rhésus",
+        "antigène A",
+        "antigène B"
+      ],
+      "description": "Le système ABO est crucial pour la compatibilité transfusionnelle et la prévention des réactions hémolytiques.",
+      "expansion": "",
+      "clinical_significance": "La compatibilité ABO est essentielle pour éviter les réactions transfusionnelles graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "système ABO",
+        "antigènes ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D faible",
+      "definition": "Expression réduite de l'antigène D sur les globules rouges, détectable par des tests spécifiques comme le test de Coombs indirect.",
+      "category": "pathologie",
+      "synonyms": [
+        "Du"
+      ],
+      "related_terms": [
+        "Rhésus",
+        "antigène D",
+        "D partiel"
+      ],
+      "description": "Le D faible peut être détecté chez les donneurs de sang et les femmes enceintes pour éviter les complications transfusionnelles.",
+      "expansion": "",
+      "clinical_significance": "La détection du D faible est importante pour la sécurité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "D faible",
+        "test de Coombs indirect"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D partiel",
+      "definition": "Modification structurelle de l'antigène D sur les globules rouges, pouvant entraîner la formation d'anticorps anti-D.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Rhésus",
+        "antigène D",
+        "D faible"
+      ],
+      "description": "Les individus avec un D partiel peuvent développer des anticorps anti-D lorsqu'ils sont exposés à des globules rouges exprimant le D habituel.",
+      "expansion": "",
+      "clinical_significance": "La détection du D partiel est cruciale pour prévenir les réactions transfusionnelles.",
+      "normal_values": "",
+      "image_search_terms": [
+        "D partiel",
+        "anticorps anti-D"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémolysine",
+      "definition": "Anticorps capable de provoquer la lyse des globules rouges en présence de complément.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps anti-A",
+        "anticorps anti-B"
+      ],
+      "description": "Les hémolysines anti-A et anti-B peuvent provoquer des réactions hémolytiques graves en cas de transfusion incompatible.",
+      "expansion": "",
+      "clinical_significance": "La détection des hémolysines est cruciale pour prévenir les réactions transfusionnelles.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémolysine",
+        "anticorps anti-A",
+        "anticorps anti-B"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A1",
+      "definition": "Sous-groupe du groupe sanguin A, caractérisé par une forte expression de l'antigène A.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "A2",
+        "système ABO"
+      ],
+      "description": "Le sous-groupe A1 est important pour la compatibilité transfusionnelle et la prévention des réactions hémolytiques.",
+      "expansion": "",
+      "clinical_significance": "La distinction entre A1 et A2 est cruciale pour la sécurité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sous-groupe A1",
+        "système ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A2",
+      "definition": "Sous-groupe du groupe sanguin A, caractérisé par une expression plus faible de l'antigène A par rapport au sous-groupe A1.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "A1",
+        "système ABO"
+      ],
+      "description": "Le sous-groupe A2 est important pour la compatibilité transfusionnelle et la prévention des réactions hémolytiques.",
+      "expansion": "",
+      "clinical_significance": "La distinction entre A1 et A2 est cruciale pour la sécurité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sous-groupe A2",
+        "système ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycoprotéines",
+      "definition": "Protéines liées à des glucides, présentes dans les membranes cellulaires et impliquées dans divers processus biologiques.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "glycolipides",
+        "antigènes ABO"
+      ],
+      "description": "Les glycoprotéines jouent un rôle dans la structure des antigènes ABO sur les globules rouges.",
+      "expansion": "",
+      "clinical_significance": "Les glycoprotéines sont importantes pour la reconnaissance immunologique et la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycoprotéines",
+        "membrane cellulaire"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fucose",
+      "definition": "Sucre simple dérivé du mannose, impliqué dans la synthèse des antigènes ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigènes ABO",
+        "glycolipides"
+      ],
+      "description": "Le fucose est un composant clé dans la formation de l'antigène H, précurseur des antigènes A et B.",
+      "expansion": "",
+      "clinical_significance": "Le fucose est crucial pour la structure des antigènes ABO et la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "fucose",
+        "antigènes ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N acétyl galactosamine",
+      "definition": "Sucre spécifique de l'antigène A dans le système ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène A",
+        "système ABO"
+      ],
+      "description": "La N acétyl galactosamine est un composant clé de l'antigène A, déterminant le groupe sanguin A.",
+      "expansion": "",
+      "clinical_significance": "La N acétyl galactosamine est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "N acétyl galactosamine",
+        "antigène A"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycosyltransférases",
+      "definition": "Enzymes qui catalysent le transfert de sucres sur des substrats spécifiques, impliquées dans la synthèse des antigènes ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigènes ABO",
+        "N acétyl galactosaminyl transférase",
+        "D galactosyl transférase"
+      ],
+      "description": "Les glycosyltransférases jouent un rôle clé dans la formation des antigènes A et B.",
+      "expansion": "",
+      "clinical_significance": "Les glycosyltransférases sont importantes pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycosyltransférases",
+        "antigènes ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N-acétyl galactosaminyl transférase",
+      "definition": "Enzyme spécifique qui catalyse le transfert de la N acétyl galactosamine sur l'antigène H pour former l'antigène A.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène A",
+        "système ABO",
+        "glycosyltransférases"
+      ],
+      "description": "La N-acétyl galactosaminyl transférase est essentielle pour la formation de l'antigène A.",
+      "expansion": "",
+      "clinical_significance": "La N-acétyl galactosaminyl transférase est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "N-acétyl galactosaminyl transférase",
+        "antigène A"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D galactosyl transférase",
+      "definition": "Enzyme spécifique qui catalyse le transfert du galactose sur l'antigène H pour former l'antigène B.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène B",
+        "système ABO",
+        "glycosyltransférases"
+      ],
+      "description": "La D galactosyl transférase est essentielle pour la formation de l'antigène B.",
+      "expansion": "",
+      "clinical_significance": "La D galactosyl transférase est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "D galactosyl transférase",
+        "antigène B"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéines transmembranaires",
+      "definition": "Protéines qui traversent la membrane cellulaire, impliquées dans divers processus biologiques.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène D",
+        "Rhésus"
+      ],
+      "description": "Les protéines transmembranaires jouent un rôle dans la structure des antigènes Rhésus sur les globules rouges.",
+      "expansion": "",
+      "clinical_significance": "Les protéines transmembranaires sont importantes pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "protéines transmembranaires",
+        "membrane cellulaire"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "érythrocytaires",
+      "definition": "Relatif aux érythrocytes ou globules rouges.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "groupes sanguins",
+        "antigènes"
+      ],
+      "description": "Les caractéristiques érythrocytaires sont cruciales pour la compatibilité transfusionnelle et la prévention des réactions hémolytiques.",
+      "expansion": "",
+      "clinical_significance": "Les caractéristiques érythrocytaires sont essentielles pour la sécurité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "érythrocytaires",
+        "globules rouges"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MHNN",
+      "definition": "Maladie hémolytique du nouveau-né, causée par l'incompatibilité entre les antigènes maternels et fœtaux, souvent due aux anticorps anti-D.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie hémolytique du nouveau-né"
+      ],
+      "related_terms": [
+        "anticorps anti-D",
+        "Rhésus"
+      ],
+      "description": "La MHNN est une complication grave qui peut survenir lorsque les anticorps maternels traversent le placenta et attaquent les globules rouges du fœtus.",
+      "expansion": "",
+      "clinical_significance": "La prévention de la MHNN est cruciale pour la santé du nouveau-né.",
+      "normal_values": "",
+      "image_search_terms": [
+        "MHNN",
+        "maladie hémolytique du nouveau-né"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémolysines",
+      "definition": "Anticorps capables de provoquer la lyse des globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps hémolytiques"
+      ],
+      "related_terms": [
+        "anticorps anti-A",
+        "anticorps anti-B"
+      ],
+      "description": "Les hémolysines sont des anticorps immuns de type IgG qui peuvent causer des réactions hémolytiques en transfusion.",
+      "expansion": "",
+      "clinical_significance": "Dangereux en transfusion et responsables d'accidents hémolytiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémolysines",
+        "anticorps hémolytiques"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag ABH",
+      "definition": "Antigènes de surface des globules rouges déterminés par les systèmes génétiques ABO et Hh.",
+      "category": "anatomie",
+      "synonyms": [
+        "antigènes ABH"
+      ],
+      "related_terms": [
+        "glycosyl-transférases",
+        "fucosyl-transférase"
+      ],
+      "description": "Les antigènes ABH sont des déterminants antigéniques présents sur les globules rouges et sont synthétisés par des enzymes spécifiques.",
+      "expansion": "",
+      "clinical_significance": "Importants pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "antigènes ABH",
+        "glycosyl-transférases"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RHD",
+      "definition": "Gène codant pour l'antigène D du système Rhésus.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "RhD",
+        "antigène D"
+      ],
+      "description": "Le gène RHD est responsable de l'expression de l'antigène D, déterminant le phénotype Rhésus positif.",
+      "expansion": "",
+      "clinical_significance": "Critique pour la compatibilité transfusionnelle et la prévention de l'allo-immunisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gène RHD",
+        "antigène D"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RHCE",
+      "definition": "Gène codant pour les antigènes C, c, E et e du système Rhésus.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "antigène C",
+        "antigène c",
+        "antigène E",
+        "antigène e"
+      ],
+      "description": "Le gène RHCE exprime différents antigènes en fonction de ses allèles, influençant la compatibilité transfusionnelle.",
+      "expansion": "",
+      "clinical_significance": "Important pour la compatibilité transfusionnelle, surtout chez les femmes en âge de procréer.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gène RHCE",
+        "antigènes Rhésus"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fucosyl-transférase",
+      "definition": "Enzyme qui ajoute un fucose à l'extrémité terminale de la chaîne oligosaccharidique de base, formant l'antigène H.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glycosyl-transférases",
+        "antigène H"
+      ],
+      "description": "La fucosyl-transférase est essentielle pour la synthèse de l'antigène H, un précurseur des antigènes A et B.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la détermination des groupes sanguins ABO.",
+      "normal_values": "",
+      "image_search_terms": [
+        "fucosyl-transférase",
+        "antigène H"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N-acétyl-galactosamine-transférase",
+      "definition": "Enzyme qui ajoute une N-acétyl-galactosamine sur l'antigène H pour former l'antigène A.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "enzyme A",
+        "antigène A"
+      ],
+      "description": "La N-acétyl-galactosamine-transférase est cruciale pour la synthèse de l'antigène A dans le système ABO.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la détermination des groupes sanguins ABO.",
+      "normal_values": "",
+      "image_search_terms": [
+        "N-acétyl-galactosamine-transférase",
+        "antigène A"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "galactosyl-transférase",
+      "definition": "Enzyme qui ajoute un galactose sur l'antigène H pour former l'antigène B.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "enzyme B",
+        "antigène B"
+      ],
+      "description": "La galactosyl-transférase est essentielle pour la synthèse de l'antigène B dans le système ABO.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la détermination des groupes sanguins ABO.",
+      "normal_values": "",
+      "image_search_terms": [
+        "galactosyl-transférase",
+        "antigène B"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bombay",
+      "definition": "Phénotype rare caractérisé par l'absence de l'antigène H, dû à la présence homozygote de l'allèle h non fonctionnel.",
+      "category": "pathologie",
+      "synonyms": [
+        "phénotype Bombay"
+      ],
+      "related_terms": [
+        "antigène H",
+        "allèle h"
+      ],
+      "description": "Le phénotype Bombay est rare et peut compliquer les transfusions sanguines en raison de l'absence de l'antigène H.",
+      "expansion": "",
+      "clinical_significance": "Important pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "phénotype Bombay",
+        "antigène H"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lewis",
+      "definition": "Système de groupes sanguins associé au système ABO, impliquant des antigènes de surface des globules rouges.",
+      "category": "classification",
+      "synonyms": [
+        "système Lewis"
+      ],
+      "related_terms": [
+        "MNSs",
+        "P",
+        "Lutheran"
+      ],
+      "description": "Le système Lewis est lié au système ABO et joue un rôle dans la compatibilité transfusionnelle.",
+      "expansion": "",
+      "clinical_significance": "Important pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "système Lewis",
+        "groupes sanguins Lewis"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Le^a",
+      "definition": "Antigène du système Lewis, définissant les phénotypes Le(a+b-), Le(a-b+), Le(a-b-), et Le(a+b+).",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Le^b",
+        "Lewis"
+      ],
+      "description": "L'antigène Le^a est un marqueur important dans le système Lewis.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Le^a antigen",
+        "Lewis blood group"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Le^b",
+      "definition": "Antigène du système Lewis, définissant les phénotypes Le(a+b-), Le(a-b+), Le(a-b-), et Le(a+b+).",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Le^a",
+        "Lewis"
+      ],
+      "description": "L'antigène Le^b est un marqueur important dans le système Lewis.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Le^b antigen",
+        "Lewis blood group"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-Lewis",
+      "definition": "Anticorps naturels irréguliers, essentiellement de type IgM, dirigés contre les antigènes Lewis.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Lewis",
+        "IgM"
+      ],
+      "description": "Ces anticorps ont peu d'intérêt en transfusion et ne passent pas la barrière foeto-placentaire.",
+      "expansion": "",
+      "clinical_significance": "Non impliqués dans la maladie hémolytique du nouveau-né.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Anti-Lewis antibodies",
+        "IgM antibodies"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie hémolytique du nouveau-né (MHNN)",
+      "definition": "Condition où les anticorps maternels traversent le placenta et attaquent les globules rouges du fœtus, provoquant une hémolyse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps anti-Lewis",
+        "anticorps anti-M",
+        "anticorps anti-S"
+      ],
+      "description": "La MHNN peut être causée par divers anticorps maternels, mais les anticorps anti-Lewis ne sont pas impliqués.",
+      "expansion": "",
+      "clinical_significance": "Peut être sévère ou fatale si non traitée.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Hemolytic disease of the newborn",
+        "MHNN"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MNSs",
+      "definition": "Système de groupe sanguin avec deux paires d'antigènes antithétiques M/N et S/s.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "M",
+        "N",
+        "S",
+        "s"
+      ],
+      "description": "Les anticorps anti-M et anti-N ont peu d'intérêt clinique, tandis que les anticorps anti-S et anti-s peuvent causer des réactions transfusionnelles et des MHNN sévères.",
+      "expansion": "",
+      "clinical_significance": "Les anticorps anti-S et anti-s sont des anticorps immuns pouvant causer des réactions transfusionnelles graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "MNSs blood group",
+        "MNSs antigens"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kell",
+      "definition": "Système de groupe sanguin très immunogène, avec les antigènes K et k portés par une glycoprotéine membranaire.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "K",
+        "k",
+        "Ac anti-K"
+      ],
+      "description": "Le système Kell est le plus immunogène après le système RHD, pouvant causer des accidents hémolytiques post-transfusionnels et une MHNN.",
+      "expansion": "",
+      "clinical_significance": "Les anticorps anti-K sont des anticorps immuns dangereux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Kell blood group",
+        "Kell antigens"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Duffy",
+      "definition": "Système de groupe sanguin avec les antigènes Fya et Fyb, définissant quatre phénotypes.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Fya",
+        "Fyb",
+        "Ac anti-Fya",
+        "Ac anti-Fyb"
+      ],
+      "description": "Les anticorps anti-Fya et anti-Fyb peuvent être impliqués dans des accidents hémolytiques post-transfusionnels ou dans la MHNN.",
+      "expansion": "",
+      "clinical_significance": "Respect du phénotype Duffy indiqué en cas d'immunisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Duffy blood group",
+        "Duffy antigens"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kidd",
+      "definition": "Système de groupe sanguin avec les antigènes Jka et Jkb, définissant quatre phénotypes.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Jka",
+        "Jkb",
+        "Ac anti-Jka",
+        "Ac anti-Jkb"
+      ],
+      "description": "Les anticorps anti-Jka et anti-Jkb peuvent être impliqués dans des accidents hémolytiques post-transfusionnels ou dans la MHNN.",
+      "expansion": "",
+      "clinical_significance": "Respect du phénotype Kidd indiqué en cas d'immunisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Kidd blood group",
+        "Kidd antigens"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cryoprécipité",
+      "definition": "Produit sanguin obtenu par cryoprécipitation du plasma frais congelé, utilisé pour traiter des déficits en facteurs de coagulation spécifiques.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "PFC",
+        "hémophilie A",
+        "maladie de Willebrand"
+      ],
+      "description": "Le cryoprécipité est utilisé pour traiter l'hémophilie A, la maladie de Willebrand, et d'autres coagulopathies de consommation.",
+      "expansion": "",
+      "clinical_significance": "De plus en plus abandonné en raison du risque viral résiduel et de la disponibilité de concentrés de facteurs de coagulation spécifiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Cryoprecipitate",
+        "Blood product"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémophilie A",
+      "definition": "Trouble hémorragique héréditaire causé par un déficit en facteur VIII de la coagulation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Cryoprécipité",
+        "maladie de Willebrand"
+      ],
+      "description": "L'hémophilie A est caractérisée par des saignements prolongés et nécessite un traitement par remplacement du facteur VIII.",
+      "expansion": "",
+      "clinical_significance": "Traitement par cryoprécipité ou concentrés de facteur VIII.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Hemophilia A",
+        "Factor VIII deficiency"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Willebrand",
+      "definition": "Trouble hémorragique héréditaire causé par un déficit ou un dysfonctionnement du facteur de von Willebrand.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Cryoprécipité",
+        "hémophilie A"
+      ],
+      "description": "La maladie de Willebrand est caractérisée par des saignements prolongés et nécessite un traitement par remplacement du facteur de von Willebrand.",
+      "expansion": "",
+      "clinical_significance": "Traitement par cryoprécipité ou concentrés de facteur de von Willebrand.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Von Willebrand disease",
+        "VWD"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur VIII anti-hémophilique A",
+      "definition": "Protéine essentielle dans le processus de coagulation sanguine, dont la déficience est associée à l'hémophilie A.",
+      "category": "pathologie",
+      "synonyms": [
+        "Facteur VIII"
+      ],
+      "related_terms": [
+        "hémophilie A"
+      ],
+      "description": "Le facteur VIII est un cofacteur nécessaire pour l'activation du facteur X dans la voie intrinsèque de la coagulation.",
+      "expansion": null,
+      "clinical_significance": "Déficience en facteur VIII entraîne une hémophilie A, caractérisée par des saignements prolongés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur IX anti-hémophilique B",
+      "definition": "Protéine impliquée dans la coagulation sanguine, dont la déficience est liée à l'hémophilie B.",
+      "category": "pathologie",
+      "synonyms": [
+        "Facteur IX"
+      ],
+      "related_terms": [
+        "hémophilie B"
+      ],
+      "description": "Le facteur IX est une sérine protéase qui joue un rôle crucial dans la voie intrinsèque de la coagulation.",
+      "expansion": null,
+      "clinical_significance": "Déficience en facteur IX entraîne une hémophilie B, caractérisée par des saignements prolongés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Complexe prothrombinique (PPSB)",
+      "definition": "Complexe de facteurs de coagulation contenant la prothrombine (facteur II), la proconvertine (facteur VII), le facteur Stuart (facteur X) et le facteur IX.",
+      "category": "pathologie",
+      "synonyms": [
+        "PPSB"
+      ],
+      "related_terms": [
+        "Prothrombine",
+        "Proconvertine",
+        "Facteur Stuart",
+        "Facteur IX"
+      ],
+      "description": "Le complexe prothrombinique est utilisé pour traiter les déficits en ces facteurs de coagulation.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans le traitement des hémorragies et des déficits en facteurs de coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémorragies",
+      "definition": "Perte de sang excessive pouvant être interne ou externe, souvent due à une lésion vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "saignements"
+      ],
+      "related_terms": [
+        "anti-vitamine K"
+      ],
+      "description": "Les hémorragies peuvent être causées par des traumatismes, des troubles de la coagulation ou des maladies vasculaires.",
+      "expansion": null,
+      "clinical_significance": "Les hémorragies sévères peuvent être potentiellement mortelles si non traitées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypovitaminose K",
+      "definition": "Déficience en vitamine K, essentielle pour la synthèse des facteurs de coagulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "déficit en vitamine K"
+      ],
+      "related_terms": [
+        "facteurs de coagulation"
+      ],
+      "description": "La vitamine K est nécessaire pour l'activation des facteurs de coagulation II, VII, IX et X.",
+      "expansion": null,
+      "clinical_significance": "L'hypovitaminose K peut entraîner des troubles de la coagulation et des saignements.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ig anti-D",
+      "definition": "Immunoglobulines spécifiques dirigées contre l'antigène D du système Rhésus, utilisées pour prévenir l'alloimmunisation.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-D"
+      ],
+      "related_terms": [
+        "Ag D",
+        "alloimmunisation"
+      ],
+      "description": "Les Ig anti-D sont utilisées pour prévenir la formation d'anticorps anti-D chez les femmes Rhésus négatif après une grossesse avec un fœtus Rhésus positif.",
+      "expansion": null,
+      "clinical_significance": "Prévient la maladie hémolytique du nouveau-né.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ig anti-HBs",
+      "definition": "Immunoglobulines spécifiques dirigées contre l'antigène de surface de l'hépatite B, utilisées pour la prévention de l'hépatite B.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-HBs"
+      ],
+      "related_terms": [
+        "hépatite B"
+      ],
+      "description": "Les Ig anti-HBs sont utilisées pour la prophylaxie post-exposition à l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Prévient l'infection par le virus de l'hépatite B après une exposition accidentelle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ig anti-tétanos",
+      "definition": "Immunoglobulines spécifiques dirigées contre la toxine tétanique, utilisées pour la prévention du tétanos.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-tétanos"
+      ],
+      "related_terms": [
+        "tétanos"
+      ],
+      "description": "Les Ig anti-tétanos sont utilisées pour la prophylaxie post-exposition au tétanos.",
+      "expansion": null,
+      "clinical_significance": "Prévient le tétanos après une blessure contaminée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ig anti-rubéole",
+      "definition": "Immunoglobulines spécifiques dirigées contre le virus de la rubéole, utilisées pour la prévention de la rubéole.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-rubéole"
+      ],
+      "related_terms": [
+        "rubéole"
+      ],
+      "description": "Les Ig anti-rubéole sont utilisées pour la prophylaxie post-exposition à la rubéole.",
+      "expansion": null,
+      "clinical_significance": "Prévient la rubéole après une exposition accidentelle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Test de Coombs direct",
+      "definition": "Test utilisé pour détecter la présence d'anticorps ou de complément fixés in vivo à la surface des globules rouges.",
+      "category": "imagerie",
+      "synonyms": [
+        "test à l'antiglobuline"
+      ],
+      "related_terms": [
+        "hémolyse",
+        "anticorps",
+        "complément",
+        "GR"
+      ],
+      "description": "Le test de Coombs direct est utilisé pour confirmer le mécanisme immunologique d'une hémolyse.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans le diagnostic des anémies hémolytiques auto-immunes et des incompatibilités fœto-maternelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-immunoglobuline humaine polyvalente",
+      "definition": "Réactif utilisé dans le test de Coombs direct pour détecter la présence d'anticorps ou de complément fixés aux globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-IgG",
+        "anticomplément"
+      ],
+      "related_terms": [
+        "IgG",
+        "C3"
+      ],
+      "description": "L'anti-immunoglobuline humaine polyvalente reconnaît à la fois les IgG et le C3 humain activé.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour préciser la nature de la positivité du test de Coombs direct.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anémies hémolytiques auto-immunes",
+      "definition": "Anémies causées par la destruction prématurée des globules rouges par des auto-anticorps.",
+      "category": "pathologie",
+      "synonyms": [
+        "AHAI"
+      ],
+      "related_terms": [
+        "auto-anticorps"
+      ],
+      "description": "Les anémies hémolytiques auto-immunes sont caractérisées par une destruction accrue des globules rouges par le système immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anémie sévère et nécessiter un traitement immunosuppresseur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anémies hémolytiques immuno-allergiques",
+      "definition": "Anémies causées par la destruction des globules rouges due à une réaction immuno-allergique.",
+      "category": "pathologie",
+      "synonyms": [
+        "AHIA"
+      ],
+      "related_terms": [
+        "anticorps",
+        "complément"
+      ],
+      "description": "Les anémies hémolytiques immuno-allergiques sont souvent causées par des réactions allergiques à des médicaments ou à des substances étrangères.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter l'identification et l'éviction de l'agent causal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Test de Coombs Indirect",
+      "definition": "Test utilisé pour détecter les anticorps IgG contre les globules rouges présents dans le plasma d'un patient.",
+      "category": "imagerie",
+      "synonyms": [
+        "test indirect à l'antiglobuline"
+      ],
+      "related_terms": [
+        "Ac IgG",
+        "GR"
+      ],
+      "description": "Le test de Coombs indirect est utilisé pour détecter les anticorps IgG contre les globules rouges dans le plasma.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans la recherche d'anticorps irréguliers et le test de compatibilité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Recherche d'anticorps irréguliers (RAI)",
+      "definition": "Test utilisé pour détecter et identifier les anticorps dirigés contre les antigènes érythrocytaires les plus immunogènes.",
+      "category": "imagerie",
+      "synonyms": [
+        "RAI"
+      ],
+      "related_terms": [
+        "anticorps",
+        "Ag érythrocytaires"
+      ],
+      "description": "La RAI est utilisée pour détecter les anticorps correspondants aux antigènes érythrocytaires les plus immunogènes.",
+      "expansion": null,
+      "clinical_significance": "Utilisée chez les polytransfusés et les multipares pour prévenir les réactions transfusionnelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Test de compatibilité",
+      "definition": "Test utilisé pour déterminer la compatibilité entre le sérum du receveur et les globules rouges à transfuser.",
+      "category": "imagerie",
+      "synonyms": [
+        "EDCL"
+      ],
+      "related_terms": [
+        "TCI"
+      ],
+      "description": "Le test de compatibilité permet une attribution nominative du produit érythrocytaire compatible.",
+      "expansion": null,
+      "clinical_significance": "Obligatoire avant toute transfusion de produit érythrocytaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phénotypes érythrocytaires",
+      "definition": "Caractéristiques antigéniques présentes à la surface des globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "phénotypes des GR"
+      ],
+      "related_terms": [
+        "D faible"
+      ],
+      "description": "Les phénotypes érythrocytaires sont déterminés par la présence ou l'absence de certains antigènes à la surface des globules rouges.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compatibilité transfusionnelle et la prévention des réactions transfusionnelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Groupage sanguin ABO / RhD",
+      "definition": "Détermination des groupes sanguins ABO et RhD pour assurer la compatibilité transfusionnelle.",
+      "category": "imagerie",
+      "synonyms": [
+        "groupage ABO",
+        "groupage RhD"
+      ],
+      "related_terms": [
+        "CGR",
+        "PFC"
+      ],
+      "description": "Le groupage sanguin ABO / RhD est essentiel pour prévenir les réactions transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": "Obligatoire avant toute transfusion de concentrés globulaires ou de plasma frais congelé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CGR",
+      "definition": "Concentrés de globules rouges, produit sanguin utilisé pour la transfusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "concentrés globulaires"
+      ],
+      "related_terms": [
+        "ABO",
+        "RhD"
+      ],
+      "description": "Les CGR sont utilisés pour traiter les anémies sévères et les hémorragies.",
+      "expansion": null,
+      "clinical_significance": "La transfusion de CGR doit respecter la compatibilité ABO et RhD.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phénotypage Rhésus et Kell",
+      "definition": "Détermination de l'expression des antigènes Rhésus et Kell à la surface des globules rouges.",
+      "category": "imagerie",
+      "synonyms": [
+        "phénotypage Rh",
+        "phénotypage Kell"
+      ],
+      "related_terms": [
+        "E",
+        "e",
+        "C",
+        "c",
+        "K"
+      ],
+      "description": "Le phénotypage Rhésus et Kell est utilisé pour déterminer la compatibilité transfusionnelle.",
+      "expansion": null,
+      "clinical_significance": "Indiqué chez la petite fille, la femme en âge de procréer et le polytransfusé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Epreuve de compatibilité",
+      "definition": "Test utilisé pour déterminer la compatibilité entre le sérum du receveur et les globules rouges à transfuser.",
+      "category": "imagerie",
+      "synonyms": [
+        "EDCL"
+      ],
+      "related_terms": [
+        "TCI"
+      ],
+      "description": "L'épreuve de compatibilité permet une attribution nominative du produit érythrocytaire compatible.",
+      "expansion": null,
+      "clinical_significance": "Obligatoire avant toute transfusion de produit érythrocytaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac réguliers",
+      "definition": "Anticorps naturels présents dans le sang, dirigés contre les antigènes A et B du système ABO.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps naturels"
+      ],
+      "related_terms": [
+        "anticorps anti-A",
+        "anticorps anti-B"
+      ],
+      "description": "Les anticorps réguliers sont responsables des réactions transfusionnelles hémolytiques en cas d'incompatibilité ABO.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la compatibilité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps réguliers",
+        "anticorps naturels"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ABO-RHD",
+      "definition": "Système de groupes sanguins combinant les systèmes ABO et Rhésus (RhD).",
+      "category": "pathologie",
+      "synonyms": [
+        "système ABO-RhD"
+      ],
+      "related_terms": [
+        "système ABO",
+        "système Rhésus"
+      ],
+      "description": "Le système ABO-RHD est crucial pour la compatibilité transfusionnelle et la prévention des réactions hémolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la sécurité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système ABO-RHD",
+        "groupes sanguins ABO-RhD"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rh-Kell",
+      "definition": "Systèmes de groupes sanguins Rhésus et Kell, importants pour la compatibilité transfusionnelle.",
+      "category": "pathologie",
+      "synonyms": [
+        "système Rh-Kell"
+      ],
+      "related_terms": [
+        "système Rhésus",
+        "système Kell"
+      ],
+      "description": "Les systèmes Rh-Kell sont essentiels pour éviter les réactions transfusionnelles hémolytiques.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la compatibilité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système Rh-Kell",
+        "groupes sanguins Rh-Kell"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-érythrocytaires",
+      "definition": "Anticorps dirigés contre les antigènes des globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anti-érythrocytaires"
+      ],
+      "related_terms": [
+        "anticorps anti-A",
+        "anticorps anti-B"
+      ],
+      "description": "Ces anticorps peuvent provoquer des réactions transfusionnelles hémolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compatibilité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-érythrocytaires",
+        "anticorps érythrocytaires"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PSL",
+      "definition": "Produits Sanguins Labiles, incluant les globules rouges, les plaquettes et le plasma.",
+      "category": "pathologie",
+      "synonyms": [
+        "produits sanguins labiles"
+      ],
+      "related_terms": [
+        "CGR",
+        "plaquettes",
+        "plasma"
+      ],
+      "description": "Les PSL sont utilisés pour diverses indications médicales, y compris les transfusions sanguines.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour le traitement de diverses conditions médicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "produits sanguins labiles",
+        "PSL"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TRALI",
+      "definition": "Transfusion-Related Acute Lung Injury, une complication transfusionnelle caractérisée par une insuffisance respiratoire aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "lésion pulmonaire aiguë liée à la transfusion"
+      ],
+      "related_terms": [
+        "insuffisance respiratoire",
+        "transfusion"
+      ],
+      "description": "Le TRALI est une complication grave des transfusions sanguines, souvent due à des anticorps anti-HLA ou anti-granulocytes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la sécurité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TRALI",
+        "lésion pulmonaire aiguë liée à la transfusion"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag HLA",
+      "definition": "Antigènes des leucocytes humains, un système de gènes qui code pour des protéines présentes à la surface des cellules et qui jouent un rôle crucial dans le système immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigènes HLA"
+      ],
+      "related_terms": [
+        "compatibilité tissulaire",
+        "greffe d'organe"
+      ],
+      "description": "Les antigènes HLA sont importants pour la compatibilité des greffes d'organes et de tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HPA-1b",
+      "definition": "Human Platelet Antigen-1b, un antigène plaquettaire spécifique présent à la surface des plaquettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigène plaquettaire 1b"
+      ],
+      "related_terms": [
+        "HPA-1a",
+        "purpura post-transfusionnel"
+      ],
+      "description": "L'antigène HPA-1b est impliqué dans certaines réactions immunologiques post-transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HPA-1a",
+      "definition": "Human Platelet Antigen-1a, un antigène plaquettaire spécifique présent à la surface des plaquettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigène plaquettaire 1a"
+      ],
+      "related_terms": [
+        "HPA-1b",
+        "purpura post-transfusionnel"
+      ],
+      "description": "L'antigène HPA-1a est impliqué dans certaines réactions immunologiques post-transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GvH",
+      "definition": "Graft versus Host Disease, une complication grave où les cellules immunitaires du greffon attaquent les tissus de l'hôte.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "réaction du greffon contre l'hôte",
+        "transplantation"
+      ],
+      "description": "La GvH est une complication potentiellement mortelle après une greffe de cellules souches ou d'organes.",
+      "expansion": "Graft versus Host Disease",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lc T",
+      "definition": "Lymphocytes T, un type de globules blancs qui jouent un rôle central dans la réponse immunitaire adaptative.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules T"
+      ],
+      "related_terms": [
+        "lymphocytes B",
+        "réponse immunitaire"
+      ],
+      "description": "Les lymphocytes T sont essentiels pour la défense contre les infections et les cellules cancéreuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-plasmodium",
+      "definition": "Anticorps dirigés contre les antigènes du parasite Plasmodium, utilisé pour le dépistage du paludisme.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anticorps anti-Plasmodium"
+      ],
+      "related_terms": [
+        "Plasmodium",
+        "Paludisme"
+      ],
+      "description": "Les anticorps anti-plasmodium sont utilisés pour détecter une infection par le parasite Plasmodium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Anticorps anti-plasmodium",
+        "Plasmodium"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md"
+  ],
+  "total_terms": 68
+}

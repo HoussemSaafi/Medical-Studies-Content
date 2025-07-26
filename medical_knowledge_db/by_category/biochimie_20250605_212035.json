@@ -1,0 +1,157 @@
+{
+  "category": "biochimie",
+  "terms": [
+    {
+      "term": "glycoprotéines",
+      "definition": "Protéines liées à des glucides, présentes dans les membranes cellulaires et impliquées dans divers processus biologiques.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "glycolipides",
+        "antigènes ABO"
+      ],
+      "description": "Les glycoprotéines jouent un rôle dans la structure des antigènes ABO sur les globules rouges.",
+      "expansion": "",
+      "clinical_significance": "Les glycoprotéines sont importantes pour la reconnaissance immunologique et la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycoprotéines",
+        "membrane cellulaire"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fucose",
+      "definition": "Sucre simple dérivé du mannose, impliqué dans la synthèse des antigènes ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigènes ABO",
+        "glycolipides"
+      ],
+      "description": "Le fucose est un composant clé dans la formation de l'antigène H, précurseur des antigènes A et B.",
+      "expansion": "",
+      "clinical_significance": "Le fucose est crucial pour la structure des antigènes ABO et la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "fucose",
+        "antigènes ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N acétyl galactosamine",
+      "definition": "Sucre spécifique de l'antigène A dans le système ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène A",
+        "système ABO"
+      ],
+      "description": "La N acétyl galactosamine est un composant clé de l'antigène A, déterminant le groupe sanguin A.",
+      "expansion": "",
+      "clinical_significance": "La N acétyl galactosamine est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "N acétyl galactosamine",
+        "antigène A"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycosyltransférases",
+      "definition": "Enzymes qui catalysent le transfert de sucres sur des substrats spécifiques, impliquées dans la synthèse des antigènes ABO.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigènes ABO",
+        "N acétyl galactosaminyl transférase",
+        "D galactosyl transférase"
+      ],
+      "description": "Les glycosyltransférases jouent un rôle clé dans la formation des antigènes A et B.",
+      "expansion": "",
+      "clinical_significance": "Les glycosyltransférases sont importantes pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycosyltransférases",
+        "antigènes ABO"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N-acétyl galactosaminyl transférase",
+      "definition": "Enzyme spécifique qui catalyse le transfert de la N acétyl galactosamine sur l'antigène H pour former l'antigène A.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène A",
+        "système ABO",
+        "glycosyltransférases"
+      ],
+      "description": "La N-acétyl galactosaminyl transférase est essentielle pour la formation de l'antigène A.",
+      "expansion": "",
+      "clinical_significance": "La N-acétyl galactosaminyl transférase est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "N-acétyl galactosaminyl transférase",
+        "antigène A"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D galactosyl transférase",
+      "definition": "Enzyme spécifique qui catalyse le transfert du galactose sur l'antigène H pour former l'antigène B.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène B",
+        "système ABO",
+        "glycosyltransférases"
+      ],
+      "description": "La D galactosyl transférase est essentielle pour la formation de l'antigène B.",
+      "expansion": "",
+      "clinical_significance": "La D galactosyl transférase est cruciale pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "D galactosyl transférase",
+        "antigène B"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéines transmembranaires",
+      "definition": "Protéines qui traversent la membrane cellulaire, impliquées dans divers processus biologiques.",
+      "category": "biochimie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène D",
+        "Rhésus"
+      ],
+      "description": "Les protéines transmembranaires jouent un rôle dans la structure des antigènes Rhésus sur les globules rouges.",
+      "expansion": "",
+      "clinical_significance": "Les protéines transmembranaires sont importantes pour la compatibilité transfusionnelle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "protéines transmembranaires",
+        "membrane cellulaire"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 7,
+  "extraction_date": "20250605_212035"
+}

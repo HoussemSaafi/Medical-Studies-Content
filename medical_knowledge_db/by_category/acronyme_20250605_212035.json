@@ -1,0 +1,2158 @@
+{
+  "category": "acronyme",
+  "terms": [
+    {
+      "term": "IASP",
+      "definition": "Association Internationale pour l'Étude de la Douleur, une organisation dédiée à la recherche et au traitement de la douleur.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "douleur",
+        "recherche médicale"
+      ],
+      "description": "L'IASP fournit des définitions et des lignes directrices pour la gestion de la douleur.",
+      "expansion": "International Association for the Study of Pain",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "39f823a0-6f44-4701-9fe3-8e59c330d418",
+      "source_file": "Réanimation/P.E.C Douleur Aiguë/Courses/61 Prise en charge de la douleur aigue.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "P.E.C",
+      "definition": "Prise en charge",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "Prise en charge",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "39f823a0-6f44-4701-9fe3-8e59c330d418",
+      "source_file": "Réanimation/P.E.C Douleur Aiguë/Courses/61 Prise en charge de la douleur aigue.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ERC",
+      "definition": "European Resuscitation Council, une organisation qui établit des recommandations pour la réanimation cardiorespiratoire en Europe.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "AHA"
+      ],
+      "description": "L'ERC fournit des lignes directrices pour la prise en charge des arrêts cardiaques.",
+      "expansion": "European Resuscitation Council",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AHA",
+      "definition": "American Heart Association, une organisation qui établit des recommandations pour la réanimation cardiorespiratoire aux États-Unis.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "ERC"
+      ],
+      "description": "L'AHA fournit des lignes directrices pour la prise en charge des arrêts cardiaques.",
+      "expansion": "American Heart Association",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VES",
+      "definition": "Méthode d'évaluation de la respiration basée sur l'observation visuelle, l'écoute et la sensation du souffle.",
+      "category": "acronyme",
+      "synonyms": [
+        "méthode VES"
+      ],
+      "related_terms": [
+        "évaluation respiratoire",
+        "réanimation cardio-pulmonaire"
+      ],
+      "description": "Utilisée pour déterminer l'absence de respiration normale ou la présence de respiration agonique.",
+      "expansion": "Voir, Écouter, Sentir",
+      "clinical_significance": "Important dans l'évaluation initiale d'un patient en arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SAMU",
+      "definition": "Service d'Aide Médicale Urgente, un service de secours médical en France.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SMUR",
+        "réanimation"
+      ],
+      "description": "Intervient en cas d'urgences médicales graves.",
+      "expansion": "Service d'Aide Médicale Urgente",
+      "clinical_significance": "Première ligne de réponse aux urgences médicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SAMU",
+        "Service d'Aide Médicale Urgente"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EMU",
+      "definition": "Équipe Médicale d'Urgence, une équipe spécialisée dans la gestion des urgences médicales à l'hôpital.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "réanimation",
+        "SAMU"
+      ],
+      "description": "Intervient pour prévenir l'arrêt cardiaque chez les patients à risque.",
+      "expansion": "Équipe Médicale d'Urgence",
+      "clinical_significance": "Importante pour la gestion des urgences intra-hospitalières.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EMU",
+        "Équipe Médicale d'Urgence"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEA",
+      "definition": "Défibrillateur Externe Automatisé, un appareil utilisé pour administrer un choc électrique en cas d'arythmie choquable.",
+      "category": "acronyme",
+      "synonyms": [
+        "défibrillateur automatisé externe"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Peut être utilisé par des non-professionnels de la santé.",
+      "expansion": "Défibrillateur Externe Automatisé",
+      "clinical_significance": "Améliore le pronostic en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DEA",
+        "défibrillateur automatisé externe"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMUR",
+      "definition": "Service Mobile d'Urgence et de Réanimation, une équipe médicale mobile spécialisée dans les soins d'urgence.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SAMU",
+        "réanimation"
+      ],
+      "description": "Intervient sur les lieux des urgences médicales graves.",
+      "expansion": "Service Mobile d'Urgence et de Réanimation",
+      "clinical_significance": "Critique pour la prise en charge pré-hospitalière des urgences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SMUR",
+        "Service Mobile d'Urgence et de Réanimation"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ALS",
+      "definition": "Advanced Life Support, un ensemble de techniques et de protocoles avancés pour la réanimation cardiopulmonaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "réanimation cardiopulmonaire avancée"
+      ],
+      "related_terms": [
+        "RCP",
+        "défibrillation"
+      ],
+      "description": "Inclut des interventions médicales avancées comme l'intubation et l'administration de médicaments.",
+      "expansion": "Advanced Life Support",
+      "clinical_significance": "Essentiel pour la gestion des arrêts cardiaques complexes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ALS",
+        "réanimation cardiopulmonaire avancée"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MCE",
+      "definition": "Massage Cardiaque Externe, une composante de la RCP où des compressions thoraciques sont appliquées pour maintenir la circulation sanguine.",
+      "category": "acronyme",
+      "synonyms": [
+        "massage cardiaque"
+      ],
+      "related_terms": [
+        "RCP",
+        "compressions thoraciques"
+      ],
+      "description": "Le MCE est essentiel pour maintenir le flux sanguin vers le cerveau et d'autres organes vitaux pendant un arrêt cardiaque.",
+      "expansion": "Massage Cardiaque Externe",
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "massage cardiaque externe",
+        "compressions thoraciques"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "CEE",
+      "definition": "Choc Électrique Externe, une intervention utilisée pour tenter de rétablir un rythme cardiaque normal en cas de fibrillation ventriculaire ou de tachycardie ventriculaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "choc électrique"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Le CEE est administré via un défibrillateur pour dépolariser le myocarde et permettre au cœur de reprendre un rythme normal.",
+      "expansion": "Choc Électrique Externe",
+      "clinical_significance": "Critique pour le traitement des rythmes choquables.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc électrique externe",
+        "défibrillation"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "FV",
+      "definition": "Fibrillation Ventriculaire, une arythmie cardiaque caractérisée par des contractions rapides et désorganisées des ventricules, empêchant le cœur de pomper efficacement le sang.",
+      "category": "acronyme",
+      "synonyms": [
+        "fibrillation ventriculaire"
+      ],
+      "related_terms": [
+        "arythmie",
+        "tachycardie ventriculaire"
+      ],
+      "description": "La FV est une urgence médicale nécessitant une défibrillation immédiate.",
+      "expansion": "Fibrillation Ventriculaire",
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrillation ventriculaire",
+        "arythmie"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "DAE",
+      "definition": "Défibrillateur Automatique Externe, un appareil portable utilisé pour administrer un choc électrique au cœur en cas d'arythmie potentiellement mortelle.",
+      "category": "acronyme",
+      "synonyms": [
+        "défibrillateur automatique"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "arrêt cardiaque"
+      ],
+      "description": "Le DAE est conçu pour être utilisé par des non-professionnels de la santé et peut analyser le rythme cardiaque et administrer un choc si nécessaire.",
+      "expansion": "Défibrillateur Automatique Externe",
+      "clinical_significance": "Critique pour la réanimation en dehors de l'hôpital.",
+      "normal_values": null,
+      "image_search_terms": [
+        "défibrillateur automatique externe",
+        "DAE"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "FOP",
+      "definition": "Acronyme pour Fuites, Obstruction, Pressions, utilisé pour évaluer l'efficacité de la ventilation au masque.",
+      "category": "acronyme",
+      "synonyms": [
+        "Fuites, Obstruction, Pressions"
+      ],
+      "related_terms": [
+        "ventilation au masque",
+        "réanimation néonatale"
+      ],
+      "description": "Le FOP est utilisé pour identifier et corriger les problèmes de ventilation au masque.",
+      "expansion": "Fuites, Obstruction, Pressions",
+      "clinical_significance": "Outil important pour la réanimation néonatale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STP",
+      "definition": "Société de Pneumologie de Langue Française, une société savante dédiée à la pneumologie.",
+      "category": "acronyme",
+      "synonyms": [
+        "Société de Pneumologie de Langue Française"
+      ],
+      "related_terms": [
+        "recommandations de bonne pratique",
+        "bronchiolite"
+      ],
+      "description": "La SPLF émet des recommandations et des avis sur les bonnes pratiques en pneumologie.",
+      "expansion": "Société de Pneumologie de Langue Française",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "STP",
+        "Société de Pneumologie de Langue Française"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPO",
+      "definition": "Vaccin Polio Oral, un vaccin vivant atténué contre la poliomyélite.",
+      "category": "acronyme",
+      "synonyms": [
+        "vaccin antipoliomyélitique oral"
+      ],
+      "related_terms": [
+        "poliomyélite",
+        "vaccin inactivé"
+      ],
+      "description": "Nécessite plusieurs doses pour une séroconversion efficace.",
+      "expansion": "Vaccin Polio Oral",
+      "clinical_significance": "Utilisé pour l'éradication de la poliomyélite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ID",
+      "definition": "Voie intradermique, une méthode d'administration de vaccins dans la couche dermique de la peau.",
+      "category": "acronyme",
+      "synonyms": [
+        "intradermique"
+      ],
+      "related_terms": [
+        "voie intramusculaire",
+        "voie sous-cutanée"
+      ],
+      "description": "Utilisée pour certains vaccins comme le BCG.",
+      "expansion": "Intradermique",
+      "clinical_significance": "Permet une meilleure immunogénicité grâce à la présence de cellules présentatrices d'antigènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TVP",
+      "definition": "Thrombose veineuse profonde, formation d'un caillot sanguin dans les veines profondes, souvent des membres inférieurs, obstruant le retour veineux.",
+      "category": "acronyme",
+      "synonyms": [
+        "thrombose veineuse profonde"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "phlébite"
+      ],
+      "description": "La TVP peut entraîner des symptômes comme un œdème, une douleur et une chaleur au niveau du membre affecté.",
+      "expansion": "Thrombose Veineuse Profonde",
+      "clinical_significance": "Peut entraîner des complications graves comme l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TVP",
+        "thrombose veineuse profonde"
+      ],
+      "subject_id": "40f1d16d-b91b-47b4-8b6e-bbbafed109cd",
+      "source_file": "Néphrologie/Œdèmes/Courses/55 Les oedèmes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TVNIM",
+      "definition": "Tumeurs vésicales non infiltrantes du muscle.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "TVIM",
+        "tumeurs vésicales"
+      ],
+      "description": "Les TVNIM sont des tumeurs de la vessie qui n'ont pas encore infiltré le muscle vésical.",
+      "expansion": "Tumeurs Vésicales Non Infiltrantes du Muscle",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "source_file": "Néphrologie/Hématuries/Courses/33 Les hématuries 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TVIM",
+      "definition": "Tumeurs vésicales infiltrantes du muscle.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "TVNIM",
+        "tumeurs vésicales"
+      ],
+      "description": "Les TVIM sont des tumeurs de la vessie qui ont infiltré le muscle vésical et nécessitent souvent un traitement radical.",
+      "expansion": "Tumeurs Vésicales Infiltrantes du Muscle",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "source_file": "Néphrologie/Hématuries/Courses/33 Les hématuries 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TVEUS",
+      "definition": "Tumeurs des voies urinaires excrétrices supérieures.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "tumeurs urothéliales",
+        "tumeurs rénales"
+      ],
+      "description": "Les TVEUS sont des tumeurs qui se développent dans les calices, le pyélon et les uretères.",
+      "expansion": "Tumeurs des Voies Urinaires Excrétrices Supérieures",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "source_file": "Néphrologie/Hématuries/Courses/33 Les hématuries 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACFA",
+      "definition": "Arythmie complète par fibrillation auriculaire, une condition cardiaque caractérisée par un rythme cardiaque irrégulier et rapide.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "infarctus rénal",
+        "drépanocytose"
+      ],
+      "description": "L'ACFA est une condition à risque pour l'infarctus rénal en raison de son potentiel thrombo-embolique.",
+      "expansion": "Arythmie Complète par Fibrillation Auriculaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "source_file": "Néphrologie/Hématuries/Courses/33 Les hématuries 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PKRD",
+      "definition": "Polykiystose rénale autosomique dominante, une maladie héréditaire caractérisée par la formation de nombreux kystes dans les reins.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "insuffisance rénale",
+        "échographie"
+      ],
+      "description": "La PKRD est une maladie héréditaire qui peut entraîner une insuffisance rénale chronique.",
+      "expansion": "PolyKystose Rénale autosomique Dominante",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "source_file": "Néphrologie/Hématuries/Courses/33 Les hématuries 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GEU",
+      "definition": "Grossesse Extra-Utérine, une condition où l'œuf s'implante en dehors de la cavité utérine.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "grossesse ectopique"
+      ],
+      "description": "La GEU est une urgence médico-chirurgicale en gynécologie et la première cause de mortalité maternelle au cours du premier trimestre.",
+      "expansion": "Grossesse Extra-Utérine",
+      "clinical_significance": "La GEU nécessite une intervention rapide pour éviter des complications graves comme la rupture tubaire et l'hémopéritoine.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "grossesse extra-utérine",
+        "rupture tubaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "AMP",
+      "definition": "Assistance Médicale à la Procréation, ensemble des techniques médicales visant à aider les couples infertiles à concevoir.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "FIV",
+        "ICSI"
+      ],
+      "description": "L'AMP inclut des techniques comme l'induction d'ovulation et le transfert d'embryons.",
+      "expansion": "Assistance Médicale à la Procréation",
+      "clinical_significance": "L'AMP peut augmenter le risque de GEU en raison de l'altération de la contractilité ciliaire et du reflux tubaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "assistance médicale à la procréation",
+        "FIV"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "ATCDs",
+      "definition": "Antécédents, informations médicales passées d'un patient.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "historique médical"
+      ],
+      "description": "Les ATCDs de GEU sont un facteur de risque important pour une nouvelle GEU.",
+      "expansion": "Antécédents",
+      "clinical_significance": "Les ATCDs sont cruciaux pour évaluer le risque de récidive de GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "antécédents médicaux"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "DIU",
+      "definition": "Dispositif Intra-Utérin, un moyen de contraception placé dans l'utérus.",
+      "category": "acronyme",
+      "synonyms": [
+        "stérilet"
+      ],
+      "related_terms": [
+        "contraception intra-utérine"
+      ],
+      "description": "Le DIU peut favoriser les infections génitales hautes (IGH), augmentant ainsi le risque de GEU.",
+      "expansion": "Dispositif Intra-Utérin",
+      "clinical_significance": "L'utilisation de DIU doit être évaluée en fonction du risque d'IGH et de GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "dispositif intra-utérin",
+        "stérilet"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "IGH",
+      "definition": "Infection Génitale Haute, infection affectant les organes génitaux internes.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "salpingite",
+        "endométrite"
+      ],
+      "description": "Les IGH sont un facteur de risque majeur pour la GEU en raison de l'altération de la fonction tubaire.",
+      "expansion": "Infection Génitale Haute",
+      "clinical_significance": "Les IGH doivent être traitées rapidement pour prévenir les complications comme la GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "infection génitale haute",
+        "salpingite"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AMM",
+      "definition": "Autorisation de Mise sur le Marché, procédure réglementaire pour les médicaments.",
+      "category": "acronyme",
+      "synonyms": [
+        "AMM"
+      ],
+      "related_terms": [
+        "FDA",
+        "EMA"
+      ],
+      "description": "Autorisation nécessaire pour commercialiser un médicament.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation et la sécurité des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RCP",
+      "definition": "Réunion de Concertation Pluridisciplinaire, réunion de spécialistes pour discuter des cas de cancer.",
+      "category": "acronyme",
+      "synonyms": [
+        "RCP"
+      ],
+      "related_terms": [
+        "Tumor board",
+        "Réunion de concertation"
+      ],
+      "description": "Utilisée pour discuter des options de traitement et des plans de soins.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prise de décision multidisciplinaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "INAS",
+      "definition": "Institut National du Cancer, organisme français de référence pour la lutte contre le cancer.",
+      "category": "acronyme",
+      "synonyms": [
+        "INAS"
+      ],
+      "related_terms": [
+        "INCa",
+        "Institut National du Cancer"
+      ],
+      "description": "Organisme responsable de la coordination des actions de lutte contre le cancer en France.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention, le dépistage et le traitement du cancer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TTT",
+      "definition": "Abréviation courante pour 'traitement'.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "traitement",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "7541b256-da30-4867-8a07-0662c6abbc94",
+      "source_file": "Gynécologie-Obstétrique/Métrorragies/Courses/53 Diagnostic des métrorragies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FC",
+      "definition": "Fréquence cardiaque, mesure du nombre de battements du cœur par minute.",
+      "category": "acronyme",
+      "synonyms": [
+        "fréquence cardiaque"
+      ],
+      "related_terms": [
+        "PA",
+        "SpO2"
+      ],
+      "description": "",
+      "expansion": "Fréquence cardiaque",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "FC",
+        "fréquence cardiaque"
+      ],
+      "subject_id": "7541b256-da30-4867-8a07-0662c6abbc94",
+      "source_file": "Gynécologie-Obstétrique/Métrorragies/Courses/53 Diagnostic des métrorragies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VVP",
+      "definition": "Voie veineuse périphérique, accès veineux utilisé pour l'administration de fluides et de médicaments.",
+      "category": "acronyme",
+      "synonyms": [
+        "voie veineuse périphérique"
+      ],
+      "related_terms": [
+        "cristalloïdes",
+        "concentré globulaire"
+      ],
+      "description": "",
+      "expansion": "Voie veineuse périphérique",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "VVP",
+        "voie veineuse périphérique"
+      ],
+      "subject_id": "7541b256-da30-4867-8a07-0662c6abbc94",
+      "source_file": "Gynécologie-Obstétrique/Métrorragies/Courses/53 Diagnostic des métrorragies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FIV",
+      "definition": "Fécondation in vitro, technique de procréation assistée où la fécondation de l'ovule par le spermatozoïde se fait en laboratoire.",
+      "category": "acronyme",
+      "synonyms": [
+        "fécondation in vitro"
+      ],
+      "related_terms": [
+        "grossesse multiple",
+        "prématuré"
+      ],
+      "description": "Peut être associée à des complications thyroïdiennes chez les nouveau-nés.",
+      "expansion": null,
+      "clinical_significance": "Les nouveau-nés issus de FIV peuvent présenter une hypothyroïdie fruste.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "FIV",
+        "fécondation in vitro"
+      ],
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "American Diabetes Association (ADA)",
+      "definition": "Organisation américaine dédiée à la recherche, à l'éducation et à la prévention du diabète.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "diabète",
+        "recommandations"
+      ],
+      "description": "L'ADA fournit des recommandations et des lignes directrices pour le diagnostic et le traitement du diabète.",
+      "expansion": "American Diabetes Association",
+      "clinical_significance": "Les recommandations de l'ADA sont largement utilisées pour guider la pratique clinique dans le domaine du diabète.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ADA",
+        "diabète"
+      ],
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "source_file": "Endocrinologie/Diabète Sucré/Courses/20 Diabète sucré 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "International Diabetes Federation (IDF)",
+      "definition": "Organisation mondiale qui représente les associations de diabète dans plus de 160 pays.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "diabète",
+        "prévalence"
+      ],
+      "description": "L'IDF fournit des données sur la prévalence du diabète et travaille à améliorer la prévention et le traitement du diabète à l'échelle mondiale.",
+      "expansion": "International Diabetes Federation",
+      "clinical_significance": "Les données de l'IDF sont cruciales pour comprendre l'impact global du diabète et pour orienter les politiques de santé publique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "IDF",
+        "diabète"
+      ],
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "source_file": "Endocrinologie/Diabète Sucré/Courses/20 Diabète sucré 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "O.M.S",
+      "definition": "Organisation mondiale de la santé, une agence spécialisée des Nations Unies responsable des questions de santé publique internationale.",
+      "category": "acronyme",
+      "synonyms": [
+        "OMS"
+      ],
+      "related_terms": [
+        "diabète",
+        "classification"
+      ],
+      "description": "L'OMS fournit des classifications et des lignes directrices pour le diagnostic et le traitement du diabète.",
+      "expansion": "Organisation mondiale de la santé",
+      "clinical_significance": "Les classifications de l'OMS sont utilisées pour standardiser le diagnostic et le traitement du diabète à l'échelle mondiale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "OMS",
+        "diabète"
+      ],
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "source_file": "Endocrinologie/Diabète Sucré/Courses/20 Diabète sucré 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ADA",
+      "definition": "American Diabetes Association, une organisation dédiée à la recherche, à l'éducation et à la prévention du diabète.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "diabète gestationnel",
+        "tolérance glucidique"
+      ],
+      "description": "L'ADA fournit des recommandations et des directives pour la gestion du diabète, y compris le diabète gestationnel.",
+      "expansion": "American Diabetes Association",
+      "clinical_significance": "Important pour les directives de gestion du diabète.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ADA",
+        "American Diabetes Association"
+      ],
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "source_file": "Endocrinologie/Diabète Sucré/Courses/20 Diabète sucré 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CGMS",
+      "definition": "Système de surveillance continue de la glycémie, utilisé pour suivre les niveaux de glucose dans le sang en temps réel.",
+      "category": "acronyme",
+      "synonyms": [
+        "Continuous Glucose Monitoring System"
+      ],
+      "related_terms": [
+        "glycémie",
+        "diabète"
+      ],
+      "description": "Permet une meilleure gestion du diabète en fournissant des informations en temps réel sur la glycémie.",
+      "expansion": "Continuous Glucose Monitoring System",
+      "clinical_significance": "Essentiel pour la prévention des hypoglycémies et des hyperglycémies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "source_file": "Endocrinologie/Diabète Sucré/Courses/20 Diabète sucré 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ISA",
+      "definition": "Insuffisance Surrénalienne Aiguë, une condition médicale d'urgence caractérisée par une déficience soudaine et sévère de la fonction surrénalienne.",
+      "category": "acronyme",
+      "synonyms": [
+        "Insuffisance Surrénalienne Aiguë"
+      ],
+      "related_terms": [
+        "insuffisance surrénalienne",
+        "cortisol",
+        "aldostérone"
+      ],
+      "description": "L'ISA peut être mortelle si non traitée et nécessite une intervention médicale immédiate.",
+      "expansion": "Insuffisance Surrénalienne Aiguë",
+      "clinical_significance": "Condition médicale d'urgence nécessitant une intervention immédiate.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "ISA",
+        "insuffisance surrénalienne",
+        "cortisol"
+      ],
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FGD",
+      "definition": "Déficit familial isolé en glucocorticoïdes, une maladie rare caractérisée par une insensibilité des récepteurs à l'ACTH.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Familial Glucocorticoid Deficiency",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESPGHAN",
+      "definition": "Société Européenne de Gastroentérologie, Hépatologie et Nutrition Pédiatriques.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "maladie cœliaque",
+        "diagnostic pédiatrique"
+      ],
+      "description": "Organisation professionnelle qui établit des lignes directrices pour le diagnostic et le traitement des maladies gastro-intestinales chez les enfants.",
+      "expansion": "European Society for Paediatric Gastroenterology, Hepatology and Nutrition",
+      "clinical_significance": "Autorité en matière de recommandations cliniques pour les troubles gastro-intestinaux pédiatriques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ESPGHAN",
+        "gastroentérologie pédiatrique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TORSCH",
+      "definition": "TORSCH est un acronyme utilisé pour désigner un groupe d'infections congénitales : Toxoplasmose, Rubéole, Syphilis, Cytomégalovirus, Herpès.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "infections congénitales",
+        "sérologie"
+      ],
+      "description": null,
+      "expansion": "Toxoplasmose, Rubéole, Syphilis, Cytomégalovirus, Herpès",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HSMG",
+      "definition": "Hépato-splénomégalie.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Hépato-splénomégalie",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HSMG",
+        "hépato-splénomégalie"
+      ],
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PFIC",
+      "definition": "Cholestase familiale progressive intra-hépatique.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "cholestase",
+        "maladie de Byler"
+      ],
+      "description": "La PFIC est une maladie hépatique rare caractérisée par une cholestase sévère et un prurit intense.",
+      "expansion": "Progressive Familial Intrahepatic Cholestasis",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PFIC",
+        "Progressive Familial Intrahepatic Cholestasis"
+      ],
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IHC",
+      "definition": "Insuffisance hépatocellulaire.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Insuffisance hépatocellulaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IHC",
+        "Insuffisance hépatocellulaire"
+      ],
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MST",
+      "definition": "Maladies sexuellement transmissibles, infections transmises par contact sexuel.",
+      "category": "acronyme",
+      "synonyms": [
+        "IST"
+      ],
+      "related_terms": [
+        "infections sexuellement transmissibles"
+      ],
+      "description": "Les MST incluent la syphilis, la gonorrhée, et le VIH.",
+      "expansion": "Maladies Sexuellement Transmissibles",
+      "clinical_significance": "Nécessitent une prévention et un traitement rapide pour éviter les complications.",
+      "normal_values": "",
+      "image_search_terms": [
+        "MST",
+        "IST"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SGA",
+      "definition": "Streptocoque bêta-hémolytique du groupe A, une bactérie responsable de diverses infections.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "Streptococcus pyogenes",
+        "angine streptococcique"
+      ],
+      "description": "Le SGA est une cause fréquente d'angines bactériennes.",
+      "expansion": "Streptocoque bêta-hémolytique du groupe A",
+      "clinical_significance": "Peut causer des infections graves comme la scarlatine ou le rhumatisme articulaire aigu.",
+      "normal_values": "",
+      "image_search_terms": [
+        "SGA",
+        "Streptococcus pyogenes"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ASLO",
+      "definition": "Antistreptolysine O, anticorps dirigés contre la streptolysine O, une toxine produite par le streptocoque bêta-hémolytique du groupe A.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps",
+        "streptolysine O"
+      ],
+      "description": "Les ASLO sont utilisés pour diagnostiquer une infection streptococcique récente.",
+      "expansion": "Antistreptolysine O",
+      "clinical_significance": "Utilisés pour diagnostiquer une infection streptococcique récente.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ASLO",
+        "anticorps"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MNI-test",
+      "definition": "Test de Monospot, un test rapide pour détecter les anticorps hétérophiles associés à la mononucléose infectieuse.",
+      "category": "acronyme",
+      "synonyms": [
+        "Monospot"
+      ],
+      "related_terms": [
+        "mononucléose infectieuse",
+        "anticorps hétérophiles"
+      ],
+      "description": "Le MNI-test est utilisé pour diagnostiquer la mononucléose infectieuse.",
+      "expansion": "Monospot",
+      "clinical_significance": "Utilisé pour diagnostiquer la mononucléose infectieuse.",
+      "normal_values": "",
+      "image_search_terms": [
+        "MNI-test",
+        "Monospot"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RAA",
+      "definition": "Rhumatisme articulaire aigu, une complication de l'infection streptococcique caractérisée par une inflammation des articulations.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "rhumatisme articulaire",
+        "infection streptococcique"
+      ],
+      "description": "Le RAA est une complication de l'infection streptococcique.",
+      "expansion": "Rhumatisme Articulaire Aigu",
+      "clinical_significance": "Peut causer des complications cardiaques graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "RAA",
+        "rhumatisme articulaire"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AFSSAPS",
+      "definition": "Agence française de sécurité sanitaire des produits de santé, responsable de l'évaluation et de la surveillance des produits de santé en France.",
+      "category": "acronyme",
+      "synonyms": [
+        "AFSSAPS"
+      ],
+      "related_terms": [
+        "ANSM",
+        "Agence du médicament"
+      ],
+      "description": "L'AFSSAPS a été remplacée par l'ANSM (Agence nationale de sécurité du médicament et des produits de santé).",
+      "expansion": "Agence française de sécurité sanitaire des produits de santé",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ORL",
+      "definition": "Oto-rhino-laryngologie, spécialité médicale concernant les maladies de l'oreille, du nez et de la gorge.",
+      "category": "acronyme",
+      "synonyms": [
+        "oto-rhino-laryngologie"
+      ],
+      "related_terms": [
+        "otite",
+        "otoscopie"
+      ],
+      "description": "L'ORL est souvent consulté pour des problèmes d'otite moyenne aiguë.",
+      "expansion": "Oto-rhino-laryngologie",
+      "clinical_significance": "Spécialité médicale essentielle pour le diagnostic et le traitement des infections de l'oreille.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ORL",
+        "oto-rhino-laryngologie"
+      ],
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "source_file": "ORL, Ophtalmologie/Infections des Voies Aériennes Supérieures/Courses/42 Infection des voies aériennes supérieures 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BDA",
+      "definition": "Bouffée délirante aiguë, état de confusion mentale aiguë caractérisé par des hallucinations et un délire polymorphe.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "confusion mentale",
+        "delirium"
+      ],
+      "description": "La BDA est souvent associée à des troubles psychiatriques et peut être un indicateur de diverses conditions médicales.",
+      "expansion": "Bouffée délirante aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "R.U.D",
+      "definition": "Outil d'évaluation du risque suicidaire composé de trois composantes : Risque suicidaire (R), Urgence (U), Dangerosité (D).",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "évaluation du risque suicidaire",
+        "suicide"
+      ],
+      "description": "L'outil R.U.D est utilisé pour évaluer le risque suicidaire en trois composantes : le risque suicidaire, l'urgence de la menace et la dangerosité du scénario suicidaire.",
+      "expansion": "Risque suicidaire, Urgence, Dangerosité",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TBI",
+      "definition": "Abréviation pour Trouble Bipolaire I.",
+      "category": "acronyme",
+      "synonyms": [
+        "trouble bipolaire I"
+      ],
+      "related_terms": [
+        "TBII",
+        "trouble bipolaire II"
+      ],
+      "description": "Le TBI est caractérisé par la survenue d'au moins un épisode maniaque.",
+      "expansion": "Trouble Bipolaire I",
+      "clinical_significance": "Le TBI peut entraîner des comportements à risque et nécessite une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TBII",
+      "definition": "Abréviation pour Trouble Bipolaire II.",
+      "category": "acronyme",
+      "synonyms": [
+        "trouble bipolaire II"
+      ],
+      "related_terms": [
+        "TBI",
+        "trouble bipolaire I"
+      ],
+      "description": "Le TBII est caractérisé par la survenue d'au moins un épisode dépressif majeur et d'au moins un épisode hypomaniaque.",
+      "expansion": "Trouble Bipolaire II",
+      "clinical_significance": "Le TBII peut entraîner une détérioration significative du fonctionnement quotidien et nécessite une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECT",
+      "definition": "Electroconvulsivothérapie, traitement psychiatrique utilisant des impulsions électriques pour induire des crises convulsives.",
+      "category": "acronyme",
+      "synonyms": [
+        "électroconvulsivothérapie"
+      ],
+      "related_terms": [
+        "électrochocs",
+        "thérapie par électrochocs"
+      ],
+      "description": "L'ECT est utilisée pour traiter les dépressions sévères résistantes aux médicaments.",
+      "expansion": "Electroconvulsivothérapie",
+      "clinical_significance": "Traitement efficace pour les dépressions sévères et résistantes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DUP",
+      "definition": "Durée de psychose non traitée, période entre l'apparition des premiers symptômes de schizophrénie et le début de la prise en charge.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "schizophrénie",
+        "pronostic"
+      ],
+      "description": "Une DUP courte est associée à un meilleur pronostic et une réduction de la souffrance du patient.",
+      "expansion": "Duration of Untreated Psychosis",
+      "clinical_significance": "Réduire la DUP est un objectif majeur dans la prise en charge de la schizophrénie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "88e0b809-f08a-40ec-8739-91242ff57ca7",
+      "source_file": "Psychiatrie/Schizophrénie/Courses/63 Schizophrénie 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CT",
+      "definition": "Abréviation pour Chlamydia trachomatis, une bactérie responsable d'infections sexuellement transmissibles.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "gonocoque",
+        "Chlamydia trachomatis"
+      ],
+      "description": "CT est une bactérie intracellulaire obligatoire responsable de nombreuses infections sexuellement transmissibles.",
+      "expansion": "Chlamydia trachomatis",
+      "clinical_significance": "Importante à diagnostiquer et traiter pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "94af644e-95d2-4fb0-806f-c318eadd5341",
+      "source_file": "Infectieux/Infections Sexuellement Transmissibles/Courses/44 Infections sexuellement transmissibles 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IV",
+      "definition": "Intraveineuse, administration directe dans une veine.",
+      "category": "acronyme",
+      "synonyms": [
+        "intraveineuse"
+      ],
+      "related_terms": [
+        "administration",
+        "veine"
+      ],
+      "description": "Méthode d'administration souvent utilisée pour les antibiotiques nécessitant une diffusion rapide.",
+      "expansion": "Intraveineuse",
+      "clinical_significance": "Méthode d'administration courante pour les antibiotiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "IV",
+        "intraveineuse"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ABG",
+      "definition": "Antibiogramme, test de laboratoire pour déterminer la sensibilité des bactéries aux antibiotiques.",
+      "category": "acronyme",
+      "synonyms": [
+        "antibiogramme"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "sensibilité bactérienne"
+      ],
+      "description": "Utilisé pour guider le choix des antibiotiques dans le traitement des infections.",
+      "expansion": "Antibiogramme",
+      "clinical_significance": "Outil diagnostique essentiel pour un traitement antibiotique efficace.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ABG",
+        "antibiogramme"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NFS-PLQ",
+      "definition": "Numération Formule Sanguine et Plaquettes, un examen de laboratoire qui mesure les différents types de cellules sanguines.",
+      "category": "acronyme",
+      "synonyms": [
+        "Numération Formule Sanguine et Plaquettes"
+      ],
+      "related_terms": [
+        "hémogramme",
+        "numération sanguine"
+      ],
+      "description": "La NFS-PLQ est utilisée pour diagnostiquer diverses conditions hématologiques et infections.",
+      "expansion": "Numération Formule Sanguine et Plaquettes",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TP-TCA",
+      "definition": "Temps de Prothrombine et Temps de Céphaline Activée, des tests de coagulation utilisés pour évaluer la fonction de la coagulation sanguine.",
+      "category": "acronyme",
+      "synonyms": [
+        "Temps de Prothrombine et Temps de Céphaline Activée"
+      ],
+      "related_terms": [
+        "coagulation",
+        "prothrombine",
+        "céphaline"
+      ],
+      "description": "Le TP-TCA est utilisé pour surveiller les patients sous anticoagulants et pour diagnostiquer les troubles de la coagulation.",
+      "expansion": "Temps de Prothrombine et Temps de Céphaline Activée",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "UNV",
+      "definition": "Unité Neuro-Vasculaire, également connue sous le nom de 'stroke-unit', spécialisée dans la prise en charge des patients victimes d'AVC.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "Stroke-unit"
+      ],
+      "description": "Réduit la morbi-mortalité post-AVC.",
+      "expansion": "Unité Neuro-Vasculaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVCI",
+      "definition": "Accident Vasculaire Cérébral Ischémique, un type d'AVC causé par une occlusion artérielle entraînant une ischémie cérébrale.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "AVC ischémique"
+      ],
+      "description": "Le type le plus courant d'AVC.",
+      "expansion": "Accident Vasculaire Cérébral Ischémique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "UGD",
+      "definition": "Ulcère gastro-duodénal, une lésion ulcéreuse affectant l'estomac ou le duodénum.",
+      "category": "acronyme",
+      "synonyms": [
+        "ulcère gastro-duodénal"
+      ],
+      "related_terms": [
+        "ulcère gastrique",
+        "ulcère duodénal"
+      ],
+      "description": "Les ulcères gastro-duodénaux peuvent être causés par des infections à HP ou l'utilisation d'AINS.",
+      "expansion": "Ulcère gastro-duodénal",
+      "clinical_significance": "Les ulcères gastro-duodénaux peuvent entraîner des complications graves comme des hémorragies ou des perforations.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ulcère gastro-duodénal",
+        "ulcère gastrique"
+      ],
+      "subject_id": "e3a1f2f8-bd23-4833-b1b5-96833fc01a2e",
+      "source_file": "Gastrologie-Entérologie/Ulcère Gastrique & Duodénal/Courses/74 L’ulcère gastrique et duodénal 2.51.50 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAPE",
+      "definition": "Plan d'Action Personnalisé Écrit, un document détaillant les mesures à prendre en cas de crise d'asthme.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Plan d'Action Personnalisé Écrit",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GINA2019",
+      "definition": "Global Initiative for Asthma, une organisation qui fournit des recommandations et des lignes directrices pour la gestion de l'asthme.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Global Initiative for Asthma",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GRAPP",
+      "definition": "Groupe de Recherche sur les Affections Respiratoires de l'Enfant, une organisation spécialisée dans la recherche sur les maladies respiratoires pédiatriques.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Groupe de Recherche sur les Affections Respiratoires de l'Enfant",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HAS",
+      "definition": "Haute Autorité de Santé, une autorité publique indépendante en France qui contribue à la régulation du système de santé.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Haute Autorité de Santé",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SPLF",
+      "definition": "Société de Pneumologie de Langue Française, une organisation professionnelle dédiée à l'étude et au traitement des maladies respiratoires.",
+      "category": "acronyme",
+      "synonyms": [
+        "Société de Pneumologie de Langue Française"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "La SPLF fournit des recommandations et des lignes directrices pour la gestion des maladies respiratoires.",
+      "expansion": "Société de Pneumologie de Langue Française",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SPLF",
+        "Société de Pneumologie de Langue Française"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.81
+    },
+    {
+      "term": "HRZE",
+      "definition": "Combinaison de médicaments antituberculeux incluant Isoniazide, Rifampicine, Pyrazinamide et Éthambutol.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Isoniazide",
+        "Rifampicine",
+        "Pyrazinamide",
+        "Éthambutol"
+      ],
+      "description": "Utilisée dans la phase initiale du traitement de la tuberculose pour une efficacité maximale.",
+      "expansion": "Isoniazide + Rifampicine + Pyrazinamide + Éthambutol",
+      "clinical_significance": "Combinaison standard pour le traitement initial de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HRZE",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HR",
+      "definition": "Combinaison de médicaments antituberculeux incluant Isoniazide et Rifampicine.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Isoniazide",
+        "Rifampicine"
+      ],
+      "description": "Utilisée dans la phase de continuation du traitement de la tuberculose.",
+      "expansion": "Isoniazide + Rifampicine",
+      "clinical_significance": "Combinaison standard pour la phase de continuation du traitement de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HR",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DOT",
+      "definition": "Traitement directement observé, une stratégie pour assurer l'observance du traitement antituberculeux.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Tuberculosis treatment",
+        "Observance"
+      ],
+      "description": "Méthode où la prise des médicaments est supervisée par un professionnel de santé pour garantir l'adhérence au traitement.",
+      "expansion": "Directly Observed Treatment",
+      "clinical_significance": "Important pour prévenir la résistance aux médicaments et assurer l'efficacité du traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DOT",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ISUP",
+      "definition": "International Society of Urological Pathology, une organisation qui établit des standards pour la pathologie urologique.",
+      "category": "acronyme",
+      "synonyms": [
+        "International Society of Urological Pathology"
+      ],
+      "related_terms": [
+        "score de Gleason",
+        "adénocarcinome acineux"
+      ],
+      "description": "L'ISUP a revu le système de grading de Gleason en 2016.",
+      "expansion": "International Society of Urological Pathology",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ISUP",
+        "International Society of Urological Pathology"
+      ],
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "IUC",
+      "definition": "Infections urinaires communautaires, contractées en dehors du milieu hospitalier.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "infection urinaire",
+        "cystite"
+      ],
+      "description": "Infections urinaires contractées en dehors du milieu hospitalier, souvent causées par des bactéries commensales uropathogènes.",
+      "expansion": "Infections Urinaires Communautaires",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "22a6187b-77a4-42f6-83df-a36dd53dd672",
+      "source_file": "Urologie/Infections Urinaires/Courses/45 Infections Urinaires 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "OIA",
+      "definition": "Occlusion Intestinale Aiguë, une obstruction soudaine et complète du transit intestinal.",
+      "category": "acronyme",
+      "synonyms": [
+        "occlusion intestinale"
+      ],
+      "related_terms": [
+        "occlusion mécanique",
+        "occlusion fonctionnelle"
+      ],
+      "description": "Les OIA nécessitent une intervention rapide pour éviter des complications graves.",
+      "expansion": "Occlusion Intestinale Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MICI",
+      "definition": "Maladies Inflammatoires Chroniques de l'Intestin, incluant la maladie de Crohn et la rectocolite hémorragique.",
+      "category": "acronyme",
+      "synonyms": [
+        "maladies inflammatoires de l'intestin"
+      ],
+      "related_terms": [
+        "maladie de Crohn",
+        "rectocolite hémorragique"
+      ],
+      "description": "Les MICI peuvent causer des sténoses inflammatoires et des occlusions intestinales.",
+      "expansion": "Maladies Inflammatoires Chroniques de l'Intestin",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NN",
+      "definition": "Nouveau-né, un bébé âgé de moins de 28 jours.",
+      "category": "acronyme",
+      "synonyms": [
+        "nouveau-né"
+      ],
+      "related_terms": [
+        "nourrisson",
+        "prématuré"
+      ],
+      "description": "Les atrésies intestinales sont souvent congénitales et affectent les nouveau-nés.",
+      "expansion": "Nouveau-né",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AII",
+      "definition": "Invagination Intestinale Aiguë, une condition où un segment intestinal se télescope dans un autre.",
+      "category": "acronyme",
+      "synonyms": [
+        "invagination intestinale"
+      ],
+      "related_terms": [
+        "intussusception",
+        "télescopage intestinal"
+      ],
+      "description": "L'AII peut causer une occlusion intestinale et nécessite souvent une intervention chirurgicale.",
+      "expansion": "Invagination Intestinale Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MSI",
+      "definition": "Instabilité des microsatellites, une caractéristique moléculaire de certaines tumeurs, souvent associée à une réponse favorable à l'immunothérapie.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "microsatellites",
+        "tumeur",
+        "immunothérapie"
+      ],
+      "description": "Utilisée pour guider le traitement et déterminer le pronostic.",
+      "expansion": "Microsatellite Instability",
+      "clinical_significance": "Critique pour la planification du traitement du cancer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DeRGO",
+      "definition": "Disease of Gastro-Esophageal Reflux, maladie caractérisée par le reflux du contenu gastrique dans l'œsophage.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "RGO",
+        "reflux gastro-œsophagien"
+      ],
+      "description": "Le RGO peut causer des ulcérations et des saignements dans l'œsophage.",
+      "expansion": "Disease of Gastro-Esophageal Reflux",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CVC",
+      "definition": "Circulation veineuse collatérale, développement de veines collatérales en réponse à une obstruction veineuse.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "varices œsophagiennes"
+      ],
+      "description": "La CVC peut être un signe d'hypertension portale.",
+      "expansion": "Circulation Veineuse Collatérale",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDH",
+      "definition": "Hémorragie digestive haute, saignement provenant de l'œsophage, de l'estomac ou du duodénum.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "hématémèse",
+        "méléna"
+      ],
+      "description": "Les HDH sont souvent causées par des ulcères, des varices œsophagiennes ou des lésions gastroduodénales.",
+      "expansion": "Hémorragie Digestive Haute",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDB",
+      "definition": "Hémorragie digestive basse, saignement provenant de l'intestin grêle, du côlon ou du rectum.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "méléna",
+        "HDH"
+      ],
+      "description": "Les HDB sont souvent causées par des diverticules, des cancers colorectaux ou des hémorroïdes.",
+      "expansion": "Hémorragie Digestive Basse",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EHD",
+      "definition": "Équilibre hydro-électrolytique et dynamique",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "équilibre hydro-électrolytique",
+        "stabilité hémodynamique"
+      ],
+      "description": "Important pour évaluer la stabilité du patient avant une procédure.",
+      "expansion": "Équilibre hydro-électrolytique et dynamique",
+      "clinical_significance": "Un EHD stable est crucial pour la sécurité des interventions médicales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HD",
+      "definition": "Hémorragie Digestive.",
+      "category": "acronyme",
+      "synonyms": [
+        "hémorragie digestive"
+      ],
+      "related_terms": [
+        "hémorragie digestive haute",
+        "hémorragie digestive basse"
+      ],
+      "description": "L'hémorragie digestive peut être haute ou basse, selon la localisation de la source de saignement.",
+      "expansion": "Hémorragie Digestive",
+      "clinical_significance": "Les hémorragies digestives sont des urgences médicales nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie digestive",
+        "saignement gastro-intestinal"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GD",
+      "definition": "Gastroduodénal.",
+      "category": "acronyme",
+      "synonyms": [
+        "gastroduodénal"
+      ],
+      "related_terms": [
+        "ulcère gastroduodénal",
+        "hémorragie digestive haute"
+      ],
+      "description": "Le terme gastroduodénal fait référence à l'estomac et au duodénum.",
+      "expansion": "Gastroduodénal",
+      "clinical_significance": "Les ulcères gastroduodénaux sont une cause fréquente d'hémorragies digestives hautes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gastroduodénal",
+        "ulcère gastroduodénal"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ILAE",
+      "definition": "International League Against Epilepsy, une organisation internationale dédiée à la recherche et au traitement de l'épilepsie.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "classification des épilepsies"
+      ],
+      "description": "L'ILAE fournit des lignes directrices et des classifications pour les épilepsies.",
+      "expansion": "International League Against Epilepsy",
+      "clinical_significance": "Les classifications de l'ILAE sont essentielles pour le diagnostic et la gestion des épilepsies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ILAE",
+        "International League Against Epilepsy"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVK",
+      "definition": "Antivitamines K, une classe de médicaments anticoagulants qui inhibent l'action de la vitamine K.",
+      "category": "acronyme",
+      "synonyms": [
+        "Anticoagulants oraux"
+      ],
+      "related_terms": [
+        "Anticoagulants",
+        "Vitamine K"
+      ],
+      "description": "Utilisés pour prévenir la formation de caillots sanguins.",
+      "expansion": "Antivitamines K",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GvH",
+      "definition": "Graft versus Host Disease, une complication grave où les cellules immunitaires du greffon attaquent les tissus de l'hôte.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "réaction du greffon contre l'hôte",
+        "transplantation"
+      ],
+      "description": "La GvH est une complication potentiellement mortelle après une greffe de cellules souches ou d'organes.",
+      "expansion": "Graft versus Host Disease",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA",
+      "definition": "Syndrome coronarien aigu, un groupe de conditions médicales caractérisées par une réduction soudaine du flux sanguin vers le cœur.",
+      "category": "acronyme",
+      "synonyms": [
+        "syndrome coronarien"
+      ],
+      "related_terms": [
+        "angor instable",
+        "STEMI",
+        "NSTEMI"
+      ],
+      "description": "Les SCA incluent l'angor instable, le STEMI et le NSTEMI.",
+      "expansion": "Syndrome Coronarien Aigu",
+      "clinical_significance": "Urgence médicale nécessitant une évaluation et un traitement rapides.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMUR/USIC",
+      "definition": "Service Mobile d'Urgence et de Réanimation / Unité de Soins Intensifs de Cardiologie, des unités spécialisées dans la prise en charge des urgences cardiaques.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SAMU",
+        "réanimation"
+      ],
+      "description": "Le SMUR et l'USIC sont essentiels pour la prise en charge rapide et spécialisée des patients avec des syndromes coronariens aigus.",
+      "expansion": null,
+      "clinical_significance": "Le SMUR et l'USIC jouent un rôle crucial dans la réduction de la mortalité et des complications des syndromes coronariens aigus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCA ST-",
+      "definition": "SCA ST- est l'abréviation de Syndrome Coronaire Aigu avec sus-décalage du segment ST, indiquant une occlusion complète d'une artère coronaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "infarctus du myocarde avec sus-décalage du segment ST"
+      ],
+      "related_terms": [
+        "SCA",
+        "infarctus du myocarde"
+      ],
+      "description": "Le SCA ST- est une urgence médicale nécessitant une intervention rapide pour restaurer le flux sanguin coronaire.",
+      "expansion": "Syndrome Coronaire Aigu avec sus-décalage du segment ST",
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RIVA",
+      "definition": "Rythme Idioventriculaire Accéléré, un rythme cardiaque anormal originaire des ventricules.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "extrasystoles ventriculaires"
+      ],
+      "description": "",
+      "expansion": "Rythme Idioventriculaire Accéléré",
+      "clinical_significance": "Peut être un signe de reperfusion après une fibrinolyse.",
+      "normal_values": "",
+      "image_search_terms": [
+        "RIVA",
+        "rythme idioventriculaire"
+      ],
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "source_file": "Cardiologie CCV/Syndromes Coronariens Aigus/Courses/65 Syndromes coronariens aigus.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IAM",
+      "definition": "Ischémie Aiguë des Membres.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "ischémie aiguë",
+        "oblitération artérielle"
+      ],
+      "description": "L'IAM est une urgence médico-chirurgicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "expansion": "Ischémie Aiguë des Membres",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IAM",
+        "Ischémie Aiguë des Membres"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HACEK",
+      "definition": "Acronyme pour un groupe de bactéries à Gram négatif responsables d'endocardites : Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "Haemophilus",
+        "Aggregatibacter",
+        "Cardiobacterium",
+        "Eikenella",
+        "Kingella"
+      ],
+      "description": "",
+      "expansion": "Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "HACEK"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ESC",
+      "definition": "European Society of Cardiology, une société professionnelle européenne dédiée à la cardiologie.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "critères de Duke"
+      ],
+      "description": "A proposé des recommandations pour le diagnostic des endocardites infectieuses.",
+      "expansion": "European Society of Cardiology",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RPT",
+      "definition": "Résistances Périphériques Totales, mesure de la résistance au flux sanguin dans les vaisseaux périphériques.",
+      "category": "acronyme",
+      "synonyms": [
+        "résistances périphériques totales"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "vasodilatation"
+      ],
+      "description": null,
+      "expansion": "Résistances Périphériques Totales",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "RPT",
+        "résistances périphériques totales"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "MAPA",
+      "definition": "Mesure Ambulatoire de la Pression Artérielle, une méthode de surveillance de la pression artérielle sur une période de 24 heures.",
+      "category": "acronyme",
+      "synonyms": [
+        "mesure ambulatoire de la pression artérielle",
+        "holter tensionnel"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "hypertension"
+      ],
+      "description": null,
+      "expansion": "Mesure Ambulatoire de la Pression Artérielle",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "MAPA",
+        "mesure ambulatoire de la pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "MVTE",
+      "definition": "MVTE est l'acronyme pour Maladies Veineuses Thrombo-Emboliques, qui incluent la thrombose veineuse profonde et l'embolie pulmonaire.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "embolie pulmonaire"
+      ],
+      "description": null,
+      "expansion": "Maladies Veineuses Thrombo-Emboliques",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EP",
+      "definition": "EP est l'acronyme pour Embolie Pulmonaire, une obstruction d'une artère pulmonaire par un thrombus.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "embolie pulmonaire",
+        "thrombus"
+      ],
+      "description": null,
+      "expansion": "Embolie Pulmonaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PIED",
+      "definition": "Acronyme mnémotechnique pour les quatre urgences cardiologiques : Péricardite, Insuffisance coronaire (SCA), Embolie pulmonaire, Dissection aortique.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "SCA",
+        "embolie pulmonaire",
+        "dissection aortique"
+      ],
+      "description": "Utilisé pour se rappeler des principales urgences cardiologiques.",
+      "expansion": "Péricardite, Insuffisance coronaire, Embolie pulmonaire, Dissection aortique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PIED",
+        "urgences cardiologiques"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVP",
+      "definition": "Accident de la voie publique, un terme désignant les accidents de la circulation.",
+      "category": "acronyme",
+      "synonyms": [
+        "accident de la voie publique"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "accident de la route"
+      ],
+      "description": "Les AVP sont une cause fréquente de traumatismes et nécessitent une évaluation médicale pour détecter les blessures.",
+      "expansion": "accident de la voie publique",
+      "clinical_significance": "Peut entraîner des traumatismes graves nécessitant une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVP",
+        "accident de la voie publique"
+      ],
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "source_file": "Cardiologie CCV/Douleurs Thoraciques Aiguës/Courses/22 Douleurs thoraciques aigues.md",
+      "confidence_score": 0.99
+    }
+  ],
+  "total_count": 107,
+  "extraction_date": "20250605_212035"
+}

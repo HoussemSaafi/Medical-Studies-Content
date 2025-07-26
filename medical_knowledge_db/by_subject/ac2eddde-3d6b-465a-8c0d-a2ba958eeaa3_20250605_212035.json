@@ -1,0 +1,3753 @@
+{
+  "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+  "terms": [
+    {
+      "term": "Etiopathogénie",
+      "definition": "Étude des causes et des mécanismes de développement d'une maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Étiologie",
+        "Pathogénie"
+      ],
+      "related_terms": [
+        "Physiopathologie",
+        "Épidémiologie"
+      ],
+      "description": "L'étiopathogénie de l'asthme inclut les facteurs génétiques, environnementaux et immunologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Physiopathologie",
+      "definition": "Étude des perturbations fonctionnelles et des mécanismes biologiques qui sous-tendent une maladie.",
+      "category": "physiologie",
+      "synonyms": [
+        "Pathophysiologie"
+      ],
+      "related_terms": [
+        "Étiopathogénie",
+        "Pathogénie"
+      ],
+      "description": "La physiopathologie de l'asthme inclut l'inflammation chronique des voies aériennes et l'hyperréactivité bronchique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Asthme allergique",
+      "definition": "Forme d'asthme déclenchée par une réaction allergique à des allergènes spécifiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Asthme atopique"
+      ],
+      "related_terms": [
+        "Atopie",
+        "IgE"
+      ],
+      "description": "L'asthme allergique est souvent associé à une prédisposition génétique et à une réponse immunitaire médiée par les IgE.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bronchomotricité",
+      "definition": "Capacité des bronches à modifier leur diamètre en réponse à divers stimuli.",
+      "category": "physiologie",
+      "synonyms": [
+        "Motricité bronchique"
+      ],
+      "related_terms": [
+        "Muscle lisse bronchique",
+        "Hyperréactivité bronchique"
+      ],
+      "description": "La bronchomotricité est régulée par des mécanismes nerveux et humoraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgE",
+      "definition": "Immunoglobulines de type E, impliquées dans les réactions allergiques et la défense contre les parasites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Immunoglobulines E"
+      ],
+      "related_terms": [
+        "Atopie",
+        "Asthme allergique"
+      ],
+      "description": "Les IgE jouent un rôle clé dans la médiation des réactions allergiques, y compris l'asthme allergique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperréactivité bronchique",
+      "definition": "Réactivité accrue des voies aériennes à divers stimuli, entraînant une bronchoconstriction excessive.",
+      "category": "physiologie",
+      "synonyms": [
+        "Hyperréactivité des voies aériennes"
+      ],
+      "related_terms": [
+        "Asthme",
+        "Bronchomotricité"
+      ],
+      "description": "L'hyperréactivité bronchique est une caractéristique clé de l'asthme, contribuant à la symptomatologie de la maladie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Muscle lisse bronchique",
+      "definition": "Muscle lisse entourant les bronches, responsable de la régulation du diamètre bronchique.",
+      "category": "anatomie",
+      "synonyms": [
+        "MLB"
+      ],
+      "related_terms": [
+        "Bronchomotricité",
+        "Hyperréactivité bronchique"
+      ],
+      "description": "Le muscle lisse bronchique joue un rôle crucial dans la bronchomotricité et l'hyperréactivité bronchique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MLB",
+      "definition": "Muscle lisse bronchique, un type de muscle lisse qui entoure les bronches et joue un rôle crucial dans la régulation du calibre bronchique.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscle lisse bronchique"
+      ],
+      "related_terms": [
+        "bronchoconstriction",
+        "bronchodilatation"
+      ],
+      "description": "Le MLB est responsable de la contraction et de la relaxation des bronches, influençant ainsi le flux d'air dans les voies respiratoires.",
+      "expansion": "Muscle Lisse Bronchique",
+      "clinical_significance": "Le dysfonctionnement du MLB est impliqué dans l'asthme et d'autres maladies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle lisse bronchique",
+        "bronches"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs muscariniques M2 et M3",
+      "definition": "Récepteurs cholinergiques qui répondent à l'acétylcholine, impliqués dans la régulation de la contraction des muscles lisses et la sécrétion de mucus.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs M2",
+        "récepteurs M3"
+      ],
+      "related_terms": [
+        "acétylcholine",
+        "bronchoconstriction"
+      ],
+      "description": "Les récepteurs M3 provoquent une bronchoconstriction et une sécrétion de mucus, tandis que les récepteurs M2 jouent un rôle de rétrocontrôle négatif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs muscariniques",
+        "acétylcholine"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs béta2-adrénergiques",
+      "definition": "Récepteurs adrénergiques qui répondent aux catécholamines comme l'adrénaline et la noradrénaline, impliqués dans la relaxation du muscle lisse bronchique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs β2-adrénergiques"
+      ],
+      "related_terms": [
+        "adrénaline",
+        "noradrénaline",
+        "bronchodilatation"
+      ],
+      "description": "La stimulation des récepteurs β2-adrénergiques entraîne la relaxation du muscle lisse bronchique, augmentant ainsi le calibre des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs béta2-adrénergiques",
+        "adrénaline"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachykinines",
+      "definition": "Famille de peptides neurotransmetteurs incluant la substance P et la neurokinine A, impliqués dans la bronchoconstriction et l'inflammation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "substance P",
+        "neurokinine A"
+      ],
+      "related_terms": [
+        "bronchoconstriction",
+        "inflammation"
+      ],
+      "description": "Les tachykinines sont libérées par les fibres C et provoquent une bronchoconstriction, une hyper sécrétion de mucus et une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tachykinines",
+        "substance P"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mastocytes",
+      "definition": "Cellules immunitaires présentes dans les tissus conjonctifs et les muqueuses, jouant un rôle clé dans les réactions allergiques et inflammatoires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "mast cells"
+      ],
+      "related_terms": [
+        "histamine",
+        "IgE",
+        "allergènes"
+      ],
+      "description": "Les mastocytes libèrent des médiateurs chimiques comme l'histamine en réponse à des stimuli allergiques, contribuant à l'inflammation et à la bronchoconstriction.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mastocytes",
+        "cellules immunitaires"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NO synthase",
+      "definition": "Enzyme responsable de la synthèse du monoxyde d'azote (NO), un puissant vasodilatateur et bronchodilatateur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "NO synthase"
+      ],
+      "related_terms": [
+        "monoxyde d'azote",
+        "bronchodilatation"
+      ],
+      "description": "La NO synthase catalyse la production de NO à partir de la L-arginine, contribuant à la relaxation du muscle lisse bronchique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NO synthase",
+        "monoxyde d'azote"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucotriènes",
+      "definition": "Médiateurs lipidiques dérivés de l'acide arachidonique, impliqués dans les réactions inflammatoires et allergiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "leucotriènes"
+      ],
+      "related_terms": [
+        "asthme",
+        "anti-leucotriènes",
+        "bronchoconstriction"
+      ],
+      "description": "Les leucotriènes C4, D4 et E4 provoquent une bronchoconstriction et sont ciblés par les anti-leucotriènes dans le traitement de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "leucotriènes",
+        "anti-leucotriènes"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NKA",
+      "definition": "Neurokinine A, un peptide neurotransmetteur de la famille des tachykinines, impliqué dans la bronchoconstriction et l'inflammation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "neurokinine A"
+      ],
+      "related_terms": [
+        "tachykinines",
+        "substance P",
+        "bronchoconstriction"
+      ],
+      "description": "La NKA est libérée par les fibres C et contribue à la bronchoconstriction et à l'inflammation dans les voies respiratoires.",
+      "expansion": "Neurokinin A",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NKA",
+        "neurokinine A"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SP",
+      "definition": "Substance P, un peptide neurotransmetteur de la famille des tachykinines, impliqué dans la bronchoconstriction et l'inflammation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "substance P"
+      ],
+      "related_terms": [
+        "tachykinines",
+        "neurokinine A",
+        "bronchoconstriction"
+      ],
+      "description": "La substance P est libérée par les fibres C et contribue à la bronchoconstriction et à l'inflammation dans les voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SP",
+        "substance P"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules dendritiques",
+      "definition": "Cellules immunitaires spécialisées dans la capture et la présentation des antigènes aux lymphocytes T.",
+      "category": "microbiologie",
+      "synonyms": [
+        "dendritic cells"
+      ],
+      "related_terms": [
+        "antigènes",
+        "lymphocytes T",
+        "allergènes"
+      ],
+      "description": "Les cellules dendritiques jouent un rôle clé dans l'initiation des réponses immunitaires adaptatives, y compris les réactions allergiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cellules dendritiques",
+        "dendritic cells"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes T",
+      "definition": "Type de globules blancs impliqués dans la réponse immunitaire adaptative, incluant les réactions allergiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "T cells"
+      ],
+      "related_terms": [
+        "allergènes",
+        "cellules dendritiques",
+        "cytokines"
+      ],
+      "description": "Les lymphocytes T sont activés par les cellules dendritiques et jouent un rôle central dans la réponse immunitaire contre les allergènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphocytes T",
+        "T cells"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Th2",
+      "definition": "Sous-type de lymphocytes T helper qui sécrètent des cytokines pro-allergisantes comme l'IL-4, l'IL-5 et l'IL-13.",
+      "category": "microbiologie",
+      "synonyms": [
+        "T helper 2 cells"
+      ],
+      "related_terms": [
+        "allergènes",
+        "cytokines",
+        "lymphocytes T"
+      ],
+      "description": "Les cellules Th2 sont impliquées dans les réponses immunitaires allergiques et contribuent à l'inflammation des voies respiratoires.",
+      "expansion": "T helper 2",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Th2",
+        "T helper 2 cells"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-4",
+      "definition": "Interleukine-4, une cytokine pro-allergisante sécrétée par les lymphocytes Th2, impliquée dans la régulation des réponses immunitaires allergiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine-4"
+      ],
+      "related_terms": [
+        "Th2",
+        "allergènes",
+        "cytokines"
+      ],
+      "description": "L'IL-4 joue un rôle clé dans la différenciation des lymphocytes T en cellules Th2 et dans la production d'IgE.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IL-4",
+        "interleukine-4"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-5",
+      "definition": "Interleukine-5, une cytokine pro-allergisante sécrétée par les lymphocytes Th2, impliquée dans la régulation des réponses immunitaires allergiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine-5"
+      ],
+      "related_terms": [
+        "Th2",
+        "allergènes",
+        "cytokines"
+      ],
+      "description": "L'IL-5 joue un rôle clé dans la différenciation et l'activation des éosinophiles, contribuant à l'inflammation des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IL-5",
+        "interleukine-5"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-13",
+      "definition": "Interleukine-13, une cytokine pro-allergisante sécrétée par les lymphocytes Th2, impliquée dans la régulation des réponses immunitaires allergiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine-13"
+      ],
+      "related_terms": [
+        "Th2",
+        "allergènes",
+        "cytokines"
+      ],
+      "description": "L'IL-13 joue un rôle clé dans la production de mucus et la fibrose des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IL-13",
+        "interleukine-13"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allergène",
+      "definition": "Substance étrangère capable de provoquer une réaction allergique.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigène"
+      ],
+      "related_terms": [
+        "IgE",
+        "mastocyte"
+      ],
+      "description": "Les allergènes peuvent être des protéines, des glycoprotéines ou des polysaccharides.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des allergies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médiateurs chimiques",
+      "definition": "Substances produites par les cellules du système immunitaire qui médient les réactions inflammatoires et allergiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "médiateurs inflammatoires"
+      ],
+      "related_terms": [
+        "histamine",
+        "leucotriènes"
+      ],
+      "description": "Incluent des substances comme l'histamine, les leucotriènes et les prostaglandines.",
+      "expansion": null,
+      "clinical_significance": "Cibles potentielles pour les traitements anti-inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FcεRI",
+      "definition": "Récepteur de haute affinité pour les IgE, présent à la surface des mastocytes et des basophiles.",
+      "category": "pathologie",
+      "synonyms": [
+        "récepteur Fc epsilon RI"
+      ],
+      "related_terms": [
+        "IgE",
+        "mastocyte"
+      ],
+      "description": "Le pontage de ces récepteurs par un allergène multivalent entraîne la dégranulation des mastocytes.",
+      "expansion": null,
+      "clinical_significance": "Cible potentielle pour les traitements des allergies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "basophiles",
+      "definition": "Type de globules blancs contenant des granules riches en histamine, impliqués dans les réactions allergiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "basophil granulocytes"
+      ],
+      "related_terms": [
+        "mastocytes",
+        "IgE"
+      ],
+      "description": "Les basophiles jouent un rôle dans les réactions allergiques en libérant des médiateurs chimiques.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des allergies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VCAM-1",
+      "definition": "Molécule d'adhésion vasculaire de type 1, impliquée dans le recrutement des cellules inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "vascular cell adhesion molecule 1"
+      ],
+      "related_terms": [
+        "ICAM-1",
+        "éosinophiles"
+      ],
+      "description": "VCAM-1 est une protéine d'adhésion exprimée par les cellules endothéliales en réponse à des stimuli inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de l'inflammation et cible potentielle pour les traitements anti-inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICAM-1",
+      "definition": "Molécule d'adhésion intercellulaire de type 1, impliquée dans le recrutement des cellules inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "intercellular adhesion molecule 1"
+      ],
+      "related_terms": [
+        "VCAM-1",
+        "éosinophiles"
+      ],
+      "description": "ICAM-1 est une protéine d'adhésion exprimée par les cellules endothéliales en réponse à des stimuli inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de l'inflammation et cible potentielle pour les traitements anti-inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "éosinophiles",
+      "definition": "Type de globules blancs impliqués dans la réponse immunitaire contre les infections parasitaires et dans les réactions allergiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "eosinophil granulocytes"
+      ],
+      "related_terms": [
+        "neutrophiles",
+        "lymphocytes"
+      ],
+      "description": "Les éosinophiles sont souvent élevés dans les réactions allergiques et les infections parasitaires.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de l'inflammation allergique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neutrophiles",
+      "definition": "Type de globules blancs impliqués dans la réponse immunitaire contre les infections bactériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutrophil granulocytes"
+      ],
+      "related_terms": [
+        "éosinophiles",
+        "lymphocytes"
+      ],
+      "description": "Les neutrophiles sont les premiers répondants aux infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de l'inflammation aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes",
+      "definition": "Type de globules blancs impliqués dans la réponse immunitaire adaptative.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphocytes B",
+        "lymphocytes T"
+      ],
+      "related_terms": [
+        "éosinophiles",
+        "neutrophiles"
+      ],
+      "description": "Les lymphocytes jouent un rôle clé dans la défense contre les infections virales et les cellules cancéreuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des maladies immunitaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macrophages",
+      "definition": "Cellules du système immunitaire qui phagocytent et détruisent les agents pathogènes et les débris cellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "phagocytes"
+      ],
+      "related_terms": [
+        "lymphocytes",
+        "neutrophiles"
+      ],
+      "description": "Les macrophages jouent un rôle clé dans l'initiation et la résolution de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des infections et des maladies inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroblastes",
+      "definition": "Cellules du tissu conjonctif responsables de la synthèse de la matrice extracellulaire et du collagène.",
+      "category": "pathologie",
+      "synonyms": [
+        "cellules fibroblastiques"
+      ],
+      "related_terms": [
+        "myofibroblastes",
+        "fibrose"
+      ],
+      "description": "Les fibroblastes jouent un rôle clé dans la cicatrisation des tissus et la fibrose.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des maladies fibrotiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myofibroblastes",
+      "definition": "Cellules contractiles dérivées des fibroblastes, impliquées dans la cicatrisation des tissus et la fibrose.",
+      "category": "pathologie",
+      "synonyms": [
+        "cellules myofibroblastiques"
+      ],
+      "related_terms": [
+        "fibroblastes",
+        "fibrose"
+      ],
+      "description": "Les myofibroblastes jouent un rôle clé dans la contraction des tissus cicatriciels.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des maladies fibrotiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PNN",
+      "definition": "Polynucléaires neutrophiles, type de globules blancs impliqués dans la réponse immunitaire contre les infections bactériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutrophiles"
+      ],
+      "related_terms": [
+        "éosinophiles",
+        "lymphocytes"
+      ],
+      "description": "Les PNN sont les premiers répondants aux infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de l'inflammation aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GINA",
+      "definition": "Global Initiative for Asthma, organisation qui fournit des recommandations pour le diagnostic et le traitement de l'asthme.",
+      "category": "classification",
+      "synonyms": [
+        "Global Initiative for Asthma"
+      ],
+      "related_terms": [
+        "asthme",
+        "diagnostic"
+      ],
+      "description": "GINA publie des lignes directrices basées sur les dernières recherches pour la gestion de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Référence pour les pratiques cliniques en asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VEMS",
+      "definition": "Volume expiratoire maximal en une seconde, mesure de la fonction respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEV1"
+      ],
+      "related_terms": [
+        "CVF",
+        "spirométrie"
+      ],
+      "description": "Le VEMS est une mesure clé pour évaluer l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le suivi de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CVF",
+      "definition": "Capacité vitale forcée, volume d'air expiré de manière forcée après une inspiration maximale.",
+      "category": "physiologie",
+      "synonyms": [
+        "FVC"
+      ],
+      "related_terms": [
+        "VEMS",
+        "spirométrie"
+      ],
+      "description": "La CVF est une mesure de la fonction respiratoire globale.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le suivi des maladies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DVO",
+      "definition": "Déficit ventilatoire obstructif, réduction du flux d'air dans les voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "obstruction des voies aériennes"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF"
+      ],
+      "description": "Le DVO est caractérisé par une diminution du rapport VEMS/CVF.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'asthme et des maladies obstructives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEP",
+      "definition": "Débit expiratoire de pointe, mesure de la vitesse maximale de l'expiration forcée.",
+      "category": "physiologie",
+      "synonyms": [
+        "PEF"
+      ],
+      "related_terms": [
+        "VEMS",
+        "spirométrie"
+      ],
+      "description": "Le DEP est utilisé pour surveiller la fonction respiratoire, notamment dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Important dans le suivi de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VR",
+      "definition": "Volume résiduel, volume d'air restant dans les poumons après une expiration maximale.",
+      "category": "physiologie",
+      "synonyms": [
+        "RV"
+      ],
+      "related_terms": [
+        "CRF",
+        "CPT"
+      ],
+      "description": "Le VR est une mesure de la capacité résiduelle des poumons.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la distension pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CRF",
+      "definition": "Capacité résiduelle fonctionnelle, volume d'air restant dans les poumons après une expiration normale.",
+      "category": "physiologie",
+      "synonyms": [
+        "FRC"
+      ],
+      "related_terms": [
+        "VR",
+        "CPT"
+      ],
+      "description": "La CRF est une mesure de la capacité résiduelle fonctionnelle des poumons.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la distension pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CPT",
+      "definition": "Capacité pulmonaire totale, volume total d'air que les poumons peuvent contenir après une inspiration maximale.",
+      "category": "physiologie",
+      "synonyms": [
+        "TLC"
+      ],
+      "related_terms": [
+        "VR",
+        "CRF"
+      ],
+      "description": "La CPT est une mesure de la capacité totale des poumons.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la distension pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méta choline",
+      "definition": "Agent chimique utilisé pour provoquer une réponse bronchoconstrictrice dans les tests de provocation bronchique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "methacholine"
+      ],
+      "related_terms": [
+        "carbachol",
+        "histamine"
+      ],
+      "description": "Utilisé pour évaluer l'hyperréactivité bronchique dans le diagnostic de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "methacholine",
+        "test de provocation bronchique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbachol",
+      "definition": "Agent cholinergique utilisé pour provoquer une réponse bronchoconstrictrice dans les tests de provocation bronchique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "méta choline",
+        "histamine"
+      ],
+      "description": "Utilisé pour évaluer l'hyperréactivité bronchique dans le diagnostic de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carbachol",
+        "test de provocation bronchique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HRBNS",
+      "definition": "Test d'hyperréactivité bronchique non spécifique, utilisé pour diagnostiquer l'asthme en l'absence de diagnostic clair.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "hyperréactivité bronchique",
+        "asthme"
+      ],
+      "description": "Utilisé pour exclure le diagnostic d'asthme en cas de doute.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HRBNS",
+        "test de provocation bronchique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NO exhalé",
+      "definition": "Oxyde nitrique exhalé, marqueur de l'inflammation des voies aériennes, utilisé pour évaluer l'asthme.",
+      "category": "physiologie",
+      "synonyms": [
+        "FeNO"
+      ],
+      "related_terms": [
+        "asthme",
+        "inflammation bronchique"
+      ],
+      "description": "Utilisé pour surveiller l'inflammation des voies aériennes dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NO exhalé",
+        "FeNO"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GDS",
+      "definition": "Gaz du sang, analyse des niveaux de gaz dans le sang pour évaluer la fonction respiratoire et l'état métabolique.",
+      "category": "classification",
+      "synonyms": [
+        "gazométrie"
+      ],
+      "related_terms": [
+        "oxymétrie",
+        "SaO2"
+      ],
+      "description": "Utilisé pour évaluer l'hypoxémie et l'hypocapnie dans les crises d'asthme sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "GDS",
+        "gazométrie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxymétrie",
+      "definition": "Mesure de la saturation en oxygène du sang, utilisée pour évaluer l'état respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxymétrie de pouls"
+      ],
+      "related_terms": [
+        "GDS",
+        "SaO2"
+      ],
+      "description": "Utilisée pour surveiller la saturation en oxygène pendant les crises d'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oxymétrie",
+        "oxymétrie de pouls"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SaO2",
+      "definition": "Saturation artérielle en oxygène, mesure de la quantité d'oxygène transportée par l'hémoglobine dans le sang artériel.",
+      "category": "physiologie",
+      "synonyms": [
+        "saturation en oxygène"
+      ],
+      "related_terms": [
+        "oxymétrie",
+        "GDS"
+      ],
+      "description": "Utilisée pour évaluer l'état respiratoire pendant les crises d'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SaO2",
+        "saturation en oxygène"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dyspnée",
+      "definition": "Sensation de difficulté à respirer, souvent associée à des maladies respiratoires ou cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "essoufflement"
+      ],
+      "related_terms": [
+        "asthme",
+        "insuffisance cardiaque"
+      ],
+      "description": "Symptôme clé dans le diagnostic de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dyspnée",
+        "essoufflement"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticoïdes inhalés",
+      "definition": "Médicaments anti-inflammatoires utilisés pour traiter l'asthme en réduisant l'inflammation des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "stéroïdes inhalés"
+      ],
+      "related_terms": [
+        "asthme",
+        "inflammation bronchique"
+      ],
+      "description": "Utilisés pour le traitement à long terme de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "corticoïdes inhalés",
+        "stéroïdes inhalés"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atopie",
+      "definition": "Prédisposition génétique à développer des réactions allergiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Facteur de risque pour l'asthme et d'autres maladies allergiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "atopie",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rhinite allergique",
+      "definition": "Inflammation de la muqueuse nasale due à une réaction allergique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Symptôme courant chez les personnes atopiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rhinite allergique",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urticaire",
+      "definition": "Éruption cutanée caractérisée par des plaques rouges et prurigineuses, souvent due à une réaction allergique.",
+      "category": "pathologie",
+      "synonyms": [
+        "éruption urticarienne"
+      ],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Symptôme courant chez les personnes atopiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "urticaire",
+        "éruption urticarienne"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "eczéma",
+      "definition": "Inflammation chronique de la peau caractérisée par des démangeaisons et des éruptions cutanées.",
+      "category": "pathologie",
+      "synonyms": [
+        "dermatite atopique"
+      ],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Symptôme courant chez les personnes atopiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "eczéma",
+        "dermatite atopique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PNE",
+      "definition": "Polynucléaires éosinophiles, type de globules blancs impliqués dans les réactions allergiques et les infections parasitaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "éosinophiles"
+      ],
+      "related_terms": [
+        "asthme",
+        "allergie"
+      ],
+      "description": "Utilisés pour diagnostiquer les maladies allergiques et parasitaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PNE",
+        "éosinophiles"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PRICK-TEST",
+      "definition": "Test cutané utilisé pour diagnostiquer les allergies en appliquant des allergènes sur la peau et en observant la réaction.",
+      "category": "classification",
+      "synonyms": [
+        "prick test"
+      ],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Méthode courante pour identifier les allergènes spécifiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PRICK-TEST",
+        "prick test"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acariens",
+      "definition": "Petits arachnides responsables de nombreuses allergies respiratoires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Allergènes courants dans les environnements intérieurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Acariens",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pollens",
+      "definition": "Grains de pollen, allergènes courants responsables de nombreuses allergies respiratoires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Allergènes saisonniers courants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Pollens",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phanères d'animaux",
+      "definition": "Poils, plumes et autres structures animales pouvant être des allergènes.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Allergènes courants dans les environnements avec animaux domestiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Phanères d'animaux",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Moisissures",
+      "definition": "Champignons microscopiques responsables de nombreuses allergies respiratoires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Allergènes courants dans les environnements humides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Moisissures",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Trophallergènes",
+      "definition": "Allergènes alimentaires responsables de réactions allergiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "allergie",
+        "asthme"
+      ],
+      "description": "Allergènes courants dans les aliments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Trophallergènes",
+        "allergie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FeNO",
+      "definition": "Fraction exhalée d'oxyde nitrique, marqueur de l'inflammation des voies aériennes.",
+      "category": "physiologie",
+      "synonyms": [
+        "NO exhalé"
+      ],
+      "related_terms": [
+        "asthme",
+        "inflammation bronchique"
+      ],
+      "description": "Utilisé pour surveiller l'inflammation des voies aériennes dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FeNO",
+        "NO exhalé"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sibilants",
+      "definition": "Bruits respiratoires anormaux, souvent associés à une obstruction des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "sifflements"
+      ],
+      "related_terms": [
+        "asthme",
+        "bronchoconstriction"
+      ],
+      "description": "Symptôme clé dans le diagnostic de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sibilants",
+        "sifflements"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "expectorations",
+      "definition": "Sécrétions bronchiques expulsées par la toux, souvent présentes dans les maladies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "crachats"
+      ],
+      "related_terms": [
+        "asthme",
+        "bronchite"
+      ],
+      "description": "Symptôme courant dans les maladies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "expectorations",
+        "crachats"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crachat perlé de Laennec",
+      "definition": "Type d'expectoration mousseuse et blanchâtre, souvent observée dans l'œdème pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "expectorations",
+        "œdème pulmonaire"
+      ],
+      "description": "Symptôme observé dans les phases aiguës de certaines maladies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crachat perlé de Laennec",
+        "expectorations"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Exacerbation",
+      "definition": "Aggravation aiguë ou subaiguë des symptômes de l'asthme, nécessitant une visite médicale et/ou un renforcement thérapeutique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Crise d'asthme"
+      ],
+      "related_terms": [
+        "Asthme",
+        "Dyspnée",
+        "Oppression thoracique"
+      ],
+      "description": "L'exacerbation peut être la manifestation inaugurale de l'asthme et est caractérisée par une détérioration de la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CSI",
+      "definition": "Corticoïdes inhalés, utilisés pour traiter l'inflammation des voies respiratoires dans l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Corticoïdes"
+      ],
+      "description": null,
+      "expansion": "Corticoïdes inhalés",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CSO",
+      "definition": "Corticoïdes systémiques, utilisés pour traiter les exacerbations sévères de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Corticoïdes"
+      ],
+      "description": null,
+      "expansion": "Corticoïdes systémiques",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "B2CA",
+      "definition": "Bêta-2 agonistes de courte action, utilisés pour le soulagement rapide des symptômes de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Bronchodilatateurs"
+      ],
+      "description": null,
+      "expansion": "Bêta-2 agonistes de courte action",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BPCO",
+      "definition": "Bronchopneumopathie chronique obstructive, une maladie pulmonaire caractérisée par une obstruction des voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Obstruction bronchique"
+      ],
+      "description": null,
+      "expansion": "Bronchopneumopathie chronique obstructive",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PDN",
+      "definition": "Poids de naissance, un facteur de risque pour certaines pathologies respiratoires.",
+      "category": "physiologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Prématurité"
+      ],
+      "description": null,
+      "expansion": "Poids de naissance",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BAAC",
+      "definition": "Bêta-agonistes à action courte, utilisés pour le soulagement rapide des symptômes de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "Asthme",
+        "Bronchodilatateurs"
+      ],
+      "description": null,
+      "expansion": "Bêta-agonistes à action courte",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glucocorticoïdes",
+      "definition": "Les glucocorticoïdes sont des hormones stéroïdiennes qui ont une action anti-inflammatoire et immunosuppressive. Ils sont utilisés dans le traitement de l'asthme pour réduire l'inflammation des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticostéroïdes"
+      ],
+      "related_terms": [
+        "corticostéroïdes inhalés",
+        "corticostéroïdes systémiques"
+      ],
+      "description": "Les glucocorticoïdes sont essentiels dans le traitement de fond de l'asthme pour contrôler l'inflammation chronique des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Ils sont cruciaux pour prévenir les exacerbations de l'asthme et améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticostéroïdes inhalés (CSI)",
+      "definition": "Les corticostéroïdes inhalés sont des médicaments administrés par inhalation pour traiter l'inflammation des voies respiratoires dans l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "CSI"
+      ],
+      "related_terms": [
+        "Béclometasone",
+        "Budésonide",
+        "Fluticasone"
+      ],
+      "description": "Les CSI sont le traitement de fond de référence dans l'asthme, disponibles sous forme d'aérosols doseurs, de poudre sèche ou de préparation pour aérosols.",
+      "expansion": null,
+      "clinical_significance": "Ils réduisent les symptômes de l'asthme et les exacerbations, mais peuvent causer des effets indésirables locaux comme les candidoses oropharyngées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticostéroïdes systémiques (CSS)",
+      "definition": "Les corticostéroïdes systémiques sont des médicaments administrés par voie orale ou injectable pour traiter l'asthme sévère non contrôlé par les traitements inhalés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "CSS"
+      ],
+      "related_terms": [
+        "prednisone",
+        "Bétaméthasone"
+      ],
+      "description": "Les CSS sont utilisés en traitement de fond dans l'asthme sévère ou en traitement de crise d'asthme modérée à sévère.",
+      "expansion": null,
+      "clinical_significance": "Ils sont prescrits à des doses spécifiques en fonction de l'âge et du poids du patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-leucotriènes",
+      "definition": "Les anti-leucotriènes sont des médicaments qui inhibent l'action des leucotriènes, des médiateurs de l'inflammation et de la bronchoconstriction dans l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Montelukast",
+        "5-lipooxygènase"
+      ],
+      "description": "Ils sont utilisés en traitement de fond de l'asthme et ont une action anti-inflammatoire et bronchodilatatrice.",
+      "expansion": null,
+      "clinical_significance": "Ils sont indiqués dans l'asthme d'effort, l'asthme avec intolérance à l'aspirine et l'asthme non contrôlé par les corticoïdes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Montelukast",
+      "definition": "Le Montelukast est un anti-leucotriène utilisé dans le traitement de l'asthme pour ses propriétés anti-inflammatoires et bronchodilatatrices.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Singulair",
+        "Astair",
+        "onceair"
+      ],
+      "related_terms": [
+        "5-lipooxygènase",
+        "leucotriènes"
+      ],
+      "description": "Il inhibe la synthèse des leucotriènes et leur liaison aux récepteurs cibles, prévenant ainsi leur action inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Il est indiqué dans l'asthme d'effort, l'asthme avec intolérance à l'aspirine et l'asthme non contrôlé par les corticoïdes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immuno-modulateurs",
+      "definition": "Les immuno-modulateurs sont des médicaments qui modifient la réponse immunitaire pour traiter les maladies inflammatoires comme l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Anti-IgE",
+        "Omalizumab",
+        "Anti-IL5",
+        "Anti-IL4"
+      ],
+      "description": "Ils incluent des anticorps monoclonaux qui ciblent des molécules spécifiques impliquées dans l'inflammation.",
+      "expansion": null,
+      "clinical_significance": "Ils sont utilisés dans l'asthme allergique sévère non contrôlé par les corticoïdes inhalés à forte dose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-IgE",
+      "definition": "Les Anti-IgE sont des médicaments qui inhibent la liaison des immunoglobulines E (IgE) à leurs récepteurs, réduisant ainsi la réponse allergique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Omalizumab",
+        "Xolair"
+      ],
+      "related_terms": [
+        "corticoïdes inhalés",
+        "B2 mimétique"
+      ],
+      "description": "Ils sont utilisés dans l'asthme allergique sévère non contrôlé par les corticoïdes inhalés à forte dose et les B2 mimétiques de longue durée d'action.",
+      "expansion": null,
+      "clinical_significance": "Ils sont administrés par injections sous-cutanées toutes les 3 à 4 semaines, avec un dosage calculé en fonction du taux d'IgE totales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-IL5",
+      "definition": "Les Anti-IL5 sont des médicaments qui inhibent l'interleukine-5, une cytokine impliquée dans la production et l'activation des éosinophiles.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "mépolizumab"
+      ],
+      "related_terms": [
+        "corticoïdes inhalés",
+        "B2 mimétique"
+      ],
+      "description": "Ils sont utilisés dans l'asthme éosinophilique sévère non contrôlé par les corticoïdes inhalés à forte dose et les B2 mimétiques de longue durée d'action.",
+      "expansion": null,
+      "clinical_significance": "Ils réduisent l'inflammation et les exacerbations de l'asthme en ciblant spécifiquement les éosinophiles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-IL4",
+      "definition": "Les Anti-IL4 sont des médicaments qui inhibent l'interleukine-4, une cytokine impliquée dans la réponse allergique et l'inflammation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dupilumab"
+      ],
+      "related_terms": [
+        "corticoïdes inhalés",
+        "B2 mimétique"
+      ],
+      "description": "Ils sont utilisés dans l'asthme éosinophilique sévère non contrôlé par les corticoïdes inhalés à forte dose et les B2 mimétiques de longue durée d'action.",
+      "expansion": null,
+      "clinical_significance": "Ils réduisent l'inflammation et les exacerbations de l'asthme en ciblant spécifiquement l'IL-4.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bêta 2stimulants",
+      "definition": "Les Bêta 2stimulants sont des médicaments qui stimulent les récepteurs bêta-2 adrénergiques, provoquant une bronchodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "B2 mimétiques"
+      ],
+      "related_terms": [
+        "AMPc",
+        "muscle lisse bronchique"
+      ],
+      "description": "Ils augmentent la synthèse de l'AMPc, entraînant une bronchodilatation jusqu'aux voies aériennes distales.",
+      "expansion": null,
+      "clinical_significance": "Ils améliorent l'activité muco-ciliaire et ont une action tocolytique sur l'utérus gravide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance coronaire",
+      "definition": "L'insuffisance coronaire est une condition où le flux sanguin vers le cœur est insuffisant pour répondre à ses besoins en oxygène.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus du myocarde",
+        "cardiomyopathie obstructive"
+      ],
+      "description": "Elle peut être causée par une obstruction des artères coronaires et peut entraîner des symptômes tels que l'angine de poitrine.",
+      "expansion": null,
+      "clinical_significance": "Elle est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus du myocarde",
+      "definition": "L'infarctus du myocarde est une nécrose du muscle cardiaque due à une obstruction aiguë de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance coronaire",
+        "cardiomyopathie obstructive"
+      ],
+      "description": "Il se manifeste par une douleur thoracique intense, des sueurs, des nausées et des palpitations.",
+      "expansion": null,
+      "clinical_significance": "Il est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomyopathie obstructive",
+      "definition": "La cardiomyopathie obstructive est une maladie du muscle cardiaque caractérisée par une obstruction du flux sanguin dans le cœur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance coronaire",
+        "infarctus du myocarde"
+      ],
+      "description": "Elle peut entraîner des symptômes tels que l'essoufflement, la fatigue et les palpitations.",
+      "expansion": null,
+      "clinical_significance": "Elle est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble du rythme",
+      "definition": "Le trouble du rythme est une anomalie de la fréquence ou du rythme des battements cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "arythmie"
+      ],
+      "related_terms": [
+        "hypertension artérielle",
+        "thyrotoxicose"
+      ],
+      "description": "Il peut se manifester par des palpitations, des étourdissements ou une perte de conscience.",
+      "expansion": null,
+      "clinical_significance": "Il est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyrotoxicose",
+      "definition": "La thyrotoxicose est un état clinique résultant d'un excès d'hormones thyroïdiennes dans le corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension artérielle",
+        "diabète sucré"
+      ],
+      "description": "Elle se manifeste par des symptômes tels que la tachycardie, la perte de poids, l'anxiété et l'intolérance à la chaleur.",
+      "expansion": null,
+      "clinical_significance": "Elle est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diabète sucré",
+      "definition": "Le diabète sucré est une maladie chronique caractérisée par un taux élevé de glucose dans le sang en raison d'une insuffisance de production d'insuline ou d'une résistance à l'insuline.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète"
+      ],
+      "related_terms": [
+        "thyrotoxicose",
+        "hypertension artérielle"
+      ],
+      "description": "Il peut entraîner des complications graves, y compris des maladies cardiovasculaires, des neuropathies et des rétinopathies.",
+      "expansion": null,
+      "clinical_significance": "Il est une contre-indication à l'utilisation de bêta stimulants sous forme orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "B2 mimétiques de courte durée d'action",
+      "definition": "Les B2 mimétiques de courte durée d'action sont des médicaments qui agissent rapidement pour provoquer une bronchodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Terbutaline",
+        "Salbutamol"
+      ],
+      "description": "Ils sont utilisés dans le traitement de la crise d'asthme et la prévention de l'asthme d'effort.",
+      "expansion": null,
+      "clinical_significance": "Ils agissent dans les 10 à 15 minutes suivant la prise et sont administrés par nébulisation ou aérosol doseur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Terbutaline",
+      "definition": "La Terbutaline est un B2 mimétique de courte durée d'action utilisé pour le traitement de la crise d'asthme et la prévention de l'asthme d'effort.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Bricanyl"
+      ],
+      "related_terms": [
+        "Salbutamol",
+        "B2 mimétiques de courte durée d'action"
+      ],
+      "description": "Elle agit rapidement pour provoquer une bronchodilatation.",
+      "expansion": null,
+      "clinical_significance": "Elle est administrée par nébulisation ou aérosol doseur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Salbutamol",
+      "definition": "Le Salbutamol est un B2 mimétique de courte durée d'action utilisé pour le traitement de la crise d'asthme et la prévention de l'asthme d'effort.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ventoline",
+        "Aerol"
+      ],
+      "related_terms": [
+        "Terbutaline",
+        "B2 mimétiques de courte durée d'action"
+      ],
+      "description": "Il agit rapidement pour provoquer une bronchodilatation.",
+      "expansion": null,
+      "clinical_significance": "Il est administré par nébulisation ou aérosol doseur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "B2 mimétiques de longue durée d'action",
+      "definition": "Les B2 mimétiques de longue durée d'action sont des médicaments qui provoquent une bronchodilatation prolongée.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Salmétérol",
+        "Formotérol"
+      ],
+      "description": "Ils sont utilisés en traitement de fond de l'asthme mal contrôlé sous corticoïdes inhalés seuls.",
+      "expansion": null,
+      "clinical_significance": "Ils doivent être associés aux corticoïdes inhalés et ont une action prolongée de 12 heures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Salmétérol",
+      "definition": "Le Salmétérol est un B2 mimétique de longue durée d'action utilisé en traitement de fond de l'asthme mal contrôlé sous corticoïdes inhalés seuls.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Serevent"
+      ],
+      "related_terms": [
+        "Formotérol",
+        "B2 mimétiques de longue durée d'action"
+      ],
+      "description": "Il a une action prolongée de 12 heures.",
+      "expansion": null,
+      "clinical_significance": "Il doit être associé aux corticoïdes inhalés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Formotérol",
+      "definition": "Le Formotérol est un B2 mimétique de longue durée d'action utilisé en traitement de fond de l'asthme mal contrôlé sous corticoïdes inhalés seuls.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Foradil",
+        "Raforex",
+        "Notos",
+        "Aerofor"
+      ],
+      "related_terms": [
+        "Salmétérol",
+        "B2 mimétiques de longue durée d'action"
+      ],
+      "description": "Il a une action prolongée de 12 heures.",
+      "expansion": null,
+      "clinical_significance": "Il doit être associé aux corticoïdes inhalés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticholinergiques",
+      "definition": "Les anticholinergiques sont des médicaments qui bloquent l'action de l'acétylcholine, un neurotransmetteur du système parasympathique, entraînant une bronchodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "parasympatholytiques"
+      ],
+      "related_terms": [
+        "Bromure d'ipratropium",
+        "Tiotropium"
+      ],
+      "description": "Ils agissent en bloquant les récepteurs muscariniques (M1 et M3) de l'acétylcholine situés dans le muscle lisse bronchique.",
+      "expansion": null,
+      "clinical_significance": "Ils sont moins puissants et plus lents que les B2 stimulants et ont une action anti-sécrétoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bromure d'ipratropium",
+      "definition": "Le Bromure d'ipratropium est un anticholinergique de courte durée d'action utilisé dans le traitement de la crise d'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Atrovent",
+        "Iprovent"
+      ],
+      "related_terms": [
+        "anticholinergiques",
+        "Tiotropium"
+      ],
+      "description": "Il agit en bloquant les récepteurs muscariniques (M1 et M3) de l'acétylcholine situés dans le muscle lisse bronchique.",
+      "expansion": null,
+      "clinical_significance": "Il est indiqué dans le traitement de la crise d'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tiotropium",
+      "definition": "Le Tiotropium est un anticholinergique de longue durée d'action utilisé dans le traitement de fond de l'asthme sévère non contrôlé sous une forte dose de corticoïdes inhalés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Spiriva Respimat"
+      ],
+      "related_terms": [
+        "Bromure d'ipratropium",
+        "anticholinergiques"
+      ],
+      "description": "Il agit pendant 24 heures en bloquant les récepteurs muscariniques (M1 et M3) de l'acétylcholine situés dans le muscle lisse bronchique.",
+      "expansion": null,
+      "clinical_significance": "Il est recommandé en association avec les B2 mimétiques de longue durée d'action.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaucome",
+      "definition": "Le glaucome est une maladie oculaire caractérisée par une augmentation de la pression intraoculaire, pouvant entraîner des dommages au nerf optique et une perte de vision.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glaucome à angle fermé",
+        "adénome de la prostate",
+        "détérioration intellectuelle"
+      ],
+      "description": "Il peut être causé par une obstruction du flux d'humeur aqueuse dans l'œil.",
+      "expansion": null,
+      "clinical_significance": "Il est une contre-indication à l'utilisation d'anticholinergiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome de la prostate",
+      "definition": "L'adénome de la prostate est une tumeur bénigne de la prostate qui peut entraîner une obstruction urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glaucome",
+        "détérioration intellectuelle"
+      ],
+      "description": "Il peut causer des symptômes tels que la rétention urinaire et des difficultés à uriner.",
+      "expansion": null,
+      "clinical_significance": "Il est une contre-indication à l'utilisation d'anticholinergiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détérioration intellectuelle",
+      "definition": "La détérioration intellectuelle est une diminution des capacités cognitives, souvent associée à des maladies neurodégénératives.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glaucome",
+        "adénome de la prostate"
+      ],
+      "description": "Elle peut entraîner des troubles de la mémoire, de la pensée et du comportement.",
+      "expansion": null,
+      "clinical_significance": "Elle est une contre-indication à l'utilisation d'anticholinergiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunothérapie anti-allergénique (ITA)",
+      "definition": "L'immunothérapie anti-allergénique est un traitement qui consiste à administrer des doses croissantes d'allergènes pour induire une tolérance de l'organisme vis-à-vis de l'allergène.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunothérapie spécifique (ITS)"
+      ],
+      "related_terms": [
+        "asthme mono-sensibilisé",
+        "mesures d'éviction"
+      ],
+      "description": "Elle est indiquée dans l'asthme mono-sensibilisé lorsque les mesures d'éviction sont inefficaces ou impossibles à appliquer.",
+      "expansion": null,
+      "clinical_significance": "Elle est contre-indiquée en cas d'asthme sévère non contrôlé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GINA 2019",
+      "definition": "GINA 2019 est la version 2019 des recommandations de la Global Initiative for Asthma, qui fournit des lignes directrices pour le diagnostic, le traitement et la gestion de l'asthme.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "exacerbation de l'asthme",
+        "traitement de la crise d'asthme"
+      ],
+      "description": "Elle codifie le traitement de l'exacerbation de l'asthme en fonction de la sévérité de l'exacerbation.",
+      "expansion": null,
+      "clinical_significance": "Elle est une référence importante pour les professionnels de santé dans la gestion de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β2 mimétiques",
+      "definition": "Les β2 mimétiques sont des médicaments bronchodilatateurs qui agissent sur les récepteurs β2-adrénergiques pour détendre les muscles lisses des bronches, facilitant ainsi la respiration.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "β2-agonistes",
+        "agonistes β2-adrénergiques"
+      ],
+      "related_terms": [
+        "salbutamol",
+        "terbutaline"
+      ],
+      "description": "Utilisés principalement pour le traitement de l'asthme et de la bronchopneumopathie chronique obstructive (BPCO).",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour le traitement des crises d'asthme en raison de leur action rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prednisolone",
+      "definition": "La prednisolone est un corticostéroïde synthétique utilisé pour ses propriétés anti-inflammatoires et immunosuppressives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticoïde",
+        "glucocorticoïde"
+      ],
+      "related_terms": [
+        "prednisone",
+        "dexaméthasone"
+      ],
+      "description": "Utilisée dans le traitement de diverses conditions inflammatoires et auto-immunes, y compris l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour réduire l'inflammation dans les voies respiratoires pendant les crises d'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Saturation",
+      "definition": "La saturation en oxygène (SpO2) est la mesure du pourcentage d'oxygène lié à l'hémoglobine dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxymétrie",
+        "SpO2"
+      ],
+      "related_terms": [
+        "hypoxémie",
+        "hyperoxie"
+      ],
+      "description": "Utilisée pour évaluer l'efficacité de la respiration et de la circulation sanguine.",
+      "expansion": null,
+      "clinical_significance": "Critique pour surveiller les patients en détresse respiratoire.",
+      "normal_values": "95-100% chez un adulte en bonne santé",
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SABA",
+      "definition": "Les bêta2-agonistes à action courte (SABA) sont des bronchodilatateurs utilisés pour le soulagement rapide des symptômes de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta2-agonistes à courte durée d'action"
+      ],
+      "related_terms": [
+        "salbutamol",
+        "terbutaline"
+      ],
+      "description": "Utilisés principalement pour le traitement des crises d'asthme en raison de leur action rapide.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour le traitement des crises d'asthme, mais leur utilisation régulière peut augmenter le risque d'exacerbations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CS",
+      "definition": "Les corticostéroïdes (CS) sont des hormones stéroïdiennes utilisées pour leurs propriétés anti-inflammatoires et immunosuppressives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticoïdes",
+        "glucocorticoïdes"
+      ],
+      "related_terms": [
+        "prednisolone",
+        "dexaméthasone"
+      ],
+      "description": "Utilisés dans le traitement de diverses conditions inflammatoires et auto-immunes, y compris l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Efficaces pour réduire l'inflammation dans les voies respiratoires pendant les crises d'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RGO",
+      "definition": "Reflux gastro-œsophagien, une condition où le contenu de l'estomac remonte dans l'œsophage.",
+      "category": "pathologie",
+      "synonyms": [
+        "reflux gastro-œsophagien"
+      ],
+      "related_terms": [
+        "œsophagite",
+        "hernie hiatale"
+      ],
+      "description": "Le RGO peut aggraver les symptômes de l'asthme en provoquant une inflammation des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Le traitement du RGO peut améliorer le contrôle de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "reflux gastro-œsophagien",
+        "œsophagite"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β bloquants",
+      "definition": "Bêta-bloquants, une classe de médicaments utilisés pour traiter l'hypertension et d'autres conditions cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquants"
+      ],
+      "related_terms": [
+        "propranolol",
+        "métoprolol"
+      ],
+      "description": "Les bêta-bloquants peuvent provoquer une bronchoconstriction et doivent être évités chez les asthmatiques.",
+      "expansion": null,
+      "clinical_significance": "L'utilisation de bêta-bloquants peut aggraver les symptômes de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-bloquants",
+        "propranolol"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EFR",
+      "definition": "Exploration fonctionnelle respiratoire, un ensemble de tests utilisés pour évaluer la fonction pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "exploration fonctionnelle respiratoire"
+      ],
+      "related_terms": [
+        "spirométrie",
+        "pléthysmographie"
+      ],
+      "description": "Les EFR sont utilisées pour diagnostiquer et surveiller les maladies respiratoires comme l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Les EFR permettent de mesurer la sévérité de l'obstruction bronchique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "exploration fonctionnelle respiratoire",
+        "spirométrie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rx",
+      "definition": "Radiographie, une technique d'imagerie utilisant les rayons X pour visualiser les structures internes du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie"
+      ],
+      "related_terms": [
+        "scanner",
+        "IRM"
+      ],
+      "description": "La radiographie du thorax est utilisée pour évaluer les poumons et les structures thoraciques.",
+      "expansion": null,
+      "clinical_significance": "La radiographie du thorax peut aider à diagnostiquer des complications de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "radiographie",
+        "radiographie du thorax"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermatite atopique",
+      "definition": "Inflammation chronique de la peau caractérisée par des démangeaisons et des éruptions cutanées.",
+      "category": "pathologie",
+      "synonyms": [
+        "eczéma atopique"
+      ],
+      "related_terms": [
+        "eczéma",
+        "dermatite"
+      ],
+      "description": "La dermatite atopique est souvent associée à l'asthme et à d'autres maladies allergiques.",
+      "expansion": null,
+      "clinical_significance": "La présence de dermatite atopique peut indiquer une prédisposition à l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dermatite atopique",
+        "eczéma"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métacholine",
+      "definition": "Agent utilisé dans les tests de provocation bronchique pour diagnostiquer l'hyperréactivité bronchique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "test de provocation à la métacholine"
+      ],
+      "related_terms": [
+        "asthme",
+        "hyperréactivité bronchique"
+      ],
+      "description": "Utilisé pour confirmer le diagnostic d'asthme en provoquant une réaction bronchique.",
+      "expansion": null,
+      "clinical_significance": "Outil diagnostique pour l'asthme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ATCD",
+      "definition": "Antécédents, informations sur l'historique médical d'un patient.",
+      "category": "classification",
+      "synonyms": [
+        "antécédents médicaux"
+      ],
+      "related_terms": [
+        "historique médical",
+        "anamnèse"
+      ],
+      "description": "Informations cruciales pour le diagnostic et le traitement.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer les facteurs de risque et les causes sous-jacentes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T(-)",
+      "definition": "Témoin négatif, solution utilisée dans les tests cutanés pour comparer les réactions allergiques.",
+      "category": "classification",
+      "synonyms": [
+        "témoin négatif"
+      ],
+      "related_terms": [
+        "tests cutanés",
+        "allergie"
+      ],
+      "description": "Utilisé pour s'assurer que la réaction observée est due à l'allergène testé.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'interprétation des tests cutanés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T(+)",
+      "definition": "Témoin positif, solution utilisée dans les tests cutanés pour vérifier la réactivité de la peau.",
+      "category": "classification",
+      "synonyms": [
+        "témoin positif"
+      ],
+      "related_terms": [
+        "tests cutanés",
+        "allergie"
+      ],
+      "description": "Utilisé pour s'assurer que la peau peut réagir aux allergènes.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'interprétation des tests cutanés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fernand Widal",
+      "definition": "Triade de Fernand Widal, association de l'intolérance à l'aspirine, de la polypose naso-sinusienne et de l'asthme.",
+      "category": "pathologie",
+      "synonyms": [
+        "triade de Widal"
+      ],
+      "related_terms": [
+        "asthme",
+        "intolérance à l'aspirine",
+        "polypose naso-sinusienne"
+      ],
+      "description": "Syndrome souvent observé chez les adultes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'asthme induit par l'aspirine.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PHmétrie",
+      "definition": "Mesure du pH dans l'œsophage pour diagnostiquer le reflux gastro-œsophagien.",
+      "category": "imagerie",
+      "synonyms": [
+        "pH-métrie œsophagienne"
+      ],
+      "related_terms": [
+        "RGO",
+        "reflux acide"
+      ],
+      "description": "Utilisée pour confirmer le diagnostic de RGO.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic du RGO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "wheezing",
+      "definition": "Sifflement respiratoire, son produit par le passage de l'air à travers des voies respiratoires rétrécies.",
+      "category": "physiologie",
+      "synonyms": [
+        "sifflements"
+      ],
+      "related_terms": [
+        "asthme",
+        "obstruction des voies respiratoires"
+      ],
+      "description": "Symptôme courant de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'obstruction des voies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "râles sibilants",
+      "definition": "Bruits respiratoires anormaux entendus à l'auscultation, souvent associés à l'asthme.",
+      "category": "physiologie",
+      "synonyms": [
+        "sibilances"
+      ],
+      "related_terms": [
+        "asthme",
+        "obstruction des voies respiratoires"
+      ],
+      "description": "Symptôme courant de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'obstruction des voies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "silence auscultatoire",
+      "definition": "Absence de bruits respiratoires à l'auscultation, souvent signe de gravité dans l'asthme.",
+      "category": "physiologie",
+      "synonyms": [
+        "silence respiratoire"
+      ],
+      "related_terms": [
+        "asthme",
+        "obstruction sévère des voies respiratoires"
+      ],
+      "description": "Signe de gravité dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'obstruction sévère des voies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Altération conscience",
+      "definition": "Modification de l'état de conscience, pouvant inclure agitation, confusion ou somnolence.",
+      "category": "pathologie",
+      "synonyms": [
+        "altération de l'état de conscience"
+      ],
+      "related_terms": [
+        "agitation",
+        "confusion",
+        "somnolence"
+      ],
+      "description": "Indicateur de la sévérité de l'exacerbation d'asthme chez les enfants.",
+      "expansion": null,
+      "clinical_significance": "Un signe de gravité nécessitant une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BDCA",
+      "definition": "Bêta-2 agonistes de courte action, utilisés pour soulager rapidement les symptômes d'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-2 agonistes de courte action"
+      ],
+      "related_terms": [
+        "asthme",
+        "bronchodilatateur"
+      ],
+      "description": "Médicaments de secours pour les crises d'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-2 agonistes",
+        "inhalateur de secours"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Troubles de la conscience",
+      "definition": "Altérations de l'état de conscience, incluant confusion, agitation ou somnolence.",
+      "category": "pathologie",
+      "synonyms": [
+        "altération de l'état de conscience"
+      ],
+      "related_terms": [
+        "agitation",
+        "confusion",
+        "somnolence"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pauses respiratoires",
+      "definition": "Interruptions temporaires de la respiration, souvent observées dans les cas graves d'asthme.",
+      "category": "pathologie",
+      "synonyms": [
+        "apnée"
+      ],
+      "related_terms": [
+        "asthme",
+        "respiration"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Collapsus",
+      "definition": "Effondrement circulatoire, caractérisé par une chute brutale de la pression artérielle et une perte de conscience.",
+      "category": "pathologie",
+      "synonyms": [
+        "effondrement circulatoire"
+      ],
+      "related_terms": [
+        "choc",
+        "hypotension"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Contraction permanente des sterno-cléido-mastoïdiens",
+      "definition": "Utilisation continue des muscles sterno-cléido-mastoïdiens pour aider à la respiration, signe de détresse respiratoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "tirage sterno-cléido-mastoïdien"
+      ],
+      "related_terms": [
+        "asthme",
+        "détresse respiratoire"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FR",
+      "definition": "Fréquence respiratoire, nombre de respirations par minute.",
+      "category": "physiologie",
+      "synonyms": [
+        "fréquence respiratoire"
+      ],
+      "related_terms": [
+        "respiration",
+        "tachypnée"
+      ],
+      "description": "Indicateur de la sévérité de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "12-16 respirations par minute chez l'adulte",
+      "image_search_terms": [
+        "fréquence respiratoire",
+        "tachypnée"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Alcalose respiratoire",
+      "definition": "Augmentation du pH sanguin due à une diminution du dioxyde de carbone dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose"
+      ],
+      "related_terms": [
+        "pH sanguin",
+        "dioxyde de carbone"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypoxémie",
+      "definition": "Faible teneur en oxygène dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoxie"
+      ],
+      "related_terms": [
+        "oxygène",
+        "saturation"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypocapnie",
+      "definition": "Faible teneur en dioxyde de carbone dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocapnie"
+      ],
+      "related_terms": [
+        "dioxyde de carbone",
+        "ventilation"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Normocapnie",
+      "definition": "Teneur normale en dioxyde de carbone dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "normocapnie"
+      ],
+      "related_terms": [
+        "dioxyde de carbone",
+        "ventilation"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypercapnie",
+      "definition": "Augmentation de la teneur en dioxyde de carbone dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypercapnie"
+      ],
+      "related_terms": [
+        "dioxyde de carbone",
+        "ventilation"
+      ],
+      "description": "Signe de gravité dans l'asthme aigu grave.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cassure de la courbe pondérale",
+      "definition": "Ralentissement ou arrêt de la croissance pondérale chez un enfant.",
+      "category": "pathologie",
+      "synonyms": [
+        "cassure de la courbe de poids"
+      ],
+      "related_terms": [
+        "croissance",
+        "poids"
+      ],
+      "description": "Signe d'inquiétude clinique dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bouton aortique",
+      "definition": "Déviation de l'aorte à droite, souvent visible sur les radiographies thoraciques.",
+      "category": "imagerie",
+      "synonyms": [
+        "déviation aortique"
+      ],
+      "related_terms": [
+        "aorte",
+        "radiographie"
+      ],
+      "description": "Signe radiologique d'inquiétude dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bouton aortique",
+        "radiographie thoracique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Situs inversus",
+      "definition": "Inversion des positions des organes thoraciques et abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "situs inversus"
+      ],
+      "related_terms": [
+        "organes",
+        "inversion"
+      ],
+      "description": "Signe d'inquiétude clinique dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "situs inversus",
+        "inversion des organes"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Inhalation corps étranger",
+      "definition": "Aspiration accidentelle d'un objet dans les voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "aspiration de corps étranger"
+      ],
+      "related_terms": [
+        "voies respiratoires",
+        "objet"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bronchite bactérienne persistante",
+      "definition": "Infection bactérienne chronique des bronches.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchite chronique"
+      ],
+      "related_terms": [
+        "bronches",
+        "infection"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antibiotique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Trachéomalacie",
+      "definition": "Affaiblissement de la paroi trachéale, entraînant un collapsus trachéal pendant la respiration.",
+      "category": "pathologie",
+      "synonyms": [
+        "trachéomalacie"
+      ],
+      "related_terms": [
+        "trachée",
+        "collapsus"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cardiopathie congénitale",
+      "definition": "Malformation cardiaque présente à la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "malformation cardiaque congénitale"
+      ],
+      "related_terms": [
+        "cœur",
+        "malformation"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation cardiologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mucoviscidose",
+      "definition": "Maladie génétique affectant les glandes exocrines, entraînant une production anormale de mucus épais.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrose kystique"
+      ],
+      "related_terms": [
+        "glandes exocrines",
+        "mucus"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement spécialisé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dyskinésie ciliaire primaire",
+      "definition": "Maladie génétique affectant le mouvement des cils respiratoires, entraînant des infections respiratoires récurrentes.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome des cils immobiles"
+      ],
+      "related_terms": [
+        "cils respiratoires",
+        "infections"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dysplasie broncho-pulmonaire",
+      "definition": "Maladie chronique des poumons chez les prématurés, caractérisée par une inflammation et une cicatrisation des voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysplasie broncho-pulmonaire"
+      ],
+      "related_terms": [
+        "prématurité",
+        "voies respiratoires"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Déficit immunitaire",
+      "definition": "Affaiblissement du système immunitaire, rendant l'individu plus susceptible aux infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunodéficience"
+      ],
+      "related_terms": [
+        "système immunitaire",
+        "infections"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation immunologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tuberculose",
+      "definition": "Infection bactérienne chronique des poumons causée par Mycobacterium tuberculosis.",
+      "category": "pathologie",
+      "synonyms": [
+        "TB"
+      ],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "infection"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antibiotique spécifique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dilatation des bronches",
+      "definition": "Élargissement anormal des bronches, souvent dû à des infections récurrentes.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchiectasie"
+      ],
+      "related_terms": [
+        "bronches",
+        "infections"
+      ],
+      "description": "Diagnostic différentiel de l'asthme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TDM thoracique",
+      "definition": "Tomodensitométrie thoracique, technique d'imagerie utilisant les rayons X pour visualiser les structures thoraciques.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner thoracique"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "thorax"
+      ],
+      "description": "Utilisée pour évaluer les diagnostics différentiels de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TDM thoracique",
+        "scanner thoracique"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Test de la sueur",
+      "definition": "Analyse de la concentration de chlorure dans la sueur, utilisée pour diagnostiquer la mucoviscidose.",
+      "category": "pathologie",
+      "synonyms": [
+        "test de la sueur"
+      ],
+      "related_terms": [
+        "mucoviscidose",
+        "chlorure"
+      ],
+      "description": "Utilisé pour diagnostiquer la mucoviscidose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "test de la sueur",
+        "mucoviscidose"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ph-métrie œsophagienne",
+      "definition": "Mesure du pH dans l'œsophage pour diagnostiquer le reflux gastro-œsophagien.",
+      "category": "pathologie",
+      "synonyms": [
+        "ph-métrie œsophagienne"
+      ],
+      "related_terms": [
+        "reflux gastro-œsophagien",
+        "pH"
+      ],
+      "description": "Utilisée pour diagnostiquer le reflux gastro-œsophagien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ph-métrie œsophagienne",
+        "reflux gastro-œsophagien"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endoscopie bronchique",
+      "definition": "Examen des voies respiratoires à l'aide d'un endoscope pour visualiser les bronches.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchoscopie"
+      ],
+      "related_terms": [
+        "bronches",
+        "endoscope"
+      ],
+      "description": "Utilisée pour évaluer les diagnostics différentiels de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endoscopie bronchique",
+        "bronchoscopie"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LBA",
+      "definition": "Lavage broncho-alvéolaire, technique de prélèvement de liquide dans les voies respiratoires pour analyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "lavage broncho-alvéolaire"
+      ],
+      "related_terms": [
+        "voies respiratoires",
+        "prélèvement"
+      ],
+      "description": "Utilisée pour évaluer les diagnostics différentiels de l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lavage broncho-alvéolaire",
+        "LBA"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BD",
+      "definition": "Bronchodilatateur, un médicament utilisé pour ouvrir les voies respiratoires en relaxant les muscles bronchiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bronchodilatateur"
+      ],
+      "related_terms": [
+        "Salbutamol",
+        "Terbutaline"
+      ],
+      "description": "Les BD sont souvent utilisés pour traiter les symptômes aigus de l'asthme.",
+      "expansion": "Bronchodilatateur",
+      "clinical_significance": "Essentiel pour le traitement des crises d'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bronchodilatateur",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CSIBDLA",
+      "definition": "Combinaison de corticostéroïdes inhalés et de bêta-2 agonistes de longue durée d'action, utilisée pour le traitement de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticostéroïdes inhalés et bêta-2 agonistes de longue durée d'action"
+      ],
+      "related_terms": [
+        "Fluticasone",
+        "Salmeterol"
+      ],
+      "description": "Les CSIBDLA sont utilisés pour le traitement à long terme de l'asthme modéré à sévère.",
+      "expansion": "Corticostéroïdes inhalés et bêta-2 agonistes de longue durée d'action",
+      "clinical_significance": "Efficace pour le contrôle de l'asthme modéré à sévère.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "inhalateur",
+        "CSIBDLA"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prednisone",
+      "definition": "Un corticostéroïde systémique utilisé pour traiter les exacerbations sévères de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Prednisone"
+      ],
+      "related_terms": [
+        "Prednisolone",
+        "CSO"
+      ],
+      "description": "La Prednisone est administrée par voie orale ou parentérale pour traiter les crises d'asthme sévères.",
+      "expansion": "Prednisone",
+      "clinical_significance": "Important pour le traitement des crises d'asthme sévères.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Prednisone",
+        "corticostéroïdes"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méthylprednisolone",
+      "definition": "Un corticostéroïde systémique utilisé pour traiter les exacerbations sévères de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Méthylprednisolone"
+      ],
+      "related_terms": [
+        "Prednisone",
+        "CSO"
+      ],
+      "description": "La Méthylprednisolone est administrée par voie parentérale pour traiter les crises d'asthme sévères.",
+      "expansion": "Méthylprednisolone",
+      "clinical_significance": "Important pour le traitement des crises d'asthme sévères.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Méthylprednisolone",
+        "corticostéroïdes"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bromure Ipratropium",
+      "definition": "Un anticholinergique utilisé comme bronchodilatateur pour traiter les exacerbations d'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ipratropium"
+      ],
+      "related_terms": [
+        "Atrovent"
+      ],
+      "description": "Le Bromure Ipratropium est souvent administré par inhalation pour soulager les crises d'asthme.",
+      "expansion": "Bromure Ipratropium",
+      "clinical_significance": "Utilisé pour les exacerbations modérées à sévères d'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Bromure Ipratropium",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anticholinergique",
+      "definition": "Un médicament qui bloque l'action de l'acétylcholine, un neurotransmetteur, utilisé pour traiter diverses conditions médicales.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anticholinergique"
+      ],
+      "related_terms": [
+        "Bromure Ipratropium",
+        "Atrovent"
+      ],
+      "description": "Les anticholinergiques sont utilisés pour traiter les exacerbations d'asthme et d'autres conditions respiratoires.",
+      "expansion": "Anticholinergique",
+      "clinical_significance": "Important pour le traitement des exacerbations d'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Anticholinergique",
+        "médicaments respiratoires"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Angle-closure glaucoma",
+      "definition": "Une forme de glaucoma causée par une obstruction de l'angle de drainage de l'œil, entraînant une augmentation de la pression intraoculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Glaucome par fermeture de l'angle"
+      ],
+      "related_terms": [
+        "Glaucome",
+        "hypertension oculaire"
+      ],
+      "description": "L'angle-closure glaucoma peut être un effet secondaire de certains médicaments anticholinergiques.",
+      "expansion": "Angle-closure glaucoma",
+      "clinical_significance": "Condition oculaire grave nécessitant un traitement immédiat.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Angle-closure glaucoma",
+        "glaucome"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICS",
+      "definition": "Corticostéroïdes inhalés, une classe de médicaments utilisés pour réduire l'inflammation dans les voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticostéroïdes inhalés"
+      ],
+      "related_terms": [
+        "Prednisone",
+        "Prednisolone"
+      ],
+      "description": "Les ICS sont utilisés pour le traitement à long terme de l'asthme.",
+      "expansion": "Inhaled Corticosteroids",
+      "clinical_significance": "Crucial pour le contrôle de l'inflammation dans l'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "corticostéroïdes inhalés",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fluticasone",
+      "definition": "Un corticostéroïde inhalé utilisé pour le traitement à long terme de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Fluticasone"
+      ],
+      "related_terms": [
+        "Salmeterol",
+        "ICS"
+      ],
+      "description": "La Fluticasone est souvent administrée par inhalation pour contrôler l'asthme.",
+      "expansion": "Fluticasone",
+      "clinical_significance": "Utilisé pour le traitement à long terme de l'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Fluticasone",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Salmeterol",
+      "definition": "Un bêta-2 agoniste de longue durée d'action utilisé pour le traitement à long terme de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Salmeterol"
+      ],
+      "related_terms": [
+        "Fluticasone",
+        "ICS"
+      ],
+      "description": "Le Salmeterol est souvent administré par inhalation pour contrôler l'asthme.",
+      "expansion": "Salmeterol",
+      "clinical_significance": "Utilisé pour le traitement à long terme de l'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Salmeterol",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Budesonide",
+      "definition": "Un corticostéroïde inhalé utilisé pour le traitement à long terme de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Budesonide"
+      ],
+      "related_terms": [
+        "Formoterol",
+        "ICS"
+      ],
+      "description": "La Budesonide est souvent administrée par inhalation pour contrôler l'asthme.",
+      "expansion": "Budesonide",
+      "clinical_significance": "Utilisé pour le traitement à long terme de l'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Budesonide",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Formoterol",
+      "definition": "Un bêta-2 agoniste de longue durée d'action utilisé pour le traitement à long terme de l'asthme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Formoterol"
+      ],
+      "related_terms": [
+        "Budesonide",
+        "ICS"
+      ],
+      "description": "Le Formoterol est souvent administré par inhalation pour contrôler l'asthme.",
+      "expansion": "Formoterol",
+      "clinical_significance": "Utilisé pour le traitement à long terme de l'asthme.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Formoterol",
+        "inhalateur"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Xolair",
+      "definition": "Un anticorps monoclonal anti-IgE utilisé pour le traitement de l'asthme allergique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Omalizumab"
+      ],
+      "related_terms": [
+        "Biothérapie",
+        "anticorps monoclonal"
+      ],
+      "description": "Xolair est utilisé pour traiter l'asthme allergique modéré à sévère.",
+      "expansion": "Omalizumab",
+      "clinical_significance": "Utilisé pour le traitement de l'asthme allergique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Xolair",
+        "Omalizumab"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ALT",
+      "definition": "Anti-leukotrienes, une classe de médicaments utilisés pour traiter l'asthme en bloquant l'action des leucotriènes, des substances chimiques impliquées dans l'inflammation des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anti-leucotriènes"
+      ],
+      "related_terms": [
+        "Montelukast",
+        "Zafirlukast"
+      ],
+      "description": "Les ALT sont utilisés comme traitement adjuvant dans l'asthme pour améliorer le contrôle des symptômes et réduire les exacerbations.",
+      "expansion": "Anti-leukotrienes",
+      "clinical_significance": "Utilisés pour améliorer le contrôle de l'asthme, particulièrement chez les patients qui ne répondent pas bien aux corticostéroïdes inhalés seuls.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anti-leukotrienes",
+        "Asthma medication"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BDLA",
+      "definition": "Bêta2-agoniste à longue durée d'action, une classe de médicaments utilisés pour prévenir les symptômes d'asthme en détendant les muscles des voies respiratoires sur une période prolongée.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Bêta2-agonistes à longue durée d'action"
+      ],
+      "related_terms": [
+        "Salmeterol",
+        "Formoterol"
+      ],
+      "description": "Les BDLA sont utilisés en combinaison avec des corticostéroïdes inhalés pour améliorer le contrôle de l'asthme.",
+      "expansion": "Bêta2-agoniste à longue durée d'action",
+      "clinical_significance": "Utilisés pour améliorer le contrôle de l'asthme, mais ne doivent pas être utilisés seuls sans corticostéroïdes inhalés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Long-acting beta2-agonists",
+        "Asthma controller"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MART",
+      "definition": "Maintenance and Reliever Therapy, une stratégie de traitement de l'asthme utilisant une combinaison de corticostéroïdes inhalés et de bêta2-agonistes à longue durée d'action pour le contrôle et le soulagement des symptômes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Thérapie de contrôle et de secours"
+      ],
+      "related_terms": [
+        "CSI-formotérol"
+      ],
+      "description": "La MART permet une meilleure gestion des symptômes d'asthme en utilisant un seul inhalateur pour le contrôle quotidien et le soulagement des symptômes aigus.",
+      "expansion": "Maintenance and Reliever Therapy",
+      "clinical_significance": "Améliore l'adhésion au traitement et le contrôle des symptômes d'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "MART asthma",
+        "Asthma inhaler"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiIgE",
+      "definition": "Anticorps monoclonaux dirigés contre les immunoglobulines E, utilisés pour traiter l'asthme sévère allergique en réduisant les niveaux d'IgE dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anti-IgE"
+      ],
+      "related_terms": [
+        "Omalizumab"
+      ],
+      "description": "Les antiIgE sont utilisés comme traitement adjuvant pour les patients souffrant d'asthme sévère allergique non contrôlé par les traitements conventionnels.",
+      "expansion": "Anti-immunoglobulin E",
+      "clinical_significance": "Réduit les exacerbations et améliore le contrôle de l'asthme chez les patients allergiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anti-IgE therapy",
+        "Asthma treatment"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiIL5",
+      "definition": "Anticorps monoclonaux dirigés contre l'interleukine-5, utilisés pour traiter l'asthme sévère éosinophilique en réduisant les niveaux d'éosinophiles dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anti-IL5"
+      ],
+      "related_terms": [
+        "Mepolizumab",
+        "Reslizumab"
+      ],
+      "description": "Les antiIL5 sont utilisés comme traitement adjuvant pour les patients souffrant d'asthme sévère éosinophilique non contrôlé par les traitements conventionnels.",
+      "expansion": "Anti-interleukin-5",
+      "clinical_significance": "Réduit les exacerbations et améliore le contrôle de l'asthme chez les patients avec éosinophilie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anti-IL5 therapy",
+        "Asthma treatment"
+      ],
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAPE",
+      "definition": "Plan d'Action Personnalisé Écrit, un document détaillant les mesures à prendre en cas de crise d'asthme.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Plan d'Action Personnalisé Écrit",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Primaire",
+      "definition": "Prévention primaire vise à empêcher l'apparition de l'asthme ou des sensibilisations allergéniques.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Secondaire",
+      "definition": "Prévention secondaire vise à empêcher l'apparition de crises d'asthme chez les asthmatiques connus ou de signes allergiques chez les personnes déjà sensibilisées.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tertiaire",
+      "definition": "Prévention tertiaire vise à empêcher l'apparition de séquelles de l'asthme ou l'aggravation des manifestations allergiques.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aéroallergènes",
+      "definition": "Allergènes présents dans l'air, tels que le pollen, les acariens et les moisissures, qui peuvent déclencher des réactions allergiques.",
+      "category": "microbiologie",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acaricides",
+      "definition": "Substances chimiques utilisées pour tuer les acariens, souvent utilisées dans le traitement de l'asthme allergique.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GINA2019",
+      "definition": "Global Initiative for Asthma, une organisation qui fournit des recommandations et des lignes directrices pour la gestion de l'asthme.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Global Initiative for Asthma",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GRAPP",
+      "definition": "Groupe de Recherche sur les Affections Respiratoires de l'Enfant, une organisation spécialisée dans la recherche sur les maladies respiratoires pédiatriques.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Groupe de Recherche sur les Affections Respiratoires de l'Enfant",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HAS",
+      "definition": "Haute Autorité de Santé, une autorité publique indépendante en France qui contribue à la régulation du système de santé.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": null,
+      "description": null,
+      "expansion": "Haute Autorité de Santé",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "source_file": "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pneumologie/Asthme/Courses/7 Asthme de l’adulte et de l’enfant< 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md"
+  ],
+  "total_terms": 180
+}

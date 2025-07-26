@@ -1,0 +1,3946 @@
+{
+  "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+  "terms": [
+    {
+      "term": "décharge anormale",
+      "definition": "Activité électrique excessive et hyper synchrone des neurones, souvent associée à des crises épileptiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "activité épileptique",
+        "décharge neuronale anormale"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "EEG"
+      ],
+      "description": "La décharge anormale est une activité électrique excessive et hyper synchrone des neurones, souvent associée à des crises épileptiques. Elle peut être détectée par un électroencéphalogramme (EEG).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manifestation neurologique paroxystique",
+      "definition": "Symptôme neurologique soudain et transitoire, souvent associé à des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "symptôme neurologique aigu",
+        "épisode neurologique transitoire"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "EEG"
+      ],
+      "description": "Les manifestations neurologiques paroxystiques sont des symptômes soudains et transitoires, souvent associés à des crises épileptiques. Ils peuvent inclure des symptômes moteurs, sensitifs, sensoriels, végétatifs ou cognitifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EEG",
+      "definition": "Électroencéphalogramme, un examen qui enregistre l'activité électrique du cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "électroencéphalogramme"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "décharge anormale"
+      ],
+      "description": "L'EEG est un examen qui enregistre l'activité électrique du cerveau à l'aide d'électrodes placées sur le cuir chevelu. Il est utilisé pour diagnostiquer les crises épileptiques et d'autres troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réseau épileptogène",
+      "definition": "Réseau de neurones impliqués dans la génération et la propagation des crises épileptiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "réseau épileptique",
+        "réseau de décharge"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "EEG"
+      ],
+      "description": "Le réseau épileptogène est un ensemble de neurones qui sont impliqués dans la génération et la propagation des crises épileptiques. Il peut être identifié par des techniques d'imagerie cérébrale et d'EEG.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises focales",
+      "definition": "Crises épileptiques qui débutent dans une région spécifique du cerveau et peuvent rester localisées ou se propager.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises partielles",
+        "crises localisées"
+      ],
+      "related_terms": [
+        "crises généralisées",
+        "EEG"
+      ],
+      "description": "Les crises focales sont des crises épileptiques qui débutent dans une région spécifique du cerveau. Elles peuvent rester localisées ou se propager à d'autres régions du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises généralisées",
+      "definition": "Crises épileptiques qui impliquent rapidement les deux hémisphères cérébraux.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises bilatérales",
+        "crises diffuses"
+      ],
+      "related_terms": [
+        "crises focales",
+        "EEG"
+      ],
+      "description": "Les crises généralisées sont des crises épileptiques qui impliquent rapidement les deux hémisphères cérébraux. Elles peuvent être tonico-cloniques, absences, ou myocloniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise à début inconnu",
+      "definition": "Crises épileptiques dont le point de départ, focal ou généralisé, n'a pas pu être précisé.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise de début indéterminé"
+      ],
+      "related_terms": [
+        "crises focales",
+        "crises généralisées"
+      ],
+      "description": "Les crises à début inconnu sont des crises épileptiques dont le point de départ, focal ou généralisé, n'a pas pu être précisé. Elles nécessitent des investigations supplémentaires pour être classifiées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise focale avec bilatéralisation",
+      "definition": "Crises épileptiques qui débutent dans une région spécifique du cerveau et se propagent aux deux hémisphères.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise partielle secondairement généralisée"
+      ],
+      "related_terms": [
+        "crises focales",
+        "crises généralisées"
+      ],
+      "description": "Les crises focales avec bilatéralisation sont des crises épileptiques qui débutent dans une région spécifique du cerveau et se propagent aux deux hémisphères. Elles étaient auparavant appelées crises partielles secondairement généralisées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises symptomatiques aigües",
+      "definition": "Crises épileptiques provoquées par une agression cérébrale aiguë, directe ou indirecte.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises provoquées",
+        "crises réactives"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "EEG"
+      ],
+      "description": "Les crises symptomatiques aiguës sont des crises épileptiques provoquées par une agression cérébrale aiguë, directe ou indirecte. Elles ne définissent pas l'épilepsie maladie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HSD",
+      "definition": "Hémorragie sous-durale, une accumulation de sang entre la dure-mère et l'arachnoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie sous-durale"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "hématome"
+      ],
+      "description": "L'HSD est une accumulation de sang entre la dure-mère et l'arachnoïde, souvent due à un traumatisme crânien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SNC",
+      "definition": "Système nerveux central, composé du cerveau et de la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "système nerveux central"
+      ],
+      "related_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": "Le SNC est composé du cerveau et de la moelle épinière. Il est responsable de la coordination des fonctions corporelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVG",
+      "definition": "Accident vasculaire cérébral ischémique, une interruption de l'apport sanguin au cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "accident vasculaire cérébral ischémique"
+      ],
+      "related_terms": [
+        "AVC",
+        "ischémie cérébrale"
+      ],
+      "description": "L'AVG est une interruption de l'apport sanguin au cerveau, souvent due à un caillot sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TC",
+      "definition": "Traumatisme crânien, une blessure à la tête qui peut affecter le cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "traumatisme crânien"
+      ],
+      "related_terms": [
+        "commotion cérébrale",
+        "hématome"
+      ],
+      "description": "Le TC est une blessure à la tête qui peut affecter le cerveau, allant de la commotion cérébrale à des lésions plus graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anoxo-ischémie",
+      "definition": "Manque d'oxygène et de flux sanguin au cerveau, pouvant entraîner des lésions cérébrales.",
+      "category": "pathologie",
+      "synonyms": [
+        "anoxie-ischémie"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "ischémie"
+      ],
+      "description": "L'anoxo-ischémie est un manque d'oxygène et de flux sanguin au cerveau, pouvant entraîner des lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myotonie",
+      "definition": "Contraction musculaire prolongée ou retardée de la relaxation musculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "myotonie"
+      ],
+      "related_terms": [
+        "myopathie",
+        "dystonie"
+      ],
+      "description": "La myotonie est une contraction musculaire prolongée ou un retard de la relaxation musculaire, souvent associée à des myopathies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Holter-EEG",
+      "definition": "Enregistrement prolongé de l'activité électrique du cerveau, souvent utilisé pour diagnostiquer des crises épileptiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "Holter-EEG"
+      ],
+      "related_terms": [
+        "EEG",
+        "crises épileptiques"
+      ],
+      "description": "Le Holter-EEG est un enregistrement prolongé de l'activité électrique du cerveau, souvent utilisé pour diagnostiquer des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syncope",
+      "definition": "Perte de connaissance brève due à une hypoperfusion cérébrale diffuse et passagère.",
+      "category": "pathologie",
+      "synonyms": [
+        "évanouissement",
+        "perte de connaissance"
+      ],
+      "related_terms": [
+        "hypotension",
+        "arythmie"
+      ],
+      "description": "La syncope est souvent causée par une diminution du flux sanguin vers le cerveau, entraînant une perte de connaissance temporaire.",
+      "expansion": null,
+      "clinical_significance": "Il est crucial de différencier la syncope d'une crise épileptique pour un diagnostic et un traitement appropriés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syncope",
+        "perte de connaissance"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CNEP",
+      "definition": "Crise non épileptique psychogène, une crise qui ressemble à une crise épileptique mais n'est pas causée par une activité épileptique.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudo-crise",
+        "crise psychogène"
+      ],
+      "related_terms": [
+        "trouble de conversion",
+        "trouble somatoforme"
+      ],
+      "description": "Les CNEP sont souvent liées à des facteurs psychologiques ou émotionnels et nécessitent une évaluation psychiatrique.",
+      "expansion": "Crise non épileptique psychogène",
+      "clinical_significance": "La distinction entre CNEP et crises épileptiques est cruciale pour un traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CNEP",
+        "crise psychogène"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AIT",
+      "definition": "Accident ischémique transitoire, une interruption temporaire de l'apport sanguin au cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "attaque ischémique transitoire"
+      ],
+      "related_terms": [
+        "AVC",
+        "ischémie cérébrale"
+      ],
+      "description": "L'AIT est souvent un signe avant-coureur d'un AVC et nécessite une évaluation rapide.",
+      "expansion": "Accident ischémique transitoire",
+      "clinical_significance": "L'AIT est une urgence médicale nécessitant une intervention rapide pour prévenir un AVC.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AIT",
+        "attaque ischémique transitoire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVC",
+      "definition": "Accident vasculaire cérébral, une interruption soudaine de l'apport sanguin au cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "attaque cérébrale",
+        "stroke"
+      ],
+      "related_terms": [
+        "ischémie",
+        "hémorragie cérébrale"
+      ],
+      "description": "L'AVC peut être ischémique ou hémorragique et nécessite une intervention médicale immédiate.",
+      "expansion": "Accident vasculaire cérébral",
+      "clinical_significance": "L'AVC est une urgence médicale majeure nécessitant une intervention rapide pour minimiser les dommages cérébraux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVC",
+        "attaque cérébrale"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ILAE",
+      "definition": "International League Against Epilepsy, une organisation internationale dédiée à la recherche et au traitement de l'épilepsie.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "classification des épilepsies"
+      ],
+      "description": "L'ILAE fournit des lignes directrices et des classifications pour les épilepsies.",
+      "expansion": "International League Against Epilepsy",
+      "clinical_significance": "Les classifications de l'ILAE sont essentielles pour le diagnostic et la gestion des épilepsies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ILAE",
+        "International League Against Epilepsy"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TDM",
+      "definition": "Tomodensitométrie, une technique d'imagerie médicale utilisant les rayons X pour obtenir des images en coupe du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner",
+        "CT scan"
+      ],
+      "related_terms": [
+        "IRM",
+        "radiographie"
+      ],
+      "description": "La TDM est utilisée pour diagnostiquer diverses conditions médicales, y compris les anomalies cérébrales.",
+      "expansion": "Tomodensitométrie",
+      "clinical_significance": "La TDM est essentielle pour le diagnostic des conditions neurologiques et autres pathologies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TDM",
+        "scanner"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRM",
+      "definition": "Imagerie par résonance magnétique, une technique d'imagerie médicale utilisant des champs magnétiques pour obtenir des images détaillées du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "MRI"
+      ],
+      "related_terms": [
+        "TDM",
+        "radiographie"
+      ],
+      "description": "L'IRM est utilisée pour diagnostiquer diverses conditions médicales, y compris les anomalies cérébrales.",
+      "expansion": "Imagerie par résonance magnétique",
+      "clinical_significance": "L'IRM est essentielle pour le diagnostic des conditions neurologiques et autres pathologies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IRM",
+        "MRI"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tr immunitaire",
+      "definition": "Trouble immunitaire, une condition où le système immunitaire attaque les tissus sains du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie auto-immune"
+      ],
+      "related_terms": [
+        "encéphalite auto-immune",
+        "anticorps anti-NMDA"
+      ],
+      "description": "Les troubles immunitaires peuvent causer divers symptômes, y compris des crises épileptiques.",
+      "expansion": "Trouble immunitaire",
+      "clinical_significance": "Les troubles immunitaires nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trouble immunitaire",
+        "maladie auto-immune"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti NMDA",
+      "definition": "Anticorps anti-NMDA, des anticorps qui ciblent les récepteurs NMDA dans le cerveau, souvent associés à l'encéphalite auto-immune.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-NMDA"
+      ],
+      "related_terms": [
+        "encéphalite auto-immune",
+        "récepteurs NMDA"
+      ],
+      "description": "Les anticorps anti-NMDA sont impliqués dans certaines formes d'encéphalite auto-immune.",
+      "expansion": "Anticorps anti-NMDA",
+      "clinical_significance": "La détection des anticorps anti-NMDA est cruciale pour le diagnostic et le traitement de l'encéphalite auto-immune.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-NMDA",
+        "encéphalite auto-immune"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tr psychiatriques",
+      "definition": "Troubles psychiatriques, des conditions mentales qui affectent la pensée, l'humeur et le comportement.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies mentales"
+      ],
+      "related_terms": [
+        "anxiété",
+        "dépression"
+      ],
+      "description": "Les troubles psychiatriques peuvent inclure l'anxiété, la dépression, et d'autres conditions mentales.",
+      "expansion": "Troubles psychiatriques",
+      "clinical_significance": "Les troubles psychiatriques nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "troubles psychiatriques",
+        "maladies mentales"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tr des apprentissages scolaires",
+      "definition": "Troubles des apprentissages scolaires, des difficultés spécifiques dans l'acquisition et l'utilisation des compétences scolaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles d'apprentissage"
+      ],
+      "related_terms": [
+        "dyslexie",
+        "dyscalculie"
+      ],
+      "description": "Les troubles des apprentissages scolaires peuvent inclure la dyslexie, la dyscalculie, et d'autres difficultés spécifiques.",
+      "expansion": "Troubles des apprentissages scolaires",
+      "clinical_significance": "Les troubles des apprentissages scolaires nécessitent une évaluation et un soutien éducatif spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "troubles des apprentissages scolaires",
+        "dyslexie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tr du sommeil",
+      "definition": "Troubles du sommeil, des conditions qui affectent la qualité, la durée ou le moment du sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "insomnie",
+        "apnée du sommeil"
+      ],
+      "related_terms": [
+        "insomnie",
+        "apnée du sommeil"
+      ],
+      "description": "Les troubles du sommeil peuvent inclure l'insomnie, l'apnée du sommeil, et d'autres conditions affectant le sommeil.",
+      "expansion": "Troubles du sommeil",
+      "clinical_significance": "Les troubles du sommeil nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "troubles du sommeil",
+        "insomnie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pointes-ondes à 3 Hz",
+      "definition": "Un motif caractéristique sur l'EEG, souvent associé aux absences épileptiques typiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "décharge de pointes-ondes"
+      ],
+      "related_terms": [
+        "EEG",
+        "épilepsie"
+      ],
+      "description": "Caractérisé par des décharges bilatérales, synchrones et symétriques de grande amplitude.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pointes-ondes à 3 Hz",
+        "EEG absences typiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MS",
+      "definition": "Membres supérieurs, terme anatomique désignant les bras et les mains.",
+      "category": "anatomie",
+      "synonyms": [
+        "membres supérieurs"
+      ],
+      "related_terms": [
+        "MI",
+        "membres inférieurs"
+      ],
+      "description": "Utilisé pour décrire les parties du corps affectées par des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "membres supérieurs",
+        "anatomie MS"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gyrus précentral",
+      "definition": "Région du cortex cérébral impliquée dans le contrôle des mouvements volontaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "cortex moteur primaire"
+      ],
+      "related_terms": [
+        "gyrus postcentral",
+        "cortex somatosensoriel"
+      ],
+      "description": "Localisé dans le lobe frontal, il joue un rôle crucial dans la motricité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gyrus précentral",
+        "cortex moteur primaire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gélastique",
+      "definition": "Se réfère à des crises épileptiques caractérisées par des rires inappropriés.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises de rire"
+      ],
+      "related_terms": [
+        "dacrystique",
+        "crises émotionnelles"
+      ],
+      "description": "Les crises gélastiques sont souvent associées à des lésions de l'hypothalamus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crises gélastiques",
+        "épilepsie rire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dacrystique",
+      "definition": "Se réfère à des crises épileptiques caractérisées par des pleurs inappropriés.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises de pleurs"
+      ],
+      "related_terms": [
+        "gélastique",
+        "crises émotionnelles"
+      ],
+      "description": "Les crises dacrystiques sont souvent associées à des lésions temporales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crises dacrystiques",
+        "épilepsie pleurs"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gyrus de Hesthl",
+      "definition": "Région du cortex temporal impliquée dans le traitement des informations auditives.",
+      "category": "anatomie",
+      "synonyms": [
+        "cortex auditif primaire"
+      ],
+      "related_terms": [
+        "gyrus précentral",
+        "cortex moteur primaire"
+      ],
+      "description": "Localisé dans le lobe temporal, il joue un rôle crucial dans l'audition.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gyrus de Hesthl",
+        "cortex auditif primaire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "incus de l'hippocampe",
+      "definition": "Région de l'hippocampe impliquée dans la mémoire et les émotions.",
+      "category": "anatomie",
+      "synonyms": [
+        "hippocampe"
+      ],
+      "related_terms": [
+        "amygdale",
+        "cortex temporal"
+      ],
+      "description": "Localisé dans le lobe temporal, il joue un rôle crucial dans la mémoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "incus de l'hippocampe",
+        "hippocampe"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "région péri-insulaire",
+      "definition": "Région du cortex cérébral située autour de l'insula, impliquée dans diverses fonctions sensorielles et émotionnelles.",
+      "category": "anatomie",
+      "synonyms": [
+        "cortex insulaire"
+      ],
+      "related_terms": [
+        "insula",
+        "cortex temporal"
+      ],
+      "description": "Joue un rôle dans la perception gustative et les émotions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "région péri-insulaire",
+        "cortex insulaire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémianopsie",
+      "definition": "Perte de la vision dans la moitié du champ visuel, souvent due à une lésion du cortex occipital.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémianopsie homonyme"
+      ],
+      "related_terms": [
+        "scotome",
+        "déficit visuel"
+      ],
+      "description": "Peut être causée par des crises épileptiques occipitales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémianopsie",
+        "déficit visuel"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticrises",
+      "definition": "Médicaments utilisés pour prévenir ou réduire la fréquence des crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antiépileptiques"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crises"
+      ],
+      "description": "Inclut des médicaments comme la carbamazépine et le valproate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticrises",
+        "antiépileptiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EPCT",
+      "definition": "Épilepsie à pointes centro-temporales, également connue sous le nom d'épilepsie rolandique.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie rolandique"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crises focales"
+      ],
+      "description": "Une forme d'épilepsie focale auto-limitée chez les enfants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EPCT",
+        "épilepsie rolandique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NRS",
+      "definition": "Nouveau-né à terme, terme médical désignant un bébé né après 37 semaines de gestation.",
+      "category": "classification",
+      "synonyms": [
+        "nouveau-né à terme"
+      ],
+      "related_terms": [
+        "prématuré",
+        "nourrisson"
+      ],
+      "description": "Utilisé pour décrire les bébés nés à terme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NRS",
+        "nouveau-né à terme"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypsarythmie",
+      "definition": "Un motif EEG caractéristique du syndrome de West, montrant une désorganisation totale du tracé de fond.",
+      "category": "imagerie",
+      "synonyms": [
+        "hypsarythmie EEG"
+      ],
+      "related_terms": [
+        "EEG",
+        "syndrome de West"
+      ],
+      "description": "Caractérisé par des ondes lentes très amples, des pointes et des pointes-ondes asynchrones.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypsarythmie",
+        "EEG syndrome de West"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sclérose tubéreuse de Bourneville",
+      "definition": "Maladie génétique rare caractérisée par la formation de tumeurs bénignes dans divers organes, notamment le cerveau, les reins, le cœur, les poumons, la peau et les yeux.",
+      "category": "pathologie",
+      "synonyms": [
+        "sclérose tubéreuse"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "tumeurs bénignes"
+      ],
+      "description": "La sclérose tubéreuse de Bourneville est souvent associée à des crises d'épilepsie, des troubles du développement et des anomalies cutanées.",
+      "expansion": null,
+      "clinical_significance": "Importante à diagnostiquer en raison de ses implications neurologiques et systémiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sclérose tubéreuse de Bourneville",
+        "tumeurs cérébrales bénignes"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie myoclonique juvénile",
+      "definition": "Forme d'épilepsie généralisée idiopathique qui débute à l'adolescence, caractérisée par des crises myocloniques, souvent déclenchées par le manque de sommeil, les réveils brusques et la photosensibilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie myoclonique"
+      ],
+      "related_terms": [
+        "crises myocloniques",
+        "photosensibilité"
+      ],
+      "description": "Les crises myocloniques précèdent souvent les crises généralisées tonico-cloniques de plusieurs mois ou années.",
+      "expansion": null,
+      "clinical_significance": "Sensible au traitement mais pharmacodépendante, avec un risque élevé de récidive après arrêt du traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épilepsie myoclonique juvénile",
+        "crises myocloniques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypointe-ondes (PPO)",
+      "definition": "Anomalies paroxystiques observées sur l'EEG, caractérisées par des complexes de pointes et d'ondes généralisées, souvent favorisées par la stimulation lumineuse intermittente.",
+      "category": "imagerie",
+      "synonyms": [
+        "PPO"
+      ],
+      "related_terms": [
+        "EEG",
+        "stimulation lumineuse intermittente"
+      ],
+      "description": "Les PPO sont fréquemment observées dans les épilepsies généralisées idiopathiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des épilepsies généralisées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polypointe-ondes",
+        "EEG épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diazépam (Valium)",
+      "definition": "Médicament benzodiazépinique utilisé pour le traitement des crises épileptiques, administré en intra-rectal chez l'enfant à une dose de 0.2 à 0.5 mg/kg.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Valium"
+      ],
+      "related_terms": [
+        "benzodiazépinique",
+        "crises épileptiques"
+      ],
+      "description": "Utilisé pour les crises épileptiques prolongées ou récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le contrôle rapide des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Diazépam",
+        "Valium"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clonazépam (Rivotril)",
+      "definition": "Médicament benzodiazépinique utilisé pour le traitement des crises épileptiques, administré en IV lent chez l'enfant à une dose de 0.05 à 0.1 mg/kg/j.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Rivotril"
+      ],
+      "related_terms": [
+        "benzodiazépinique",
+        "crises épileptiques"
+      ],
+      "description": "Utilisé pour les crises épileptiques prolongées ou récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le contrôle rapide des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Clonazépam",
+        "Rivotril"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "état de mal épileptique",
+      "definition": "Situation médicale d'urgence caractérisée par la persistance d'une crise épileptique pendant plus de 5 minutes ou la répétition de crises avec des intervalles brefs sans reprise de l'état de conscience normale.",
+      "category": "pathologie",
+      "synonyms": [
+        "EME"
+      ],
+      "related_terms": [
+        "crises épileptiques",
+        "lésions cérébrales"
+      ],
+      "description": "L'état de mal épileptique peut entraîner des lésions cérébrales et une pharmaco-résistance si non traité rapidement.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge urgente pour éviter des complications neurologiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "état de mal épileptique",
+        "crises épileptiques prolongées"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises fébriles",
+      "definition": "Crises épileptiques survenant dans un contexte fébrile, non causées par une infection du système nerveux central, chez un enfant âgé de 6 mois à 5 ans.",
+      "category": "pathologie",
+      "synonyms": [
+        "CF"
+      ],
+      "related_terms": [
+        "fièvre",
+        "système nerveux central"
+      ],
+      "description": "Les crises fébriles peuvent être simples ou compliquées et ont un risque de récidive variable.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des crises épileptiques chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "crises fébriles",
+        "épilepsie fébrile"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dépakine",
+      "definition": "Médicament antiépileptique utilisé pour le traitement de fond des crises fébriles simples, administré pendant 2 ans dès la première crise si associée à d'autres signes cliniques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "valproate de sodium"
+      ],
+      "related_terms": [
+        "crises fébriles",
+        "traitement de fond"
+      ],
+      "description": "Indiqué pour les crises fébriles simples avec des signes cliniques associés.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la prévention des récidives de crises fébriles.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Dépakine",
+        "valproate de sodium"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Épilepsie absence",
+      "definition": "Type d'épilepsie caractérisée par des absences, des pertes de conscience brèves et soudaines.",
+      "category": "pathologie",
+      "synonyms": [
+        "Petit mal"
+      ],
+      "related_terms": [
+        "Absence épileptique"
+      ],
+      "description": "Les absences sont souvent associées à des crises généralisées non convulsives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de WEST",
+      "definition": "Syndrome épileptique infantile caractérisé par des spasmes infantiles, une hypsarythmie à l'EEG et une régression du développement.",
+      "category": "pathologie",
+      "synonyms": [
+        "Spasmes infantiles"
+      ],
+      "related_terms": [
+        "Hypsarythmie",
+        "Régression développementale"
+      ],
+      "description": "Les spasmes infantiles sont des contractions musculaires brèves et répétées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crises toniques ou atoniques",
+      "definition": "Crises épileptiques caractérisées par une perte de tonus musculaire (atoniques) ou une contraction musculaire soutenue (toniques).",
+      "category": "pathologie",
+      "synonyms": [
+        "Crises atoniques",
+        "Crises toniques"
+      ],
+      "related_terms": [
+        "Perte de tonus musculaire",
+        "Contraction musculaire soutenue"
+      ],
+      "description": "Les crises atoniques peuvent entraîner des chutes, tandis que les crises toniques peuvent provoquer des raideurs musculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac Valproique",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Valproate de sodium",
+        "Dépakine"
+      ],
+      "related_terms": [
+        "Antiépileptique"
+      ],
+      "description": "Peut causer des effets secondaires tels que des troubles hématologiques, des troubles digestifs et des tremblements.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Éthosuximide",
+      "definition": "Médicament antiépileptique utilisé principalement pour traiter les absences épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Absences épileptiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que des nausées, des vomissements et des troubles comportementaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Carbamazépine",
+      "definition": "Médicament antiépileptique utilisé pour traiter les crises partielles et généralisées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises partielles",
+        "Crises généralisées"
+      ],
+      "description": "Peut causer des effets secondaires tels que des atteintes hématologiques, des troubles hépatiques et des insuffisances rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phénobarbital",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises épileptiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que des troubles cutanés graves, des troubles mnésiques et des troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phénytoïne",
+      "definition": "Médicament antiépileptique utilisé pour traiter les crises partielles et généralisées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises partielles",
+        "Crises généralisées"
+      ],
+      "description": "Peut causer des effets secondaires tels que des atteintes hématologiques graves, une hypertrophie gingivale et des déficits en folates.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Vigabatrin",
+      "definition": "Médicament antiépileptique utilisé pour traiter les spasmes infantiles et les crises partielles.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Spasmes infantiles",
+        "Crises partielles"
+      ],
+      "description": "Peut causer des effets secondaires tels que des troubles visuels et une sédation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lamotrigine",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises épileptiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que des atteintes cutanées graves, des troubles digestifs et des vertiges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Levetiracétam",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises épileptiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que des troubles hématologiques, des troubles de l'humeur et des céphalées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Topiramate",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Crises épileptiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que des lithiases urinaires, des troubles cognitifs et des troubles de la mémoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sd Lyell",
+      "definition": "Syndrome de Lyell, également connu sous le nom de nécrolyse épidermique toxique, est une réaction cutanée grave et potentiellement mortelle.",
+      "category": "pathologie",
+      "synonyms": [
+        "Nécrolyse épidermique toxique"
+      ],
+      "related_terms": [
+        "Réaction cutanée grave"
+      ],
+      "description": "Caractérisé par une desquamation de la peau et des muqueuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sd Stevens Johnson",
+      "definition": "Syndrome de Stevens-Johnson, une réaction cutanée grave caractérisée par une éruption cutanée sévère et une desquamation de la peau.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome de Stevens-Johnson"
+      ],
+      "related_terms": [
+        "Réaction cutanée grave"
+      ],
+      "description": "Peut être causé par des médicaments ou des infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sd cérébello-vestibulaire",
+      "definition": "Syndrome cérébello-vestibulaire, caractérisé par des troubles de la coordination et de l'équilibre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Troubles de la coordination",
+        "Troubles de l'équilibre"
+      ],
+      "description": "Peut inclure des symptômes tels que l'ataxie et les vertiges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVK",
+      "definition": "Antivitamines K, une classe de médicaments anticoagulants qui inhibent l'action de la vitamine K.",
+      "category": "acronyme",
+      "synonyms": [
+        "Anticoagulants oraux"
+      ],
+      "related_terms": [
+        "Anticoagulants",
+        "Vitamine K"
+      ],
+      "description": "Utilisés pour prévenir la formation de caillots sanguins.",
+      "expansion": "Antivitamines K",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise épileptique",
+      "definition": "Manifestation neurologique paroxystique pouvant être motrice, sensitive, sensorielle, végétative ou cognitive, de durée brève, accompagnée ou non d'une perte de conscience et liée à une décharge anormale, excessive et hyper synchrone d'une population plus ou moins étendue des aires corticaux et sous corticaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise comitiale"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "électroencéphalogramme"
+      ],
+      "description": "Les crises épileptiques peuvent être généralisées ou focales et sont souvent accompagnées d'anomalies à l'électroencéphalogramme.",
+      "expansion": null,
+      "clinical_significance": "Les crises épileptiques nécessitent une évaluation et un traitement rapides pour éviter des complications neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "électroencéphalogramme",
+        "crise épileptique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie",
+      "definition": "Maladie neurologique chronique d'étiologies diverses caractérisée par la tendance durable à la répétition des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie comitiale"
+      ],
+      "related_terms": [
+        "crise épileptique",
+        "syndrome épileptique"
+      ],
+      "description": "L'épilepsie peut être diagnostiquée par la survenue de deux crises non provoquées ou par la présence d'un syndrome épileptique.",
+      "expansion": null,
+      "clinical_significance": "Le diagnostic et la gestion de l'épilepsie sont cruciaux pour améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épilepsie",
+        "syndrome épileptique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "International League Against Epilepsy",
+      "definition": "Organisation internationale dédiée à la recherche et au traitement de l'épilepsie, fournissant des définitions et des classifications standardisées.",
+      "category": "classification",
+      "synonyms": [
+        "ILAE"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'ILAE joue un rôle clé dans la définition et la classification des épilepsies et des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ILAE",
+        "épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électroencéphalogramme",
+      "definition": "Examen médical qui enregistre l'activité électrique du cerveau à l'aide d'électrodes placées sur le cuir chevelu.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG"
+      ],
+      "related_terms": [
+        "crise épileptique",
+        "épilepsie"
+      ],
+      "description": "L'EEG est utilisé pour diagnostiquer les crises épileptiques et d'autres troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "électroencéphalogramme",
+        "EEG"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticaux",
+      "definition": "Relatif au cortex cérébral, la couche externe du cerveau responsable des fonctions cognitives, sensorielles et motrices.",
+      "category": "anatomie",
+      "synonyms": [
+        "cortical"
+      ],
+      "related_terms": [
+        "sous corticaux",
+        "cortex cérébral"
+      ],
+      "description": "Les aires corticaux sont impliquées dans diverses fonctions neurologiques et peuvent être affectées par des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cortex cérébral",
+        "aires corticaux"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sous corticaux",
+      "definition": "Relatif aux structures situées sous le cortex cérébral, incluant le thalamus, l'hypothalamus et les ganglions de la base.",
+      "category": "anatomie",
+      "synonyms": [
+        "sous-cortical"
+      ],
+      "related_terms": [
+        "corticaux",
+        "cortex cérébral"
+      ],
+      "description": "Les structures sous corticaux jouent un rôle dans la régulation des fonctions neurologiques et peuvent être impliquées dans les crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "structures sous corticaux",
+        "thalamus"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie absence de l'enfant",
+      "definition": "Type d'épilepsie caractérisé par des absences, des pertes brèves de conscience sans convulsions, survenant principalement chez les enfants.",
+      "category": "pathologie",
+      "synonyms": [
+        "absences épileptiques"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "syndrome épileptique"
+      ],
+      "description": "L'épilepsie absence de l'enfant est souvent diagnostiquée par des anomalies spécifiques à l'EEG.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "épilepsie absence",
+        "EEG"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie avec pointes centro-temporales",
+      "definition": "Syndrome épileptique bénin de l'enfance caractérisé par des crises partielles simples ou complexes, souvent nocturnes, et des anomalies EEG spécifiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie rolandique"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "syndrome épileptique"
+      ],
+      "description": "Ce type d'épilepsie est généralement bénin et disparaît souvent à l'adolescence.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "épilepsie rolandique",
+        "EEG"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise fébrile",
+      "definition": "Crises convulsives provoquées par une fièvre élevée, généralement chez les enfants, sans cause sous-jacente identifiable.",
+      "category": "pathologie",
+      "synonyms": [
+        "convulsions fébriles"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "Les crises fébriles sont généralement bénignes mais peuvent nécessiter une évaluation pour exclure d'autres causes de convulsions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crise fébrile",
+        "convulsions fébriles"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médicaments antiépileptiques",
+      "definition": "Médicaments utilisés pour prévenir ou réduire la fréquence des crises épileptiques en modulant l'activité neuronale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antiépileptiques"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "Les médicaments antiépileptiques doivent être prescrits avec précaution en raison de leurs effets indésirables potentiels et interactions médicamenteuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "médicaments antiépileptiques",
+        "antiépileptiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypoglycémie",
+      "definition": "État de faible taux de glucose dans le sang, pouvant provoquer des symptômes neurologiques, y compris des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoglycémie"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'hypoglycémie est une cause fréquente de crises épileptiques symptomatiques aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoglycémie",
+        "glucose sanguin"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyponatrémie",
+      "definition": "État de faible concentration de sodium dans le sang, pouvant provoquer des symptômes neurologiques, y compris des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyponatrémie"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'hyponatrémie est une cause fréquente de crises épileptiques symptomatiques aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyponatrémie",
+        "sodium sanguin"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocalcémie",
+      "definition": "État de faible concentration de calcium dans le sang, pouvant provoquer des symptômes neurologiques, y compris des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocalcémie"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'hypocalcémie est une cause fréquente de crises épileptiques symptomatiques aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypocalcémie",
+        "calcium sanguin"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypomagnésémie",
+      "definition": "État de faible concentration de magnésium dans le sang, pouvant provoquer des symptômes neurologiques, y compris des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypomagnésémie"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'hypomagnésémie est une cause fréquente de crises épileptiques symptomatiques aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypomagnésémie",
+        "magnésium sanguin"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperurécemie",
+      "definition": "État de concentration élevée d'acide urique dans le sang, pouvant provoquer des symptômes neurologiques, y compris des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperurécemie"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "L'hyperurécemie est une cause fréquente de crises épileptiques symptomatiques aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperurécemie",
+        "acide urique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pro-convulsif",
+      "definition": "Substance ou médicament qui augmente le risque de crises épileptiques en abaissant le seuil convulsif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pro-convulsif"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "Les médicaments pro-convulsifs doivent être utilisés avec précaution chez les patients à risque de crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pro-convulsif",
+        "médicament"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise focale avec bi latéralisation",
+      "definition": "Crises épileptiques débutant dans une région spécifique du cortex cérébral et se propageant aux deux hémisphères.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise partielle secondairement généralisée"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise épileptique"
+      ],
+      "description": "Les crises focales avec bi latéralisation étaient auparavant appelées crises partielles secondairement généralisées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crise focale avec bi latéralisation",
+        "EEG"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EEG critique",
+      "definition": "Électroencéphalogramme réalisé pendant une crise épileptique.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG ictal"
+      ],
+      "related_terms": [
+        "EEG intercritique",
+        "EEG vidéo"
+      ],
+      "description": "Utilisé pour confirmer la nature épileptique de la crise.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour le diagnostic positif de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EEG critique",
+        "EEG ictal"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EEG intercritique",
+      "definition": "Électroencéphalogramme réalisé entre les crises épileptiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG interictal"
+      ],
+      "related_terms": [
+        "EEG critique",
+        "EEG vidéo"
+      ],
+      "description": "Peut être normal dans 40 % des cas et n'élimine pas le diagnostic.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le diagnostic et le suivi de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EEG intercritique",
+        "EEG interictal"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EEG vidéo",
+      "definition": "Électroencéphalogramme couplé à une vidéo pour enregistrer les crises épileptiques.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG vidéo"
+      ],
+      "related_terms": [
+        "EEG critique",
+        "EEG intercritique"
+      ],
+      "description": "Utilisé pour confirmer la nature épileptique de la crise et différencier des crises non épileptiques psychogènes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EEG vidéo",
+        "EEG video"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Holter EEG",
+      "definition": "Électroencéphalogramme ambulatoire de longue durée.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG ambulatoire"
+      ],
+      "related_terms": [
+        "EEG critique",
+        "EEG intercritique"
+      ],
+      "description": "Utilisé pour enregistrer les crises épileptiques sur une période prolongée.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le diagnostic et le suivi de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Holter EEG",
+        "EEG ambulatoire"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident ischémique transitoire (AIT)",
+      "definition": "Épisode transitoire de dysfonction neurologique causé par une ischémie cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "AIT"
+      ],
+      "related_terms": [
+        "crises focales motrices atoniques"
+      ],
+      "description": "Se distingue d'une crise focale par une durée plus longue.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "accident ischémique transitoire",
+        "AIT"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraine",
+      "definition": "Mal de tête souvent accompagné de symptômes neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "migraine"
+      ],
+      "related_terms": [
+        "crises focales sensorielles"
+      ],
+      "description": "Peut comporter des symptômes hallucinatoires ou illusionnels ressemblant à une crise focale sensorielle.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "migraine",
+        "mal de tête"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parasomnies",
+      "definition": "Troubles du sommeil comportant des comportements anormaux pendant le sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "parasomnies"
+      ],
+      "related_terms": [
+        "crises focales"
+      ],
+      "description": "Peuvent se manifester par un somnambulisme ou des terreurs nocturnes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "parasomnies",
+        "troubles du sommeil"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise non épileptique psychogène (CNEP)",
+      "definition": "Crises ressemblant à des crises épileptiques mais sans activité épileptique sous-jacente.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudo-crise"
+      ],
+      "related_terms": [
+        "EEG vidéo"
+      ],
+      "description": "Peuvent être difficiles à différencier des crises épileptiques authentiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel de l'épilepsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "crise non épileptique psychogène",
+        "pseudo-crise"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsies",
+      "definition": "Les épilepsies sont un groupe de troubles neurologiques caractérisés par des crises épileptiques récurrentes, qui sont des épisodes de perturbations électriques dans le cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises épileptiques",
+        "troubles épileptiques"
+      ],
+      "related_terms": [
+        "crise tonico-clonique",
+        "absence épileptique"
+      ],
+      "description": "Les épilepsies peuvent avoir diverses causes, y compris des anomalies génétiques, des lésions cérébrales, des troubles métaboliques, et des infections.",
+      "expansion": null,
+      "clinical_significance": "Le diagnostic et le traitement des épilepsies sont essentiels pour prévenir les complications et améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "astrocytome de bas grade",
+      "definition": "Une tumeur cérébrale bénigne qui se développe à partir des astrocytes, un type de cellule gliale dans le cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "astrocytome",
+        "tumeur astrocytaire"
+      ],
+      "related_terms": [
+        "oligodendrogliome",
+        "méningiome"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les astrocytomes de bas grade peuvent causer des crises épileptiques et nécessitent une surveillance et un traitement appropriés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligodendrogliome",
+      "definition": "Une tumeur cérébrale qui se développe à partir des oligodendrocytes, un type de cellule gliale dans le cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur oligodendrogliale"
+      ],
+      "related_terms": [
+        "astrocytome",
+        "méningiome"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les oligodendrogliomes peuvent être associés à des crises épileptiques et nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningiome",
+      "definition": "Une tumeur bénigne qui se développe à partir des méninges, les membranes qui entourent le cerveau et la moelle épinière.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur méningée"
+      ],
+      "related_terms": [
+        "astrocytome",
+        "oligodendrogliome"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les méningiomes peuvent provoquer des crises épileptiques et nécessitent une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiomes",
+      "definition": "Malformations vasculaires bénignes caractérisées par une prolifération anormale de vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "malformations vasculaires"
+      ],
+      "related_terms": [
+        "cavernomes",
+        "malformations artério-veineuses"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les angiomes peuvent être associés à des crises épileptiques et nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cavernomes",
+      "definition": "Malformations vasculaires cérébrales caractérisées par des amas de vaisseaux sanguins anormaux ressemblant à des cavernes.",
+      "category": "pathologie",
+      "synonyms": [
+        "malformations caverneuses"
+      ],
+      "related_terms": [
+        "angiomes",
+        "malformations artério-veineuses"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les cavernomes peuvent provoquer des crises épileptiques et nécessitent une surveillance et un traitement appropriés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysplasie corticale",
+      "definition": "Anomalie du développement du cortex cérébral caractérisée par une organisation anormale des neurones.",
+      "category": "pathologie",
+      "synonyms": [
+        "malformation corticale"
+      ],
+      "related_terms": [
+        "mégalencéphalie",
+        "hétérotopie neuronale"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "La dysplasie corticale est souvent associée à des crises épileptiques et nécessite une évaluation neurologique approfondie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mégalencéphalie",
+      "definition": "Condition caractérisée par un cerveau anormalement grand, souvent associée à des anomalies du développement cortical.",
+      "category": "pathologie",
+      "synonyms": [
+        "macrocéphalie"
+      ],
+      "related_terms": [
+        "dysplasie corticale",
+        "hétérotopie neuronale"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "La mégalencéphalie peut être associée à des crises épileptiques et nécessite une évaluation neurologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalite autoimmune à anticorps anti NMDA",
+      "definition": "Une forme d'encéphalite auto-immune causée par des anticorps dirigés contre les récepteurs NMDA, entraînant des symptômes neurologiques et psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalite anti-NMDA"
+      ],
+      "related_terms": [
+        "encéphalite",
+        "anticorps anti-NMDA"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Cette encéphalite nécessite un traitement immunosuppresseur et peut être associée à des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amino-acidopathies",
+      "definition": "Troubles métaboliques caractérisés par des anomalies dans le métabolisme des acides aminés.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles du métabolisme des acides aminés"
+      ],
+      "related_terms": [
+        "porphyrie",
+        "déficit cérébral en folate"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les amino-acidopathies peuvent provoquer des crises épileptiques et nécessitent une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "porphyrie",
+      "definition": "Groupe de troubles métaboliques caractérisés par des anomalies dans la synthèse de l'hème, pouvant entraîner des symptômes neurologiques et cutanés.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles porphyriques"
+      ],
+      "related_terms": [
+        "amino-acidopathies",
+        "déficit cérébral en folate"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "La porphyrie peut être associée à des crises épileptiques et nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalites",
+      "definition": "Inflammation du cerveau causée par une infection virale, bactérienne ou parasitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation cérébrale"
+      ],
+      "related_terms": [
+        "méningo-encéphalites",
+        "abcès cérébraux"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les encéphalites peuvent provoquer des crises épileptiques et nécessitent un traitement médical urgent.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningo-encéphalites",
+      "definition": "Inflammation des méninges et du cerveau causée par une infection virale, bactérienne ou parasitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation méningo-cérébrale"
+      ],
+      "related_terms": [
+        "encéphalites",
+        "abcès cérébraux"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les méningo-encéphalites peuvent provoquer des crises épileptiques et nécessitent un traitement médical urgent.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès cérébraux",
+      "definition": "Collections de pus dans le cerveau causées par une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès intracérébraux"
+      ],
+      "related_terms": [
+        "encéphalites",
+        "méningo-encéphalites"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les abcès cérébraux peuvent provoquer des crises épileptiques et nécessitent un traitement médical urgent.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypointes",
+      "definition": "Activité électrique anormale sur l'EEG caractérisée par des pointes multiples rapides.",
+      "category": "physiologie",
+      "synonyms": [
+        "pointes multiples"
+      ],
+      "related_terms": [
+        "poly-pointes-ondes",
+        "EEG"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les polypointes sont souvent observées pendant la phase tonique des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "poly-pointes-ondes",
+      "definition": "Activité électrique anormale sur l'EEG caractérisée par des pointes multiples suivies d'ondes lentes.",
+      "category": "physiologie",
+      "synonyms": [
+        "pointes-ondes multiples"
+      ],
+      "related_terms": [
+        "polypointes",
+        "EEG"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les poly-pointes-ondes sont souvent observées pendant la phase clonique des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pointes-ondes",
+      "definition": "Activité électrique anormale sur l'EEG caractérisée par des pointes suivies d'ondes lentes.",
+      "category": "physiologie",
+      "synonyms": [
+        "pointes et ondes"
+      ],
+      "related_terms": [
+        "EEG",
+        "absences typiques"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les pointes-ondes sont souvent observées pendant les absences épileptiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myoclonies",
+      "definition": "Contractions musculaires brèves et involontaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "secousses musculaires"
+      ],
+      "related_terms": [
+        "crise myoclonique",
+        "absence myoclonique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les myoclonies peuvent être un signe de crises épileptiques myocloniques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épileptiformes",
+      "definition": "Activité électrique anormale sur l'EEG caractéristique des crises épileptiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "activité épileptique"
+      ],
+      "related_terms": [
+        "EEG",
+        "crises focales"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": "Les anomalies épileptiformes sont essentielles pour le diagnostic des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cloniques",
+      "definition": "Contractions musculaires rythmiques et répétitives.",
+      "category": "physiologie",
+      "synonyms": [
+        "clonies"
+      ],
+      "related_terms": [
+        "toniques",
+        "myocloniques"
+      ],
+      "description": "Les contractions cloniques sont des mouvements involontaires et répétitifs des muscles, souvent observés dans les crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toniques",
+      "definition": "Contractions musculaires soutenues et continues.",
+      "category": "physiologie",
+      "synonyms": [
+        "tonus"
+      ],
+      "related_terms": [
+        "cloniques",
+        "myocloniques"
+      ],
+      "description": "Les contractions toniques sont des mouvements musculaires prolongés et soutenus, souvent observés dans certaines formes de crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atoniques",
+      "definition": "Perte soudaine du tonus musculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "atonie"
+      ],
+      "related_terms": [
+        "cloniques",
+        "toniques"
+      ],
+      "description": "Les crises atoniques se caractérisent par une perte soudaine du tonus musculaire, entraînant souvent des chutes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocloniques",
+      "definition": "Contractions musculaires brèves et involontaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "myoclonies"
+      ],
+      "related_terms": [
+        "cloniques",
+        "toniques"
+      ],
+      "description": "Les myoclonies sont des contractions musculaires brèves et soudaines, souvent observées dans certaines formes d'épilepsie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spasme épileptique",
+      "definition": "Contraction musculaire brève et intense, souvent observée dans le syndrome de West.",
+      "category": "pathologie",
+      "synonyms": [
+        "spasme infantile"
+      ],
+      "related_terms": [
+        "myoclonies",
+        "crises tonico-cloniques"
+      ],
+      "description": "Les spasmes épileptiques sont des contractions musculaires brèves et intenses, typiques du syndrome de West chez les nourrissons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperkinétiques",
+      "definition": "Mouvements excessifs et agités.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperkinésie"
+      ],
+      "related_terms": [
+        "automatismes",
+        "myoclonies"
+      ],
+      "description": "Les mouvements hyperkinétiques sont des mouvements excessifs et agités, souvent observés dans certaines formes de crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "automatismes",
+      "definition": "Mouvements répétitifs et semi-automatiques, souvent observés dans les crises épileptiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "automatismes moteurs"
+      ],
+      "related_terms": [
+        "hyperkinétiques",
+        "myoclonies"
+      ],
+      "description": "Les automatismes sont des mouvements répétitifs et semi-automatiques, souvent observés dans les crises épileptiques focales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pariétale",
+      "definition": "Relatif au lobe pariétal du cerveau, impliqué dans la perception sensorielle.",
+      "category": "anatomie",
+      "synonyms": [
+        "lobe pariétal"
+      ],
+      "related_terms": [
+        "occipitale",
+        "temporale"
+      ],
+      "description": "Le lobe pariétal est une région du cerveau impliquée dans la perception sensorielle et l'intégration des informations sensorielles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paresthésies",
+      "definition": "Sensations anormales de la peau, souvent décrites comme des picotements ou des engourdissements.",
+      "category": "pathologie",
+      "synonyms": [
+        "paresthésie"
+      ],
+      "related_terms": [
+        "dysesthésies",
+        "hypoesthésies"
+      ],
+      "description": "Les paresthésies sont des sensations anormales de la peau, souvent décrites comme des picotements ou des engourdissements.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occipitale",
+      "definition": "Relatif au lobe occipital du cerveau, impliqué dans la vision.",
+      "category": "anatomie",
+      "synonyms": [
+        "lobe occipital"
+      ],
+      "related_terms": [
+        "pariétale",
+        "temporale"
+      ],
+      "description": "Le lobe occipital est une région du cerveau principalement responsable du traitement des informations visuelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scotome",
+      "definition": "Zone de diminution ou de perte de la vision dans le champ visuel.",
+      "category": "pathologie",
+      "synonyms": [
+        "scotome"
+      ],
+      "related_terms": [
+        "hémianopsie",
+        "phosphènes"
+      ],
+      "description": "Un scotome est une zone de diminution ou de perte de la vision dans le champ visuel, souvent observée dans certaines pathologies oculaires ou neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "temporale",
+      "definition": "Relatif au lobe temporal du cerveau, impliqué dans l'audition et la mémoire.",
+      "category": "anatomie",
+      "synonyms": [
+        "lobe temporal"
+      ],
+      "related_terms": [
+        "pariétale",
+        "occipitale"
+      ],
+      "description": "Le lobe temporal est une région du cerveau impliquée dans l'audition, la mémoire et le langage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hippocampe",
+      "definition": "Structure du lobe temporal impliquée dans la mémoire et la navigation spatiale.",
+      "category": "anatomie",
+      "synonyms": [
+        "hippocampe"
+      ],
+      "related_terms": [
+        "amygdale",
+        "cortex temporal"
+      ],
+      "description": "L'hippocampe est une structure du lobe temporal impliquée dans la mémoire et la navigation spatiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péri-insulaire",
+      "definition": "Région autour de l'insula, impliquée dans diverses fonctions sensorielles et motrices.",
+      "category": "anatomie",
+      "synonyms": [
+        "région insulaire"
+      ],
+      "related_terms": [
+        "insula",
+        "cortex insulaire"
+      ],
+      "description": "La région péri-insulaire est une zone autour de l'insula, impliquée dans diverses fonctions sensorielles et motrices.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paragueusie",
+      "definition": "Perception erronée du goût.",
+      "category": "pathologie",
+      "synonyms": [
+        "paragueusie"
+      ],
+      "related_terms": [
+        "dysgueusie",
+        "agueusie"
+      ],
+      "description": "La paragueusie est une perception erronée du goût, souvent observée dans certaines pathologies neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie généralisée idiopathique",
+      "definition": "Forme d'épilepsie caractérisée par des crises généralisées sans cause sous-jacente identifiable.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie idiopathique généralisée"
+      ],
+      "related_terms": [
+        "épilepsie focale",
+        "épilepsie symptomatique"
+      ],
+      "description": "L'épilepsie généralisée idiopathique est une forme d'épilepsie caractérisée par des crises généralisées sans cause sous-jacente identifiable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticrises épileptiques",
+      "definition": "Médicaments utilisés pour prévenir ou réduire la fréquence des crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anticonvulsivants",
+        "antiépileptiques"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "barbituriques"
+      ],
+      "description": "Les anticrises épileptiques sont des médicaments utilisés pour prévenir ou réduire la fréquence des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie focale autolimitée",
+      "definition": "Forme d'épilepsie caractérisée par des crises focales qui disparaissent spontanément avec l'âge.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie bénigne de l'enfance"
+      ],
+      "related_terms": [
+        "épilepsie généralisée",
+        "épilepsie symptomatique"
+      ],
+      "description": "L'épilepsie focale autolimitée est une forme d'épilepsie caractérisée par des crises focales qui disparaissent spontanément avec l'âge.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie épileptique",
+      "definition": "Trouble neurologique caractérisé par des crises épileptiques et une altération du développement cognitif et moteur.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie épileptique"
+      ],
+      "related_terms": [
+        "syndrome de West",
+        "encéphalopathie"
+      ],
+      "description": "L'encéphalopathie épileptique est un trouble neurologique caractérisé par des crises épileptiques et une altération du développement cognitif et moteur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PO",
+      "definition": "Pointes-ondes, un motif EEG caractérisé par des pointes suivies d'ondes lentes.",
+      "category": "imagerie",
+      "synonyms": [
+        "pointes-ondes"
+      ],
+      "related_terms": [
+        "EEG",
+        "hypsarythmie"
+      ],
+      "description": "Souvent observé dans les épilepsies généralisées.",
+      "expansion": "",
+      "clinical_significance": "Indicateur important de l'activité épileptique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "EEG pointes-ondes",
+        "épilepsie généralisée"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SW",
+      "definition": "Syndrome de West, une forme sévère d'épilepsie infantile caractérisée par des spasmes infantiles.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de West"
+      ],
+      "related_terms": [
+        "hypsarythmie",
+        "sclérose tubéreuse de Bourneville"
+      ],
+      "description": "Souvent associé à des anomalies structurelles ou génétiques.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une intervention rapide pour améliorer le pronostic.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome de West",
+        "spasmes infantiles"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsies généralisées idiopathiques",
+      "definition": "Un groupe d'épilepsies sans cause structurelle ou métabolique identifiable, souvent d'origine génétique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie myoclonique juvénile",
+        "myocloniques"
+      ],
+      "description": "Inclut plusieurs syndromes épileptiques avec des caractéristiques cliniques spécifiques.",
+      "expansion": "",
+      "clinical_significance": "Important pour le choix du traitement et le pronostic.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "épilepsies généralisées idiopathiques",
+        "syndromes épileptiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "photosensibilité",
+      "definition": "Sensibilité accrue aux stimuli lumineux, pouvant déclencher des crises épileptiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie myoclonique juvénile",
+        "myocloniques"
+      ],
+      "description": "Observée dans certaines formes d'épilepsie, notamment l'épilepsie myoclonique juvénile.",
+      "expansion": "",
+      "clinical_significance": "Important pour éviter les déclencheurs de crises.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "photosensibilité épilepsie",
+        "stimuli lumineux"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypointeondes",
+      "definition": "Un motif EEG caractérisé par des pointes multiples suivies d'ondes lentes, souvent observé dans les épilepsies généralisées.",
+      "category": "imagerie",
+      "synonyms": [
+        "PPO"
+      ],
+      "related_terms": [
+        "EEG",
+        "épilepsie myoclonique juvénile"
+      ],
+      "description": "Souvent favorisé par la stimulation lumineuse intermittente.",
+      "expansion": "",
+      "clinical_significance": "Indicateur important de l'activité épileptique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "EEG polypointeondes",
+        "épilepsie généralisée"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharmacodépendante",
+      "definition": "Dépendance à un médicament, où l'arrêt du traitement entraîne souvent une récidive des symptômes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie myoclonique juvénile",
+        "antiépileptiques"
+      ],
+      "description": "Observée dans certaines formes d'épilepsie où le traitement doit être maintenu à long terme.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion à long terme des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pharmacodépendance",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticrise épileptique",
+      "definition": "Médicament utilisé pour arrêter une crise épileptique en cours.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "benzodiazépine",
+        "Diazépam",
+        "Clonazépam"
+      ],
+      "description": "Utilisé en situation d'urgence pour contrôler les crises épileptiques.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la gestion des crises épileptiques aiguës.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anticrise épileptique",
+        "benzodiazépine"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "benzodiazépine",
+      "definition": "Classe de médicaments utilisés pour leur effet sédatif, anxiolytique et anticonvulsivant.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Diazépam",
+        "Clonazépam",
+        "anticrise épileptique"
+      ],
+      "description": "Utilisées pour arrêter les crises épileptiques en cours.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la gestion des crises épileptiques aiguës.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "benzodiazépine",
+        "Diazépam"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diazépam",
+      "definition": "Un médicament benzodiazépinique utilisé pour ses propriétés anxiolytiques, sédatives et anticonvulsivantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Valium"
+      ],
+      "related_terms": [
+        "benzodiazépine",
+        "anticrise épileptique"
+      ],
+      "description": "Utilisé pour arrêter les crises épileptiques en cours.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la gestion des crises épileptiques aiguës.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Diazépam",
+        "Valium"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clonazépam",
+      "definition": "Un médicament benzodiazépinique utilisé principalement pour ses propriétés anticonvulsivantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Rivotril"
+      ],
+      "related_terms": [
+        "benzodiazépine",
+        "anticrise épileptique"
+      ],
+      "description": "Utilisé pour arrêter les crises épileptiques en cours.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la gestion des crises épileptiques aiguës.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Clonazépam",
+        "Rivotril"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TCG",
+      "definition": "Crises tonico-cloniques généralisées, un type de crise épileptique caractérisée par une phase tonique suivie d'une phase clonique.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises tonico-cloniques généralisées"
+      ],
+      "related_terms": [
+        "état de mal épileptique",
+        "crises focales"
+      ],
+      "description": "Peut évoluer vers un état de mal épileptique si elle dure plus de 5 minutes.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une intervention rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "crises tonico-cloniques généralisées",
+        "état de mal épileptique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisme crânien",
+      "definition": "Une blessure à la tête pouvant entraîner des lésions cérébrales et des complications neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fracture",
+        "épilepsie"
+      ],
+      "description": "Peut être associé à des crises épileptiques et nécessite une hospitalisation systématique.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients avec des crises épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "traumatisme crânien",
+        "lésions cérébrales"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture",
+      "definition": "Rupture d'un os ou d'un cartilage.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "traumatisme crânien",
+        "épilepsie"
+      ],
+      "description": "Peut être associée à des crises épileptiques et nécessite une hospitalisation systématique.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients avec des crises épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "fracture",
+        "lésions osseuses"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monothérapie",
+      "definition": "Traitement utilisant un seul médicament pour contrôler une condition médicale.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "bi-thérapie",
+        "trithérapie"
+      ],
+      "description": "Préférée pour minimiser les effets secondaires et les interactions médicamenteuses.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "monothérapie",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bi-thérapie",
+      "definition": "Traitement utilisant deux médicaments pour contrôler une condition médicale.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "monothérapie",
+        "trithérapie"
+      ],
+      "description": "Utilisée lorsque la monothérapie échoue.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bi-thérapie",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trithérapie",
+      "definition": "Traitement utilisant trois médicaments pour contrôler une condition médicale.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "monothérapie",
+        "bi-thérapie"
+      ],
+      "description": "Utilisée lorsque la monothérapie et la bi-thérapie échouent.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "trithérapie",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie pharmacorésistante",
+      "definition": "Une forme d'épilepsie qui ne répond pas aux traitements médicamenteux conventionnels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "monothérapie",
+        "bi-thérapie"
+      ],
+      "description": "Nécessite une réévaluation du diagnostic et des options de traitement.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients avec des crises réfractaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "épilepsie pharmacorésistante",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiépileptiques",
+      "definition": "Médicaments utilisés pour prévenir ou contrôler les crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "monothérapie",
+        "bi-thérapie"
+      ],
+      "description": "Choix du médicament dépend du type de crise et du syndrome épileptique.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "antiépileptiques",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acide Valproique",
+      "definition": "Un médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Valproate"
+      ],
+      "related_terms": [
+        "épilepsie absence",
+        "Éthosuximide",
+        "Leviteracetam"
+      ],
+      "description": "Efficace pour les crises généralisées et partielles.",
+      "expansion": "",
+      "clinical_significance": "Important pour le traitement des épilepsies généralisées et partielles.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Acide Valproique",
+        "Valproate"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leviteracetam",
+      "definition": "Un médicament antiépileptique utilisé pour traiter les crises partielles et généralisées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "Acide Valproique"
+      ],
+      "description": "Efficace pour divers types de crises épileptiques.",
+      "expansion": "",
+      "clinical_significance": "Important pour le traitement des épilepsies généralisées et partielles.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Leviteracetam",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phénytoine",
+      "definition": "Un médicament antiépileptique utilisé pour traiter les crises partielles et généralisées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "Carbamazépine"
+      ],
+      "description": "Efficace pour divers types de crises épileptiques mais peut causer des effets secondaires graves.",
+      "expansion": "",
+      "clinical_significance": "Important pour le traitement des épilepsies généralisées et partielles.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Phénytoine",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gabapentine",
+      "definition": "Un médicament antiépileptique utilisé principalement pour traiter les crises partielles et la douleur neuropathique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "Carbamazépine"
+      ],
+      "description": "Efficace pour les crises partielles mais peut aggraver certaines formes d'épilepsie.",
+      "expansion": "",
+      "clinical_significance": "Important pour le traitement des épilepsies partielles et de la douleur neuropathique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Gabapentine",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contraception orale",
+      "definition": "Méthode de contraception utilisant des hormones pour prévenir la grossesse.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "antiépileptiques"
+      ],
+      "description": "Important pour les femmes en âge de procréer prenant des antiépileptiques.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "contraception orale",
+        "antiépileptiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "comorbidités",
+      "definition": "Conditions médicales supplémentaires présentes en plus de la condition principale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "antiépileptiques"
+      ],
+      "description": "Important pour le choix du traitement et la gestion des patients épileptiques.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "comorbidités",
+        "épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises non épileptiques psychogènes",
+      "definition": "Crises qui ressemblent à des crises épileptiques mais qui sont d'origine psychogène plutôt que neurologique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "pharmacorésistance"
+      ],
+      "description": "Peuvent être confondues avec des crises épileptiques et nécessitent une évaluation psychologique.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic différentiel des crises épileptiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "crises non épileptiques psychogènes",
+        "épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharmacorésistance",
+      "definition": "Résistance aux traitements médicamenteux, où les crises épileptiques ne répondent pas aux médicaments antiépileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "épilepsie",
+        "crises non épileptiques psychogènes"
+      ],
+      "description": "Nécessite une réévaluation du diagnostic et des options de traitement.",
+      "expansion": "",
+      "clinical_significance": "Important pour la gestion des patients avec des crises réfractaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pharmacorésistance",
+        "traitement épilepsie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rachitisme",
+      "definition": "Maladie osseuse due à une carence en vitamine D, caractérisée par une minéralisation insuffisante des os.",
+      "category": "pathologie",
+      "synonyms": [
+        "Ostéomalacie"
+      ],
+      "related_terms": [
+        "Vitamine D",
+        "Calcium"
+      ],
+      "description": "Le rachitisme se manifeste par des déformations osseuses et une faiblesse musculaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des retards de croissance et des déformations squelettiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Rachitisme",
+        "Ostéomalacie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Lyell",
+      "definition": "Réaction cutanée sévère caractérisée par une nécrolyse épidermique toxique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Nécrolyse épidermique toxique"
+      ],
+      "related_terms": [
+        "Syndrome de Stevens-Johnson"
+      ],
+      "description": "Le syndrome de Lyell est une urgence médicale nécessitant une hospitalisation immédiate.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortel sans traitement rapide et approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome de Lyell",
+        "Nécrolyse épidermique toxique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Algodystrophie",
+      "definition": "Syndrome douloureux régional complexe caractérisé par une douleur, un œdème et une atrophie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome douloureux régional complexe"
+      ],
+      "related_terms": [
+        "Douleur chronique",
+        "Atrophie"
+      ],
+      "description": "L'algodystrophie affecte généralement les extrémités et peut survenir après un traumatisme ou une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une invalidité fonctionnelle significative.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Algodystrophie",
+        "Syndrome douloureux régional complexe"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aplasie médullaire",
+      "definition": "Insuffisance de la moelle osseuse à produire des cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "Aplasie de la moelle osseuse"
+      ],
+      "related_terms": [
+        "Anémie",
+        "Thrombopénie",
+        "Leucopénie"
+      ],
+      "description": "L'aplasie médullaire peut être causée par des médicaments, des toxines ou des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anémie sévère, des infections et des saignements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Aplasie médullaire",
+        "Moelle osseuse"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypertrophie gingivale",
+      "definition": "Augmentation anormale de la taille des gencives.",
+      "category": "pathologie",
+      "synonyms": [
+        "Gingivite hypertrophique"
+      ],
+      "related_terms": [
+        "Gencives",
+        "Gingivite"
+      ],
+      "description": "L'hypertrophie gingivale peut être causée par des médicaments, des infections ou des maladies génétiques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des difficultés à manger et à parler.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hypertrophie gingivale",
+        "Gingivite"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome cérébello-vestibulaire",
+      "definition": "Ensemble de symptômes résultant d'une atteinte du cervelet et du système vestibulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Ataxie cérébelleuse"
+      ],
+      "related_terms": [
+        "Cervelet",
+        "Vestibulaire"
+      ],
+      "description": "Le syndrome cérébello-vestibulaire se manifeste par des troubles de l'équilibre, des vertiges et des nausées.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une incapacité à marcher et à effectuer des mouvements coordonnés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome cérébello-vestibulaire",
+        "Cervelet"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Atteintes hématologiques",
+      "definition": "Anomalies affectant les cellules sanguines et la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "Troubles hématologiques"
+      ],
+      "related_terms": [
+        "Anémie",
+        "Leucémie"
+      ],
+      "description": "Les atteintes hématologiques peuvent inclure des anémies, des thrombopénies et des leucopénies.",
+      "expansion": null,
+      "clinical_significance": "Peuvent entraîner une fatigue, des infections et des saignements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Atteintes hématologiques",
+        "Cellules sanguines"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Atteinte hépatique cholestatique",
+      "definition": "Trouble du foie caractérisé par une réduction ou un arrêt de la sécrétion biliaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cholestase"
+      ],
+      "related_terms": [
+        "Foie",
+        "Bile"
+      ],
+      "description": "L'atteinte hépatique cholestatique peut entraîner une jaunisse, des démangeaisons et une fatigue.",
+      "expansion": null,
+      "clinical_significance": "Peut progresser vers une insuffisance hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Atteinte hépatique cholestatique",
+        "Cholestase"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hépatite",
+      "definition": "Inflammation du foie causée par des virus, des toxines ou des médicaments.",
+      "category": "pathologie",
+      "synonyms": [
+        "Inflammation hépatique"
+      ],
+      "related_terms": [
+        "Foie",
+        "Virus de l'hépatite"
+      ],
+      "description": "L'hépatite peut entraîner une jaunisse, une fatigue et des douleurs abdominales.",
+      "expansion": null,
+      "clinical_significance": "Peut progresser vers une insuffisance hépatique ou un cancer du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hépatite",
+        "Foie"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anémie",
+      "definition": "Réduction du nombre de globules rouges ou de l'hémoglobine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "Faible taux de globules rouges"
+      ],
+      "related_terms": [
+        "Globules rouges",
+        "Hémoglobine"
+      ],
+      "description": "L'anémie peut entraîner une fatigue, une pâleur et une faiblesse.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par des carences nutritionnelles, des saignements ou des maladies chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anémie",
+        "Globules rouges"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Stevens-Johnson",
+      "definition": "Réaction cutanée sévère caractérisée par une nécrolyse épidermique toxique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Nécrolyse épidermique toxique"
+      ],
+      "related_terms": [
+        "Syndrome de Lyell"
+      ],
+      "description": "Le syndrome de Stevens-Johnson est une urgence médicale nécessitant une hospitalisation immédiate.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortel sans traitement rapide et approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome de Stevens-Johnson",
+        "Nécrolyse épidermique toxique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pancytopénie",
+      "definition": "Réduction du nombre de toutes les cellules sanguines (globules rouges, globules blancs et plaquettes).",
+      "category": "pathologie",
+      "synonyms": [
+        "Aplasie médullaire"
+      ],
+      "related_terms": [
+        "Anémie",
+        "Leucopénie",
+        "Thrombopénie"
+      ],
+      "description": "La pancytopénie peut entraîner une fatigue, des infections et des saignements.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par des médicaments, des toxines ou des maladies auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Pancytopénie",
+        "Cellules sanguines"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rétrécissement concentrique du champ visuel",
+      "definition": "Réduction progressive du champ visuel périphérique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Tunnel vision"
+      ],
+      "related_terms": [
+        "Champ visuel",
+        "Vision périphérique"
+      ],
+      "description": "Le rétrécissement concentrique du champ visuel peut être causé par des médicaments, des maladies oculaires ou des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une perte de vision périphérique et une difficulté à voir dans des conditions de faible luminosité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Rétrécissement concentrique du champ visuel",
+        "Champ visuel"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lithiases urinaires",
+      "definition": "Calculs ou pierres dans le système urinaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Calculs rénaux"
+      ],
+      "related_terms": [
+        "Reins",
+        "Urètre"
+      ],
+      "description": "Les lithiases urinaires peuvent entraîner des douleurs intenses, des infections urinaires et des obstructions.",
+      "expansion": null,
+      "clinical_significance": "Peuvent nécessiter une intervention chirurgicale pour être retirées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Lithiases urinaires",
+        "Calculs rénaux"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glaucome aigu",
+      "definition": "Augmentation soudaine de la pression intraoculaire pouvant endommager le nerf optique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Glaucome à angle fermé"
+      ],
+      "related_terms": [
+        "Pression intraoculaire",
+        "Nerf optique"
+      ],
+      "description": "Le glaucome aigu est une urgence médicale nécessitant un traitement immédiat pour prévenir la perte de vision.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une perte de vision permanente si non traité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Glaucome aigu",
+        "Glaucome à angle fermé"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-épileptiques",
+      "definition": "Médicaments utilisés pour traiter et prévenir les crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anticonvulsivants"
+      ],
+      "related_terms": [
+        "Épilepsie",
+        "Crises épileptiques"
+      ],
+      "description": "Les anti-épileptiques agissent en modulant l'activité des neurotransmetteurs dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour contrôler les crises épileptiques et améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anti-épileptiques",
+        "Anticonvulsivants"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anticoagulants",
+      "definition": "Médicaments utilisés pour prévenir ou traiter les caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Antithrombotiques"
+      ],
+      "related_terms": [
+        "Caillots sanguins",
+        "Thrombose"
+      ],
+      "description": "Les anticoagulants agissent en inhibant la coagulation sanguine.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour prévenir les accidents vasculaires cérébraux, les embolies pulmonaires et les thromboses veineuses profondes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anticoagulants",
+        "Antithrombotiques"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oestrogènes",
+      "definition": "Hormones stéroïdiennes produites principalement par les ovaires et jouant un rôle clé dans le développement et la fonction des organes reproducteurs féminins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Œstrogènes"
+      ],
+      "related_terms": [
+        "Hormones",
+        "Ovaires"
+      ],
+      "description": "Les œstrogènes sont utilisés dans le traitement hormonal substitutif et la contraception.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être utilisés pour traiter les symptômes de la ménopause et prévenir l'ostéoporose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Oestrogènes",
+        "Hormones"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Progestatifs",
+      "definition": "Hormones stéroïdiennes synthétiques ou naturelles ayant des propriétés similaires à la progestérone.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Progestines"
+      ],
+      "related_terms": [
+        "Progestérone",
+        "Hormones"
+      ],
+      "description": "Les progestatifs sont utilisés dans la contraception hormonale et le traitement des troubles menstruels.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être utilisés pour réguler les cycles menstruels et traiter l'endométriose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Progestatifs",
+        "Progestines"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acide valproïque",
+      "definition": "Médicament anticonvulsivant utilisé pour traiter l'épilepsie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Valproate de sodium"
+      ],
+      "related_terms": [
+        "Épilepsie",
+        "Troubles bipolaires"
+      ],
+      "description": "L'acide valproïque agit en augmentant les niveaux de GABA, un neurotransmetteur inhibiteur.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler les crises épileptiques et stabiliser l'humeur dans les troubles bipolaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Acide valproïque",
+        "Valproate de sodium"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oestroprogestatifs",
+      "definition": "Contraceptifs hormonaux combinant des œstrogènes et des progestatifs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pilule combinée"
+      ],
+      "related_terms": [
+        "Contraception",
+        "Hormones"
+      ],
+      "description": "Les oestroprogestatifs sont utilisés pour prévenir la grossesse et réguler les cycles menstruels.",
+      "expansion": null,
+      "clinical_significance": "Peuvent également être utilisés pour traiter l'acné et les troubles menstruels.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Oestroprogestatifs",
+        "Pilule combinée"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Enzyme Induction",
+      "definition": "Processus par lequel une substance augmente l'activité des enzymes hépatiques, accélérant le métabolisme des médicaments.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Induction enzymatique"
+      ],
+      "related_terms": [
+        "Enzymes hépatiques",
+        "Métabolisme des médicaments"
+      ],
+      "description": "L'induction enzymatique peut réduire l'efficacité des médicaments en accélérant leur dégradation.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter des ajustements de dosage pour maintenir l'efficacité thérapeutique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Enzyme Induction",
+        "Induction enzymatique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Inhibition",
+      "definition": "Processus par lequel une substance réduit l'activité des enzymes hépatiques, ralentissant le métabolisme des médicaments.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Inhibition enzymatique"
+      ],
+      "related_terms": [
+        "Enzymes hépatiques",
+        "Métabolisme des médicaments"
+      ],
+      "description": "L'inhibition enzymatique peut augmenter les niveaux sanguins des médicaments, entraînant un risque de surdosage.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter des ajustements de dosage pour éviter les effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Inhibition",
+        "Inhibition enzymatique"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Système nerveux central (SNC)",
+      "definition": "Partie du système nerveux comprenant le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "SNC"
+      ],
+      "related_terms": [
+        "Cerveau",
+        "Moelle épinière"
+      ],
+      "description": "Le SNC est responsable de la coordination des fonctions corporelles et de la réponse aux stimuli externes.",
+      "expansion": null,
+      "clinical_significance": "Les atteintes du SNC peuvent entraîner des troubles neurologiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Système nerveux central",
+        "SNC"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Valium",
+      "definition": "Nom commercial du diazépam, un médicament benzodiazépinique utilisé pour traiter l'anxiété, les spasmes musculaires et les crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Diazépam"
+      ],
+      "related_terms": [
+        "Benzodiazépines",
+        "Anxiété"
+      ],
+      "description": "Le Valium agit en augmentant l'activité du GABA, un neurotransmetteur inhibiteur.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le traitement à court terme de l'anxiété et des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Valium",
+        "Diazépam"
+      ],
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crises fébriles simples",
+      "definition": "Crises convulsives survenant chez les enfants en réponse à une fièvre, sans autres complications neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Convulsions fébriles simples"
+      ],
+      "related_terms": [
+        "Crises fébriles compliquées"
+      ],
+      "description": "Ces crises sont généralement bénignes et ne nécessitent pas de traitement prophylactique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crises fébriles compliquées",
+      "definition": "Crises convulsives fébriles associées à des complications neurologiques telles qu'un retard psychomoteur, des signes neurologiques de localisation, des anomalies neuroradiologiques ou des antécédents néonataux.",
+      "category": "pathologie",
+      "synonyms": [
+        "Convulsions fébriles compliquées"
+      ],
+      "related_terms": [
+        "Crises fébriles simples"
+      ],
+      "description": "Ces crises nécessitent un traitement prophylactique pour prévenir des complications neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valproate de sodium",
+      "definition": "Médicament antiépileptique utilisé pour traiter divers types de crises épileptiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Dépakine"
+      ],
+      "related_terms": [
+        "Antiépileptiques"
+      ],
+      "description": "Nécessite une surveillance hépatique régulière en raison de ses effets secondaires potentiels.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome épileptique",
+      "definition": "Ensemble de caractéristiques cliniques et électroencéphalographiques qui définissent un type spécifique d'épilepsie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Épilepsie"
+      ],
+      "related_terms": [
+        "Crises épileptiques"
+      ],
+      "description": "La classification des syndromes épileptiques aide à déterminer le traitement et le pronostic.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "source_file": "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Neurologie/Épilepsies/Resumes/Epilepsies_Final.md",
+    "Neurologie/Épilepsies/Courses/26 Epilepsies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md"
+  ],
+  "total_terms": 183
+}

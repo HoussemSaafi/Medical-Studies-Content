@@ -1,0 +1,1189 @@
+{
+  "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+  "terms": [
+    {
+      "term": "glaucome primitif par fermeture de l'angle",
+      "definition": "Le glaucome primitif par fermeture de l'angle est une forme de glaucome où l'angle entre l'iris et la cornée est fermé, empêchant le drainage de l'humeur aqueuse et entraînant une augmentation de la pression intraoculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "glaucome aigu",
+        "glaucome par fermeture de l'angle"
+      ],
+      "related_terms": [
+        "humeur aqueuse",
+        "angle irido-cornéen"
+      ],
+      "description": "Ce type de glaucome est souvent associé à une douleur oculaire intense et une baisse soudaine de l'acuité visuelle.",
+      "expansion": null,
+      "clinical_significance": "Il s'agit d'une urgence ophtalmologique nécessitant une intervention rapide pour prévenir la perte de vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "glaucome aigu",
+        "angle irido-cornéen"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angle irido-cornéen",
+      "definition": "L'angle irido-cornéen est l'espace entre l'iris et la cornée où l'humeur aqueuse est drainée via le trabéculum.",
+      "category": "anatomie",
+      "synonyms": [
+        "angle de la chambre antérieure"
+      ],
+      "related_terms": [
+        "trabéculum",
+        "humeur aqueuse"
+      ],
+      "description": "Cet angle est crucial pour le drainage de l'humeur aqueuse et le maintien de la pression intraoculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "angle irido-cornéen",
+        "chambre antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lampe à fente",
+      "definition": "La lampe à fente est un instrument ophtalmologique utilisé pour examiner les structures antérieures de l'œil, y compris la cornée, l'iris, le cristallin et la chambre antérieure.",
+      "category": "imagerie",
+      "synonyms": [
+        "biomicroscope"
+      ],
+      "related_terms": [
+        "ophtalmoscope",
+        "rétinoscope"
+      ],
+      "description": "Elle permet une visualisation détaillée des structures oculaires grâce à un faisceau lumineux fin et intense.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lampe à fente",
+        "biomicroscope"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ultrabiomicroscope",
+      "definition": "L'ultrabiomicroscope (UBM) est un appareil d'imagerie ophtalmologique utilisé pour visualiser les structures antérieures de l'œil, y compris l'angle irido-cornéen et le corps ciliaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "UBM"
+      ],
+      "related_terms": [
+        "lampe à fente",
+        "OCT"
+      ],
+      "description": "Il fournit des images à haute résolution des structures antérieures de l'œil, aidant au diagnostic et à la gestion des pathologies oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ultrabiomicroscope",
+        "UBM"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertonie oculaire",
+      "definition": "L'hypertonie oculaire est une augmentation de la pression intraoculaire au-dessus des valeurs normales, souvent associée à un risque accru de glaucome.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension oculaire"
+      ],
+      "related_terms": [
+        "glaucome",
+        "pression intraoculaire"
+      ],
+      "description": "Elle peut être causée par une production excessive d'humeur aqueuse ou un drainage insuffisant.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertonie oculaire",
+        "hypertension oculaire"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératite",
+      "definition": "La kératite est une inflammation de la cornée, souvent causée par une infection bactérienne, virale, fongique ou parasitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de la cornée"
+      ],
+      "related_terms": [
+        "ulcère cornéen",
+        "kératoconjonctivite"
+      ],
+      "description": "Elle peut entraîner une douleur oculaire, une photophobie, un larmoiement et une baisse de l'acuité visuelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite",
+        "inflammation de la cornée"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uvéite",
+      "definition": "L'uvéite est une inflammation de l'uvée, la couche moyenne de l'œil qui comprend l'iris, le corps ciliaire et la choroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de l'uvée"
+      ],
+      "related_terms": [
+        "iritis",
+        "choriorétinite"
+      ],
+      "description": "Elle peut être causée par des infections, des maladies auto-immunes ou des traumatismes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "uvéite",
+        "inflammation de l'uvée"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épisclérite",
+      "definition": "L'épisclérite est une inflammation de l'épisclère, la couche de tissu conjonctif située entre la sclère et la conjonctive.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de l'épisclère"
+      ],
+      "related_terms": [
+        "sclérite",
+        "conjonctivite"
+      ],
+      "description": "Elle peut causer une douleur oculaire modérée et une rougeur oculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "épisclérite",
+        "inflammation de l'épisclère"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sclérite",
+      "definition": "La sclérite est une inflammation de la sclère, la couche blanche et fibreuse de l'œil.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de la sclère"
+      ],
+      "related_terms": [
+        "épisclérite",
+        "uvéite"
+      ],
+      "description": "Elle peut être associée à des maladies auto-immunes et causer une douleur oculaire intense.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sclérite",
+        "inflammation de la sclère"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phényléphrine",
+      "definition": "La phényléphrine est un agent vasoconstricteur utilisé en ophtalmologie pour dilater la pupille et réduire la rougeur oculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "néosynéphrine"
+      ],
+      "related_terms": [
+        "mydriatique",
+        "vasoconstricteur"
+      ],
+      "description": "Elle est souvent utilisée pour le diagnostic et le traitement de certaines conditions oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "phényléphrine",
+        "néosynéphrine"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synéchies",
+      "definition": "Les synéchies sont des adhérences anormales entre l'iris et la cornée ou le cristallin, souvent résultant d'une inflammation oculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "adhérences iridocristalliniennes"
+      ],
+      "related_terms": [
+        "uvéite",
+        "iritis"
+      ],
+      "description": "Elles peuvent entraîner une déformation de la pupille et une obstruction de la chambre antérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "synéchies",
+        "adhérences iridocristalliniennes"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet Tyndall",
+      "definition": "L'effet Tyndall est un phénomène optique où la lumière est diffusée par des particules en suspension dans un milieu, utilisé en ophtalmologie pour détecter des particules inflammatoires ou hématiques dans la chambre antérieure.",
+      "category": "physiologie",
+      "synonyms": [
+        "effet de diffusion de la lumière"
+      ],
+      "related_terms": [
+        "chambre antérieure",
+        "humeur aqueuse"
+      ],
+      "description": "Il est observé à la lampe à fente et peut indiquer une inflammation ou une hémorragie intraoculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "effet Tyndall",
+        "diffusion de la lumière"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tonomètre de Goldmann",
+      "definition": "Instrument utilisé pour mesurer la pression intraoculaire par aplanation.",
+      "category": "imagerie",
+      "synonyms": [
+        "tonomètre à aplanation"
+      ],
+      "related_terms": [
+        "tonométrie",
+        "pression intraoculaire"
+      ],
+      "description": "Le tonomètre de Goldmann est un dispositif standard pour mesurer la pression intraoculaire en appliquant une force connue sur la cornée pour aplatir une surface définie.",
+      "expansion": "Goldmann applanation tonometer",
+      "clinical_significance": "Utilisé pour le diagnostic et le suivi du glaucome.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tonomètre de Goldmann",
+        "aplanation tonometer"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "humeur aqueuse",
+      "definition": "Fluide transparent qui remplit la chambre antérieure et postérieure de l'œil.",
+      "category": "anatomie",
+      "synonyms": [
+        "aqueous humor"
+      ],
+      "related_terms": [
+        "chambre antérieure",
+        "chambre postérieure"
+      ],
+      "description": "L'humeur aqueuse maintient la pression intraoculaire et fournit des nutriments aux structures avoisinantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "humeur aqueuse",
+        "aqueous humor"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trabéculum",
+      "definition": "Structure spongieuse située dans l'angle irido-cornéen qui permet le drainage de l'humeur aqueuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "trabecular meshwork"
+      ],
+      "related_terms": [
+        "angle irido-cornéen",
+        "humeur aqueuse"
+      ],
+      "description": "Le trabéculum joue un rôle clé dans le maintien de la pression intraoculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "trabéculum",
+        "trabecular meshwork"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gonioscopie",
+      "definition": "Examen de l'angle irido-cornéen à l'aide d'un miroir de gonioscopie.",
+      "category": "imagerie",
+      "synonyms": [
+        "gonioscopy"
+      ],
+      "related_terms": [
+        "angle irido-cornéen",
+        "miroir de gonioscopie"
+      ],
+      "description": "La gonioscopie permet de visualiser l'angle irido-cornéen et de diagnostiquer des anomalies pouvant entraîner un glaucome.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gonioscopie",
+        "gonioscopy"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acuité visuelle",
+      "definition": "Capacité de l'œil à distinguer les détails des objets à une distance donnée.",
+      "category": "physiologie",
+      "synonyms": [
+        "visual acuity"
+      ],
+      "related_terms": [
+        "vision",
+        "œil"
+      ],
+      "description": "L'acuité visuelle est mesurée par des tests standardisés pour évaluer la clarté de la vision.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acuité visuelle",
+        "visual acuity"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypermétropie",
+      "definition": "Trouble de la réfraction oculaire où l'image se forme en arrière de la rétine, nécessitant une accommodation pour voir net.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperopia"
+      ],
+      "related_terms": [
+        "réfraction",
+        "rétine"
+      ],
+      "description": "L'hypermétropie peut entraîner une fatigue oculaire et des maux de tête.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypermétropie",
+        "hyperopia"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fermeture de l'angle",
+      "definition": "Condition où l'angle entre l'iris et la cornée se ferme, bloquant le drainage de l'humeur aqueuse et augmentant la pression intraoculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "glaucome aigu par fermeture de l'angle"
+      ],
+      "related_terms": [
+        "glaucome",
+        "hypertonie oculaire"
+      ],
+      "description": "La fermeture de l'angle est une urgence ophtalmologique qui peut entraîner une perte de vision si elle n'est pas traitée rapidement.",
+      "expansion": null,
+      "clinical_significance": "Urgence ophtalmologique nécessitant une intervention immédiate pour éviter des dommages irréversibles à la vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fermeture de l'angle",
+        "glaucome aigu"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atropine",
+      "definition": "Alcaloïde tropanique utilisé comme anticholinergique pour dilater la pupille et traiter diverses conditions médicales.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "atropine sulfate"
+      ],
+      "related_terms": [
+        "mydriatiques",
+        "anticholinergiques"
+      ],
+      "description": "L'atropine est utilisée pour dilater la pupille et peut être un facteur déclenchant de la fermeture de l'angle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "atropine",
+        "anticholinergiques"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mydriatiques",
+      "definition": "Substances qui provoquent la dilatation de la pupille en relaxant le muscle sphincter de l'iris.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dilatateurs pupillaires"
+      ],
+      "related_terms": [
+        "atropine",
+        "collyres"
+      ],
+      "description": "Les mydriatiques sont utilisés pour dilater la pupille, facilitant l'examen du fond d'œil, mais peuvent déclencher une crise de fermeture de l'angle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mydriatiques",
+        "dilatation pupillaire"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myotiques",
+      "definition": "Substances qui provoquent la contraction de la pupille en stimulant le muscle sphincter de l'iris.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "miotiques"
+      ],
+      "related_terms": [
+        "pilocarpine",
+        "collyres"
+      ],
+      "description": "Les myotiques sont utilisés pour traiter le glaucome en augmentant le drainage de l'humeur aqueuse, mais peuvent aussi déclencher une crise de fermeture de l'angle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "myotiques",
+        "contraction pupillaire"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc pupillaire",
+      "definition": "Condition où l'iris adhère à la lentille, bloquant le passage de l'humeur aqueuse et augmentant la pression intraoculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "blocage pupillaire"
+      ],
+      "related_terms": [
+        "glaucome",
+        "fermeture de l'angle"
+      ],
+      "description": "Le bloc pupillaire est une complication du glaucome qui peut entraîner une augmentation de la pression intraoculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bloc pupillaire",
+        "glaucome"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaucome primitif",
+      "definition": "Type de glaucome où l'augmentation de la pression intraoculaire est due à une obstruction de l'angle iridocornéen sans cause secondaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "glaucome à angle fermé primitif"
+      ],
+      "related_terms": [
+        "glaucome",
+        "fermeture de l'angle"
+      ],
+      "description": "Le glaucome primitif est une forme de glaucome où l'angle iridocornéen est anatomiquement étroit ou fermé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glaucome primitif",
+        "glaucome à angle fermé"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème cornéen",
+      "definition": "Accumulation de liquide dans la cornée, entraînant un gonflement et une opacification de celle-ci.",
+      "category": "pathologie",
+      "synonyms": [
+        "gonflement cornéen"
+      ],
+      "related_terms": [
+        "kératite",
+        "ulcère cornéen"
+      ],
+      "description": "L'œdème cornéen peut être causé par une augmentation de la pression intraoculaire ou une inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème cornéen",
+        "gonflement cornéen"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PIO",
+      "definition": "Pression intraoculaire, mesure de la pression à l'intérieur de l'œil.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression intraoculaire"
+      ],
+      "related_terms": [
+        "glaucome",
+        "hypertonie oculaire"
+      ],
+      "description": "La PIO est une mesure importante pour le diagnostic et le suivi du glaucome.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PIO",
+        "pression intraoculaire"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaukomflecken",
+      "definition": "Opacités sous-capsulaires nodulaires blanchâtres du cristallin, résultant de la nécrose de l'épithélium cristallinien due à une hypertonie oculaire aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "opacités glaucomateuses"
+      ],
+      "related_terms": [
+        "glaucome",
+        "hypertonie oculaire"
+      ],
+      "description": "Les glaukomflecken sont des signes cliniques d'une hypertonie oculaire aiguë sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glaukomflecken",
+        "opacités glaucomateuses"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère centrale de la rétine",
+      "definition": "Artère principale qui fournit le sang à la rétine, essentielle pour la vision.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère rétinienne centrale"
+      ],
+      "related_terms": [
+        "rétine",
+        "vascularisation rétinienne"
+      ],
+      "description": "L'artère centrale de la rétine est cruciale pour la fonction visuelle et peut être affectée par diverses pathologies oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère centrale de la rétine",
+        "vascularisation rétinienne"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iridotomie périphérique au laser YAG",
+      "definition": "Procédure chirurgicale utilisant un laser YAG pour créer une petite ouverture dans l'iris, permettant de court-circuiter le passage pupillaire de l'humeur aqueuse.",
+      "category": "imagerie",
+      "synonyms": [
+        "iridotomie laser"
+      ],
+      "related_terms": [
+        "glaucome",
+        "fermeture de l'angle"
+      ],
+      "description": "L'iridotomie périphérique au laser YAG est une intervention préventive et curative pour le glaucome à angle fermé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iridotomie périphérique au laser YAG",
+        "iridotomie laser"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaucome néovasculaire",
+      "definition": "Type de glaucome secondaire causé par la prolifération de néovaisseaux et de tissu fibreux au niveau de l'angle iridocornéen.",
+      "category": "pathologie",
+      "synonyms": [
+        "GNV"
+      ],
+      "related_terms": [
+        "glaucome",
+        "néovaisseaux"
+      ],
+      "description": "Le glaucome néovasculaire est souvent associé à des conditions ischémiques de la rétine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glaucome néovasculaire",
+        "GNV"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératite herpétique",
+      "definition": "Infection de la cornée causée par le virus de l'herpès, souvent caractérisée par des lésions dendritiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "kératite virale"
+      ],
+      "related_terms": [
+        "herpès",
+        "kératite dendritique"
+      ],
+      "description": "La kératite herpétique est une cause fréquente de cécité d'origine infectieuse dans les pays industrialisés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite herpétique",
+        "kératite virale"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératite dendritique",
+      "definition": "Forme de kératite herpétique caractérisée par des lésions épithéliales en forme de feuille de fougère.",
+      "category": "pathologie",
+      "synonyms": [
+        "kératite en feuille de fougère"
+      ],
+      "related_terms": [
+        "herpès",
+        "kératite herpétique"
+      ],
+      "description": "La kératite dendritique est une manifestation typique de l'infection herpétique de la cornée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite dendritique",
+        "kératite en feuille de fougère"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératites bactériennes",
+      "definition": "Inflammation de la cornée causée par des bactéries, souvent caractérisée par un œil rouge, larmoiement purulent et blépharospasme.",
+      "category": "pathologie",
+      "synonyms": [
+        "kératite bactérienne"
+      ],
+      "related_terms": [
+        "staphylocoques",
+        "streptocoques",
+        "Pseudomonas",
+        "entérocoques"
+      ],
+      "description": "Les kératites bactériennes peuvent entraîner des complications graves comme un abcès cornéen.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antibiotique rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite bactérienne",
+        "abcès cornéen"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pseudomonas",
+      "definition": "Genre de bactéries Gram-négatives, souvent impliquées dans les infections nosocomiales et les kératites bactériennes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Pseudomonas aeruginosa"
+      ],
+      "related_terms": [
+        "kératites bactériennes",
+        "infections nosocomiales"
+      ],
+      "description": "Pseudomonas aeruginosa est une espèce courante de ce genre, connue pour sa résistance aux antibiotiques.",
+      "expansion": null,
+      "clinical_significance": "Infections à Pseudomonas peuvent être graves et difficiles à traiter.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Pseudomonas",
+        "Pseudomonas aeruginosa"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératite amibienne",
+      "definition": "Inflammation de la cornée causée par des amibes, souvent associée au port de lentilles de contact.",
+      "category": "pathologie",
+      "synonyms": [
+        "kératite à amibes"
+      ],
+      "related_terms": [
+        "lentilles de contact",
+        "eau du robinet"
+      ],
+      "description": "La kératite amibienne est rare mais peut entraîner des complications graves si non traitée.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement spécifique et une hygiène rigoureuse des lentilles de contact.",
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite amibienne",
+        "lentilles de contact"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kératite fongique",
+      "definition": "Inflammation de la cornée causée par des champignons, souvent après un traumatisme par un corps étranger végétal.",
+      "category": "pathologie",
+      "synonyms": [
+        "kératite mycosique"
+      ],
+      "related_terms": [
+        "corps étranger végétal",
+        "lentilles de contact"
+      ],
+      "description": "Les kératites fongiques sont rares mais peuvent être graves, surtout chez les patients immunodéprimés.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antifongique approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "kératite fongique",
+        "corps étranger végétal"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uvéite antérieure",
+      "definition": "Inflammation de la partie antérieure de l'uvée, incluant l'iris et le corps ciliaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "iritis",
+        "cyclite",
+        "iridocyclite"
+      ],
+      "related_terms": [
+        "iris",
+        "corps ciliaire"
+      ],
+      "description": "L'uvéite antérieure peut être causée par des infections, des maladies auto-immunes ou être idiopathique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un diagnostic précis et un traitement adapté pour éviter des complications oculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "uvéite antérieure",
+        "iritis"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iritis",
+      "definition": "Inflammation de l'iris, une partie de l'uvée antérieure.",
+      "category": "pathologie",
+      "synonyms": [
+        "uvéite antérieure"
+      ],
+      "related_terms": [
+        "uvéite",
+        "iris"
+      ],
+      "description": "L'iritis peut entraîner une rougeur oculaire, une douleur et une baisse de l'acuité visuelle.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement anti-inflammatoire pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iritis",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cyclite",
+      "definition": "Inflammation du corps ciliaire, une partie de l'uvée antérieure.",
+      "category": "pathologie",
+      "synonyms": [
+        "uvéite antérieure"
+      ],
+      "related_terms": [
+        "uvéite",
+        "corps ciliaire"
+      ],
+      "description": "La cyclite peut entraîner une rougeur oculaire, une douleur et une baisse de l'acuité visuelle.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement anti-inflammatoire pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cyclite",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iridocyclite",
+      "definition": "Inflammation de l'iris et du corps ciliaire, une partie de l'uvée antérieure.",
+      "category": "pathologie",
+      "synonyms": [
+        "uvéite antérieure"
+      ],
+      "related_terms": [
+        "uvéite",
+        "iris",
+        "corps ciliaire"
+      ],
+      "description": "L'iridocyclite peut entraîner une rougeur oculaire, une douleur et une baisse de l'acuité visuelle.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement anti-inflammatoire pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iridocyclite",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "précipités rétro-cornéens",
+      "definition": "Dépôts de cellules inflammatoires à la face postérieure de la cornée, souvent observés dans les uvéites antérieures.",
+      "category": "pathologie",
+      "synonyms": [
+        "précipités kératiques"
+      ],
+      "related_terms": [
+        "uvéite antérieure",
+        "cornée"
+      ],
+      "description": "Les précipités rétro-cornéens sont un signe d'inflammation oculaire et peuvent être observés à l'examen à la lampe à fente.",
+      "expansion": null,
+      "clinical_significance": "Indicateur d'une inflammation oculaire nécessitant un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "précipités rétro-cornéens",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phénomène Tyndall",
+      "definition": "Diffraction de la lumière sur les cellules inflammatoires et les protéines présentes dans l'humeur aqueuse, observée dans les uvéites antérieures.",
+      "category": "pathologie",
+      "synonyms": [
+        "effet Tyndall"
+      ],
+      "related_terms": [
+        "uvéite antérieure",
+        "humeur aqueuse"
+      ],
+      "description": "Le phénomène Tyndall est un signe d'inflammation oculaire et peut être observé à l'examen à la lampe à fente.",
+      "expansion": null,
+      "clinical_significance": "Indicateur d'une inflammation oculaire nécessitant un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phénomène Tyndall",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synéchies iridocristalliniennes",
+      "definition": "Adhérences de la face postérieure de l'iris à la face antérieure du cristallin, souvent observées dans les uvéites antérieures.",
+      "category": "pathologie",
+      "synonyms": [
+        "synéchies postérieures"
+      ],
+      "related_terms": [
+        "uvéite antérieure",
+        "iris",
+        "cristallin"
+      ],
+      "description": "Les synéchies iridocristalliniennes peuvent entraîner une déformation de l'iris et des complications oculaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour éviter des complications oculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "synéchies iridocristalliniennes",
+        "uvéite antérieure"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intraoculaire",
+      "definition": "Pression à l'intérieur de l'œil, mesurée pour diagnostiquer des conditions comme le glaucome.",
+      "category": "physiologie",
+      "synonyms": [
+        "PIO"
+      ],
+      "related_terms": [
+        "glaucome",
+        "tonus oculaire"
+      ],
+      "description": "La pression intraoculaire peut être normale, abaissée ou augmentée dans diverses conditions oculaires.",
+      "expansion": null,
+      "clinical_significance": "Une pression intraoculaire élevée peut indiquer un glaucome nécessitant un traitement.",
+      "normal_values": "10-21 mmHg",
+      "image_search_terms": [
+        "pression intraoculaire",
+        "glaucome"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endophtalmie",
+      "definition": "Infection sévère de l'intérieur de l'œil, souvent causée par des bactéries ou des champignons.",
+      "category": "pathologie",
+      "synonyms": [
+        "endophtalmite"
+      ],
+      "related_terms": [
+        "corps étranger intraoculaire",
+        "chirurgie ophtalmologique"
+      ],
+      "description": "L'endophtalmie peut entraîner une perte de vision et nécessite un traitement urgent.",
+      "expansion": null,
+      "clinical_significance": "Complication grave nécessitant un traitement immédiat pour éviter une perte de vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endophtalmie",
+        "endophtalmite"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corps étranger intraoculaire",
+      "definition": "Objet étranger pénétrant dans l'œil, souvent causé par des éclats métalliques ou des projectiles.",
+      "category": "pathologie",
+      "synonyms": [
+        "corps étranger intra-oculaire"
+      ],
+      "related_terms": [
+        "endophtalmie",
+        "plaie pénétrante"
+      ],
+      "description": "Un corps étranger intraoculaire peut entraîner des complications graves comme l'endophtalmie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation ophtalmologique urgente et un traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "corps étranger intraoculaire",
+        "plaie pénétrante"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iridocornéen",
+      "definition": "Relatif à l'iris et à la cornée, souvent utilisé pour décrire l'angle formé par ces deux structures.",
+      "category": "anatomie",
+      "synonyms": [
+        "angle iridocornéen"
+      ],
+      "related_terms": [
+        "iris",
+        "cornée"
+      ],
+      "description": "L'angle iridocornéen est important dans le drainage de l'humeur aqueuse et peut être affecté dans le glaucome.",
+      "expansion": null,
+      "clinical_significance": "Une obstruction de l'angle iridocornéen peut entraîner un glaucome.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iridocornéen",
+        "angle iridocornéen"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaucome secondaire",
+      "definition": "Type de glaucome causé par une autre condition médicale ou oculaire, comme un traumatisme ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "glaucome acquis"
+      ],
+      "related_terms": [
+        "glaucome",
+        "traumatisme oculaire"
+      ],
+      "description": "Le glaucome secondaire peut entraîner une augmentation de la pression intraoculaire et une perte de vision.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour contrôler la pression intraoculaire et prévenir la perte de vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "glaucome secondaire",
+        "glaucome"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tonus oculaire",
+      "definition": "Mesure de la pression intraoculaire, utilisée pour diagnostiquer des conditions comme le glaucome.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression intraoculaire"
+      ],
+      "related_terms": [
+        "glaucome",
+        "pression intraoculaire"
+      ],
+      "description": "Le tonus oculaire peut être mesuré à l'aide d'un tonomètre et est un indicateur important de la santé oculaire.",
+      "expansion": null,
+      "clinical_significance": "Une pression intraoculaire élevée peut indiquer un glaucome nécessitant un traitement.",
+      "normal_values": "10-21 mmHg",
+      "image_search_terms": [
+        "tonus oculaire",
+        "pression intraoculaire"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cataracte",
+      "definition": "Opacification du cristallin, la lentille naturelle de l'œil, entraînant une perte de vision.",
+      "category": "pathologie",
+      "synonyms": [
+        "opacification du cristallin"
+      ],
+      "related_terms": [
+        "cristallin",
+        "chirurgie de la cataracte"
+      ],
+      "description": "La cataracte est une cause fréquente de perte de vision chez les personnes âgées et peut être traitée par chirurgie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une chirurgie pour restaurer la vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cataracte",
+        "opacification du cristallin"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lentille de contact",
+      "definition": "Dispositif médical placé sur la cornée pour corriger la vision ou à des fins cosmétiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lentilles de contact"
+      ],
+      "related_terms": [
+        "kératite",
+        "hygiène des lentilles"
+      ],
+      "description": "Les lentilles de contact peuvent être associées à des complications oculaires comme la kératite si elles ne sont pas entretenues correctement.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une hygiène rigoureuse pour éviter des infections oculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lentille de contact",
+        "lentilles de contact"
+      ],
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "source_file": "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "ORL, Ophtalmologie/Œil Rouge/Courses/56 OEil rouge 2.51.49 AM 2.53.07 AM.md"
+  ],
+  "total_terms": 51
+}

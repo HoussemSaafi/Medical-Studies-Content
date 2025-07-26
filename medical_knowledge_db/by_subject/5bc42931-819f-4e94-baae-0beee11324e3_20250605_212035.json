@@ -1,0 +1,2870 @@
+{
+  "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+  "terms": [
+    {
+      "term": "agents vulnérants",
+      "definition": "Substances ou facteurs qui causent des lésions ou des blessures à la peau ou aux tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "agents causaux",
+        "agents lésionnels"
+      ],
+      "related_terms": [
+        "brûlure",
+        "traumatisme"
+      ],
+      "description": "Les agents qui provoquent des dommages tissulaires, souvent en relation avec des brûlures ou des traumatismes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pronostic vital",
+      "definition": "Évaluation des chances de survie d'un patient en fonction de la gravité de sa condition médicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "pronostic de survie"
+      ],
+      "related_terms": [
+        "pronostic fonctionnel",
+        "pronostic esthétique"
+      ],
+      "description": "L'évaluation des risques de mortalité associés à une condition médicale donnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agent thermique",
+      "definition": "Source de chaleur qui peut causer des brûlures ou des lésions tissulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "source de chaleur"
+      ],
+      "related_terms": [
+        "brûlure thermique",
+        "agent chimique"
+      ],
+      "description": "Un agent qui provoque des brûlures par transfert de chaleur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agent chimique",
+      "definition": "Substance chimique qui peut causer des brûlures ou des lésions tissulaires par réaction chimique.",
+      "category": "pathologie",
+      "synonyms": [
+        "substance caustique"
+      ],
+      "related_terms": [
+        "brûlure chimique",
+        "agent thermique"
+      ],
+      "description": "Un agent qui provoque des brûlures par réaction chimique avec les tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiations ionisantes",
+      "definition": "Rayonnements électromagnétiques ou corpusculaires capables de produire des ions dans la matière traversée.",
+      "category": "pathologie",
+      "synonyms": [
+        "rayonnements ionisants"
+      ],
+      "related_terms": [
+        "radiothérapie",
+        "exposition aux radiations"
+      ],
+      "description": "Rayonnements qui peuvent causer des lésions tissulaires par ionisation des atomes et molécules.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médico-chirurgicale",
+      "definition": "Approche combinant des interventions médicales et chirurgicales pour le traitement d'une condition.",
+      "category": "pathologie",
+      "synonyms": [
+        "approche médico-chirurgicale"
+      ],
+      "related_terms": [
+        "traitement médical",
+        "traitement chirurgical"
+      ],
+      "description": "Une démarche intégrée utilisant à la fois des méthodes médicales et chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "multidisciplinaire",
+      "definition": "Impliquant plusieurs disciplines ou spécialités médicales dans la prise en charge d'un patient.",
+      "category": "pathologie",
+      "synonyms": [
+        "interdisciplinaire"
+      ],
+      "related_terms": [
+        "équipe médicale",
+        "soins intégrés"
+      ],
+      "description": "Une approche de soins qui intègre différentes spécialités médicales pour une prise en charge complète.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimateurs",
+      "definition": "Médecins spécialisés dans la réanimation et les soins intensifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "médecins réanimateurs"
+      ],
+      "related_terms": [
+        "soins intensifs",
+        "réanimation"
+      ],
+      "description": "Spécialistes médicaux qui prennent en charge les patients en état critique nécessitant des soins intensifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgiens plasticiens",
+      "definition": "Médecins spécialisés dans la chirurgie plastique et reconstructive.",
+      "category": "pathologie",
+      "synonyms": [
+        "chirurgiens esthétiques"
+      ],
+      "related_terms": [
+        "chirurgie reconstructive",
+        "chirurgie esthétique"
+      ],
+      "description": "Spécialistes médicaux qui effectuent des interventions chirurgicales pour réparer ou reconstruire des parties du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rééducateurs",
+      "definition": "Professionnels de santé spécialisés dans la rééducation fonctionnelle et la réadaptation.",
+      "category": "pathologie",
+      "synonyms": [
+        "kinésithérapeutes"
+      ],
+      "related_terms": [
+        "rééducation",
+        "réadaptation"
+      ],
+      "description": "Spécialistes qui aident les patients à retrouver leurs capacités fonctionnelles après une blessure ou une maladie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polytraumatismes",
+      "definition": "Lésions multiples affectant plusieurs parties du corps, souvent résultant d'un accident grave.",
+      "category": "pathologie",
+      "synonyms": [
+        "traumatismes multiples"
+      ],
+      "related_terms": [
+        "traumatisme",
+        "lésion"
+      ],
+      "description": "Ensemble de blessures affectant plusieurs systèmes ou parties du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épiderme",
+      "definition": "Couche superficielle de la peau, composée de cellules épithéliales.",
+      "category": "anatomie",
+      "synonyms": [
+        "couche épidermique"
+      ],
+      "related_terms": [
+        "derme",
+        "hypoderme"
+      ],
+      "description": "La couche externe de la peau qui assure une protection et une barrière contre les agents extérieurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "derme",
+      "definition": "Couche intermédiaire de la peau, située entre l'épiderme et l'hypoderme, composée de tissu conjonctif.",
+      "category": "anatomie",
+      "synonyms": [
+        "couche dermique"
+      ],
+      "related_terms": [
+        "épiderme",
+        "hypoderme"
+      ],
+      "description": "La couche de la peau qui contient des structures comme les follicules pileux et les glandes sudoripares.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoderme",
+      "definition": "Couche profonde de la peau, composée principalement de tissu adipeux.",
+      "category": "anatomie",
+      "synonyms": [
+        "couche hypodermique"
+      ],
+      "related_terms": [
+        "épiderme",
+        "derme"
+      ],
+      "description": "La couche la plus profonde de la peau qui sert de réserve énergétique et de protection mécanique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Malpighi",
+      "definition": "Couche basale de l'épiderme, également appelée membrane basale ou membrane germinative.",
+      "category": "anatomie",
+      "synonyms": [
+        "membrane basale",
+        "membrane germinative"
+      ],
+      "related_terms": [
+        "épiderme",
+        "derme"
+      ],
+      "description": "La couche de l'épiderme responsable de la production de nouvelles cellules épidermiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlyctènes",
+      "definition": "Bulles ou cloques remplies de liquide séreux, résultant de brûlures ou d'autres lésions cutanées.",
+      "category": "pathologie",
+      "synonyms": [
+        "bulles",
+        "cloques"
+      ],
+      "related_terms": [
+        "brûlure",
+        "lésion cutanée"
+      ],
+      "description": "Formations cutanées remplies de liquide, souvent douloureuses et suintantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome inflammatoire de réponse systémique",
+      "definition": "Réponse inflammatoire généralisée du corps à une agression, caractérisée par des signes cliniques tels que la fièvre, la tachycardie, la tachypnée et une altération de la fonction des organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "SIRS"
+      ],
+      "related_terms": [
+        "sepsis",
+        "choc septique"
+      ],
+      "description": "Le SIRS est une réponse inflammatoire systémique non spécifique à diverses insultes, y compris les infections, les traumatismes, les brûlures, la pancréatite, etc.",
+      "expansion": null,
+      "clinical_significance": "Le SIRS peut évoluer vers un sepsis ou un choc septique si une infection est présente, nécessitant une prise en charge rapide et appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chémokines",
+      "definition": "Petites protéines de signalisation sécrétées par les cellules qui ont pour fonction d'induire la migration des cellules immunitaires vers les sites d'inflammation.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cytokines",
+        "interleukines"
+      ],
+      "description": "Les chémokines jouent un rôle crucial dans la régulation de la réponse immunitaire en attirant les leucocytes vers les sites d'infection ou de blessure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunodépression",
+      "definition": "État de diminution de la réponse immunitaire, rendant l'organisme plus vulnérable aux infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunosuppression"
+      ],
+      "related_terms": [
+        "immunité",
+        "infection"
+      ],
+      "description": "L'immunodépression peut être causée par divers facteurs, y compris les maladies, les médicaments immunosuppresseurs, ou des conditions comme les brûlures graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pro-inflammatoires",
+      "definition": "Médiateurs qui favorisent ou amplifient la réponse inflammatoire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anti-inflammatoires",
+        "cytokines"
+      ],
+      "description": "Les médiateurs pro-inflammatoires, tels que l'IL6 et le TNFα, jouent un rôle clé dans l'initiation et le maintien de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-inflammatoires",
+      "definition": "Médiateurs qui réduisent ou inhibent la réponse inflammatoire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pro-inflammatoires",
+        "cytokines"
+      ],
+      "description": "Les médiateurs anti-inflammatoires, tels que l'IL10 et l'IL13, aident à réguler et à limiter l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "platelet activating factor",
+      "definition": "Médiateur lipidique puissant qui active les plaquettes, les neutrophiles, les monocytes et les macrophages, jouant un rôle dans l'inflammation et l'allergie.",
+      "category": "physiologie",
+      "synonyms": [
+        "PAF"
+      ],
+      "related_terms": [
+        "histamine",
+        "bradykinine"
+      ],
+      "description": "Le PAF est impliqué dans divers processus inflammatoires et allergiques, y compris l'asthme et l'anaphylaxie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoprotidémie",
+      "definition": "Diminution de la concentration des protéines dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoalbuminémie",
+        "protéinémie"
+      ],
+      "description": "L'hypoprotidémie peut résulter de diverses conditions, y compris la malnutrition, les maladies hépatiques, et les pertes protéiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothrombinique",
+      "definition": "Complexe de facteurs de coagulation impliqués dans la formation de la thrombine à partir de la prothrombine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "coagulation",
+        "thrombine"
+      ],
+      "description": "Le complexe prothrombinique est essentiel pour la coagulation sanguine et la formation de caillots.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinogène",
+      "definition": "Protéine soluble dans le plasma sanguin qui est convertie en fibrine pendant la coagulation sanguine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrine",
+        "coagulation"
+      ],
+      "description": "Le fibrinogène joue un rôle crucial dans la formation de caillots sanguins et la réparation des tissus endommagés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardique",
+      "definition": "Relatif au myocarde, le muscle cardiaque.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "myocarde",
+        "cœur"
+      ],
+      "description": "Le myocarde est le muscle strié qui forme la paroi du cœur et assure sa contraction.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémique",
+      "definition": "Relatif à l'ischémie, une réduction de l'apport sanguin à un tissu ou un organe.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie",
+        "hypoxie"
+      ],
+      "description": "L'ischémie peut entraîner des dommages tissulaires et des dysfonctions organiques si elle n'est pas corrigée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoplégie",
+      "definition": "Relâchement des muscles lisses des vaisseaux sanguins, entraînant une vasodilatation.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation",
+        "vasoconstriction"
+      ],
+      "description": "La vasoplégie peut être causée par divers facteurs, y compris les médiateurs inflammatoires et les réactions adrénergiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adrénérgique",
+      "definition": "Relatif à l'adrénaline ou aux récepteurs adrénergiques, impliqués dans la réponse de lutte ou de fuite.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "adrénaline",
+        "récepteurs adrénergiques"
+      ],
+      "description": "Les réactions adrénergiques augmentent la fréquence cardiaque, la pression artérielle et la libération de glucose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monoxyde d'azote",
+      "definition": "Gaz produit par l'organisme qui agit comme un vasodilatateur et un neurotransmetteur.",
+      "category": "physiologie",
+      "synonyms": [
+        "NO"
+      ],
+      "related_terms": [
+        "vasodilatation",
+        "neurotransmetteur"
+      ],
+      "description": "Le monoxyde d'azote joue un rôle clé dans la régulation de la pression artérielle et la fonction endothéliale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trachée",
+      "definition": "Conduit fibro-cartilagineux reliant le larynx aux bronches, permettant le passage de l'air vers les poumons.",
+      "category": "anatomie",
+      "synonyms": [
+        "trachea"
+      ],
+      "related_terms": [
+        "bronches",
+        "larynx"
+      ],
+      "description": "La trachée est une structure essentielle des voies respiratoires, sujette à des lésions en cas d'inhalation de fumées toxiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "trachée anatomie",
+        "trachée lésions"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronches",
+      "definition": "Ramifications de la trachée qui conduisent l'air vers les poumons et les alvéoles.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronchi"
+      ],
+      "related_terms": [
+        "trachée",
+        "alvéoles"
+      ],
+      "description": "Les bronches peuvent être affectées par des agents chimiques et des suies, entraînant des bronchospasmes et des obstructions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronches anatomie",
+        "bronches lésions"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème",
+      "definition": "Accumulation anormale de liquide dans les tissus, souvent due à une inflammation ou une hyperperméabilité capillaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "edema"
+      ],
+      "related_terms": [
+        "hyperperméabilité capillaire",
+        "inflammation"
+      ],
+      "description": "L'œdème des voies aériennes supérieures peut entraîner une obstruction respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème voies aériennes",
+        "œdème inflammation"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchospasme",
+      "definition": "Contraction involontaire des muscles lisses des bronches, réduisant le diamètre des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchoconstriction"
+      ],
+      "related_terms": [
+        "bronches",
+        "asthme"
+      ],
+      "description": "Le bronchospasme peut être déclenché par l'inhalation de substances irritantes ou toxiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchospasme",
+        "bronchoconstriction"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NO",
+      "definition": "Monoxyde d'azote, un gaz vasodilatateur produit par les cellules endothéliales et impliqué dans la régulation de la vasomotricité.",
+      "category": "physiologie",
+      "synonyms": [
+        "monoxyde d'azote"
+      ],
+      "related_terms": [
+        "vasodilatation",
+        "endothélium"
+      ],
+      "description": "La production de NO peut aggraver l'hypoxie en inhibant la vasoconstriction hypoxique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NO physiologie",
+        "monoxyde d'azote"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoxie",
+      "definition": "État de manque d'oxygène dans les tissus, pouvant être causé par une insuffisance de transport ou d'utilisation de l'oxygène.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoxia"
+      ],
+      "related_terms": [
+        "anoxie",
+        "ischémie"
+      ],
+      "description": "L'hypoxie peut résulter de l'inhalation de fumées toxiques ou de l'intoxication au monoxyde de carbone.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoxie",
+        "hypoxia"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstriction hypoxique",
+      "definition": "Rétrécissement des vaisseaux sanguins en réponse à un faible taux d'oxygène, visant à rediriger le flux sanguin vers les zones mieux oxygénées.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasoconstriction due à l'hypoxie"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "vasoconstriction"
+      ],
+      "description": "L'inhibition de la vasoconstriction hypoxique peut aggraver les inégalités de ventilation/perfusion.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasoconstriction hypoxique",
+        "hypoxie vasoconstriction"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "surfactant",
+      "definition": "Substance tensioactive produite par les pneumocytes de type II, réduisant la tension superficielle dans les alvéoles et facilitant l'expansion pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "tensioactif pulmonaire"
+      ],
+      "related_terms": [
+        "alvéoles",
+        "pneumocytes"
+      ],
+      "description": "La destruction du surfactant peut conduire au syndrome de détresse respiratoire aiguë (SDRA).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "surfactant pulmonaire",
+        "tensioactif pulmonaire"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de détresse respiratoire aiguë",
+      "definition": "État critique caractérisé par une inflammation pulmonaire sévère, un œdème et une insuffisance respiratoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SDRA",
+        "ARDS"
+      ],
+      "related_terms": [
+        "œdème pulmonaire",
+        "insuffisance respiratoire"
+      ],
+      "description": "Le SDRA peut être causé par des lésions alvéolaires dues à l'inhalation de fumées toxiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de détresse respiratoire aiguë",
+        "SDRA"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroscopie",
+      "definition": "Examen endoscopique des voies respiratoires à l'aide d'un fibroscope, permettant de visualiser les lésions des voies aériennes.",
+      "category": "imagerie",
+      "synonyms": [
+        "bronchoscopie"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "bronches"
+      ],
+      "description": "La fibroscopie permet de détecter précocement les lésions des voies aériennes après inhalation de fumées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibroscopie",
+        "bronchoscopie"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monoxyde de carbone",
+      "definition": "Gaz inodore et incolore, produit par la combustion incomplète de matériaux carbonés, se liant à l'hémoglobine et réduisant la capacité de transport de l'oxygène.",
+      "category": "microbiologie",
+      "synonyms": [
+        "CO"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "intoxication"
+      ],
+      "description": "L'intoxication au monoxyde de carbone peut entraîner une hypoxie cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "monoxyde de carbone",
+        "intoxication CO"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cyanures",
+      "definition": "Composés chimiques contenant un groupe cyanure (CN), bloquant le métabolisme mitochondrial et entraînant une hypoxie cellulaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "CN"
+      ],
+      "related_terms": [
+        "intoxication",
+        "métabolisme mitochondrial"
+      ],
+      "description": "L'intoxication aux cyanures peut induire une acidose lactique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cyanures",
+        "intoxication CN"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance rénale aiguë",
+      "definition": "Défaillance soudaine des reins à éliminer les déchets et à réguler les fluides et les électrolytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA"
+      ],
+      "related_terms": [
+        "nécrose tubulaire aiguë",
+        "rhabdomyolyse"
+      ],
+      "description": "L'insuffisance rénale aiguë peut être causée par une hypovolémie, une ischémie splanchnique, ou une néphrotoxicité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance rénale aiguë",
+        "IRA"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose tubulaire aiguë",
+      "definition": "Destruction des cellules des tubules rénaux, souvent due à une ischémie ou à une toxicité médicamenteuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "NTA"
+      ],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "ischémie rénale"
+      ],
+      "description": "La nécrose tubulaire aiguë peut nécessiter une hémodiafiltration veino-veineuse continue.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nécrose tubulaire aiguë",
+        "NTA"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie splanchnique",
+      "definition": "Réduction du flux sanguin vers les organes abdominaux, souvent due à une vasoconstriction ou une obstruction vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie intestinale"
+      ],
+      "related_terms": [
+        "syndrome compartimental abdominal",
+        "ischémie mésentérique"
+      ],
+      "description": "L'ischémie splanchnique peut compromettre l'intégrité de la muqueuse digestive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie splanchnique",
+        "ischémie intestinale"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome compartimental abdominal",
+      "definition": "Augmentation de la pression intra-abdominale, souvent due à une constriction pariétale ou un remplissage vasculaire massif.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCA"
+      ],
+      "related_terms": [
+        "ischémie splanchnique",
+        "insuffisance rénale"
+      ],
+      "description": "Le SCA peut entraîner une insuffisance respiratoire et une baisse du débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome compartimental abdominal",
+        "SCA"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rhabdomyolyse",
+      "definition": "Destruction des fibres musculaires striées, libérant de la myoglobine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "rhabdomyolysis"
+      ],
+      "related_terms": [
+        "myoglobinurie",
+        "insuffisance rénale"
+      ],
+      "description": "La rhabdomyolyse peut être causée par une brûlure électrique et précipiter dans les tubules rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rhabdomyolyse",
+        "rhabdomyolysis"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrotoxicité",
+      "definition": "Toxicité pour les reins, souvent due à des médicaments ou des substances chimiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "toxicité rénale"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "antibiotiques"
+      ],
+      "description": "La néphrotoxicité des antibiotiques peut contribuer à l'insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphrotoxicité",
+        "toxicité rénale"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myoglobinurie",
+      "definition": "Présence de myoglobine dans l'urine, souvent due à une rhabdomyolyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "myoglobinuria"
+      ],
+      "related_terms": [
+        "rhabdomyolyse",
+        "insuffisance rénale"
+      ],
+      "description": "La myoglobinurie peut précipiter dans les tubules rénaux en l'absence de débit urinaire suffisant.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "myoglobinurie",
+        "myoglobinuria"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodiafiltration veino-veineuse continue",
+      "definition": "Technique de purification du sang utilisée pour traiter l'insuffisance rénale aiguë, combinant hémodialyse et hémofiltration.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HDF"
+      ],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "hémodialyse"
+      ],
+      "description": "L'hémodiafiltration veino-veineuse continue peut être nécessaire en cas de nécrose tubulaire aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémodiafiltration veino-veineuse continue",
+        "HDF"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypermétabolisme",
+      "definition": "État d'augmentation du métabolisme basal, souvent observé dans les états de stress ou d'infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypermetabolism"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "catabolisme"
+      ],
+      "description": "L'hypermétabolisme chez le brûlé est caractérisé par un état d'éréthisme cardiaque et de catabolisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypermétabolisme",
+        "hypermetabolism"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "catabolisme",
+      "definition": "Processus de dégradation des molécules complexes en molécules plus simples, libérant de l'énergie.",
+      "category": "physiologie",
+      "synonyms": [
+        "catabolism"
+      ],
+      "related_terms": [
+        "anabolisme",
+        "métabolisme"
+      ],
+      "description": "Le catabolisme musculaire et la protéolyse sont liés aux effets des hormones du stress et des catécholamines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "catabolisme",
+        "catabolism"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéolyse",
+      "definition": "Dégradation des protéines en peptides ou en acides aminés, souvent par des enzymes protéolytiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "proteolysis"
+      ],
+      "related_terms": [
+        "catabolisme",
+        "enzymes protéolytiques"
+      ],
+      "description": "La protéolyse est liée aux effets des hormones du stress et des catécholamines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "protéolyse",
+        "proteolysis"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "turn-over protéique",
+      "definition": "Processus de renouvellement des protéines dans le corps, incluant la production et la destruction.",
+      "category": "physiologie",
+      "synonyms": [
+        "turnover protéique"
+      ],
+      "related_terms": [
+        "catabolisme",
+        "protéolyse"
+      ],
+      "description": "Le turn-over protéique est accéléré et déséquilibré vers le catabolisme chez le brûlé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "turn-over protéique",
+        "turnover protéique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipolyse",
+      "definition": "Dégradation des lipides en acides gras et glycérol, souvent stimulée par des hormones comme les catécholamines.",
+      "category": "physiologie",
+      "synonyms": [
+        "lipolysis"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "lipides"
+      ],
+      "description": "L'intensité de la réponse adrénergique conditionne aussi la lipolyse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lipolyse",
+        "lipolysis"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperglycémie",
+      "definition": "Élévation anormale du taux de glucose dans le sang, souvent due à une résistance à l'insuline ou à une production excessive de glucose.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperglycemia"
+      ],
+      "related_terms": [
+        "insuline",
+        "résistance à l'insuline"
+      ],
+      "description": "L'hyperglycémie chez le brûlé est associée à une élévation des taux d'insuline et une résistance tissulaire à l'insuline.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperglycémie",
+        "hyperglycemia"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réponse inflammatoire systémique",
+      "definition": "Réaction inflammatoire généralisée du corps en réponse à une infection, une blessure ou un autre stimulus.",
+      "category": "pathologie",
+      "synonyms": [
+        "SIRS"
+      ],
+      "related_terms": [
+        "inflammation",
+        "sepsis"
+      ],
+      "description": "La réponse inflammatoire systémique s'accompagne d'une élévation de la température centrale du brûlé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "réponse inflammatoire systémique",
+        "SIRS"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperthermie",
+      "definition": "Élévation anormale de la température corporelle, souvent due à une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperthermia"
+      ],
+      "related_terms": [
+        "fièvre",
+        "inflammation"
+      ],
+      "description": "L'hyperthermie rend plus difficile le diagnostic d'infection chez le brûlé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperthermie",
+        "hyperthermia"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dénutrition",
+      "definition": "État de carence nutritionnelle, souvent dû à une insuffisance d'apport alimentaire ou à une mauvaise absorption des nutriments.",
+      "category": "pathologie",
+      "synonyms": [
+        "malnutrition"
+      ],
+      "related_terms": [
+        "immunodépression",
+        "cicatrisation"
+      ],
+      "description": "La dénutrition expose le brûlé grave au risque d'immunodépression et de retard de cicatrisation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dénutrition",
+        "malnutrition"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nutrition entérale",
+      "definition": "Administration de nutriments directement dans le tube digestif, souvent par sonde nasogastrique ou gastrostomie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "alimentation entérale"
+      ],
+      "related_terms": [
+        "nutrition",
+        "sonde nasogastrique"
+      ],
+      "description": "La nutrition entérale est nécessaire pour prévenir la dénutrition chez le brûlé grave.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nutrition entérale",
+        "alimentation entérale"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie aiguë mésentérique",
+      "definition": "Réduction soudaine du flux sanguin vers le mésentère, souvent due à une obstruction vasculaire ou une vasoconstriction.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie mésentérique aiguë"
+      ],
+      "related_terms": [
+        "ischémie splanchnique",
+        "péritonite"
+      ],
+      "description": "L'ischémie aiguë mésentérique peut évoluer vers la perforation digestive et la péritonite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie aiguë mésentérique",
+        "ischémie mésentérique aiguë"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercoagulabilité",
+      "definition": "État pathologique caractérisé par une augmentation de la tendance à la formation de caillots sanguins, pouvant entraîner des complications thromboemboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "état prothrombotique"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "L'hypercoagulabilité peut être causée par divers facteurs, y compris des anomalies génétiques, des maladies inflammatoires, ou des conditions acquises comme les brûlures graves.",
+      "expansion": null,
+      "clinical_significance": "Important à surveiller chez les patients brûlés pour prévenir les complications thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercoagulabilité",
+        "thrombose"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperalgésie",
+      "definition": "Sensibilité accrue à la douleur, souvent due à une sensibilisation des voies nociceptives.",
+      "category": "pathologie",
+      "synonyms": [
+        "sensibilisation à la douleur"
+      ],
+      "related_terms": [
+        "douleur neuropathique",
+        "allodynie"
+      ],
+      "description": "L'hyperalgésie peut survenir après des brûlures répétées et des interventions chirurgicales, rendant la gestion de la douleur plus complexe.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion de la douleur chez les patients brûlés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperalgésie",
+        "douleur neuropathique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "règle des neuf de Wallace",
+      "definition": "Méthode d'estimation de la surface corporelle brûlée en divisant le corps en régions représentant chacune 9% de la surface corporelle totale.",
+      "category": "classification",
+      "synonyms": [
+        "règle des neuf"
+      ],
+      "related_terms": [
+        "surface corporelle totale",
+        "évaluation des brûlures"
+      ],
+      "description": "Utilisée en préhospitalier pour une estimation rapide de la surface corporelle brûlée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "règle des neuf de Wallace",
+        "surface corporelle brûlée"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "3èmes degrés",
+      "definition": "Brûlures profondes affectant toutes les couches de la peau et parfois les tissus sous-jacents, nécessitant souvent une intervention chirurgicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "brûlures de troisième degré"
+      ],
+      "related_terms": [
+        "brûlures superficielles",
+        "brûlures profondes"
+      ],
+      "description": "Les brûlures de troisième degré sont sujettes à l'infection et nécessitent des soins intensifs.",
+      "expansion": null,
+      "clinical_significance": "Important pour le pronostic vital et fonctionnel du patient brûlé.",
+      "normal_values": null,
+      "image_search_terms": [
+        "brûlures de troisième degré",
+        "brûlures profondes"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroscopie bronchique",
+      "definition": "Examen endoscopique des voies respiratoires permettant de visualiser directement les bronches et les poumons.",
+      "category": "imagerie",
+      "synonyms": [
+        "bronchoscopie"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "bronches"
+      ],
+      "description": "Utilisée pour diagnostiquer les lésions des voies respiratoires après inhalation de fumées.",
+      "expansion": null,
+      "clinical_significance": "Examen clé pour évaluer les dommages respiratoires chez les patients brûlés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibroscopie bronchique",
+        "bronchoscopie"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance cardiaque",
+      "definition": "État pathologique où le cœur est incapable de pomper suffisamment de sang pour répondre aux besoins de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance cardiaque"
+      ],
+      "related_terms": [
+        "cardiomyopathie",
+        "hypertension"
+      ],
+      "description": "Peut être causée par diverses conditions telles que l'hypertension, les maladies coronariennes, ou les cardiomyopathies.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une décompensation cardiaque, des œdèmes, et une insuffisance respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance cardiaque",
+        "défaillance cardiaque"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coronaropathie",
+      "definition": "Maladie des artères coronaires caractérisée par l'accumulation de plaques d'athérome, réduisant le flux sanguin vers le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie coronarienne",
+        "maladie des artères coronaires"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "infarctus du myocarde"
+      ],
+      "description": "Peut entraîner des symptômes tels que l'angine de poitrine, l'infarctus du myocarde, ou l'insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Principale cause de décès cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "coronaropathie",
+        "maladie coronarienne"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose coronaire",
+      "definition": "Formation d'un caillot sanguin dans les artères coronaires, obstruant le flux sanguin vers le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose coronarienne"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angine de poitrine"
+      ],
+      "description": "Peut entraîner un infarctus du myocarde ou une angine de poitrine.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose coronaire",
+        "thrombose coronarienne"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc du brûlé",
+      "definition": "État de choc hypovolémique résultant de la perte de fluides et de protéines à travers les tissus brûlés.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc hypovolémique du brûlé"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "choc septique"
+      ],
+      "description": "Caractérisé par une hypotension, une tachycardie, et une oligurie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une réanimation fluidique rapide et adéquate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc du brûlé",
+        "choc hypovolémique du brûlé"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticosurrénalienne",
+      "definition": "Relatif aux glandes surrénales, en particulier à la production de corticostéroïdes.",
+      "category": "anatomie",
+      "synonyms": [
+        "surrénalien"
+      ],
+      "related_terms": [
+        "cortisol",
+        "aldostérone"
+      ],
+      "description": "Les glandes surrénales produisent des hormones essentielles pour la régulation du stress, du métabolisme, et de l'équilibre hydrosodé.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement peut entraîner des syndromes de Cushing ou d'Addison.",
+      "normal_values": null,
+      "image_search_terms": [
+        "corticosurrénalienne",
+        "surrénalien"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "score de Baux",
+      "definition": "Indice pronostique utilisé pour évaluer la gravité des brûlures, calculé en additionnant l'âge du patient et la surface brûlée totale.",
+      "category": "classification",
+      "synonyms": [
+        "indice de Baux"
+      ],
+      "related_terms": [
+        "score ABSI",
+        "index UBS"
+      ],
+      "description": "Un score supérieur à 75 indique un mauvais pronostic, et supérieur à 100 un très mauvais pronostic.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer la gravité et le pronostic des brûlures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Baux",
+        "indice de Baux"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "score ABSI",
+      "definition": "Abbreviated Burn Severity Index, un indice simplifié pour évaluer la gravité des brûlures.",
+      "category": "classification",
+      "synonyms": [
+        "ABSI"
+      ],
+      "related_terms": [
+        "score de Baux",
+        "index UBS"
+      ],
+      "description": "Prend en compte des facteurs tels que l'âge, la surface brûlée, et la présence de brûlures profondes.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer la gravité et le pronostic des brûlures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "score ABSI",
+        "ABSI"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "index UBS",
+      "definition": "Unit Burn Standard, un indice utilisé pour évaluer la gravité des brûlures en fonction de la surface cutanée brûlée et de la profondeur des brûlures.",
+      "category": "classification",
+      "synonyms": [
+        "UBS"
+      ],
+      "related_terms": [
+        "score de Baux",
+        "score ABSI"
+      ],
+      "description": "Un score supérieur à 50 indique une brûlure grave, supérieur à 100 une brûlure très grave, et supérieur à 150 une brûlure gravissime.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer la gravité et le pronostic des brûlures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "index UBS",
+        "UBS"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydroélectrolitiques",
+      "definition": "Relatif à l'équilibre des électrolytes et des fluides dans le corps.",
+      "category": "physiologie",
+      "synonyms": [
+        "électrolytique"
+      ],
+      "related_terms": [
+        "déshydratation",
+        "hypovolémie"
+      ],
+      "description": "Déséquilibres peuvent entraîner des troubles tels que la déshydratation, l'hypovolémie, et des anomalies électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le maintien de l'homéostasie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hydroélectrolitiques",
+        "électrolytique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémoglobinurie",
+      "definition": "Présence d'hémoglobine dans l'urine, souvent due à une hémolyse intravasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémoglobinurie"
+      ],
+      "related_terms": [
+        "hémolyse",
+        "hémoglobine"
+      ],
+      "description": "Peut être causée par des conditions telles que l'hémolyse intravasculaire ou des traumatismes.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hémolyse intravasculaire ou un traumatisme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémoglobinurie",
+        "hémoglobine dans l'urine"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléus paralytique",
+      "definition": "Arrêt temporaire de la motilité intestinale, souvent dû à une intervention chirurgicale, une infection, ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "iléus"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "paralysie intestinale"
+      ],
+      "description": "Caractérisé par une distension abdominale, des nausées, et des vomissements.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une intervention médicale ou chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iléus paralytique",
+        "iléus"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inotropisme myocardique",
+      "definition": "Capacité du myocarde à se contracter avec force, souvent évaluée par la fraction d'éjection.",
+      "category": "physiologie",
+      "synonyms": [
+        "contractilité myocardique"
+      ],
+      "related_terms": [
+        "fraction d'éjection",
+        "insuffisance cardiaque"
+      ],
+      "description": "Une diminution de l'inotropisme peut indiquer une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation de la fonction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "inotropisme myocardique",
+        "contractilité myocardique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperactivité hormonale",
+      "definition": "État caractérisé par une augmentation de l'activité hormonale, souvent en réponse à un stress ou une maladie.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperactivité hormonale"
+      ],
+      "related_terms": [
+        "stress",
+        "réponse hormonale"
+      ],
+      "description": "Peut entraîner des déséquilibres métaboliques et des complications.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation de la réponse au stress et aux maladies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperactivité hormonale",
+        "réponse hormonale"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépenses thermiques",
+      "definition": "Quantité d'énergie utilisée par le corps pour maintenir la température corporelle et les fonctions métaboliques.",
+      "category": "physiologie",
+      "synonyms": [
+        "thermogenèse"
+      ],
+      "related_terms": [
+        "métabolisme",
+        "thermorégulation"
+      ],
+      "description": "Peut augmenter en réponse à des conditions telles que la fièvre, le stress, ou l'exercice.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation de l'état métabolique et thermorégulateur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépenses thermiques",
+        "thermogenèse"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite",
+      "definition": "Inflammation d'une ou plusieurs articulations, caractérisée par la douleur, l'enflure, et la raideur.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite"
+      ],
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "ostéoarthrite"
+      ],
+      "description": "Peut être causée par des infections, des maladies auto-immunes, ou l'usure des articulations.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une déficience fonctionnelle et une douleur chronique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite",
+        "inflammation articulaire"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéome",
+      "definition": "Tumeur bénigne composée de tissu osseux, souvent asymptomatique mais pouvant causer des complications si elle comprime des structures adjacentes.",
+      "category": "pathologie",
+      "synonyms": [
+        "ostéome"
+      ],
+      "related_terms": [
+        "tumeur osseuse",
+        "ostéoblastome"
+      ],
+      "description": "Peut nécessiter une intervention chirurgicale si elle cause des symptômes ou des complications.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation des tumeurs osseuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéome",
+        "tumeur osseuse"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome des loges",
+      "definition": "Condition caractérisée par une augmentation de la pression dans un compartiment musculaire, entraînant une ischémie et une nécrose des tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome des loges"
+      ],
+      "related_terms": [
+        "compartiment musculaire",
+        "ischémie"
+      ],
+      "description": "Peut nécessiter une intervention chirurgicale d'urgence pour libérer la pression.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome des loges",
+        "compartiment musculaire"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévrotomies",
+      "definition": "Incisions chirurgicales des aponévroses pour libérer la pression dans un compartiment musculaire, souvent utilisées pour traiter le syndrome des loges.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "aponévrotomie"
+      ],
+      "related_terms": [
+        "syndrome des loges",
+        "incision de décharge"
+      ],
+      "description": "Utilisées pour traiter le syndrome des loges en libérant la pression dans les compartiments musculaires.",
+      "expansion": null,
+      "clinical_significance": "Intervention chirurgicale pour traiter le syndrome des loges.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aponévrotomies",
+        "aponévrotomie"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiodermites",
+      "definition": "Inflammation de la peau causée par l'exposition aux rayonnements ionisants, souvent utilisés en radiothérapie.",
+      "category": "pathologie",
+      "synonyms": [
+        "radiodermite"
+      ],
+      "related_terms": [
+        "radiothérapie",
+        "dermite"
+      ],
+      "description": "Peut entraîner des lésions cutanées, des ulcérations, et des cicatrices.",
+      "expansion": null,
+      "clinical_significance": "Complication de la radiothérapie nécessitant une gestion appropriée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "radiodermites",
+        "radiodermite"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrisation",
+      "definition": "Ensemble des lésions subies par l'organisme suite au passage du courant électrique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "électrocution"
+      ],
+      "description": "L'électrisation peut entraîner des lésions cutanées, musculaires et neurovasculaires.",
+      "expansion": "",
+      "clinical_significance": "Risque d'accidents cardiovasculaires aigus et de destructions tissulaires profondes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lésions électrisation",
+        "brûlures électriques"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrocution",
+      "definition": "Mort suite à un accident dû à l'électricité (AE).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "électrisation"
+      ],
+      "description": "L'électrocution est la conséquence fatale d'un passage de courant électrique à travers le corps.",
+      "expansion": "",
+      "clinical_significance": "Issue fatale d'un accident électrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "électrocution",
+        "lésions électriques"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet Joule",
+      "definition": "Effet thermique produit par le passage d'un courant électrique à travers un conducteur, entraînant une élévation de température.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "brûlure électrique"
+      ],
+      "description": "L'effet Joule est responsable des brûlures profondes le long des axes vasculonerveux.",
+      "expansion": "",
+      "clinical_significance": "Cause de brûlures profondes et de destructions tissulaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "effet Joule",
+        "brûlures électriques"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet ICEBERG",
+      "definition": "Phénomène où les destructions cutanées apparentes ne reflètent pas l'ampleur des destructions musculaires et neurovasculaires sous-jacentes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "brûlures électriques"
+      ],
+      "description": "L'effet ICEBERG est caractéristique des brûlures électriques, qualifiées de trompeuses.",
+      "expansion": "",
+      "clinical_significance": "Sous-évaluation initiale des destructions tissulaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "effet ICEBERG",
+        "brûlures électriques"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Blast",
+      "definition": "Processus pathologique lié à une explosion, responsable de lésions organiques dues à la propagation de l'onde de choc.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polytraumatisé"
+      ],
+      "description": "Le blast pose un problème diagnostique car le brûlé blasté est un polytraumatisé.",
+      "expansion": "",
+      "clinical_significance": "Lésions organiques multiples et complexes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "blast",
+        "lésions explosion"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodynamique",
+      "definition": "Étude des mouvements du sang et des forces impliquées dans la circulation sanguine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "volémie",
+        "pression artérielle"
+      ],
+      "description": "L'évaluation hémodynamique est cruciale dans la prise en charge des brûlures.",
+      "expansion": "",
+      "clinical_significance": "Important pour la réanimation volémique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémodynamique",
+        "circulation sanguine"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCT",
+      "definition": "Surface corporelle totale, utilisée pour évaluer l'étendue des brûlures.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "surface corporelle",
+        "brûlures"
+      ],
+      "description": "La SCT est un paramètre clé pour déterminer les besoins volémiques.",
+      "expansion": "Surface Corporelle Totale",
+      "clinical_significance": "Utilisée pour calculer les besoins en réanimation volémique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "SCT",
+        "surface corporelle"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ringer lactate",
+      "definition": "Solution cristalloïde utilisée pour la réhydratation et la réanimation volémique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solution de Ringer lactate"
+      ],
+      "related_terms": [
+        "cristalloïdes",
+        "réanimation volémique"
+      ],
+      "description": "Le Ringer lactate est souvent utilisé dans le traitement initial des brûlures.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour maintenir la volémie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Ringer lactate",
+        "solution cristalloïde"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Société française d'étude et de traitement des brûlures",
+      "definition": "Organisation spécialisée dans l'étude et le traitement des brûlures en France.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "brûlures",
+        "traitement des brûlures"
+      ],
+      "description": "La société recommande des formules pour évaluer les besoins volémiques.",
+      "expansion": "",
+      "clinical_significance": "Autorité en matière de traitement des brûlures.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Société française d'étude et de traitement des brûlures",
+        "brûlures"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "formule de Baxter",
+      "definition": "Formule utilisée pour évaluer les besoins volémiques en cas de brûlures, recommandée par le Parkland Hospital.",
+      "category": "classification",
+      "synonyms": [
+        "formule de Parkland"
+      ],
+      "related_terms": [
+        "réanimation volémique",
+        "brûlures"
+      ],
+      "description": "La formule de Baxter apporte `2 ml.kg^-1` par `%` de surface brûlée au cours des huit premières heures.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour calculer les besoins en réanimation volémique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "formule de Baxter",
+        "réanimation volémique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurèse horaire",
+      "definition": "Quantité d'urine produite par heure, utilisée comme indicateur de l'état de réhydratation.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réanimation volémique",
+        "pression artérielle"
+      ],
+      "description": "La diurèse horaire est un paramètre clé pour surveiller la réanimation volémique.",
+      "expansion": "",
+      "clinical_significance": "Indicateur de l'état de réhydratation.",
+      "normal_values": "0,5 à 1 ml.kg^-1.h^-1",
+      "image_search_terms": [
+        "diurèse horaire",
+        "réhydratation"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "formule de Carvajal",
+      "definition": "Formule utilisée pour évaluer les besoins liquidiens chez l'enfant en cas de brûlures.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "réanimation pédiatrique",
+        "brûlures"
+      ],
+      "description": "La formule de Carvajal apporte `2000 ml.m^-2` de surface corporelle + `5000 ml.m^-2` de surface cutanée brûlée.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour une estimation plus fiable des besoins liquidiens chez l'enfant.",
+      "normal_values": "",
+      "image_search_terms": [
+        "formule de Carvajal",
+        "réanimation pédiatrique"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxygénothérapie hyperbare",
+      "definition": "Traitement médical utilisant l'oxygène à haute pression dans une chambre hyperbare pour augmenter la concentration d'oxygène dans le sang et les tissus.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "HBOT",
+        "thérapie hyperbare"
+      ],
+      "related_terms": [
+        "oxygénothérapie",
+        "chambre hyperbare"
+      ],
+      "description": "Utilisée pour traiter les intoxications au monoxyde de carbone (CO) et autres intoxications hypoxémiantes.",
+      "expansion": null,
+      "clinical_significance": "Peut être cruciale dans le traitement des intoxications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oxygénothérapie hyperbare",
+        "chambre hyperbare"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydroxocobalamine",
+      "definition": "Forme de vitamine B12 utilisée comme antidote spécifique pour l'intoxication au cyanure, agissant en se liant au cyanure pour former un complexe non toxique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Cyanokit®"
+      ],
+      "related_terms": [
+        "antidote",
+        "intoxication au cyanure"
+      ],
+      "description": "Utilisée en cas d'instabilité hémodynamique, troubles de conscience ou arrêt cardio-respiratoire dans un contexte d'inhalation de fumées d'incendie.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement des intoxications au cyanure.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hydroxocobalamine",
+        "Cyanokit®"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "analgésie multimodale",
+      "definition": "Approche de gestion de la douleur utilisant plusieurs classes de médicaments et techniques pour cibler différents mécanismes de la douleur.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "analgésie combinée"
+      ],
+      "related_terms": [
+        "antalgiques",
+        "morphine",
+        "paracétamol"
+      ],
+      "description": "Utilisée pour gérer la douleur intense et souvent majorée par le stress lié aux circonstances de l'accident.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour le confort du patient et la réduction du stress.",
+      "normal_values": null,
+      "image_search_terms": [
+        "analgésie multimodale",
+        "gestion de la douleur"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "titration",
+      "definition": "Processus d'ajustement progressif de la dose d'un médicament pour atteindre l'effet thérapeutique désiré tout en minimisant les effets secondaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ajustement de dose"
+      ],
+      "related_terms": [
+        "dose efficace",
+        "bolus"
+      ],
+      "description": "Utilisée pour l'administration de la morphine par voie intraveineuse.",
+      "expansion": null,
+      "clinical_significance": "Important pour optimiser l'effet analgésique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "titration",
+        "ajustement de dose"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématose",
+      "definition": "Processus de transport de l'oxygène par le sang, impliquant l'hémoglobine et les globules rouges.",
+      "category": "physiologie",
+      "synonyms": [
+        "transport de l'oxygène"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "globules rouges"
+      ],
+      "description": "Objectif principal de la réanimation hospitalière pour maintenir le débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Critique pour le maintien de la fonction respiratoire et cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hématose",
+        "transport de l'oxygène"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimation volémique",
+      "definition": "Traitement visant à restaurer le volume sanguin et la pression artérielle par l'administration de liquides intraveineux.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "réanimation liquidienne"
+      ],
+      "related_terms": [
+        "réanimation",
+        "perfusion"
+      ],
+      "description": "Guidée par la surveillance hémodynamique invasive pour ajuster les volumes perfusés.",
+      "expansion": null,
+      "clinical_significance": "Important pour éviter les défaillances viscérales et l'œdème.",
+      "normal_values": null,
+      "image_search_terms": [
+        "réanimation volémique",
+        "réanimation liquidienne"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SDRA",
+      "definition": "Syndrome de détresse respiratoire aiguë, une condition sévère caractérisée par une inflammation pulmonaire et une insuffisance respiratoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "ARDS"
+      ],
+      "related_terms": [
+        "insuffisance respiratoire",
+        "inflammation pulmonaire"
+      ],
+      "description": "Possible en cas d'inhalation de fumées ou de brûlure grave.",
+      "expansion": null,
+      "clinical_significance": "Condition sévère nécessitant une assistance ventilatoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SDRA",
+        "ARDS"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'hypermétabolisme",
+      "definition": "État métabolique caractérisé par une augmentation du métabolisme de base, souvent observé chez les patients gravement brûlés.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypercatabolisme"
+      ],
+      "related_terms": [
+        "métabolisme de base",
+        "brûlures graves"
+      ],
+      "description": "L'alimentation précoce aide à diminuer ce syndrome.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des besoins énergétiques des patients brûlés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome d'hypermétabolisme",
+        "hypercatabolisme"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sélénium",
+      "definition": "Micronutriment essentiel jouant un rôle dans la prévention des épisodes infectieux et la modulation de l'intensité de l'agression oxydative.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Se"
+      ],
+      "related_terms": [
+        "micronutriments",
+        "vitamines"
+      ],
+      "description": "Supplémenté chez les patients brûlés pour ses effets bénéfiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention des infections.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sélénium",
+        "micronutriments"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "streptocoque B hémolytique",
+      "definition": "Bactérie responsable d'infections, notamment chez les patients avec des brûlures périnéales.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus agalactiae"
+      ],
+      "related_terms": [
+        "infection",
+        "brûlures périnéales"
+      ],
+      "description": "Risque d'infection en cas d'atteinte du périnée.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention des infections chez les patients brûlés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "streptocoque B hémolytique",
+        "Streptococcus agalactiae"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sulfadiazine argentique",
+      "definition": "Agent antibactérien topique contenant de l'argent, utilisé pour prévenir les infections des brûlures.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Flamazine®",
+        "Silvederma®"
+      ],
+      "related_terms": [
+        "antibactérien",
+        "topique"
+      ],
+      "description": "Utilisé pour diminuer la colonisation des brûlures et retarder le développement des infections.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention des infections chez les patients brûlés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sulfadiazine argentique",
+        "Flamazine®"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compliance thoracique",
+      "definition": "Capacité du thorax à se dilater et à se contracter en réponse aux variations de pression respiratoire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La compliance thoracique est un indicateur de la flexibilité de la cage thoracique et de sa capacité à permettre une ventilation efficace.",
+      "expansion": "",
+      "clinical_significance": "Important pour évaluer la fonction respiratoire et les effets des lésions thoraciques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "compliance thoracique",
+        "ventilation pulmonaire"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détersion",
+      "definition": "Processus de nettoyage et de débridement des tissus nécrotiques ou infectés pour favoriser la cicatrisation.",
+      "category": "pathologie",
+      "synonyms": [
+        "débridement"
+      ],
+      "related_terms": [
+        "bourgeonnement",
+        "épidermisation"
+      ],
+      "description": "La détersion est une étape cruciale dans le traitement des brûlures pour éliminer les tissus morts et prévenir les infections.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la cicatrisation des lésions cutanées.",
+      "normal_values": "",
+      "image_search_terms": [
+        "détersion",
+        "débridement"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bourgeonnement",
+      "definition": "Phase de la cicatrisation où de nouveaux tissus granuleux se forment pour remplir la plaie.",
+      "category": "physiologie",
+      "synonyms": [
+        "granulation"
+      ],
+      "related_terms": [
+        "détersion",
+        "épidermisation"
+      ],
+      "description": "Le bourgeonnement est une étape intermédiaire dans la cicatrisation des plaies, caractérisée par la formation de tissu granuleux.",
+      "expansion": "",
+      "clinical_significance": "Indicateur de la progression de la cicatrisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bourgeonnement",
+        "tissu granuleux"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épidermisation",
+      "definition": "Processus de régénération de l'épiderme, la couche superficielle de la peau, après une blessure.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "détersion",
+        "bourgeonnement"
+      ],
+      "description": "L'épidermisation est la phase finale de la cicatrisation où l'épiderme se reforme pour couvrir la plaie.",
+      "expansion": "",
+      "clinical_significance": "Critique pour la fermeture de la plaie et la restauration de la barrière cutanée.",
+      "normal_values": "",
+      "image_search_terms": [
+        "épidermisation",
+        "cicatrisation cutanée"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "greffe de peau mince",
+      "definition": "Technique chirurgicale où une fine couche de peau est prélevée d'un site donneur et transplantée sur une zone brûlée pour favoriser la cicatrisation.",
+      "category": "anatomie",
+      "synonyms": [
+        "GPM"
+      ],
+      "related_terms": [
+        "dermatome",
+        "dermacarrier"
+      ],
+      "description": "La greffe de peau mince est utilisée pour couvrir de grandes surfaces de brûlures et accélérer la cicatrisation.",
+      "expansion": "",
+      "clinical_significance": "Essentiel pour la réparation des brûlures étendues.",
+      "normal_values": "",
+      "image_search_terms": [
+        "greffe de peau mince",
+        "greffe cutanée"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermatome",
+      "definition": "Instrument chirurgical utilisé pour prélever des greffes de peau d'épaisseur uniforme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "greffe de peau mince"
+      ],
+      "description": "Le dermatome permet de prélever des greffes de peau de manière précise et uniforme.",
+      "expansion": "",
+      "clinical_significance": "Outil crucial pour les greffes de peau.",
+      "normal_values": "",
+      "image_search_terms": [
+        "dermatome",
+        "instrument chirurgical"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermacarrier",
+      "definition": "Appareil utilisé pour transformer une greffe de peau mince en greffe grillagée, augmentant ainsi la surface de couverture.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "greffe de peau mince"
+      ],
+      "description": "Le dermacarrier permet d'étendre la surface de la greffe de peau pour couvrir de plus grandes zones de brûlures.",
+      "expansion": "",
+      "clinical_significance": "Important pour maximiser l'utilisation des greffes de peau.",
+      "normal_values": "",
+      "image_search_terms": [
+        "dermacarrier",
+        "greffe grillagée"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "excision greffe précoce",
+      "definition": "Technique chirurgicale où les tissus brûlés sont excisés rapidement et couverts par une greffe de peau pour prévenir les complications infectieuses.",
+      "category": "anatomie",
+      "synonyms": [
+        "E.G.P."
+      ],
+      "related_terms": [
+        "greffe de peau mince"
+      ],
+      "description": "L'excision greffe précoce est utilisée pour traiter les brûlures profondes avant l'installation des phénomènes infectieux.",
+      "expansion": "",
+      "clinical_significance": "Réduit le risque d'infection et accélère la cicatrisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "excision greffe précoce",
+        "chirurgie des brûlures"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "surface corporelle",
+      "definition": "Mesure de la surface totale du corps, souvent utilisée pour évaluer l'étendue des brûlures.",
+      "category": "anatomie",
+      "synonyms": [
+        "S.C."
+      ],
+      "related_terms": [],
+      "description": "La surface corporelle est un indicateur important pour évaluer la gravité des brûlures et planifier le traitement.",
+      "expansion": "",
+      "clinical_significance": "Critique pour la gestion des grands brûlés.",
+      "normal_values": "",
+      "image_search_terms": [
+        "surface corporelle",
+        "évaluation des brûlures"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc hyperkinétique",
+      "definition": "État physiologique caractérisé par une augmentation du débit cardiaque et de la fréquence cardiaque, souvent observé dans les phases précoces des brûlures graves.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "choc",
+        "hyperkinésie"
+      ],
+      "description": "Le choc hyperkinétique est une réponse compensatoire du corps pour maintenir la perfusion tissulaire en augmentant le débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sédation profonde",
+      "definition": "État d'inconscience induit par des médicaments pour réduire la douleur et l'anxiété chez les patients gravement brûlés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sédation lourde"
+      ],
+      "related_terms": [
+        "sédation",
+        "analgésie"
+      ],
+      "description": "La sédation profonde est souvent nécessaire pour les patients en soins intensifs pour faciliter les procédures médicales et réduire le stress physiologique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation mécanique",
+      "definition": "Utilisation d'un ventilateur mécanique pour assister ou remplacer la respiration spontanée chez les patients incapables de respirer de manière adéquate.",
+      "category": "physiologie",
+      "synonyms": [
+        "ventilation assistée"
+      ],
+      "related_terms": [
+        "ventilation",
+        "respiration artificielle"
+      ],
+      "description": "La ventilation mécanique est essentielle pour maintenir l'oxygénation et l'élimination du dioxyde de carbone chez les patients en détresse respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amines pressives",
+      "definition": "Médicaments utilisés pour augmenter la pression artérielle en stimulant les récepteurs adrénergiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseurs"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "dopamine"
+      ],
+      "description": "Les amines pressives sont souvent utilisées dans le traitement du choc hypovolémique ou septique pour maintenir la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie rénale",
+      "definition": "Réduction de l'apport sanguin aux reins, pouvant entraîner une insuffisance rénale aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie du rein"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "néphropathie"
+      ],
+      "description": "L'ischémie rénale est une urgence médicale nécessitant une intervention rapide pour restaurer la perfusion rénale et prévenir des dommages irréversibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "remplissage vasculaire",
+      "definition": "Technique médicale consistant à administrer des fluides pour augmenter le volume sanguin et améliorer la perfusion tissulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "expansion volémique"
+      ],
+      "related_terms": [
+        "hydratation",
+        "perfusion"
+      ],
+      "description": "Le remplissage vasculaire est crucial dans la gestion des états de choc et des brûlures graves pour maintenir une pression artérielle adéquate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intraabdominale (PIA)",
+      "definition": "Pression à l'intérieur de la cavité abdominale, utilisée pour évaluer le risque de syndrome compartimental abdominal.",
+      "category": "physiologie",
+      "synonyms": [
+        "PIA"
+      ],
+      "related_terms": [
+        "hypertension intraabdominale",
+        "syndrome compartimental"
+      ],
+      "description": "Une PIA élevée peut compromettre la perfusion des organes intraabdominaux et nécessite une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression de perfusion abdominale (PPA)",
+      "definition": "Différence entre la pression artérielle moyenne et la pression intraabdominale, utilisée pour évaluer la perfusion des organes intraabdominaux.",
+      "category": "physiologie",
+      "synonyms": [
+        "PPA"
+      ],
+      "related_terms": [
+        "perfusion abdominale",
+        "pression artérielle moyenne"
+      ],
+      "description": "Une PPA adéquate est essentielle pour maintenir la perfusion des organes intraabdominaux et prévenir l'ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ionogramme sanguin",
+      "definition": "Analyse de sang mesurant les concentrations des électrolytes, tels que le sodium, le potassium et le chlore.",
+      "category": "physiologie",
+      "synonyms": [
+        "électrolytes sanguins"
+      ],
+      "related_terms": [
+        "natrémie",
+        "kaliémie"
+      ],
+      "description": "L'ionogramme sanguin est crucial pour évaluer l'équilibre électrolytique et détecter les anomalies pouvant affecter la fonction cardiaque et rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "natrémie",
+      "definition": "Concentration de sodium dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "sodium sérique"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "hypernatrémie"
+      ],
+      "description": "La natrémie est un indicateur important de l'équilibre hydrique et électrolytique, essentiel pour la fonction cellulaire et nerveuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "albuminémie",
+      "definition": "Concentration d'albumine dans le sang, utilisée comme indicateur de l'état nutritionnel et de la fonction hépatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "albumine sérique"
+      ],
+      "related_terms": [
+        "hypoalbuminémie",
+        "hyperalbuminémie"
+      ],
+      "description": "Une albuminémie basse peut indiquer une malnutrition, une insuffisance hépatique ou une fuite protéique, nécessitant une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématocrite",
+      "definition": "Pourcentage du volume sanguin occupé par les globules rouges, utilisé comme indicateur de l'anémie ou de la déshydratation.",
+      "category": "physiologie",
+      "synonyms": [
+        "taux d'hématocrite"
+      ],
+      "related_terms": [
+        "anémie",
+        "polyglobulie"
+      ],
+      "description": "Un hématocrite élevé peut indiquer une déshydratation, tandis qu'un hématocrite bas peut indiquer une anémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "procalcitonine",
+      "definition": "Protéine précurseur de la calcitonine, utilisée comme marqueur de l'infection bactérienne et du sepsis.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "sepsis",
+        "infection bactérienne"
+      ],
+      "description": "Une procalcitonine élevée peut indiquer une infection bactérienne grave, nécessitant une antibiothérapie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GDSA",
+      "definition": "Gaz du sang artériel, une analyse de sang mesurant les niveaux d'oxygène, de dioxyde de carbone et le pH.",
+      "category": "physiologie",
+      "synonyms": [
+        "gazométrie artérielle"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "acidose"
+      ],
+      "description": "La GDSA est utilisée pour évaluer la fonction respiratoire et l'équilibre acido-basique, essentielle dans la gestion des patients en détresse respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pH urinaire",
+      "definition": "Mesure de l'acidité ou de l'alcalinité de l'urine, utilisée pour évaluer l'équilibre acido-basique et la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidose",
+        "alcalose"
+      ],
+      "description": "Un pH urinaire anormal peut indiquer une acidose ou une alcalose métabolique, nécessitant une évaluation médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévrotomies de décharges",
+      "definition": "Procédure chirurgicale consistant à inciser l'aponévrose pour soulager la pression dans les compartiments musculaires, souvent nécessaire dans les brûlures circonférentielles.",
+      "category": "anatomie",
+      "synonyms": [
+        "aponévrotomie"
+      ],
+      "related_terms": [
+        "syndrome compartimental",
+        "fasciotomie"
+      ],
+      "description": "Les aponévrotomies de décharges sont essentielles pour prévenir les complications ischémiques et la nécrose tissulaire dans les brûlures graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md"
+  ],
+  "total_terms": 133
+}

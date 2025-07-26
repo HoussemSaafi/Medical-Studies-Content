@@ -1,0 +1,3711 @@
+{
+  "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+  "terms": [
+    {
+      "term": "filtration glomérulaire",
+      "definition": "Processus par lequel le sang est filtré dans les glomérules rénaux pour produire l'ultrafiltrat.",
+      "category": "physiologie",
+      "synonyms": [
+        "Filtration rénale"
+      ],
+      "related_terms": [
+        "Débit de filtration glomérulaire",
+        "Glomérule"
+      ],
+      "description": "La filtration glomérulaire est la première étape de la formation de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clairance rénale",
+      "definition": "Volume de plasma complètement débarrassé d'une substance par les reins par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "Clearance"
+      ],
+      "related_terms": [
+        "Débit de filtration glomérulaire",
+        "Insuffisance rénale"
+      ],
+      "description": "La clairance rénale est utilisée pour évaluer la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "débit de filtration glomérulaire",
+      "definition": "Volume de plasma filtré par les glomérules rénaux par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "DFG"
+      ],
+      "related_terms": [
+        "Filtration glomérulaire",
+        "Clairance rénale"
+      ],
+      "description": "Le DFG est un indicateur clé de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "débit sanguin rénal",
+      "definition": "Volume de sang circulant à travers les reins par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "DSR"
+      ],
+      "related_terms": [
+        "Vascularisation rénale",
+        "Innervation rénale"
+      ],
+      "description": "Le DSR est essentiel pour la filtration et la régulation des fonctions rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA fonctionnelle",
+      "definition": "Insuffisance rénale aiguë due à une hypoperfusion rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA pré-rénale"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Hypoperfusion rénale"
+      ],
+      "description": "L'IRA fonctionnelle est souvent réversible si la cause de l'hypoperfusion est traitée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA obstructive",
+      "definition": "Insuffisance rénale aiguë due à un obstacle sur les voies excrétrices.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA post-rénale"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Obstacle sur les voies urinaires"
+      ],
+      "description": "L'IRA obstructive nécessite souvent un drainage urgent des voies excrétrices.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA parenchymateuses",
+      "definition": "Insuffisance rénale aiguë due à une lésion du tissu rénal.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA rénale"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Lésion rénale"
+      ],
+      "description": "L'IRA parenchymateuse peut être causée par des toxines, des médicaments ou des infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponction biopsie rénale",
+      "definition": "Procédure médicale consistant à prélever un échantillon de tissu rénal pour analyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "Biopsie rénale"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Diagnostic"
+      ],
+      "description": "La ponction biopsie rénale est utilisée pour diagnostiquer des maladies rénales spécifiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème aigu des poumons",
+      "definition": "Accumulation rapide de liquide dans les poumons, entraînant une insuffisance respiratoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "OAP"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Insuffisance respiratoire"
+      ],
+      "description": "L'œdème aigu des poumons est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrotoxiques",
+      "definition": "Substances toxiques pour les reins, pouvant entraîner une insuffisance rénale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Néphrotoxines"
+      ],
+      "related_terms": [
+        "Insuffisance rénale aiguë",
+        "Médicaments"
+      ],
+      "description": "Les substances néphrotoxiques doivent être évitées ou utilisées avec précaution chez les patients à risque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "créatinine",
+      "definition": "Produit du métabolisme musculaire, excrété par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "Créatininémie"
+      ],
+      "related_terms": [
+        "Urée",
+        "Ammoniaque"
+      ],
+      "description": "La créatinine est utilisée pour évaluer la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ammoniaque",
+      "definition": "Composé chimique contenant de l'azote, produit par le métabolisme des protéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "Ammoniac"
+      ],
+      "related_terms": [
+        "Urée",
+        "Créatinine"
+      ],
+      "description": "L'ammoniaque est excrété par les reins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purines",
+      "definition": "Composés organiques contenant de l'azote, dérivés du métabolisme des acides nucléiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "Bases puriques"
+      ],
+      "related_terms": [
+        "Acide urique",
+        "Allantoïne"
+      ],
+      "description": "Les purines sont excrétées par les reins sous forme d'acide urique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide urique",
+      "definition": "Produit final du métabolisme des purines, excrété par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "Urate"
+      ],
+      "related_terms": [
+        "Purines",
+        "Allantoïne"
+      ],
+      "description": "L'acide urique est un indicateur de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allantoïne",
+      "definition": "Produit du métabolisme des purines, excrété par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "Allantoate"
+      ],
+      "related_terms": [
+        "Purines",
+        "Acide urique"
+      ],
+      "description": "L'allantoïne est un indicateur de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxines",
+      "definition": "Substances toxiques produites par des organismes vivants, pouvant entraîner des maladies.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Poison"
+      ],
+      "related_terms": [
+        "Médicaments",
+        "Néphrotoxiques"
+      ],
+      "description": "Les toxines peuvent être d'origine endogène ou exogène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamine D active",
+      "definition": "Forme active de la vitamine D, produite par hydroxylation du cholécalciférol dans les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Calcitriol"
+      ],
+      "related_terms": [
+        "Érythropoïétine",
+        "Cholécalciférol"
+      ],
+      "description": "La vitamine D active est essentielle pour le métabolisme du calcium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholécalciférol",
+      "definition": "Forme inactive de la vitamine D, qui est hydroxylée dans les reins pour former la vitamine D active.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Vitamine D3"
+      ],
+      "related_terms": [
+        "Vitamine D active",
+        "Érythropoïétine"
+      ],
+      "description": "Le cholécalciférol est essentiel pour le métabolisme du calcium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glomérule",
+      "definition": "Structure rénale composée de capillaires sanguins entourés de la capsule de Bowman, où se produit la filtration glomérulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "Corpuscule rénal"
+      ],
+      "related_terms": [
+        "Filtration glomérulaire",
+        "Artériole efférente"
+      ],
+      "description": "Le glomérule est la première étape de la formation de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériole efférente",
+      "definition": "Vaisseau sanguin qui draine le sang du glomérule rénal.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artériole sortante"
+      ],
+      "related_terms": [
+        "Glomérule",
+        "Artériole afférente"
+      ],
+      "description": "L'artériole efférente a un diamètre inférieur à celui de l'artériole afférente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasa recta",
+      "definition": "Vaisseaux sanguins en forme de boucle allongée qui descendent le long de l'anse de Henlé dans la médullaire rénale.",
+      "category": "anatomie",
+      "synonyms": [
+        "Vaisseaux droits"
+      ],
+      "related_terms": [
+        "Glomérule",
+        "Artériole efférente"
+      ],
+      "description": "Les vasa recta jouent un rôle dans la concentration de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiotensine II",
+      "definition": "Hormone peptidique qui joue un rôle clé dans la régulation de la pression artérielle et de l'équilibre hydrique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Angiotensin II"
+      ],
+      "related_terms": [
+        "Rénine",
+        "Système rénine-angiotensine"
+      ],
+      "description": "L'angiotensine II est un puissant vasoconstricteur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression hydrostatique glomérulaire",
+      "definition": "Pression exercée par le sang dans les capillaires glomérulaires, qui force le plasma à traverser la paroi glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression hydrostatique"
+      ],
+      "related_terms": [
+        "pression oncotique",
+        "capsule de Bowman"
+      ],
+      "description": "La pression hydrostatique glomérulaire est une force mécanique qui pousse le plasma à travers la membrane glomérulaire, permettant la filtration des substances.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "50-60 mm Hg",
+      "image_search_terms": [
+        "pression hydrostatique glomérulaire",
+        "filtration glomérulaire"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphron",
+      "definition": "Unité fonctionnelle du rein responsable de la filtration du sang et de la production de l'urine.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérule",
+        "tubule rénal"
+      ],
+      "description": "Le néphron est composé de plusieurs segments, chacun ayant des fonctions spécifiques dans la formation de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphron",
+        "structure rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tubule rénal",
+      "definition": "Partie du néphron où se produisent la réabsorption et la sécrétion des substances filtrées par le glomérule.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tube contourné proximal",
+        "anse de Henlé",
+        "tube contourné distal"
+      ],
+      "description": "Le tubule rénal est divisé en plusieurs segments qui modifient la composition de l'urine en réabsorbant et sécrétant diverses substances.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capsule de Bowman",
+      "definition": "Structure en forme de coupe qui entoure le glomérule et recueille l'urine primitive.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérule",
+        "néphron"
+      ],
+      "description": "La capsule de Bowman est essentielle pour la filtration glomérulaire et la formation de l'urine primitive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "capsule de Bowman",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capillaires péritubulaires",
+      "definition": "Réseau de capillaires entourant les tubules rénaux, impliqués dans la réabsorption de l'eau et des solutés.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "Les capillaires péritubulaires jouent un rôle crucial dans la réabsorption passive de l'eau et des solutés filtrés par le glomérule.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "capillaires péritubulaires",
+        "vascularisation rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube contourné proximal",
+      "definition": "Segment initial du tubule rénal où se produit la réabsorption de la majorité des solutés et de l'eau filtrés.",
+      "category": "anatomie",
+      "synonyms": [
+        "TCP"
+      ],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "Le tube contourné proximal est responsable de la réabsorption active et passive de nombreuses substances, y compris le glucose et les électrolytes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tube contourné proximal",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anse de Henlé",
+      "definition": "Segment du tubule rénal en forme de boucle, impliqué dans la concentration de l'urine.",
+      "category": "anatomie",
+      "synonyms": [
+        "AH"
+      ],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "L'anse de Henlé joue un rôle clé dans la création du gradient osmotique nécessaire à la concentration de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anse de Henlé",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube contourné distal",
+      "definition": "Segment du tubule rénal où se produit la réabsorption fine des solutés et de l'eau.",
+      "category": "anatomie",
+      "synonyms": [
+        "TCD"
+      ],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "Le tube contourné distal est impliqué dans la régulation fine de la composition de l'urine, y compris la réabsorption de sodium et de chlorure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tube contourné distal",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube collecteur",
+      "definition": "Segment final du néphron où l'urine est collectée avant d'être excrétée.",
+      "category": "anatomie",
+      "synonyms": [
+        "TC"
+      ],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "Le tube collecteur est responsable de la réabsorption finale de l'eau et des solutés, ainsi que de la sécrétion de certaines substances.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tube collecteur",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corpuscule rénal",
+      "definition": "Structure composée du glomérule et de la capsule de Bowman, où se produit la filtration du sang.",
+      "category": "anatomie",
+      "synonyms": [
+        "corpuscule de Malpighi"
+      ],
+      "related_terms": [
+        "glomérule",
+        "capsule de Bowman"
+      ],
+      "description": "Le corpuscule rénal est la première étape de la formation de l'urine, où le sang est filtré pour produire l'urine primitive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "corpuscule rénal",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularisation",
+      "definition": "Réseau de vaisseaux sanguins qui alimente un organe ou une structure.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artériole afférente",
+        "artériole efférente"
+      ],
+      "description": "La vascularisation rénale est essentielle pour le fonctionnement du néphron et la filtration du sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularisation rénale",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "papille rénale",
+      "definition": "Structure conique située à l'extrémité des pyramides rénales, où l'urine est collectée avant d'être excrétée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "médullaire",
+        "néphron"
+      ],
+      "description": "La papille rénale joue un rôle crucial dans la concentration de l'urine et son excrétion.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "papille rénale",
+        "structure rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gradient de concentration corticopapillaire",
+      "definition": "Différence de concentration osmotique entre le cortex et la papille rénale, essentielle pour la concentration de l'urine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasa recta",
+        "anse de Henlé"
+      ],
+      "description": "Le gradient de concentration corticopapillaire permet la réabsorption de l'eau et la concentration de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gradient de concentration corticopapillaire",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macula densa",
+      "definition": "Structure spécialisée du tubule distal qui joue un rôle dans la régulation de la filtration glomérulaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "appareil juxtaglomérulaire",
+        "néphron"
+      ],
+      "description": "La macula densa est impliquée dans le mécanisme de rétroaction tubuloglomérulaire, qui ajuste le débit de filtration glomérulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "macula densa",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules mésangiales",
+      "definition": "Cellules contractiles situées dans le glomérule, qui soutiennent la structure capillaire et régulent le débit sanguin glomérulaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérule",
+        "néphron"
+      ],
+      "description": "Les cellules mésangiales jouent un rôle dans la régulation de la filtration glomérulaire et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cellules mésangiales",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "innervation sympathique",
+      "definition": "Réseau de nerfs sympathiques qui innervent les structures rénales, régulant la filtration et la réabsorption.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "appareil juxtaglomérulaire",
+        "néphron"
+      ],
+      "description": "L'innervation sympathique joue un rôle dans la régulation de la pression artérielle et de la volémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "innervation sympathique",
+        "néphron"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules épithéliales",
+      "definition": "Cellules qui tapissent les surfaces internes des organes, y compris les tubules rénaux.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tubule rénal",
+        "néphron"
+      ],
+      "description": "Les cellules épithéliales du tubule rénal sont impliquées dans la réabsorption et la sécrétion de substances.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cellules épithéliales",
+        "tubule rénal"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules granulaires",
+      "definition": "Cellules spécialisées situées dans l'artériole afférente, qui sécrètent la rénine.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules myoépithéloïdes"
+      ],
+      "related_terms": [
+        "artériole afférente",
+        "rénine"
+      ],
+      "description": "Les cellules granulaires jouent un rôle clé dans le système rénine-angiotensine-aldostérone, régulant la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cellules granulaires",
+        "artériole afférente"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "appareil juxtaglomérulaire",
+      "definition": "Structure spécialisée située près du glomérule, impliquée dans la régulation de la filtration glomérulaire et de la pression artérielle.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "macula densa",
+        "cellules granulaires"
+      ],
+      "description": "L'appareil juxtaglomérulaire joue un rôle clé dans le mécanisme de rétroaction tubuloglomérulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "appareil juxtaglomérulaire",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réabsorption",
+      "definition": "Processus par lequel les substances filtrées par le glomérule sont réabsorbées dans le sang depuis le tubule rénal.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tubule rénal",
+        "capillaires péritubulaires"
+      ],
+      "description": "La réabsorption permet de conserver les substances essentielles et de réguler la composition de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "réabsorption",
+        "tubule rénal"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sécrétion",
+      "definition": "Processus par lequel les substances sont transportées des capillaires ou des cellules tubulaires vers la lumière tubulaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tubule rénal",
+        "capillaires péritubulaires"
+      ],
+      "description": "La sécrétion permet l'élimination de certaines substances dans l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sécrétion",
+        "tubule rénal"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "excrétion",
+      "definition": "Processus par lequel les substances sont éliminées dans l'urine définitive.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tubule rénal",
+        "urine"
+      ],
+      "description": "L'excrétion est la dernière étape de la formation de l'urine, où les déchets sont éliminés du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "excrétion",
+        "urine"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endothélium capillaire glomérulaire",
+      "definition": "Couche de cellules endothéliales qui tapissent les capillaires glomérulaires, permettant la filtration du sang.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérule",
+        "capsule de Bowman"
+      ],
+      "description": "L'endothélium capillaire glomérulaire est largement fenêtré, permettant le passage des substances filtrées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endothélium capillaire glomérulaire",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "membrane basale glomérulaire",
+      "definition": "Structure complexe de glycoprotéines située entre l'endothélium capillaire et les podocytes, assurant la restriction de passage de taille et de charge.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérule",
+        "podocytes"
+      ],
+      "description": "La membrane basale glomérulaire joue un rôle crucial dans la sélectivité de la filtration glomérulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "membrane basale glomérulaire",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "podocytes",
+      "definition": "Cellules épithéliales fortement différenciées qui recouvrent le versant externe de la membrane basale glomérulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules épithéliales glomérulaires"
+      ],
+      "related_terms": [
+        "glomérule",
+        "membrane basale glomérulaire"
+      ],
+      "description": "Les podocytes assurent la restriction de passage de taille et de charge, empêchant le passage de protéines de poids supérieur à 60 KD.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "podocytes",
+        "glomérule"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "albumine",
+      "definition": "Protéine plasmatique principale, essentielle pour le maintien de la pression oncotique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression oncotique",
+        "glomérule"
+      ],
+      "description": "L'albumine est une protéine de 60 KD qui est réabsorbée à plus de 99% au niveau du tube contourné proximal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "albumine",
+        "protéine plasmatique"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diamètre moléculaire",
+      "definition": "Mesure de la taille des molécules, souvent utilisée pour déterminer leur capacité à être filtrées par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "taille moléculaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "protéinurie"
+      ],
+      "description": "Le diamètre moléculaire est crucial pour la filtration rénale, où les molécules de moins de 2 nm sont filtrées intégralement, celles entre 2 et 4 nm partiellement, et celles de plus de 4 nm ne sont pas filtrées.",
+      "expansion": null,
+      "clinical_significance": "Important pour comprendre la filtration rénale et les mécanismes de la protéinurie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "charge électrique",
+      "definition": "Propriété des molécules déterminant leur capacité à être filtrées par les reins en fonction de leur charge positive ou négative.",
+      "category": "physiologie",
+      "synonyms": [
+        "charge moléculaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "endothélium"
+      ],
+      "description": "Les molécules chargées négativement filtrent moins bien que celles chargées positivement en raison des charges négatives de la membrane basale de l'endothélium.",
+      "expansion": null,
+      "clinical_significance": "Important pour comprendre les mécanismes de filtration rénale et les anomalies de la charge électrique dans les maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tubule contourné proximal",
+      "definition": "Segment initial du néphron où la réabsorption de l'eau, des électrolytes et des nutriments se produit.",
+      "category": "anatomie",
+      "synonyms": [
+        "TCP"
+      ],
+      "related_terms": [
+        "néphron",
+        "réabsorption"
+      ],
+      "description": "Le tubule contourné proximal joue un rôle clé dans la réabsorption des substances filtrées par le glomérule.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de l'équilibre hydrique et électrolytique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ultrafiltrat",
+      "definition": "Liquide résultant de la filtration du plasma sanguin à travers la membrane glomérulaire, dépourvu de protéines et d'éléments figurés du sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "urine primitive"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "glomérule"
+      ],
+      "description": "L'ultrafiltrat a une composition similaire au plasma sanguin mais sans protéines et éléments figurés.",
+      "expansion": null,
+      "clinical_significance": "Important pour comprendre la formation de l'urine.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capillaire glomérulaire",
+      "definition": "Petits vaisseaux sanguins situés dans le glomérule rénal, responsables de la filtration du sang.",
+      "category": "anatomie",
+      "synonyms": [
+        "capillaires glomérulaires"
+      ],
+      "related_terms": [
+        "glomérule",
+        "filtration glomérulaire"
+      ],
+      "description": "Les capillaires glomérulaires sont essentiels pour la filtration du sang et la formation de l'urine.",
+      "expansion": null,
+      "clinical_significance": "Important pour la fonction rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression hydrostatique capillaire",
+      "definition": "Pression exercée par le liquide dans les capillaires, favorisant la filtration glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression capillaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "pression oncotique"
+      ],
+      "description": "La pression hydrostatique capillaire est une force motrice pour la filtration glomérulaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression nette d'ultrafiltration",
+      "definition": "Différence entre les forces favorisant et s'opposant à la filtration glomérulaire, déterminant la quantité de liquide filtré.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression efficace d'ultrafiltration"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "pression hydrostatique",
+        "pression oncotique"
+      ],
+      "description": "La pression nette d'ultrafiltration est la force résultante qui détermine la quantité de liquide filtré par le glomérule.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérioles afférente et efférente",
+      "definition": "Petites artères qui entrent et sortent du glomérule rénal, régulant la pression hydrostatique glomérulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "artérioles glomérulaires"
+      ],
+      "related_terms": [
+        "glomérule",
+        "filtration glomérulaire"
+      ],
+      "description": "Les artérioles afférente et efférente jouent un rôle crucial dans la régulation de la pression hydrostatique glomérulaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasomotricité",
+      "definition": "Capacité des vaisseaux sanguins à se contracter ou se dilater, influençant la pression hydrostatique glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasoconstriction",
+        "vasodilatation"
+      ],
+      "related_terms": [
+        "artérioles afférente et efférente",
+        "filtration glomérulaire"
+      ],
+      "description": "La vasomotricité des artérioles afférente et efférente modifie les résistances vasculaires et la pression hydrostatique glomérulaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression de perfusion rénale",
+      "definition": "Pression exercée par le flux sanguin dans les reins, influençant la filtration glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle moyenne"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "débit cardiaque",
+        "volémie"
+      ],
+      "description": "La pression de perfusion rénale est déterminée par le débit cardiaque et la volémie.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur natriurétique atrial",
+      "definition": "Hormone sécrétée par le cœur qui augmente l'excrétion de sodium par les reins et inhibe la contraction des cellules mésangiales.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "FNA"
+      ],
+      "related_terms": [
+        "monoxyde d'azote",
+        "cellules mésangiales"
+      ],
+      "description": "Le FNA augmente le coefficient de perméabilité (Kf) en inhibant la contraction des cellules mésangiales.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la filtration rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clairance",
+      "definition": "Volume de plasma totalement débarrassé d'une substance par unité de temps, indiquant l'efficacité de l'élimination rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "clearance"
+      ],
+      "related_terms": [
+        "débit de filtration glomérulaire",
+        "coefficient d'extraction"
+      ],
+      "description": "La clairance est une mesure de l'efficacité de l'élimination rénale d'une substance.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer la fonction rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coefficient d'extraction",
+      "definition": "Indice ou pourcentage de l'extraction rénale d'une substance, indiquant la proportion de la substance éliminée par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "coefficient d'extraction rénale"
+      ],
+      "related_terms": [
+        "clairance",
+        "débit de filtration glomérulaire"
+      ],
+      "description": "Le coefficient d'extraction est une mesure de la proportion d'une substance éliminée par les reins.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer la fonction rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DFG",
+      "definition": "Débit de Filtration Glomérulaire, mesure du volume de plasma filtré par les glomérules rénaux par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "GFR"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "clairance de l'inuline"
+      ],
+      "description": "Le DFG est un indicateur clé de la fonction rénale, permettant d'évaluer la capacité des reins à filtrer les déchets et les excès de fluides.",
+      "expansion": "Débit de Filtration Glomérulaire",
+      "clinical_significance": "Un DFG réduit peut indiquer une insuffisance rénale.",
+      "normal_values": "100-120 ml/min/1.73m²",
+      "image_search_terms": [
+        "glomerular filtration rate",
+        "kidney function"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inuline",
+      "definition": "Polymère de fructose utilisé pour mesurer le débit de filtration glomérulaire (DFG) car il est exclusivement filtré par les reins sans être réabsorbé ou sécrété.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "DFG",
+        "clairance de l'inuline"
+      ],
+      "description": "L'inuline est un marqueur idéal pour évaluer la fonction rénale en raison de sa neutralité et de son absence de biotransformation.",
+      "expansion": "",
+      "clinical_significance": "Utilisé pour des mesures précises du DFG.",
+      "normal_values": "",
+      "image_search_terms": [
+        "inulin",
+        "kidney filtration"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "créatine",
+      "definition": "Composé organique qui joue un rôle crucial dans la production d'énergie dans les muscles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "créatinine"
+      ],
+      "description": "La créatine est convertie en créatinine, un produit de dégradation utilisé pour évaluer la fonction rénale.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la fonction musculaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "creatine",
+        "muscle function"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cockcroft",
+      "definition": "Formule utilisée pour estimer la clairance de la créatinine et donc la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "formule de Cockcroft-Gault"
+      ],
+      "related_terms": [
+        "créatinine",
+        "DFG"
+      ],
+      "description": "La formule de Cockcroft prend en compte l'âge, le poids et le sexe pour estimer la clairance de la créatinine.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour ajuster les doses de médicaments en fonction de la fonction rénale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Cockcroft formula",
+        "creatinine clearance"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DPR",
+      "definition": "Débit Plasmatique Rénal, mesure du volume de plasma passant par les reins par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "DFG",
+        "PAH"
+      ],
+      "description": "Le DPR est utilisé pour évaluer la circulation rénale et la fonction des tubules rénaux.",
+      "expansion": "Débit Plasmatique Rénal",
+      "clinical_significance": "Important pour la régulation de la filtration glomérulaire.",
+      "normal_values": "600-700 ml/min",
+      "image_search_terms": [
+        "renal plasma flow",
+        "kidney circulation"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAH",
+      "definition": "Acide para-aminohippurique, utilisé pour mesurer le débit plasmatique rénal (DPR).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "para-aminohippuric acid"
+      ],
+      "related_terms": [
+        "DPR",
+        "clairance du PAH"
+      ],
+      "description": "Le PAH est filtré et sécrété par les tubules rénaux, ce qui en fait un marqueur utile pour évaluer le DPR.",
+      "expansion": "Para-AminoHippuric acid",
+      "clinical_significance": "Utilisé pour des mesures précises du DPR.",
+      "normal_values": "",
+      "image_search_terms": [
+        "PAH",
+        "renal plasma flow"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tm",
+      "definition": "Taux maximal de sécrétion, mesure de la capacité maximale des tubules rénaux à sécréter une substance.",
+      "category": "physiologie",
+      "synonyms": [
+        "maximal tubular secretion rate"
+      ],
+      "related_terms": [
+        "PAH",
+        "DPR"
+      ],
+      "description": "Le Tm est atteint lorsque la concentration plasmatique de la substance dépasse la capacité de sécrétion des tubules.",
+      "expansion": "Taux maximal",
+      "clinical_significance": "Important pour comprendre les limites de la sécrétion rénale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Tm",
+        "renal secretion"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DSR",
+      "definition": "Débit Sanguin Rénal, mesure du volume de sang passant par les reins par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "DPR",
+        "hématocrite"
+      ],
+      "description": "Le DSR est utilisé pour évaluer la circulation rénale et la fonction des reins.",
+      "expansion": "Débit Sanguin Rénal",
+      "clinical_significance": "Important pour la régulation de la filtration glomérulaire.",
+      "normal_values": "1000-1200 ml/min",
+      "image_search_terms": [
+        "renal blood flow",
+        "kidney circulation"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FF",
+      "definition": "Fraction de Filtration, rapport entre le débit de filtration glomérulaire (DFG) et le débit plasmatique rénal (DPR).",
+      "category": "physiologie",
+      "synonyms": [
+        "filtration fraction"
+      ],
+      "related_terms": [
+        "DFG",
+        "DPR"
+      ],
+      "description": "La FF est utilisée pour évaluer l'efficacité de la filtration glomérulaire.",
+      "expansion": "Fraction de Filtration",
+      "clinical_significance": "Important pour comprendre la fonction rénale.",
+      "normal_values": "0.2",
+      "image_search_terms": [
+        "filtration fraction",
+        "kidney function"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autorégulation rénale",
+      "definition": "Mécanisme intrinsèque permettant au rein de maintenir un débit sanguin rénal (DSR) et un débit de filtration glomérulaire (DFG) constants malgré les variations de la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "DSR",
+        "DFG",
+        "myogénique",
+        "macula densa"
+      ],
+      "description": "L'autorégulation rénale est essentielle pour maintenir la stabilité de la fonction rénale.",
+      "expansion": "",
+      "clinical_significance": "Important pour la régulation de la filtration glomérulaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "renal autoregulation",
+        "kidney function"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénosine",
+      "definition": "Nucléoside purine endogène qui joue un rôle dans la régulation de la circulation rénale.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "macula densa",
+        "autorégulation rénale"
+      ],
+      "description": "L'adénosine agit comme un agent paracrine pour contracter les cellules myoépithéliales de l'artériole afférente.",
+      "expansion": "",
+      "clinical_significance": "Important pour la régulation de la filtration glomérulaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "adenosine",
+        "renal circulation"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiotensinogène",
+      "definition": "Protéine synthétisée par le foie et convertie en angiotensine I par la rénine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "rénine",
+        "angiotensine"
+      ],
+      "description": "L'angiotensinogène est un précurseur de l'angiotensine I dans le système rénine-angiotensine.",
+      "expansion": "",
+      "clinical_significance": "Important pour la régulation de la pression artérielle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "angiotensinogen",
+        "renin-angiotensin system"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiotensine I",
+      "definition": "Peptide inactif produit par la conversion de l'angiotensinogène par la rénine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "rénine",
+        "angiotensinogène",
+        "angiotensine II"
+      ],
+      "description": "L'angiotensine I est convertie en angiotensine II par l'enzyme de conversion de l'angiotensine (ECA).",
+      "expansion": "",
+      "clinical_significance": "Important pour la régulation de la pression artérielle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "angiotensin I",
+        "renin-angiotensin system"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "papavérine",
+      "definition": "Myorelaxant utilisé pour inhiber la vasoconstriction myogénique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasoconstriction",
+        "autorégulation rénale"
+      ],
+      "description": "La papavérine agit en inhibant l'ouverture des canaux calciques dans les cellules musculaires lisses.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour étudier les mécanismes de l'autorégulation rénale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "papaverine",
+        "vasodilation"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasodilatateur",
+      "definition": "Un vasodilatateur est une substance qui provoque la dilatation des vaisseaux sanguins, augmentant ainsi le flux sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasodilatation"
+      ],
+      "related_terms": [
+        "vasoconstricteur"
+      ],
+      "description": "Les vasodilatateurs sont utilisés pour traiter l'hypertension et améliorer la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Ils sont essentiels pour maintenir une pression artérielle normale et prévenir l'ischémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostaglandine E2",
+      "definition": "La prostaglandine E2 est un type de prostaglandine qui a des effets vasodilatateurs et anti-inflammatoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "PGE2"
+      ],
+      "related_terms": [
+        "prostaglandines"
+      ],
+      "description": "Elle est impliquée dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostaglandine D2",
+      "definition": "La prostaglandine D2 est un type de prostaglandine qui a des effets vasodilatateurs et est impliquée dans la réponse allergique.",
+      "category": "physiologie",
+      "synonyms": [
+        "PGD2"
+      ],
+      "related_terms": [
+        "prostaglandines"
+      ],
+      "description": "Elle joue un rôle dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostaglandine I2",
+      "definition": "La prostaglandine I2, également connue sous le nom de prostacycline, est un type de prostaglandine qui a des effets vasodilatateurs et anti-agrégants plaquettaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "PGI2",
+        "prostacycline"
+      ],
+      "related_terms": [
+        "prostaglandines"
+      ],
+      "description": "Elle est impliquée dans la régulation de la pression artérielle et la prévention de la formation de caillots.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostaglandine F2 α",
+      "definition": "La prostaglandine F2 α est un type de prostaglandine qui a des effets vasoconstricteurs et est impliquée dans la contraction des muscles lisses.",
+      "category": "physiologie",
+      "synonyms": [
+        "PGF2α"
+      ],
+      "related_terms": [
+        "prostaglandines"
+      ],
+      "description": "Elle joue un rôle dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thromboxane A2",
+      "definition": "La thromboxane A2 est un type de thromboxane qui a des effets vasoconstricteurs et pro-agrégants plaquettaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "TXA2"
+      ],
+      "related_terms": [
+        "thromboxane"
+      ],
+      "description": "Elle est impliquée dans la régulation de la pression artérielle et la formation de caillots.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide arachidonique",
+      "definition": "L'acide arachidonique est un acide gras polyinsaturé qui est le précurseur des prostaglandines, des thromboxanes et des leucotriènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "AA"
+      ],
+      "related_terms": [
+        "prostaglandines",
+        "thromboxanes",
+        "leucotriènes"
+      ],
+      "description": "Il joue un rôle clé dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipooxygénase",
+      "definition": "La lipooxygénase est une enzyme qui catalyse l'oxydation des acides gras polyinsaturés, conduisant à la formation de leucotriènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "LOX"
+      ],
+      "related_terms": [
+        "acide arachidonique",
+        "leucotriènes"
+      ],
+      "description": "Elle est impliquée dans la réponse inflammatoire et la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide hydroxy-peroxy-eïcosatétraénoïque",
+      "definition": "L'acide hydroxy-peroxy-eïcosatétraénoïque est un métabolite de l'acide arachidonique formé par la voie de la lipooxygénase.",
+      "category": "physiologie",
+      "synonyms": [
+        "HPET"
+      ],
+      "related_terms": [
+        "acide arachidonique",
+        "lipooxygénase"
+      ],
+      "description": "Il joue un rôle dans la réponse inflammatoire et la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide hydoxy-eïcosatétraénoïque",
+      "definition": "L'acide hydoxy-eïcosatétraénoïque est un métabolite de l'acide arachidonique formé par la voie de la lipooxygénase.",
+      "category": "physiologie",
+      "synonyms": [
+        "HET"
+      ],
+      "related_terms": [
+        "acide arachidonique",
+        "lipooxygénase"
+      ],
+      "description": "Il joue un rôle dans la réponse inflammatoire et la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glomérulonéphrites",
+      "definition": "Les glomérulonéphrites sont des maladies inflammatoires des glomérules rénaux, souvent d'origine immunologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "GN"
+      ],
+      "related_terms": [
+        "glomérules",
+        "néphrite"
+      ],
+      "description": "Elles peuvent entraîner une insuffisance rénale et des troubles hydroélectrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Elles sont importantes pour le diagnostic et le traitement des maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kallicréine",
+      "definition": "La kallicréine est une enzyme protéolytique qui agit sur la kininogène pour former la bradykinine.",
+      "category": "physiologie",
+      "synonyms": [
+        "kallikrein"
+      ],
+      "related_terms": [
+        "kininogène",
+        "bradykinine"
+      ],
+      "description": "Elle joue un rôle dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kininogène",
+      "definition": "La kininogène est une protéine précurseur de la bradykinine, impliquée dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "kininogen"
+      ],
+      "related_terms": [
+        "kallicréine",
+        "bradykinine"
+      ],
+      "description": "Elle joue un rôle clé dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kinines",
+      "definition": "Les kinines sont des peptides vasoactifs qui provoquent la vasodilatation et l'augmentation de la perméabilité vasculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "kinin"
+      ],
+      "related_terms": [
+        "bradykinine",
+        "kallicréine"
+      ],
+      "description": "Elles jouent un rôle dans la régulation de la pression artérielle et la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": "Elles sont importantes pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système nerveux sympathique",
+      "definition": "Le système nerveux sympathique est une partie du système nerveux autonome qui prépare le corps à l'action en augmentant la fréquence cardiaque et la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [
+        "SNS"
+      ],
+      "related_terms": [
+        "système nerveux autonome",
+        "noradrénaline"
+      ],
+      "description": "Il joue un rôle clé dans la régulation de la pression artérielle et la réponse au stress.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir l'homéostasie et la réponse aux situations de stress.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dopamine",
+      "definition": "La dopamine est un neurotransmetteur et une hormone qui a des effets vasodilatateurs à faible dose et vasoconstricteurs à forte dose.",
+      "category": "physiologie",
+      "synonyms": [
+        "DA"
+      ],
+      "related_terms": [
+        "système nerveux sympathique",
+        "noradrénaline"
+      ],
+      "description": "Elle joue un rôle dans la régulation de la pression artérielle et la réponse au stress.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour maintenir l'homéostasie et la réponse aux situations de stress.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur atrial natriurétique",
+      "definition": "Le facteur atrial natriurétique (FAN) est une hormone qui régule la pression artérielle et l'équilibre hydrique en augmentant l'excrétion de sodium et d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "ANP"
+      ],
+      "related_terms": [
+        "oreillette",
+        "natriurèse"
+      ],
+      "description": "Il joue un rôle clé dans la régulation de la pression artérielle et l'équilibre hydrique.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir l'homéostasie et la réponse aux situations de stress.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "KDIGO",
+      "definition": "KDIGO (Kidney Disease: Improving Global Outcomes) est une organisation qui développe des recommandations cliniques pour la prise en charge des maladies rénales.",
+      "category": "classification",
+      "synonyms": [
+        "Kidney Disease: Improving Global Outcomes"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "créatinine"
+      ],
+      "description": "Les recommandations KDIGO sont utilisées pour classer et gérer l'insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": "Elles sont importantes pour le diagnostic et le traitement des maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligurique",
+      "definition": "Oligurique se réfère à une diminution de la production d'urine, souvent associée à une insuffisance rénale aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "oliguria"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "diurèse"
+      ],
+      "description": "Elle est un signe clinique important pour le diagnostic de l'insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": "Elle est importante pour le diagnostic et le traitement des maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "REF",
+      "definition": "Les résistances artériolaires efférentes (REF) sont les résistances vasculaires dans les artérioles efférentes des glomérules rénaux.",
+      "category": "physiologie",
+      "synonyms": [
+        "efferent arteriolar resistance"
+      ],
+      "related_terms": [
+        "glomérules",
+        "artérioles"
+      ],
+      "description": "Elles jouent un rôle dans la régulation de la pression artérielle et la filtration glomérulaire.",
+      "expansion": null,
+      "clinical_significance": "Elles sont importantes pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RAF",
+      "definition": "Les résistances artériolaires afférentes (RAF) sont les résistances vasculaires dans les artérioles afférentes des glomérules rénaux.",
+      "category": "physiologie",
+      "synonyms": [
+        "afferent arteriolar resistance"
+      ],
+      "related_terms": [
+        "glomérules",
+        "artérioles"
+      ],
+      "description": "Elles jouent un rôle dans la régulation de la pression artérielle et la filtration glomérulaire.",
+      "expansion": null,
+      "clinical_significance": "Elles sont importantes pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kf",
+      "definition": "Le coefficient d'ultrafiltration (Kf) est une mesure de la perméabilité des capillaires glomérulaires à l'eau et aux petites molécules.",
+      "category": "physiologie",
+      "synonyms": [
+        "ultrafiltration coefficient"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "glomérules"
+      ],
+      "description": "Il joue un rôle dans la régulation de la filtration glomérulaire et l'excrétion urinaire.",
+      "expansion": null,
+      "clinical_significance": "Il est important pour maintenir la perfusion rénale et protéger les reins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiotensine 2",
+      "definition": "Hormone peptidique qui provoque la vasoconstriction et stimule la sécrétion d'aldostérone, augmentant ainsi la réabsorption de sodium et d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "angiotensine II"
+      ],
+      "related_terms": [
+        "rénine-angiotensine",
+        "aldostérone"
+      ],
+      "description": "L'angiotensine 2 est un composant clé du système rénine-angiotensine-aldostérone.",
+      "expansion": "N/A",
+      "clinical_significance": "L'angiotensine 2 est une cible thérapeutique importante dans le traitement de l'hypertension et de l'insuffisance cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "angiotensine 2",
+        "angiotensine II"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SGLT2",
+      "definition": "Cotransporteur sodium-glucose de type 2, une protéine qui facilite la réabsorption du glucose dans les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "cotransporteur sodium-glucose de type 2"
+      ],
+      "related_terms": [
+        "inhibiteurs de SGLT2",
+        "diabète"
+      ],
+      "description": "Les inhibiteurs de SGLT2 sont utilisés pour traiter le diabète de type 2 en réduisant la réabsorption du glucose.",
+      "expansion": "Sodium-Glucose Cotransporter 2",
+      "clinical_significance": "Les inhibiteurs de SGLT2 sont une classe de médicaments antidiabétiques oraux.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "SGLT2",
+        "cotransporteur sodium-glucose"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "feed-back tubulo-glomérulaire",
+      "definition": "Mécanisme de régulation qui ajuste la filtration glomérulaire en réponse aux changements dans la concentration de sodium dans le filtrat glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "feed-back tubulo-glomérulaire"
+      ],
+      "related_terms": [
+        "macula densa",
+        "filtration glomérulaire"
+      ],
+      "description": "Le feed-back tubulo-glomérulaire est essentiel pour maintenir l'équilibre hydrique et électrolytique.",
+      "expansion": "N/A",
+      "clinical_significance": "Les anomalies du feed-back tubulo-glomérulaire peuvent contribuer à l'insuffisance rénale aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "feed-back tubulo-glomérulaire",
+        "filtration glomérulaire"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bordure en brosse",
+      "definition": "Structure microscopique présente sur la surface apicale des cellules épithéliales des tubules rénaux, qui augmente la surface d'absorption.",
+      "category": "anatomie",
+      "synonyms": [
+        "bordure en brosse"
+      ],
+      "related_terms": [
+        "cellules épithéliales",
+        "tubules rénaux"
+      ],
+      "description": "La bordure en brosse est essentielle pour la réabsorption des nutriments et des électrolytes dans les reins.",
+      "expansion": "N/A",
+      "clinical_significance": "La perte de la bordure en brosse peut être un signe de dommages tubulaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bordure en brosse",
+        "cellules épithéliales"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytosquelette",
+      "definition": "Réseau de filaments protéiques qui donne forme à la cellule, permet le mouvement cellulaire et joue un rôle dans la division cellulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "cytosquelette"
+      ],
+      "related_terms": [
+        "filaments protéiques",
+        "mouvement cellulaire"
+      ],
+      "description": "Le cytosquelette est essentiel pour la structure et la fonction cellulaire.",
+      "expansion": "N/A",
+      "clinical_significance": "Les anomalies du cytosquelette peuvent contribuer à diverses maladies, y compris les maladies rénales.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cytosquelette",
+        "filaments protéiques"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intra-tubulaire",
+      "definition": "Pression à l'intérieur des tubules rénaux, qui influence la filtration glomérulaire et la réabsorption des électrolytes.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression intra-tubulaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "réabsorption"
+      ],
+      "description": "La pression intra-tubulaire est un facteur important dans la régulation de la fonction rénale.",
+      "expansion": "N/A",
+      "clinical_significance": "Les changements dans la pression intra-tubulaire peuvent contribuer à l'insuffisance rénale aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pression intra-tubulaire",
+        "tubules rénaux"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EGF",
+      "definition": "Facteur de croissance épidermique, une protéine qui stimule la prolifération et la différenciation des cellules épithéliales.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteur de croissance épidermique"
+      ],
+      "related_terms": [
+        "IGF-1",
+        "prolifération cellulaire"
+      ],
+      "description": "L'EGF joue un rôle clé dans la régénération tissulaire.",
+      "expansion": "Epidermal Growth Factor",
+      "clinical_significance": "L'EGF est impliqué dans la réparation tissulaire et la cicatrisation des plaies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "EGF",
+        "facteur de croissance épidermique"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myoglobine",
+      "definition": "Protéine présente dans les muscles qui lie l'oxygène et le transporte dans les cellules musculaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "myoglobine"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "rhabdomyolyse"
+      ],
+      "description": "La myoglobine est essentielle pour le stockage et le transport de l'oxygène dans les muscles.",
+      "expansion": "N/A",
+      "clinical_significance": "La libération de myoglobine dans le sang peut causer une rhabdomyolyse et une insuffisance rénale aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "myoglobine",
+        "muscle"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microangiopathies thrombotiques",
+      "definition": "Maladies caractérisées par la formation de microthrombi dans les petits vaisseaux sanguins, entraînant une ischémie tissulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "microangiopathies thrombotiques"
+      ],
+      "related_terms": [
+        "thrombose",
+        "ischémie"
+      ],
+      "description": "Les microangiopathies thrombotiques peuvent entraîner une insuffisance rénale aiguë.",
+      "expansion": "N/A",
+      "clinical_significance": "Les microangiopathies thrombotiques sont une cause importante d'insuffisance rénale aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "microangiopathies thrombotiques",
+        "thrombose"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrites interstitielles aiguës",
+      "definition": "Inflammation aiguë de l'interstitium rénal, souvent due à des infections ou à des réactions médicamenteuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrites interstitielles aiguës"
+      ],
+      "related_terms": [
+        "néphrite",
+        "interstitium rénal"
+      ],
+      "description": "Les néphrites interstitielles aiguës peuvent entraîner une insuffisance rénale aiguë.",
+      "expansion": "N/A",
+      "clinical_significance": "Les néphrites interstitielles aiguës sont une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "néphrites interstitielles aiguës",
+        "interstitium rénal"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arrêt cardiorespiratoire",
+      "definition": "Arrêt soudain de la fonction cardiaque et respiratoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arrêt cardiaque",
+        "arrêt respiratoire"
+      ],
+      "description": "L'arrêt cardiorespiratoire est une urgence médicale nécessitant une réanimation immédiate.",
+      "expansion": null,
+      "clinical_significance": "L'arrêt cardiorespiratoire peut entraîner la mort si non traité rapidement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kussmaul",
+      "definition": "Type de respiration rapide et profonde, souvent associée à l'acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "respiration de Kussmaul"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "dyspnée"
+      ],
+      "description": "La respiration de Kussmaul est un signe clinique de l'acidose métabolique.",
+      "expansion": null,
+      "clinical_significance": "La respiration de Kussmaul peut indiquer une acidose métabolique sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gazométrie",
+      "definition": "Analyse des gaz sanguins pour évaluer l'équilibre acido-basique et l'oxygénation.",
+      "category": "physiologie",
+      "synonyms": [
+        "gaz du sang"
+      ],
+      "related_terms": [
+        "pH sanguin",
+        "PaO2"
+      ],
+      "description": "La gazométrie est utilisée pour diagnostiquer et surveiller diverses conditions respiratoires et métaboliques.",
+      "expansion": null,
+      "clinical_significance": "La gazométrie est un outil de diagnostic essentiel pour évaluer l'équilibre acido-basique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhydratation",
+      "definition": "Excès de liquide dans le corps, pouvant affecter les compartiments intra et extracellulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation",
+        "œdème"
+      ],
+      "description": "L'hyperhydratation peut entraîner des complications graves, y compris l'œdème pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "L'hyperhydratation peut être une complication de l'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déshydratation",
+      "definition": "Perte excessive de liquide corporel, pouvant affecter les compartiments intra et extracellulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperhydratation",
+        "hypovolémie"
+      ],
+      "description": "La déshydratation peut entraîner des complications graves, y compris une insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": "La déshydratation peut être une complication de diverses conditions médicales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "azotémie",
+      "definition": "Augmentation du taux d'azote uréique dans le sang, indiquant une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "urée plasmatique",
+        "créatininémie"
+      ],
+      "description": "L'azotémie est un signe d'insuffisance rénale et nécessite une évaluation médicale.",
+      "expansion": null,
+      "clinical_significance": "L'azotémie peut indiquer une insuffisance rénale aiguë ou chronique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie rénale",
+      "definition": "Examen d'imagerie utilisant les ultrasons pour visualiser les reins et les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "échographie",
+        "ultrasons"
+      ],
+      "description": "L'échographie rénale est utilisée pour diagnostiquer diverses conditions rénales, y compris les obstructions et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "L'échographie rénale est un outil de diagnostic essentiel pour évaluer la structure et la fonction rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dilatation",
+      "definition": "Élargissement anormal d'une structure ou d'un organe.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "distension",
+        "hypertrophie"
+      ],
+      "description": "La dilatation peut être causée par diverses conditions, y compris les obstructions et les infections.",
+      "expansion": null,
+      "clinical_significance": "La dilatation peut indiquer une obstruction ou d'autres conditions pathologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélocaliciel",
+      "definition": "Relatif au bassinet et aux calices rénaux, structures collectrices de l'urine dans le rein.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "bassinet rénal",
+        "calice rénal"
+      ],
+      "description": "Les cavités pyélocalicielles sont impliquées dans la collecte et le drainage de l'urine.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des cavités pyélocalicielles peuvent indiquer des obstructions ou d'autres conditions rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tomodensitométrie rénale",
+      "definition": "Examen d'imagerie utilisant les rayons X pour visualiser les reins et les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner rénal"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "scanner"
+      ],
+      "description": "La tomodensitométrie rénale est utilisée pour diagnostiquer diverses conditions rénales, y compris les obstructions et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "La tomodensitométrie rénale est un outil de diagnostic essentiel pour évaluer la structure et la fonction rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uro-IRM",
+      "definition": "Imagerie par résonance magnétique des voies urinaires, utilisée pour visualiser les reins et les voies urinaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM",
+        "imagerie par résonance magnétique"
+      ],
+      "description": "L'uro-IRM est utilisée pour diagnostiquer diverses conditions rénales, y compris les obstructions et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "L'uro-IRM est un outil de diagnostic essentiel pour évaluer la structure et la fonction rénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrose rétropéritonéale",
+      "definition": "Condition caractérisée par la formation de tissu fibreux dans la région rétropéritonéale, pouvant entraîner une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rétropéritoine",
+        "fibrose"
+      ],
+      "description": "La fibrose rétropéritonéale peut être causée par diverses conditions, y compris les infections et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "La fibrose rétropéritonéale peut entraîner une obstruction des voies urinaires et une insuffisance rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase",
+      "definition": "Formation de calculs ou de pierres dans les voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "calcul",
+        "pierre"
+      ],
+      "related_terms": [
+        "lithiase rénale",
+        "lithiase vésicale"
+      ],
+      "description": "La lithiase peut entraîner des obstructions et des infections des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "La lithiase peut être une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome de prostate",
+      "definition": "Tumeur bénigne de la prostate, souvent associée à une hypertrophie bénigne de la prostate (HBP).",
+      "category": "pathologie",
+      "synonyms": [
+        "HBP"
+      ],
+      "related_terms": [
+        "hypertrophie prostatique",
+        "cancer de la prostate"
+      ],
+      "description": "L'adénome de prostate peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "L'adénome de prostate est une cause fréquente d'insuffisance rénale aiguë chez les hommes âgés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer de la prostate",
+      "definition": "Tumeur maligne de la prostate, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénome de prostate",
+        "cancer"
+      ],
+      "description": "Le cancer de la prostate peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Le cancer de la prostate est une cause fréquente d'insuffisance rénale aiguë chez les hommes âgés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du col utérin",
+      "definition": "Tumeur maligne du col de l'utérus, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "col de l'utérus"
+      ],
+      "description": "Le cancer du col utérin peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Le cancer du col utérin est une cause fréquente d'insuffisance rénale aiguë chez les femmes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeur de la vessie",
+      "definition": "Tumeur maligne de la vessie, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer de la vessie",
+        "tumeur"
+      ],
+      "description": "La tumeur de la vessie peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "La tumeur de la vessie est une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du rectum",
+      "definition": "Tumeur maligne du rectum, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "rectum"
+      ],
+      "description": "Le cancer du rectum peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Le cancer du rectum est une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer de l'ovaire",
+      "definition": "Tumeur maligne de l'ovaire, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "ovaire"
+      ],
+      "description": "Le cancer de l'ovaire peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Le cancer de l'ovaire est une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer de l'utérus",
+      "definition": "Tumeur maligne de l'utérus, pouvant entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "utérus"
+      ],
+      "description": "Le cancer de l'utérus peut entraîner des symptômes urinaires et une obstruction des voies urinaires.",
+      "expansion": null,
+      "clinical_significance": "Le cancer de l'utérus est une cause fréquente d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métastases rétropéritonéales",
+      "definition": "Propagation de cellules cancéreuses à la région rétropéritonéale, pouvant entraîner une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "métastases",
+        "rétropéritoine"
+      ],
+      "description": "Les métastases rétropéritonéales peuvent entraîner une obstruction des voies urinaires et une insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": "Les métastases rétropéritonéales sont une cause rare d'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "globe vésical",
+      "definition": "Distension de la vessie due à une rétention urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rétention urinaire",
+        "distension vésicale"
+      ],
+      "description": "Le globe vésical peut être causé par une obstruction des voies urinaires ou une dysfonction vésicale.",
+      "expansion": null,
+      "clinical_significance": "Le globe vésical peut entraîner une insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "blindage pelvien",
+      "definition": "Induration ou rigidité du tissu pelvien, souvent due à une inflammation ou une tumeur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "induration pelvienne",
+        "rigidité pelvienne"
+      ],
+      "description": "Le blindage pelvien peut être causé par diverses conditions, y compris les infections et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "Le blindage pelvien peut indiquer une condition sous-jacente nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amylose rénale",
+      "definition": "Accumulation anormale de protéines amyloïdes dans les reins, entraînant une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "amyloïdose",
+        "protéines amyloïdes"
+      ],
+      "description": "L'amylose rénale peut entraîner une insuffisance rénale chronique.",
+      "expansion": null,
+      "clinical_significance": "L'amylose rénale est une cause fréquente de maladies rénales chroniques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "douleur lombaire",
+      "definition": "Douleur localisée dans la région lombaire, souvent associée à des conditions rénales ou musculo-squelettiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "douleur rénale",
+        "douleur dorsale"
+      ],
+      "description": "La douleur lombaire peut être causée par diverses conditions, y compris les infections et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "La douleur lombaire peut indiquer une condition sous-jacente nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA fonctionnelles",
+      "definition": "Insuffisance Rénale Aiguë fonctionnelle, une forme d'insuffisance rénale réversible due à une diminution du débit sanguin rénal sans lésion parenchymateuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA fonctionnelle"
+      ],
+      "related_terms": [
+        "IRA organique",
+        "nécrose tubulaire aiguë"
+      ],
+      "description": "L'IRA fonctionnelle est souvent causée par des troubles hémodynamiques ou des hypovolémies, et est réversible une fois le flux sanguin rénal restauré.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel avec l'IRA organique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypovolémies vraies",
+      "definition": "Diminution réelle du volume sanguin circulant, souvent due à des pertes de liquides extracellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypovolémie réelle"
+      ],
+      "related_terms": [
+        "déshydratation",
+        "hypotension"
+      ],
+      "description": "Les hypovolémies vraies peuvent entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance cardiaque congestive",
+      "definition": "État pathologique où le cœur ne peut pas pomper suffisamment de sang pour répondre aux besoins de l'organisme, entraînant une congestion pulmonaire et systémique.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance cardiaque"
+      ],
+      "related_terms": [
+        "œdème pulmonaire",
+        "dyspnée"
+      ],
+      "description": "L'insuffisance cardiaque congestive peut provoquer une hypovolémie relative et une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "décompensations œdémato-ascitiques des cirrhoses",
+      "definition": "Accumulation de liquide dans l'abdomen (ascite) et les tissus (œdème) chez les patients atteints de cirrhose du foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "ascite",
+        "œdème"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hypertension portale"
+      ],
+      "description": "Les décompensations œdémato-ascitiques des cirrhoses peuvent entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodynamique intrarénale",
+      "definition": "Circulation sanguine à l'intérieur des reins, impliquant la perfusion des glomérules et des tubules rénaux.",
+      "category": "physiologie",
+      "synonyms": [
+        "circulation intrarénale"
+      ],
+      "related_terms": [
+        "perfusion rénale",
+        "débit sanguin rénal"
+      ],
+      "description": "Les troubles de l'hémodynamique intrarénale peuvent entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pli cutané",
+      "definition": "Test clinique pour évaluer l'état d'hydratation en pinçant la peau et en observant la vitesse à laquelle elle retourne à sa position normale.",
+      "category": "physiologie",
+      "synonyms": [
+        "test du pli cutané"
+      ],
+      "related_terms": [
+        "déshydratation",
+        "hydratation"
+      ],
+      "description": "Un pli cutané persistant peut indiquer une déshydratation et une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténose bilatérale des artères rénales",
+      "definition": "Rétrécissement des deux artères rénales, souvent causé par l'athérosclérose ou la dysplasie fibromusculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose rénale bilatérale"
+      ],
+      "related_terms": [
+        "hypertension rénovasculaire",
+        "athérosclérose"
+      ],
+      "description": "La sténose bilatérale des artères rénales peut entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urée sanguine",
+      "definition": "Produit final du métabolisme des protéines, éliminé par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "urée"
+      ],
+      "related_terms": [
+        "créatinine",
+        "azotémie"
+      ],
+      "description": "L'augmentation de l'urée sanguine est un signe d'insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "7-20 mg/dL",
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "créatinine sanguine",
+      "definition": "Produit de dégradation de la créatine, éliminé par les reins, utilisé comme marqueur de la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "créatinine"
+      ],
+      "related_terms": [
+        "urée",
+        "clairance de la créatinine"
+      ],
+      "description": "L'augmentation de la créatinine sanguine est un signe d'insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "0.6-1.2 mg/dL",
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "natriurèse",
+      "definition": "Excrétion urinaire de sodium, souvent utilisée pour évaluer la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "excrétion de sodium"
+      ],
+      "related_terms": [
+        "fraction d'excrétion de sodium",
+        "sodium urinaire"
+      ],
+      "description": "Une faible natriurèse peut indiquer une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperaldostéronisme secondaire",
+      "definition": "Augmentation de la sécrétion d'aldostérone en réponse à une diminution du volume sanguin ou de la pression artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperaldostéronisme"
+      ],
+      "related_terms": [
+        "aldostérone",
+        "hypovolémie"
+      ],
+      "description": "L'hyperaldostéronisme secondaire peut être un signe d'insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolarité urinaire",
+      "definition": "Concentration de solutés dans l'urine, mesurée en osmoles par litre.",
+      "category": "physiologie",
+      "synonyms": [
+        "osmolarité de l'urine"
+      ],
+      "related_terms": [
+        "osmolalité",
+        "concentration urinaire"
+      ],
+      "description": "Une osmolarité urinaire élevée peut indiquer une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "50-1200 mosm/L",
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRA organique",
+      "definition": "Insuffisance Rénale Aiguë organique, une forme d'insuffisance rénale due à des lésions parenchymateuses rénales.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA organique"
+      ],
+      "related_terms": [
+        "nécrose tubulaire aiguë",
+        "glomérulonéphrite"
+      ],
+      "description": "L'IRA organique est souvent causée par des lésions rénales parenchymateuses et peut être irréversible.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel avec l'IRA fonctionnelle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiogénique",
+      "definition": "Relatif à une origine cardiaque, souvent utilisé pour décrire un choc ou une insuffisance rénale due à une dysfonction cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc cardiogénique"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "choc"
+      ],
+      "description": "Un choc cardiogénique peut entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragique",
+      "definition": "Relatif à une perte de sang, souvent utilisé pour décrire un choc ou une insuffisance rénale due à une hémorragie.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc hémorragique"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "choc"
+      ],
+      "description": "Un choc hémorragique peut entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "septique",
+      "definition": "Relatif à une infection, souvent utilisé pour décrire un choc ou une insuffisance rénale due à une sepsis.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc septique"
+      ],
+      "related_terms": [
+        "sepsis",
+        "choc"
+      ],
+      "description": "Un choc septique peut entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anaphylactique",
+      "definition": "Relatif à une réaction allergique sévère, souvent utilisé pour décrire un choc ou une insuffisance rénale due à une anaphylaxie.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc anaphylactique"
+      ],
+      "related_terms": [
+        "anaphylaxie",
+        "choc"
+      ],
+      "description": "Un choc anaphylactique peut entraîner une insuffisance rénale aiguë fonctionnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathie glomérulaire aiguë",
+      "definition": "Atteinte aiguë des glomérules rénaux, souvent due à une inflammation ou une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "glomérulonéphrite aiguë"
+      ],
+      "related_terms": [
+        "glomérules",
+        "néphrite"
+      ],
+      "description": "La néphropathie glomérulaire aiguë est une cause d'insuffisance rénale aiguë organique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrite interstitielle aiguë",
+      "definition": "Inflammation aiguë de l'interstitium rénal, souvent due à des médicaments ou des infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrite interstitielle"
+      ],
+      "related_terms": [
+        "interstitium rénal",
+        "néphrotoxicité"
+      ],
+      "description": "La néphrite interstitielle aiguë est une cause d'insuffisance rénale aiguë organique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathie vasculaire aiguë",
+      "definition": "Atteinte aiguë des vaisseaux sanguins rénaux, souvent due à une inflammation ou une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasculite rénale"
+      ],
+      "related_terms": [
+        "vaisseaux rénaux",
+        "vasculite"
+      ],
+      "description": "La néphropathie vasculaire aiguë est une cause d'insuffisance rénale aiguë organique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématurie microscopique",
+      "definition": "Présence de globules rouges dans l'urine, détectable uniquement au microscope.",
+      "category": "physiologie",
+      "synonyms": [
+        "hématurie"
+      ],
+      "related_terms": [
+        "hématurie macroscopique",
+        "globules rouges"
+      ],
+      "description": "L'hématurie microscopique peut être un signe de néphropathie glomérulaire aiguë ou vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucocyturie",
+      "definition": "Présence anormale de leucocytes dans l'urine, souvent un signe d'infection urinaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "leucocyturie"
+      ],
+      "related_terms": [
+        "leucocytes",
+        "infection urinaire"
+      ],
+      "description": "La leucocyturie est un signe de néphrite interstitielle aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infection urinaire",
+      "definition": "Infection du tractus urinaire, souvent causée par des bactéries.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection des voies urinaires"
+      ],
+      "related_terms": [
+        "cystite",
+        "pyélonéphrite"
+      ],
+      "description": "L'infection urinaire peut être un signe de néphrite interstitielle aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligoanurique",
+      "definition": "Se réfère à une diminution significative de la production d'urine, souvent inférieure à 400 ml par jour.",
+      "category": "physiologie",
+      "synonyms": [
+        "oligurie"
+      ],
+      "related_terms": [
+        "anurie",
+        "polyurie"
+      ],
+      "description": "L'oligoanurie est un signe clinique important dans l'insuffisance rénale aiguë, indiquant une réduction de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PBR",
+      "definition": "Ponction-biopsie rénale, une procédure médicale où un échantillon de tissu rénal est prélevé pour analyse.",
+      "category": "imagerie",
+      "synonyms": [
+        "biopsie rénale"
+      ],
+      "related_terms": [
+        "biopsie hépatique",
+        "biopsie pulmonaire"
+      ],
+      "description": "La PBR est utilisée pour diagnostiquer diverses maladies rénales en examinant le tissu au microscope.",
+      "expansion": "Ponction-Biopsie Rénale",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NTA",
+      "definition": "Nécrose tubulaire aiguë, une condition où les tubules rénaux sont endommagés, entraînant une insuffisance rénale aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose tubulaire aiguë"
+      ],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "nécrose corticale"
+      ],
+      "description": "La NTA est souvent causée par une ischémie, des toxines ou des médicaments néphrotoxiques.",
+      "expansion": "Nécrose Tubulaire Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aminosides",
+      "definition": "Classe d'antibiotiques utilisés pour traiter les infections bactériennes graves, connus pour leur potentiel néphrotoxique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "aminoglycosides"
+      ],
+      "related_terms": [
+        "gentamicine",
+        "tobramycine"
+      ],
+      "description": "Les aminosides sont souvent utilisés pour traiter les infections à Gram négatif, mais leur utilisation doit être surveillée en raison de leur toxicité rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ciclosporine",
+      "definition": "Immunosuppresseur utilisé pour prévenir le rejet de greffe d'organe, connu pour sa néphrotoxicité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "cyclosporine"
+      ],
+      "related_terms": [
+        "tacrolimus",
+        "sirolimus"
+      ],
+      "description": "La ciclosporine est utilisée pour prévenir le rejet de greffe, mais son utilisation nécessite une surveillance étroite de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tubulopathie",
+      "definition": "Maladie affectant les tubules rénaux, entraînant une altération de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "tubulopathie"
+      ],
+      "related_terms": [
+        "néphropathie tubulaire",
+        "acidose tubulaire rénale"
+      ],
+      "description": "La tubulopathie peut être causée par divers facteurs, y compris les médicaments néphrotoxiques et les maladies génétiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aciclovir",
+      "definition": "Antiviral utilisé pour traiter les infections à herpès, connu pour sa néphrotoxicité à haute dose.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "acyclovir"
+      ],
+      "related_terms": [
+        "valaciclovir",
+        "famciclovir"
+      ],
+      "description": "L'aciclovir est efficace contre les infections à herpès, mais son utilisation nécessite une surveillance de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sulfadiazine",
+      "definition": "Antibiotique sulfamide utilisé pour traiter les infections bactériennes, connu pour sa néphrotoxicité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sulfadiazine"
+      ],
+      "related_terms": [
+        "sulfaméthoxazole",
+        "sulfaméthizole"
+      ],
+      "description": "La sulfadiazine est utilisée pour traiter les infections bactériennes, mais son utilisation nécessite une surveillance de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Indinavir",
+      "definition": "Inhibiteur de la protéase utilisé pour traiter le VIH, connu pour sa néphrotoxicité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "indinavir"
+      ],
+      "related_terms": [
+        "ritonavir",
+        "saquinavir"
+      ],
+      "description": "L'indinavir est utilisé dans le traitement du VIH, mais son utilisation nécessite une surveillance de la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crush syndrome",
+      "definition": "Syndrome résultant de l'écrasement des muscles squelettiques, entraînant la libération de myoglobine et d'autres substances dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'écrasement"
+      ],
+      "related_terms": [
+        "rhabdomyolyse",
+        "myoglobinurie"
+      ],
+      "description": "Le crush syndrome peut entraîner une insuffisance rénale aiguë et d'autres complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NIA",
+      "definition": "Néphrite interstitielle aiguë, une inflammation aiguë de l'interstitium rénal, souvent causée par des médicaments ou des infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrite interstitielle aiguë"
+      ],
+      "related_terms": [
+        "néphrite tubulo-interstitielle",
+        "pyélonéphrite"
+      ],
+      "description": "La NIA peut entraîner une insuffisance rénale aiguë et nécessite souvent l'arrêt du médicament incriminé.",
+      "expansion": "Néphrite Interstitielle Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuline ordinaire",
+      "definition": "Forme d'insuline à action rapide utilisée pour traiter l'hyperkaliémie en favorisant l'entrée du potassium dans les cellules.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "insuline régulière"
+      ],
+      "related_terms": [
+        "insuline",
+        "hyperkaliémie"
+      ],
+      "description": "L'insuline ordinaire est souvent administrée avec du glucose pour prévenir l'hypoglycémie.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour réduire rapidement les niveaux de potassium dans le sang.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "insuline ordinaire",
+        "administration insuline hyperkaliémie"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "bicarbonates de sodium",
+      "definition": "Solution alcalinisante utilisée pour traiter l'acidose métabolique et l'hyperkaliémie en augmentant le pH sanguin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bicarbonate de sodium"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "hyperkaliémie"
+      ],
+      "description": "Les bicarbonates de sodium sont administrés en fonction de la volémie et de la calcémie du patient.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour corriger l'acidose métabolique et réduire les niveaux de potassium.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bicarbonate de sodium",
+        "administration bicarbonate de sodium"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêta 2 mimétiques",
+      "definition": "Médicaments agonistes des récepteurs bêta-2 adrénergiques utilisés pour traiter l'hyperkaliémie en favorisant l'entrée du potassium dans les cellules.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-2 agonistes"
+      ],
+      "related_terms": [
+        "salbutamol",
+        "hyperkaliémie"
+      ],
+      "description": "Les bêta 2 mimétiques sont souvent administrés par aérosol pour un effet rapide.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'hyperkaliémie modérée.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bêta 2 mimétiques",
+        "administration bêta 2 mimétiques"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "résine échangeuse d'ions",
+      "definition": "Médicament utilisé pour traiter l'hyperkaliémie en échangeant les ions potassium contre des ions sodium ou calcium dans le tractus gastro-intestinal.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "kayexalate"
+      ],
+      "related_terms": [
+        "hyperkaliémie",
+        "résine sodium polystyrène sulfonate"
+      ],
+      "description": "La résine échangeuse d'ions est administrée par voie orale ou rectale pour prévenir la récidive de l'hyperkaliémie.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter l'hyperkaliémie chronique ou récidivante.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "résine échangeuse d'ions",
+        "kayexalate"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "IRAO",
+      "definition": "Insuffisance rénale aiguë obstructive, une condition où l'obstruction des voies urinaires entraîne une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "obstruction urinaire"
+      ],
+      "description": "L'IRAO peut nécessiter une hémodialyse en cas de signes graves ne répondant pas aux diurétiques.",
+      "expansion": null,
+      "clinical_significance": "Condition nécessitant un drainage urgent des urines.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "IRAO",
+        "insuffisance rénale aiguë obstructive"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.87
+    },
+    {
+      "term": "GNRP",
+      "definition": "Glomérulonéphrites rapidement progressives, des maladies rénales caractérisées par une détérioration rapide de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérulonéphrite",
+        "insuffisance rénale"
+      ],
+      "description": "Les GNRP sont des urgences thérapeutiques nécessitant une corticothérapie et un traitement immunosuppresseur.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "GNRP",
+        "glomérulonéphrites rapidement progressives"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "PCI",
+      "definition": "Produits de Contraste Iodés, substances utilisées en imagerie médicale pour améliorer la visibilité des structures internes.",
+      "category": "imagerie",
+      "synonyms": [
+        "produits de contraste iodés"
+      ],
+      "related_terms": [
+        "PDC",
+        "IRA"
+      ],
+      "description": "Les PCI peuvent être néphrotoxiques et doivent être utilisés avec précaution chez les patients à risque d'IRA.",
+      "expansion": null,
+      "clinical_significance": "L'utilisation de PCI nécessite une hydratation adéquate et une surveillance de la fonction rénale pour prévenir l'IRA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "produits de contraste iodés",
+        "néphrotoxicité"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rhabdomyolyses",
+      "definition": "Syndrome caractérisé par la destruction des fibres musculaires striées et la libération de leur contenu dans la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "rhabdomyolyse"
+      ],
+      "related_terms": [
+        "lyses tumorales",
+        "chimiothérapie"
+      ],
+      "description": "Les rhabdomyolyses peuvent entraîner une insuffisance rénale aiguë en raison de la libération de myoglobine.",
+      "expansion": null,
+      "clinical_significance": "Les rhabdomyolyses nécessitent une hydratation adéquate pour prévenir l'IRA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rhabdomyolyses",
+        "insuffisance rénale aiguë"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lyses tumorales",
+      "definition": "Syndrome caractérisé par la destruction rapide des cellules tumorales, libérant des électrolytes et des métabolites dans la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "lyse tumorale"
+      ],
+      "related_terms": [
+        "rhabdomyolyses",
+        "chimiothérapie"
+      ],
+      "description": "Les lyses tumorales peuvent entraîner une insuffisance rénale aiguë en raison de la libération de potassium, de phosphate et d'acide urique.",
+      "expansion": null,
+      "clinical_significance": "Les lyses tumorales nécessitent une hydratation adéquate pour prévenir l'IRA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lyses tumorales",
+        "insuffisance rénale aiguë"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucémies aiguës",
+      "definition": "Cancers du sang caractérisés par la prolifération rapide de cellules immatures dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucémie aiguë"
+      ],
+      "related_terms": [
+        "lymphomes",
+        "cancers anaplasiques à petites cellules"
+      ],
+      "description": "Les leucémies aiguës peuvent entraîner des complications rénales, notamment une insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": "Les leucémies aiguës nécessitent une hydratation adéquate pour prévenir l'IRA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "leucémies aiguës",
+        "insuffisance rénale aiguë"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers anaplasiques à petites cellules",
+      "definition": "Type de cancer du poumon caractérisé par des cellules de petite taille et de forme anaplasique.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer anaplasique à petites cellules"
+      ],
+      "related_terms": [
+        "leucémies aiguës",
+        "lymphomes"
+      ],
+      "description": "Les cancers anaplasiques à petites cellules peuvent entraîner des complications rénales, notamment une insuffisance rénale aiguë.",
+      "expansion": null,
+      "clinical_significance": "Les cancers anaplasiques à petites cellules nécessitent une hydratation adéquate pour prévenir l'IRA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cancers anaplasiques à petites cellules",
+        "insuffisance rénale aiguë"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhydratation extracellulaire",
+      "definition": "Excès de liquide à l'extérieur des cellules, souvent due à une insuffisance rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperhydratation extracellulaire"
+      ],
+      "related_terms": [
+        "hyperhydratation intracellulaire",
+        "acidose métabolique"
+      ],
+      "description": "L'hyperhydratation extracellulaire peut entraîner des œdèmes et nécessite une prise en charge appropriée.",
+      "expansion": null,
+      "clinical_significance": "L'hyperhydratation extracellulaire est une complication de l'IRA et nécessite une surveillance étroite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperhydratation extracellulaire",
+        "insuffisance rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NGA",
+      "definition": "Néphropathie Glomérulaire Aiguë, une maladie aiguë des glomérules rénaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphropathie glomérulaire aiguë"
+      ],
+      "related_terms": [
+        "IRA",
+        "NTA",
+        "NIA",
+        "NVA"
+      ],
+      "description": "La NGA est souvent causée par des maladies auto-immunes, des infections ou des toxines.",
+      "expansion": null,
+      "clinical_significance": "La NGA est une cause d'IRA et nécessite une prise en charge rapide pour éviter des séquelles rénales permanentes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néphropathie glomérulaire aiguë",
+        "maladie rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NVA",
+      "definition": "Néphropathie Vasculaire Aiguë, une maladie aiguë des vaisseaux sanguins rénaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphropathie vasculaire aiguë"
+      ],
+      "related_terms": [
+        "IRA",
+        "NTA",
+        "NIA",
+        "NGA"
+      ],
+      "description": "La NVA est souvent causée par des maladies vasculaires, des infections ou des toxines.",
+      "expansion": null,
+      "clinical_significance": "La NVA est une cause d'IRA et nécessite une prise en charge rapide pour éviter des séquelles rénales permanentes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néphropathie vasculaire aiguë",
+        "maladie rénale"
+      ],
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "source_file": "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Néphrologie/Insuffisance Rénale Aiguë/Courses/46 Insuffisance rénale aigue 2.51.49 AM 3.03.29 AM.md"
+  ],
+  "total_terms": 180
+}

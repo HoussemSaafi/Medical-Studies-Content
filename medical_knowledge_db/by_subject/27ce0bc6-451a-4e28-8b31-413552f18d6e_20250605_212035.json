@@ -1,0 +1,4362 @@
+{
+  "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+  "terms": [
+    {
+      "term": "ischémies cérébrales artérielles",
+      "definition": "Réduction ou arrêt de l'apport sanguin à une partie du cerveau en raison d'une obstruction artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie cérébrale"
+      ],
+      "related_terms": [
+        "infarctus cérébral",
+        "accident ischémique transitoire"
+      ],
+      "description": "Les ischémies cérébrales artérielles représentent environ 80% des AVC.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie cérébrale",
+        "AVC ischémique"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accidents ischémiques transitoires",
+      "definition": "Épisodes temporaires de dysfonction neurologique causés par une ischémie cérébrale focale sans infarctus.",
+      "category": "pathologie",
+      "synonyms": [
+        "AIT"
+      ],
+      "related_terms": [
+        "ischémie cérébrale",
+        "infarctus cérébral"
+      ],
+      "description": "Les AIT sont des signes avant-coureurs d'un AVC ischémique et nécessitent une évaluation médicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "AIT",
+        "accident ischémique transitoire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragies cérébrales",
+      "definition": "Saignement dans le parenchyme cérébral, souvent dû à la rupture d'un vaisseau sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie intraparenchymateuse"
+      ],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "hémorragie méningée"
+      ],
+      "description": "Les hémorragies cérébrales représentent environ 20% des AVC et nécessitent une prise en charge différente des ischémies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie cérébrale",
+        "AVC hémorragique"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thromboses veineuses cérébrales",
+      "definition": "Formation de caillots sanguins dans les veines cérébrales, obstruant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose cérébrale"
+      ],
+      "related_terms": [
+        "thrombose",
+        "veine cérébrale"
+      ],
+      "description": "Les thromboses veineuses cérébrales sont rares mais peuvent causer des AVC.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose veineuse cérébrale",
+        "AVC veineux"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cérébrale antérieure",
+      "definition": "Artère issue de l'artère carotide interne, vascularisant la face interne du lobe frontal et pariétal.",
+      "category": "anatomie",
+      "synonyms": [
+        "ACA"
+      ],
+      "related_terms": [
+        "artère cérébrale moyenne",
+        "artère cérébrale postérieure"
+      ],
+      "description": "L'artère cérébrale antérieure est une branche terminale de l'artère carotide interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébrale antérieure",
+        "ACA"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cérébrale moyenne",
+      "definition": "Artère issue de l'artère carotide interne, vascularisant la majorité de la face latérale du cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "ACM",
+        "artère sylvienne"
+      ],
+      "related_terms": [
+        "artère cérébrale antérieure",
+        "artère cérébrale postérieure"
+      ],
+      "description": "L'artère cérébrale moyenne est une branche terminale de l'artère carotide interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébrale moyenne",
+        "ACM",
+        "artère sylvienne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère choroïdienne antérieure",
+      "definition": "Artère issue de l'artère carotide interne, vascularisant des structures profondes du cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "AChA"
+      ],
+      "related_terms": [
+        "artère choroïdienne postérieure",
+        "plexus choroïde"
+      ],
+      "description": "L'artère choroïdienne antérieure est une branche de l'artère carotide interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère choroïdienne antérieure",
+        "AChA"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère communicante postérieure",
+      "definition": "Artère reliant l'artère carotide interne à l'artère cérébrale postérieure, faisant partie du polygone de Willis.",
+      "category": "anatomie",
+      "synonyms": [
+        "ACoP"
+      ],
+      "related_terms": [
+        "artère communicante antérieure",
+        "polygone de Willis"
+      ],
+      "description": "L'artère communicante postérieure assure la communication entre les systèmes carotidien et vertébro-basilaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère communicante postérieure",
+        "ACoP"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères vertébrales",
+      "definition": "Artères naissant des artères subclavières et s'unissant pour former le tronc basilaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère vertébrale"
+      ],
+      "related_terms": [
+        "tronc basilaire",
+        "artère subclavière"
+      ],
+      "description": "Les artères vertébrales sont cruciales pour la vascularisation postérieure du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères vertébrales",
+        "artère vertébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères cérébrales postérieures",
+      "definition": "Artères issues du tronc basilaire, vascularisant le cortex temporal inféro-interne et le lobe occipital.",
+      "category": "anatomie",
+      "synonyms": [
+        "ACP"
+      ],
+      "related_terms": [
+        "artère cérébrale antérieure",
+        "artère cérébrale moyenne"
+      ],
+      "description": "Les artères cérébrales postérieures sont des branches terminales du tronc basilaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères cérébrales postérieures",
+        "ACP"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polygone de Willis",
+      "definition": "Cercle artériel anastomotique à la base du cerveau, formé par les artères cérébrales antérieures, communicantes antérieures et postérieures, et les artères cérébrales postérieures.",
+      "category": "anatomie",
+      "synonyms": [
+        "cercle de Willis"
+      ],
+      "related_terms": [
+        "artère cérébrale antérieure",
+        "artère communicante postérieure"
+      ],
+      "description": "Le polygone de Willis assure la communication entre les systèmes carotidien et vertébro-basilaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polygone de Willis",
+        "cercle de Willis"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères cérébelleuses",
+      "definition": "Artères vascularisant le cervelet, issues des artères vertébrales et du tronc basilaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère cérébelleuse"
+      ],
+      "related_terms": [
+        "artère cérébelleuse antéro-inférieure",
+        "artère cérébelleuse postéro-inférieure"
+      ],
+      "description": "Les artères cérébelleuses sont cruciales pour la vascularisation du cervelet.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères cérébelleuses",
+        "artère cérébelleuse"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cérébelleuse antéro-inférieure",
+      "definition": "Artère issue des artères vertébrales, vascularisant la partie antéro-inférieure des hémisphères cérébelleux.",
+      "category": "anatomie",
+      "synonyms": [
+        "AICA"
+      ],
+      "related_terms": [
+        "artère cérébelleuse postéro-inférieure",
+        "artère cérébelleuse supérieure"
+      ],
+      "description": "L'artère cérébelleuse antéro-inférieure est une branche des artères vertébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébelleuse antéro-inférieure",
+        "AICA"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cérébelleuse postéro-inférieure",
+      "definition": "Artère issue des artères vertébrales, vascularisant la partie postéro-inférieure des hémisphères cérébelleux.",
+      "category": "anatomie",
+      "synonyms": [
+        "PICA"
+      ],
+      "related_terms": [
+        "artère cérébelleuse antéro-inférieure",
+        "artère cérébelleuse supérieure"
+      ],
+      "description": "L'artère cérébelleuse postéro-inférieure est une branche des artères vertébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébelleuse postéro-inférieure",
+        "PICA"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cérébelleuse supérieure",
+      "definition": "Artère issue du tronc basilaire, vascularisant la face supérieure des hémisphères cérébelleux.",
+      "category": "anatomie",
+      "synonyms": [
+        "SCA"
+      ],
+      "related_terms": [
+        "artère cérébelleuse antéro-inférieure",
+        "artère cérébelleuse postéro-inférieure"
+      ],
+      "description": "L'artère cérébelleuse supérieure est une branche du tronc basilaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébelleuse supérieure",
+        "SCA"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère spinales antérieures",
+      "definition": "Artères vascularisant la partie antérieure de la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère spinale antérieure"
+      ],
+      "related_terms": [
+        "artère spinale postérieure",
+        "moelle épinière"
+      ],
+      "description": "Les artères spinales antérieures sont cruciales pour la vascularisation de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère spinales antérieures",
+        "artère spinale antérieure"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère spinales postérieures",
+      "definition": "Artères vascularisant la partie postérieure de la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère spinale postérieure"
+      ],
+      "related_terms": [
+        "artère spinale antérieure",
+        "moelle épinière"
+      ],
+      "description": "Les artères spinales postérieures sont cruciales pour la vascularisation de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère spinales postérieures",
+        "artère spinale postérieure"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gyrus pré-central",
+      "definition": "Région du cortex frontal impliquée dans la motricité volontaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "circonvolution frontale ascendante"
+      ],
+      "related_terms": [
+        "aire 4",
+        "homonculus moteur"
+      ],
+      "description": "Le gyrus pré-central est l'aire 4 de Brodmann, impliquée dans la motricité volontaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gyrus pré-central",
+        "circonvolution frontale ascendante"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gyrus post-central",
+      "definition": "Région du cortex pariétal impliquée dans la sensibilité somatique.",
+      "category": "anatomie",
+      "synonyms": [
+        "circonvolution pariétale ascendante"
+      ],
+      "related_terms": [
+        "aire 1",
+        "homonculus sensitif"
+      ],
+      "description": "Le gyrus post-central est l'aire 1 de Brodmann, impliquée dans la sensibilité somatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gyrus post-central",
+        "circonvolution pariétale ascendante"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aire de Broca",
+      "definition": "Région du cerveau impliquée dans la production du langage, localisée dans la 3ème circonvolution frontale.",
+      "category": "anatomie",
+      "synonyms": [
+        "aire de Broca"
+      ],
+      "related_terms": [
+        "aire de Wernicke",
+        "langage"
+      ],
+      "description": "L'aire de Broca est cruciale pour la production des mots parlés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire de Broca",
+        "3ème circonvolution frontale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aire de Wernicke",
+      "definition": "Région du cerveau impliquée dans la compréhension du langage, localisée dans le lobe temporal.",
+      "category": "anatomie",
+      "synonyms": [
+        "aire de Wernicke"
+      ],
+      "related_terms": [
+        "aire de Broca",
+        "langage"
+      ],
+      "description": "L'aire de Wernicke est cruciale pour la compréhension des mots.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire de Wernicke",
+        "lobe temporal"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression de perfusion cérébrale (PPC)",
+      "definition": "Définie par la différence entre la pression artérielle moyenne (PAM) d'entrée de la circulation cérébrale et la pression intracrânienne (PIC) de sortie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle moyenne",
+        "pression intracrânienne"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "pression de perfusion cérébrale",
+        "circulation cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression artérielle moyenne (PAM)",
+      "definition": "Moyenne de la pression artérielle systolique et diastolique, utilisée pour évaluer la perfusion des organes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle systolique",
+        "pression artérielle diastolique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "pression artérielle moyenne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intracrânienne (PIC)",
+      "definition": "Pression exercée par le contenu intracrânien (cerveau, liquide céphalo-rachidien, sang) sur la boîte crânienne.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "liquide céphalo-rachidien",
+        "boîte crânienne"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "pression intracrânienne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "débit sanguin cérébral (DSC)",
+      "definition": "Quantité de sang qui circule dans le cerveau par unité de temps, essentielle pour le métabolisme cérébral.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "métabolisme cérébral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "50 ml/min/100g",
+      "image_search_terms": [
+        "débit sanguin cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autorégulation du DSC",
+      "definition": "Mécanisme par lequel les vaisseaux cérébraux ajustent leur diamètre pour maintenir un débit sanguin constant malgré les variations de la pression de perfusion.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "débit sanguin cérébral",
+        "pression de perfusion"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "autorégulation du débit sanguin cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie cérébrale",
+      "definition": "Réduction de l'apport sanguin au cerveau, pouvant entraîner une perte de fonction neuronale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "apport sanguin",
+        "fonction neuronale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "ischémie cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident vasculaire cérébral (AVC)",
+      "definition": "Interruption soudaine de la circulation sanguine dans le cerveau, entraînant une perte de fonction neurologique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "circulation sanguine",
+        "fonction neurologique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "accident vasculaire cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Wallenberg",
+      "definition": "Syndrome neurologique résultant d'un infarctus de la partie latérale et postérieure du bulbe rachidien.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome alterné sensitif"
+      ],
+      "related_terms": [
+        "bulbe rachidien",
+        "infarctus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Wallenberg"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Millard-Gubler",
+      "definition": "Syndrome neurologique résultant d'un infarctus de la partie inférieure du pont.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pont",
+        "infarctus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Millard-Gubler"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Weber",
+      "definition": "Syndrome neurologique résultant d'un infarctus du mésencéphale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "mésencéphale",
+        "infarctus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Weber"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "locked-in syndrome",
+      "definition": "État neurologique où le patient est conscient mais complètement paralysé à l'exception des mouvements oculaires verticaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "paralysie",
+        "mouvements oculaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "locked-in syndrome"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lacune",
+      "definition": "Petit infarctus cérébral, généralement de moins de 20 mm de grand axe, résultant de l'occlusion d'une artériole perforante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus cérébral",
+        "artériole perforante"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lacune cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dissection carotidienne",
+      "definition": "Déchirure de la paroi interne de l'artère carotide, permettant au sang de s'infiltrer entre les couches de la paroi artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "Dissection de l'artère carotide"
+      ],
+      "related_terms": [
+        "artère carotide",
+        "hématome",
+        "sténose"
+      ],
+      "description": "La dissection carotidienne peut entraîner une sténose ou une occlusion de l'artère, augmentant le risque d'infarctus cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Dissection carotidienne",
+        "artère carotide"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sténose athéromateuse",
+      "definition": "Rétrécissement d'une artère dû à l'accumulation de plaques d'athérome, composées de lipides, de cellules inflammatoires et de dépôts calcifiés.",
+      "category": "pathologie",
+      "synonyms": [
+        "Athérosclérose"
+      ],
+      "related_terms": [
+        "athérome",
+        "plaque",
+        "rétrécissement artériel"
+      ],
+      "description": "La sténose athéromateuse peut réduire le flux sanguin et augmenter le risque de thrombose et d'infarctus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Sténose athéromateuse",
+        "athérome",
+        "plaque"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NFS-PLQ",
+      "definition": "Numération Formule Sanguine et Plaquettes, un examen de laboratoire qui mesure les différents types de cellules sanguines.",
+      "category": "acronyme",
+      "synonyms": [
+        "Numération Formule Sanguine et Plaquettes"
+      ],
+      "related_terms": [
+        "hémogramme",
+        "numération sanguine"
+      ],
+      "description": "La NFS-PLQ est utilisée pour diagnostiquer diverses conditions hématologiques et infections.",
+      "expansion": "Numération Formule Sanguine et Plaquettes",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TP-TCA",
+      "definition": "Temps de Prothrombine et Temps de Céphaline Activée, des tests de coagulation utilisés pour évaluer la fonction de la coagulation sanguine.",
+      "category": "acronyme",
+      "synonyms": [
+        "Temps de Prothrombine et Temps de Céphaline Activée"
+      ],
+      "related_terms": [
+        "coagulation",
+        "prothrombine",
+        "céphaline"
+      ],
+      "description": "Le TP-TCA est utilisé pour surveiller les patients sous anticoagulants et pour diagnostiquer les troubles de la coagulation.",
+      "expansion": "Temps de Prothrombine et Temps de Céphaline Activée",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Echo-doppler des troncs supra-aortiques (TSA)",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les artères qui partent de l'aorte et fournissent du sang à la tête et aux bras.",
+      "category": "imagerie",
+      "synonyms": [
+        "Echo-doppler des TSA"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "artères supra-aortiques",
+        "flux sanguin"
+      ],
+      "description": "L'écho-doppler des TSA est utilisé pour diagnostiquer les sténoses, les occlusions et les dissections des artères carotides et vertébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Echo-doppler des TSA",
+        "artères supra-aortiques"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Angio-IRM des TSA",
+      "definition": "Imagerie par Résonance Magnétique des troncs supra-aortiques, une technique d'imagerie non invasive utilisée pour visualiser les artères qui partent de l'aorte.",
+      "category": "imagerie",
+      "synonyms": [
+        "Angio-IRM des troncs supra-aortiques"
+      ],
+      "related_terms": [
+        "IRM",
+        "artères supra-aortiques",
+        "angiographie"
+      ],
+      "description": "L'angio-IRM des TSA est utilisée pour diagnostiquer les anomalies vasculaires telles que les sténoses et les anévrismes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Angio-IRM des TSA",
+        "artères supra-aortiques"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibrillation atriale",
+      "definition": "Trouble du rythme cardiaque caractérisé par des contractions rapides et irrégulières des oreillettes, entraînant une diminution de l'efficacité de la pompe cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "Fibrillation auriculaire"
+      ],
+      "related_terms": [
+        "arythmie",
+        "oreillettes",
+        "rythme cardiaque"
+      ],
+      "description": "La fibrillation atriale augmente le risque de formation de caillots sanguins et d'accidents vasculaires cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Fibrillation atriale",
+        "oreillettes",
+        "arythmie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cardiomyopathies dilatées",
+      "definition": "Maladies du muscle cardiaque caractérisées par une dilatation et une faiblesse des ventricules, entraînant une insuffisance cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cardiomyopathie dilatée"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "ventricules",
+        "dilatation"
+      ],
+      "description": "Les cardiomyopathies dilatées peuvent être causées par diverses conditions, y compris les infections virales et les maladies génétiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Cardiomyopathies dilatées",
+        "insuffisance cardiaque",
+        "ventricules"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Myxome auriculaire",
+      "definition": "Tumeur bénigne qui se développe dans les oreillettes du cœur, généralement dans l'oreillette gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "Myxome de l'atrium"
+      ],
+      "related_terms": [
+        "tumeur bénigne",
+        "oreillettes",
+        "atrium"
+      ],
+      "description": "Les myxomes auriculaires peuvent causer des symptômes tels que des palpitations, des syncopes et des embolies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Myxome auriculaire",
+        "oreillettes",
+        "atrium"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lacunes",
+      "definition": "Petits infarctus cérébraux profonds, généralement de moins de 20 mm de diamètre, causés par l'occlusion d'une petite artère perforante.",
+      "category": "pathologie",
+      "synonyms": [
+        "Infarctus lacunaire"
+      ],
+      "related_terms": [
+        "infarctus cérébral",
+        "artériole perforante",
+        "lipohyalinose"
+      ],
+      "description": "Les lacunes sont souvent associées à l'hypertension artérielle et au diabète.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Lacunes",
+        "infarctus cérébral",
+        "artériole perforante"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artérites",
+      "definition": "Inflammation des artères, souvent causée par des maladies auto-immunes ou des infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "Artérite"
+      ],
+      "related_terms": [
+        "artères",
+        "inflammation",
+        "auto-immune"
+      ],
+      "description": "Les artérites peuvent entraîner un rétrécissement ou une occlusion des artères, augmentant le risque d'ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Artérites",
+        "artères",
+        "inflammation"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Consommation de drogues",
+      "definition": "Utilisation de substances psychoactives, telles que la cocaïne et les amphétamines, qui peuvent avoir des effets néfastes sur la santé.",
+      "category": "pathologie",
+      "synonyms": [
+        "Usage de drogues"
+      ],
+      "related_terms": [
+        "cocaïne",
+        "amphétamines",
+        "substances psychoactives"
+      ],
+      "description": "La consommation de drogues peut augmenter le risque d'accidents vasculaires cérébraux et de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Consommation de drogues",
+        "cocaïne",
+        "amphétamines"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coagulation intravasculaire disséminée (CIVD)",
+      "definition": "Condition caractérisée par une activation anormale de la coagulation sanguine, entraînant la formation de caillots dans les petits vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "CIVD"
+      ],
+      "related_terms": [
+        "coagulation",
+        "caillots",
+        "vaisseaux sanguins"
+      ],
+      "description": "La CIVD peut entraîner des complications graves, y compris des hémorragies et des insuffisances d'organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Coagulation intravasculaire disséminée",
+        "CIVD",
+        "caillots"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thrombophilies",
+      "definition": "Conditions qui augmentent la tendance à former des caillots sanguins, pouvant être acquises ou congénitales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Thrombophilie"
+      ],
+      "related_terms": [
+        "caillots",
+        "coagulation",
+        "congénital"
+      ],
+      "description": "Les thrombophilies peuvent être causées par des déficits en facteurs de coagulation ou des maladies hématologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Thrombophilies",
+        "caillots",
+        "coagulation"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Homocystéinurie",
+      "definition": "Maladie métabolique héréditaire caractérisée par une accumulation d'homocystéine dans le sang et l'urine, souvent due à un déficit en cystathionine bêta-synthase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hyperhomocystéinémie"
+      ],
+      "description": "Peut entraîner des complications vasculaires, des troubles neurologiques et des anomalies oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie de Fabry",
+      "definition": "Maladie lysosomale de surcharge due à un déficit en alpha-galactosidase A, entraînant une accumulation de glycosphingolipides dans divers tissus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dystrophie cornéenne",
+        "Angiokératomes"
+      ],
+      "description": "Peut causer des douleurs neuropathiques, des troubles rénaux, cardiaques et cérébrovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mitochondriopathies",
+      "definition": "Groupe de maladies génétiques affectant le fonctionnement des mitochondries, les organites responsables de la production d'énergie cellulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Syndrome de Leigh",
+        "MERRF"
+      ],
+      "description": "Peuvent entraîner une variété de symptômes incluant des troubles musculaires, neurologiques et métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dissection des artères cervicales",
+      "definition": "Déchirure de la paroi d'une artère cervicale, souvent due à un traumatisme ou à une faiblesse de la paroi artérielle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dissection carotidienne",
+        "Dissection vertébrale"
+      ],
+      "description": "Peut entraîner une occlusion artérielle et un AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cardiopathies emboligènes",
+      "definition": "Maladies cardiaques qui augmentent le risque de formation de caillots sanguins pouvant se détacher et obstruer des vaisseaux sanguins ailleurs dans le corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Fibrillation auriculaire",
+        "Endocardite"
+      ],
+      "description": "Peuvent entraîner des embolies cérébrales et des AVC ischémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anomalies de l'hémostase",
+      "definition": "Troubles de la coagulation sanguine qui peuvent entraîner une tendance accrue à la formation de caillots ou à des saignements excessifs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Thrombophilie",
+        "Hémophilie"
+      ],
+      "description": "Peuvent entraîner des thromboses ou des hémorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Angéites cérébrales",
+      "definition": "Inflammation des vaisseaux sanguins du cerveau, souvent d'origine auto-immune ou infectieuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Vasculite cérébrale"
+      ],
+      "description": "Peut entraîner des ischémies cérébrales et des AVC.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Très belle artère Sylvienne",
+      "definition": "Signe radiologique en TDM où l'artère sylvienne apparaît hyperdense, indiquant la présence d'un thrombus.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Hyperdensité artérielle"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique précoce.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Effacement des sillons corticaux",
+      "definition": "Signe radiologique en TDM où les sillons corticaux apparaissent moins distincts, indiquant un œdème cérébral.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Œdème cérébral"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique précoce.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dédifférenciation SB-SG",
+      "definition": "Signe radiologique en TDM où la différence de densité entre la substance blanche et la substance grise est réduite, indiquant un œdème cérébral.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Œdème cérébral"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique précoce.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Atténuation du noyau lenticulaire",
+      "definition": "Signe radiologique en TDM où le noyau lenticulaire apparaît moins dense, indiquant un infarctus cérébral.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Infarctus cérébral"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypodensité systématisée",
+      "definition": "Signe radiologique en TDM où une région du cerveau apparaît moins dense, indiquant un infarctus cérébral.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Infarctus cérébral"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Atrophie",
+      "definition": "Réduction de la taille d'un organe ou d'un tissu due à une perte de cellules.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Atrophie cérébrale"
+      ],
+      "description": "Peut être causée par diverses maladies neurodégénératives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dilatation du ventricule",
+      "definition": "Augmentation de la taille des ventricules cérébraux, souvent due à une perte de substance cérébrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hydrocéphalie"
+      ],
+      "description": "Peut être causée par un AVC ou une atrophie cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diffusion (DWI)",
+      "definition": "Séquence d'IRM qui mesure la diffusion des molécules d'eau dans les tissus, utilisée pour détecter les infarctus cérébraux précoces.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Imagerie par résonance magnétique"
+      ],
+      "description": "Utilisée pour diagnostiquer un AVC ischémique précoce.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyper-intensité systématisée",
+      "definition": "Signe radiologique en IRM où une région du cerveau apparaît plus intense, indiquant un infarctus cérébral.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Infarctus cérébral"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coefficient apparent de diffusion (ADC)",
+      "definition": "Mesure de la diffusion des molécules d'eau dans les tissus, utilisée pour évaluer l'œdème cytotoxique.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Imagerie par résonance magnétique"
+      ],
+      "description": "Utilisé pour diagnostiquer un AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T2 / FLAIR",
+      "definition": "Séquences d'IRM utilisées pour visualiser les infarctus cérébraux et détecter les anomalies de la substance blanche.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Imagerie par résonance magnétique"
+      ],
+      "description": "Utilisées pour diagnostiquer des AVC et des anomalies de la substance blanche.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T2*",
+      "definition": "Séquence d'IRM utilisée pour détecter les lésions hémorragiques intra-parenchymateuses.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Imagerie par résonance magnétique"
+      ],
+      "description": "Utilisée pour diagnostiquer des hémorragies cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Zone de pénombre",
+      "definition": "Région du cerveau entourant un infarctus cérébral où le flux sanguin est réduit mais pas complètement interrompu, et qui peut être sauvée par une intervention rapide.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Pénombre ischémique"
+      ],
+      "description": "Cible principale des traitements de reperfusion dans l'AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "UNV",
+      "definition": "Unité Neuro-Vasculaire, également connue sous le nom de 'stroke-unit', spécialisée dans la prise en charge des patients victimes d'AVC.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "Stroke-unit"
+      ],
+      "description": "Réduit la morbi-mortalité post-AVC.",
+      "expansion": "Unité Neuro-Vasculaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NIHSS",
+      "definition": "National Institutes of Health Stroke Scale, un outil standardisé pour évaluer la sévérité des déficits neurologiques chez les patients victimes d'AVC.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Échelle de l'AVC"
+      ],
+      "description": "Utilisé pour évaluer la sévérité de l'AVC et suivre l'évolution clinique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DSC",
+      "definition": "Débit sanguin cérébral, la quantité de sang qui circule dans le cerveau par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Débit sanguin cérébral"
+      ],
+      "description": "Critique pour le fonctionnement normal du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rt-PA",
+      "definition": "Recombinant tissue-plasminogen activator, un médicament thrombolytique utilisé pour dissoudre les caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Alteplase"
+      ],
+      "description": "Utilisé dans le traitement de l'AVC ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PSE",
+      "definition": "Perfusion sur une heure, une méthode d'administration de médicaments par voie intraveineuse sur une période d'une heure.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Perfusion intraveineuse"
+      ],
+      "description": "Utilisée pour administrer des médicaments thrombolytiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVCI",
+      "definition": "Accident Vasculaire Cérébral Ischémique, un type d'AVC causé par une occlusion artérielle entraînant une ischémie cérébrale.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "AVC ischémique"
+      ],
+      "description": "Le type le plus courant d'AVC.",
+      "expansion": "Accident Vasculaire Cérébral Ischémique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACM",
+      "definition": "Artère Cérébrale Moyenne, une des principales artères irriguant le cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère Cérébrale Moyenne"
+      ],
+      "related_terms": [
+        "artère cérébrale antérieure",
+        "artère cérébrale postérieure"
+      ],
+      "description": "L'ACM est une branche de l'artère carotide interne et irrigue une grande partie du cortex cérébral.",
+      "expansion": "Artère Cérébrale Moyenne",
+      "clinical_significance": "L'occlusion de l'ACM peut entraîner un AVC avec des symptômes tels que la paralysie unilatérale et des troubles de la parole.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Artère Cérébrale Moyenne",
+        "anatomie cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CHADS2-VASc",
+      "definition": "Un score utilisé pour évaluer le risque d'AVC chez les patients atteints de fibrillation auriculaire.",
+      "category": "classification",
+      "synonyms": [
+        "score CHADS2-VASc"
+      ],
+      "related_terms": [
+        "score CHADS2",
+        "score de risque d'AVC"
+      ],
+      "description": "Le score CHADS2-VASc prend en compte plusieurs facteurs de risque pour évaluer le risque d'AVC.",
+      "expansion": "CHADS2-VASc",
+      "clinical_significance": "Un score CHADS2-VASc >1 indique un bénéfice de l'anticoagulation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CHADS2-VASc",
+        "score de risque d'AVC"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus veineux",
+      "definition": "Canaux localisés dans un dédoublement de la dure-mère qui drainent le sang veineux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sinus sagittal supérieur",
+        "sinus sagittal inférieur",
+        "sinus droit",
+        "sinus caverneux"
+      ],
+      "description": "Les sinus veineux sont des structures critiques pour le drainage veineux du cerveau, et leur obstruction peut entraîner des complications graves comme la thrombose veineuse cérébrale.",
+      "expansion": "",
+      "clinical_significance": "Important pour le drainage veineux du cerveau, leur obstruction peut causer des thromboses veineuses cérébrales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sinus veineux",
+        "dure-mère",
+        "drainage veineux cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus sagittal supérieur",
+      "definition": "Sinus veineux situé à la jonction de la voûte crânienne et de la faux du cerveau, drainant le sang des lobes frontaux et pariétaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "sinus longitudinal supérieur"
+      ],
+      "related_terms": [
+        "sinus sagittal inférieur",
+        "sinus droit",
+        "sinus caverneux"
+      ],
+      "description": "Le sinus sagittal supérieur est crucial pour le drainage veineux des lobes frontaux et pariétaux du cerveau.",
+      "expansion": "",
+      "clinical_significance": "Son obstruction peut entraîner des déficits neurologiques focaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sinus sagittal supérieur",
+        "faux du cerveau",
+        "drainage veineux cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus sagittal inférieur",
+      "definition": "Sinus veineux situé au bord libre de la faux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sinus sagittal supérieur",
+        "sinus droit",
+        "sinus caverneux"
+      ],
+      "description": "Le sinus sagittal inférieur est impliqué dans le drainage veineux du cerveau.",
+      "expansion": "",
+      "clinical_significance": "Son obstruction peut entraîner des complications neurologiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sinus sagittal inférieur",
+        "faux du cerveau",
+        "drainage veineux cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus droit",
+      "definition": "Sinus veineux résultant de la réunion du sinus sagittal inférieur et de la veine de Galien.",
+      "category": "anatomie",
+      "synonyms": [
+        "Torcular",
+        "Pressoir d'Hérophile"
+      ],
+      "related_terms": [
+        "sinus sagittal supérieur",
+        "sinus sagittal inférieur",
+        "sinus caverneux"
+      ],
+      "description": "Le sinus droit est une structure clé dans le système veineux cérébral.",
+      "expansion": "",
+      "clinical_significance": "Son obstruction peut entraîner des complications neurologiques graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sinus droit",
+        "veine de Galien",
+        "drainage veineux cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "somatotopie corticale",
+      "definition": "Organisation spatiale des fonctions corporelles dans le cortex cérébral.",
+      "category": "anatomie",
+      "synonyms": [
+        "Représentation corticale"
+      ],
+      "related_terms": [
+        "Aires corticales primaires motrices",
+        "Aires somesthésiques"
+      ],
+      "description": "La somatotopie corticale permet de localiser les fonctions motrices et sensorielles dans des zones spécifiques du cortex.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aires corticales primaires motrices",
+      "definition": "Zones du cortex cérébral responsables de la planification et de l'exécution des mouvements volontaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex moteur primaire"
+      ],
+      "related_terms": [
+        "Somatotopie corticale",
+        "Aires somesthésiques"
+      ],
+      "description": "Les aires corticales primaires motrices sont situées dans le gyrus précentral du lobe frontal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aires somesthésiques",
+      "definition": "Zones du cortex cérébral responsables de la perception des sensations corporelles.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex somatosensoriel"
+      ],
+      "related_terms": [
+        "Somatotopie corticale",
+        "Aires corticales primaires motrices"
+      ],
+      "description": "Les aires somesthésiques sont situées dans le gyrus postcentral du lobe pariétal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mécanismes de régulation",
+      "definition": "Processus physiologiques qui maintiennent l'homéostasie dans le corps.",
+      "category": "physiologie",
+      "synonyms": [
+        "Régulation physiologique"
+      ],
+      "related_terms": [
+        "Débit sanguin cérébral",
+        "Physiopathologie"
+      ],
+      "description": "Les mécanismes de régulation sont essentiels pour maintenir l'équilibre interne du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "débit sanguin cérébral",
+      "definition": "Quantité de sang qui circule dans le cerveau par unité de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "Flux sanguin cérébral"
+      ],
+      "related_terms": [
+        "Mécanismes de régulation",
+        "Vascularisation artérielle"
+      ],
+      "description": "Le débit sanguin cérébral est crucial pour l'apport en oxygène et nutriments au cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident vasculaire cérébral ischémique",
+      "definition": "Interruption de l'apport sanguin à une partie du cerveau, causant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC ischémique"
+      ],
+      "related_terms": [
+        "Infarctus cérébral",
+        "Accident ischémique transitoire"
+      ],
+      "description": "L'AVC ischémique est souvent causé par un caillot sanguin qui bloque une artère cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident vasculaire cérébral hémorragique",
+      "definition": "Rupture d'un vaisseau sanguin dans le cerveau, causant un saignement.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC hémorragique"
+      ],
+      "related_terms": [
+        "Hémorragie cérébrale",
+        "Hémorragie intra-parenchymateuse"
+      ],
+      "description": "L'AVC hémorragique peut être causé par une hypertension artérielle ou une malformation vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères carotides internes",
+      "definition": "Vaisseaux sanguins principaux qui apportent le sang oxygéné au cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artères carotides"
+      ],
+      "related_terms": [
+        "Artères vertébrales",
+        "Polygone de Willis"
+      ],
+      "description": "Les artères carotides internes sont cruciales pour la vascularisation du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère ophtalmique",
+      "definition": "Branche de l'artère carotide interne qui vascularise l'œil et les structures orbitaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère ophtalmique"
+      ],
+      "related_terms": [
+        "Artères carotides internes",
+        "Artère faciale"
+      ],
+      "description": "L'artère ophtalmique est essentielle pour la vision et la fonction oculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères perforantes",
+      "definition": "Petits vaisseaux sanguins qui pénètrent profondément dans le cerveau pour vasculariser les structures internes.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artères perforantes"
+      ],
+      "related_terms": [
+        "Tronc basilaire",
+        "Artères cérébelleuses"
+      ],
+      "description": "Les artères perforantes sont cruciales pour la vascularisation des noyaux gris centraux et du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère communicante antérieure",
+      "definition": "Vaisseau sanguin qui connecte les deux artères cérébrales antérieures.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère communicante antérieure"
+      ],
+      "related_terms": [
+        "Polygone de Willis",
+        "Artères cérébrales antérieures"
+      ],
+      "description": "L'artère communicante antérieure fait partie du polygone de Willis et assure la communication entre les deux hémisphères cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corps calleux",
+      "definition": "Faisceau de fibres nerveuses qui connecte les deux hémisphères cérébraux.",
+      "category": "anatomie",
+      "synonyms": [
+        "Corps calleux"
+      ],
+      "related_terms": [
+        "Artère cérébrale antérieure",
+        "Gyrus cingulaire"
+      ],
+      "description": "Le corps calleux permet la communication entre les deux hémisphères cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gyrus cingulaire",
+      "definition": "Structure corticale située au-dessus du corps calleux, impliquée dans diverses fonctions cognitives et émotionnelles.",
+      "category": "anatomie",
+      "synonyms": [
+        "Gyrus cingulaire"
+      ],
+      "related_terms": [
+        "Corps calleux",
+        "Artère cérébrale antérieure"
+      ],
+      "description": "Le gyrus cingulaire joue un rôle dans la régulation des émotions, la prise de décision et la mémoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capsule externe",
+      "definition": "Faisceau de fibres nerveuses situé entre le putamen et le claustrum.",
+      "category": "anatomie",
+      "synonyms": [
+        "Capsule externe"
+      ],
+      "related_terms": [
+        "Artère cérébrale moyenne",
+        "Noyau lenticulaire"
+      ],
+      "description": "La capsule externe est impliquée dans la transmission des informations motrices et sensorielles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capsule interne",
+      "definition": "Faisceau de fibres nerveuses situé entre le noyau caudé et le thalamus, crucial pour la transmission des informations motrices et sensorielles.",
+      "category": "anatomie",
+      "synonyms": [
+        "Capsule interne"
+      ],
+      "related_terms": [
+        "Artère cérébrale moyenne",
+        "Noyau lenticulaire"
+      ],
+      "description": "La capsule interne est divisée en plusieurs parties, dont le bras postérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "noyau lenticulaire",
+      "definition": "Structure des ganglions de la base, impliquée dans le contrôle des mouvements volontaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "Noyau lenticulaire"
+      ],
+      "related_terms": [
+        "Artère cérébrale moyenne",
+        "Capsule interne"
+      ],
+      "description": "Le noyau lenticulaire comprend le putamen et le globus pallidus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "noyau caudé",
+      "definition": "Structure des ganglions de la base, impliquée dans le contrôle des mouvements volontaires et les fonctions cognitives.",
+      "category": "anatomie",
+      "synonyms": [
+        "Noyau caudé"
+      ],
+      "related_terms": [
+        "Artère cérébrale antérieure",
+        "Capsule interne"
+      ],
+      "description": "Le noyau caudé joue un rôle dans la régulation des mouvements et les processus cognitifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uncus de l'hippocampe",
+      "definition": "Partie antérieure de l'hippocampe, impliquée dans la mémoire et les émotions.",
+      "category": "anatomie",
+      "synonyms": [
+        "Uncus"
+      ],
+      "related_terms": [
+        "Artère choroïdienne antérieure",
+        "Amygdale temporale"
+      ],
+      "description": "L'uncus de l'hippocampe est une structure limbique importante pour la mémoire et les émotions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amygdale temporale",
+      "definition": "Structure du lobe temporal, impliquée dans le traitement des émotions, en particulier la peur et l'agressivité.",
+      "category": "anatomie",
+      "synonyms": [
+        "Amygdale"
+      ],
+      "related_terms": [
+        "Artère choroïdienne antérieure",
+        "Uncus de l'hippocampe"
+      ],
+      "description": "L'amygdale temporale joue un rôle crucial dans la régulation des émotions et des comportements sociaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère faciale",
+      "definition": "Vaisseau sanguin qui vascularise la face et les structures faciales.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère faciale"
+      ],
+      "related_terms": [
+        "Artère ophtalmique",
+        "Artères carotides internes"
+      ],
+      "description": "L'artère faciale est une branche de l'artère carotide externe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères carotides externes",
+      "definition": "Vaisseaux sanguins qui vascularisent les structures externes de la tête et du cou.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artères carotides externes"
+      ],
+      "related_terms": [
+        "Artères carotides internes",
+        "Artère faciale"
+      ],
+      "description": "Les artères carotides externes fournissent le sang aux structures faciales et cervicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères subclavières",
+      "definition": "Vaisseaux sanguins qui vascularisent les membres supérieurs et une partie de la tête et du cou.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artères subclavières"
+      ],
+      "related_terms": [
+        "Artères vertébrales",
+        "Tronc basilaire"
+      ],
+      "description": "Les artères subclavières sont des branches de l'aorte et donnent naissance aux artères vertébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tractus optique",
+      "definition": "Faisceau de fibres nerveuses qui transmet les informations visuelles du chiasma optique au cortex visuel.",
+      "category": "anatomie",
+      "synonyms": [
+        "Voie optique"
+      ],
+      "related_terms": [
+        "Chiasma optique",
+        "Cortex visuel"
+      ],
+      "description": "Le tractus optique est une structure clé dans le système visuel, reliant le chiasma optique au corps genouillé latéral du thalamus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tractus optique",
+        "voie optique"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artère cérébrale postérieure",
+      "definition": "Artère qui irrigue la partie postérieure du cerveau, y compris le thalamus, le lobe occipital et le lobe temporal.",
+      "category": "anatomie",
+      "synonyms": [
+        "ACP"
+      ],
+      "related_terms": [
+        "Thalamus",
+        "Lobe occipital",
+        "Lobe temporal"
+      ],
+      "description": "L'artère cérébrale postérieure est une des principales artères cérébrales, fournissant du sang oxygéné à des régions critiques du cerveau.",
+      "expansion": "Artère Cérébrale Postérieure",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère cérébrale postérieure",
+        "vascularisation cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Plexus choroïdes",
+      "definition": "Réseau de vaisseaux sanguins et de tissu conjonctif dans les ventricules cérébraux, produisant le liquide céphalo-rachidien.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Ventricules cérébraux",
+        "Liquide céphalo-rachidien"
+      ],
+      "description": "Les plexus choroïdes sont essentiels pour la production et la régulation du liquide céphalo-rachidien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plexus choroïdes",
+        "ventricules cérébraux"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PICA",
+      "definition": "Artère cérébelleuse postéro-inférieure, vascularisant le plexus choroïde du 4ème ventricule et la partie postéro-inférieure des hémisphères cérébelleux.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère cérébelleuse postéro-inférieure"
+      ],
+      "related_terms": [
+        "Plexus choroïde",
+        "Hémisphères cérébelleux"
+      ],
+      "description": "La PICA est une branche de l'artère vertébrale, cruciale pour la vascularisation de certaines parties du cervelet.",
+      "expansion": "Posterior Inferior Cerebellar Artery",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PICA",
+        "artère cérébelleuse postéro-inférieure"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AICA",
+      "definition": "Artère cérébelleuse antéro-inférieure, vascularisant la partie antéro-inférieure des hémisphères cérébelleux.",
+      "category": "anatomie",
+      "synonyms": [
+        "Artère cérébelleuse antéro-inférieure"
+      ],
+      "related_terms": [
+        "Hémisphères cérébelleux"
+      ],
+      "description": "L'AICA est une branche de l'artère basilaire, fournissant du sang aux structures cérébelleuses antéro-inférieures.",
+      "expansion": "Anterior Inferior Cerebellar Artery",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "AICA",
+        "artère cérébelleuse antéro-inférieure"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artères paramédianes",
+      "definition": "Branches courtes des artères vertébrales et du tronc basilaire, vascularisant les territoires paramédians du tronc cérébral.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Artères vertébrales",
+        "Tronc basilaire"
+      ],
+      "description": "Les artères paramédianes sont essentielles pour la vascularisation des structures médianes du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères paramédianes",
+        "vascularisation tronc cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artères circonférentielles courtes",
+      "definition": "Branches des artères vertébrales et du tronc basilaire, vascularisant les territoires latéraux du tronc cérébral.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Artères vertébrales",
+        "Tronc basilaire"
+      ],
+      "description": "Les artères circonférentielles courtes fournissent du sang aux régions latérales du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères circonférentielles courtes",
+        "vascularisation tronc cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artères circonférentielles longues",
+      "definition": "Branches des artères cérébelleuses, vascularisant le cervelet et la partie postérieure du tronc cérébral.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Artères cérébelleuses",
+        "Cervelet"
+      ],
+      "description": "Les artères circonférentielles longues sont essentielles pour la vascularisation des structures cérébelleuses et postérieures du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères circonférentielles longues",
+        "vascularisation cérébelleuse"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mésencéphale",
+      "definition": "Partie du tronc cérébral située entre le diencéphale et le pont, impliquée dans les fonctions motrices et sensorielles.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Diencéphale",
+        "Pont"
+      ],
+      "description": "Le mésencéphale contient des structures importantes comme le tegmentum et les pédoncules cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mésencéphale",
+        "tronc cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pont",
+      "definition": "Partie du tronc cérébral située entre le mésencéphale et la moelle allongée, impliquée dans la transmission des signaux entre le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Mésencéphale",
+        "Moelle allongée"
+      ],
+      "description": "Le pont contient des noyaux importants pour les fonctions motrices et sensorielles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pont",
+        "tronc cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Moelle allongée",
+      "definition": "Partie du tronc cérébral située entre le pont et la moelle épinière, impliquée dans les fonctions vitales comme la respiration et le rythme cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "Bulbe rachidien"
+      ],
+      "related_terms": [
+        "Pont",
+        "Moelle épinière"
+      ],
+      "description": "La moelle allongée contient des centres vitaux pour le contrôle des fonctions autonomes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "moelle allongée",
+        "tronc cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aire 4",
+      "definition": "Région du cortex moteur primaire située dans le gyrus pré-central, impliquée dans la motricité volontaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex moteur primaire"
+      ],
+      "related_terms": [
+        "Gyrus pré-central",
+        "Motricité volontaire"
+      ],
+      "description": "L'aire 4 est essentielle pour le contrôle des mouvements volontaires du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire 4",
+        "cortex moteur primaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aire 6 de Brodmann",
+      "definition": "Région du cortex pré-moteur et motrice supplémentaire, impliquée dans l'élaboration et la programmation des mouvements.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex pré-moteur"
+      ],
+      "related_terms": [
+        "Mouvements moteurs",
+        "Programmation motrice"
+      ],
+      "description": "L'aire 6 de Brodmann joue un rôle crucial dans la planification et l'exécution des mouvements complexes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire 6 de Brodmann",
+        "cortex pré-moteur"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aire 8",
+      "definition": "Région du cortex frontal impliquée dans les mouvements oculaires et céphalogyres.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex frontal"
+      ],
+      "related_terms": [
+        "Mouvements oculaires",
+        "Céphalogyres"
+      ],
+      "description": "L'aire 8 est essentielle pour le contrôle des mouvements des yeux et de la tête.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire 8",
+        "cortex frontal"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aire somato-sensitive",
+      "definition": "Région du cortex somesthésique primaire située dans le gyrus post-central, impliquée dans la perception sensorielle.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cortex somesthésique primaire"
+      ],
+      "related_terms": [
+        "Gyrus post-central",
+        "Perception sensorielle"
+      ],
+      "description": "L'aire somato-sensitive est cruciale pour la perception des sensations tactiles, thermiques et douloureuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aire somato-sensitive",
+        "cortex somesthésique primaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression de perfusion cérébrale",
+      "definition": "Différence entre la pression artérielle moyenne et la pression intracrânienne, représentant la pression effective qui perfuse le cerveau.",
+      "category": "physiologie",
+      "synonyms": [
+        "PPC"
+      ],
+      "related_terms": [
+        "pression artérielle moyenne",
+        "pression intracrânienne"
+      ],
+      "description": "La PPC est un indicateur clé de la perfusion cérébrale et est essentielle pour maintenir un débit sanguin cérébral adéquat.",
+      "expansion": null,
+      "clinical_significance": "Une PPC anormale peut indiquer une ischémie cérébrale ou une hypertension intracrânienne.",
+      "normal_values": "50-150 mmHg",
+      "image_search_terms": [
+        "pression de perfusion cérébrale",
+        "perfusion cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intracrânienne",
+      "definition": "Pression exercée par le liquide céphalo-rachidien, le sang et le tissu cérébral à l'intérieur du crâne.",
+      "category": "physiologie",
+      "synonyms": [
+        "PIC"
+      ],
+      "related_terms": [
+        "pression de perfusion cérébrale",
+        "pression artérielle moyenne"
+      ],
+      "description": "La PIC est un indicateur de la pression à l'intérieur du crâne et est cruciale pour le diagnostic et la gestion des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Une PIC élevée peut indiquer une hémorragie intracrânienne ou un œdème cérébral.",
+      "normal_values": "5-15 mmHg",
+      "image_search_terms": [
+        "pression intracrânienne",
+        "crâne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autorégulation",
+      "definition": "Mécanisme par lequel les vaisseaux sanguins du cerveau ajustent leur diamètre pour maintenir un débit sanguin cérébral constant malgré les variations de la pression de perfusion.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "débit sanguin cérébral",
+        "pression de perfusion cérébrale"
+      ],
+      "description": "L'autorégulation protège le cerveau contre l'ischémie et l'œdème en maintenant un flux sanguin stable.",
+      "expansion": null,
+      "clinical_significance": "Une perte d'autorégulation peut entraîner des complications neurologiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "autorégulation cérébrale",
+        "vaisseaux sanguins cérébraux"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolie",
+      "definition": "Obstruction d'un vaisseau sanguin par un matériau étranger, tel qu'un caillot sanguin, un fragment de tissu ou une bulle d'air.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose",
+        "accident vasculaire cérébral"
+      ],
+      "description": "L'embolie peut entraîner une ischémie ou un infarctus dans le territoire vasculaire affecté.",
+      "expansion": null,
+      "clinical_significance": "L'embolie est une cause fréquente d'accident vasculaire cérébral ischémique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "embolie",
+        "obstruction vasculaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus",
+      "definition": "Mort tissulaire due à une ischémie prolongée, entraînant une nécrose irréversible.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "accident vasculaire cérébral",
+        "ischémie cérébrale"
+      ],
+      "description": "L'infarctus cérébral est une complication grave de l'ischémie cérébrale.",
+      "expansion": null,
+      "clinical_significance": "L'infarctus cérébral est une cause majeure de déficits neurologiques permanents.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus",
+        "nécrose tissulaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident ischémique constitué",
+      "definition": "Infarctus cérébral résultant d'une ischémie prolongée, entraînant une nécrose tissulaire irréversible.",
+      "category": "pathologie",
+      "synonyms": [
+        "AIC"
+      ],
+      "related_terms": [
+        "accident vasculaire cérébral",
+        "infarctus"
+      ],
+      "description": "L'AIC est une complication grave de l'ischémie cérébrale, entraînant des déficits neurologiques permanents.",
+      "expansion": null,
+      "clinical_significance": "L'AIC nécessite une évaluation et un traitement rapides pour minimiser les lésions tissulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "accident ischémique constitué",
+        "infarctus cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligémie",
+      "definition": "Réduction modérée du débit sanguin cérébral, insuffisante pour entraîner une ischémie mais pouvant affecter la fonction neuronale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "débit sanguin cérébral",
+        "ischémie cérébrale"
+      ],
+      "description": "L'oligémie peut entraîner des déficits fonctionnels temporaires.",
+      "expansion": null,
+      "clinical_significance": "L'oligémie est un signe avant-coureur potentiel d'une ischémie cérébrale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oligémie",
+        "débit sanguin cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pénombre ischémique",
+      "definition": "Zone de tissu cérébral où le débit sanguin est réduit mais suffisant pour maintenir la viabilité cellulaire, bien que la fonction neuronale soit compromise.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "débit sanguin cérébral",
+        "ischémie cérébrale"
+      ],
+      "description": "La pénombre ischémique est une cible thérapeutique pour la restauration du flux sanguin et la prévention de l'infarctus.",
+      "expansion": null,
+      "clinical_significance": "La pénombre ischémique est cruciale pour la récupération fonctionnelle après un accident vasculaire cérébral.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pénombre ischémique",
+        "débit sanguin cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "recanalisation",
+      "definition": "Rétablissement du flux sanguin dans un vaisseau obstrué, souvent par des techniques de thrombolyse ou de thrombectomie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "La recanalisation est essentielle pour restaurer la perfusion tissulaire et prévenir l'infarctus.",
+      "expansion": null,
+      "clinical_significance": "La recanalisation rapide est cruciale pour minimiser les lésions tissulaires après un accident vasculaire cérébral.",
+      "normal_values": null,
+      "image_search_terms": [
+        "recanalisation",
+        "thrombolyse"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit neurologique",
+      "definition": "Perturbation ou perte de fonction neurologique, souvent due à une lésion cérébrale ou une ischémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "accident vasculaire cérébral",
+        "ischémie cérébrale"
+      ],
+      "description": "Le déficit neurologique peut inclure des troubles de la motricité, de la sensibilité, de la vision, de l'audition ou du langage.",
+      "expansion": null,
+      "clinical_significance": "Le déficit neurologique est un signe clinique majeur d'un accident vasculaire cérébral.",
+      "normal_values": null,
+      "image_search_terms": [
+        "déficit neurologique",
+        "lésion cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVC ischémiques",
+      "definition": "Accident Vasculaire Cérébral ischémique, causé par une obstruction d'un vaisseau sanguin dans le cerveau, entraînant une diminution de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie cérébrale",
+        "infarctus cérébral"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Les AVC ischémiques représentent environ 85% de tous les AVC et sont souvent causés par des caillots sanguins.",
+      "expansion": "Accident Vasculaire Cérébral ischémique",
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide pour restaurer le flux sanguin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVC ischémique",
+        "infarctus cérébral"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Infarctus cérébraux carotidiens",
+      "definition": "Infarctus cérébral résultant de l'obstruction de l'artère carotide, qui alimente la circulation antérieure du cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus carotidien",
+        "AVC carotidien"
+      ],
+      "related_terms": [
+        "artère carotide",
+        "circulation antérieure"
+      ],
+      "description": "Les infarctus carotidiens peuvent entraîner des déficits moteurs et sensitifs controlatéraux.",
+      "expansion": "Infarctus cérébral carotidien",
+      "clinical_significance": "Peut causer des déficits neurologiques significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus carotidien",
+        "AVC carotidien"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Infarctus cérébraux vertébro-basilaires",
+      "definition": "Infarctus cérébral résultant de l'obstruction des artères vertébrales ou basilaires, qui alimentent la circulation postérieure du cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus vertébro-basilaire",
+        "AVC vertébro-basilaire"
+      ],
+      "related_terms": [
+        "artère vertébrale",
+        "artère basilaire"
+      ],
+      "description": "Les infarctus vertébro-basilaires peuvent entraîner des déficits neurologiques variés, y compris des troubles de la vision et de l'équilibre.",
+      "expansion": "Infarctus cérébral vertébro-basilaire",
+      "clinical_significance": "Peut causer des déficits neurologiques significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus vertébro-basilaire",
+        "AVC vertébro-basilaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Infarctus cérébraux jonctionnels",
+      "definition": "Infarctus cérébral situé à la jonction entre deux territoires artériels, souvent causé par une insuffisance de perfusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus jonctionnel",
+        "AVC jonctionnel"
+      ],
+      "related_terms": [
+        "territoire artériel",
+        "insuffisance de perfusion"
+      ],
+      "description": "Les infarctus jonctionnels peuvent entraîner des déficits neurologiques variés en fonction des territoires artériels affectés.",
+      "expansion": "Infarctus cérébral jonctionnel",
+      "clinical_significance": "Peut causer des déficits neurologiques significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus jonctionnel",
+        "AVC jonctionnel"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémianopsie latérale homonyme",
+      "definition": "Perte de la moitié du champ visuel du même côté dans les deux yeux, souvent due à une lésion du cortex visuel.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémianopsie homonyme",
+        "hémianopsie latérale"
+      ],
+      "related_terms": [
+        "champ visuel",
+        "cortex visuel"
+      ],
+      "description": "L'hémianopsie latérale homonyme est un signe clinique important dans les AVC.",
+      "expansion": "Hémianopsie latérale homonyme",
+      "clinical_significance": "Indique une lésion du cortex visuel.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémianopsie latérale homonyme",
+        "champ visuel"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Infarctus cérébraux sylviens",
+      "definition": "Infarctus cérébral résultant de l'obstruction de l'artère cérébrale moyenne, qui alimente le territoire sylvien.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus sylvien",
+        "AVC sylvien"
+      ],
+      "related_terms": [
+        "artère cérébrale moyenne",
+        "territoire sylvien"
+      ],
+      "description": "Les infarctus sylviens sont les plus fréquents et peuvent entraîner des déficits moteurs et sensitifs.",
+      "expansion": "Infarctus cérébral sylvien",
+      "clinical_significance": "Peut causer des déficits neurologiques significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus sylvien",
+        "AVC sylvien"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aphasie de Broca",
+      "definition": "Trouble du langage caractérisé par une difficulté à produire des mots, souvent due à une lésion de l'aire de Broca.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie motrice",
+        "aphasie expressive"
+      ],
+      "related_terms": [
+        "aire de Broca",
+        "cortex frontal"
+      ],
+      "description": "L'aphasie de Broca est souvent non fluente et associée à une lésion de l'hémisphère majeur.",
+      "expansion": "Aphasie de Broca",
+      "clinical_significance": "Indique une lésion de l'aire de Broca.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aphasie de Broca",
+        "aire de Broca"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aphasie de Wernicke",
+      "definition": "Trouble du langage caractérisé par une difficulté à comprendre le langage, souvent due à une lésion de l'aire de Wernicke.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie sensorielle",
+        "aphasie réceptive"
+      ],
+      "related_terms": [
+        "aire de Wernicke",
+        "cortex temporal"
+      ],
+      "description": "L'aphasie de Wernicke est souvent fluente et associée à une lésion de l'hémisphère majeur.",
+      "expansion": "Aphasie de Wernicke",
+      "clinical_significance": "Indique une lésion de l'aire de Wernicke.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aphasie de Wernicke",
+        "aire de Wernicke"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apraxie idéomotrice",
+      "definition": "Incapacité à exécuter des mouvements volontaires malgré une compréhension intacte de la tâche, souvent due à une lésion pariétale.",
+      "category": "pathologie",
+      "synonyms": [
+        "apraxie",
+        "apraxie motrice"
+      ],
+      "related_terms": [
+        "lobe pariétal",
+        "mouvements volontaires"
+      ],
+      "description": "L'apraxie idéomotrice est un signe clinique important dans les AVC.",
+      "expansion": "Apraxie idéomotrice",
+      "clinical_significance": "Indique une lésion du lobe pariétal.",
+      "normal_values": null,
+      "image_search_terms": [
+        "apraxie idéomotrice",
+        "apraxie motrice"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome d'Anton-Babinski",
+      "definition": "Syndrome caractérisé par l'anosognosie, l'hémi-asomatognosie et l'hémi-négligence, souvent due à une lésion de l'hémisphère mineur.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'Anton",
+        "syndrome de Babinski"
+      ],
+      "related_terms": [
+        "anosognosie",
+        "hémi-asomatognosie"
+      ],
+      "description": "Le syndrome d'Anton-Babinski est un signe clinique important dans les AVC.",
+      "expansion": "Syndrome d'Anton-Babinski",
+      "clinical_significance": "Indique une lésion de l'hémisphère mineur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome d'Anton-Babinski",
+        "anosognosie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anosognosie",
+      "definition": "Incapacité à reconnaître ou admettre une maladie ou un déficit, souvent due à une lésion de l'hémisphère mineur.",
+      "category": "pathologie",
+      "synonyms": [
+        "anosognosie",
+        "non-reconnaissance du trouble"
+      ],
+      "related_terms": [
+        "hémisphère mineur",
+        "déficit neurologique"
+      ],
+      "description": "L'anosognosie est un signe clinique important dans les AVC.",
+      "expansion": "Anosognosie",
+      "clinical_significance": "Indique une lésion de l'hémisphère mineur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anosognosie",
+        "non-reconnaissance du trouble"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémi-asomatognosie",
+      "definition": "Incapacité à reconnaître une partie de son propre corps, souvent due à une lésion de l'hémisphère mineur.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémi-asomatognosie",
+        "non-reconnaissance de l'hémicorps"
+      ],
+      "related_terms": [
+        "hémisphère mineur",
+        "déficit neurologique"
+      ],
+      "description": "L'hémi-asomatognosie est un signe clinique important dans les AVC.",
+      "expansion": "Hémi-asomatognosie",
+      "clinical_significance": "Indique une lésion de l'hémisphère mineur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémi-asomatognosie",
+        "non-reconnaissance de l'hémicorps"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémi-négligence",
+      "definition": "Incapacité à percevoir ou à réagir à des stimuli d'un côté de l'espace, souvent due à une lésion de l'hémisphère mineur.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémi-négligence",
+        "négligence spatiale"
+      ],
+      "related_terms": [
+        "hémisphère mineur",
+        "déficit neurologique"
+      ],
+      "description": "L'hémi-négligence est un signe clinique important dans les AVC.",
+      "expansion": "Hémi-négligence",
+      "clinical_significance": "Indique une lésion de l'hémisphère mineur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémi-négligence",
+        "négligence spatiale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Grasping réflexe",
+      "definition": "Réflexe involontaire de préhension, souvent observé dans les lésions frontales.",
+      "category": "pathologie",
+      "synonyms": [
+        "réflexe de préhension",
+        "grasping réflexe"
+      ],
+      "related_terms": [
+        "lésion frontale",
+        "réflexe involontaire"
+      ],
+      "description": "Le grasping réflexe est un signe clinique important dans les AVC.",
+      "expansion": "Grasping réflexe",
+      "clinical_significance": "Indique une lésion frontale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "grasping réflexe",
+        "réflexe de préhension"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mutisme akinétique",
+      "definition": "État caractérisé par une absence de parole et de mouvement, souvent due à une lésion bilatérale des régions frontales.",
+      "category": "pathologie",
+      "synonyms": [
+        "mutisme akinétique",
+        "akinésie mutique"
+      ],
+      "related_terms": [
+        "lésion frontale",
+        "absence de parole"
+      ],
+      "description": "Le mutisme akinétique est un signe clinique important dans les AVC.",
+      "expansion": "Mutisme akinétique",
+      "clinical_significance": "Indique une lésion bilatérale des régions frontales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "mutisme akinétique",
+        "akinésie mutique"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Korsakoff",
+      "definition": "Syndrome caractérisé par une amnésie antérograde, une anosognosie, des fabulations et des fausses reconnaissances, souvent due à une lésion bilatérale des régions temporales.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Korsakoff",
+        "amnésie de Korsakoff"
+      ],
+      "related_terms": [
+        "amnésie antérograde",
+        "anosognosie"
+      ],
+      "description": "Le syndrome de Korsakoff est un signe clinique important dans les AVC.",
+      "expansion": "Syndrome de Korsakoff",
+      "clinical_significance": "Indique une lésion bilatérale des régions temporales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Korsakoff",
+        "amnésie de Korsakoff"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome thalamique",
+      "definition": "Syndrome caractérisé par des troubles sensitifs, des douleurs intenses et parfois des mouvements anormaux, souvent due à une lésion du thalamus.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome thalamique",
+        "syndrome de Dejerine-Roussy"
+      ],
+      "related_terms": [
+        "thalamus",
+        "troubles sensitifs"
+      ],
+      "description": "Le syndrome thalamique est un signe clinique important dans les AVC.",
+      "expansion": "Syndrome thalamique",
+      "clinical_significance": "Indique une lésion du thalamus.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome thalamique",
+        "syndrome de Dejerine-Roussy"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperpathie",
+      "definition": "Douleur exagérée et désagréable en réponse à un stimulus normalement non douloureux, souvent due à une lésion du thalamus.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperpathie",
+        "douleur exagérée"
+      ],
+      "related_terms": [
+        "thalamus",
+        "douleur"
+      ],
+      "description": "L'hyperpathie est un signe clinique important dans les AVC.",
+      "expansion": "Hyperpathie",
+      "clinical_significance": "Indique une lésion du thalamus.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperpathie",
+        "douleur exagérée"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Infarctus cérébraux sous-tentoriels",
+      "definition": "Infarctus cérébral situé sous la tente du cervelet, affectant le tronc cérébral et/ou le cervelet.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus sous-tentoriel",
+        "AVC sous-tentoriel"
+      ],
+      "related_terms": [
+        "tronc cérébral",
+        "cervelet"
+      ],
+      "description": "Les infarctus sous-tentoriels peuvent entraîner des déficits neurologiques variés.",
+      "expansion": "Infarctus cérébral sous-tentoriel",
+      "clinical_significance": "Peut causer des déficits neurologiques significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus sous-tentoriel",
+        "AVC sous-tentoriel"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome cérébelleux statique",
+      "definition": "Trouble de l'équilibre et de la posture dû à une atteinte du cervelet.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus cérébelleux"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une atteinte du cervelet.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome cérébelleux statique",
+        "cerebellum"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi syndrome cérébelleux cinétique",
+      "definition": "Trouble de la coordination des mouvements d'un côté du corps dû à une atteinte du cervelet.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus cérébelleux"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une atteinte du cervelet.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémi syndrome cérébelleux cinétique",
+        "cerebellum"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrocéphalie aiguë",
+      "definition": "Accumulation rapide de liquide céphalo-rachidien dans le cerveau, souvent due à une obstruction du IVème ventricule.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IVème ventricule"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut être une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hydrocéphalie aiguë",
+        "IVème ventricule"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémiplégie motrice pure",
+      "definition": "Paralysie motrice d'un côté du corps sans atteinte sensitive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémiplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion des voies motrices.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémiplégie motrice pure",
+        "hémiplégie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémianesthésie pure",
+      "definition": "Perte de sensation d'un côté du corps sans atteinte motrice.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémianesthésie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion des voies sensitives.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémianesthésie pure",
+        "hémianesthésie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi hypoesthésie",
+      "definition": "Diminution de la sensibilité d'un côté du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoesthésie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion partielle des voies sensitives.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémi hypoesthésie",
+        "hypoesthésie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi-ataxie",
+      "definition": "Perte de coordination des mouvements d'un côté du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ataxie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion des voies cérébelleuses.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémi-ataxie",
+        "ataxie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome frontal",
+      "definition": "Ensemble de symptômes dus à une lésion du lobe frontal, incluant des troubles du comportement et de la motricité.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lobe frontal"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion du lobe frontal.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome frontal",
+        "lobe frontal"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diplégie crurale",
+      "definition": "Paralysie des deux membres inférieurs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "paraplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion des voies motrices des membres inférieurs.",
+      "normal_values": "",
+      "image_search_terms": [
+        "diplégie crurale",
+        "paraplégie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aphasie de type Broca",
+      "definition": "Trouble du langage caractérisé par une difficulté à produire des mots tout en conservant une compréhension relativement intacte.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie expressive"
+      ],
+      "related_terms": [
+        "aphasie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion de l'aire de Broca.",
+      "normal_values": "",
+      "image_search_terms": [
+        "aphasie de type Broca",
+        "aphasie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aphasie fluente de type Wernicke",
+      "definition": "Trouble du langage caractérisé par une production de parole fluente mais incompréhensible, avec une mauvaise compréhension.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie réceptive"
+      ],
+      "related_terms": [
+        "aphasie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion de l'aire de Wernicke.",
+      "normal_values": "",
+      "image_search_terms": [
+        "aphasie fluente de type Wernicke",
+        "aphasie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Déjerine-Roussy",
+      "definition": "Syndrome thalamique caractérisé par une hémi-hypoesthésie controlatérale et des douleurs intenses (hyperpathie).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome thalamique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion du thalamus.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Déjerine-Roussy",
+        "syndrome thalamique"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome amnésique de type Korsakoff",
+      "definition": "Syndrome caractérisé par une amnésie sévère et des troubles de la mémoire à court terme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Korsakoff"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une lésion bilatérale des noyaux mamillaires ou des corps mamillaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome amnésique de type Korsakoff",
+        "syndrome de Korsakoff"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie focale cérébrale",
+      "definition": "Réduction localisée de l'apport sanguin au cerveau, entraînant un déficit neurologique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie cérébrale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut causer un accident vasculaire cérébral.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ischémie focale cérébrale",
+        "ischémie cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cécité monoculaire",
+      "definition": "Perte de vision dans un seul œil, souvent due à une ischémie de l'artère rétinienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "amaurose monoculaire"
+      ],
+      "related_terms": [
+        "ischémie rétinienne",
+        "artère rétinienne"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cécité monoculaire",
+        "amaurose monoculaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carotidien",
+      "definition": "Relatif à l'artère carotide, une des principales artères fournissant du sang au cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère carotide"
+      ],
+      "related_terms": [
+        "artère",
+        "cerveau"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carotidien",
+        "artère carotide"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vertébro-basilaire",
+      "definition": "Relatif au système vertébro-basilaire, qui comprend les artères vertébrales et l'artère basilaire, fournissant du sang au tronc cérébral et au cervelet.",
+      "category": "anatomie",
+      "synonyms": [
+        "système vertébro-basilaire"
+      ],
+      "related_terms": [
+        "artères vertébrales",
+        "artère basilaire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vertébro-basilaire",
+        "système vertébro-basilaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi-champ visuel homonyme",
+      "definition": "Moitié du champ visuel d'un œil, correspondant à la même moitié du champ visuel de l'autre œil.",
+      "category": "anatomie",
+      "synonyms": [
+        "hémianopsie homonyme"
+      ],
+      "related_terms": [
+        "champ visuel",
+        "hémianopsie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémi-champ visuel homonyme",
+        "hémianopsie homonyme"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NFS-plaquettes",
+      "definition": "Numération Formule Sanguine incluant le comptage des plaquettes, un examen de laboratoire pour évaluer les composants cellulaires du sang.",
+      "category": "classification",
+      "synonyms": [
+        "numération formule sanguine"
+      ],
+      "related_terms": [
+        "comptage des plaquettes",
+        "examen de laboratoire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "NFS-plaquettes",
+        "numération formule sanguine"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Holter-ECG",
+      "definition": "Enregistrement continu de l'activité électrique du cœur sur une période prolongée, généralement 24 heures, pour détecter des anomalies cardiaques intermittentes.",
+      "category": "imagerie",
+      "synonyms": [
+        "Holter"
+      ],
+      "related_terms": [
+        "activité électrique du cœur",
+        "anomalies cardiaques"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Holter-ECG",
+        "Holter"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "OG",
+      "definition": "Oreillette Gauche, une des quatre cavités du cœur, recevant le sang oxygéné des poumons.",
+      "category": "anatomie",
+      "synonyms": [
+        "oreillette gauche"
+      ],
+      "related_terms": [
+        "cœur",
+        "sang oxygéné"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "OG",
+        "oreillette gauche"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leuco encéphalopathie vasculaire",
+      "definition": "Dégénérescence de la substance blanche du cerveau due à des lésions vasculaires, souvent associée à l'hypertension.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucoaraiose"
+      ],
+      "related_terms": [
+        "substance blanche",
+        "lésions vasculaires",
+        "hypertension"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "leuco encéphalopathie vasculaire",
+        "leucoaraiose"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thromboembolique",
+      "definition": "Relatif à la formation et au déplacement d'un thrombus (caillot sanguin) qui peut obstruer une artère.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboembolie"
+      ],
+      "related_terms": [
+        "thrombus",
+        "caillot sanguin",
+        "obstruction artérielle"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thromboembolique",
+        "thromboembolie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome pariétal",
+      "definition": "Accumulation de sang dans la paroi d'un vaisseau sanguin ou d'un organe, souvent due à une rupture ou une dissection.",
+      "category": "pathologie",
+      "synonyms": [
+        "hématome de la paroi"
+      ],
+      "related_terms": [
+        "paroi artérielle",
+        "rupture",
+        "dissection"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hématome pariétal",
+        "hématome de la paroi"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténose carotidienne athéromateuse",
+      "definition": "Rétrécissement de l'artère carotide dû à l'accumulation de plaques d'athérome, réduisant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose carotidienne"
+      ],
+      "related_terms": [
+        "artère carotide",
+        "plaques d'athérome",
+        "flux sanguin"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sténose carotidienne athéromateuse",
+        "sténose carotidienne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissection carotidienne bilatérale",
+      "definition": "Déchirure de la paroi des deux artères carotides, souvent due à un traumatisme ou à une maladie vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection bilatérale des artères carotides"
+      ],
+      "related_terms": [
+        "artères carotides",
+        "paroi artérielle",
+        "traumatisme"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dissection carotidienne bilatérale",
+        "dissection bilatérale des artères carotides"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténose de l'artère sylvienne gauche",
+      "definition": "Rétrécissement de l'artère sylvienne gauche, une des principales artères fournissant du sang au cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose sylvienne gauche"
+      ],
+      "related_terms": [
+        "artère sylvienne",
+        "rétrécissement artériel"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sténose de l'artère sylvienne gauche",
+        "sténose sylvienne gauche"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissections des artères cervico-encéphaliques",
+      "definition": "Déchirure de la paroi des artères qui fournissent du sang au cou et au cerveau, souvent due à un traumatisme ou à une maladie vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection des artères cervicales et cérébrales"
+      ],
+      "related_terms": [
+        "artères cervicales",
+        "artères cérébrales",
+        "paroi artérielle"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dissections des artères cervico-encéphaliques",
+        "dissection des artères cervicales et cérébrales"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tissu conjonctif de type Ehlers-Danlos",
+      "definition": "Groupe de maladies génétiques affectant le tissu conjonctif, caractérisées par une fragilité des tissus et une hypermobilité articulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'Ehlers-Danlos"
+      ],
+      "related_terms": [
+        "tissu conjonctif",
+        "fragilité des tissus",
+        "hypermobilité articulaire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tissu conjonctif de type Ehlers-Danlos",
+        "syndrome d'Ehlers-Danlos"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysplasie fibromusculaire",
+      "definition": "Maladie vasculaire non athéromateuse et non inflammatoire caractérisée par une prolifération anormale des cellules musculaires lisses et du tissu fibreux dans la paroi artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrodysplasie"
+      ],
+      "related_terms": [
+        "cellules musculaires lisses",
+        "tissu fibreux",
+        "paroi artérielle"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dysplasie fibromusculaire",
+        "fibrodysplasie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus lacunaires",
+      "definition": "Petits infarctus profonds dans le cerveau, généralement de moins de 20 mm de diamètre, souvent dus à l'occlusion d'une petite artère pénétrante.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus lacunaire"
+      ],
+      "related_terms": [
+        "infarctus cérébral",
+        "artère pénétrante",
+        "occlusion artérielle"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus lacunaires",
+        "infarctus lacunaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipohyalinose",
+      "definition": "Dégénérescence des petites artères due à l'accumulation de lipides et de matériel hyalin, souvent associée à l'hypertension.",
+      "category": "pathologie",
+      "synonyms": [
+        "artériopathie lipohyaline"
+      ],
+      "related_terms": [
+        "petites artères",
+        "lipides",
+        "hyalin"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lipohyalinose",
+        "artériopathie lipohyaline"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "noyaux gris centraux",
+      "definition": "Structures sous-corticales du cerveau impliquées dans le contrôle moteur, les fonctions cognitives et les émotions.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions de la base"
+      ],
+      "related_terms": [
+        "sous-cortical",
+        "contrôle moteur",
+        "fonctions cognitives"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "noyaux gris centraux",
+        "ganglions de la base"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pied de la protubérance",
+      "definition": "Partie du tronc cérébral située entre le mésencéphale et le bulbe rachidien, contenant des noyaux importants pour les fonctions motrices et sensorielles.",
+      "category": "anatomie",
+      "synonyms": [
+        "pont"
+      ],
+      "related_terms": [
+        "tronc cérébral",
+        "mésencéphale",
+        "bulbe rachidien"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pied de la protubérance",
+        "pont"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularites primitives du système nerveux central",
+      "definition": "Inflammation des vaisseaux sanguins du cerveau et de la moelle épinière, souvent d'origine auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "vascularites cérébrales"
+      ],
+      "related_terms": [
+        "vaisseaux sanguins",
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularites primitives du système nerveux central",
+        "vascularites cérébrales"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathie de déglutition",
+      "definition": "Infection pulmonaire causée par l'inhalation de matériel provenant de la bouche ou de l'estomac, souvent due à des troubles de la déglutition.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie d'inhalation"
+      ],
+      "related_terms": [
+        "déglutition",
+        "aspiration"
+      ],
+      "description": "La pneumopathie de déglutition est une complication fréquente chez les patients ayant des troubles de la déglutition, comme ceux ayant subi un AVC.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves, y compris une insuffisance respiratoire et une septicémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "aspiration pneumonia",
+        "dysphagia"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie cérébrale",
+      "definition": "Saignement dans le cerveau, souvent causé par la rupture d'un vaisseau sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie intracrânienne"
+      ],
+      "related_terms": [
+        "AVC hémorragique",
+        "thrombolyse"
+      ],
+      "description": "L'hémorragie cérébrale est une complication potentielle de la thrombolyse et peut entraîner des déficits neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortelle ou entraîner des déficits neurologiques permanents.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cerebral hemorrhage",
+        "brain bleed"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "retriever",
+      "definition": "Dispositif médical utilisé pour retirer un caillot sanguin d'une artère obstruée.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombectomie",
+        "AVC ischémique"
+      ],
+      "description": "Le retriever est un stent non implantable utilisé dans la thrombectomie pour retirer le caillot sanguin.",
+      "expansion": null,
+      "clinical_significance": "Peut sauver la zone de pénombre et minimiser les dommages cérébraux si utilisé rapidement.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "retriever",
+        "clot removal device"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombo aspiration",
+      "definition": "Technique utilisée pour aspirer et retirer un caillot sanguin d'une artère obstruée.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombectomie",
+        "AVC ischémique"
+      ],
+      "description": "La thrombo aspiration est utilisée dans la thrombectomie pour retirer le caillot sanguin et restaurer le flux sanguin.",
+      "expansion": null,
+      "clinical_significance": "Peut sauver la zone de pénombre et minimiser les dommages cérébraux si effectuée rapidement.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "thromboaspiration",
+        "clot aspiration"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "craniectomie",
+      "definition": "Intervention chirurgicale consistant à retirer une partie de la boîte crânienne pour soulager la pression intracrânienne.",
+      "category": "anatomie",
+      "synonyms": [
+        "décompression crânienne"
+      ],
+      "related_terms": [
+        "hématome intracrânien",
+        "œdème cérébral"
+      ],
+      "description": "Utilisée dans le traitement des infarctus cérébraux étendus ou des hématomes intracrâniens.",
+      "expansion": null,
+      "clinical_significance": "Peut être vitale dans la gestion des infarctus cérébraux malins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "craniectomie",
+        "décompression crânienne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crises épileptiques",
+      "definition": "Épisodes soudains de décharges électriques anormales dans le cerveau, entraînant des symptômes variés.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie",
+        "convulsions"
+      ],
+      "related_terms": [
+        "crise tonico-clonique",
+        "crise partielle"
+      ],
+      "description": "Peuvent être causées par diverses conditions neurologiques, y compris les AVC.",
+      "expansion": null,
+      "clinical_significance": "Importantes à diagnostiquer et traiter pour éviter des complications neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "crises épileptiques",
+        "épilepsie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endartériectomie",
+      "definition": "Intervention chirurgicale pour enlever les dépôts de plaque dans les artères, souvent utilisée pour traiter les sténoses carotidiennes.",
+      "category": "anatomie",
+      "synonyms": [
+        "endartérectomie"
+      ],
+      "related_terms": [
+        "sténose carotidienne",
+        "athérosclérose"
+      ],
+      "description": "Utilisée pour prévenir les AVC chez les patients avec des sténoses carotidiennes symptomatiques.",
+      "expansion": null,
+      "clinical_significance": "Peut réduire le risque d'AVC chez les patients à haut risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endartériectomie",
+        "endartérectomie"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidiabétiques",
+      "definition": "Médicaments utilisés pour traiter le diabète en abaissant les niveaux de glucose dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "médicaments antidiabétiques"
+      ],
+      "related_terms": [
+        "diabète",
+        "insuline"
+      ],
+      "description": "Incluent des classes telles que les biguanides, les sulfonylurées, et les inhibiteurs de la DPP-4.",
+      "expansion": null,
+      "clinical_significance": "Essentiels dans la gestion du diabète pour prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antidiabétiques",
+        "médicaments antidiabétiques"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome capsulo-lenticulaire",
+      "definition": "Accumulation de sang dans la région capsulo-lenticulaire du cerveau, souvent causée par l'hypertension.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hématome",
+        "capsule interne",
+        "noyau lenticulaire"
+      ],
+      "description": "Cette localisation est fréquente dans les hémorragies cérébrales dues à l'hypertension.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner une paralysie du côté opposé, des troubles de la sensibilité et une déviation de la tête et des yeux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hématome capsulo-lenticulaire",
+        "capsule interne",
+        "noyau lenticulaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome thalamique",
+      "definition": "Accumulation de sang dans le thalamus, une région du cerveau impliquée dans la sensibilité et la vigilance.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thalamus",
+        "hémorragie thalamique"
+      ],
+      "description": "Les symptômes incluent des troubles de la sensibilité et de la vigilance.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des déficits moteurs discrets et des troubles de la vigilance.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hématome thalamique",
+        "thalamus"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématomes lobaires",
+      "definition": "Accumulation de sang dans les lobes du cerveau, souvent causée par des malformations vasculaires ou des troubles de l'hémostase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lobe occipital",
+        "lobe frontal",
+        "lobe temporal",
+        "lobe pariétal"
+      ],
+      "description": "Les symptômes varient selon la localisation de l'hématome.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des déficits neurologiques spécifiques selon la localisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hématomes lobaires",
+        "lobe occipital",
+        "lobe frontal",
+        "lobe temporal",
+        "lobe pariétal"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertension intra-crânienne",
+      "definition": "Élévation anormale de la pression à l'intérieur du crâne, souvent due à une accumulation de liquide ou de sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression intra-crânienne",
+        "hypertension"
+      ],
+      "description": "Cette condition peut être causée par des hématomes cérébraux ou d'autres lésions intracrâniennes.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des complications graves, y compris la compression du tronc cérébral.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypertension intra-crânienne",
+        "pression intra-crânienne"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "malformation artério veineuse",
+      "definition": "Anomalie congénitale des vaisseaux sanguins où les artères et les veines sont directement connectées sans capillaires intermédiaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "MAV"
+      ],
+      "related_terms": [
+        "malformation vasculaire",
+        "anomalie vasculaire"
+      ],
+      "description": "Ces malformations peuvent causer des hémorragies cérébrales.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des hémorragies cérébrales et d'autres complications vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "malformation artério veineuse",
+        "MAV"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrisme",
+      "definition": "Dilatation anormale d'un vaisseau sanguin, souvent due à une faiblesse de la paroi vasculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dilatation vasculaire",
+        "faiblesse vasculaire"
+      ],
+      "description": "Les anévrismes peuvent se rompre et causer des hémorragies cérébrales.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des hémorragies cérébrales et d'autres complications vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "anévrisme",
+        "dilatation vasculaire"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cavernome",
+      "definition": "Malformation vasculaire constituée de cavités remplies de sang, souvent située dans le cerveau ou la moelle épinière.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "malformation vasculaire",
+        "cavernomatose"
+      ],
+      "description": "Les cavernomes peuvent causer des hémorragies cérébrales.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des hémorragies cérébrales et d'autres complications vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cavernome",
+        "cavernomatose"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiopathie amyloïde",
+      "definition": "Maladie caractérisée par le dépôt de protéines amyloïdes dans les parois des vaisseaux sanguins cérébraux, entraînant une fragilité vasculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "amyloïdose",
+        "dépôt amyloïde"
+      ],
+      "description": "Cette condition est souvent associée à des hémorragies cérébrales lobaires récidivantes.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des hémorragies cérébrales récidivantes et un déficit cognitif.",
+      "normal_values": "",
+      "image_search_terms": [
+        "angiopathie amyloïde",
+        "amyloïdose"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérites cérébrales",
+      "definition": "Inflammation des artères cérébrales, souvent due à des maladies auto-immunes ou des infections.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "artérite",
+        "inflammation vasculaire"
+      ],
+      "description": "Cette condition peut entraîner des hémorragies cérébrales et d'autres complications vasculaires.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des hémorragies cérébrales et d'autres complications vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artérites cérébrales",
+        "artérite"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine de Galien",
+      "definition": "Grande veine cérébrale formée par la réunion des veines cérébrales internes et des veines basales de Rosenthal.",
+      "category": "anatomie",
+      "synonyms": [
+        "grande veine cérébrale"
+      ],
+      "related_terms": [
+        "veines cérébrales internes",
+        "veines basales de Rosenthal"
+      ],
+      "description": "La veine de Galien joue un rôle crucial dans le drainage veineux profond du cerveau.",
+      "expansion": "",
+      "clinical_significance": "La thrombose de la veine de Galien peut entraîner des troubles de vigilance et des paralysies oculomotrices.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine de Galien",
+        "anatomie cérébrale"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "liquide céphalo-rachidien (LCR)",
+      "definition": "Fluide clair et incolore qui circule dans le système nerveux central, protégeant et nourrissant le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "fluide cérébrospinal"
+      ],
+      "related_terms": [
+        "céphalo-rachidien",
+        "système nerveux central"
+      ],
+      "description": "Joue un rôle crucial dans la protection et la nutrition du cerveau et de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des infections et des maladies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "liquide céphalo-rachidien",
+        "LCR"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyper protéinorachie",
+      "definition": "Augmentation anormale de la concentration de protéines dans le liquide céphalo-rachidien.",
+      "category": "pathologie",
+      "synonyms": [
+        "protéinorachie élevée"
+      ],
+      "related_terms": [
+        "LCR",
+        "protéines"
+      ],
+      "description": "Peut indiquer une infection, une inflammation ou une hémorragie dans le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des pathologies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyper protéinorachie",
+        "LCR"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pléiocytose",
+      "definition": "Augmentation du nombre de cellules dans le liquide céphalo-rachidien, souvent indicative d'une infection ou d'une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "pléocytose"
+      ],
+      "related_terms": [
+        "LCR",
+        "infection"
+      ],
+      "description": "Peut être un signe d'infection, d'inflammation ou de saignement dans le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des pathologies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pléiocytose",
+        "LCR"
+      ],
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "source_file": "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Neurologie/Accident Vasculaire Cérébral/Resumes/AVC.md",
+    "Neurologie/Accident Vasculaire Cérébral/Courses/1 Les Accidents Vasculaires Cérébraux 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md"
+  ],
+  "total_terms": 201
+}

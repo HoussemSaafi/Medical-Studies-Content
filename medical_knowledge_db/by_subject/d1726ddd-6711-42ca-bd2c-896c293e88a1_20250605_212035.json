@@ -1,0 +1,2065 @@
+{
+  "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+  "terms": [
+    {
+      "term": "calcitriol",
+      "definition": "Forme active de la vitamine D, également connue sous le nom de 1,25 (OH)2 D3, qui joue un rôle crucial dans la régulation du métabolisme du calcium.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "1,25 (OH)2 D3"
+      ],
+      "related_terms": [
+        "vitamine D",
+        "calcémie"
+      ],
+      "description": "Le calcitriol augmente l'absorption intestinale du calcium et la réabsorption rénale du calcium.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des troubles du métabolisme du calcium.",
+      "normal_values": null,
+      "image_search_terms": [
+        "calcitriol",
+        "vitamine D"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calcitonine",
+      "definition": "Hormone sécrétée par les cellules C de la thyroïde qui abaisse les niveaux de calcium dans le sang.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcémie",
+        "hypercalcémie"
+      ],
+      "description": "La calcitonine inhibe la résorption osseuse et augmente l'excrétion rénale du calcium.",
+      "expansion": null,
+      "clinical_significance": "Utilisée dans le traitement de l'hypercalcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "calcitonine",
+        "cellules C de la thyroïde"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calciurie",
+      "definition": "Quantité de calcium excrétée dans l'urine sur une période de 24 heures.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcémie",
+        "hypercalcémie"
+      ],
+      "description": "La calciurie normale est de 2,5 à 7,5 mmol/24 h.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "Calciurie normale: 2,5 à 7,5 mmol/24 h",
+      "image_search_terms": [
+        "calciurie",
+        "excrétion urinaire de calcium"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parathormone",
+      "definition": "Hormone sécrétée par les glandes parathyroïdes qui régule les niveaux de calcium dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "PTH"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "calcémie"
+      ],
+      "description": "La parathormone augmente la réabsorption rénale du calcium et stimule la libération de calcium des os.",
+      "expansion": null,
+      "clinical_significance": "Élévation de la parathormone dans l'hyperparathyroïdie primaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "parathormone",
+        "PTH"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Vit D",
+      "definition": "Vitamine D, une vitamine liposoluble essentielle pour l'absorption intestinale du calcium et le métabolisme osseux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vitamine D"
+      ],
+      "related_terms": [
+        "calcitriol",
+        "calcémie"
+      ],
+      "description": "La vitamine D est activée dans le foie et les reins pour former le calcitriol.",
+      "expansion": null,
+      "clinical_significance": "Déficit en vitamine D peut entraîner des troubles osseux et du métabolisme du calcium.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Vit D",
+        "vitamine D"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperprotidémie",
+      "definition": "Élévation anormale des protéines dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcémie",
+        "hypercalcémie"
+      ],
+      "description": "L'hyperprotidémie peut faussement élever la calcémie totale.",
+      "expansion": null,
+      "clinical_significance": "Important à considérer lors de l'interprétation des résultats de calcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperprotidémie",
+        "protéines sanguines"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercalcémiante",
+      "definition": "Qui augmente les niveaux de calcium dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypercalcémie",
+        "PTH"
+      ],
+      "description": "Les substances hypercalcémiantes, comme la PTH, augmentent la concentration de calcium dans le sang.",
+      "expansion": "",
+      "clinical_significance": "L'hypercalcémie peut entraîner des troubles cardiaques, rénaux et neurologiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypercalcemia symptoms",
+        "calcium levels"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypophosphatémiante",
+      "definition": "Qui diminue les niveaux de phosphate dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypophosphatémie",
+        "PTH"
+      ],
+      "description": "Les substances hypophosphatémiantes, comme la PTH, diminuent la concentration de phosphate dans le sang.",
+      "expansion": "",
+      "clinical_significance": "L'hypophosphatémie peut entraîner des troubles musculaires et neurologiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypophosphatemia symptoms",
+        "phosphate levels"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoparathyroïdie",
+      "definition": "État pathologique caractérisé par une diminution de la sécrétion de parathormone (PTH).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PTH",
+        "hypocalcémie"
+      ],
+      "description": "L'hypoparathyroïdie peut entraîner une hypocalcémie et des troubles neuromusculaires.",
+      "expansion": "",
+      "clinical_significance": "L'hypoparathyroïdie peut être causée par une chirurgie de la thyroïde ou des glandes parathyroïdes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypoparathyroidism symptoms",
+        "parathyroid glands"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "BAAH",
+      "definition": "Branche ascendante de l'anse de Henle, une partie du néphron dans le rein.",
+      "category": "anatomie",
+      "synonyms": [
+        "branche ascendante de l'anse de Henle"
+      ],
+      "related_terms": [
+        "néphron",
+        "rein"
+      ],
+      "description": "La BAAH joue un rôle crucial dans la réabsorption du calcium et la concentration des urines.",
+      "expansion": "Branche Ascendante de l'Anse de Henle",
+      "clinical_significance": "Les dysfonctionnements de la BAAH peuvent entraîner des troubles de la concentration urinaire et de la réabsorption du calcium.",
+      "normal_values": "",
+      "image_search_terms": [
+        "loop of Henle",
+        "nephron structure"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "phosphaturie",
+      "definition": "Quantité de phosphate excrétée dans les urines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PTH",
+        "phosphate"
+      ],
+      "description": "La phosphaturie est un indicateur de la fonction rénale et de l'homéostasie du phosphate.",
+      "expansion": "",
+      "clinical_significance": "Une phosphaturie élevée peut indiquer une hyperparathyroïdie ou une acidose tubulaire.",
+      "normal_values": "400-1300 mg/24h",
+      "image_search_terms": [
+        "phosphate excretion",
+        "urine phosphate levels"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "vitamine D",
+      "definition": "Groupe de prohormones liposolubles qui jouent un rôle crucial dans l'absorption intestinale du calcium et du phosphate.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "cholécalciférol",
+        "ergocalciférol"
+      ],
+      "related_terms": [
+        "calcitriol",
+        "PTH"
+      ],
+      "description": "La vitamine D est activée dans le foie et le rein et régule l'homéostasie du calcium et du phosphate.",
+      "expansion": "",
+      "clinical_significance": "Une carence en vitamine D peut entraîner une ostéomalacie ou un rachitisme.",
+      "normal_values": "20-50 ng/mL",
+      "image_search_terms": [
+        "vitamin D structure",
+        "vitamin D deficiency"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "calcium sensing receptor",
+      "definition": "Récepteur membranaire qui détecte les niveaux extracellulaires de calcium et régule la sécrétion de parathormone (PTH).",
+      "category": "anatomie",
+      "synonyms": [
+        "CaSR"
+      ],
+      "related_terms": [
+        "PTH",
+        "calcium homeostasis"
+      ],
+      "description": "Le calcium sensing receptor joue un rôle crucial dans la régulation de l'homéostasie du calcium.",
+      "expansion": "Calcium Sensing Receptor",
+      "clinical_significance": "Les mutations du CaSR peuvent entraîner des troubles de l'homéostasie du calcium.",
+      "normal_values": "",
+      "image_search_terms": [
+        "calcium sensing receptor",
+        "parathyroid gland"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "PTH-related peptide",
+      "definition": "Peptide sécrété par certaines tumeurs malignes qui mimique les effets de la parathormone (PTH).",
+      "category": "pathologie",
+      "synonyms": [
+        "PTH-rp"
+      ],
+      "related_terms": [
+        "PTH",
+        "hypercalcémie"
+      ],
+      "description": "Le PTH-related peptide peut entraîner une hypercalcémie et des troubles osseux.",
+      "expansion": "Parathyroid Hormone-related Peptide",
+      "clinical_significance": "Le PTH-rp est souvent associé à des cancers et peut causer une hypercalcémie maligne.",
+      "normal_values": "",
+      "image_search_terms": [
+        "PTH-rp structure",
+        "hypercalcemia of malignancy"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "calcium",
+      "definition": "Élément chimique essentiel pour de nombreuses fonctions biologiques, notamment la contraction musculaire, la coagulation sanguine et la transmission nerveuse.",
+      "category": "physiologie",
+      "synonyms": [
+        "Ca",
+        "Ca++"
+      ],
+      "related_terms": [
+        "magnésium",
+        "sodium"
+      ],
+      "description": "Le calcium joue un rôle crucial dans la contraction des cellules musculaires lisses et myocardiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "8.5-10.5 mg/dL",
+      "image_search_terms": [
+        "calcium cellulaire",
+        "calcium intracellulaire"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "myocardiques",
+      "definition": "Relatif au myocarde, le muscle cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "cardiaques"
+      ],
+      "related_terms": [
+        "myocarde",
+        "muscle cardiaque"
+      ],
+      "description": "Les cellules myocardiques sont les cellules musculaires du cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "myocarde",
+        "cellules myocardiques"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Na/K/Cl 2",
+      "definition": "Cotransporteur de sodium, potassium et chlorure présent dans les cellules épithéliales de la branche ascendante de l'anse de Henlé.",
+      "category": "physiologie",
+      "synonyms": [
+        "NKCC2"
+      ],
+      "related_terms": [
+        "cotransporteur",
+        "anse de Henlé"
+      ],
+      "description": "Le cotransporteur Na/K/Cl 2 est inhibé par l'hypercalcémie, entraînant une diminution de la réabsorption de Na.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Na/K/Cl 2",
+        "NKCC2"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "constipation",
+      "definition": "Ralentissement du transit intestinal entraînant une diminution de la fréquence des selles.",
+      "category": "pathologie",
+      "synonyms": [
+        "obstipation"
+      ],
+      "related_terms": [
+        "transit intestinal",
+        "selles"
+      ],
+      "description": "La constipation peut être associée à une diminution de la motilité intestinale due à l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "constipation",
+        "obstipation"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "motilité intestinale",
+      "definition": "Mouvement des muscles lisses de l'intestin permettant le transit des aliments.",
+      "category": "physiologie",
+      "synonyms": [
+        "péristaltisme"
+      ],
+      "related_terms": [
+        "transit intestinal",
+        "muscles lisses"
+      ],
+      "description": "La motilité intestinale peut être affectée par l'hypercalcémie, entraînant une constipation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "motilité intestinale",
+        "péristaltisme"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "syndrome pseudo-occlusif",
+      "definition": "Syndrome caractérisé par des symptômes d'occlusion intestinale sans obstruction mécanique.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudo-obstruction intestinale"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "pseudo-obstruction"
+      ],
+      "description": "Le syndrome pseudo-occlusif peut être causé par une atteinte des fibres musculaires lisses due à l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome pseudo-occlusif",
+        "pseudo-obstruction intestinale"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ulcères gastriques",
+      "definition": "Lésions de la muqueuse gastrique caractérisées par une perte de substance.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcères de l'estomac"
+      ],
+      "related_terms": [
+        "muqueuse gastrique",
+        "ulcère"
+      ],
+      "description": "Les ulcères gastriques peuvent être favorisés par l'hypercalcémie chez les patients ayant une hyperparathyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ulcères gastriques",
+        "ulcères de l'estomac"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Raccourcissement du QT",
+      "definition": "Réduction de l'intervalle QT sur l'électrocardiogramme, qui peut être associée à des troubles du rythme cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "QT court"
+      ],
+      "related_terms": [
+        "intervalle QT",
+        "électrocardiogramme"
+      ],
+      "description": "Le raccourcissement du QT est une modification de l'ECG observée dans les hypercalcémies sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Raccourcissement du QT",
+        "QT court"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "arythmies supraventriculaires",
+      "definition": "Troubles du rythme cardiaque originaires des oreillettes ou des nœuds auriculo-ventriculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "arythmies auriculaires"
+      ],
+      "related_terms": [
+        "troubles du rythme",
+        "oreillettes"
+      ],
+      "description": "Les arythmies supraventriculaires peuvent survenir dans les hypercalcémies sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "arythmies supraventriculaires",
+        "arythmies auriculaires"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "fibrillation auriculaire",
+      "definition": "Trouble du rythme cardiaque caractérisé par une contraction rapide et irrégulière des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrillation atriale"
+      ],
+      "related_terms": [
+        "troubles du rythme",
+        "oreillettes"
+      ],
+      "description": "La fibrillation auriculaire peut survenir dans les hypercalcémies sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrillation auriculaire",
+        "fibrillation atriale"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "extrasystoles ventriculaires",
+      "definition": "Contractions prématurées des ventricules, souvent perçues comme des battements cardiaques supplémentaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "extrasystoles"
+      ],
+      "related_terms": [
+        "troubles du rythme",
+        "ventricules"
+      ],
+      "description": "Les extrasystoles ventriculaires peuvent survenir dans les hypercalcémies sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "extrasystoles ventriculaires",
+        "extrasystoles"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "digitaliques",
+      "definition": "Médicaments utilisés pour traiter l'insuffisance cardiaque et certains troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "digoxine",
+        "digitaline"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "troubles du rythme"
+      ],
+      "description": "L'hypercalcémie sévère est une contre-indication à l'emploi des digitaliques en raison du risque d'arythmie grave.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "digitaliques",
+        "digoxine"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hypotonie musculaire",
+      "definition": "Diminution du tonus musculaire, caractérisée par une faiblesse et une flaccidité des muscles.",
+      "category": "pathologie",
+      "synonyms": [
+        "faiblesse musculaire"
+      ],
+      "related_terms": [
+        "tonus musculaire",
+        "flaccidité"
+      ],
+      "description": "L'hypotonie musculaire peut être observée dans l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypotonie musculaire",
+        "faiblesse musculaire"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "réflexes ostéotendineux",
+      "definition": "Réflexes provoqués par la percussion d'un tendon, entraînant une contraction musculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexes tendineux"
+      ],
+      "related_terms": [
+        "tendon",
+        "contraction musculaire"
+      ],
+      "description": "Une diminution des réflexes ostéotendineux peut être observée dans l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "réflexes ostéotendineux",
+        "réflexes tendineux"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "dysfonction tubulaire",
+      "definition": "Altération de la fonction des tubules rénaux, entraînant des troubles de la réabsorption et de la sécrétion.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance tubulaire"
+      ],
+      "related_terms": [
+        "tubules rénaux",
+        "réabsorption"
+      ],
+      "description": "La dysfonction tubulaire peut être causée par l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dysfonction tubulaire",
+        "insuffisance tubulaire"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "diabète insipide néphrogénique",
+      "definition": "Trouble caractérisé par une incapacité des reins à concentrer les urines en réponse à l'ADH.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète insipide"
+      ],
+      "related_terms": [
+        "reins",
+        "ADH",
+        "concentration des urines"
+      ],
+      "description": "Le diabète insipide néphrogénique peut être causé par l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "diabète insipide néphrogénique",
+        "diabète insipide"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "acidurie",
+      "definition": "Présence d'acides dans les urines, souvent due à une augmentation de l'excrétion d'acides.",
+      "category": "pathologie",
+      "synonyms": [
+        "aciduria"
+      ],
+      "related_terms": [
+        "acides",
+        "urines"
+      ],
+      "description": "L'acidurie peut être causée par l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidurie",
+        "aciduria"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "alcalose métabolique",
+      "definition": "Trouble de l'équilibre acido-basique caractérisé par une augmentation du pH sanguin due à une perte d'acides ou un gain de bases.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose"
+      ],
+      "related_terms": [
+        "équilibre acido-basique",
+        "pH sanguin"
+      ],
+      "description": "L'alcalose métabolique peut être associée à l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alcalose métabolique",
+        "alcalose"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hypocitraturie",
+      "definition": "Diminution de l'excrétion de citrate dans les urines, souvent associée à une acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocitraturia"
+      ],
+      "related_terms": [
+        "citrate",
+        "urines",
+        "acidose métabolique"
+      ],
+      "description": "L'hypocitraturie peut contribuer au développement de lithiase.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypocitraturie",
+        "hypocitraturia"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "vasoconstriction rénale",
+      "definition": "Réduction du diamètre des vaisseaux sanguins rénaux, entraînant une diminution du flux sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "constriction vasculaire rénale"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "déshydratation"
+      ],
+      "description": "La vasoconstriction rénale peut être causée par divers facteurs, y compris l'hypercalcémie.",
+      "expansion": null,
+      "clinical_significance": "Peut contribuer à l'insuffisance rénale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vasoconstriction",
+        "vaisseaux rénaux"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "néphropathie chronique hypercalcémique",
+      "definition": "Maladie rénale chronique causée par une hypercalcémie prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphropathie hypercalcémique"
+      ],
+      "related_terms": [
+        "hypercalcémie",
+        "hypercalciurie"
+      ],
+      "description": "Caractérisée par une nécrose et une atrophie tubulaire ainsi qu'une fibrose interstitielle.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale chronique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néphropathie interstitielle",
+        "fibrose interstitielle"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chondrocalcinose",
+      "definition": "Dépôt de cristaux de pyrophosphate de calcium dans les tissus articulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudogoutte"
+      ],
+      "related_terms": [
+        "arthrite subaiguë pseudogoutteuse",
+        "pyrophosphate de calcium"
+      ],
+      "description": "La chondrocalcinose peut être révélée par une arthrite subaiguë pseudogoutteuse.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des douleurs articulaires et une inflammation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "chondrocalcinose",
+        "pseudogoutte"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "arthrite subaiguë pseudogoutteuse",
+      "definition": "Inflammation articulaire causée par des cristaux de pyrophosphate de calcium.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudogoutte"
+      ],
+      "related_terms": [
+        "chondrocalcinose",
+        "pyrophosphate de calcium"
+      ],
+      "description": "Caractérisée par des douleurs et une inflammation articulaire.",
+      "expansion": null,
+      "clinical_significance": "Peut être confondue avec la goutte.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite pseudogoutteuse",
+        "pseudogoutte"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "pyrophosphate de calcium",
+      "definition": "Cristaux formés par la combinaison de pyrophosphate et de calcium, souvent trouvés dans les articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "cristaux de pyrophosphate"
+      ],
+      "related_terms": [
+        "chondrocalcinose",
+        "arthrite subaiguë pseudogoutteuse"
+      ],
+      "description": "Les cristaux de pyrophosphate de calcium peuvent causer une arthrite pseudogoutteuse.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des douleurs articulaires et une inflammation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pyrophosphate de calcium",
+        "cristaux articulaires"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "kératopathie en bande",
+      "definition": "Dépôt de calcium dans la cornée, formant une bande opaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "bandelette cornéenne"
+      ],
+      "related_terms": [
+        "conjonctivite chronique tenace"
+      ],
+      "description": "La kératopathie en bande est souvent associée à une hypercalcémie chronique.",
+      "expansion": null,
+      "clinical_significance": "Peut affecter la vision.",
+      "normal_values": null,
+      "image_search_terms": [
+        "kératopathie en bande",
+        "bandelette cornéenne"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.89
+    },
+    {
+      "term": "médiacalcose artérielle",
+      "definition": "Dépôt de calcium dans la paroi des artères.",
+      "category": "pathologie",
+      "synonyms": [
+        "calcification artérielle"
+      ],
+      "related_terms": [
+        "calcifications linéaires"
+      ],
+      "description": "La médiacalcose artérielle est souvent asymptomatique mais peut être visible à la radiographie.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une rigidité artérielle et des complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "médiacalcose artérielle",
+        "calcification artérielle"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.88
+    },
+    {
+      "term": "néoplasie endocrinienne multiple",
+      "definition": "Syndrome génétique caractérisé par la formation de tumeurs dans plusieurs glandes endocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "NEM"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "carcinome médullaire de la thyroïde"
+      ],
+      "description": "Il existe deux types principaux de NEM: NEM1 et NEM2.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner diverses tumeurs endocrines et nécessite une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néoplasie endocrinienne multiple",
+        "NEM"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.86
+    },
+    {
+      "term": "hypercalcémie hypocalciurie familiale",
+      "definition": "Trouble génétique caractérisé par une hypercalcémie et une hypocalciurie.",
+      "category": "pathologie",
+      "synonyms": [
+        "HCF"
+      ],
+      "related_terms": [
+        "hypercalcémie",
+        "hypocalciurie"
+      ],
+      "description": "Causée par une mutation du gène du récepteur sensible au calcium.",
+      "expansion": null,
+      "clinical_significance": "Peut être asymptomatique ou entraîner des symptômes légers.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercalcémie hypocalciurie familiale",
+        "HCF"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "ostéite fibrokystique",
+      "definition": "Maladie osseuse caractérisée par des kystes et des fibroses dans les os.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de von Recklinghausen des os"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "tuméfaction osseuse"
+      ],
+      "description": "L'ostéite fibrokystique est souvent associée à une hyperparathyroïdie chronique.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des déformations osseuses et des fractures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéite fibrokystique",
+        "kystes osseux"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.81
+    },
+    {
+      "term": "hypophosphorémie",
+      "definition": "Niveau anormalement bas de phosphore dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypophosphatémie"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "phosphatases alcalines"
+      ],
+      "description": "L'hypophosphorémie peut être causée par une hyperparathyroïdie ou d'autres troubles du métabolisme phosphocalcique.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des symptômes musculaires et neurologiques.",
+      "normal_values": "Phosphorémie normale: 0,8-1,45 mmol/L",
+      "image_search_terms": [
+        "hypophosphorémie",
+        "hypophosphatémie"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "hydroxyprolinurie",
+      "definition": "Excrétion urinaire de l'hydroxyproline, un acide aminé présent dans le collagène.",
+      "category": "pathologie",
+      "synonyms": [
+        "excrétion d'hydroxyproline"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "AMPc"
+      ],
+      "description": "L'hydroxyprolinurie est un marqueur de la résorption osseuse.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie osseuse ou une hyperparathyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hydroxyprolinurie",
+        "hydroxyproline"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "ostéodensitométrie",
+      "definition": "Mesure de la densité minérale osseuse (DMO) pour évaluer la santé osseuse.",
+      "category": "imagerie",
+      "synonyms": [
+        "densitométrie osseuse"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "déminéralisation osseuse"
+      ],
+      "description": "L'ostéodensitométrie est utilisée pour diagnostiquer l'ostéoporose et d'autres maladies osseuses.",
+      "expansion": null,
+      "clinical_significance": "Aide à évaluer le risque de fracture et à suivre l'efficacité des traitements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéodensitométrie",
+        "densitométrie osseuse"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "adénome parathyroïdien",
+      "definition": "Tumeur bénigne des glandes parathyroïdes qui sécrète de la PTH.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénome parathyroïdien"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "PTH"
+      ],
+      "description": "L'adénome parathyroïdien est une cause fréquente d'hyperparathyroïdie primaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une hypercalcémie et diverses complications osseuses et rénales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adénome parathyroïdien",
+        "glandes parathyroïdes"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "carcinome parathyroïdien",
+      "definition": "Tumeur maligne des glandes parathyroïdes qui sécrète de la PTH.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer parathyroïdien"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "PTH"
+      ],
+      "description": "Le carcinome parathyroïdien est une cause rare d'hyperparathyroïdie primaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une hypercalcémie sévère et des complications osseuses et rénales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinome parathyroïdien",
+        "cancer parathyroïdien"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "neuropathies endocriniennes multiples (NEM)",
+      "definition": "Syndromes génétiques caractérisés par la formation de tumeurs dans plusieurs glandes endocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "NEM"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "carcinome médullaire de la thyroïde"
+      ],
+      "description": "Il existe deux types principaux de NEM: NEM1 et NEM2.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner diverses tumeurs endocrines et nécessite une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "neuropathies endocriniennes multiples",
+        "NEM"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.86
+    },
+    {
+      "term": "polyadénomatose de Werner",
+      "definition": "Syndrome caractérisé par la formation de multiples adénomes dans plusieurs glandes endocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "NEM1"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "acromégalie"
+      ],
+      "description": "La polyadénomatose de Werner est un type de neuropathie endocrinienne multiple (NEM1).",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner diverses tumeurs endocrines et nécessite une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polyadénomatose de Werner",
+        "NEM1"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "carcinome médullaire de la thyroïde",
+      "definition": "Tumeur maligne des cellules C de la thyroïde qui sécrète de la calcitonine.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer médullaire de la thyroïde"
+      ],
+      "related_terms": [
+        "NEM2",
+        "phéochromocytome"
+      ],
+      "description": "Le carcinome médullaire de la thyroïde est souvent associé à la NEM2.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une hypercalcémie et nécessite une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinome médullaire de la thyroïde",
+        "cancer médullaire de la thyroïde"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "thyrocalcitonine",
+      "definition": "Hormone sécrétée par les cellules C de la thyroïde qui régule le métabolisme du calcium.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "calcitonine"
+      ],
+      "related_terms": [
+        "NEM2",
+        "carcinome médullaire de la thyroïde"
+      ],
+      "description": "La thyrocalcitonine abaisse les niveaux de calcium dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Peut être utilisée pour diagnostiquer le carcinome médullaire de la thyroïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyrocalcitonine",
+        "calcitonine"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "tumeurs brunes",
+      "definition": "Lésions osseuses causées par une hyperparathyroïdie sévère, caractérisées par une résorption osseuse et une fibrose.",
+      "category": "pathologie",
+      "synonyms": [
+        "ostéite fibrokystique"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie",
+        "déminéralisation osseuse"
+      ],
+      "description": "Les tumeurs brunes sont souvent associées à une hyperparathyroïdie chronique.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des déformations osseuses et des fractures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tumeurs brunes",
+        "ostéite fibrokystique"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.8
+    },
+    {
+      "term": "DMO",
+      "definition": "Densitométrie minérale osseuse, une technique de mesure de la densité minérale osseuse utilisée pour diagnostiquer l'ostéoporose.",
+      "category": "imagerie",
+      "synonyms": [
+        "DMO",
+        "densitométrie osseuse"
+      ],
+      "related_terms": [
+        "ostéoporose",
+        "ostéopénie"
+      ],
+      "description": "Utilisée pour évaluer la densité osseuse et le risque de fractures.",
+      "expansion": "densitométrie minérale osseuse",
+      "clinical_significance": "Essentielle pour le diagnostic et le suivi de l'ostéoporose.",
+      "normal_values": "T-score > -1.0",
+      "image_search_terms": [
+        "DMO",
+        "densitométrie osseuse"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hungry bone syndrome",
+      "definition": "Syndrome caractérisé par une hypocalcémie sévère après une parathyroïdectomie, due à une reminéralisation osseuse rapide.",
+      "category": "pathologie",
+      "synonyms": [
+        "hungry bone syndrome",
+        "syndrome de l'os affamé"
+      ],
+      "related_terms": [
+        "hypocalcémie",
+        "parathyroïdectomie"
+      ],
+      "description": "Se produit souvent après le traitement chirurgical de l'hyperparathyroïdie.",
+      "expansion": "hungry bone syndrome",
+      "clinical_significance": "Nécessite une surveillance et une gestion post-opératoire attentives.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hungry bone syndrome",
+        "syndrome de l'os affamé"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VDR",
+      "definition": "Récepteur de la vitamine D, une protéine intracellulaire qui se lie au calcitriol et régule la transcription de gènes spécifiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "VDR",
+        "récepteur de la vitamine D"
+      ],
+      "related_terms": [
+        "calcitriol",
+        "vitamine D"
+      ],
+      "description": "Joue un rôle crucial dans la régulation du métabolisme osseux et minéral.",
+      "expansion": "vitamine D receptor",
+      "clinical_significance": "Diminution du nombre de VDR associée à une élévation du taux de PTH.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "VDR",
+        "récepteur de la vitamine D"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperparathyroïdie tertiaire",
+      "definition": "État pathologique caractérisé par une sécrétion autonome de PTH par les glandes parathyroïdes, souvent après une hyperparathyroïdie secondaire prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperparathyroïdie tertiaire",
+        "hyperparathyroïdisme tertiaire"
+      ],
+      "related_terms": [
+        "hyperparathyroïdie secondaire",
+        "insuffisance rénale"
+      ],
+      "description": "Se développe souvent chez les patients avec une insuffisance rénale prolongée.",
+      "expansion": "hyperparathyroïdie tertiaire",
+      "clinical_significance": "Associée à une hypercalcémie persistante.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hyperparathyroïdie tertiaire",
+        "hyperparathyroïdisme tertiaire"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTHrp",
+      "definition": "Protéine apparentée à la parathormone, sécrétée par certaines tumeurs et responsable de l'hypercalcémie humorale paranéoplasique.",
+      "category": "physiologie",
+      "synonyms": [
+        "PTHrp",
+        "parathyroid hormone-related protein"
+      ],
+      "related_terms": [
+        "PTH",
+        "hypercalcémie"
+      ],
+      "description": "Se fixe sur les récepteurs de la PTH et a des effets biologiques similaires.",
+      "expansion": "parathyroid hormone-related protein",
+      "clinical_significance": "Associée à l'hypercalcémie humorale paranéoplasique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "PTHrp",
+        "parathyroid hormone-related protein"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AMP cyclique néphrogénique",
+      "definition": "Adénosine monophosphate cyclique produit par les reins, impliqué dans la régulation de la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "AMP cyclique néphrogénique",
+        "cAMP néphrogénique"
+      ],
+      "related_terms": [
+        "hypercalcémie",
+        "phosphatases alcalines"
+      ],
+      "description": "Joue un rôle dans la régulation de la fonction rénale et du métabolisme osseux.",
+      "expansion": "nephrogenous cyclic AMP",
+      "clinical_significance": "Diminution associée à l'hypercalcémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "AMP cyclique néphrogénique",
+        "cAMP néphrogénique"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhydroxyprolinurie",
+      "definition": "État pathologique caractérisé par une excrétion urinaire excessive d'hydroxyproline, un acide aminé présent dans le collagène.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperhydroxyprolinurie",
+        "hyperhydroxyprolinuria"
+      ],
+      "related_terms": [
+        "ostéolyse",
+        "hypercalcémie"
+      ],
+      "description": "Témoin de l'ostéolyse et de la résorption osseuse.",
+      "expansion": "hyperhydroxyprolinuria",
+      "clinical_significance": "Associée à des maladies osseuses et à l'hypercalcémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hyperhydroxyprolinurie",
+        "hyperhydroxyprolinuria"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypergammaglobulinémie",
+      "definition": "État pathologique caractérisé par une augmentation des gammaglobulines dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypergammaglobulinémie",
+        "hypergammaglobulinemia"
+      ],
+      "related_terms": [
+        "hypogammaglobulinémie",
+        "myélome multiple"
+      ],
+      "description": "Peut être due à diverses causes, y compris des infections chroniques et des maladies auto-immunes.",
+      "expansion": "hypergammaglobulinemia",
+      "clinical_significance": "Associée à diverses pathologies, y compris le myélome multiple.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypergammaglobulinémie",
+        "hypergammaglobulinemia"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypogammaglobulinémie",
+      "definition": "État pathologique caractérisé par une diminution des gammaglobulines dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypogammaglobulinémie",
+        "hypogammaglobulinemia"
+      ],
+      "related_terms": [
+        "hypergammaglobulinémie",
+        "myélome multiple"
+      ],
+      "description": "Peut être due à diverses causes, y compris des déficits immunitaires et des maladies chroniques.",
+      "expansion": "hypogammaglobulinemia",
+      "clinical_significance": "Associée à diverses pathologies, y compris le myélome multiple.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypogammaglobulinémie",
+        "hypogammaglobulinemia"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoglobuline monoclonale",
+      "definition": "Protéine immunoglobuline produite par une seule lignée de cellules plasmatiques, souvent associée à des maladies lymphoprolifératives.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunoglobuline monoclonale",
+        "monoclonal immunoglobulin"
+      ],
+      "related_terms": [
+        "myélome multiple",
+        "plasmocytose"
+      ],
+      "description": "Utilisée comme marqueur diagnostique pour le myélome multiple.",
+      "expansion": "monoclonal immunoglobulin",
+      "clinical_significance": "Présence confirmant le diagnostic de myélome multiple.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "immunoglobuline monoclonale",
+        "monoclonal immunoglobulin"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasmocytose",
+      "definition": "Augmentation anormale du nombre de plasmocytes dans le sang ou la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "plasmocytose",
+        "plasmocytosis"
+      ],
+      "related_terms": [
+        "myélome multiple",
+        "immunoglobuline monoclonale"
+      ],
+      "description": "Peut être due à diverses causes, y compris des infections et des maladies lymphoprolifératives.",
+      "expansion": "plasmocytosis",
+      "clinical_significance": "Présence > 10% confirmant le diagnostic de myélome multiple.",
+      "normal_values": "< 5%",
+      "image_search_terms": [
+        "plasmocytose",
+        "plasmocytosis"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphomes non hodgkiniens",
+      "definition": "Groupe de cancers du système lymphatique qui ne sont pas des lymphomes hodgkiniens.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphomes non hodgkiniens",
+        "non-Hodgkin lymphomas"
+      ],
+      "related_terms": [
+        "leucémies",
+        "HTLV1"
+      ],
+      "description": "Peuvent donner une hypercalcémie dans 5% des cas.",
+      "expansion": "non-Hodgkin lymphomas",
+      "clinical_significance": "Associés à diverses complications, y compris l'hypercalcémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "lymphomes non hodgkiniens",
+        "non-Hodgkin lymphomas"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTLV1",
+      "definition": "Virus T-lymphotropique humain de type 1, un rétrovirus associé à certaines leucémies et lymphomes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HTLV1",
+        "HTLV-1"
+      ],
+      "related_terms": [
+        "lymphomes",
+        "leucémies"
+      ],
+      "description": "Peut induire une hypercalcémie dans plus de 50% des cas de lymphomes ou leucémies à cellules T.",
+      "expansion": "human T-lymphotropic virus type 1",
+      "clinical_significance": "Associé à diverses complications, y compris l'hypercalcémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "HTLV1",
+        "HTLV-1"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudohyperparathyroïdie",
+      "definition": "État clinique caractérisé par une hypercalcémie et une hypophosphorémie avec des niveaux normaux ou bas de PTH.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudohyperparathyroïdie",
+        "pseudohyperparathyroidism"
+      ],
+      "related_terms": [
+        "PTH",
+        "PTH-rp"
+      ],
+      "description": "Due à la sécrétion de PTH-rp par des tumeurs.",
+      "expansion": "pseudohyperparathyroidism",
+      "clinical_significance": "Associée à l'hypercalcémie humorale paranéoplasique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pseudohyperparathyroïdie",
+        "pseudohyperparathyroidism"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "1a hydroxylase",
+      "definition": "Enzyme responsable de l'hydroxylation de la vitamine D en 1,25 dihydroxycalciférol, la forme active de la vitamine D.",
+      "category": "physiologie",
+      "synonyms": [
+        "1a hydroxylase",
+        "1-alpha hydroxylase"
+      ],
+      "related_terms": [
+        "sarcoïdose",
+        "1,25 dihydroxycalciférol"
+      ],
+      "description": "Joue un rôle crucial dans la régulation du métabolisme osseux et minéral.",
+      "expansion": "1-alpha hydroxylase",
+      "clinical_significance": "Sécrétion inappropriée associée à l'hypercalcémie dans la sarcoïdose.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "1a hydroxylase",
+        "1-alpha hydroxylase"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "1,25 dihydroxycalciférol",
+      "definition": "Forme active de la vitamine D, jouant un rôle crucial dans la régulation du métabolisme osseux et minéral.",
+      "category": "physiologie",
+      "synonyms": [
+        "1,25 dihydroxycalciférol",
+        "calcitriol"
+      ],
+      "related_terms": [
+        "vitamine D",
+        "1a hydroxylase"
+      ],
+      "description": "Produite par l'hydroxylation de la vitamine D par la 1a hydroxylase.",
+      "expansion": "1,25-dihydroxyvitamin D",
+      "clinical_significance": "Production anormale associée à l'hypercalcémie dans la sarcoïdose.",
+      "normal_values": "20-50 pg/mL",
+      "image_search_terms": [
+        "1,25 dihydroxycalciférol",
+        "calcitriol"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercalcémies iatrogènes",
+      "definition": "Hypercalcémies causées par des traitements médicaux, notamment par l'administration de vitamine D ou de calcium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vitamine D",
+        "calcium"
+      ],
+      "description": "Peuvent être résolues par l'arrêt des médicaments responsables.",
+      "expansion": null,
+      "clinical_significance": "Importance de surveiller les traitements médicamenteux pour éviter cette complication.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercalcémie iatrogène",
+        "vitamine D"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercalcémie maligne",
+      "definition": "Hypercalcémie associée à des cancers, souvent due à la production de facteurs ostéoclastiques par les cellules tumorales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "ostéoclastes"
+      ],
+      "description": "Peut nécessiter des traitements spécifiques comme les bisphosphonates.",
+      "expansion": null,
+      "clinical_significance": "Peut être une complication grave des cancers avancés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercalcémie maligne",
+        "cancer"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pamidronate de sodium",
+      "definition": "Un bisphosphonate utilisé pour traiter l'hypercalcémie et les complications osseuses des métastases.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Arédia®"
+      ],
+      "related_terms": [
+        "bisphosphonates",
+        "hypercalcémie"
+      ],
+      "description": "Administré par voie intraveineuse, agit en 24 à 48 heures.",
+      "expansion": null,
+      "clinical_significance": "Peut causer une lymphopénie comme effet indésirable.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Pamidronate de sodium",
+        "Arédia®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clodronate disodique",
+      "definition": "Un bisphosphonate utilisé pour traiter l'hypercalcémie et les complications osseuses des métastases.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Clastoban®"
+      ],
+      "related_terms": [
+        "bisphosphonates",
+        "hypercalcémie"
+      ],
+      "description": "Administré par voie intraveineuse, agit en 24 à 48 heures.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans le traitement des hypercalcémies malignes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Clodronate disodique",
+        "Clastoban®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Zolédronate",
+      "definition": "Un bisphosphonate utilisé pour traiter l'hypercalcémie et les complications osseuses des métastases.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Zométa®"
+      ],
+      "related_terms": [
+        "bisphosphonates",
+        "hypercalcémie"
+      ],
+      "description": "Administré par voie intraveineuse, agit en 24 à 48 heures.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des altérations de la fonction rénale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Zolédronate",
+        "Zométa®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide zolédronique",
+      "definition": "Un bisphosphonate utilisé pour traiter l'hypercalcémie et les complications osseuses des métastases.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Zométa®"
+      ],
+      "related_terms": [
+        "bisphosphonates",
+        "hypercalcémie"
+      ],
+      "description": "Administré par voie intraveineuse, agit en 24 à 48 heures.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des altérations de la fonction rénale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acide zolédronique",
+        "Zométa®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiostéoclastique",
+      "definition": "Propriété d'un médicament ou d'une substance qui inhibe l'activité des ostéoclastes, réduisant ainsi la résorption osseuse.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "ostéoclastes",
+        "résorption osseuse"
+      ],
+      "description": "Utilisé dans le traitement de l'hypercalcémie et des maladies osseuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention de la perte osseuse.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antiostéoclastique",
+        "ostéoclastes"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Denosumab",
+      "definition": "Anticorps monoclonal inhibiteur de la résorption osseuse, utilisé pour prévenir les complications osseuses chez les patients atteints de tumeurs solides avec métastases osseuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Xgeva®"
+      ],
+      "related_terms": [
+        "anticorps monoclonal",
+        "métastases osseuses"
+      ],
+      "description": "Indiqué dans l'hypercalcémie néoplasique ne répondant pas aux bisphosphonates.",
+      "expansion": null,
+      "clinical_significance": "Moins d'effets secondaires d'ostéonécrose mandibulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Denosumab",
+        "Xgeva®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cinacalcet",
+      "definition": "Médicament activant les récepteurs sensibles au calcium, utilisé pour diminuer le taux de parathormone.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Mimpara®"
+      ],
+      "related_terms": [
+        "parathormone",
+        "récepteurs sensibles au calcium"
+      ],
+      "description": "Utilisé dans l'insuffisance rénale chronique et l'hyperparathyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Améliore l'équilibration de la calcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Cinacalcet",
+        "Mimpara®"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CaSR",
+      "definition": "Récepteur sensible au calcium, une protéine transmembranaire qui détecte les niveaux extracellulaires de calcium.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteur sensible au calcium"
+      ],
+      "related_terms": [
+        "calcium",
+        "parathormone"
+      ],
+      "description": "Joue un rôle clé dans la régulation de la sécrétion de parathormone.",
+      "expansion": null,
+      "clinical_significance": "Mutations peuvent entraîner des troubles du métabolisme du calcium.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CaSR",
+        "récepteur sensible au calcium"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-1",
+      "definition": "Interleukine-1, cytokine pro-inflammatoire impliquée dans la réponse immunitaire et l'inflammation.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine-1"
+      ],
+      "related_terms": [
+        "IL-6",
+        "TNF α"
+      ],
+      "description": "L'IL-1 peut être impliquée dans l'ostéolyse locale maligne en stimulant la résorption osseuse.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle dans diverses maladies inflammatoires et cancéreuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IL-1",
+        "interleukine-1"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "HPT I",
+      "definition": "Hyperparathyroïdie primaire, augmentation de la sécrétion de parathormone due à une anomalie des glandes parathyroïdes.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperparathyroïdie primaire"
+      ],
+      "related_terms": [
+        "PTH",
+        "calcitriol"
+      ],
+      "description": "L'HPT I entraîne une hypercalcémie et des troubles osseux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HPT I",
+        "hyperparathyroïdie primaire"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "25(OH)D",
+      "definition": "Forme de stockage de la vitamine D dans le corps, mesurée pour évaluer le statut en vitamine D.",
+      "category": "physiologie",
+      "synonyms": [
+        "25-hydroxyvitamine D"
+      ],
+      "related_terms": [
+        "vitamine D",
+        "calcitriol"
+      ],
+      "description": "Le 25(OH)D est converti en calcitriol, la forme active de la vitamine D.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour diagnostiquer les carences en vitamine D.",
+      "normal_values": null,
+      "image_search_terms": [
+        "25(OH)D",
+        "vitamine D"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "Hypercalcémie humorale des néoplasies",
+      "definition": "Hypercalcémie causée par la production de PTHrP par des tumeurs malignes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PTHrP",
+        "cancers"
+      ],
+      "description": "Cette condition est souvent associée à des cancers et nécessite un traitement spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des cancers associés à l'hypercalcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hypercalcémie humorale des néoplasies",
+        "PTHrP"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "Ostéolyse locale maligne",
+      "definition": "Destruction osseuse locale causée par des tumeurs malignes, entraînant une hypercalcémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-1",
+        "IL-6",
+        "TNF α"
+      ],
+      "description": "L'ostéolyse locale maligne est souvent associée à des cancers et nécessite un traitement spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des cancers associés à l'hypercalcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ostéolyse locale maligne",
+        "cancers"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "Production ectopique de calcitriol",
+      "definition": "Production anormale de calcitriol par des tissus autres que les reins, souvent due à des tumeurs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcitriol",
+        "cancers"
+      ],
+      "description": "Cette condition peut entraîner une hypercalcémie et nécessite un traitement spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des cancers associés à l'hypercalcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Production ectopique de calcitriol",
+        "calcitriol"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Immobilisation prolongée",
+      "definition": "État de repos prolongé entraînant une perte osseuse et une hypercalcémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ostéoporose",
+        "hypercalcémie"
+      ],
+      "description": "L'immobilisation prolongée peut entraîner une hypercalcémie et nécessite une prise en charge spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des complications osseuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Immobilisation prolongée",
+        "ostéoporose"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "Hypercalcémie hypocalciurique familiale",
+      "definition": "Trouble génétique caractérisé par une hypercalcémie et une calciurie normale ou basse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ca récepteur",
+        "hypercalcémie"
+      ],
+      "description": "Cette condition est due à une mutation du récepteur du calcium et nécessite une prise en charge spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des troubles génétiques associés à l'hypercalcémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hypercalcémie hypocalciurique familiale",
+        "Ca récepteur"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Intoxication au Lithium",
+      "definition": "Accumulation toxique de lithium dans le corps, souvent utilisée dans le traitement des troubles bipolaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lithium",
+        "troubles bipolaires"
+      ],
+      "description": "L'intoxication au lithium peut entraîner une hypercalcémie et nécessite une prise en charge spécifique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des troubles psychiatriques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Intoxication au Lithium",
+        "lithium"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "Syndrome des buveurs de lait",
+      "definition": "Hypercalcémie due à une consommation excessive de lait et de calcium, souvent associée à une alcalose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypercalcémie",
+        "alcalose"
+      ],
+      "description": "Le syndrome des buveurs de lait nécessite une prise en charge spécifique pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des troubles électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome des buveurs de lait",
+        "hypercalcémie"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Ca récepteur",
+      "definition": "Récepteur sensible au calcium, impliqué dans la régulation du métabolisme du calcium.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteur du calcium"
+      ],
+      "related_terms": [
+        "hypercalcémie",
+        "parathormone"
+      ],
+      "description": "Le Ca récepteur joue un rôle crucial dans la régulation du calcium sanguin.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des troubles du métabolisme du calcium.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ca récepteur",
+        "récepteur du calcium"
+      ],
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "source_file": "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md",
+      "confidence_score": 0.92
+    }
+  ],
+  "source_files": [
+    "Endocrinologie/Hypercalcémies/Courses/37 Hypercalcémies 2.51.49 AM.md"
+  ],
+  "total_terms": 90
+}

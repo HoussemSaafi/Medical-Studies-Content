@@ -1,0 +1,3275 @@
+{
+  "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+  "terms": [
+    {
+      "term": "endocarde",
+      "definition": "Membrane interne du cœur qui tapisse les cavités cardiaques et les valves.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "valves cardiaques",
+        "cavités cardiaques"
+      ],
+      "description": "L'endocarde est la membrane interne du cœur qui tapisse les cavités cardiaques et les valves, jouant un rôle crucial dans le fonctionnement cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocardite subaigüe",
+      "definition": "Forme d'endocardite infectieuse avec une évolution lente et insidieuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite lente"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "endocardite d'Osler"
+      ],
+      "description": "L'endocardite subaigüe est une forme d'endocardite infectieuse caractérisée par une évolution lente et insidieuse, souvent associée à des lésions préexistantes de l'endocarde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocardite d'Osler",
+      "definition": "Forme d'endocardite infectieuse décrite par Sir William Osler, souvent associée à des lésions valvulaires préexistantes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "endocardite subaigüe"
+      ],
+      "description": "L'endocardite d'Osler est une forme d'endocardite infectieuse décrite par Sir William Osler, souvent associée à des lésions valvulaires préexistantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "critères de Duke",
+      "definition": "Critères diagnostiques pour l'endocardite infectieuse basés sur des arguments cliniques, microbiologiques et échographiques.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "diagnostic"
+      ],
+      "description": "Les critères de Duke sont des critères diagnostiques pour l'endocardite infectieuse basés sur un faisceau d'arguments cliniques, microbiologiques et échographiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endothélium",
+      "definition": "Couche de cellules qui tapisse la surface interne des vaisseaux sanguins et lymphatiques.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vaisseaux sanguins",
+        "vaisseaux lymphatiques"
+      ],
+      "description": "L'endothélium est une couche de cellules qui tapisse la surface interne des vaisseaux sanguins et lymphatiques, jouant un rôle crucial dans la régulation de la circulation sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "végétation",
+      "definition": "Masse irrégulière, friable et nécrotique, formée de fibrine, plaquettes et micro-organismes, implantée sur les valves cardiaques dans l'endocardite infectieuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "valves cardiaques"
+      ],
+      "description": "La végétation est une masse irrégulière, friable et nécrotique, formée de fibrine, plaquettes et micro-organismes, implantée sur les valves cardiaques dans l'endocardite infectieuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "slime",
+      "definition": "Matrice extracellulaire protéique et polysaccharidique produite par les micro-organismes, formant un biofilm.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "biofilm",
+        "micro-organismes"
+      ],
+      "description": "Le slime est une matrice extracellulaire protéique et polysaccharidique produite par les micro-organismes, formant un biofilm qui protège les bactéries des défenses de l'organisme et des antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biofilm",
+      "definition": "Communauté de micro-organismes enchâssés dans une matrice extracellulaire adhérente à une surface.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "slime",
+        "micro-organismes"
+      ],
+      "description": "Le biofilm est une communauté de micro-organismes enchâssés dans une matrice extracellulaire adhérente à une surface, offrant une protection contre les défenses de l'organisme et les antibiotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès annulaires",
+      "definition": "Néocavité à contenu purulent résultant de l'extension de l'infection au tissu péri-valvulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "valves cardiaques"
+      ],
+      "description": "Les abcès annulaires sont des néocavités à contenu purulent résultant de l'extension de l'infection au tissu péri-valvulaire, souvent compliquant les endocardites aortiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrismes mycotiques",
+      "definition": "Anévrismes d'origine infectieuse, souvent causés par des emboles septiques et des lésions de vascularite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "anévrisme",
+        "emboles septiques"
+      ],
+      "description": "Les anévrismes mycotiques sont des anévrismes d'origine infectieuse, souvent causés par des emboles septiques et des lésions de vascularite, caractérisés par une paroi fine et un risque de rupture.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EI",
+      "definition": "Endocardite Infectieuse, une infection de l'endocarde, généralement des valves cardiaques, causée par des micro-organismes.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse"
+      ],
+      "related_terms": [
+        "endocardite",
+        "infection valvulaire"
+      ],
+      "description": "L'endocardite infectieuse est une infection de l'endocarde, souvent des valves cardiaques, causée par des bactéries ou des champignons. Elle peut être aiguë ou subaiguë et est souvent associée à des complications graves.",
+      "expansion": "Endocardite Infectieuse",
+      "clinical_significance": "L'endocardite infectieuse est une condition grave qui peut entraîner des complications sévères, y compris des embolies, des insuffisances cardiaques et la mort.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endocardite infectieuse",
+        "valve cardiaque infectée"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entérocoques",
+      "definition": "Genre de bactéries Gram-positives, souvent résistantes aux antibiotiques, responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Enterococcus"
+      ],
+      "related_terms": [
+        "bactéries Gram-positives",
+        "résistance aux antibiotiques"
+      ],
+      "description": "Les entérocoques sont des bactéries Gram-positives souvent résistantes aux antibiotiques et peuvent causer des infections variées, y compris des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "entérocoques",
+        "Enterococcus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lancefield",
+      "definition": "Classification des streptocoques basée sur les antigènes de surface, divisant les streptocoques en différents groupes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "classification de Lancefield"
+      ],
+      "related_terms": [
+        "streptocoques",
+        "antigènes de surface"
+      ],
+      "description": "La classification de Lancefield est utilisée pour diviser les streptocoques en différents groupes basés sur leurs antigènes de surface.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Lancefield",
+        "classification des streptocoques"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "streptococcus viridans",
+      "definition": "Groupe de streptocoques alpha-hémolytiques, souvent trouvés dans la flore buccale, responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [
+        "streptocoques viridans"
+      ],
+      "related_terms": [
+        "streptocoques alpha-hémolytiques",
+        "flore buccale"
+      ],
+      "description": "Le streptococcus viridans est un groupe de streptocoques alpha-hémolytiques souvent trouvés dans la flore buccale et responsables de diverses infections, y compris des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "streptococcus viridans",
+        "streptocoques viridans"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EI subaigüe",
+      "definition": "Forme d'endocardite infectieuse avec une évolution plus lente et moins agressive que l'endocardite aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse subaiguë"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "endocardite aiguë"
+      ],
+      "description": "L'endocardite infectieuse subaiguë est une forme d'endocardite avec une évolution plus lente et moins agressive que l'endocardite aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EI subaigüe",
+        "endocardite infectieuse subaiguë"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie d'Osler",
+      "definition": "Terme historique pour l'endocardite infectieuse subaiguë, nommée d'après le médecin William Osler.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite d'Osler"
+      ],
+      "related_terms": [
+        "endocardite infectieuse subaiguë",
+        "William Osler"
+      ],
+      "description": "La maladie d'Osler est un terme historique pour l'endocardite infectieuse subaiguë, nommée d'après le médecin William Osler.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie d'Osler",
+        "endocardite d'Osler"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Streptococcus bovis",
+      "definition": "Espèce de streptocoque souvent associée à des infections digestives et à un risque accru de cancer colorectal.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus gallolyticus"
+      ],
+      "related_terms": [
+        "streptocoque",
+        "cancer colorectal"
+      ],
+      "description": "Streptococcus bovis est une espèce de streptocoque souvent associée à des infections digestives et à un risque accru de cancer colorectal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Streptococcus bovis",
+        "Streptococcus gallolyticus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Staphylococcus epidermidis",
+      "definition": "Espèce de staphylocoque coagulase-négative, souvent résistante aux antibiotiques et responsable d'infections sur dispositifs intracardiaques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "staphylocoque épidermidis"
+      ],
+      "related_terms": [
+        "staphylocoque",
+        "coagulase-négative"
+      ],
+      "description": "Staphylococcus epidermidis est une espèce de staphylocoque coagulase-négative, souvent résistante aux antibiotiques et responsable d'infections sur dispositifs intracardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Staphylococcus epidermidis",
+        "staphylocoque épidermidis"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valve prothétique",
+      "definition": "Valve cardiaque artificielle implantée pour remplacer une valve native défectueuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "prothèse valvulaire"
+      ],
+      "related_terms": [
+        "valve cardiaque",
+        "prothèse"
+      ],
+      "description": "Une valve prothétique est une valve cardiaque artificielle implantée pour remplacer une valve native défectueuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "valve prothétique",
+        "prothèse valvulaire"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EI précoce",
+      "definition": "Endocardite infectieuse survenant dans les 12 mois suivant l'implantation d'une prothèse valvulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse précoce"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "prothèse valvulaire"
+      ],
+      "description": "L'endocardite infectieuse précoce est une infection survenant dans les 12 mois suivant l'implantation d'une prothèse valvulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EI précoce",
+        "endocardite infectieuse précoce"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EI tardive",
+      "definition": "Endocardite infectieuse survenant plus de 12 mois après l'implantation d'une prothèse valvulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse tardive"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "prothèse valvulaire"
+      ],
+      "description": "L'endocardite infectieuse tardive est une infection survenant plus de 12 mois après l'implantation d'une prothèse valvulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EI tardive",
+        "endocardite infectieuse tardive"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iatrogène",
+      "definition": "Causé par une intervention médicale ou un traitement.",
+      "category": "pathologie",
+      "synonyms": [
+        "iatrogénique"
+      ],
+      "related_terms": [
+        "intervention médicale",
+        "traitement"
+      ],
+      "description": "Iatrogène signifie causé par une intervention médicale ou un traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iatrogène",
+        "iatrogénique"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aspergillus spp",
+      "definition": "Genre de champignons responsables de diverses infections fongiques, y compris des endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Aspergillus"
+      ],
+      "related_terms": [
+        "champignon",
+        "infection fongique"
+      ],
+      "description": "Aspergillus spp est un genre de champignons responsables de diverses infections fongiques, y compris des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Aspergillus spp",
+        "Aspergillus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HACCEK",
+      "definition": "Groupe de bacilles Gram-négatif appartenant à la flore commensale bucco-dentaire et oropharyngée, responsables de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "groupe HACCEK"
+      ],
+      "related_terms": [
+        "bacille Gram-négatif",
+        "flore commensale"
+      ],
+      "description": "Le groupe HACCEK comprend des bacilles Gram-négatif appartenant à la flore commensale bucco-dentaire et oropharyngée, responsables de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HACCEK",
+        "groupe HACCEK"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hemophilus",
+      "definition": "Genre de bactéries Gram-négatives, souvent responsables d'infections respiratoires et d'endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Haemophilus"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "infection respiratoire"
+      ],
+      "description": "Hemophilus est un genre de bactéries Gram-négatives, souvent responsables d'infections respiratoires et d'endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hemophilus",
+        "Haemophilus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Actinobacillus actinomycetemcomitans",
+      "definition": "Bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Actinobacillus"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "flore commensale"
+      ],
+      "description": "Actinobacillus actinomycetemcomitans est une bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Actinobacillus actinomycetemcomitans",
+        "Actinobacillus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cardiobacterium hominis",
+      "definition": "Bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Cardiobacterium"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "flore commensale"
+      ],
+      "description": "Cardiobacterium hominis est une bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Cardiobacterium hominis",
+        "Cardiobacterium"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Capnocytophaga spp",
+      "definition": "Genre de bactéries Gram-négatives appartenant à la flore commensale bucco-dentaire, responsables de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Capnocytophaga"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "flore commensale"
+      ],
+      "description": "Capnocytophaga spp est un genre de bactéries Gram-négatives appartenant à la flore commensale bucco-dentaire, responsables de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Capnocytophaga spp",
+        "Capnocytophaga"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Eikenella corrodens",
+      "definition": "Bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Eikenella"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "flore commensale"
+      ],
+      "description": "Eikenella corrodens est une bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Eikenella corrodens",
+        "Eikenella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kingella kingae",
+      "definition": "Bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses, notamment chez les enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Kingella"
+      ],
+      "related_terms": [
+        "bactérie Gram-négative",
+        "flore commensale"
+      ],
+      "description": "Kingella kingae est une bactérie Gram-négative appartenant à la flore commensale bucco-dentaire, responsable de certaines endocardites infectieuses, notamment chez les enfants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Kingella kingae",
+        "Kingella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coxiella burnetii",
+      "definition": "Bactérie intracellulaire responsable de la fièvre Q et de certaines endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Coxiella"
+      ],
+      "related_terms": [
+        "fièvre Q",
+        "bactérie intracellulaire"
+      ],
+      "description": "Coxiella burnetii est une bactérie intracellulaire responsable de la fièvre Q et de certaines endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Coxiella burnetii",
+        "Coxiella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bartonella spp",
+      "definition": "Genre de bactéries intracellulaires responsables de diverses infections, y compris des endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Bartonella"
+      ],
+      "related_terms": [
+        "bactérie intracellulaire",
+        "infection"
+      ],
+      "description": "Bartonella spp est un genre de bactéries intracellulaires responsables de diverses infections, y compris des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Bartonella spp",
+        "Bartonella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumocoques",
+      "definition": "Bactéries Gram-positives responsables de diverses infections, y compris des pneumonies et des endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus pneumoniae"
+      ],
+      "related_terms": [
+        "bactérie Gram-positive",
+        "pneumonie"
+      ],
+      "description": "Les pneumocoques sont des bactéries Gram-positives responsables de diverses infections, y compris des pneumonies et des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumocoques",
+        "Streptococcus pneumoniae"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "viridans",
+      "definition": "Groupe de streptocoques alpha-hémolytiques, souvent trouvés dans la cavité buccale et impliqués dans les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Streptococcus viridans"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "streptocoques viridans"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "mitis",
+      "definition": "Groupe de streptocoques alpha-hémolytiques, souvent trouvés dans la cavité buccale et impliqués dans les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Streptococcus mitis"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "streptocoques mitis"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "aureus",
+      "definition": "Espèce de staphylocoques, souvent impliquée dans les infections cutanées et les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Staphylococcus aureus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Staphylococcus aureus"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "coagulase nég",
+      "definition": "Staphylocoques qui ne produisent pas de coagulase, souvent impliqués dans les infections nosocomiales.",
+      "category": "microbiologie",
+      "synonyms": [
+        "coagulase-négatif"
+      ],
+      "related_terms": [
+        "Staphylococcus epidermidis"
+      ],
+      "description": "",
+      "expansion": "coagulase-négatif",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "staphylocoques coagulase-négatif"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Enterocoque",
+      "definition": "Genre de bactéries à Gram positif, souvent impliquées dans les infections nosocomiales et les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Enterococcus faecalis",
+        "Enterococcus faecium"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Enterocoque"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "HACEK",
+      "definition": "Acronyme pour un groupe de bactéries à Gram négatif responsables d'endocardites : Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "Haemophilus",
+        "Aggregatibacter",
+        "Cardiobacterium",
+        "Eikenella",
+        "Kingella"
+      ],
+      "description": "",
+      "expansion": "Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella, Kingella",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "HACEK"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Acinetobacter",
+      "definition": "Genre de bactéries à Gram négatif, souvent impliquées dans les infections nosocomiales.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Acinetobacter baumannii"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Acinetobacter"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Cardiobacterium",
+      "definition": "Genre de bactéries à Gram négatif, souvent impliquées dans les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Cardiobacterium hominis"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Cardiobacterium"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Eikenella",
+      "definition": "Genre de bactéries à Gram négatif, souvent impliquées dans les infections buccales et les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Eikenella corrodens"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Eikenella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Kingella",
+      "definition": "Genre de bactéries à Gram négatif, souvent impliquées dans les infections ostéo-articulaires et les endocardites.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Kingella kingae"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Kingella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "brucella",
+      "definition": "Genre de bactéries à Gram négatif, responsables de la brucellose, une zoonose.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Brucella melitensis"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "brucella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "fièvre Q",
+      "definition": "Zoonose causée par la bactérie Coxiella burnetii, caractérisée par une fièvre, des céphalées et des myalgies.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Coxiella burnetii"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "fièvre Q"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "bartonella",
+      "definition": "Genre de bactéries à Gram négatif, responsables de la maladie des griffes du chat et de l'endocardite.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Bartonella henselae"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "bartonella"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "syndrome infectieux",
+      "definition": "Ensemble de signes cliniques et biologiques traduisant une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fièvre",
+        "frissons",
+        "altération de l'état général"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome infectieux"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "subaiguë",
+      "definition": "Caractérise une évolution clinique intermédiaire entre aiguë et chronique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "subaigu"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "subaiguë"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "chronique",
+      "definition": "Caractérise une évolution clinique lente et prolongée dans le temps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "chronique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "chronique"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "oslériennes",
+      "definition": "Terme désignant les endocardites subaiguës, souvent causées par des streptocoques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite oslérienne"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "oslériennes"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "souffle cardiaque",
+      "definition": "Bruit anormal perçu à l'auscultation cardiaque, souvent dû à une turbulence sanguine.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "souffle systolique",
+        "souffle diastolique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "souffle cardiaque"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "insuffisance aortique",
+      "definition": "Incompétence de la valve aortique entraînant un reflux de sang dans le ventricule gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "IA"
+      ],
+      "related_terms": [
+        "régurgitation aortique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance aortique"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "insuffisance cardiaque gauche",
+      "definition": "Incapacité du cœur à pomper suffisamment de sang pour répondre aux besoins de l'organisme, affectant principalement le côté gauche du cœur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance cardiaque"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance cardiaque gauche"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "insuffisance cardiaque droite",
+      "definition": "Incapacité du cœur à pomper suffisamment de sang pour répondre aux besoins de l'organisme, affectant principalement le côté droit du cœur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance cardiaque"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance cardiaque droite"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Galop",
+      "definition": "Bruit cardiaque supplémentaire entendu à l'auscultation, souvent associé à une insuffisance cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bruit de galop"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Galop"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "embolies périphériques",
+      "definition": "Obstruction d'un vaisseau sanguin périphérique par un embole, souvent d'origine cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embolie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "embolies périphériques"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "accidents vasculaires cérébraux",
+      "definition": "Interruption de la circulation sanguine cérébrale, souvent due à une thrombose ou une embolie.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC"
+      ],
+      "related_terms": [
+        "accident vasculaire cérébral"
+      ],
+      "description": "",
+      "expansion": "accident vasculaire cérébral",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "accidents vasculaires cérébraux"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "morbidité-mortalité",
+      "definition": "Mesure combinée de la fréquence des maladies (morbidité) et des décès (mortalité) dans une population.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "morbidité",
+        "mortalité"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "morbidité-mortalité"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "infarctus rénal",
+      "definition": "Nécrose d'une partie du rein due à une obstruction de son apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "infarctus rénal"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ischémies de membres",
+      "definition": "Réduction de l'apport sanguin aux membres, souvent due à une obstruction artérielle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "ischémies de membres"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "nécroses distales",
+      "definition": "Mort cellulaire des extrémités distales, souvent due à une ischémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nécrose"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "nécroses distales"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "emboles septiques",
+      "definition": "Fragments infectieux circulant dans le sang, souvent d'origine cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embole"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "emboles septiques"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "spondylodiscite",
+      "definition": "Infection de l'espace intervertébral et des vertèbres adjacentes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "discite"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "spondylodiscite"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "arthrite septique",
+      "definition": "Infection bactérienne d'une articulation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "arthrite septique"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "purpura pétéchial vasculaire",
+      "definition": "Éruption cutanée caractérisée par de petites taches rouges ou violacées, souvent d'origine vasculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "purpura pétéchial vasculaire"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "taches de Roth",
+      "definition": "Hémorragies rétiniennes associées à des exsudats blanchâtres, souvent observées dans les endocardites.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "taches de Roth"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "taches de Roth"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "érythème palmo-plantaire de Janeway",
+      "definition": "Lésions cutanées érythémateuses et papuleuses, souvent observées dans les endocardites.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lésions de Janeway"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "érythème palmo-plantaire de Janeway"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "faux panaris d'Osler",
+      "definition": "Petits nodules douloureux et fugaces, souvent observés dans les endocardites.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nodules d'Osler"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "faux panaris d'Osler"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "glomérulonéphrite",
+      "definition": "Inflammation des glomérules rénaux, souvent d'origine auto-immune ou infectieuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glomérulonéphrite"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "glomérulonéphrite"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "prothèses",
+      "definition": "Dispositifs médicaux implantés pour remplacer ou soutenir une structure corporelle défaillante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "prothèse"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "prothèses"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "stimulateur cardiaque",
+      "definition": "Dispositif médical implanté pour réguler le rythme cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pacemaker"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "stimulateur cardiaque"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "échocardiographie trans-thoracique",
+      "definition": "Technique d'échocardiographie réalisée à travers la paroi thoracique pour visualiser le cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETT"
+      ],
+      "related_terms": [
+        "échocardiographie trans-œsophagienne"
+      ],
+      "description": "Moins invasive mais avec une sensibilité inférieure à l'échocardiographie trans-œsophagienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographie trans-œsophagienne",
+      "definition": "Technique d'échocardiographie réalisée en insérant une sonde dans l'œsophage pour obtenir des images du cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETO"
+      ],
+      "related_terms": [
+        "échocardiographie trans-thoracique"
+      ],
+      "description": "Plus invasive mais offre une meilleure qualité d'image et une sensibilité supérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fuite valvulaire mitrale ou aortique",
+      "definition": "Régurgitation de sang à travers une valve mitrale ou aortique défectueuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance valvulaire"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "végétation"
+      ],
+      "description": "Peut être causée par des mutilations ou perforations valvulaires ou des ruptures de cordages.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès intracardiaque",
+      "definition": "Collection de pus dans les tissus cardiaques, souvent au niveau du manchon aortique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "perforation valvulaire"
+      ],
+      "description": "Peut être plein, fistulisé ou détergé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perforation valvulaire",
+      "definition": "Solution de continuité au sein d'un feuillet valvulaire avec présence d'une régurgitation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "fuite valvulaire"
+      ],
+      "description": "Complication des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistule",
+      "definition": "Communication anormale entre deux cavités cardiaques, souvent entre l'oreillette gauche et le ventricule droit.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "perforation valvulaire"
+      ],
+      "description": "Complication des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désinsertion d'une prothèse valvulaire",
+      "definition": "Déplacement ou détachement d'une prothèse valvulaire de sa position initiale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "fuite para-prothétique"
+      ],
+      "description": "Peut entraîner une fuite para-prothétique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose de prothèse",
+      "definition": "Formation d'un caillot sanguin sur une prothèse valvulaire, souvent due à une grosse végétation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "végétation"
+      ],
+      "description": "Complication des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fongémie",
+      "definition": "Présence de champignons dans le sang, souvent associée à une infection fongique.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bactériémie",
+        "hémocultures"
+      ],
+      "description": "Constante dans les endocardites infectieuses fongiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "germes",
+      "definition": "Micro-organismes pathogènes, incluant bactéries, virus, champignons et parasites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "micro-organismes"
+      ],
+      "related_terms": [
+        "bactériémie",
+        "fongémie"
+      ],
+      "description": "Responsables des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bartonella spp.",
+      "definition": "Genre de bactéries Gram-négatives, responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Brucella spp.",
+      "definition": "Genre de bactéries Gram-négatives, responsables de la brucellose.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tropheryma whippiei",
+      "definition": "Bactérie responsable de la maladie de Whipple.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mycoplasma spp.",
+      "definition": "Genre de bactéries sans paroi cellulaire, responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Legionella spp.",
+      "definition": "Genre de bactéries Gram-négatives, responsables de la légionellose.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Chlamydia sp.",
+      "definition": "Genre de bactéries intracellulaires obligatoires, responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Peut causer des endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "collagénoses",
+      "definition": "Maladies auto-immunes affectant le tissu conjonctif.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lupus",
+        "syndrome des anti-phospholipides"
+      ],
+      "description": "Peuvent causer des endocardites non-infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome des anti-phospholipides",
+      "definition": "Maladie auto-immune caractérisée par la présence d'anticorps anti-phospholipides, entraînant des thromboses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "collagénoses",
+        "lupus"
+      ],
+      "description": "Peut causer des endocardites non-infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urémie",
+      "definition": "Accumulation excessive d'urée dans le sang, souvent due à une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse"
+      ],
+      "description": "Peut causer des endocardites non-infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amplification en chaîne par polymérase",
+      "definition": "Technique de biologie moléculaire permettant d'amplifier des segments spécifiques d'ADN.",
+      "category": "microbiologie",
+      "synonyms": [
+        "PCR"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "hémocultures négatives"
+      ],
+      "description": "Utilisée pour détecter des agents pathogènes dans les endocardites infectieuses à hémocultures négatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gammaglobulines",
+      "definition": "Protéines sanguines incluant les anticorps, impliquées dans la réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunoglobulines"
+      ],
+      "related_terms": [
+        "fibrinogène"
+      ],
+      "description": "Niveaux augmentés en cas d'infection ou de maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérologies VIH",
+      "definition": "Tests sanguins pour détecter la présence d'anticorps contre le virus de l'immunodéficience humaine.",
+      "category": "microbiologie",
+      "synonyms": [
+        "tests VIH"
+      ],
+      "related_terms": [
+        "hépatites B",
+        "hépatites C"
+      ],
+      "description": "Utilisés pour détecter une infection par le VIH, souvent en cas de toxicomanie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatites B",
+      "definition": "Infection virale du foie causée par le virus de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VHB"
+      ],
+      "related_terms": [
+        "sérologies VIH",
+        "hépatites C"
+      ],
+      "description": "Peut être associée à une déficience immunitaire en cas de toxicomanie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatites C",
+      "definition": "Infection virale du foie causée par le virus de l'hépatite C.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VHC"
+      ],
+      "related_terms": [
+        "sérologies VIH",
+        "hépatites B"
+      ],
+      "description": "Peut être associée à une déficience immunitaire en cas de toxicomanie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Complexes immuns circulants",
+      "definition": "Agrégats de protéines formés par la liaison d'anticorps à des antigènes, souvent présents dans les maladies auto-immunes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur rhumatoïde",
+        "cryoglobulinémie"
+      ],
+      "description": "Peuvent être présents dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C1q",
+      "definition": "Composant du système du complément, impliqué dans la réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "complément",
+        "CH50",
+        "C3"
+      ],
+      "description": "Une baisse de C1q peut être observée dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endoscopie colorectale",
+      "definition": "Examen endoscopique du côlon et du rectum pour détecter des anomalies.",
+      "category": "pathologie",
+      "synonyms": [
+        "colonoscopie"
+      ],
+      "related_terms": [
+        "PET-scan",
+        "streptocoque"
+      ],
+      "description": "Utilisée pour rechercher un cancer colorectal en cas d'isolement d'un streptocoque du groupe D.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PET-scanner",
+      "definition": "Tomographie par émission de positons, une technique d'imagerie médicale utilisant des traceurs radioactifs pour visualiser les processus métaboliques dans le corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "tomographie par émission de positons"
+      ],
+      "related_terms": [
+        "échocardiographie",
+        "SPECT-scanner"
+      ],
+      "description": "Utilisé pour le diagnostic positif d'infection de matériel implanté dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SPECT-scanner",
+      "definition": "Tomographie par émission de photons uniques, une technique d'imagerie médicale utilisant des traceurs radioactifs pour visualiser les processus métaboliques dans le corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "tomographie par émission de photons uniques"
+      ],
+      "related_terms": [
+        "PET-scanner",
+        "échocardiographie"
+      ],
+      "description": "Utilisé pour le diagnostic positif d'infection de matériel implanté dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions de Janeway",
+      "definition": "Lésions cutanées non douloureuses, souvent présentes sur les paumes et les plantes, associées aux endocardites infectieuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nodosités d'Osler",
+        "taches de Roth"
+      ],
+      "description": "Phénomènes vasculaires observés dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nodosités d'Osler",
+      "definition": "Lésions cutanées douloureuses, souvent présentes sur les doigts et les orteils, associées aux endocardites infectieuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lésions de Janeway",
+        "taches de Roth"
+      ],
+      "description": "Phénomènes immunologiques observés dans les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESC",
+      "definition": "European Society of Cardiology, une société professionnelle européenne dédiée à la cardiologie.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "critères de Duke"
+      ],
+      "description": "A proposé des recommandations pour le diagnostic des endocardites infectieuses.",
+      "expansion": "European Society of Cardiology",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ETO",
+      "definition": "Échocardiographie trans-œsophagienne, une technique d'imagerie utilisant les ultrasons pour visualiser le cœur à travers l'œsophage.",
+      "category": "imagerie",
+      "synonyms": [
+        "échocardiographie trans-œsophagienne"
+      ],
+      "related_terms": [
+        "ETT"
+      ],
+      "description": "Utilisée pour diagnostiquer les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rétrécissement aortique",
+      "definition": "Obstruction de la valve aortique, limitant le flux sanguin du ventricule gauche vers l'aorte.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose aortique"
+      ],
+      "related_terms": [
+        "rétrécissement mitral",
+        "insuffisance aortique"
+      ],
+      "description": "Le rétrécissement aortique est une valvulopathie prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rétrécissement mitral",
+      "definition": "Obstruction de la valve mitrale, limitant le flux sanguin de l'oreillette gauche vers le ventricule gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose mitrale"
+      ],
+      "related_terms": [
+        "rétrécissement aortique",
+        "insuffisance mitrale"
+      ],
+      "description": "Le rétrécissement mitral est une valvulopathie prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rhumatisme articulaire aigu",
+      "definition": "Maladie inflammatoire auto-immune résultant d'une infection streptococcique, affectant principalement les articulations et le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "RAA"
+      ],
+      "related_terms": [
+        "valvulopathie",
+        "cardiopathie"
+      ],
+      "description": "Le rhumatisme articulaire aigu est une cause majeure de valvulopathies en Tunisie.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomyopathie hypertrophique obstructive",
+      "definition": "Maladie cardiaque caractérisée par une hypertrophie du muscle cardiaque, souvent avec obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "CMHO"
+      ],
+      "related_terms": [
+        "cardiopathie",
+        "valvulopathie"
+      ],
+      "description": "La cardiomyopathie hypertrophique obstructive expose au risque d'endocardites infectieuses, surtout si un souffle mitral est associé.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tétralogie de Fallot",
+      "definition": "Malformation cardiaque congénitale caractérisée par quatre anomalies : sténose pulmonaire, communication interventriculaire, hypertrophie ventriculaire droite et dextroposition de l'aorte.",
+      "category": "pathologie",
+      "synonyms": [
+        "TOF"
+      ],
+      "related_terms": [
+        "cardiopathie",
+        "valvulopathie"
+      ],
+      "description": "La tétralogie de Fallot est une cardiopathie congénitale prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rétrécissement pulmonaire",
+      "definition": "Obstruction de la valve pulmonaire, limitant le flux sanguin du ventricule droit vers l'artère pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose pulmonaire"
+      ],
+      "related_terms": [
+        "rétrécissement aortique",
+        "insuffisance tricuspide"
+      ],
+      "description": "Le rétrécissement pulmonaire est une cardiopathie congénitale prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coarctation de l'aorte",
+      "definition": "Rétrécissement congénital de l'aorte, limitant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "coarctation aortique"
+      ],
+      "related_terms": [
+        "cardiopathie",
+        "valvulopathie"
+      ],
+      "description": "La coarctation de l'aorte est une cardiopathie congénitale prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canal artériel persistant",
+      "definition": "Malformation cardiaque congénitale où le canal artériel, qui relie l'aorte et l'artère pulmonaire, reste ouvert après la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "canal artériel"
+      ],
+      "related_terms": [
+        "cardiopathie",
+        "valvulopathie"
+      ],
+      "description": "Le canal artériel persistant est une cardiopathie congénitale prédisposant aux endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Candida spp",
+      "definition": "Genre de champignons responsables de diverses infections, y compris les endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Candida"
+      ],
+      "related_terms": [
+        "staphylocoques",
+        "streptocoques"
+      ],
+      "description": "Candida spp sont des champignons qui peuvent causer des infections graves, souvent associés à des grosses végétations.",
+      "expansion": null,
+      "clinical_significance": "Important dans les endocardites infectieuses, surtout chez les immunodéprimés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Streptocoque D",
+      "definition": "Groupe de bactéries Gram-positives, souvent responsables d'infections digestives et d'endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus bovis",
+        "Streptococcus gallolyticus"
+      ],
+      "related_terms": [
+        "entérocoque",
+        "BGN"
+      ],
+      "description": "Les Streptocoques D sont des bactéries qui peuvent causer des infections graves, souvent chez les sujets âgés.",
+      "expansion": null,
+      "clinical_significance": "Important dans les endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CIA",
+      "definition": "Communication interauriculaire, une malformation cardiaque congénitale où il y a une ouverture entre les oreillettes gauche et droite.",
+      "category": "pathologie",
+      "synonyms": [
+        "communication interauriculaire"
+      ],
+      "related_terms": [
+        "cardiopathie",
+        "valvulopathie"
+      ],
+      "description": "La CIA est une cardiopathie congénitale prédisposant aux endocardites infectieuses.",
+      "expansion": "Communication InterAuriculaire",
+      "clinical_significance": "Important dans le contexte des endocardites infectieuses, surtout les insuffisances aortiques et mitrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CMHO",
+      "definition": "Cardiomyopathie Hypertrophique Obstructive, une maladie caractérisée par un épaississement du muscle cardiaque, souvent avec obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cardiomyopathie Hypertrophique Obstructive"
+      ],
+      "related_terms": [
+        "cardiomyopathie",
+        "hypertrophie"
+      ],
+      "description": "La CMHO peut entraîner des symptômes tels que l'essoufflement, la douleur thoracique et les syncopes.",
+      "expansion": null,
+      "clinical_significance": "La CMHO nécessite une gestion médicale et parfois chirurgicale pour prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylococcus aureus methi-S",
+      "definition": "Staphylococcus aureus résistant à la méthicilline, une bactérie à Gram positif responsable d'infections graves et souvent résistantes aux antibiotiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Staphylococcus aureus résistant à la méthicilline",
+        "SARM"
+      ],
+      "related_terms": [
+        "Gram positif",
+        "résistance aux antibiotiques"
+      ],
+      "description": "Le staphylococcus aureus methi-S est souvent impliqué dans des infections nosocomiales et nécessite un traitement antibiotique spécifique.",
+      "expansion": null,
+      "clinical_significance": "Les infections à staphylococcus aureus methi-S peuvent être graves et nécessitent une gestion appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographie transthoracique (ETT)",
+      "definition": "Une technique d'imagerie utilisant des ultrasons pour visualiser le cœur à travers la paroi thoracique.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETT",
+        "échocardiographie transthoracique"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "imagerie cardiaque"
+      ],
+      "description": "L'ETT est utilisée pour évaluer la structure et la fonction cardiaque, y compris les valves et les cavités cardiaques.",
+      "expansion": null,
+      "clinical_significance": "L'ETT est une technique non invasive essentielle pour le diagnostic des maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échocardiographie transœsophagienne (ETO)",
+      "definition": "Une technique d'imagerie utilisant des ultrasons pour visualiser le cœur à travers l'œsophage, offrant une meilleure résolution que l'ETT.",
+      "category": "imagerie",
+      "synonyms": [
+        "ETO",
+        "échocardiographie transœsophagienne"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "imagerie cardiaque"
+      ],
+      "description": "L'ETO est utilisée pour une évaluation plus détaillée des structures cardiaques, notamment les valves et les cavités cardiaques.",
+      "expansion": null,
+      "clinical_significance": "L'ETO est particulièrement utile pour le diagnostic des endocardites et des anomalies valvulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème aigu du poumon (OAP)",
+      "definition": "Une accumulation soudaine de liquide dans les poumons, souvent due à une insuffisance cardiaque gauche.",
+      "category": "pathologie",
+      "synonyms": [
+        "OAP",
+        "œdème aigu du poumon"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "accumulation de liquide"
+      ],
+      "description": "L'OAP se manifeste par une détresse respiratoire sévère et nécessite une intervention médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "L'OAP est une urgence médicale nécessitant une gestion rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bloc auriculo-ventriculaire (BAV)",
+      "definition": "Un trouble de la conduction cardiaque où les impulsions électriques sont retardées ou bloquées entre les oreillettes et les ventricules.",
+      "category": "pathologie",
+      "synonyms": [
+        "BAV",
+        "bloc auriculo-ventriculaire"
+      ],
+      "related_terms": [
+        "conduction cardiaque",
+        "trouble de la conduction"
+      ],
+      "description": "Le BAV peut être de différents degrés et nécessite une surveillance et parfois une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": "Le BAV peut entraîner des arythmies et nécessite une gestion appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrocardiogrammes (ECG)",
+      "definition": "Un enregistrement de l'activité électrique du cœur, utilisé pour diagnostiquer diverses anomalies cardiaques.",
+      "category": "imagerie",
+      "synonyms": [
+        "ECG",
+        "électrocardiogramme"
+      ],
+      "related_terms": [
+        "activité électrique",
+        "diagnostic cardiaque"
+      ],
+      "description": "L'ECG est une technique non invasive essentielle pour le diagnostic des arythmies et des troubles de la conduction.",
+      "expansion": null,
+      "clinical_significance": "L'ECG est un outil de diagnostic clé pour évaluer la fonction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRM cardiaque",
+      "definition": "Une technique d'imagerie par résonance magnétique utilisée pour visualiser le cœur et les structures cardiaques.",
+      "category": "imagerie",
+      "synonyms": [
+        "IRM cardiaque",
+        "imagerie par résonance magnétique cardiaque"
+      ],
+      "related_terms": [
+        "résonance magnétique",
+        "imagerie cardiaque"
+      ],
+      "description": "L'IRM cardiaque est utilisée pour évaluer la structure et la fonction cardiaque, y compris les valves et les cavités cardiaques.",
+      "expansion": null,
+      "clinical_significance": "L'IRM cardiaque est une technique non invasive essentielle pour le diagnostic des maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spondylodiscites",
+      "definition": "Infection des disques intervertébraux et des corps vertébraux adjacents.",
+      "category": "pathologie",
+      "synonyms": [
+        "spondylodiscite"
+      ],
+      "related_terms": [
+        "ostéomyélite",
+        "discite"
+      ],
+      "description": "Infection bactérienne ou fongique des disques intervertébraux et des vertèbres.",
+      "expansion": "Spondylodiscitis",
+      "clinical_significance": "Pathologie nécessitant un traitement antibiotique prolongé et parfois une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "spondylodiscites",
+        "infection vertébrale"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "anévrysmes mycotiques",
+      "definition": "Dilatation anormale de la paroi d'une artère due à une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrisme infectieux"
+      ],
+      "related_terms": [
+        "anévrisme",
+        "infection vasculaire"
+      ],
+      "description": "Complication infectieuse des artères, souvent due à des bactéries comme les streptocoques.",
+      "expansion": "Mycotic Aneurysms",
+      "clinical_significance": "Risque élevé de rupture et d'hémorragie, nécessitant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrysmes mycotiques",
+        "anévrisme infectieux"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "vaisseaux intracrâniens",
+      "definition": "Artères et veines situées à l'intérieur du crâne, irriguant le cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "vaisseaux cérébraux"
+      ],
+      "related_terms": [
+        "artères cérébrales",
+        "veines cérébrales"
+      ],
+      "description": "Réseau vasculaire essentiel pour l'apport sanguin au cerveau.",
+      "expansion": "Intracranial Vessels",
+      "clinical_significance": "Lésions ou occlusions peuvent entraîner des AVC ou des hémorragies cérébrales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vaisseaux intracrâniens",
+        "vaisseaux cérébraux"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "vascularites leucocytoclasiques",
+      "definition": "Inflammation des petits vaisseaux sanguins, souvent due à des dépôts de complexes immuns.",
+      "category": "pathologie",
+      "synonyms": [
+        "vascularite leucocytoclasique"
+      ],
+      "related_terms": [
+        "vascularite",
+        "leucocytoclase"
+      ],
+      "description": "Complication immunologique des endocardites infectieuses, pouvant entraîner des lésions cutanées.",
+      "expansion": "Leucocytoclastic Vasculitis",
+      "clinical_significance": "Nécessite une prise en charge médicale pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularites leucocytoclasiques",
+        "vascularite leucocytoclasique"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "prothèse",
+      "definition": "Dispositif médical implanté pour remplacer une valve cardiaque défectueuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "valve prothétique"
+      ],
+      "related_terms": [
+        "valve native",
+        "valve aortique"
+      ],
+      "description": "Les prothèses valvulaires peuvent être mécaniques ou biologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylocoques résistants à la methicilline",
+      "definition": "Bactéries du genre Staphylococcus qui sont résistantes à la méthicilline, un antibiotique de la famille des pénicillines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "SARM",
+        "MRSA"
+      ],
+      "related_terms": [
+        "Staphylococcus aureus",
+        "antibiorésistance"
+      ],
+      "description": "Ces bactéries sont souvent impliquées dans des infections graves et difficiles à traiter.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bactéries gram négatives non HACCEK",
+      "definition": "Bactéries Gram-négatives qui ne font pas partie du groupe HACCEK (Haemophilus, Actinobacillus, Cardiobacterium, Eikenella, Kingella).",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries Gram-négatives"
+      ],
+      "related_terms": [
+        "HACCEK",
+        "Gram-négatif"
+      ],
+      "description": "Ces bactéries peuvent causer des endocardites infectieuses et nécessitent une antibiothérapie spécifique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EI non compliquées",
+      "definition": "Endocardite infectieuse sans complications majeures, telles que des abcès, des embolies ou une insuffisance cardiaque sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse non compliquée"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "complications"
+      ],
+      "description": "Les EI non compliquées peuvent être traitées avec une antibiothérapie plus courte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valve native",
+      "definition": "Valve cardiaque naturelle, non remplacée par une prothèse.",
+      "category": "anatomie",
+      "synonyms": [
+        "valve naturelle"
+      ],
+      "related_terms": [
+        "valve prothétique",
+        "valve cardiaque"
+      ],
+      "description": "Les valves natives peuvent être affectées par des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "streptocoque sensible à la pénicilline",
+      "definition": "Bactérie du genre Streptococcus qui est sensible à la pénicilline, un antibiotique de la famille des bêta-lactamines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "streptocoque pénicilline-sensible"
+      ],
+      "related_terms": [
+        "Streptococcus",
+        "pénicilline"
+      ],
+      "description": "Ces bactéries peuvent être traitées efficacement avec de la pénicilline.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diurétiques",
+      "definition": "Médicaments qui augmentent la production d'urine, utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "diurétiques"
+      ],
+      "related_terms": [
+        "diurèse",
+        "médicament"
+      ],
+      "description": "Les diurétiques aident à réduire la charge de travail du cœur en diminuant le volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dérivés nitrés",
+      "definition": "Médicaments vasodilatateurs utilisés pour traiter l'angine de poitrine et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "nitrates"
+      ],
+      "related_terms": [
+        "vasodilatateur",
+        "angine de poitrine"
+      ],
+      "description": "Les dérivés nitrés agissent en relaxant les muscles lisses des vaisseaux sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EDC cardiogénique",
+      "definition": "État de choc cardiogénique, une condition où le cœur ne peut pas pomper suffisamment de sang pour répondre aux besoins de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc cardiogénique"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "choc"
+      ],
+      "description": "L'EDC cardiogénique est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparine non fractionnée",
+      "definition": "Anticoagulant utilisé pour prévenir la formation de caillots sanguins, souvent administré par voie intraveineuse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "héparine"
+      ],
+      "related_terms": [
+        "anticoagulant",
+        "héparine de bas poids moléculaire"
+      ],
+      "description": "L'héparine non fractionnée est utilisée dans le traitement et la prévention des thromboses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "porte d'entrée",
+      "definition": "Site initial d'infection ou de colonisation bactérienne qui peut se propager et causer une endocardite infectieuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "site d'entrée"
+      ],
+      "related_terms": [
+        "infection",
+        "colonisation"
+      ],
+      "description": "La porte d'entrée peut être une plaie, une intervention chirurgicale ou une infection dentaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "localisations secondaires",
+      "definition": "Sites d'infection ou de colonisation bactérienne secondaires à la porte d'entrée initiale.",
+      "category": "pathologie",
+      "synonyms": [
+        "sites secondaires"
+      ],
+      "related_terms": [
+        "infection",
+        "colonisation"
+      ],
+      "description": "Les localisations secondaires peuvent inclure les valves cardiaques, les os ou les poumons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESC 2015",
+      "definition": "Recommandations de la Société Européenne de Cardiologie (ESC) publiées en 2015 pour le traitement des endocardites infectieuses.",
+      "category": "classification",
+      "synonyms": [
+        "guidelines ESC 2015"
+      ],
+      "related_terms": [
+        "ESC",
+        "recommandations"
+      ],
+      "description": "Les recommandations ESC 2015 fournissent des lignes directrices pour le diagnostic et le traitement des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endocarditis Team",
+      "definition": "Équipe multidisciplinaire spécialisée dans le traitement des endocardites infectieuses, incluant des cardiologues, des chirurgiens cardiaques, des infectiologues et des anesthésistes.",
+      "category": "classification",
+      "synonyms": [
+        "équipe endocardite"
+      ],
+      "related_terms": [
+        "équipe multidisciplinaire",
+        "endocardite infectieuse"
+      ],
+      "description": "L'Endocarditis Team est essentielle pour une prise en charge optimale des patients atteints d'endocardite infectieuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès périvalvulaire",
+      "definition": "Collection de pus autour d'une valve cardiaque, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès péri-valvulaire"
+      ],
+      "related_terms": [
+        "abcès",
+        "valve cardiaque"
+      ],
+      "description": "Les abcès périvalvulaires peuvent compliquer le traitement des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble neurologique",
+      "definition": "Altération du fonctionnement du système nerveux central ou périphérique, pouvant inclure des symptômes tels que des convulsions, des paralysies ou des troubles de la conscience.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysfonctionnement neurologique"
+      ],
+      "related_terms": [
+        "neurologie",
+        "système nerveux"
+      ],
+      "description": "Les troubles neurologiques peuvent être causés par des infections, des traumatismes ou des maladies dégénératives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microorganismes virulents",
+      "definition": "Microorganismes capables de causer des infections graves en raison de leur capacité à envahir les tissus et à échapper au système immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "microbes virulents"
+      ],
+      "related_terms": [
+        "virulence",
+        "infection"
+      ],
+      "description": "Les microorganismes virulents peuvent inclure des bactéries, des virus, des champignons et des parasites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie cardiaque",
+      "definition": "Intervention chirurgicale sur le cœur ou les gros vaisseaux sanguins, souvent réalisée pour traiter des maladies cardiaques graves.",
+      "category": "anatomie",
+      "synonyms": [
+        "chirurgie du cœur"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "cœur"
+      ],
+      "description": "La chirurgie cardiaque peut inclure des procédures telles que le remplacement valvulaire ou le pontage coronarien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie à risque",
+      "definition": "Intervention chirurgicale comportant un risque élevé de complications ou de mortalité.",
+      "category": "anatomie",
+      "synonyms": [
+        "chirurgie risquée"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "risque"
+      ],
+      "description": "Les chirurgies à risque nécessitent une évaluation minutieuse et une prise en charge spécialisée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème aigu pulmonaire (OAP)",
+      "definition": "Accumulation rapide de liquide dans les poumons, souvent due à une insuffisance cardiaque aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème pulmonaire aigu"
+      ],
+      "related_terms": [
+        "œdème",
+        "insuffisance cardiaque"
+      ],
+      "description": "L'OAP est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "homogreffe",
+      "definition": "Greffe de tissu ou d'organe provenant d'un donneur de la même espèce.",
+      "category": "anatomie",
+      "synonyms": [
+        "allogreffe"
+      ],
+      "related_terms": [
+        "greffe",
+        "donneur"
+      ],
+      "description": "Les homogreffes sont souvent utilisées en chirurgie cardiaque pour remplacer des valves défectueuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "végetectomies",
+      "definition": "Procédure chirurgicale consistant à enlever les végétations infectieuses des valves cardiaques.",
+      "category": "anatomie",
+      "synonyms": [
+        "végetectomie"
+      ],
+      "related_terms": [
+        "végétation",
+        "chirurgie"
+      ],
+      "description": "Les végetectomies sont réalisées pour traiter les endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plastie mitrale",
+      "definition": "Intervention chirurgicale visant à réparer la valve mitrale pour améliorer sa fonction.",
+      "category": "anatomie",
+      "synonyms": [
+        "réparation mitrale"
+      ],
+      "related_terms": [
+        "valve mitrale",
+        "chirurgie"
+      ],
+      "description": "La plastie mitrale est souvent réalisée pour traiter l'insuffisance mitrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès",
+      "definition": "Collection de pus due à une infection bactérienne, souvent localisée dans les tissus mous.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès"
+      ],
+      "related_terms": [
+        "pus",
+        "infection"
+      ],
+      "description": "Les abcès peuvent compliquer le traitement des endocardites infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "patch",
+      "definition": "Matériau utilisé pour fermer une fistule ou réparer une déchirure dans un tissu ou une valve cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "patch"
+      ],
+      "related_terms": [
+        "fistule",
+        "réparation"
+      ],
+      "description": "Les patchs sont souvent utilisés en chirurgie cardiaque pour réparer des défauts anatomiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothèse valvulaire",
+      "definition": "Dispositif artificiel implanté pour remplacer une valve cardiaque défectueuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "valve prothétique"
+      ],
+      "related_terms": [
+        "EI",
+        "cardiopathie congénitale"
+      ],
+      "description": "Les prothèses valvulaires peuvent être mécaniques ou biologiques et sont utilisées pour traiter les valvulopathies sévères.",
+      "expansion": "Prothèse Valvulaire",
+      "clinical_significance": "Important dans la gestion des valvulopathies sévères.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "prothèse valvulaire",
+        "valve replacement"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiopathie congénitale cyanogène",
+      "definition": "Malformation cardiaque présente à la naissance entraînant une cyanose due à un mélange de sang désoxygéné et oxygéné.",
+      "category": "pathologie",
+      "synonyms": [
+        "cardiopathie congénitale avec cyanose"
+      ],
+      "related_terms": [
+        "EI",
+        "prothèse valvulaire"
+      ],
+      "description": "Les cardiopathies congénitales cyanogènes incluent des anomalies comme la tétralogie de Fallot et la transposition des gros vaisseaux.",
+      "expansion": "Cardiopathie Congénitale Cyanogène",
+      "clinical_significance": "Pathologie grave nécessitant souvent une intervention chirurgicale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cardiopathie congénitale cyanogène",
+        "cyanotic congenital heart disease"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicuspidie aortique",
+      "definition": "Anomalie congénitale où la valve aortique possède deux feuillets au lieu de trois.",
+      "category": "anatomie",
+      "synonyms": [
+        "valve aortique bicuspide"
+      ],
+      "related_terms": [
+        "valvulopathie",
+        "EI"
+      ],
+      "description": "La bicuspidie aortique est une cause fréquente de sténose aortique et d'insuffisance aortique.",
+      "expansion": "Bicuspidie Aortique",
+      "clinical_significance": "Anomalie congénitale fréquente avec des implications cliniques importantes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bicuspidie aortique",
+        "bicuspid aortic valve"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clindamycine",
+      "definition": "Antibiotique de la classe des lincosamides utilisé pour traiter diverses infections bactériennes, notamment en cas d'allergie aux bêta-lactamines.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "bêta-lactamines",
+        "Amoxicilline"
+      ],
+      "description": "La clindamycine est une alternative importante pour les patients allergiques aux bêta-lactamines.",
+      "expansion": "Clindamycine",
+      "clinical_significance": "Antibiotique de choix en cas d'allergie aux bêta-lactamines.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Clindamycine",
+        "clindamycin"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Brucella spp",
+      "definition": "Genre de bactéries responsables de la brucellose, une zoonose pouvant causer des endocardites infectieuses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Brucella"
+      ],
+      "related_terms": [
+        "EI",
+        "Coxiella burnetii"
+      ],
+      "description": "Brucella spp est une cause rare mais importante d'endocardite infectieuse, souvent associée à des rechutes.",
+      "expansion": "Brucella species",
+      "clinical_significance": "Agent pathogène important dans les endocardites infectieuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Brucella spp",
+        "brucellosis"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endocardites fongiques",
+      "definition": "Infections de l'endocarde causées par des champignons, souvent associées à une mortalité élevée.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite fongique"
+      ],
+      "related_terms": [
+        "EI",
+        "Staphylocoque"
+      ],
+      "description": "Les endocardites fongiques sont rares mais graves, souvent nécessitant un traitement antifongique prolongé.",
+      "expansion": "Endocardites Fongiques",
+      "clinical_significance": "Infection grave avec une mortalité élevée.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "endocardites fongiques",
+        "fungal endocarditis"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Régurgitation valvulaire",
+      "definition": "Fuite de sang à travers une valve cardiaque fermée, entraînant un reflux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance valvulaire"
+      ],
+      "related_terms": [
+        "EI",
+        "HTAP"
+      ],
+      "description": "La régurgitation valvulaire peut être due à diverses causes, y compris les endocardites infectieuses.",
+      "expansion": "Régurgitation Valvulaire",
+      "clinical_significance": "Pathologie cardiaque pouvant entraîner une insuffisance cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "régurgitation valvulaire",
+        "valvular regurgitation"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Placard érythémateux de Janeway",
+      "definition": "Lésion cutanée érythémateuse non douloureuse, souvent observée dans les endocardites infectieuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "EI",
+        "faux panaris d'Osler"
+      ],
+      "description": "Le placard érythémateux de Janeway est un signe clinique important dans le diagnostic des endocardites infectieuses.",
+      "expansion": "Placard érythémateux de Janeway",
+      "clinical_significance": "Signe clinique important dans les endocardites infectieuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "placard érythémateux de Janeway",
+        "Janeway lesions"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tache de Roth",
+      "definition": "Hémorragie rétinienne observée dans les endocardites infectieuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "EI",
+        "végétation"
+      ],
+      "description": "La tache de Roth est un signe clinique important dans le diagnostic des endocardites infectieuses.",
+      "expansion": "Tache de Roth",
+      "clinical_significance": "Signe clinique important dans les endocardites infectieuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "tache de Roth",
+        "Roth spots"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Abcès cardiaque",
+      "definition": "Collection de pus dans le tissu cardiaque, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "EI",
+        "végétation"
+      ],
+      "description": "Les abcès cardiaques sont des complications graves des endocardites infectieuses, souvent nécessitant une intervention chirurgicale.",
+      "expansion": "Abcès Cardiaque",
+      "clinical_significance": "Complication grave des endocardites infectieuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "abcès cardiaque",
+        "cardiac abscess"
+      ],
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "source_file": "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Endocardites Infectieuses/Courses/25 L’endocardite infectieuse.md"
+  ],
+  "total_terms": 162
+}

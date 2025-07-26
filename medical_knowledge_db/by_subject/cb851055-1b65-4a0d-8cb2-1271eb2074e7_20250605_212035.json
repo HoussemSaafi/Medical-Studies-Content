@@ -1,0 +1,2638 @@
+{
+  "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+  "terms": [
+    {
+      "term": "ischémie aiguë",
+      "definition": "Interruption brutale du flux sanguin et de l'irrigation tissulaire suite à une oblitération artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie aiguë des membres"
+      ],
+      "related_terms": [
+        "oblitération artérielle",
+        "syndrome de revascularisation"
+      ],
+      "description": "L'ischémie aiguë des membres est une urgence médico-chirurgicale qui peut compromettre le pronostic fonctionnel du membre et le pronostic vital du patient.",
+      "expansion": null,
+      "clinical_significance": "Urgence médico-chirurgicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie aiguë des membres",
+        "oblitération artérielle"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularisation artérielle",
+      "definition": "Réseau de vaisseaux sanguins qui transportent le sang oxygéné depuis le cœur vers les différentes parties du corps.",
+      "category": "anatomie",
+      "synonyms": [
+        "circulation artérielle"
+      ],
+      "related_terms": [
+        "artère axillaire",
+        "artère brachiale",
+        "artère fémorale"
+      ],
+      "description": "La vascularisation artérielle des membres est essentielle pour assurer l'apport en oxygène et en nutriments aux tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularisation artérielle des membres",
+        "circulation artérielle"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "étio-pathogéniques",
+      "definition": "Relatif aux causes et aux mécanismes de développement d'une maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "étiopathogénie"
+      ],
+      "related_terms": [
+        "ischémie aiguë",
+        "oblitération artérielle"
+      ],
+      "description": "Les mécanismes étio-pathogéniques expliquent comment une maladie se développe à partir de ses causes initiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "étiopathogénie",
+        "mécanismes de développement de maladie"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de revascularisation",
+      "definition": "Ensemble des conséquences physiopathologiques qui surviennent lors de la restauration du flux sanguin après une période d'ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "reperfusion syndrome"
+      ],
+      "related_terms": [
+        "ischémie aiguë",
+        "reperfusion"
+      ],
+      "description": "Le syndrome de revascularisation peut entraîner des dommages supplémentaires aux tissus en raison de la production de radicaux libres et de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": "Important à surveiller pour minimiser les dommages tissulaires après une intervention de revascularisation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de revascularisation",
+        "reperfusion"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IAM",
+      "definition": "Ischémie Aiguë des Membres.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "ischémie aiguë",
+        "oblitération artérielle"
+      ],
+      "description": "L'IAM est une urgence médico-chirurgicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "expansion": "Ischémie Aiguë des Membres",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IAM",
+        "Ischémie Aiguë des Membres"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère axillaire",
+      "definition": "Artère principale qui irrigue le membre supérieur, faisant suite à l'artère subclavière.",
+      "category": "anatomie",
+      "synonyms": [
+        "axillary artery"
+      ],
+      "related_terms": [
+        "artère subclavière",
+        "artère brachiale"
+      ],
+      "description": "L'artère axillaire est en rapport avec les faisceaux du plexus brachial et donne plusieurs collatérales importantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère axillaire",
+        "vascularisation membre supérieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère brachiale",
+      "definition": "Artère principale du bras, faisant suite à l'artère axillaire et se terminant en artère radiale et ulnaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "brachial artery"
+      ],
+      "related_terms": [
+        "artère axillaire",
+        "artère radiale",
+        "artère ulnaire"
+      ],
+      "description": "L'artère brachiale chemine dans le canal brachial et fournit plusieurs collatérales importantes pour la vascularisation du bras.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère brachiale",
+        "vascularisation du bras"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère radiale",
+      "definition": "Artère du membre supérieur qui naît de la bifurcation de l'artère brachiale et se termine par une anastomose avec l'artère ulnaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "radial artery"
+      ],
+      "related_terms": [
+        "artère brachiale",
+        "artère ulnaire"
+      ],
+      "description": "L'artère radiale est palpable à la face antérieure de la styloïde radiale et constitue une voie de choix pour la ponction artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère radiale",
+        "vascularisation membre supérieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère ulnaire",
+      "definition": "Artère du membre supérieur qui naît de la bifurcation de l'artère brachiale et se termine par une anastomose avec l'artère radiale.",
+      "category": "anatomie",
+      "synonyms": [
+        "ulnar artery"
+      ],
+      "related_terms": [
+        "artère brachiale",
+        "artère radiale"
+      ],
+      "description": "L'artère ulnaire chemine dans la loge antérieure de l'avant-bras et est palpable dans le canal de Guyon.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère ulnaire",
+        "vascularisation membre supérieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère iliaque externe",
+      "definition": "Artère principale du membre inférieur, faisant suite à l'artère iliaque commune et se continuant par l'artère fémorale.",
+      "category": "anatomie",
+      "synonyms": [
+        "external iliac artery"
+      ],
+      "related_terms": [
+        "artère iliaque commune",
+        "artère fémorale"
+      ],
+      "description": "L'artère iliaque externe donne plusieurs collatérales importantes pour la vascularisation du membre inférieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère iliaque externe",
+        "vascularisation membre inférieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère fémorale",
+      "definition": "Artère principale du membre inférieur, faisant suite à l'artère iliaque externe et se continuant par l'artère poplitée.",
+      "category": "anatomie",
+      "synonyms": [
+        "femoral artery"
+      ],
+      "related_terms": [
+        "artère iliaque externe",
+        "artère poplitée"
+      ],
+      "description": "L'artère fémorale donne plusieurs collatérales importantes pour la vascularisation de la cuisse et de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère fémorale",
+        "vascularisation membre inférieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère poplitée",
+      "definition": "Artère du membre inférieur qui passe derrière le genou et se termine en se bifurquant en artère tibiale antérieure et tronc tibio-fibulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "popliteal artery"
+      ],
+      "related_terms": [
+        "artère fémorale",
+        "artère tibiale antérieure"
+      ],
+      "description": "L'artère poplitée donne plusieurs collatérales importantes pour la vascularisation du genou et de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère poplitée",
+        "vascularisation membre inférieur"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère tibiale antérieure",
+      "definition": "Branche latérale de la bifurcation de l'artère poplitée, vascularisant les loges antérieure et latérale de la jambe.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère tibiale antérieure"
+      ],
+      "related_terms": [
+        "artère poplitée",
+        "artère dorsale du pied"
+      ],
+      "description": "Elle descend obliquement en bas et en dehors pour traverser l'espace interosseux vers l'avant et se termine en donnant l'artère dorsale du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère tibiale antérieure",
+        "anatomie jambe"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère dorsale du pied",
+      "definition": "Artère terminale de l'artère tibiale antérieure, vascularisant le dos du pied.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère pédieuse"
+      ],
+      "related_terms": [
+        "artère tibiale antérieure"
+      ],
+      "description": "Elle est palpable au niveau de la face antérieure de la cheville.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère dorsale du pied",
+        "anatomie pied"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tronc tibio-fibulaire",
+      "definition": "Branche médiale de la bifurcation de l'artère poplitée, se divisant en artère tibiale postérieure et artère fibulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "tronc tibio-fibulaire"
+      ],
+      "related_terms": [
+        "artère poplitée",
+        "artère tibiale postérieure",
+        "artère fibulaire"
+      ],
+      "description": "Il vascularise les loges postérieure et latérale de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tronc tibio-fibulaire",
+        "anatomie jambe"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère tibiale postérieure",
+      "definition": "Artère descendant verticalement dans la loge postérieure de la jambe, accompagnée de ses veines tibiales postérieures.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère tibiale postérieure"
+      ],
+      "related_terms": [
+        "tronc tibio-fibulaire",
+        "artère fibulaire"
+      ],
+      "description": "Elle se dirige médialement vers la gouttière rétro-malléolaire médiale où elle peut être palpée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère tibiale postérieure",
+        "anatomie jambe"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère fibulaire",
+      "definition": "Artère issue du tronc tibio-fibulaire, vascularisant la loge postérieure de la jambe.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère fibulaire"
+      ],
+      "related_terms": [
+        "tronc tibio-fibulaire",
+        "artère tibiale postérieure"
+      ],
+      "description": "Elle accompagne l'artère tibiale postérieure dans la loge postérieure de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère fibulaire",
+        "anatomie jambe"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère fémorale commune",
+      "definition": "Artère principale de la cuisse, se divisant en artère fémorale superficielle et artère fémorale profonde.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère fémorale commune"
+      ],
+      "related_terms": [
+        "artère iliaque",
+        "aorte"
+      ],
+      "description": "Elle est une localisation fréquente pour les embolies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère fémorale commune",
+        "anatomie cuisse"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère iliaque",
+      "definition": "Artère principale du bassin, se divisant en artère iliaque externe et artère iliaque interne.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère iliaque"
+      ],
+      "related_terms": [
+        "aorte",
+        "artère fémorale commune"
+      ],
+      "description": "Elle est une localisation possible pour les embolies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère iliaque",
+        "anatomie bassin"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère humérale",
+      "definition": "Artère principale du bras, se divisant en artère radiale et artère ulnaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère humérale"
+      ],
+      "related_terms": [
+        "aorte",
+        "artère fémorale commune"
+      ],
+      "description": "Elle est une localisation possible pour les embolies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère humérale",
+        "anatomie bras"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathie oblitérante",
+      "definition": "Maladie caractérisée par l'obstruction des artères, souvent due à l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [
+        "artériopathie oblitérante"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "ischémie"
+      ],
+      "description": "Elle est souvent associée à des lésions athéromateuses fémorojambières.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artériopathie oblitérante",
+        "athérosclérose"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arythmie complète par fibrillation auriculaire",
+      "definition": "Trouble du rythme cardiaque caractérisé par une contraction désorganisée des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "ACFA"
+      ],
+      "related_terms": [
+        "fibrillation auriculaire",
+        "arythmie"
+      ],
+      "description": "Elle est une cause fréquente d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "arythmie complète par fibrillation auriculaire",
+        "fibrillation auriculaire"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "foramen ovale perméable",
+      "definition": "Ouverture anormale entre les oreillettes droite et gauche du cœur, permettant le passage de sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "foramen ovale perméable"
+      ],
+      "related_terms": [
+        "hypertension artérielle pulmonaire",
+        "thrombose veineuse profonde"
+      ],
+      "description": "Il peut être impliqué dans les embolies paradoxales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "foramen ovale perméable",
+        "anatomie cardiaque"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose veineuse profonde",
+      "definition": "Formation d'un caillot sanguin dans les veines profondes, souvent des membres inférieurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "TVP"
+      ],
+      "related_terms": [
+        "embolie",
+        "thrombose"
+      ],
+      "description": "Elle peut entraîner des embolies paradoxales en présence d'un foramen ovale perméable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose veineuse profonde",
+        "veines profondes"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrisme mycotique",
+      "definition": "Dilatation infectieuse de la paroi d'une artère, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrisme mycotique"
+      ],
+      "related_terms": [
+        "endocardite infectieuse",
+        "emboles septiques"
+      ],
+      "description": "Il peut être secondaire à une endocardite infectieuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrisme mycotique",
+        "anévrisme infectieux"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athéromateuses fémorojambières",
+      "definition": "Lésions des artères fémorales et jambières dues à l'accumulation de plaques d'athérome.",
+      "category": "pathologie",
+      "synonyms": [
+        "athéromateuses fémorojambières"
+      ],
+      "related_terms": [
+        "artériopathie oblitérante",
+        "athérosclérose"
+      ],
+      "description": "Elles sont souvent associées à des antécédents cardiologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "athéromateuses fémorojambières",
+        "athérosclérose"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pathologie mitrale",
+      "definition": "Maladie affectant la valve mitrale du cœur, pouvant entraîner des troubles de la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "pathologie mitrale"
+      ],
+      "related_terms": [
+        "valvulopathies",
+        "arythmie cardiaque"
+      ],
+      "description": "Elle peut être associée à des lésions athéromateuses fémorojambières.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pathologie mitrale",
+        "valve mitrale"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thromboses aiguës",
+      "definition": "Formation soudaine d'un caillot sanguin dans une artère, souvent due à des anomalies métaboliques ou des agressions pariétales.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboses aiguës"
+      ],
+      "related_terms": [
+        "artériopathie sousjacente",
+        "crasse sanguine"
+      ],
+      "description": "Elles peuvent entraîner une ischémie sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thromboses aiguës",
+        "caillot sanguin"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathie sousjacente",
+      "definition": "Maladie sous-jacente des artères, souvent due à l'athérosclérose, entraînant des troubles de la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "artériopathie sousjacente"
+      ],
+      "related_terms": [
+        "thromboses aiguës",
+        "crasse sanguine"
+      ],
+      "description": "Elle peut aggraver la sévérité du tableau clinique en cas de thrombose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artériopathie sousjacente",
+        "athérosclérose"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crasse sanguine",
+      "definition": "Terme désuet pour désigner les anomalies de la coagulation sanguine, souvent utilisée dans le contexte des thromboses.",
+      "category": "pathologie",
+      "synonyms": [
+        "crasse sanguine"
+      ],
+      "related_terms": [
+        "thromboses aiguës",
+        "artériopathie sousjacente"
+      ],
+      "description": "Elle peut entraîner des thromboses aiguës sur des artères saines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "crasse sanguine",
+        "coagulation sanguine"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pièges vasculaires",
+      "definition": "Compressions extrinsèques des vaisseaux par des structures péri-vasculaires, entraînant des lésions intimales ou des dilatations anévrismales.",
+      "category": "pathologie",
+      "synonyms": [
+        "pièges vasculaires"
+      ],
+      "related_terms": [
+        "syndrome de l'artère poplitée piégée",
+        "anévrismales post-sténotiques"
+      ],
+      "description": "Ils peuvent exposer à des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pièges vasculaires",
+        "compression vasculaire"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de l'artère poplitée piégée",
+      "definition": "Compression de l'artère poplitée par un élément musculo-aponévrotique, souvent bilatérale et congénitale.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de l'artère poplitée piégée"
+      ],
+      "related_terms": [
+        "pièges vasculaires",
+        "thrombose"
+      ],
+      "description": "Il peut entraîner des thromboses et des embolies distales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de l'artère poplitée piégée",
+        "compression artère poplitée"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échodoppler artériel",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "échodoppler artériel"
+      ],
+      "related_terms": [
+        "artériographie",
+        "angioscanner"
+      ],
+      "description": "Il est utilisé pour diagnostiquer des anomalies vasculaires comme le syndrome de l'artère poplitée piégée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "échodoppler artériel",
+        "imagerie vasculaire"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioscanner",
+      "definition": "Technique d'imagerie utilisant le scanner et un produit de contraste pour visualiser les vaisseaux sanguins.",
+      "category": "imagerie",
+      "synonyms": [
+        "angioscanner"
+      ],
+      "related_terms": [
+        "échodoppler artériel",
+        "artériographie"
+      ],
+      "description": "Il est utilisé pour diagnostiquer des anomalies vasculaires comme le syndrome de l'artère poplitée piégée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "angioscanner",
+        "imagerie vasculaire"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome du défilé thoracobrachial",
+      "definition": "Syndrome causé par la compression du paquet vasculonerveux du membre supérieur dans le défilé thoracobrachial.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de la traversée thoraco brachiale"
+      ],
+      "description": "Ce syndrome peut être causé par des anomalies anatomiques comme une hypertrophie des scalènes ou la présence d'une côte cervicale surnuméraire.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des symptômes neurologiques et vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "défilé thoracobrachial",
+        "paquet vasculonerveux"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électromyogramme",
+      "definition": "Examen diagnostique qui mesure l'activité électrique des muscles au repos et pendant la contraction.",
+      "category": "imagerie",
+      "synonyms": [
+        "EMG"
+      ],
+      "related_terms": [],
+      "description": "Utilisé pour diagnostiquer les maladies neuromusculaires.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic des syndromes de compression nerveuse.",
+      "normal_values": "",
+      "image_search_terms": [
+        "électromyogramme",
+        "EMG"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlegmatiacaerulea",
+      "definition": "Association d'une thrombophlébite et d'un spasme artériel par contiguïté, responsable d'ischémie aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "phlébite bleue"
+      ],
+      "related_terms": [
+        "thrombophlébite",
+        "spasme artériel"
+      ],
+      "description": "Condition grave nécessitant une intervention médicale immédiate.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner une ischémie aiguë des membres.",
+      "normal_values": "",
+      "image_search_terms": [
+        "phlegmatiacaerulea",
+        "phlébite bleue"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spasme artériel",
+      "definition": "Contraction involontaire et prolongée d'une artère, réduisant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "phlegmatiacaerulea"
+      ],
+      "description": "Peut être causé par divers facteurs, y compris des médicaments ou des maladies vasculaires.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner une ischémie aiguë.",
+      "normal_values": "",
+      "image_search_terms": [
+        "spasme artériel",
+        "contraction artérielle"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperviscosité sanguine",
+      "definition": "Augmentation anormale de la viscosité du sang, souvent due à une augmentation des protéines ou des cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémoconcentrations",
+        "hyperprotidémies",
+        "hémoglobinopathies",
+        "hyperthrombocytémies",
+        "hyperleucocytoses",
+        "polyglobulies"
+      ],
+      "description": "Peut entraîner des complications vasculaires et thrombotiques.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une prise en charge pour réduire la viscosité sanguine.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hyperviscosité sanguine",
+        "viscosité du sang"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome des anticorps antiphospholipides",
+      "definition": "Syndrome caractérisé par des thromboses artérielles et veineuses récidivantes associées à la présence d'anticorps antiphospholipides.",
+      "category": "pathologie",
+      "synonyms": [
+        "SAPL"
+      ],
+      "related_terms": [
+        "connectivite",
+        "SAPL secondaire"
+      ],
+      "description": "Peut être primaire ou secondaire à une connectivite.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une prise en charge spécifique pour prévenir les thromboses.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome des anticorps antiphospholipides",
+        "SAPL"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombopénie immunoallergique induite par l'héparine",
+      "definition": "Réduction des plaquettes sanguines due à une réaction immunoallergique à l'héparine, augmentant le risque de thrombose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "héparine non fractionnée",
+        "héparine de bas poids moléculaire"
+      ],
+      "description": "Nécessite l'arrêt de l'héparine et un traitement alternatif.",
+      "expansion": "",
+      "clinical_significance": "Condition grave nécessitant une intervention immédiate.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thrombopénie immunoallergique",
+        "héparine"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstricteurs artériels",
+      "definition": "Substances ou médicaments qui provoquent la contraction des artères, réduisant le flux sanguin.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "ergot de seigle",
+        "cocaïne"
+      ],
+      "description": "Peuvent entraîner un spasme artériel et une ischémie.",
+      "expansion": "",
+      "clinical_significance": "Important de surveiller l'usage de ces substances.",
+      "normal_values": "",
+      "image_search_terms": [
+        "vasoconstricteurs artériels",
+        "spasme artériel"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathie controlatérale",
+      "definition": "Maladie des artères affectant le côté opposé du corps par rapport à la lésion principale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "claudication intermittente"
+      ],
+      "description": "Peut indiquer une maladie vasculaire généralisée.",
+      "expansion": "",
+      "clinical_significance": "Important pour l'évaluation globale de la santé vasculaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artériopathie controlatérale",
+        "maladie vasculaire"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie intraplaque",
+      "definition": "Saignement à l'intérieur d'une plaque athéromateuse, pouvant entraîner une instabilité de la plaque et une thrombose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose artérielle"
+      ],
+      "description": "Facteur de risque pour les événements cardiovasculaires aigus.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une intervention pour stabiliser la plaque.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémorragie intraplaque",
+        "plaque athéromateuse"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyglobulie",
+      "definition": "Augmentation anormale du nombre de globules rouges dans le sang, souvent due à une hypoxie chronique ou à une maladie myéloproliférative.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Peut entraîner une hyperviscosité sanguine et un risque accru de thrombose.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une évaluation et un traitement pour réduire le nombre de globules rouges.",
+      "normal_values": "",
+      "image_search_terms": [
+        "polyglobulie",
+        "globules rouges"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose aiguë",
+      "definition": "Formation rapide d'un caillot sanguin dans une artère, obstruant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose artérielle"
+      ],
+      "description": "Peut entraîner une ischémie aiguë et nécessite une intervention immédiate.",
+      "expansion": "",
+      "clinical_significance": "Urgence médicale nécessitant une revascularisation rapide.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thrombose aiguë",
+        "caillot sanguin"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathies inflammatoires",
+      "definition": "Maladies inflammatoires affectant les artères, souvent d'origine auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Takayashu",
+        "périartérite noueuse"
+      ],
+      "description": "Peuvent entraîner des sténoses, des occlusions et des anévrismes.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une évaluation et un traitement pour contrôler l'inflammation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artériopathies inflammatoires",
+        "maladies vasculaires"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Takayashu",
+      "definition": "Artérite inflammatoire chronique affectant principalement l'aorte et ses branches principales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "artériopathies inflammatoires"
+      ],
+      "description": "Peut entraîner des sténoses, des occlusions et des anévrismes.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une évaluation et un traitement pour contrôler l'inflammation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "maladie de Takayashu",
+        "artérite"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathies des artères de petit calibre",
+      "definition": "Maladies affectant les petites artères, souvent d'origine inflammatoire ou auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Buerger",
+        "sclérodermie"
+      ],
+      "description": "Peuvent entraîner des occlusions et des ischémies tissulaires.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une évaluation et un traitement pour contrôler l'inflammation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artériopathies des artères de petit calibre",
+        "maladies vasculaires"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Buerger",
+      "definition": "Vasculite inflammatoire affectant les petites et moyennes artères des extrémités, souvent associée au tabagisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "artériopathies des artères de petit calibre"
+      ],
+      "description": "Peut entraîner des occlusions et des ischémies tissulaires.",
+      "expansion": "",
+      "clinical_significance": "Nécessite l'arrêt du tabac et un traitement pour contrôler l'inflammation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "maladie de Buerger",
+        "vasculite"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose d'un pontage",
+      "definition": "Formation d'un caillot sanguin dans un pontage artériel, obstruant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose aiguë"
+      ],
+      "description": "Peut entraîner une ischémie aiguë et nécessite une intervention immédiate.",
+      "expansion": "",
+      "clinical_significance": "Urgence médicale nécessitant une revascularisation rapide.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thrombose d'un pontage",
+        "caillot sanguin"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissection",
+      "definition": "Déchirure de la paroi d'une artère, créant un faux chenal qui peut comprimer le vrai chenal et obstruer le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dissection aortique"
+      ],
+      "description": "Peut entraîner une ischémie aiguë et nécessite une intervention immédiate.",
+      "expansion": "",
+      "clinical_significance": "Urgence médicale nécessitant une intervention chirurgicale ou endovasculaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "dissection",
+        "déchirure artérielle"
+      ],
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasodilatation capillaire",
+      "definition": "Augmentation du diamètre des capillaires sanguins, facilitant le flux sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "dilatation capillaire"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "vasodilatation"
+      ],
+      "description": "La vasodilatation capillaire est un mécanisme physiologique qui permet d'augmenter le flux sanguin dans les capillaires, souvent en réponse à une diminution de l'apport en oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stase",
+      "definition": "Ralentissement ou arrêt de la circulation sanguine ou lymphatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "stagnation"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "La stase est une condition où le flux sanguin ou lymphatique est ralenti ou arrêté, pouvant entraîner des complications telles que des thromboses ou des œdèmes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métabolites acides",
+      "definition": "Produits du métabolisme cellulaire qui sont acides, souvent résultant de l'anaérobiose.",
+      "category": "physiologie",
+      "synonyms": [
+        "produits acides"
+      ],
+      "related_terms": [
+        "lactate",
+        "pyruvate"
+      ],
+      "description": "Les métabolites acides sont des sous-produits du métabolisme cellulaire qui peuvent acidifier le milieu tissulaire, souvent en réponse à une anaérobiose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de loge",
+      "definition": "Condition où la pression interstitielle dans un compartiment musculaire augmente, compromettant la circulation sanguine et nerveuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome des loges"
+      ],
+      "related_terms": [
+        "aponévrotomie",
+        "ischémie"
+      ],
+      "description": "Le syndrome de loge est une urgence médicale où l'augmentation de la pression dans un compartiment musculaire peut entraîner des dommages tissulaires et nerveux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévrotomie",
+      "definition": "Procédure chirurgicale consistant à inciser l'aponévrose pour soulager la pression dans un compartiment musculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "fasciotomie"
+      ],
+      "related_terms": [
+        "syndrome de loge",
+        "ischémie"
+      ],
+      "description": "L'aponévrotomie est une intervention chirurgicale utilisée pour traiter le syndrome de loge en réduisant la pression interstitielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose tubulaire aiguë (NTA)",
+      "definition": "Lésion aiguë des tubules rénaux, souvent due à une ischémie ou à des toxines, entraînant une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose tubulaire aiguë"
+      ],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "ischémie rénale"
+      ],
+      "description": "La nécrose tubulaire aiguë est une condition où les tubules rénaux sont endommagés, souvent en réponse à une ischémie ou à des toxines, entraînant une insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoxémie aiguë",
+      "definition": "Diminution soudaine de la saturation en oxygène dans le sang artériel.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoxémie"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "insuffisance respiratoire"
+      ],
+      "description": "L'hypoxémie aiguë est une condition où la saturation en oxygène dans le sang artériel diminue soudainement, souvent en réponse à une insuffisance respiratoire ou circulatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "micro embolies pulmonaires",
+      "definition": "Petites embolies qui obstruent les petites artères pulmonaires, entraînant des troubles respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "micro-embolies pulmonaires"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "thrombose"
+      ],
+      "description": "Les micro embolies pulmonaires sont de petites embolies qui obstruent les petites artères pulmonaires, entraînant des troubles respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie nerveuse",
+      "definition": "Réduction de l'apport sanguin aux nerfs, entraînant des dysfonctionnements nerveux.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie neurale"
+      ],
+      "related_terms": [
+        "ischémie",
+        "neuropathie"
+      ],
+      "description": "L'ischémie nerveuse est une condition où l'apport sanguin aux nerfs est réduit, entraînant des dysfonctionnements nerveux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pouls fémoral",
+      "definition": "Pouls palpable au niveau de l'artère fémorale, située dans la région inguinale.",
+      "category": "anatomie",
+      "synonyms": [
+        "pouls de l'artère fémorale"
+      ],
+      "related_terms": [
+        "pouls radial",
+        "pouls pédieux"
+      ],
+      "description": "Le pouls fémoral est le pouls palpable au niveau de l'artère fémorale, utilisé pour évaluer la circulation sanguine dans les membres inférieurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusion iliaque",
+      "definition": "Obstruction de l'artère iliaque, entraînant une ischémie des membres inférieurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion de l'artère iliaque"
+      ],
+      "related_terms": [
+        "occlusion artérielle",
+        "ischémie"
+      ],
+      "description": "L'occlusion iliaque est une obstruction de l'artère iliaque, entraînant une ischémie des membres inférieurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie Doppler artériel",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "Doppler artériel"
+      ],
+      "related_terms": [
+        "échographie",
+        "angiographie"
+      ],
+      "description": "L'échographie Doppler artériel est une technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les artères, souvent utilisée pour diagnostiquer des troubles vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "opacifications artérielles",
+      "definition": "Techniques d'imagerie utilisant des agents de contraste pour visualiser les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie"
+      ],
+      "related_terms": [
+        "artériographie",
+        "scanner"
+      ],
+      "description": "Les opacifications artérielles sont des techniques d'imagerie utilisant des agents de contraste pour visualiser les artères, souvent utilisées pour diagnostiquer des obstructions ou des anomalies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arteriographie",
+      "definition": "Technique d'imagerie utilisant un agent de contraste pour visualiser les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie"
+      ],
+      "related_terms": [
+        "artériographie",
+        "scanner"
+      ],
+      "description": "L'artériographie est une technique d'imagerie utilisant un agent de contraste pour visualiser les artères, souvent utilisée pour diagnostiquer des obstructions ou des anomalies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Angio IRM",
+      "definition": "Technique d'imagerie utilisant l'IRM avec injection de produit de contraste pour visualiser les vaisseaux sanguins.",
+      "category": "imagerie",
+      "synonyms": [
+        "angio-IRM"
+      ],
+      "related_terms": [
+        "angiographie",
+        "IRM"
+      ],
+      "description": "L'Angio IRM est une technique d'imagerie utilisant l'IRM avec injection de produit de contraste pour visualiser les vaisseaux sanguins, souvent utilisée pour diagnostiquer des obstructions ou des anomalies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Radio Du Thorax",
+      "definition": "Radiographie de la cage thoracique, utilisée pour évaluer les structures pulmonaires et cardiaques.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie thoracique"
+      ],
+      "related_terms": [
+        "radiographie",
+        "scanner thoracique"
+      ],
+      "description": "La radio du thorax est une radiographie de la cage thoracique, utilisée pour évaluer les structures pulmonaires et cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "marbrures",
+      "definition": "Taches cutanées violacées ou rougeâtres, souvent associées à une mauvaise circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "marbrures cutanées"
+      ],
+      "related_terms": [
+        "cyanose",
+        "œdème"
+      ],
+      "description": "Les marbrures sont des signes cutanés indiquant une ischémie sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gangrène",
+      "definition": "Mort tissulaire due à une ischémie prolongée, caractérisée par une nécrose des tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose tissulaire"
+      ],
+      "related_terms": [
+        "phlyctènes",
+        "ischémie"
+      ],
+      "description": "La gangrène est un signe d'irréversibilité de l'ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome toxique",
+      "definition": "Ensemble de symptômes systémiques résultant de la libération de toxines dans le sang, souvent associé à une infection ou une ischémie sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "sepsis"
+      ],
+      "related_terms": [
+        "ischémie",
+        "pronostic vital"
+      ],
+      "description": "Le syndrome toxique met en jeu le pronostic vital du patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oblitération",
+      "definition": "Obstruction complète d'un vaisseau sanguin, souvent due à un thrombus ou une plaque athéromateuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion"
+      ],
+      "related_terms": [
+        "thrombose",
+        "ischémie"
+      ],
+      "description": "L'oblitération artérielle peut entraîner une ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose aortique aigue",
+      "definition": "Formation rapide d'un caillot sanguin dans l'aorte, entraînant une obstruction soudaine du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose aortique"
+      ],
+      "related_terms": [
+        "ischémie",
+        "oblitération"
+      ],
+      "description": "La thrombose aortique aiguë est une urgence médicale sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AC/FA",
+      "definition": "Arythmie complète par fibrillation auriculaire, un trouble du rythme cardiaque caractérisé par des contractions rapides et irrégulières des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrillation auriculaire"
+      ],
+      "related_terms": [
+        "flutter",
+        "troubles du rythme"
+      ],
+      "description": "L'AC/FA est une cause fréquente d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flutter",
+      "definition": "Trouble du rythme cardiaque caractérisé par des contractions rapides et régulières des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "flutter auriculaire"
+      ],
+      "related_terms": [
+        "AC/FA",
+        "troubles du rythme"
+      ],
+      "description": "Le flutter est une cause d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrismes du VG",
+      "definition": "Dilatation anormale de la paroi du ventricule gauche, souvent due à une faiblesse de la paroi musculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrismes ventriculaires gauches"
+      ],
+      "related_terms": [
+        "cardiopathies ischémiques",
+        "valvulopathies"
+      ],
+      "description": "Les anévrismes du VG peuvent entraîner des embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rao",
+      "definition": "Rétrécissement aortique, une maladie caractérisée par une obstruction du flux sanguin à travers la valve aortique.",
+      "category": "pathologie",
+      "synonyms": [
+        "sténose aortique"
+      ],
+      "related_terms": [
+        "valvulopathies",
+        "cardiopathies ischémiques"
+      ],
+      "description": "Le Rao est une cause d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocardites infectieuses",
+      "definition": "Infections de l'endocarde, la membrane interne du cœur, souvent causées par des bactéries.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardites bactériennes"
+      ],
+      "related_terms": [
+        "valvulopathies",
+        "cardiopathies ischémiques"
+      ],
+      "description": "Les endocardites infectieuses sont une cause d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myxomes de l'OG",
+      "definition": "Tumeurs bénignes de l'oreillette gauche, souvent attachées à la paroi interne du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "myxomes auriculaires gauches"
+      ],
+      "related_terms": [
+        "valvulopathies",
+        "cardiopathies ischémiques"
+      ],
+      "description": "Les myxomes de l'OG sont une cause d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothèses valvulaires",
+      "definition": "Dispositifs artificiels utilisés pour remplacer les valves cardiaques défectueuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "valves prothétiques"
+      ],
+      "related_terms": [
+        "valvulopathies",
+        "cardiopathies ischémiques"
+      ],
+      "description": "Les prothèses valvulaires peuvent être une source d'embolies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrisme artériel",
+      "definition": "Dilatation anormale de la paroi d'une artère, souvent due à une faiblesse de la paroi vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrismes vasculaires"
+      ],
+      "related_terms": [
+        "plaques athéromateuses",
+        "thrombus mural"
+      ],
+      "description": "Les anévrismes artériels sont une cause d'embolies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plaques athéromateuses",
+      "definition": "Dépôts de graisses, de cholestérol et d'autres substances dans les parois des artères, entraînant un rétrécissement des vaisseaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "plaques d'athérome"
+      ],
+      "related_terms": [
+        "anévrisme artériel",
+        "thrombus mural"
+      ],
+      "description": "Les plaques athéromateuses sont une cause d'embolies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombus mural",
+      "definition": "Caillot sanguin formé sur la paroi interne d'un vaisseau sanguin, souvent associé à un anévrisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "caillot mural"
+      ],
+      "related_terms": [
+        "anévrisme artériel",
+        "plaques athéromateuses"
+      ],
+      "description": "Le thrombus mural est une cause d'embolies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcère artériel",
+      "definition": "Lésion ulcéreuse de la paroi d'une artère, souvent due à une plaque athéromateuse ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcères vasculaires"
+      ],
+      "related_terms": [
+        "anévrisme artériel",
+        "plaques athéromateuses"
+      ],
+      "description": "Les ulcères artériels sont une cause d'embolies vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolie paradoxale",
+      "definition": "Embolie résultant du passage de caillots sanguins d'une veine à une artère via un shunt intracardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "embolie croisée"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "cardiopathie"
+      ],
+      "description": "L'embolie paradoxale nécessite l'existence d'un shunt droit-gauche intracardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathie inflammatoire",
+      "definition": "Inflammation des parois des artères, souvent due à une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasculite"
+      ],
+      "related_terms": [
+        "athérome",
+        "maladie du système"
+      ],
+      "description": "L'artériopathie inflammatoire est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie du système",
+      "definition": "Maladies affectant plusieurs systèmes d'organes, souvent d'origine auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies systémiques"
+      ],
+      "related_terms": [
+        "athérome",
+        "artériopathie inflammatoire"
+      ],
+      "description": "La maladie du système est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose de pontage",
+      "definition": "Formation d'un caillot sanguin dans un pontage artériel, entraînant une obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion de pontage"
+      ],
+      "related_terms": [
+        "poplitée piégée",
+        "compression extrinsèque"
+      ],
+      "description": "La thrombose de pontage est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "poplitée piégée",
+      "definition": "Compression de l'artère poplitée par des structures musculaires ou tendineuses, souvent lors de la flexion du genou.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de l'artère poplitée piégée"
+      ],
+      "related_terms": [
+        "thrombose de pontage",
+        "compression extrinsèque"
+      ],
+      "description": "La poplitée piégée est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compression extrinsèque",
+      "definition": "Compression d'une artère par une structure externe, entraînant une obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "compression externe"
+      ],
+      "related_terms": [
+        "thrombose de pontage",
+        "poplitée piégée"
+      ],
+      "description": "La compression extrinsèque est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de la traversée thoraco-brachiale",
+      "definition": "Compression des vaisseaux sanguins et des nerfs au niveau de la traversée thoraco-brachiale, souvent due à une anomalie anatomique.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de la traversée thoraco-brachiale"
+      ],
+      "related_terms": [
+        "kyste adventitiel",
+        "artérite radique"
+      ],
+      "description": "Le syndrome de la traversée thoraco-brachiale est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kyste adventitiel",
+      "definition": "Kyste formé dans la couche adventitielle d'une artère, souvent entraînant une compression vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "kyste vasculaire"
+      ],
+      "related_terms": [
+        "syndrome de la traversée thoraco-brachiale",
+        "artérite radique"
+      ],
+      "description": "Le kyste adventitiel est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérite radique",
+      "definition": "Inflammation des artères radiculaires, souvent due à une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "artérite radiculaire"
+      ],
+      "related_terms": [
+        "syndrome de la traversée thoraco-brachiale",
+        "kyste adventitiel"
+      ],
+      "description": "L'artérite radique est une cause de thromboses artérielles aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperfibrinémie",
+      "definition": "Augmentation anormale du taux de fibrinogène dans le sang, entraînant une hypercoagulabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperfibrinogénémie"
+      ],
+      "related_terms": [
+        "antithrombine III",
+        "hyperviscosité"
+      ],
+      "description": "L'hyperfibrinémie est une cause d'hypercoagulabilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperviscosité",
+      "definition": "Augmentation anormale de la viscosité du sang, entraînant une hypercoagulabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperviscosité sanguine"
+      ],
+      "related_terms": [
+        "antithrombine III",
+        "hyperfibrinémie"
+      ],
+      "description": "L'hyperviscosité est une cause d'hypercoagulabilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperplaquettose",
+      "definition": "Augmentation anormale du nombre de plaquettes dans le sang, entraînant une hypercoagulabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombocytose"
+      ],
+      "related_terms": [
+        "polyglobulie",
+        "syndrome néphrotique"
+      ],
+      "description": "L'hyperplaquettose est une cause d'hypercoagulabilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticoagulants circulants",
+      "definition": "Anticorps dirigés contre les facteurs de coagulation, entraînant une hypercoagulabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anticoagulants"
+      ],
+      "related_terms": [
+        "syndromes des antiphospholipides",
+        "thrombopénie"
+      ],
+      "description": "Les anticoagulants circulants sont une cause d'hypercoagulabilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndromes des antiphospholipides",
+      "definition": "Ensemble de troubles caractérisés par la présence d'anticorps dirigés contre les phospholipides, entraînant une hypercoagulabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "SAPL"
+      ],
+      "related_terms": [
+        "anticoagulants circulants",
+        "thrombopénie"
+      ],
+      "description": "Les syndromes des antiphospholipides sont une cause d'hypercoagulabilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose métabolique hyperkaliémiante",
+      "definition": "État pathologique caractérisé par une acidité excessive du sang et une augmentation du taux de potassium.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose métabolique"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "anurie"
+      ],
+      "description": "L'acidose métabolique hyperkaliémiante est un signe de gravité de l'ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose aigue de la fourche aortique",
+      "definition": "Formation rapide d'un caillot sanguin au niveau de la bifurcation aortique, entraînant une obstruction soudaine du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose de la fourche aortique"
+      ],
+      "related_terms": [
+        "ischémie",
+        "oblitération"
+      ],
+      "description": "La thrombose aiguë de la fourche aortique est une urgence médicale sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Joint Council",
+      "definition": "Organisation conjointe de la Society for Vascular Surgery et du North American Chapter of the International Society for Cardiovascular Surgery.",
+      "category": "classification",
+      "synonyms": [
+        "Joint Council of Vascular Surgery"
+      ],
+      "related_terms": [
+        "Society for Vascular Surgery",
+        "International Society for Cardiovascular Surgery"
+      ],
+      "description": "Le Joint Council a établi la classification de Rutherford pour l'ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Society for Vascular Surgery",
+      "definition": "Organisation professionnelle dédiée à l'avancement de la chirurgie vasculaire.",
+      "category": "classification",
+      "synonyms": [
+        "SVS"
+      ],
+      "related_terms": [
+        "Joint Council",
+        "International Society for Cardiovascular Surgery"
+      ],
+      "description": "La Society for Vascular Surgery est impliquée dans la classification de Rutherford pour l'ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "North American Chapter of the International Society for Cardiovascular Surgery",
+      "definition": "Chapitre nord-américain de l'International Society for Cardiovascular Surgery, dédié à l'avancement de la chirurgie cardiovasculaire.",
+      "category": "classification",
+      "synonyms": [
+        "NAC-ISCS"
+      ],
+      "related_terms": [
+        "Joint Council",
+        "Society for Vascular Surgery"
+      ],
+      "description": "Le North American Chapter est impliqué dans la classification de Rutherford pour l'ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "International Society for Cardiovascular Surgery",
+      "definition": "Organisation internationale dédiée à l'avancement de la chirurgie cardiovasculaire.",
+      "category": "classification",
+      "synonyms": [
+        "ISCS"
+      ],
+      "related_terms": [
+        "Joint Council",
+        "Society for Vascular Surgery"
+      ],
+      "description": "L'International Society for Cardiovascular Surgery est impliquée dans la classification de Rutherford pour l'ischémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "classification de Rutherford",
+      "definition": "Système de classification de l'ischémie aiguë des membres en trois degrés de gravité croissante.",
+      "category": "classification",
+      "synonyms": [
+        "classification de Rutherford pour l'ischémie aiguë"
+      ],
+      "related_terms": [
+        "Joint Council",
+        "Society for Vascular Surgery"
+      ],
+      "description": "La classification de Rutherford est utilisée pour évaluer la gravité de l'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lombosciatique",
+      "definition": "Douleur irradiant de la région lombaire vers la jambe, souvent due à une compression nerveuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "sciatique"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "myosite"
+      ],
+      "description": "La lombosciatique peut être confondue avec l'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myosite",
+      "definition": "Inflammation des muscles, souvent due à une infection ou une maladie auto-immune.",
+      "category": "pathologie",
+      "synonyms": [
+        "myosite inflammatoire"
+      ],
+      "related_terms": [
+        "lombosciatique",
+        "thrombose veineuse profonde"
+      ],
+      "description": "La myosite peut être confondue avec l'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compression médullaire",
+      "definition": "Compression de la moelle épinière, souvent due à une tumeur ou une hernie discale, entraînant une perte de fonction neurologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "compression de la moelle épinière"
+      ],
+      "related_terms": [
+        "AVC",
+        "paralysie"
+      ],
+      "description": "La compression médullaire peut être confondue avec l'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlégmatiacoerulea",
+      "definition": "Syndrome combinant des signes ischémiques et phlébitiques, souvent dû à une thrombose veineuse profonde.",
+      "category": "pathologie",
+      "synonyms": [
+        "phlébite bleue"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "ischémie aiguë"
+      ],
+      "description": "La phlégmatiacoerulea peut être confondue avec l'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rethrombose",
+      "definition": "Réapparition d'une thrombose après une revascularisation ou un traitement anticoagulant.",
+      "category": "pathologie",
+      "synonyms": [
+        "rethrombose postopératoire"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "La rethrombose est une complication postopératoire de la revascularisation d'un membre ischémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TPA",
+      "definition": "Activateur tissulaire du plasminogène, un type de fibrinolytique utilisé pour dissoudre les caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "t-PA",
+        "alteplase"
+      ],
+      "related_terms": [
+        "urokinase",
+        "streptokinase"
+      ],
+      "description": "Utilisé dans le traitement des accidents vasculaires cérébraux ischémiques et des infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolectomie",
+      "definition": "Procédure chirurgicale pour enlever un caillot sanguin (embolus) d'une artère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sonde de Fogarty",
+        "occlusions artérielles aigues"
+      ],
+      "description": "Réalisée souvent sous anesthésie locale ou locorégionale.",
+      "expansion": null,
+      "clinical_significance": "Traitement de choix pour les occlusions artérielles aigues d'origine embolique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sonde de Fogarty",
+      "definition": "Instrument chirurgical utilisé pour enlever des caillots sanguins des artères.",
+      "category": "pathologie",
+      "synonyms": [
+        "sonde à ballonnet de Fogarty"
+      ],
+      "related_terms": [
+        "embolectomie"
+      ],
+      "description": "Utilisée principalement dans les procédures d'embolectomie.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triangle de Scarpa",
+      "definition": "Région anatomique située à la partie supérieure de la cuisse, délimitée par le ligament inguinal, le bord latéral du muscle grand droit de l'abdomen et le bord médial du muscle sartorius.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "abord fémoral"
+      ],
+      "description": "Utilisé comme repère pour les interventions chirurgicales au niveau de la cuisse.",
+      "expansion": null,
+      "clinical_significance": "Important pour les abords chirurgicaux fémoraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusions artérielles aigues",
+      "definition": "Blocage soudain et complet d'une artère, empêchant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie aiguë"
+      ],
+      "related_terms": [
+        "embolectomie",
+        "thrombose"
+      ],
+      "description": "Peut être causée par des embolies ou des thromboses.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pontage anatomique",
+      "definition": "Technique chirurgicale de dérivation vasculaire qui suit le trajet normal des axes vasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages extra anatomiques"
+      ],
+      "description": "Utilisé pour contourner une lésion artérielle en utilisant un axe donneur sain.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pontages extra anatomiques",
+      "definition": "Techniques chirurgicales de dérivation vasculaire qui ne suivent pas le trajet habituel des artères.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pontage anatomique"
+      ],
+      "description": "Utilisés pour contourner des lésions artérielles complexes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTFE",
+      "definition": "Polytétrafluoroéthylène, un matériau prothétique utilisé pour les pontages vasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "Teflon"
+      ],
+      "related_terms": [
+        "Dacron"
+      ],
+      "description": "Utilisé pour créer des prothèses vasculaires durables.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour les pontages vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dacron",
+      "definition": "Matériau synthétique utilisé pour les prothèses vasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyester"
+      ],
+      "related_terms": [
+        "PTFE"
+      ],
+      "description": "Utilisé pour créer des prothèses vasculaires durables.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour les pontages vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aorto-iliaque",
+      "definition": "Région anatomique située entre l'aorte et les artères iliaques.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages axillo-femoraux",
+        "pontages croisés"
+      ],
+      "description": "Importante pour les interventions de revascularisation.",
+      "expansion": null,
+      "clinical_significance": "Zone critique pour les pontages vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "axillo-femoraux",
+      "definition": "Type de pontage vasculaire reliant l'artère axillaire à l'artère fémorale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages croisés",
+        "aorto-iliaque"
+      ],
+      "description": "Utilisé pour contourner des lésions artérielles complexes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fémoro-poplité",
+      "definition": "Région anatomique située entre l'artère fémorale et l'artère poplitée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages fémoro-poplités",
+        "pontages fémorojambiers"
+      ],
+      "description": "Importante pour les interventions de revascularisation.",
+      "expansion": null,
+      "clinical_significance": "Zone critique pour les pontages vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fémoro-poplités",
+      "definition": "Type de pontage vasculaire reliant l'artère fémorale à l'artère poplitée.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages fémorojambiers",
+        "fémoro-poplité"
+      ],
+      "description": "Utilisé pour contourner des lésions artérielles complexes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fémorojambiers",
+      "definition": "Type de pontage vasculaire reliant l'artère fémorale à une artère de la jambe.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pontages fémoro-poplités",
+        "fémoro-poplité"
+      ],
+      "description": "Utilisé pour contourner des lésions artérielles complexes.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour rétablir le flux sanguin dans les artères obstruées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oblitération artérielle aiguë",
+      "definition": "Blocage soudain et complet d'une artère, empêchant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie aiguë"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Peut être causée par des embolies ou des thromboses.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mortalité",
+      "definition": "Taux de décès dans une population donnée.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pronostic vital"
+      ],
+      "description": "Proche de 25% dans les cas d'ischémie aiguë des membres.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la gravité de la condition.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie aiguë des membres",
+      "definition": "Réduction soudaine et sévère du flux sanguin vers un membre, entraînant un manque d'oxygène et de nutriments.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusions artérielles aigues"
+      ],
+      "related_terms": [
+        "embolectomie",
+        "thrombose"
+      ],
+      "description": "Urgence médico-chirurgicale nécessitant un diagnostic et un traitement précoces.",
+      "expansion": null,
+      "clinical_significance": "Pronostic sombre avec un taux d'amputation de 20% et un taux de mortalité de 10%.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "source_file": "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Ischémie Aiguë des Membres/Courses/49 Ischémie aiguë des membres copy.md"
+  ],
+  "total_terms": 127
+}

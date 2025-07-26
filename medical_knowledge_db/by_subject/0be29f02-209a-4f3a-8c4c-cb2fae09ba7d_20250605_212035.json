@@ -1,0 +1,1472 @@
+{
+  "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+  "terms": [
+    {
+      "term": "adénopathie superficielle",
+      "definition": "Augmentation du volume d'un ganglion lymphatique dont la taille devient supérieure à 1 cm.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénopathie"
+      ],
+      "related_terms": [
+        "ganglion lymphatique",
+        "lymphadénopathie"
+      ],
+      "description": "Les adénopathies superficielles sont des ganglions lymphatiques hypertrophiés situés près de la surface de la peau, souvent dans les régions cervicale, axillaire et inguinale.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une infection, une inflammation ou une malignité.",
+      "normal_values": "Taille < 1 cm",
+      "image_search_terms": [
+        "adénopathie",
+        "ganglion lymphatique hypertrophié"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ganglions lymphatiques",
+      "definition": "Organes lymphoïdes secondaires qui filtrent la lymphe et initient la réponse immunitaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions"
+      ],
+      "related_terms": [
+        "lymphocytes B",
+        "lymphocytes T",
+        "macrophages"
+      ],
+      "description": "Les ganglions lymphatiques jouent un rôle crucial dans la défense immunitaire en filtrant les particules étrangères et en activant les lymphocytes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglion lymphatique",
+        "système lymphatique"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ganglions inguinaux",
+      "definition": "Ganglions lymphatiques situés dans la région de l'aine.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions de l'aine"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie inguinale"
+      ],
+      "description": "Les ganglions inguinaux sont considérés comme physiologiques jusqu'à 1,5-2 cm.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglions inguinaux",
+        "adénopathie inguinale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ganglions épitrochléens",
+      "definition": "Ganglions lymphatiques situés près de l'épicondyle médial du coude.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions épitrochléens"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie épitrochléenne"
+      ],
+      "description": "Les ganglions épitrochléens sont considérés comme pathologiques quelle que soit leur taille.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglions épitrochléens",
+        "adénopathie épitrochléenne"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "jugulo-carotidien supérieur",
+      "definition": "Groupe de ganglions lymphatiques situés dans la région supérieure du cou, le long des vaisseaux jugulaires et carotidiens.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions jugulo-carotidiens supérieurs"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie cervicale"
+      ],
+      "description": "Ce groupe est subdivisé en IIA (sous-digastrique) et IIB (rétro-spinal).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglions jugulo-carotidiens supérieurs",
+        "adénopathie cervicale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "jugulo-carotidien moyen",
+      "definition": "Groupe de ganglions lymphatiques situés dans la région moyenne du cou, le long des vaisseaux jugulaires et carotidiens.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions jugulo-carotidiens moyens"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie cervicale"
+      ],
+      "description": "Ce groupe est situé entre les niveaux II et IV.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglions jugulo-carotidiens moyens",
+        "adénopathie cervicale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "jugulo-carotidien inférieur",
+      "definition": "Groupe de ganglions lymphatiques situés dans la région inférieure du cou, le long des vaisseaux jugulaires et carotidiens.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglions jugulo-carotidiens inférieurs"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie cervicale"
+      ],
+      "description": "Ce groupe est situé en dessous du niveau III.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglions jugulo-carotidiens inférieurs",
+        "adénopathie cervicale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triangle postérieur",
+      "definition": "Région anatomique située à l'arrière du cou, subdivisée en triangle postéro-supérieur (VA) et triangle postéro-inférieur (VB).",
+      "category": "anatomie",
+      "synonyms": [
+        "triangle postérieur du cou"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie cervicale"
+      ],
+      "description": "Cette région contient des ganglions lymphatiques importants pour le drainage lymphatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "triangle postérieur",
+        "adénopathie cervicale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cervical antérieur",
+      "definition": "Région anatomique située à l'avant du cou, subdivisée en pré-laryngé (VIA) et péri-trachéal (VIB).",
+      "category": "anatomie",
+      "synonyms": [
+        "région cervicale antérieure"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "adénopathie cervicale"
+      ],
+      "description": "Cette région contient des ganglions lymphatiques importants pour le drainage lymphatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cervical antérieur",
+        "adénopathie cervicale"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glande thyroïde",
+      "definition": "Glande endocrine située à la base du cou, responsable de la production des hormones thyroïdiennes.",
+      "category": "anatomie",
+      "synonyms": [
+        "thyroïde"
+      ],
+      "related_terms": [
+        "hormones thyroïdiennes",
+        "thyroxine",
+        "triiodothyronine"
+      ],
+      "description": "La glande thyroïde régule le métabolisme et la croissance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glande thyroïde",
+        "thyroïde"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphangite",
+      "definition": "Inflammation des vaisseaux lymphatiques, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphangite"
+      ],
+      "related_terms": [
+        "vaisseaux lymphatiques",
+        "infection",
+        "inflammation"
+      ],
+      "description": "La lymphangite peut être associée à des signes régionaux tels que des phénomènes compressifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphangite",
+        "vaisseaux lymphatiques"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hydrosadénite",
+      "definition": "Infection d'une glande sébacée, caractérisée par une tuméfaction rouge, douloureuse, superficielle et adhérente à la peau.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glande sébacée",
+        "infection"
+      ],
+      "description": "L'hydrosadénite est souvent causée par une infection bactérienne et peut nécessiter un traitement antibiotique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hernie",
+      "definition": "Protrusion d'un organe ou d'une partie d'un organe à travers la paroi qui le contient normalement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "inguinale",
+        "crurale"
+      ],
+      "description": "Les hernies peuvent être congénitales ou acquises et peuvent nécessiter une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Consistance",
+      "definition": "Caractéristique physique d'une masse ou d'une tumeur, décrivant sa fermeté ou sa mollesse.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "molle",
+        "dure",
+        "pierreuse"
+      ],
+      "description": "La consistance d'une adénopathie peut indiquer sa nature bénigne ou maligne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polyadénopathies",
+      "definition": "Augmentation de volume de plusieurs ganglions lymphatiques dans différentes régions du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ganglion lymphatique",
+        "adénopathie"
+      ],
+      "description": "Les polyadénopathies peuvent indiquer une maladie systémique ou une infection généralisée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sérologies",
+      "definition": "Tests sanguins permettant de détecter la présence d'anticorps spécifiques à des agents infectieux.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "NFS",
+        "CRP"
+      ],
+      "description": "Les sérologies sont utilisées pour diagnostiquer des infections virales, bactériennes ou parasitaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram",
+      "definition": "Coloration utilisée en microbiologie pour différencier les bactéries en Gram positif et Gram négatif.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bacilles acido-alcoolo-résistants",
+        "mycobactéries"
+      ],
+      "description": "La coloration de Gram est essentielle pour l'identification bactérienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Viroses",
+      "definition": "Infections causées par des virus.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "CMV",
+        "EBV"
+      ],
+      "description": "Les viroses peuvent affecter divers systèmes du corps et provoquer des symptômes variés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Toxoplasmose",
+      "definition": "Infection parasitaire causée par Toxoplasma gondii, souvent asymptomatique mais pouvant causer des complications chez les immunodéprimés.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La toxoplasmose peut être transmise par la consommation de viande crue ou mal cuite, ou par contact avec des excréments de chat.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie des griffes de chat",
+      "definition": "Infection bactérienne causée par Bartonella henselae, transmise par les griffures ou morsures de chats.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Bartonella henselae"
+      ],
+      "description": "La maladie des griffes de chat peut provoquer des adénopathies régionales et des symptômes systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thyroïde",
+      "definition": "Glande endocrine située à la base du cou, produisant des hormones thyroïdiennes essentielles pour le métabolisme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "Les troubles thyroïdiens peuvent inclure l'hypothyroïdie, l'hyperthyroïdie et les nodules thyroïdiens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glandes salivaires",
+      "definition": "Glandes exocrines produisant la salive, comprenant les glandes parotides, sous-maxillaires et sublinguales.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "parotide",
+        "sous-maxillaire"
+      ],
+      "description": "Les glandes salivaires jouent un rôle crucial dans la digestion et la santé buccale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie de Kikuchi",
+      "definition": "Maladie auto-immune rare caractérisée par une adénopathie cervicale et des symptômes systémiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La maladie de Kikuchi est généralement bénigne et auto-limitée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mastite",
+      "definition": "Inflammation du tissu mammaire, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La mastite peut nécessiter un traitement antibiotique et un drainage chirurgical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syphilis secondaire",
+      "definition": "Deuxième stade de la syphilis, caractérisé par des éruptions cutanées et des symptômes systémiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La syphilis secondaire est traitée par des antibiotiques, généralement de la pénicilline.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sarcoïdose",
+      "definition": "Maladie inflammatoire systémique caractérisée par la formation de granulomes dans divers organes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "La sarcoïdose peut affecter les poumons, la peau, les yeux et d'autres organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Primo-infection",
+      "definition": "Première infection par un agent pathogène, souvent associée à des symptômes plus sévères que les infections ultérieures.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection primaire"
+      ],
+      "related_terms": [
+        "EBV",
+        "CMV",
+        "VIH"
+      ],
+      "description": "La primo-infection peut être asymptomatique ou provoquer des symptômes variés selon l'agent infectieux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syphilis",
+      "definition": "Infection sexuellement transmissible causée par la bactérie Treponema pallidum, pouvant provoquer des ulcères génitaux et des adénopathies.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Treponema pallidum"
+      ],
+      "related_terms": [
+        "adénopathies",
+        "infection sexuellement transmissible"
+      ],
+      "description": "La syphilis peut évoluer en plusieurs stades et provoquer des complications graves si non traitée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie des griffes du chat",
+      "definition": "Infection bactérienne causée par Bartonella henselae, transmise par les griffures ou les morsures de chats infectés.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Bartonella henselae"
+      ],
+      "related_terms": [
+        "adénopathies",
+        "griffures de chat"
+      ],
+      "description": "La maladie des griffes du chat provoque des adénopathies régionales et peut causer des symptômes systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tularémie",
+      "definition": "Infection bactérienne causée par Francisella tularensis, transmise par les tiques, les animaux infectés ou l'eau contaminée.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Francisella tularensis"
+      ],
+      "related_terms": [
+        "adénopathies",
+        "infection bactérienne"
+      ],
+      "description": "La tularémie peut provoquer des symptômes variés, y compris des adénopathies et des ulcères cutanés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biopsie chirurgicale",
+      "definition": "Procédure chirurgicale consistant à prélever un échantillon de tissu pour analyse histologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie"
+      ],
+      "related_terms": [
+        "ponction à l'aiguille",
+        "examen anatomo-pathologique"
+      ],
+      "description": "La biopsie chirurgicale est utilisée pour diagnostiquer des maladies telles que le cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyadénopathie",
+      "definition": "Présence de plusieurs adénopathies dans différents territoires ganglionnaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénopathies multiples"
+      ],
+      "related_terms": [
+        "adénopathie",
+        "lymphome"
+      ],
+      "description": "La polyadénopathie peut être un signe de maladies infectieuses, inflammatoires ou malignes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "blastes",
+      "definition": "Cellules immatures présentes dans la moelle osseuse, pouvant être trouvées dans le sang en cas de leucémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "cellules blastiques"
+      ],
+      "related_terms": [
+        "leucémie aiguë",
+        "anémie",
+        "thrombopénie"
+      ],
+      "description": "La présence de blastes dans le sang est un signe de leucémie aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlymphocytose",
+      "definition": "Augmentation du nombre de lymphocytes dans le sang, souvent associée à des infections ou des hémopathies malignes.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphocytose"
+      ],
+      "related_terms": [
+        "leucémie lymphoïde chronique",
+        "LLC"
+      ],
+      "description": "L'hyperlymphocytose peut être un signe de leucémie lymphoïde chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucémie lymphoïde chronique",
+      "definition": "Cancer des cellules sanguines caractérisé par la prolifération lente de lymphocytes matures.",
+      "category": "pathologie",
+      "synonyms": [
+        "LLC"
+      ],
+      "related_terms": [
+        "hyperlymphocytose",
+        "immunophénotypage"
+      ],
+      "description": "La leucémie lymphoïde chronique est souvent diagnostiquée par un immunophénotypage des lymphocytes sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome mononucléosique",
+      "definition": "Augmentation des éléments mononucléés du sang, souvent associée à des infections virales telles que la mononucléose infectieuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "mononucléose"
+      ],
+      "related_terms": [
+        "EBV",
+        "VIH",
+        "toxoplasmose"
+      ],
+      "description": "Le syndrome mononucléosique peut être causé par divers agents infectieux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "formol",
+      "definition": "Solution aqueuse de formaldéhyde utilisée pour la fixation des tissus biologiques en vue de leur analyse histologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "formaldéhyde"
+      ],
+      "related_terms": [
+        "biopsie chirurgicale",
+        "immunohistochimie"
+      ],
+      "description": "Le formol permet de préserver la structure des tissus pour une analyse microscopique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphome folliculaire",
+      "definition": "Type de lymphome non hodgkinien caractérisé par une prolifération de lymphocytes B organisés en follicules.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphome folliculaire"
+      ],
+      "related_terms": [
+        "lymphome B diffus à grandes cellules",
+        "biopsie chirurgicale"
+      ],
+      "description": "Le lymphome folliculaire est souvent diagnostiqué par une biopsie chirurgicale et une analyse architecturale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphome B diffus à grandes cellules",
+      "definition": "Type de lymphome non hodgkinien caractérisé par une prolifération diffuse de grandes cellules B.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphome B diffus à grandes cellules"
+      ],
+      "related_terms": [
+        "lymphome folliculaire",
+        "biopsie chirurgicale"
+      ],
+      "description": "Le lymphome B diffus à grandes cellules est souvent diagnostiqué par une biopsie chirurgicale et une analyse architecturale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cocci Gram positif",
+      "definition": "Bactéries de forme sphérique qui se colorent en bleu ou violet avec la coloration de Gram.",
+      "category": "microbiologie",
+      "synonyms": [
+        "cocci Gram+"
+      ],
+      "related_terms": [
+        "staphylocoques",
+        "streptocoques"
+      ],
+      "description": "Les cocci Gram positif incluent des bactéries telles que les staphylocoques et les streptocoques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylocoques",
+      "definition": "Genre de bactéries Gram positif, souvent responsables d'infections cutanées et systémiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Staphylococcus"
+      ],
+      "related_terms": [
+        "streptocoques",
+        "cocci Gram positif"
+      ],
+      "description": "Les staphylocoques peuvent causer des infections telles que les adénites à pyogènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "streptocoques",
+      "definition": "Genre de bactéries Gram positif, souvent responsables d'infections telles que les angines et les adénites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus"
+      ],
+      "related_terms": [
+        "staphylocoques",
+        "cocci Gram positif"
+      ],
+      "description": "Les streptocoques peuvent causer des infections telles que les adénites à pyogènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycopeptide",
+      "definition": "Classe d'antibiotiques utilisés pour traiter les infections à bactéries Gram positif, notamment les staphylocoques résistants aux pénicillines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "glycopeptide"
+      ],
+      "related_terms": [
+        "pénicilline",
+        "antibiothérapie"
+      ],
+      "description": "Les glycopeptides sont utilisés pour traiter des infections telles que les adénites à pyogènes résistantes aux pénicillines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bartonella henselae",
+      "definition": "Bactérie Gram négatif responsable de la maladie des griffes du chat, une infection zoonotique.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie des griffes du chat"
+      ],
+      "description": "Infection transmise par les griffures ou morsures de chats, caractérisée par une adénopathie chronique.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic différentiel des adénopathies chroniques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Bartonella henselae",
+        "maladie des griffes du chat"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphadénite",
+      "definition": "Inflammation des ganglions lymphatiques, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénopathie",
+        "ganglion lymphatique"
+      ],
+      "description": "Peut être aiguë ou chronique et peut indiquer une infection bactérienne, virale ou parasitaire.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic différentiel des infections et des maladies inflammatoires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lymphadénite",
+        "ganglion lymphatique"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "azithromycine",
+      "definition": "Antibiotique de la classe des macrolides, utilisé pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "macrolides",
+        "antibiotique"
+      ],
+      "description": "Efficace contre les infections respiratoires, les infections sexuellement transmissibles et certaines infections cutanées.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le traitement de la maladie des griffes du chat et d'autres infections bactériennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "azithromycine",
+        "macrolides"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pasteurellose",
+      "definition": "Infection bactérienne causée par des bactéries du genre Pasteurella, souvent transmise par des morsures ou griffures d'animaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Pasteurella",
+        "morsure d'animal"
+      ],
+      "description": "Peut causer des infections cutanées, des adénopathies et des infections systémiques.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic différentiel des infections cutanées et des adénopathies.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pasteurellose",
+        "Pasteurella"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rickettsiose",
+      "definition": "Infection bactérienne causée par des bactéries du genre Rickettsia, souvent transmise par des arthropodes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Rickettsia",
+        "infection vectorielle"
+      ],
+      "description": "Peut causer des fièvres, des éruptions cutanées et des adénopathies.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic différentiel des infections fébriles et des adénopathies.",
+      "normal_values": "",
+      "image_search_terms": [
+        "rickettsiose",
+        "Rickettsia"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Haemophilus ducreyi",
+      "definition": "Bactérie responsable du chancre mou, une infection sexuellement transmissible.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "chancre mou",
+        "infection sexuellement transmissible"
+      ],
+      "description": "Cause des ulcérations génitales et des adénopathies inguinales.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et le traitement du chancre mou.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Haemophilus ducreyi",
+        "chancre mou"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Chlamydia trachomatis",
+      "definition": "Bactérie responsable de la lymphogranulomatose vénérienne et d'autres infections sexuellement transmissibles.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphogranulomatose vénérienne",
+        "infection sexuellement transmissible"
+      ],
+      "description": "Cause des adénopathies inguinales, des ulcérations génitales et des complications systémiques.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et le traitement des infections sexuellement transmissibles.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Chlamydia trachomatis",
+        "lymphogranulomatose vénérienne"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mycobacterium tuberculosis",
+      "definition": "Bactérie responsable de la tuberculose, une infection pulmonaire et systémique.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose",
+        "infection mycobactérienne"
+      ],
+      "description": "Cause des adénopathies cervicales, des lésions pulmonaires et des complications systémiques.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et le traitement de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Mycobacterium tuberculosis",
+        "tuberculose"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponction-biopsie",
+      "definition": "Procédure médicale consistant à prélever un échantillon de tissu à l'aide d'une aiguille pour analyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie à l'aiguille"
+      ],
+      "related_terms": [
+        "biopsie",
+        "prélèvement de tissu"
+      ],
+      "description": "Utilisée pour le diagnostic des tumeurs, des infections et des maladies inflammatoires.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic précis de nombreuses pathologies.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ponction-biopsie",
+        "biopsie à l'aiguille"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intradermoréaction tuberculinique",
+      "definition": "Test cutané utilisé pour détecter une infection par Mycobacterium tuberculosis.",
+      "category": "pathologie",
+      "synonyms": [
+        "test tuberculinique"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "test cutané"
+      ],
+      "description": "Utilisé pour le dépistage de la tuberculose et pour évaluer l'exposition à la bactérie.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "intradermoréaction tuberculinique",
+        "test tuberculinique"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "quadrithérapie antituberculeuse",
+      "definition": "Traitement combinant quatre médicaments antituberculeux pour traiter la tuberculose.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "traitement antituberculeux",
+        "tuberculose"
+      ],
+      "description": "Utilisé pour traiter la tuberculose active et prévenir les résistances aux médicaments.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le traitement efficace de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "quadrithérapie antituberculeuse",
+        "traitement antituberculeux"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MGG",
+      "definition": "Coloration de May-Grünwald-Giemsa, une technique de coloration utilisée pour visualiser les cellules sanguines et les parasites.",
+      "category": "pathologie",
+      "synonyms": [
+        "coloration de May-Grünwald-Giemsa"
+      ],
+      "related_terms": [
+        "coloration",
+        "cytologie"
+      ],
+      "description": "Utilisée pour le diagnostic des infections parasitaires et des hémopathies.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des infections parasitaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "MGG",
+        "coloration de May-Grünwald-Giemsa"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome lymphoprolifératif chronique",
+      "definition": "Groupe de maladies caractérisées par la prolifération chronique des lymphocytes, souvent associées à des adénopathies et une splénomégalie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphoprolifération",
+        "adénopathie"
+      ],
+      "description": "Cause des adénopathies chroniques, une splénomégalie et une hyperlymphocytose.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des hémopathies lymphoïdes chroniques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome lymphoprolifératif chronique",
+        "lymphoprolifération"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphomes hodgkiniens et non-hodgkiniens",
+      "definition": "Cancers des ganglions lymphatiques, classés en lymphomes hodgkiniens et non-hodgkiniens selon leurs caractéristiques histologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphome",
+        "cancer des ganglions lymphatiques"
+      ],
+      "description": "Cause des adénopathies, une altération de l'état général, des fièvres et des sueurs nocturnes.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et le traitement des cancers des ganglions lymphatiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lymphomes hodgkiniens et non-hodgkiniens",
+        "lymphome"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies cervicales métastatiques",
+      "definition": "Gonflement des ganglions lymphatiques du cou dû à la propagation de cellules cancéreuses depuis une tumeur primitive.",
+      "category": "pathologie",
+      "synonyms": [
+        "ganglions lymphatiques métastatiques"
+      ],
+      "related_terms": [
+        "métastase",
+        "carcinome"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "adénopathies cervicales",
+        "métastases ganglionnaires"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinome des VADS",
+      "definition": "Cancer des voies aéro-digestives supérieures, souvent associé à l'alcool et au tabac.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer des VADS"
+      ],
+      "related_terms": [
+        "carcinome épidermoïde",
+        "carcinome du cavum"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "carcinome des VADS",
+        "cancer des VADS"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinome papillaire de la thyroïde",
+      "definition": "Type de cancer de la thyroïde caractérisé par des structures papillaires visibles au microscope.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer papillaire de la thyroïde"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "carcinome"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "carcinome papillaire de la thyroïde",
+        "thyroïde"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathie de Troisier",
+      "definition": "Adénopathie sus-claviculaire gauche, souvent associée à des cancers thoraciques ou abdominopelviens.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénopathie sus-claviculaire gauche"
+      ],
+      "related_terms": [
+        "adénopathie",
+        "cancer thoracique",
+        "cancer abdominopelvien"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "adénopathie de Troisier",
+        "adénopathie sus-claviculaire"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cervicotomie exploratrice",
+      "definition": "Procédure chirurgicale exploratoire du cou pour examiner et éventuellement retirer des ganglions lymphatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "biopsie",
+        "ganglions lymphatiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cervicotomie exploratrice",
+        "biopsie ganglionnaire"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anergie tuberculinique",
+      "definition": "Absence de réaction cutanée au test tuberculinique, souvent observée dans la sarcoïdose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "test tuberculinique",
+        "sarcoïdose"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "anergie tuberculinique",
+        "test tuberculinique"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enzyme de conversion",
+      "definition": "Enzyme qui convertit l'angiotensine I en angiotensine II, souvent élevée dans la sarcoïdose.",
+      "category": "physiologie",
+      "synonyms": [
+        "enzyme de conversion de l'angiotensine"
+      ],
+      "related_terms": [
+        "angiotensine",
+        "sarcoïdose"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "enzyme de conversion",
+        "angiotensine"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulome épithéloïde et giganto-cellulaire",
+      "definition": "Structure inflammatoire caractérisée par des cellules épithéloïdes et des cellules géantes, souvent observée dans la sarcoïdose.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulome"
+      ],
+      "related_terms": [
+        "sarcoïdose",
+        "inflammation"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "granulome épithéloïde",
+        "cellules géantes"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gougerot-Sjögren",
+      "definition": "Syndrome auto-immun caractérisé par une sécheresse des muqueuses et des glandes exocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Sjögren"
+      ],
+      "related_terms": [
+        "auto-immun",
+        "sécheresse des muqueuses"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Gougerot-Sjögren",
+        "syndrome de Sjögren"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Still",
+      "definition": "Maladie inflammatoire systémique caractérisée par de la fièvre, des éruptions cutanées et des arthrites.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Still"
+      ],
+      "related_terms": [
+        "inflammation",
+        "arthrite"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "maladie de Still",
+        "syndrome de Still"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Kawasaki",
+      "definition": "Maladie inflammatoire aiguë touchant principalement les enfants, caractérisée par de la fièvre, des éruptions cutanées et des adénopathies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "inflammation",
+        "adénopathies"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Kawasaki",
+        "adénopathies"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydantoïnes",
+      "definition": "Classe de médicaments anticonvulsivants utilisés pour traiter l'épilepsie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticonvulsivants",
+        "épilepsie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hydantoïnes",
+        "anticonvulsivants"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de DRESS",
+      "definition": "Syndrome d'hypersensibilité médicamenteuse avec éosinophilie et symptômes systémiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Drug Reaction with Eosinophilia and Systemic Symptoms"
+      ],
+      "related_terms": [
+        "toxidermie",
+        "hypersensibilité médicamenteuse"
+      ],
+      "description": "",
+      "expansion": "Drug Reaction with Eosinophilia and Systemic Symptoms",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de DRESS",
+        "toxidermie"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxidermie",
+      "definition": "Réaction cutanée toxique due à des médicaments ou des substances chimiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "réaction cutanée",
+        "médicaments"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "toxidermie",
+        "réaction cutanée"
+      ],
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "source_file": "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Hématologie/Adénopathies Superficielles/Courses/2 Adénopathies superficielles 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md"
+  ],
+  "total_terms": 71
+}

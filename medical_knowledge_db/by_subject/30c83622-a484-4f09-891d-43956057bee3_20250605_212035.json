@@ -1,0 +1,3431 @@
+{
+  "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+  "terms": [
+    {
+      "term": "dyslipidémies",
+      "definition": "Désordres du métabolisme des lipoprotéines, caractérisés par des niveaux anormaux de lipides dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperlipidémie"
+      ],
+      "related_terms": [
+        "hypercholestérolémie",
+        "hypertriglycéridémie"
+      ],
+      "description": "Les dyslipidémies sont des facteurs de risque majeurs pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Les dyslipidémies augmentent le risque de maladies cardiovasculaires et nécessitent une prise en charge adéquate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dyslipidémie",
+        "hyperlipidémie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlipoprotéinémies",
+      "definition": "Élévation des lipoprotéines dans le sang, souvent due à des facteurs génétiques ou environnementaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperlipidémie"
+      ],
+      "related_terms": [
+        "dyslipidémies",
+        "hypercholestérolémie"
+      ],
+      "description": "Les hyperlipoprotéinémies peuvent être primitives (génétiques) ou secondaires (causées par d'autres maladies ou médicaments).",
+      "expansion": null,
+      "clinical_significance": "Les hyperlipoprotéinémies sont associées à un risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperlipoprotéinémie",
+        "hyperlipidémie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fredrickson",
+      "definition": "Classification des hyperlipoprotéinémies basée sur les types de lipoprotéines présentes dans le sang.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "hyperlipoprotéinémie",
+        "dyslipidémies"
+      ],
+      "description": "La classification de Fredrickson aide à identifier le type d'hyperlipoprotéinémie et à évaluer le risque évolutif.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour le diagnostic et la gestion des dyslipidémies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "classification de Fredrickson",
+        "hyperlipoprotéinémie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome métabolique",
+      "definition": "Ensemble de facteurs de risque métaboliques incluant l'obésité abdominale, la dyslipidémie, l'hypertension et la résistance à l'insuline.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome X"
+      ],
+      "related_terms": [
+        "dyslipidémies",
+        "diabète",
+        "hypertension"
+      ],
+      "description": "Le syndrome métabolique augmente le risque de maladies cardiovasculaires et de diabète de type 2.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation et la gestion des risques cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome métabolique",
+        "syndrome X"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "International Diabetes Federation",
+      "definition": "Organisation mondiale qui fournit des critères actualisés pour le diagnostic du syndrome métabolique.",
+      "category": "classification",
+      "synonyms": [
+        "IDF"
+      ],
+      "related_terms": [
+        "syndrome métabolique",
+        "dyslipidémies"
+      ],
+      "description": "Les critères de l'IDF incluent des mesures de la circonférence abdominale, des triglycérides, du HDL-cholestérol, de la pression artérielle et de la glycémie.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour diagnostiquer le syndrome métabolique et évaluer le risque cardiovasculaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "International Diabetes Federation",
+        "IDF"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypolipémiants",
+      "definition": "Médicaments utilisés pour réduire les niveaux de lipides dans le sang, incluant les statines et les fibrates.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "médicaments hypolipidémiants"
+      ],
+      "related_terms": [
+        "statines",
+        "fibrates"
+      ],
+      "description": "Les hypolipémiants sont prescrits pour traiter les dyslipidémies et réduire le risque de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Essentiels dans la gestion des dyslipidémies et la prévention des complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypolipémiants",
+        "médicaments hypolipidémiants"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Société Européenne de Cardiologie",
+      "definition": "Organisation professionnelle qui fournit des recommandations pour la gestion des dyslipidémies et des maladies cardiovasculaires.",
+      "category": "classification",
+      "synonyms": [
+        "ESC"
+      ],
+      "related_terms": [
+        "dyslipidémies",
+        "hyperlipoprotéinémie"
+      ],
+      "description": "Les recommandations de l'ESC incluent des stratégies thérapeutiques pour les dyslipidémies primitives et secondaires.",
+      "expansion": null,
+      "clinical_significance": "Utilisées pour guider la prise en charge des patients dyslipidémiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Société Européenne de Cardiologie",
+        "ESC"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipoprotéines",
+      "definition": "Particules globulaires de haute masse moléculaire qui transportent les lipides dans le sang.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "triglycérides",
+        "phospholipides"
+      ],
+      "description": "Les lipoprotéines sont essentielles pour le transport des lipides dans le sang et jouent un rôle clé dans le métabolisme lipidique.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des lipoprotéines sont associées à des risques cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lipoprotéines",
+        "transport des lipides"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérol",
+      "definition": "Lipide essentiel pour la production et le maintien des membranes cellulaires et la fabrication de substances endogènes comme les hormones stéroïdiennes et les acides biliaires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéines",
+        "triglycérides"
+      ],
+      "description": "Le cholestérol est transporté dans le sang par les lipoprotéines et joue un rôle crucial dans diverses fonctions cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux élevés de cholestérol sont associés à un risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cholestérol",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triglycérides",
+      "definition": "Lipides utilisés par les cellules pour la production d'énergie et le stockage de composés énergétiques.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "lipoprotéines"
+      ],
+      "description": "Les triglycérides sont transportés dans le sang par les lipoprotéines et sont une source importante d'énergie pour les cellules.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux élevés de triglycérides sont associés à un risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "triglycérides",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phospholipides",
+      "definition": "Constituants membranaires essentiels qui forment une couche externe hydrophile dans les lipoprotéines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéines",
+        "cholestérol"
+      ],
+      "description": "Les phospholipides jouent un rôle crucial dans la structure et la fonction des membranes cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des phospholipides peuvent affecter la fonction cellulaire et le transport des lipides.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phospholipides",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apoprotéines",
+      "definition": "Protéines associées aux lipoprotéines qui jouent un rôle dans le transport et le métabolisme des lipides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéines",
+        "cholestérol"
+      ],
+      "description": "Les apoprotéines sont essentielles pour la stabilité et la fonction des lipoprotéines.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des apoprotéines peuvent contribuer aux dyslipidémies et aux risques cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "apoprotéines",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chylomicrons",
+      "definition": "Lipoprotéines responsables du transport des lipides alimentaires des intestins aux tissus, contenant principalement des triglycérides d'origine exogène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéines",
+        "triglycérides"
+      ],
+      "description": "Les chylomicrons sont produits par les cellules intestinales et transportent les lipides alimentaires dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des chylomicrons peuvent contribuer aux dyslipidémies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "chylomicrons",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IDL",
+      "definition": "Lipoprotéines de densité intermédiaire issues de l'hydrolyse des VLDL par les lipases.",
+      "category": "physiologie",
+      "synonyms": [
+        "intermediary density lipoproteins"
+      ],
+      "related_terms": [
+        "lipoprotéines",
+        "VLDL"
+      ],
+      "description": "Les IDL sont des intermédiaires dans le métabolisme des lipoprotéines et jouent un rôle dans le transport des lipides.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux élevés de IDL peuvent contribuer aux dyslipidémies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IDL",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LDL",
+      "definition": "Lipoprotéines de faible densité issues des VLDL et IDL, riches en cholestérol et considérées comme athérogènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "low density lipoproteins"
+      ],
+      "related_terms": [
+        "lipoprotéines",
+        "cholestérol"
+      ],
+      "description": "Les LDL transportent le cholestérol dans le sang et sont associées à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux élevés de LDL sont un facteur de risque majeur pour les maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LDL",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDL",
+      "definition": "Lipoprotéines de haute densité qui captent le cholestérol au niveau de la paroi artérielle et le ramènent au foie pour la synthèse des acides biliaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "high density lipoproteins"
+      ],
+      "related_terms": [
+        "lipoprotéines",
+        "cholestérol"
+      ],
+      "description": "Les HDL jouent un rôle protecteur contre les maladies cardiovasculaires en favorisant le transport inverse du cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Les niveaux élevés de HDL sont associés à une réduction du risque de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HDL",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HMG coA réductase",
+      "definition": "Enzyme clé dans la synthèse endogène du cholestérol, cible des statines pour réduire les niveaux de cholestérol.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "3-hydroxy-3-methyl-glutaryl-CoA reductase"
+      ],
+      "related_terms": [
+        "statines",
+        "cholestérol"
+      ],
+      "description": "L'inhibition de l'HMG coA réductase par les statines réduit la production de cholestérol dans le foie.",
+      "expansion": null,
+      "clinical_significance": "Essentielle dans le traitement des dyslipidémies et la prévention des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HMG coA réductase",
+        "statines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LPa",
+      "definition": "Particule LDL modifiée formée de l'Apo (a) liée à l'Apo B100, ayant une homologie avec le plasminogène et associée au développement des maladies cardiovasculaires et cérébro-vasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Apo (a)",
+        "Apo B100",
+        "plasminogène"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Associée au développement des maladies cardiovasculaires et cérébro-vasculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "LPa",
+        "Apo (a)",
+        "Apo B100"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LPx",
+      "definition": "Lipoprotéine riche en phospholipides retrouvée en cas de cholestase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "phospholipides",
+        "cholestase"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "LPx",
+        "phospholipides",
+        "cholestase"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo A-I",
+      "definition": "Principalement présente dans les HDL, corrélée positivement avec le cholestérol HDL2, véritable fraction anti-athérogène. Elle active la LCAT (lécithine-cholestérol-acyltransférase) et joue un rôle fondamental dans le transport inverse du cholestérol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "HDL",
+        "cholestérol HDL2",
+        "LCAT"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Apo A-I",
+        "HDL",
+        "LCAT"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LCAT",
+      "definition": "Lécithine-cholestérol-acyltransférase, enzyme activée par l'Apo A-I et jouant un rôle fondamental dans le transport inverse du cholestérol.",
+      "category": "physiologie",
+      "synonyms": [
+        "lécithine-cholestérol-acyltransférase"
+      ],
+      "related_terms": [
+        "Apo A-I",
+        "cholestérol"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "LCAT",
+        "lécithine-cholestérol-acyltransférase"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo B100",
+      "definition": "Présente surtout dans les LDL, mais aussi les VLDL et les IDL. Elle est corrélée positivement avec le LDL-cholestérol, c'est-à-dire la fraction athérogène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "LDL",
+        "VLDL",
+        "IDL",
+        "LDL-cholestérol"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Apo B100",
+        "LDL",
+        "VLDL",
+        "IDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo B48",
+      "definition": "Entre dans la structure des chylomicrons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "chylomicrons"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Apo B48",
+        "chylomicrons"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo CII",
+      "definition": "Cofacteur d'activation de la lipoprotéine-lipase, présente dans les VLDL et les chylomicrons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipoprotéine-lipase",
+        "VLDL",
+        "chylomicrons"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Apo CII",
+        "lipoprotéine-lipase",
+        "VLDL",
+        "chylomicrons"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo E",
+      "definition": "Intervient dans la captation des remnants de chylomicrons et de VLDL au niveau du foie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "chylomicrons",
+        "VLDL"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Apo E",
+        "chylomicrons",
+        "VLDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipoprotéine lipase",
+      "definition": "Enzyme ancrée dans l'endothélium capillaire, activée par l'Apo CII, qui hydrolyse les triglycérides contenus dans les chylomicrons en acides gras libres.",
+      "category": "physiologie",
+      "synonyms": [
+        "LPL"
+      ],
+      "related_terms": [
+        "Apo CII",
+        "chylomicrons",
+        "triglycérides"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lipoprotéine lipase",
+        "LPL",
+        "Apo CII",
+        "chylomicrons"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipase hépatique",
+      "definition": "Enzyme qui hydrolyse les triglycérides des IDL pour les enrichir en esters de cholestérol.",
+      "category": "physiologie",
+      "synonyms": [
+        "LH"
+      ],
+      "related_terms": [
+        "triglycérides",
+        "IDL",
+        "esters de cholestérol"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lipase hépatique",
+        "LH",
+        "triglycérides",
+        "IDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CETP",
+      "definition": "Cholesteryl Ester Transfer Protein, protéine qui permet le transfert des esters de cholestérol entre les lipoprotéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "Cholesteryl Ester Transfer Protein"
+      ],
+      "related_terms": [
+        "esters de cholestérol",
+        "lipoprotéines"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "CETP",
+        "Cholesteryl Ester Transfer Protein",
+        "esters de cholestérol"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lécithine cholestérol acyl transférase",
+      "definition": "Enzyme qui agit sur les LDL pour estérifier le cholestérol qu'elles contiennent.",
+      "category": "physiologie",
+      "synonyms": [
+        "LCAT"
+      ],
+      "related_terms": [
+        "LDL",
+        "cholestérol"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lécithine cholestérol acyl transférase",
+        "LCAT",
+        "LDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triglycéride lipase hépatique",
+      "definition": "Enzyme hormonosensible qui est freinée par l'insuline et stimulée par les hormones thyroïdiennes, la GH et le cortisol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuline",
+        "hormones thyroïdiennes",
+        "GH",
+        "cortisol"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "triglycéride lipase hépatique",
+        "insuline",
+        "hormones thyroïdiennes"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GH",
+      "definition": "Hormone de croissance, stimule la lipase hépatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "hormone de croissance"
+      ],
+      "related_terms": [
+        "lipase hépatique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "GH",
+        "hormone de croissance",
+        "lipase hépatique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCSK-9",
+      "definition": "Proprotéine convertase subtilisine/kexine 9, protéase clé qui permet de réguler le taux des LDL.",
+      "category": "physiologie",
+      "synonyms": [
+        "proprotéine convertase subtilisine/kexine 9"
+      ],
+      "related_terms": [
+        "LDL"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "PCSK-9",
+        "proprotéine convertase subtilisine/kexine 9",
+        "LDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipases",
+      "definition": "Les lipases sont des enzymes qui hydrolysent les triglycérides en acides gras et glycérol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "triglycérides",
+        "acides gras"
+      ],
+      "description": "Les lipases sont essentielles pour la digestion et le métabolisme des lipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lipases",
+        "enzymes"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Apo AI",
+      "definition": "L'Apo AI est une apolipoprotéine majeure des HDL qui joue un rôle clé dans le transport inverse du cholestérol.",
+      "category": "physiologie",
+      "synonyms": [
+        "apolipoprotéine AI"
+      ],
+      "related_terms": [
+        "HDL",
+        "cholestérol"
+      ],
+      "description": "L'Apo AI est essentielle pour la stabilité structurelle des HDL et leur fonction dans le transport du cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Apo AI",
+        "apolipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDL3",
+      "definition": "Les HDL3 sont des sous-classes de HDL de petite taille qui sont riches en protéines et pauvres en lipides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "HDL",
+        "cholestérol"
+      ],
+      "description": "Les HDL3 jouent un rôle dans le transport inverse du cholestérol et peuvent se transformer en HDL2 en s'enrichissant en cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HDL3",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDL2",
+      "definition": "Les HDL2 sont des sous-classes de HDL de grande taille qui sont riches en lipides et en cholestérol estérifié.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "HDL",
+        "cholestérol"
+      ],
+      "description": "Les HDL2 sont physiologiquement importantes car leur taux est corrélé négativement avec la morbidité et la mortalité coronarienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HDL2",
+        "lipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apo B-100",
+      "definition": "L'apo B-100 est une apolipoprotéine majeure des LDL qui joue un rôle clé dans le transport du cholestérol vers les tissus périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "apolipoprotéine B-100"
+      ],
+      "related_terms": [
+        "LDL",
+        "cholestérol"
+      ],
+      "description": "L'apo B-100 est essentielle pour la stabilité structurelle des LDL et leur fonction dans le transport du cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "apo B-100",
+        "apolipoprotéines"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HMGCoA réductase",
+      "definition": "La HMGCoA réductase est une enzyme clé dans la voie de synthèse du cholestérol, catalysant la conversion de l'HMG-CoA en mévalonate.",
+      "category": "physiologie",
+      "synonyms": [
+        "3-hydroxy-3-méthylglutaryl-coenzyme A réductase"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "métabolisme des lipides"
+      ],
+      "description": "La HMGCoA réductase est la cible principale des statines, des médicaments utilisés pour réduire les niveaux de cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HMGCoA réductase",
+        "enzymes"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PPARö",
+      "definition": "PPARö (Peroxisome Proliferator-Activated Receptor alpha) est un récepteur nucléaire qui régule le métabolisme des lipides et des glucides.",
+      "category": "physiologie",
+      "synonyms": [
+        "PPAR alpha"
+      ],
+      "related_terms": [
+        "métabolisme des lipides",
+        "récepteurs nucléaires"
+      ],
+      "description": "PPARö est impliqué dans la régulation de la bêta-oxydation des acides gras et la synthèse des lipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PPARö",
+        "récepteurs nucléaires"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obésité",
+      "definition": "L'obésité est une accumulation excessive de graisse corporelle qui peut nuire à la santé.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insulinorésistance",
+        "insulinopénie"
+      ],
+      "description": "L'obésité est associée à un risque accru de maladies cardiovasculaires, de diabète de type 2 et d'autres complications métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "obésité",
+        "graisse corporelle"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insulinorésistance",
+      "definition": "L'insulinorésistance est une diminution de la sensibilité des tissus à l'insuline, entraînant une réduction de l'absorption du glucose par les cellules.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obésité",
+        "diabète de type 2"
+      ],
+      "description": "L'insulinorésistance est un facteur de risque majeur pour le développement du diabète de type 2 et des maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insulinorésistance",
+        "insuline"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insulinopénie",
+      "definition": "L'insulinopénie est une diminution de la production d'insuline par le pancréas.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obésité",
+        "diabète de type 1"
+      ],
+      "description": "L'insulinopénie est une caractéristique du diabète de type 1 et peut également se produire dans le diabète de type 2 avancé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insulinopénie",
+        "insuline"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ethylisme",
+      "definition": "L'ethylisme est l'intoxication chronique par l'alcool, souvent associée à des complications hépatiques et neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcoolisme"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite alcoolique"
+      ],
+      "description": "L'ethylisme peut entraîner des dyslipidémies et d'autres complications métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ethylisme",
+        "alcool"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercorticisme",
+      "definition": "L'hypercorticisme est une condition caractérisée par une production excessive de cortisol par les glandes surrénales.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Cushing"
+      ],
+      "related_terms": [
+        "cortisol",
+        "glandes surrénales"
+      ],
+      "description": "L'hypercorticisme peut entraîner des dyslipidémies, une hypertension et d'autres complications métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercorticisme",
+        "cortisol"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperoestrogénie",
+      "definition": "L'hyperoestrogénie est une condition caractérisée par une production excessive d'œstrogènes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "œstrogènes",
+        "hormones sexuelles"
+      ],
+      "description": "L'hyperoestrogénie peut entraîner des dyslipidémies et d'autres complications métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperoestrogénie",
+        "œstrogènes"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pilule contraceptive",
+      "definition": "La pilule contraceptive est un médicament hormonal utilisé pour prévenir la grossesse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "contraceptif oral"
+      ],
+      "related_terms": [
+        "hormones",
+        "contraception"
+      ],
+      "description": "La pilule contraceptive peut entraîner des dyslipidémies et d'autres effets secondaires métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pilule contraceptive",
+        "contraceptif oral"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athérosclérose",
+      "definition": "L'athérosclérose est une maladie caractérisée par l'accumulation de plaques lipidiques dans les artères, entraînant leur rétrécissement et leur durcissement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "plaques d'athérome",
+        "maladies cardiovasculaires"
+      ],
+      "description": "L'athérosclérose est une cause majeure de maladies cardiovasculaires, y compris les crises cardiaques et les accidents vasculaires cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "athérosclérose",
+        "plaques d'athérome"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérol LDL",
+      "definition": "Le cholestérol LDL (Low Density Lipoprotein) est une forme de cholestérol transportée par les lipoprotéines de basse densité, souvent appelé 'mauvais cholestérol'.",
+      "category": "physiologie",
+      "synonyms": [
+        "LDL cholestérol",
+        "mauvais cholestérol"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "LDL",
+        "athérosclérose"
+      ],
+      "description": "Un taux élevé de cholestérol LDL est associé à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "Valeurs normales de LDL: < 100 mg/dL",
+      "image_search_terms": [
+        "cholestérol LDL",
+        "LDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérol HDL",
+      "definition": "Le cholestérol HDL (High Density Lipoprotein) est une forme de cholestérol transportée par les lipoprotéines de haute densité, souvent appelé 'bon cholestérol'.",
+      "category": "physiologie",
+      "synonyms": [
+        "HDL cholestérol",
+        "bon cholestérol"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "HDL",
+        "athérosclérose"
+      ],
+      "description": "Un taux élevé de cholestérol HDL est associé à une réduction du risque de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "Valeurs normales de HDL: > 40 mg/dL pour les hommes, > 50 mg/dL pour les femmes",
+      "image_search_terms": [
+        "cholestérol HDL",
+        "HDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéine C réactive",
+      "definition": "La protéine C réactive (CRP) est une protéine de phase aiguë produite par le foie en réponse à l'inflammation.",
+      "category": "physiologie",
+      "synonyms": [
+        "CRP"
+      ],
+      "related_terms": [
+        "inflammation",
+        "marqueurs de l'inflammation"
+      ],
+      "description": "La CRP est un marqueur de l'inflammation et est associée à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "protéine C réactive",
+        "CRP"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipoprotéine(a)",
+      "definition": "La lipoprotéine(a) est une lipoprotéine riche en cholestérol qui est similaire aux LDL mais contient une protéine supplémentaire appelée apo(a).",
+      "category": "physiologie",
+      "synonyms": [
+        "Lp(a)"
+      ],
+      "related_terms": [
+        "LDL",
+        "cholestérol",
+        "apo(a)"
+      ],
+      "description": "Un taux élevé de lipoprotéine(a) est associé à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lipoprotéine(a)",
+        "Lp(a)"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "media",
+      "definition": "La media est la couche intermédiaire de la paroi des artères, composée principalement de cellules musculaires lisses et de fibres élastiques.",
+      "category": "anatomie",
+      "synonyms": [
+        "tunica media"
+      ],
+      "related_terms": [
+        "artères",
+        "cellules musculaires lisses"
+      ],
+      "description": "La media joue un rôle crucial dans la régulation de la pression artérielle et la réponse aux stimuli vasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "media",
+        "tunica media"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "collagène",
+      "definition": "Le collagène est une protéine fibreuse qui confère résistance et élasticité aux tissus conjonctifs, y compris la peau, les tendons et les os.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tissus conjonctifs",
+        "protéines fibreuses"
+      ],
+      "description": "Le collagène est essentiel pour la structure et la fonction des tissus conjonctifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "collagène",
+        "protéines fibreuses"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcération",
+      "definition": "L'ulcération est une lésion de la peau ou des muqueuses caractérisée par une perte de substance et une inflammation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lésion",
+        "inflammation"
+      ],
+      "description": "L'ulcération peut survenir dans diverses conditions, y compris les maladies vasculaires et les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ulcération",
+        "lésion"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "American Heart Association",
+      "definition": "L'American Heart Association (AHA) est une organisation à but non lucratif qui se consacre à la lutte contre les maladies cardiovasculaires et les accidents vasculaires cérébraux.",
+      "category": "classification",
+      "synonyms": [
+        "AHA"
+      ],
+      "related_terms": [
+        "maladies cardiovasculaires",
+        "accidents vasculaires cérébraux"
+      ],
+      "description": "L'AHA fournit des recommandations et des lignes directrices pour la prévention et le traitement des maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "American Heart Association",
+        "AHA"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrolipidique",
+      "definition": "Fibrolipidique se réfère à une plaque d'athérome contenant à la fois des lipides et des fibres, souvent observée dans les stades avancés de l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "athérosclérose",
+        "plaque d'athérome"
+      ],
+      "description": "Les plaques fibrolipidiques sont caractérisées par un centre lipidique entouré d'une gaine fibreuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrolipidique",
+        "plaque d'athérome"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anévrismes",
+      "definition": "Dilatation anormale de la paroi d'un vaisseau sanguin, souvent due à une faiblesse de la paroi vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrysmes"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "thrombus"
+      ],
+      "description": "Les anévrismes peuvent se former à la suite de la destruction des lames élastiques et de l'atrophie de la média.",
+      "expansion": null,
+      "clinical_significance": "Un anévrisme peut entraîner une thrombose et des embolies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrisme",
+        "dilatation vasculaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dissection artérielle",
+      "definition": "Déchirure de la paroi d'une artère, permettant au sang de s'introduire entre les couches de la paroi artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection aortique"
+      ],
+      "related_terms": [
+        "ulcération intimale",
+        "média"
+      ],
+      "description": "La dissection artérielle se produit souvent dans l'épaisseur de la média entre les 2/3 internes et le 1/3 externe.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une ischémie ou une rupture artérielle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dissection artérielle",
+        "dissection aortique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Embolies",
+      "definition": "Obstruction d'un vaisseau sanguin par un matériau étranger, tel qu'un caillot sanguin ou un fragment de plaque d'athérome.",
+      "category": "pathologie",
+      "synonyms": [
+        "embolscruoriques"
+      ],
+      "related_terms": [
+        "thrombus",
+        "athérosclérose"
+      ],
+      "description": "Les embolies peuvent être cruoriques (constituées d'un thrombus sanguin), plaquettaires ou athéromateuses.",
+      "expansion": null,
+      "clinical_significance": "Peuvent entraîner des complications vasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "embolie",
+        "caillot sanguin"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lipotoxicité",
+      "definition": "Effet toxique des lipides accumulés dans des tissus non adipeux, entraînant des dysfonctionnements cellulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "stéatose",
+        "stéato-hépatite NASH"
+      ],
+      "description": "La lipotoxicité est souvent associée à des niveaux élevés de triglycérides et affecte principalement le foie et le pancréas.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une stéatose hépatique et une pancréatite aiguë.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lipotoxicité",
+        "stéatose hépatique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NASH",
+      "definition": "Stéato-hépatite non alcoolique, une maladie du foie caractérisée par l'accumulation de graisse dans le foie, entraînant une inflammation et des dommages hépatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "stéato-hépatite non alcoolique"
+      ],
+      "related_terms": [
+        "stéatose",
+        "lipotoxicité"
+      ],
+      "description": "La NASH est souvent associée à des niveaux élevés de triglycérides et peut progresser vers une cirrhose.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance hépatique et un risque accru de cancer du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NASH",
+        "stéato-hépatite"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dyslipidémie",
+      "definition": "Trouble du métabolisme des lipides, caractérisé par des niveaux anormaux de lipides dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "triglycérides"
+      ],
+      "description": "La dyslipidémie est un facteur de risque majeur pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Associée à un risque accru d'athérosclérose et de complications vasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dyslipidémie",
+        "lipides sanguins"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Angine de poitrine",
+      "definition": "Douleur thoracique due à une ischémie myocardique, souvent causée par une réduction de l'apport sanguin au cœur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie",
+        "sténose"
+      ],
+      "description": "L'angine de poitrine est un symptôme courant de la maladie coronarienne.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe avant-coureur d'un infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "angine de poitrine",
+        "ischémie myocardique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Souffles vasculaires",
+      "definition": "Bruits anormaux entendus à l'auscultation, indiquant une turbulence du flux sanguin dans les vaisseaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sténose",
+        "athérosclérose"
+      ],
+      "description": "Les souffles vasculaires peuvent être un signe de sténose ou d'autres anomalies vasculaires.",
+      "expansion": null,
+      "clinical_significance": "Peuvent indiquer une maladie vasculaire sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "souffles vasculaires",
+        "auscultation vasculaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gérontoxon",
+      "definition": "Arc sénile, un anneau gris-blanc opaque autour de la cornée, souvent associé à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [
+        "arc sénile"
+      ],
+      "related_terms": [
+        "xanthélasma",
+        "hypercholestérolémie"
+      ],
+      "description": "Le gérontoxon est un signe clinique de l'hypercholestérolémie.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur de troubles lipidiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gérontoxon",
+        "arc sénile"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Xanthélasma",
+      "definition": "Dépôt lipidique jaunâtre sur la paupière supérieure, souvent associé à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gérontoxon",
+        "hypercholestérolémie"
+      ],
+      "description": "Le xanthélasma est un signe clinique de l'hypercholestérolémie.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur de troubles lipidiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthélasma",
+        "dépôt lipidique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Xanthomes tendineux",
+      "definition": "Dépôts lipidiques sur les tendons, souvent associés à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthomes tubéreux",
+        "hypercholestérolémie"
+      ],
+      "description": "Les xanthomes tendineux sont un signe clinique de l'hypercholestérolémie familiale.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur de troubles lipidiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthomes tendineux",
+        "dépôts lipidiques"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Xanthomes tubéreux",
+      "definition": "Dépôts lipidiques en relief, souvent situés près des articulations, associés à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthomes tendineux",
+        "hypercholestérolémie"
+      ],
+      "description": "Les xanthomes tubéreux sont un signe clinique de l'hypercholestérolémie familiale.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur de troubles lipidiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthomes tubéreux",
+        "dépôts lipidiques"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Xanthomes plans",
+      "definition": "Papules molles de couleur jaune-orangée, souvent situées sur les mains et les fesses, associées à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthomes tendineux",
+        "hypercholestérolémie"
+      ],
+      "description": "Les xanthomes plans sont un signe clinique de l'hypercholestérolémie homozygote.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur de troubles lipidiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthomes plans",
+        "dépôts lipidiques"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypercholestérolémie",
+      "definition": "Niveau élevé de cholestérol dans le sang, souvent associé à un risque accru de maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthélasma",
+        "gérontoxon"
+      ],
+      "description": "L'hypercholestérolémie est un facteur de risque majeur pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypercholestérolémie",
+        "cholestérol"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LDL-cholestérol",
+      "definition": "Cholestérol transporté par les lipoprotéines de basse densité (LDL), souvent appelé 'mauvais cholestérol' en raison de son association avec les maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "cholestérol LDL"
+      ],
+      "related_terms": [
+        "HDL-cholestérol",
+        "triglycérides"
+      ],
+      "description": "Un niveau élevé de LDL-cholestérol est un facteur de risque pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LDL-cholestérol",
+        "cholestérol LDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EAL",
+      "definition": "Exploration d'une anomalie lipidique, un ensemble de tests utilisés pour diagnostiquer les dyslipidémies.",
+      "category": "pathologie",
+      "synonyms": [
+        "exploration d'une anomalie lipidique"
+      ],
+      "related_terms": [
+        "dyslipidémie",
+        "cholestérol"
+      ],
+      "description": "L'EAL comprend des dosages du cholestérol total, des triglycérides et du HDL-cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour diagnostiquer et surveiller les dyslipidémies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EAL",
+        "exploration lipidique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Friedewald",
+      "definition": "Formule utilisée pour calculer le LDL-cholestérol à partir des niveaux de cholestérol total, HDL-cholestérol et triglycérides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "LDL-cholestérol",
+        "HDL-cholestérol"
+      ],
+      "description": "La formule de Friedewald est utilisée pour estimer le LDL-cholestérol lorsque les triglycérides sont inférieurs à 4 g/l.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour évaluer le risque cardiovasculaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Friedewald",
+        "LDL-cholestérol"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypertriglycéridémie",
+      "definition": "Niveau élevé de triglycérides dans le sang, souvent associé à un risque accru de maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "triglycérides",
+        "dyslipidémie"
+      ],
+      "description": "L'hypertriglycéridémie est un facteur de risque pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertriglycéridémie",
+        "triglycérides"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperchylomicronémie",
+      "definition": "Niveau élevé de chylomicrons dans le sang, souvent associé à une hypertriglycéridémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "triglycérides",
+        "VLDL"
+      ],
+      "description": "L'hyperchylomicronémie est caractérisée par un aspect lactescent du sérum.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperchylomicronémie",
+        "chylomicrons"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lipidogramme",
+      "definition": "Analyse des lipides sanguins permettant de distinguer les différentes fractions lipidiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "électrophorèse des lipides"
+      ],
+      "related_terms": [
+        "Chylomicrons",
+        "VLDL",
+        "IDL",
+        "LDL",
+        "HDL"
+      ],
+      "description": "Utilisé pour évaluer les niveaux de différentes lipoprotéines dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérol-non-HDL",
+      "definition": "Mesure du cholestérol total moins le cholestérol HDL, représentant le cholestérol contenu dans les lipoprotéines athérogènes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol total",
+        "HDL-Cholestérol",
+        "LDL-C"
+      ],
+      "description": "Utilisé pour évaluer le risque cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LDL-C",
+      "definition": "Cholestérol contenu dans les lipoprotéines de basse densité (LDL), principalement responsable du transport du cholestérol vers les tissus périphériques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol total",
+        "HDL-Cholestérol",
+        "cholestérol-non-HDL"
+      ],
+      "description": "Élevées dans l'hypercholestérolémie, associées à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoalphalipoprotéinémies",
+      "definition": "Diminution anormale des lipoprotéines de haute densité (HDL) dans le sang, associée à un risque accru de maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HDL",
+        "Apo AI"
+      ],
+      "description": "Caractérisée par une diminution du HDL-cholestérol et de l'apo AI.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlipidémies",
+      "definition": "Élévation anormale des lipides dans le sang, incluant le cholestérol et les triglycérides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dyslipidémies",
+        "hyperlipoprotéinémies"
+      ],
+      "description": "Classées selon les types de lipoprotéines élevées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypolipidémies",
+      "definition": "Diminution anormale des lipides dans le sang, incluant le cholestérol et les triglycérides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dyslipidémies",
+        "hyperlipoprotéinémies"
+      ],
+      "description": "Incluent les hypoalphalipoprotéinémies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pancréatite aiguë",
+      "definition": "Inflammation soudaine et sévère du pancréas, souvent due à une obstruction des voies biliaires ou à une consommation excessive d'alcool.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dyslipidémies"
+      ],
+      "description": "Peut être une complication des dyslipidémies sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "xanthomes",
+      "definition": "Dépôts de lipides dans la peau ou les tendons, souvent associés à des niveaux élevés de cholestérol ou de triglycérides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthélasma",
+        "gerontoxon"
+      ],
+      "description": "Peuvent être plans, tendineux, tubéreux ou éruptifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gerontoxon",
+      "definition": "Anneau grisâtre ou blanc autour de la cornée, souvent associé à des niveaux élevés de cholestérol.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "xanthomes"
+      ],
+      "description": "Signe clinique d'hypercholestérolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatomégalie stéatosique",
+      "definition": "Augmentation de la taille du foie due à l'accumulation de graisses dans les cellules hépatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "splénomégalie"
+      ],
+      "description": "Signe clinique d'hypertriglycéridémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipémie rétinienne",
+      "definition": "Présence de lipides dans les vaisseaux rétiniens, visible au fond d'œil, souvent due à des niveaux élevés de triglycérides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertriglycéridémie"
+      ],
+      "description": "Signe clinique d'hypertriglycéridémie sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCSK9",
+      "definition": "Proprotéine convertase subtisilin/kexin 9, une enzyme impliquée dans la régulation des récepteurs des LDL.",
+      "category": "physiologie",
+      "synonyms": [
+        "Proprotéine convertase subtisilin/kexin 9"
+      ],
+      "related_terms": [
+        "LDL",
+        "récepteur des LDL",
+        "cholestérol"
+      ],
+      "description": "PCSK9 joue un rôle crucial dans la dégradation des récepteurs des LDL, influençant ainsi les niveaux de cholestérol dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Les mutations de PCSK9 peuvent entraîner des dyslipidémies et sont une cible thérapeutique pour les traitements hypolipémiants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PCSK9",
+        "proprotéine convertase subtisilin/kexin 9"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "xanthomatose cutanéo-tendineuse hypercholestérolémique familiale (XCTHF)",
+      "definition": "Dépôts de cholestérol dans la peau et les tendons, caractéristiques de l'hypercholestérolémie familiale.",
+      "category": "pathologie",
+      "synonyms": [
+        "XCTHF"
+      ],
+      "related_terms": [
+        "xanthomes",
+        "hypercholestérolémie",
+        "athérosclérose"
+      ],
+      "description": "La XCTHF est une manifestation clinique de l'hypercholestérolémie familiale, souvent observée dans les formes homozygotes.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de risque élevé de maladies cardiovasculaires précoces.",
+      "normal_values": null,
+      "image_search_terms": [
+        "XCTHF",
+        "xanthomatose cutanéo-tendineuse"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "xanthelasma",
+      "definition": "Dépôts de cholestérol sur les paupières, souvent associés à l'hypercholestérolémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "xanthelasma"
+      ],
+      "related_terms": [
+        "xanthomes",
+        "hypercholestérolémie",
+        "cholestérol"
+      ],
+      "description": "Les xanthelasmas sont des plaques jaunâtres sur les paupières, souvent bilatérales et symétriques.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de risque élevé de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthelasma",
+        "dépôts de cholestérol sur les paupières"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ApoB",
+      "definition": "Apoprotéine B, une protéine associée aux lipoprotéines de basse densité (LDL).",
+      "category": "physiologie",
+      "synonyms": [
+        "Apoprotéine B"
+      ],
+      "related_terms": [
+        "LDL",
+        "cholestérol",
+        "ApoA1"
+      ],
+      "description": "L'ApoB est impliquée dans le transport du cholestérol et est un marqueur de risque cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": "Niveaux élevés d'ApoB sont associés à un risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ApoB",
+        "apoprotéine B"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ApoA1",
+      "definition": "Apoprotéine A1, une protéine associée aux lipoprotéines de haute densité (HDL).",
+      "category": "physiologie",
+      "synonyms": [
+        "Apoprotéine A1"
+      ],
+      "related_terms": [
+        "HDL",
+        "cholestérol",
+        "ApoB"
+      ],
+      "description": "L'ApoA1 est impliquée dans le transport du cholestérol et est un marqueur de protection cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": "Niveaux élevés d'ApoA1 sont associés à un risque réduit de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ApoA1",
+        "apoprotéine A1"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LPL",
+      "definition": "Lipoprotéine lipase, une enzyme qui hydrolyse les triglycérides des lipoprotéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "lipoprotéine lipase"
+      ],
+      "related_terms": [
+        "triglycérides",
+        "chylomicrons",
+        "VLDL"
+      ],
+      "description": "La LPL joue un rôle crucial dans le métabolisme des lipides en facilitant l'absorption des triglycérides par les tissus.",
+      "expansion": null,
+      "clinical_significance": "Les mutations de la LPL peuvent entraîner des hypertriglycéridémies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LPL",
+        "lipoprotéine lipase"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pancréatite",
+      "definition": "Inflammation du pancréas, souvent causée par des niveaux élevés de triglycérides ou l'abus d'alcool.",
+      "category": "pathologie",
+      "synonyms": [
+        "pancréatite"
+      ],
+      "related_terms": [
+        "triglycérides",
+        "chylomicrons",
+        "LPL"
+      ],
+      "description": "La pancréatite peut être aiguë ou chronique et peut entraîner des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Une condition médicale urgente nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pancréatite",
+        "inflammation du pancréas"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "xanthomes éruptifs",
+      "definition": "Dépôts lipidiques sous-cutanés qui apparaissent soudainement, souvent associés à des niveaux élevés de triglycérides.",
+      "category": "pathologie",
+      "synonyms": [
+        "xanthomes"
+      ],
+      "related_terms": [
+        "hypertriglycéridémie",
+        "dyslipidémie"
+      ],
+      "description": "Les xanthomes éruptifs sont des lésions cutanées jaunâtres qui peuvent apparaître sur diverses parties du corps.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de niveaux élevés de triglycérides et de risque cardiovasculaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "xanthomes éruptifs",
+        "dépôts lipidiques"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertriglycéridémie endogène",
+      "definition": "Élévation des triglycérides due à une production excessive de VLDL par le foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertriglycéridémie"
+      ],
+      "related_terms": [
+        "VLDL",
+        "dyslipidémie"
+      ],
+      "description": "L'hypertriglycéridémie endogène est souvent associée à un syndrome métabolique et à des risques cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de maladies cardiovasculaires et de pancréatite aiguë.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertriglycéridémie",
+        "VLDL"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athérogène",
+      "definition": "Qui favorise la formation de plaques d'athérome dans les artères, augmentant le risque de maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "athérogénique"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "dyslipidémie"
+      ],
+      "description": "Les particules athérogènes, comme les LDL petites et denses, contribuent à la formation de plaques d'athérome.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "athérosclérose",
+        "plaques d'athérome"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obésité viscérale",
+      "definition": "Accumulation excessive de graisse dans la région abdominale, souvent associée à des risques métaboliques et cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "obésité abdominale"
+      ],
+      "related_terms": [
+        "syndrome métabolique",
+        "diabète sucré"
+      ],
+      "description": "L'obésité viscérale est mesurée par le tour de taille et est un facteur de risque pour le diabète et les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de maladies cardiovasculaires et de diabète.",
+      "normal_values": null,
+      "image_search_terms": [
+        "obésité viscérale",
+        "graisse abdominale"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperuricémie",
+      "definition": "Élévation anormale du taux d'acide urique dans le sang, souvent associée à la goutte et à des risques cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperuricémie"
+      ],
+      "related_terms": [
+        "goutte",
+        "acide urique"
+      ],
+      "description": "L'hyperuricémie peut entraîner des crises de goutte et des dépôts d'urate dans les tissus.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de goutte et de maladies cardiovasculaires.",
+      "normal_values": "Acide urique < 7 mg/dL (420 µmol/L)",
+      "image_search_terms": [
+        "hyperuricémie",
+        "goutte"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stéatose hépatique",
+      "definition": "Accumulation de graisse dans les cellules hépatiques, souvent due à une consommation excessive d'alcool ou à des troubles métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "foie gras"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "foie"
+      ],
+      "description": "La stéatose hépatique peut progresser vers une hépatite, une fibrose et une cirrhose.",
+      "expansion": null,
+      "clinical_significance": "Risque de progression vers la cirrhose et l'insuffisance hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "stéatose hépatique",
+        "foie gras"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apoprotéines B",
+      "definition": "Protéines associées aux lipoprotéines, jouant un rôle crucial dans le transport des lipides dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "apoB"
+      ],
+      "related_terms": [
+        "LDL",
+        "lipoprotéines"
+      ],
+      "description": "Les mutations des apoprotéines B peuvent entraîner des dyslipidémies.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "apoprotéines B",
+        "apolipoprotéine B"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diabète de type 2",
+      "definition": "Forme de diabète caractérisée par une résistance à l'insuline et une production insuffisante d'insuline, souvent associée à l'obésité et à un mode de vie sédentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète non insulinodépendant"
+      ],
+      "related_terms": [
+        "insuline",
+        "obésité"
+      ],
+      "description": "Le diabète de type 2 est la forme la plus courante de diabète et est souvent associé à des complications microvasculaires et macrovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de complications vasculaires et neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "diabète de type 2",
+        "résistance à l'insuline"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ApoE",
+      "definition": "Apolipoprotéine E, une protéine impliquée dans le métabolisme des lipides et le transport des lipoprotéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "apolipoprotéine E"
+      ],
+      "related_terms": [
+        "lipoprotéines",
+        "cholestérol"
+      ],
+      "description": "Les mutations du gène de l'ApoE peuvent entraîner des dyslipidémies.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ApoE",
+        "apolipoprotéine E"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apo A1",
+      "definition": "Apolipoprotéine A1, une protéine majeure des lipoprotéines de haute densité (HDL) impliquée dans le transport du cholestérol.",
+      "category": "pathologie",
+      "synonyms": [
+        "Apolipoprotéine A-I"
+      ],
+      "related_terms": [
+        "HDL",
+        "cholestérol"
+      ],
+      "description": "La mutation de l'apo A1 peut entraîner des dyslipidémies et des complications telles que des opacités cornéennes et une néphropathie glomérulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athérogénicité",
+      "definition": "Capacité d'un facteur à induire ou à favoriser l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [
+        "athérogénicité"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "cholestérol"
+      ],
+      "description": "L'athérogénicité varie selon les types de dyslipidémies et les facteurs de risque associés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipoprotéine",
+      "definition": "Particule composée de lipides et de protéines qui transporte les lipides dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "lipoprotéine"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "triglycérides"
+      ],
+      "description": "Les lipoprotéines incluent les HDL, LDL, VLDL et chylomicrons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocholestérolémiants",
+      "definition": "Médicaments utilisés pour réduire les niveaux de cholestérol dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hypocholestérolémiants"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "statines"
+      ],
+      "description": "Les hypocholestérolémiants incluent les statines, les fibrates et les inhibiteurs de l'absorption du cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome néphrotique",
+      "definition": "Ensemble de symptômes incluant une protéinurie massive, une hypoalbuminémie, un œdème et une hyperlipidémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome néphrotique"
+      ],
+      "related_terms": [
+        "protéinurie",
+        "hypoalbuminémie"
+      ],
+      "description": "Le syndrome néphrotique est souvent associé à des maladies rénales et peut entraîner une hypercholestérolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestase",
+      "definition": "Réduction ou arrêt de la sécrétion biliaire, entraînant une accumulation de substances biliaires dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "cholestase"
+      ],
+      "related_terms": [
+        "bile",
+        "foie"
+      ],
+      "description": "La cholestase peut entraîner une hypercholestérolémie et d'autres troubles métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HVG",
+      "definition": "Hypertrophie ventriculaire gauche, une augmentation de la masse du ventricule gauche du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertrophie ventriculaire gauche"
+      ],
+      "related_terms": [
+        "hypertrophie cardiaque",
+        "ventricule gauche"
+      ],
+      "description": "L'HVG est souvent associée à l'hypertension artérielle et peut entraîner une insuffisance cardiaque.",
+      "expansion": "Hypertrophie Ventriculaire Gauche",
+      "clinical_significance": "L'HVG est un facteur de risque pour les maladies cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypertrophie ventriculaire gauche",
+        "ventricule gauche"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDL-C",
+      "definition": "Cholestérol à lipoprotéines de haute densité, souvent appelé 'bon cholestérol'.",
+      "category": "physiologie",
+      "synonyms": [
+        "HDL cholestérol",
+        "bon cholestérol"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "lipoprotéines"
+      ],
+      "description": "Le HDL-C aide à éliminer le cholestérol des artères et à le transporter vers le foie pour être éliminé.",
+      "expansion": "High-Density Lipoprotein Cholesterol",
+      "clinical_significance": "Des niveaux élevés de HDL-C sont associés à un risque réduit de maladies cardiovasculaires.",
+      "normal_values": "> 0.4 g/L",
+      "image_search_terms": [
+        "HDL cholestérol",
+        "lipoprotéines de haute densité"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protéine C-réactive ultrasensible",
+      "definition": "Un marqueur sanguin utilisé pour détecter l'inflammation dans le corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "CRP ultrasensible",
+        "hs-CRP"
+      ],
+      "related_terms": [
+        "inflammation",
+        "marqueurs biologiques"
+      ],
+      "description": "Des niveaux élevés de protéine C-réactive ultrasensible sont associés à un risque accru de maladies cardiovasculaires.",
+      "expansion": "High-Sensitivity C-Reactive Protein",
+      "clinical_significance": "Utilisé pour évaluer le risque cardiovasculaire et surveiller l'inflammation.",
+      "normal_values": "< 1 mg/L",
+      "image_search_terms": [
+        "CRP ultrasensible",
+        "hs-CRP"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhomocystéinémie",
+      "definition": "Une condition caractérisée par des niveaux élevés d'homocystéine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "homocystéine",
+        "acide folique"
+      ],
+      "description": "L'hyperhomocystéinémie est associée à un risque accru de maladies cardiovasculaires, bien que son traitement par l'acide folique n'ait pas prouvé son statut de facteur de risque.",
+      "expansion": "",
+      "clinical_significance": "Associée à un risque accru de maladies cardiovasculaires.",
+      "normal_values": "< 15 µmol/L",
+      "image_search_terms": [
+        "hyperhomocystéinémie",
+        "homocystéine"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lp (a)",
+      "definition": "Lipoprotéine (a), une particule de lipoprotéine riche en cholestérol.",
+      "category": "physiologie",
+      "synonyms": [
+        "lipoprotéine (a)"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "lipoprotéines"
+      ],
+      "description": "Des niveaux élevés de Lp (a) sont associés à un risque accru de maladies cardiovasculaires.",
+      "expansion": "Lipoprotein (a)",
+      "clinical_significance": "Utilisé comme marqueur de risque cardiovasculaire.",
+      "normal_values": "< 30 mg/dL",
+      "image_search_terms": [
+        "Lp (a)",
+        "lipoprotéine (a)"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrocardiographie à l'effort",
+      "definition": "Un test qui enregistre l'activité électrique du cœur pendant l'exercice physique.",
+      "category": "imagerie",
+      "synonyms": [
+        "ECG à l'effort",
+        "test d'effort"
+      ],
+      "related_terms": [
+        "électrocardiogramme",
+        "test de stress"
+      ],
+      "description": "Utilisé pour diagnostiquer les maladies coronariennes et évaluer la tolérance à l'exercice.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic des maladies cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "électrocardiographie à l'effort",
+        "ECG à l'effort"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SCORE",
+      "definition": "Système Coronaire d'Évaluation du Risque, un outil utilisé pour estimer le risque de mortalité cardiovasculaire sur 10 ans.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "risque cardiovasculaire",
+        "mortalité"
+      ],
+      "description": "Le SCORE est utilisé pour évaluer le risque de mortalité cardiovasculaire et guider les décisions thérapeutiques.",
+      "expansion": "Systematic COronary Risk Evaluation",
+      "clinical_significance": "Utilisé pour estimer le risque cardiovasculaire et guider les décisions thérapeutiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "SCORE",
+        "risque cardiovasculaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiopathie ischémique",
+      "definition": "Une maladie caractérisée par un apport sanguin insuffisant au muscle cardiaque, souvent due à une obstruction des artères coronaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie coronarienne",
+        "ischémie cardiaque"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angine de poitrine"
+      ],
+      "description": "La cardiopathie ischémique peut entraîner des douleurs thoraciques, des crises cardiaques et une insuffisance cardiaque.",
+      "expansion": "",
+      "clinical_significance": "Une cause majeure de morbidité et de mortalité cardiovasculaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cardiopathie ischémique",
+        "maladie coronarienne"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRC",
+      "definition": "Insuffisance rénale chronique, une perte progressive de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance rénale chronique"
+      ],
+      "related_terms": [
+        "néphropathie",
+        "dialyse"
+      ],
+      "description": "L'IRC peut entraîner une accumulation de déchets dans le sang, une hypertension et d'autres complications.",
+      "expansion": "Insuffisance Rénale Chronique",
+      "clinical_significance": "Une maladie chronique nécessitant une gestion médicale continue.",
+      "normal_values": "Clearance de la créatinine > 90 ml/min",
+      "image_search_terms": [
+        "IRC",
+        "insuffisance rénale chronique"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MCV",
+      "definition": "Maladie cardiovasculaire, une condition affectant le cœur et les vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie cardiovasculaire"
+      ],
+      "related_terms": [
+        "maladie coronarienne",
+        "accident vasculaire cérébral"
+      ],
+      "description": "Les MCV incluent les maladies coronariennes, les accidents vasculaires cérébraux et l'artériopathie périphérique.",
+      "expansion": "Maladie CardioVasculaire",
+      "clinical_significance": "Une cause majeure de morbidité et de mortalité.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "MCV",
+        "maladie cardiovasculaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériopathie des membres inférieurs",
+      "definition": "Une maladie des artères des membres inférieurs, souvent due à l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [
+        "artériopathie oblitérante des membres inférieurs"
+      ],
+      "related_terms": [
+        "athérosclérose",
+        "ischémie"
+      ],
+      "description": "L'artériopathie des membres inférieurs peut entraîner des douleurs aux jambes, des ulcères et une gangrène.",
+      "expansion": "",
+      "clinical_significance": "Une cause majeure de morbidité et de mortalité.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "artériopathie des membres inférieurs",
+        "artériopathie oblitérante"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypercholestérolémie familiale",
+      "definition": "Une maladie génétique caractérisée par des niveaux élevés de cholestérol LDL dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypercholestérolémie héréditaire"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "LDL"
+      ],
+      "description": "L'hypercholestérolémie familiale augmente le risque de maladies cardiovasculaires précoces.",
+      "expansion": "",
+      "clinical_significance": "Une maladie génétique nécessitant une gestion médicale continue.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypercholestérolémie familiale",
+        "hypercholestérolémie héréditaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hygiéno-diététiques",
+      "definition": "Mesures visant à améliorer la santé par des habitudes de vie saines, y compris l'alimentation et l'exercice physique.",
+      "category": "physiologie",
+      "synonyms": [
+        "mesures hygiéno-diététiques"
+      ],
+      "related_terms": [
+        "alimentation",
+        "exercice physique"
+      ],
+      "description": "Les mesures hygiéno-diététiques sont essentielles pour la prévention et la gestion des maladies chroniques.",
+      "expansion": "",
+      "clinical_significance": "Important pour la prévention des maladies cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hygiéno-diététiques",
+        "mesures hygiéno-diététiques"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méditerranéen",
+      "definition": "Un régime alimentaire traditionnel des pays bordant la mer Méditerranée, caractérisé par une consommation élevée de fruits, légumes, céréales complètes, légumineuses, noix et huile d'olive.",
+      "category": "physiologie",
+      "synonyms": [
+        "régime méditerranéen"
+      ],
+      "related_terms": [
+        "alimentation",
+        "nutrition"
+      ],
+      "description": "Le régime méditerranéen est associé à une réduction du risque de maladies cardiovasculaires et de diabète.",
+      "expansion": "",
+      "clinical_significance": "Recommandé pour la prévention des maladies cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "régime méditerranéen",
+        "alimentation méditerranéenne"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mono-insaturés",
+      "definition": "Graisses contenant une seule liaison double dans leur structure chimique, souvent trouvées dans l'huile d'olive et les avocats.",
+      "category": "physiologie",
+      "synonyms": [
+        "acides gras mono-insaturés"
+      ],
+      "related_terms": [
+        "graisses",
+        "huile d'olive"
+      ],
+      "description": "Les graisses mono-insaturées sont bénéfiques pour la santé cardiovasculaire.",
+      "expansion": "",
+      "clinical_significance": "Recommandées pour remplacer les graisses saturées.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "graisses mono-insaturées",
+        "acides gras mono-insaturés"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyinsaturés",
+      "definition": "Graisses contenant plusieurs liaisons doubles dans leur structure chimique, souvent trouvées dans les poissons gras et les noix.",
+      "category": "physiologie",
+      "synonyms": [
+        "acides gras polyinsaturés"
+      ],
+      "related_terms": [
+        "graisses",
+        "oméga-3"
+      ],
+      "description": "Les graisses polyinsaturées sont bénéfiques pour la santé cardiovasculaire et le développement du cerveau.",
+      "expansion": "",
+      "clinical_significance": "Recommandées pour une alimentation équilibrée.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "graisses polyinsaturées",
+        "acides gras polyinsaturés"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trans",
+      "definition": "Graisses contenant des liaisons doubles en configuration trans, souvent trouvées dans les aliments transformés et les margarines.",
+      "category": "physiologie",
+      "synonyms": [
+        "acides gras trans"
+      ],
+      "related_terms": [
+        "graisses",
+        "margarine"
+      ],
+      "description": "Les graisses trans augmentent le risque de maladies cardiovasculaires et doivent être évitées.",
+      "expansion": "",
+      "clinical_significance": "Associées à un risque accru de maladies cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "graisses trans",
+        "acides gras trans"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-oxydants",
+      "definition": "Substances qui protègent les cellules contre les dommages causés par les radicaux libres.",
+      "category": "physiologie",
+      "synonyms": [
+        "antioxydants"
+      ],
+      "related_terms": [
+        "radicaux libres",
+        "stress oxydatif"
+      ],
+      "description": "Les antioxydants sont présents dans les fruits, légumes et noix et sont bénéfiques pour la santé cardiovasculaire.",
+      "expansion": "",
+      "clinical_significance": "Importants pour la prévention des maladies chroniques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anti-oxydants",
+        "antioxydants"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérolémie",
+      "definition": "Concentration de cholestérol dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "taux de cholestérol"
+      ],
+      "related_terms": [
+        "hypercholestérolémie",
+        "hypocholestérolémie"
+      ],
+      "description": "La cholestérolémie est un indicateur important de la santé cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "Valeurs normales varient selon les directives, mais généralement < 200 mg/dL est considéré comme normal.",
+      "image_search_terms": [
+        "cholestérol",
+        "lipides sanguins"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stérols végétaux",
+      "definition": "Composés naturels présents dans les plantes qui ont une structure similaire au cholestérol et peuvent aider à réduire son absorption.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "phytostérols"
+      ],
+      "related_terms": [
+        "stanols végétaux",
+        "cholestérol"
+      ],
+      "description": "Les stérols végétaux sont souvent ajoutés aux aliments pour aider à réduire le cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "phytostérols",
+        "aliments enrichis en stérols"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertriglycéridémies",
+      "definition": "Élévation anormale des triglycérides dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertriglycéridémie"
+      ],
+      "related_terms": [
+        "triglycérides",
+        "dyslipidémie"
+      ],
+      "description": "Les hypertriglycéridémies sont associées à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "triglycérides",
+        "lipides sanguins"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glucido-dépendantes",
+      "definition": "Formes de dyslipidémies influencées par la consommation de glucides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dyslipidémie",
+        "glucides"
+      ],
+      "description": "Les formes glucido-dépendantes nécessitent une réduction des sucres simples à index glycémique élevé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glucides",
+        "dyslipidémie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pléthorodépendante",
+      "definition": "Forme de dyslipidémie liée à l'obésité, en particulier l'adiposité abdominale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obésité",
+        "adiposité abdominale"
+      ],
+      "description": "La forme pléthorodépendante nécessite une réduction pondérale progressive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "obésité",
+        "adiposité abdominale"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcoolodépendante",
+      "definition": "Forme de dyslipidémie liée à la consommation excessive d'alcool.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "alcoolisme",
+        "dyslipidémie"
+      ],
+      "description": "La forme alcoolodépendante nécessite une suppression complète des apports d'alcool.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alcoolisme",
+        "dyslipidémie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardio-vasculaire",
+      "definition": "Relatif au cœur et aux vaisseaux sanguins.",
+      "category": "anatomie",
+      "synonyms": [
+        "cardiovasculaire"
+      ],
+      "related_terms": [
+        "système cardiovasculaire",
+        "cœur",
+        "vaisseaux sanguins"
+      ],
+      "description": "Le système cardio-vasculaire est essentiel pour la circulation sanguine et l'oxygénation des tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "système cardiovasculaire",
+        "cœur",
+        "vaisseaux sanguins"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "statines",
+      "definition": "Classe de médicaments utilisés pour abaisser le cholestérol en inhibant l'enzyme HMG-CoA réductase.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "HMG-CoA réductase",
+        "cholestérol"
+      ],
+      "description": "Les statines sont couramment prescrites pour prévenir les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "statines",
+        "médicaments hypolipémiants"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HMG-CoA réductase",
+      "definition": "Enzyme clé dans la voie de biosynthèse du cholestérol, cible des statines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "statines",
+        "cholestérol"
+      ],
+      "description": "L'inhibition de l'HMG-CoA réductase réduit la production de cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HMG-CoA réductase",
+        "cholestérol"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite médicamenteuse",
+      "definition": "Inflammation du foie causée par des médicaments.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatite toxique"
+      ],
+      "related_terms": [
+        "hépatite",
+        "médicaments"
+      ],
+      "description": "L'hépatite médicamenteuse peut être due à une réaction toxique ou immunologique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatite",
+        "foie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myalgies",
+      "definition": "Douleurs musculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "douleur musculaire",
+        "myalgie"
+      ],
+      "description": "Les myalgies peuvent être un effet secondaire des statines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "myalgies",
+        "douleur musculaire"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CPK",
+      "definition": "Crétine phosphokinase, une enzyme présente dans les muscles et le cœur, utilisée comme marqueur de lésions musculaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "créatine kinase"
+      ],
+      "related_terms": [
+        "myalgies",
+        "rhabdomyolyse"
+      ],
+      "description": "L'élévation de la CPK peut indiquer une atteinte musculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "CPK",
+        "enzymes musculaires"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance hépatique",
+      "definition": "Diminution de la fonction hépatique, entraînant une accumulation de toxines dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance hépatique chronique"
+      ],
+      "related_terms": [
+        "foie",
+        "fonction hépatique"
+      ],
+      "description": "L'insuffisance hépatique peut augmenter le risque de myopathie avec les statines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance hépatique",
+        "foie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrates",
+      "definition": "Classe de médicaments utilisés pour abaisser les triglycérides et le cholestérol.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "triglycérides",
+        "cholestérol"
+      ],
+      "description": "Les fibrates sont souvent utilisés en complément des statines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrates",
+        "médicaments hypolipémiants"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antivitamines K",
+      "definition": "Médicaments anticoagulants qui inhibent l'action de la vitamine K.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anticoagulants oraux"
+      ],
+      "related_terms": [
+        "anticoagulants",
+        "vitamine K"
+      ],
+      "description": "Les antivitamines K peuvent interagir avec les statines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "antivitamines K",
+        "anticoagulants"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatocytes",
+      "definition": "Cellules principales du foie responsables de nombreuses fonctions métaboliques.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "foie",
+        "cellules hépatiques"
+      ],
+      "description": "Les hépatocytes jouent un rôle clé dans la synthèse du cholestérol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatocytes",
+        "foie"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "athérome",
+      "definition": "Accumulation de lipides et de cellules inflammatoires dans la paroi des artères, formant des plaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "athérosclérose"
+      ],
+      "related_terms": [
+        "plaques d'athérome",
+        "artères"
+      ],
+      "description": "L'athérome est une cause majeure de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "athérome",
+        "plaques d'athérome"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules spumeuses",
+      "definition": "Cellules chargées de lipides, principalement des macrophages, présentes dans les plaques d'athérome.",
+      "category": "pathologie",
+      "synonyms": [
+        "cellules mousseuses"
+      ],
+      "related_terms": [
+        "macrophages",
+        "plaques d'athérome"
+      ],
+      "description": "Les cellules spumeuses jouent un rôle clé dans le développement de l'athérosclérose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cellules spumeuses",
+        "macrophages"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PPAR α",
+      "definition": "Récepteurs nucléaires activés par les proliférateurs de peroxysomes, impliqués dans la régulation du métabolisme des lipides.",
+      "category": "physiologie",
+      "synonyms": [
+        "Peroxisome Proliferator Activated Receptors alpha"
+      ],
+      "related_terms": [
+        "récepteurs nucléaires",
+        "métabolisme des lipides"
+      ],
+      "description": "Les PPAR α sont la cible des fibrates.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PPAR α",
+        "récepteurs nucléaires"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipoprotéines VLDL",
+      "definition": "Lipoprotéines de très basse densité, responsables du transport des triglycérides dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "VLDL"
+      ],
+      "related_terms": [
+        "triglycérides",
+        "lipoprotéines"
+      ],
+      "description": "Les VLDL sont impliquées dans le transport des lipides du foie vers les tissus périphériques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lipoprotéines VLDL",
+        "triglycérides"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestyramine",
+      "definition": "La cholestyramine est une résine échangeuse d'ions utilisée pour traiter l'hypercholestérolémie en liant les acides biliaires dans l'intestin, ce qui augmente l'élimination du cholestérol.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Questran"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "acides biliaires"
+      ],
+      "description": "La cholestyramine est utilisée pour réduire les niveaux de LDL-cholestérol et est souvent prescrite en association avec d'autres traitements ou en cas d'intolérance aux statines.",
+      "expansion": null,
+      "clinical_significance": "Utilisée principalement pour traiter l'hypercholestérolémie, surtout chez les enfants ou en cas d'intolérance aux statines.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ezétimibe",
+      "definition": "L'ezétimibe est un inhibiteur de l'absorption du cholestérol utilisé pour traiter l'hypercholestérolémie en réduisant l'absorption du cholestérol dans l'intestin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ezetrol"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "LDL-cholestérol"
+      ],
+      "description": "L'ezétimibe est souvent utilisé en association avec les statines pour une meilleure gestion des niveaux de cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Utilisé principalement en association avec les statines pour une meilleure gestion des niveaux de cholestérol.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs PCSK9",
+      "definition": "Les inhibiteurs PCSK9 sont des anticorps monoclonaux qui inhibent la proprotéine convertase subtilisine/kexine de type 9 (PCSK9), augmentant ainsi la durée de vie des récepteurs du LDL et réduisant les niveaux de LDL-cholestérol.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "alirocumab",
+        "évolocumab"
+      ],
+      "related_terms": [
+        "LDL-cholestérol",
+        "récepteurs du LDL"
+      ],
+      "description": "Les inhibiteurs PCSK9 sont utilisés pour traiter l'hypercholestérolémie, souvent en association avec les statines, pour réduire les niveaux de LDL-cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'hypercholestérolémie, souvent en association avec les statines.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acides gras polyinsaturés",
+      "definition": "Les acides gras polyinsaturés sont des acides gras contenant plus d'une double liaison dans leur chaîne carbonée, essentiels pour la santé cardiovasculaire et le développement cérébral.",
+      "category": "physiologie",
+      "synonyms": [
+        "AGPI"
+      ],
+      "related_terms": [
+        "oméga-3",
+        "oméga-6"
+      ],
+      "description": "Les acides gras polyinsaturés, notamment les oméga-3, sont bénéfiques pour la santé cardiovasculaire en réduisant les triglycérides et en augmentant le HDL-cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Importants pour la santé cardiovasculaire et le développement cérébral.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oméga 3",
+      "definition": "Les oméga-3 sont des acides gras polyinsaturés essentiels, principalement trouvés dans les huiles de poisson et certaines plantes, bénéfiques pour la santé cardiovasculaire et le développement cérébral.",
+      "category": "physiologie",
+      "synonyms": [
+        "acides gras oméga-3"
+      ],
+      "related_terms": [
+        "acides gras polyinsaturés",
+        "huiles de poisson"
+      ],
+      "description": "Les oméga-3 réduisent les triglycérides, augmentent le HDL-cholestérol et ont des effets anti-inflammatoires et antithrombotiques.",
+      "expansion": null,
+      "clinical_significance": "Bénéfiques pour la santé cardiovasculaire et le développement cérébral.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LDL-aphérèse",
+      "definition": "La LDL-aphérèse est une technique d'extraction sélective des LDL-cholestérol du sang, utilisée pour traiter les formes sévères d'hypercholestérolémie familiale.",
+      "category": "imagerie",
+      "synonyms": [
+        "aphérèse des LDL"
+      ],
+      "related_terms": [
+        "hypercholestérolémie familiale",
+        "LDL-cholestérol"
+      ],
+      "description": "La LDL-aphérèse est un traitement lourd réservé aux formes sévères d'hypercholestérolémie familiale, souvent en association avec d'autres traitements.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter les formes sévères d'hypercholestérolémie familiale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESC/EASD/ADA 2019",
+      "definition": "Les recommandations ESC/EASD/ADA 2019 sont des lignes directrices cliniques pour la gestion des dyslipidémies et la prévention des maladies cardiovasculaires, émises par la Société Européenne de Cardiologie, l'Association Européenne pour l'Étude du Diabète et l'Association Américaine du Diabète.",
+      "category": "classification",
+      "synonyms": [
+        "recommandations ESC/EASD/ADA"
+      ],
+      "related_terms": [
+        "dyslipidémies",
+        "prévention cardiovasculaire"
+      ],
+      "description": "Ces recommandations fournissent des objectifs de LDL-cholestérol et des stratégies de traitement basées sur le risque vasculaire.",
+      "expansion": null,
+      "clinical_significance": "Fournissent des objectifs de LDL-cholestérol et des stratégies de traitement basées sur le risque vasculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypolipémiant",
+      "definition": "Médicament utilisé pour réduire les niveaux de lipides dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hypolipémiant"
+      ],
+      "related_terms": [
+        "statines",
+        "fibrates"
+      ],
+      "description": "Les hypolipémiants sont utilisés pour traiter les dyslipidémies et prévenir les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypolipémiant",
+        "médicament"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "écho-doppler vasculaire",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les vaisseaux sanguins et mesurer le flux sanguin.",
+      "category": "imagerie",
+      "synonyms": [
+        "écho-doppler"
+      ],
+      "related_terms": [
+        "Doppler",
+        "échographie"
+      ],
+      "description": "L'écho-doppler vasculaire est utilisé pour détecter les obstructions et les anomalies des vaisseaux sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "écho-doppler vasculaire",
+        "ultrasons"
+      ],
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "source_file": "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Endocrinologie/Dyslipidémies/Courses/23 Les dyslipidémies 2.51.49 AM.md"
+  ],
+  "total_terms": 155
+}

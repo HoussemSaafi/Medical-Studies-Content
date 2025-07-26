@@ -1,0 +1,1722 @@
+{
+  "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+  "terms": [
+    {
+      "term": "Cauchoix",
+      "definition": "Classification des fractures ouvertes basée sur le type d'ouverture cutanée.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Duparc",
+        "Mechelany"
+      ],
+      "description": "La classification de Cauchoix et Duparc, complétée par Mechelany, est utilisée pour évaluer la gravité des fractures ouvertes en fonction de l'ouverture cutanée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Duparc",
+      "definition": "Classification des fractures ouvertes basée sur le type d'ouverture cutanée.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Cauchoix",
+        "Mechelany"
+      ],
+      "description": "La classification de Duparc et Cauchoix, complétée par Mechelany, est utilisée pour évaluer la gravité des fractures ouvertes en fonction de l'ouverture cutanée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mechelany",
+      "definition": "Classification des fractures ouvertes basée sur le type d'ouverture cutanée.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "Cauchoix",
+        "Duparc"
+      ],
+      "description": "La classification de Mechelany complète celle de Cauchoix et Duparc pour évaluer la gravité des fractures ouvertes en fonction de l'ouverture cutanée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tibia",
+      "definition": "Os long situé à l'avant de la jambe, formant la partie principale du squelette de la jambe.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Fibula",
+        "Péroné"
+      ],
+      "description": "Le tibia est l'os principal de la jambe, essentiel pour la structure et le mouvement de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "os tibia",
+        "anatomie tibia"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibula",
+      "definition": "Os long situé à l'extérieur de la jambe, parallèle au tibia.",
+      "category": "anatomie",
+      "synonyms": [
+        "Péroné"
+      ],
+      "related_terms": [
+        "Tibia"
+      ],
+      "description": "La fibula, ou péroné, est un os long qui stabilise la cheville et soutient les muscles de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "os fibula",
+        "anatomie fibula"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tibial antérieur",
+      "definition": "Muscle situé dans la loge antérieure de la jambe, responsable de la flexion dorsale et de la supination du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Long extenseur des orteils",
+        "Long extenseur de l'hallux"
+      ],
+      "description": "Le tibial antérieur est innervé par le nerf fibulaire profond et joue un rôle crucial dans la flexion dorsale du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle tibial antérieur",
+        "anatomie tibial antérieur"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Long extenseur des orteils",
+      "definition": "Muscle situé dans la loge antérieure de la jambe, responsable de l'extension des orteils et de la flexion dorsale du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Tibial antérieur",
+        "Long extenseur de l'hallux"
+      ],
+      "description": "Le long extenseur des orteils est innervé par le nerf fibulaire profond et contribue à l'extension des orteils.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle long extenseur des orteils",
+        "anatomie long extenseur des orteils"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Long extenseur de l'hallux",
+      "definition": "Muscle situé dans la loge antérieure de la jambe, responsable de l'extension de l'hallux et de la flexion dorsale du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Tibial antérieur",
+        "Long extenseur des orteils"
+      ],
+      "description": "Le long extenseur de l'hallux est innervé par le nerf fibulaire profond et joue un rôle dans l'extension du gros orteil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle long extenseur de l'hallux",
+        "anatomie long extenseur de l'hallux"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Troisième fibulaire",
+      "definition": "Muscle inconstant situé dans la loge antérieure de la jambe, responsable de la flexion dorsale et de la pronation du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Tibial antérieur",
+        "Long extenseur des orteils"
+      ],
+      "description": "Le troisième fibulaire, lorsqu'il est présent, est innervé par le nerf fibulaire profond et contribue à la flexion dorsale du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle troisième fibulaire",
+        "anatomie troisième fibulaire"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf fibulaire profond",
+      "definition": "Nerf issu du nerf fibulaire commun, innervant les muscles de la loge antérieure de la jambe.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "nerf fibulaire commun",
+        "nerf fibulaire superficiel"
+      ],
+      "description": "Le nerf fibulaire profond est responsable de l'innervation motrice des muscles de la loge antérieure et de la sensibilité du dos du premier espace interdigital du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf fibulaire profond",
+        "anatomie nerf fibulaire profond"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Long Fibulaire",
+      "definition": "Muscle situé dans la loge latérale de la jambe, responsable de la flexion plantaire et de la pronation du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Court Fibulaire",
+        "nerf fibulaire superficiel"
+      ],
+      "description": "Le long fibulaire est innervé par le nerf fibulaire superficiel et joue un rôle dans la flexion plantaire du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle long fibulaire",
+        "anatomie long fibulaire"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Court Fibulaire",
+      "definition": "Muscle situé dans la loge latérale de la jambe, responsable de la flexion plantaire et de la pronation du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Long Fibulaire",
+        "nerf fibulaire superficiel"
+      ],
+      "description": "Le court fibulaire est innervé par le nerf fibulaire superficiel et contribue à la flexion plantaire du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle court fibulaire",
+        "anatomie court fibulaire"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf fibulaire superficiel",
+      "definition": "Nerf issu du nerf fibulaire commun, innervant les muscles de la loge latérale de la jambe.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "nerf fibulaire commun",
+        "nerf fibulaire profond"
+      ],
+      "description": "Le nerf fibulaire superficiel est responsable de l'innervation motrice des muscles de la loge latérale et de la sensibilité de la moitié latérale du tiers inférieur de la jambe et de la partie moyenne de la face dorsale du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf fibulaire superficiel",
+        "anatomie nerf fibulaire superficiel"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Triceps Sural",
+      "definition": "Groupe musculaire de la loge postérieure de la jambe, formé par les gastrocnémiens et le soléaire, responsable de la flexion plantaire du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrocnémiens",
+        "soléaire"
+      ],
+      "description": "Le triceps sural est innervé par le nerf tibial et joue un rôle crucial dans la flexion plantaire du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle triceps sural",
+        "anatomie triceps sural"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Plantaire Grêle",
+      "definition": "Muscle inconstant situé dans la loge postérieure de la jambe, responsable de la flexion plantaire du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Triceps Sural",
+        "nerf tibial"
+      ],
+      "description": "Le plantaire grêle, lorsqu'il est présent, est innervé par le nerf tibial et contribue à la flexion plantaire du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle plantaire grêle",
+        "anatomie plantaire grêle"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Long Fléchisseur des Orteils",
+      "definition": "Muscle situé dans la loge postérieure de la jambe, responsable de la flexion des orteils et de la flexion plantaire du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Tibial Postérieur",
+        "Long Fléchisseur de l'Hallux"
+      ],
+      "description": "Le long fléchisseur des orteils est innervé par le nerf tibial et joue un rôle dans la flexion des orteils.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle long fléchisseur des orteils",
+        "anatomie long fléchisseur des orteils"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tibial Postérieur",
+      "definition": "Muscle situé dans la loge postérieure de la jambe, responsable de la flexion plantaire du pied et de la supination du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Long Fléchisseur des Orteils",
+        "Long Fléchisseur de l'Hallux"
+      ],
+      "description": "Le tibial postérieur est innervé par le nerf tibial et contribue à la flexion plantaire et à la supination du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle tibial postérieur",
+        "anatomie tibial postérieur"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Long Fléchisseur de l'Hallux",
+      "definition": "Muscle situé dans la loge postérieure de la jambe, responsable de la flexion de l'hallux et de la flexion plantaire du pied.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "Tibial Postérieur",
+        "Long Fléchisseur des Orteils"
+      ],
+      "description": "Le long fléchisseur de l'hallux est innervé par le nerf tibial et joue un rôle dans la flexion du gros orteil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle long fléchisseur de l'hallux",
+        "anatomie long fléchisseur de l'hallux"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf tibial",
+      "definition": "Nerf issu du nerf sciatique, innervant les muscles de la loge postérieure de la jambe.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "nerf sciatique",
+        "Triceps Sural"
+      ],
+      "description": "Le nerf tibial est responsable de l'innervation motrice des muscles de la loge postérieure et de la sensibilité de la face plantaire du pied.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf tibial",
+        "anatomie nerf tibial"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cal conjonctif",
+      "definition": "Tissu conjonctif formé lors de la réparation osseuse, qui stabilise le foyer de fracture.",
+      "category": "anatomie",
+      "synonyms": [
+        "tissu conjonctif de réparation"
+      ],
+      "related_terms": [
+        "cal fibreux",
+        "cal osseux"
+      ],
+      "description": "Le cal conjonctif est une étape précoce de la consolidation osseuse, offrant une stabilité initiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cal conjonctif",
+        "réparation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéoblastiques",
+      "definition": "Cellules responsables de la formation de l'os, produisant la matrice osseuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "ostéoblastes"
+      ],
+      "related_terms": [
+        "ostéocytes",
+        "ostéoclastes"
+      ],
+      "description": "Les cellules ostéoblastiques jouent un rôle crucial dans la formation et la réparation osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéoblastes",
+        "formation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cal osseux",
+      "definition": "Tissu osseux formé lors de la consolidation d'une fracture, visible sur les radiographies.",
+      "category": "anatomie",
+      "synonyms": [
+        "tissu osseux de réparation"
+      ],
+      "related_terms": [
+        "cal conjonctif",
+        "cal fibreux"
+      ],
+      "description": "Le cal osseux est une étape avancée de la consolidation osseuse, offrant une stabilité durable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cal osseux",
+        "consolidation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contention",
+      "definition": "Maintien en place des fragments osseux pour favoriser la consolidation.",
+      "category": "pathologie",
+      "synonyms": [
+        "immobilisation"
+      ],
+      "related_terms": [
+        "détersion",
+        "immobilisation"
+      ],
+      "description": "La contention aide à maintenir les fragments osseux en position pour une meilleure consolidation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "contention",
+        "immobilisation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immobilisation",
+      "definition": "Technique de maintien en place des fragments osseux pour favoriser la consolidation.",
+      "category": "pathologie",
+      "synonyms": [
+        "contention"
+      ],
+      "related_terms": [
+        "détersion",
+        "contention"
+      ],
+      "description": "L'immobilisation est cruciale pour permettre la consolidation osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "immobilisation osseuse",
+        "contention"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cal fibreux primaire",
+      "definition": "Tissu fibreux initial formé lors de la réparation osseuse, remplacé progressivement par du tissu osseux.",
+      "category": "anatomie",
+      "synonyms": [
+        "tissu fibreux de réparation"
+      ],
+      "related_terms": [
+        "cal osseux",
+        "cal conjonctif"
+      ],
+      "description": "Le cal fibreux primaire est une étape précoce de la consolidation osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cal fibreux primaire",
+        "réparation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "remodelage osseux",
+      "definition": "Processus par lequel l'os se réorganise et s'adapte aux contraintes mécaniques.",
+      "category": "physiologie",
+      "synonyms": [
+        "remodelage osseux"
+      ],
+      "related_terms": [
+        "consolidation osseuse",
+        "ostéoblastes"
+      ],
+      "description": "Le remodelage osseux est essentiel pour la réparation et l'adaptation de l'os aux nouvelles conditions mécaniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "remodelage osseux",
+        "consolidation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéosynthèse",
+      "definition": "Technique chirurgicale de fixation des fragments osseux pour favoriser la consolidation.",
+      "category": "pathologie",
+      "synonyms": [
+        "fixation osseuse"
+      ],
+      "related_terms": [
+        "plaque vissée",
+        "enclouage centromédullaire"
+      ],
+      "description": "L'ostéosynthèse est utilisée pour stabiliser les fractures et favoriser la consolidation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéosynthèse",
+        "fixation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métaphysaire",
+      "definition": "Région de l'os située entre la diaphyse et l'épiphyse, riche en os spongieux.",
+      "category": "anatomie",
+      "synonyms": [
+        "région métaphysaire"
+      ],
+      "related_terms": [
+        "diaphyse",
+        "épiphyse"
+      ],
+      "description": "La région métaphysaire est bien vascularisée et favorise une consolidation rapide des fractures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métaphysaire",
+        "os spongieux"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diaphysaire",
+      "definition": "Région centrale de l'os long, composée principalement d'os cortical.",
+      "category": "anatomie",
+      "synonyms": [
+        "région diaphysaire"
+      ],
+      "related_terms": [
+        "métaphysaire",
+        "épiphyse"
+      ],
+      "description": "Les fractures diaphysaires sont souvent plus lentes à consolider en raison de la nature de l'os cortical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "diaphysaire",
+        "os cortical"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudarthrose",
+      "definition": "Complication de la consolidation osseuse où la fracture ne se répare pas correctement, formant une fausse articulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "fausse articulation"
+      ],
+      "related_terms": [
+        "consolidation osseuse",
+        "fracture bifocale"
+      ],
+      "description": "Les pseudarthroses sont fréquentes dans les fractures complexes et instables.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pseudarthrose",
+        "fausse articulation"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture bifocale",
+      "definition": "Fracture comportant deux traits de fracture, souvent résultant d'un traumatisme violent.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracture bifocale"
+      ],
+      "related_terms": [
+        "fracture comminutive",
+        "pseudarthrose"
+      ],
+      "description": "Les fractures bifocales sont souvent instables et à risque de pseudarthrose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fracture bifocale",
+        "fracture complexe"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture comminutive",
+      "definition": "Fracture où une partie de la diaphyse est détruite, entraînant une instabilité et une consolidation lente.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracture comminutive"
+      ],
+      "related_terms": [
+        "fracture bifocale",
+        "pseudarthrose"
+      ],
+      "description": "Les fractures comminutives sont complexes et nécessitent souvent une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fracture comminutive",
+        "fracture complexe"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métaphysaires basses",
+      "definition": "Zone de l'os située près de l'extrémité, où l'os est en contact avec la peau et présente peu d'insertions musculaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "métaphyse basse"
+      ],
+      "related_terms": [
+        "métaphyse",
+        "diaphyse"
+      ],
+      "description": "Cette zone est particulièrement vulnérable aux fractures et à la vascularisation faible, augmentant le risque de complications.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer le risque de pseudarthrose et la vascularisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périoste",
+      "definition": "Membrane fibreuse qui entoure l'os et joue un rôle crucial dans la consolidation osseuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "membrane périostée"
+      ],
+      "related_terms": [
+        "endoste",
+        "os cortical"
+      ],
+      "description": "Le périoste est essentiel pour la réparation osseuse et la formation de callus.",
+      "expansion": null,
+      "clinical_significance": "Important pour la consolidation des fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CAUCHOIX et DUPARC",
+      "definition": "Classification des fractures ouvertes en trois types basée sur l'étendue des lésions cutanées et le risque de nécrose.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "classification de Gustilo-Anderson"
+      ],
+      "description": "Utilisée pour évaluer le pronostic et le risque infectieux des fractures ouvertes.",
+      "expansion": null,
+      "clinical_significance": "Aide à déterminer le traitement et le pronostic des fractures ouvertes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémies transitoires",
+      "definition": "Réduction temporaire de l'apport sanguin à un tissu ou un organe, pouvant entraîner des lésions musculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie temporaire"
+      ],
+      "related_terms": [
+        "ischémie",
+        "hypoxie"
+      ],
+      "description": "Peut compliquer les lésions musculaires et nécessiter une évaluation opératoire.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer les lésions musculaires et le risque de nécrose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "impotence fonctionnelle",
+      "definition": "Incapacité à utiliser une partie du corps de manière normale, souvent due à une douleur ou une lésion.",
+      "category": "pathologie",
+      "synonyms": [
+        "incapacité fonctionnelle"
+      ],
+      "related_terms": [
+        "douleur",
+        "lésion"
+      ],
+      "description": "Souvent observée après un traumatisme du segment jambier.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "varus",
+      "definition": "Déviation d'un segment osseux vers l'intérieur, souvent observée dans les fractures déplacées.",
+      "category": "anatomie",
+      "synonyms": [
+        "déviation en dedans"
+      ],
+      "related_terms": [
+        "valgus",
+        "angulation"
+      ],
+      "description": "Peut être observée dans les fractures du tibia et nécessite une réduction.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer le déplacement des fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valgus",
+      "definition": "Déviation d'un segment osseux vers l'extérieur, souvent observée dans les fractures déplacées.",
+      "category": "anatomie",
+      "synonyms": [
+        "déviation en dehors"
+      ],
+      "related_terms": [
+        "varus",
+        "angulation"
+      ],
+      "description": "Peut être observée dans les fractures du tibia et nécessite une réduction.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer le déplacement des fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flexum",
+      "definition": "Position de flexion anormale d'un segment osseux, souvent observée dans les fractures déplacées.",
+      "category": "anatomie",
+      "synonyms": [
+        "flexion anormale"
+      ],
+      "related_terms": [
+        "récurvatum",
+        "angulation"
+      ],
+      "description": "Peut être observée dans les fractures du tibia et nécessite une réduction.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer le déplacement des fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récurvatum",
+      "definition": "Position d'extension anormale d'un segment osseux, souvent observée dans les fractures déplacées.",
+      "category": "anatomie",
+      "synonyms": [
+        "extension anormale"
+      ],
+      "related_terms": [
+        "flexum",
+        "angulation"
+      ],
+      "description": "Peut être observée dans les fractures du tibia et nécessite une réduction.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer le déplacement des fractures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf fibulaire commun",
+      "definition": "Nerf qui innerve les muscles releveurs des orteils et la sensibilité de la première commissure.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf sciatique poplité externe"
+      ],
+      "related_terms": [
+        "nerf tibial",
+        "nerf sciatique"
+      ],
+      "description": "Peut être atteint dans les fractures du col de la fibula.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer les lésions nerveuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cal vicieux",
+      "definition": "Consolidation osseuse anormale avec une déviation angulaire ou rotationnelle.",
+      "category": "pathologie",
+      "synonyms": [
+        "mauvaise consolidation"
+      ],
+      "related_terms": [
+        "pseudarthrose",
+        "consolidation osseuse"
+      ],
+      "description": "Peut survenir en cas de traitement orthopédique inadéquat.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent une intervention chirurgicale pour corriger.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiographie",
+      "definition": "Technique d'imagerie utilisant des produits de contraste pour visualiser les vaisseaux sanguins.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "échographie Doppler",
+        "scintigraphie"
+      ],
+      "description": "Utilisée pour évaluer les lésions vasculaires dans les fractures de la jambe.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer les lésions artérielles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture de fatigue",
+      "definition": "Type de fracture osseuse causée par des contraintes répétitives et inhabituelles, souvent observée chez les sportifs et les militaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracture de stress"
+      ],
+      "related_terms": [
+        "fracture",
+        "stress osseux"
+      ],
+      "description": "Les fractures de fatigue sont courantes chez les athlètes et les militaires en raison de l'activité physique intense et répétitive.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et le traitement des douleurs osseuses chez les athlètes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stade préfracturaire",
+      "definition": "Phase initiale d'une fracture de fatigue où la douleur osseuse est progressive et les radiographies peuvent être normales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fracture de fatigue",
+        "douleur osseuse"
+      ],
+      "description": "À ce stade, la scintigraphie osseuse peut montrer une hyperfixation localisée.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la détection précoce et le traitement des fractures de fatigue.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stade fracturaire",
+      "definition": "Phase avancée d'une fracture de fatigue où il existe une douleur osseuse aiguë et une incapacité à poursuivre l'activité sportive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fracture de fatigue",
+        "douleur osseuse"
+      ],
+      "description": "À ce stade, les radiographies montrent un trait de fracture.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le traitement chirurgical des fractures de fatigue.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de loges",
+      "definition": "Condition caractérisée par une augmentation de la pression dans un compartiment musculaire, pouvant entraîner une ischémie et une nécrose des tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome des loges"
+      ],
+      "related_terms": [
+        "compartiment musculaire",
+        "ischémie"
+      ],
+      "description": "Peut survenir après une fracture ou une immobilisation prolongée.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide pour éviter des dommages permanents.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plaque vissée",
+      "definition": "Technique chirurgicale utilisant une plaque métallique fixée par des vis pour stabiliser une fracture.",
+      "category": "chirurgie",
+      "synonyms": [
+        "ostéosynthèse par plaque"
+      ],
+      "related_terms": [
+        "ostéosynthèse",
+        "fracture"
+      ],
+      "description": "Utilisée pour traiter des fractures nécessitant une stabilisation rigide.",
+      "expansion": null,
+      "clinical_significance": "Technique courante en chirurgie orthopédique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enclouage centromédullaire",
+      "definition": "Technique chirurgicale consistant à insérer un clou dans la cavité médullaire de l'os pour stabiliser une fracture.",
+      "category": "chirurgie",
+      "synonyms": [
+        "enclouage intramédullaire"
+      ],
+      "related_terms": [
+        "ostéosynthèse",
+        "fracture"
+      ],
+      "description": "Permet une stabilisation interne tout en respectant l'hématome périfracturaire.",
+      "expansion": null,
+      "clinical_significance": "Traitement de choix pour de nombreuses fractures diaphysaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cauchois I",
+      "definition": "Classification des fractures ouvertes basée sur la gravité de la lésion cutanée et osseuse.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "fracture ouverte",
+        "classification des fractures"
+      ],
+      "description": "Utilisée pour déterminer le traitement approprié des fractures ouvertes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la prise en charge des fractures ouvertes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bristopen",
+      "definition": "Nom commercial de l'oxacilline, un antibiotique utilisé pour traiter les infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "oxacilline"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisé pour traiter les infections à staphylocoques.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des infections associées aux fractures ouvertes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Péni G/Genta/Flagyl",
+      "definition": "Combinaison d'antibiotiques à large spectre utilisée pour traiter les infections complexes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisée pour lutter contre les infections à staphylocoques et anaérobies.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des infections associées aux fractures ouvertes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Augmentin /Genta",
+      "definition": "Combinaison d'antibiotiques utilisée pour traiter les infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisée pour lutter contre les infections à staphylocoques et anaérobies.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des infections associées aux fractures ouvertes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cauchoix I",
+      "definition": "Classification des fractures ouvertes de la jambe, où Cauchoix I désigne une fracture ouverte avec une plaie cutanée simple.",
+      "category": "classification",
+      "synonyms": [
+        "Cauchoix I"
+      ],
+      "related_terms": [
+        "Cauchoix II",
+        "Cauchoix III"
+      ],
+      "description": "Utilisée pour déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "expansion": "Cauchoix I",
+      "clinical_significance": "Aide à déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Cauchoix I",
+        "fracture ouverte"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cauchoix II",
+      "definition": "Classification des fractures ouvertes de la jambe, où Cauchoix II désigne une fracture ouverte avec une plaie cutanée nécessitant une suture et éventuellement une incision de décharge postérieure.",
+      "category": "classification",
+      "synonyms": [
+        "Cauchoix II"
+      ],
+      "related_terms": [
+        "Cauchoix I",
+        "Cauchoix III"
+      ],
+      "description": "Utilisée pour déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "expansion": "Cauchoix II",
+      "clinical_significance": "Aide à déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Cauchoix II",
+        "fracture ouverte"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cauchoix III",
+      "definition": "Classification des fractures ouvertes de la jambe, où Cauchoix III désigne une fracture ouverte nécessitant un lambeau musculo-cutané.",
+      "category": "classification",
+      "synonyms": [
+        "Cauchoix III"
+      ],
+      "related_terms": [
+        "Cauchoix I",
+        "Cauchoix II"
+      ],
+      "description": "Utilisée pour déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "expansion": "Cauchoix III",
+      "clinical_significance": "Aide à déterminer le traitement approprié en fonction de la gravité de la fracture ouverte.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Cauchoix III",
+        "fracture ouverte"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suture nerveuse",
+      "definition": "Procédure chirurgicale visant à réparer une section nerveuse en réunissant les extrémités du nerf sectionné.",
+      "category": "pathologie",
+      "synonyms": [
+        "suture nerveuse",
+        "réparation nerveuse"
+      ],
+      "related_terms": [
+        "élongation",
+        "contusion"
+      ],
+      "description": "Utilisée pour réparer les nerfs sectionnés lors de fractures ouvertes.",
+      "expansion": "suture nerveuse",
+      "clinical_significance": "Permet de restaurer la fonction nerveuse après une section.",
+      "normal_values": null,
+      "image_search_terms": [
+        "suture nerveuse",
+        "réparation nerveuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracas osseux",
+      "definition": "Fragmentation osseuse résultant d'un traumatisme important, souvent associée à des lésions de broiement et des atteintes nerveuses et vasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracas osseux",
+        "fragmentation osseuse"
+      ],
+      "related_terms": [
+        "broiement",
+        "amputation"
+      ],
+      "description": "Peut nécessiter une amputation en raison de la gravité des lésions associées.",
+      "expansion": "fracas osseux",
+      "clinical_significance": "Indique une fracture grave nécessitant une intervention chirurgicale majeure.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fracas osseux",
+        "fragmentation osseuse"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "broiement",
+      "definition": "Type de lésion tissulaire causée par un traumatisme écrasant, entraînant une destruction importante des tissus mous et osseux.",
+      "category": "pathologie",
+      "synonyms": [
+        "broiement",
+        "écrasement"
+      ],
+      "related_terms": [
+        "fracas osseux",
+        "amputation"
+      ],
+      "description": "Peut nécessiter une amputation en raison de la gravité des lésions associées.",
+      "expansion": "broiement",
+      "clinical_significance": "Indique une lésion grave nécessitant une intervention chirurgicale majeure.",
+      "normal_values": null,
+      "image_search_terms": [
+        "broiement",
+        "écrasement"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antibiogrammes",
+      "definition": "Test de laboratoire permettant de déterminer la sensibilité des bactéries à différents antibiotiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "antibiogrammes",
+        "test de sensibilité aux antibiotiques"
+      ],
+      "related_terms": [
+        "antibiothérapie",
+        "infection"
+      ],
+      "description": "Utilisé pour guider le choix des antibiotiques dans le traitement des infections.",
+      "expansion": "antibiogrammes",
+      "clinical_significance": "Essentiel pour guider le choix des antibiotiques dans le traitement des infections.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antibiogrammes",
+        "test de sensibilité aux antibiotiques"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Doppler artériel",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "Doppler artériel",
+        "échographie Doppler"
+      ],
+      "related_terms": [
+        "angiographie",
+        "ischémie distale"
+      ],
+      "description": "Utilisé pour diagnostiquer les complications vasculaires dans les fractures ouvertes.",
+      "expansion": "Doppler artériel",
+      "clinical_significance": "Permet de visualiser le flux sanguin et de diagnostiquer les complications vasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Doppler artériel",
+        "échographie Doppler"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie distale",
+      "definition": "Réduction du flux sanguin dans les extrémités distales, souvent due à une compression ou une obstruction vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie distale",
+        "ischémie périphérique"
+      ],
+      "related_terms": [
+        "Doppler artériel",
+        "angiographie"
+      ],
+      "description": "Peut être causée par des fractures déplacées et nécessite une intervention rapide.",
+      "expansion": "ischémie distale",
+      "clinical_significance": "Indique une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie distale",
+        "ischémie périphérique"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gangrène gazeuse",
+      "definition": "Infection grave causée par des bactéries anaérobies, caractérisée par une gangrène humide et des crépitations sous-cutanées.",
+      "category": "pathologie",
+      "synonyms": [
+        "gangrène gazeuse",
+        "myonécrose clostridiale"
+      ],
+      "related_terms": [
+        "infection",
+        "fracture ouverte"
+      ],
+      "description": "Rare mais potentiellement mortelle, nécessitant une intervention chirurgicale urgente.",
+      "expansion": "gangrène gazeuse",
+      "clinical_significance": "Indique une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gangrène gazeuse",
+        "myonécrose clostridiale"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème post-traumatique",
+      "definition": "Accumulation anormale de liquide dans les tissus après un traumatisme, souvent associée à une inflammation et une douleur.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème post-traumatique",
+        "gonflement post-traumatique"
+      ],
+      "related_terms": [
+        "syndrome des loges",
+        "aponévroses"
+      ],
+      "description": "Peut contribuer au syndrome des loges en augmentant la pression dans les compartiments musculaires.",
+      "expansion": "œdème post-traumatique",
+      "clinical_significance": "Important dans le diagnostic et le traitement des complications post-traumatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème post-traumatique",
+        "gonflement post-traumatique"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévroses",
+      "definition": "Membranes fibreuses qui enveloppent et séparent les muscles et les organes.",
+      "category": "anatomie",
+      "synonyms": [
+        "aponévroses",
+        "fascia"
+      ],
+      "related_terms": [
+        "syndrome des loges",
+        "œdème post-traumatique"
+      ],
+      "description": "Peuvent contribuer au syndrome des loges en limitant l'expansion des compartiments musculaires.",
+      "expansion": "aponévroses",
+      "clinical_significance": "Important dans le diagnostic et le traitement des complications post-traumatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aponévroses",
+        "fascia"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enclouage",
+      "definition": "Technique chirurgicale consistant à insérer un clou métallique dans la cavité médullaire d'un os pour stabiliser une fracture.",
+      "category": "pathologie",
+      "synonyms": [
+        "enclouage",
+        "clou centromédullaire"
+      ],
+      "related_terms": [
+        "ostéosynthèse",
+        "fixateur externe"
+      ],
+      "description": "Utilisé pour stabiliser les fractures osseuses, souvent en combinaison avec un alésage.",
+      "expansion": "enclouage",
+      "clinical_significance": "Essentiel pour la stabilisation des fractures osseuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "enclouage",
+        "clou centromédullaire"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "os spongieux",
+      "definition": "Type d'os poreux et léger, contenant de nombreuses cavités remplies de moelle osseuse, souvent utilisé pour les greffes osseuses.",
+      "category": "anatomie",
+      "synonyms": [
+        "os spongieux",
+        "os trabéculaire"
+      ],
+      "related_terms": [
+        "greffe osseuse",
+        "fracture"
+      ],
+      "description": "Utilisé pour les greffes osseuses en raison de sa capacité à favoriser la consolidation osseuse.",
+      "expansion": "os spongieux",
+      "clinical_significance": "Important dans le traitement des fractures nécessitant une greffe osseuse.",
+      "normal_values": null,
+      "image_search_terms": [
+        "os spongieux",
+        "os trabéculaire"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéite",
+      "definition": "Infection osseuse chronique, souvent due à une fracture ouverte ou à une intervention chirurgicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "ostéite",
+        "ostéomyélite"
+      ],
+      "related_terms": [
+        "fracture",
+        "ostéosynthèse"
+      ],
+      "description": "Peut nécessiter un traitement antibiotique prolongé et une intervention chirurgicale.",
+      "expansion": "ostéite",
+      "clinical_significance": "Indique une complication grave nécessitant un traitement antibiotique prolongé et une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéite",
+        "ostéomyélite"
+      ],
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudarthrose septique",
+      "definition": "Complication grave d'une fracture où il y a une fausse articulation (pseudarthrose) associée à une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "fausse articulation infectée"
+      ],
+      "related_terms": [
+        "ostéomyélite",
+        "infection ostéoarticulaire"
+      ],
+      "description": "La pseudarthrose septique est une complication sévère où la consolidation osseuse échoue en raison d'une infection persistante.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement chirurgical et antibiotique prolongé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "raideur articulaire",
+      "definition": "Réduction de l'amplitude de mouvement d'une articulation due à une immobilisation prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "ankylose",
+        "contracture"
+      ],
+      "related_terms": [
+        "arthrose",
+        "capsulite rétractile"
+      ],
+      "description": "La raideur articulaire peut résulter de l'immobilisation prolongée, souvent après un traitement orthopédique ou une rééducation insuffisante.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une rééducation intensive pour restaurer la mobilité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlébites",
+      "definition": "Inflammation d'une veine, souvent associée à la formation d'un caillot sanguin (thrombose veineuse).",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombophlébite"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "embolie pulmonaire"
+      ],
+      "description": "Les phlébites peuvent survenir après une immobilisation prolongée et nécessitent une anticoagulation.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amyotrophies",
+      "definition": "Diminution de la masse musculaire due à une atrophie des fibres musculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "atrophie musculaire"
+      ],
+      "related_terms": [
+        "sarcopénie",
+        "cachexie"
+      ],
+      "description": "Les amyotrophies peuvent résulter d'une immobilisation prolongée ou de maladies neuromusculaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une rééducation pour restaurer la masse et la fonction musculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contractions musculaires",
+      "definition": "Activation des fibres musculaires entraînant un raccourcissement du muscle.",
+      "category": "physiologie",
+      "synonyms": [
+        "contractions"
+      ],
+      "related_terms": [
+        "isométrique",
+        "isotonique"
+      ],
+      "description": "Les contractions musculaires peuvent être statiques (isométriques) ou dynamiques (isotoniques).",
+      "expansion": null,
+      "clinical_significance": "Utilisées en rééducation pour maintenir ou restaurer la force musculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrothérapie",
+      "definition": "Utilisation de courants électriques à des fins thérapeutiques, notamment pour stimuler les muscles et les nerfs.",
+      "category": "physiologie",
+      "synonyms": [
+        "stimulation électrique"
+      ],
+      "related_terms": [
+        "TENS",
+        "stimulation neuromusculaire"
+      ],
+      "description": "L'électrothérapie excito-motrice est utilisée en rééducation pour stimuler les muscles et prévenir l'atrophie.",
+      "expansion": null,
+      "clinical_significance": "Peut aider à maintenir la masse musculaire et la fonction pendant la phase de rééducation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entretien articulaire",
+      "definition": "Maintien de la mobilité et de la fonction articulaire par des exercices spécifiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "mobilisation articulaire"
+      ],
+      "related_terms": [
+        "rééducation articulaire",
+        "mobilisation passive"
+      ],
+      "description": "L'entretien articulaire est crucial pour prévenir la raideur et maintenir l'amplitude de mouvement.",
+      "expansion": null,
+      "clinical_significance": "Nécessaire pour éviter les complications articulaires pendant la rééducation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "renforcement musculaire",
+      "definition": "Augmentation de la force musculaire par des exercices de résistance.",
+      "category": "physiologie",
+      "synonyms": [
+        "musculation"
+      ],
+      "related_terms": [
+        "exercices de résistance",
+        "hypertrophie musculaire"
+      ],
+      "description": "Le renforcement musculaire est essentiel pour restaurer la fonction et la stabilité après une fracture.",
+      "expansion": null,
+      "clinical_significance": "Important pour la récupération fonctionnelle et la prévention des récidives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rééducation proprioceptive",
+      "definition": "Entraînement visant à améliorer la perception de la position et du mouvement des articulations.",
+      "category": "physiologie",
+      "synonyms": [
+        "proprioception"
+      ],
+      "related_terms": [
+        "équilibre",
+        "stabilité"
+      ],
+      "description": "La rééducation proprioceptive est cruciale pour restaurer la stabilité et prévenir les chutes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la récupération fonctionnelle après une fracture.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "proprioception",
+      "definition": "Perception de la position et du mouvement des articulations et des muscles.",
+      "category": "physiologie",
+      "synonyms": [
+        "sensibilité proprioceptive"
+      ],
+      "related_terms": [
+        "équilibre",
+        "stabilité"
+      ],
+      "description": "La proprioception est essentielle pour la coordination et la stabilité.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la récupération fonctionnelle et la prévention des chutes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réadaptation à l'effort",
+      "definition": "Programme de rééducation visant à restaurer la capacité à effectuer des efforts physiques après une blessure ou une maladie.",
+      "category": "physiologie",
+      "synonyms": [
+        "réentraînement à l'effort"
+      ],
+      "related_terms": [
+        "endurance",
+        "conditionnement physique"
+      ],
+      "description": "La réadaptation à l'effort est essentielle pour restaurer la capacité fonctionnelle après une fracture.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la récupération complète et le retour aux activités quotidiennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture ouverte",
+      "definition": "Fracture osseuse associée à une plaie cutanée communiquant avec l'extérieur.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracture exposée"
+      ],
+      "related_terms": [
+        "fracture fermée",
+        "fracture complexe"
+      ],
+      "description": "La fracture ouverte représente une urgence diagnostique et thérapeutique en raison du risque d'infection.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge médico-chirurgicale rapide et appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md"
+  ],
+  "total_terms": 81
+}

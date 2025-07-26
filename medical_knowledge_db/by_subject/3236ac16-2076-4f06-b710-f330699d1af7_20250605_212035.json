@@ -1,0 +1,3378 @@
+{
+  "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+  "terms": [
+    {
+      "term": "baroréflexe",
+      "definition": "Mécanisme réflexe qui régule la pression artérielle à court terme en réponse aux variations de la pression détectées par les barorécepteurs.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "barorécepteurs",
+        "pression artérielle"
+      ],
+      "description": "Le baroréflexe joue un rôle crucial dans le maintien de la pression artérielle en réponse aux changements rapides de la pression sanguine.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement du baroréflexe peut contribuer à l'hypertension et à d'autres troubles cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "baroréflexe",
+        "barorécepteurs"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "noyau du tractus solitaire",
+      "definition": "Centre nerveux situé dans le bulbe rachidien qui joue un rôle clé dans la régulation de la pression artérielle et d'autres fonctions autonomes.",
+      "category": "anatomie",
+      "synonyms": [
+        "NTS"
+      ],
+      "related_terms": [
+        "centre nerveux bulbaire",
+        "pression artérielle"
+      ],
+      "description": "Le NTS intègre les informations des barorécepteurs et régule les réponses sympathiques et parasympathiques.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement du NTS peut perturber la régulation de la pression artérielle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "noyau du tractus solitaire",
+        "bulbe rachidien"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs β1 adrénergiques",
+      "definition": "Récepteurs adrénergiques situés principalement dans le cœur, qui sont stimulés par les catécholamines et augmentent la fréquence et la force de contraction cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs bêta-1 adrénergiques"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "bêta-bloquants"
+      ],
+      "description": "Les récepteurs β1 adrénergiques sont ciblés par les bêta-bloquants pour traiter l'hypertension et d'autres troubles cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Stimulation excessive des récepteurs β1 peut contribuer à l'hypertension et à l'insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs β1 adrénergiques",
+        "bêta-bloquants"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "récepteurs β2 adrénergiques",
+      "definition": "Récepteurs adrénergiques situés principalement dans les muscles lisses des bronches et des vaisseaux sanguins, qui sont stimulés par les catécholamines et provoquent une vasodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs bêta-2 adrénergiques"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "bêta-agonistes"
+      ],
+      "description": "Les récepteurs β2 adrénergiques sont ciblés par les bêta-agonistes pour traiter l'asthme et d'autres troubles respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Stimulation des récepteurs β2 peut aider à la dilatation des bronches et des vaisseaux sanguins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs β2 adrénergiques",
+        "bêta-agonistes"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "système rénine-angiotensine-aldostérone",
+      "definition": "Système hormonal qui régule la pression artérielle et l'équilibre hydrique en contrôlant la rétention de sodium et d'eau par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "SRAA"
+      ],
+      "related_terms": [
+        "rénine",
+        "angiotensine",
+        "aldostérone"
+      ],
+      "description": "Le SRAA est une cible majeure pour les médicaments antihypertenseurs comme les inhibiteurs de l'enzyme de conversion (IEC) et les antagonistes des récepteurs de l'angiotensine II (ARA II).",
+      "expansion": null,
+      "clinical_significance": "Dysrégulation du SRAA peut contribuer à l'hypertension et à d'autres troubles cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système rénine-angiotensine-aldostérone",
+        "SRAA"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "peptide atrial natriurétique",
+      "definition": "Hormone sécrétée par les oreillettes cardiaques en réponse à l'étirement des parois auriculaires, qui augmente l'excrétion de sodium et d'eau par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "ANP"
+      ],
+      "related_terms": [
+        "natriurèse",
+        "diurèse"
+      ],
+      "description": "Le peptide atrial natriurétique aide à réguler la pression artérielle et le volume sanguin en augmentant l'excrétion de sodium et d'eau.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement de l'ANP peut contribuer à l'hypertension et à l'insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "peptide atrial natriurétique",
+        "ANP"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.89
+    },
+    {
+      "term": "β1",
+      "definition": "Les récepteurs β1 sont un sous-type de récepteurs adrénergiques principalement situés dans le cœur, où ils médient les effets inotropes et chronotropes des catécholamines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs bêta-1"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "récepteurs adrénergiques"
+      ],
+      "description": "Les récepteurs β1 sont essentiels pour la régulation de la fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Ils sont ciblés par les bêta-bloquants pour traiter l'hypertension et d'autres maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs β1",
+        "récepteurs bêta-1"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β2",
+      "definition": "Les récepteurs β2 sont un sous-type de récepteurs adrénergiques principalement situés dans les muscles lisses des vaisseaux sanguins et des bronches, où ils médient la vasodilatation et la bronchodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs bêta-2"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "récepteurs adrénergiques"
+      ],
+      "description": "Les récepteurs β2 sont impliqués dans la régulation de la pression artérielle et la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Ils sont ciblés par les agonistes β2 pour traiter l'asthme et d'autres maladies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs β2",
+        "récepteurs bêta-2"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α1",
+      "definition": "Les récepteurs α1 sont un sous-type de récepteurs adrénergiques principalement situés dans les muscles lisses des vaisseaux sanguins, où ils médient la vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs alpha-1"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "récepteurs adrénergiques"
+      ],
+      "description": "Les récepteurs α1 sont essentiels pour la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Ils sont ciblés par les alpha-bloquants pour traiter l'hypertension et d'autres conditions cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs α1",
+        "récepteurs alpha-1"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAM",
+      "definition": "La pression artérielle moyenne (PAM) est la moyenne de la pression artérielle systolique et diastolique sur une période de temps.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle moyenne"
+      ],
+      "related_terms": [
+        "pression artérielle systolique",
+        "pression artérielle diastolique"
+      ],
+      "description": "La PAM est un indicateur important de la perfusion tissulaire et de la santé cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": "Elle est utilisée pour évaluer la condition cardiovasculaire et la réponse aux traitements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PAM",
+        "pression artérielle moyenne"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résistances périphériques totales",
+      "definition": "Les résistances périphériques totales (RPT) sont une mesure de l'opposition au flux sanguin dans les vaisseaux périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "RPT"
+      ],
+      "related_terms": [
+        "vasomotricité",
+        "artérioles",
+        "sphincters précapillaires"
+      ],
+      "description": "Les RPT sont influencées par la viscosité du sang, la longueur et le rayon des vaisseaux.",
+      "expansion": null,
+      "clinical_significance": "Élevées dans l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "viscosité",
+      "definition": "La viscosité est une mesure de la résistance d'un fluide à l'écoulement.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "sang",
+        "vaisseau"
+      ],
+      "description": "La viscosité du sang est un facteur important dans la détermination des résistances périphériques totales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérioles",
+      "definition": "Les artérioles sont de petits vaisseaux sanguins qui relient les artères aux capillaires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vasomotricité",
+        "sphincters précapillaires"
+      ],
+      "description": "Les artérioles jouent un rôle crucial dans la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sphincters précapillaires",
+      "definition": "Les sphincters précapillaires sont des muscles lisses situés à l'entrée des capillaires qui régulent le flux sanguin.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vasomotricité",
+        "artérioles"
+      ],
+      "description": "Ils contrôlent le débit sanguin dans les capillaires en se contractant ou se dilatant.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système sympathique",
+      "definition": "Le système sympathique est une partie du système nerveux autonome qui prépare le corps à l'action en cas de stress ou de danger.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "récepteurs α1-adrénergiques",
+        "récepteurs β2"
+      ],
+      "description": "Il joue un rôle dans la régulation de la vasomotricité et des résistances périphériques totales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs α1-adrénergiques",
+      "definition": "Les récepteurs α1-adrénergiques sont des récepteurs adrénergiques qui, lorsqu'ils sont stimulés, provoquent une vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "système sympathique",
+        "vasoconstriction"
+      ],
+      "description": "Ils sont impliqués dans la régulation nerveuse de la vasomotricité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs β2",
+      "definition": "Les récepteurs β2 sont des récepteurs adrénergiques qui, lorsqu'ils sont stimulés, provoquent une vasodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "système sympathique",
+        "vasodilatation"
+      ],
+      "description": "Ils jouent un rôle dans la régulation nerveuse de la vasomotricité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système nerveux parasympathique",
+      "definition": "Le système nerveux parasympathique est une partie du système nerveux autonome qui régule les fonctions involontaires du corps, comme la digestion et la fréquence cardiaque.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glandes salivaires",
+        "organes génitaux"
+      ],
+      "description": "Il n'a pas d'effet significatif sur la régulation nerveuse de la vasomotricité et des résistances périphériques totales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endothéline 1",
+      "definition": "L'endothéline 1 est un puissant vasoconstricteur local qui agit via les récepteurs ETA.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "récepteurs ETA",
+        "vasoconstricteur"
+      ],
+      "description": "Elle est produite par les cellules endothéliales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prostaglandines F2",
+      "definition": "Les prostaglandines F2 sont des lipides dérivés de l'acide arachidonique qui provoquent une vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasoconstricteur"
+      ],
+      "description": "Elles sont impliquées dans divers processus physiologiques et pathologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Monoxyde d'azote (NO)",
+      "definition": "Le monoxyde d'azote (NO) est un gaz qui agit comme un puissant vasodilatateur local et a un effet protecteur vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation"
+      ],
+      "description": "Il est produit par les cellules endothéliales et a des propriétés antiagrégantes et antiprolifératives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prostaglandines I2",
+      "definition": "Les prostaglandines I2 sont des lipides dérivés de l'acide arachidonique qui provoquent une vasodilatation.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation"
+      ],
+      "description": "Elles sont impliquées dans divers processus physiologiques et pathologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction endothéliale",
+      "definition": "La dysfonction endothéliale est une altération de la fonction des cellules endothéliales, entraînant une libération prédominante de facteurs vasoconstricteurs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HTA",
+        "organes cibles"
+      ],
+      "description": "Elle contribue à l'aggravation de l'hypertension artérielle et à l'apparition d'une atteinte des organes cibles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FRCV",
+      "definition": "Un facteur de risque cardiovasculaire (FRCV) est un état clinique ou biologique qui augmente statistiquement la morbi-mortalité cardiovasculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infarctus du myocarde",
+        "accident vasculaire cérébral"
+      ],
+      "description": "Il peut être intrinsèque non modifiable ou extrinsèque modifiable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dyslipidémies athérogènes",
+      "definition": "Les dyslipidémies athérogènes sont des anomalies des lipides sanguins qui favorisent l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypercholestérolémie",
+        "LDL-cholestérol"
+      ],
+      "description": "Elles incluent les types IIA, IIB et III.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obésité abdominale",
+      "definition": "L'obésité abdominale est une accumulation excessive de graisse dans la région abdominale.",
+      "category": "pathologie",
+      "synonyms": [
+        "obésité androïde"
+      ],
+      "related_terms": [
+        "syndrome métabolique",
+        "tour de taille"
+      ],
+      "description": "Elle est définie par un tour de taille supérieur à 94 cm chez l'homme et 80 cm chez la femme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'apnées de sommeil",
+      "definition": "Le syndrome d'apnées de sommeil est un trouble respiratoire caractérisé par des pauses répétées de la respiration pendant le sommeil.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HTA",
+        "risque cardiovasculaire"
+      ],
+      "description": "Il est un facteur de risque cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mmHg",
+      "definition": "Millimètres de mercure, unité de mesure de la pression.",
+      "category": "physiologie",
+      "synonyms": [
+        "millimètres de mercure"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "tension artérielle"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mmHg",
+        "millimètres de mercure"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "tabac",
+      "definition": "Produit dérivé des feuilles séchées de la plante Nicotiana tabacum, souvent consommé sous forme de cigarettes, et associé à de nombreux risques pour la santé.",
+      "category": "pathologie",
+      "synonyms": [
+        "cigarette",
+        "tabagisme"
+      ],
+      "related_terms": [
+        "nicotine",
+        "cancer du poumon"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tabac",
+        "tabagisme"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sédentarité",
+      "definition": "Mode de vie caractérisé par une faible activité physique, souvent associé à des risques accrus pour la santé.",
+      "category": "pathologie",
+      "synonyms": [
+        "inactivité physique"
+      ],
+      "related_terms": [
+        "exercice",
+        "activité physique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sédentarité",
+        "inactivité physique"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'apnée de sommeil",
+      "definition": "Trouble du sommeil caractérisé par des pauses respiratoires ou des respirations superficielles pendant le sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "apnée du sommeil"
+      ],
+      "related_terms": [
+        "ronflement",
+        "hypoxémie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome d'apnée de sommeil",
+        "apnée du sommeil"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "RPT",
+      "definition": "Résistances Périphériques Totales, mesure de la résistance au flux sanguin dans les vaisseaux périphériques.",
+      "category": "acronyme",
+      "synonyms": [
+        "résistances périphériques totales"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "vasodilatation"
+      ],
+      "description": null,
+      "expansion": "Résistances Périphériques Totales",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "RPT",
+        "résistances périphériques totales"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Na+",
+      "definition": "Ion sodium, un électrolyte essentiel pour de nombreuses fonctions corporelles, y compris la régulation de l'équilibre hydrique et la transmission nerveuse.",
+      "category": "microbiologie",
+      "synonyms": [
+        "sodium"
+      ],
+      "related_terms": [
+        "électrolyte",
+        "équilibre hydrique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Na+",
+        "sodium"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Syndrome de Marfan",
+      "definition": "Maladie génétique du tissu conjonctif affectant de nombreux systèmes corporels, y compris le cœur et les vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "Marfan"
+      ],
+      "related_terms": [
+        "anévrisme aortique",
+        "ectopie du cristallin"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome de Marfan",
+        "Marfan"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Liddle",
+      "definition": "Maladie génétique rare caractérisée par une rétention de sodium et une hypertension artérielle due à une mutation des canaux sodiques rénaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "Liddle"
+      ],
+      "related_terms": [
+        "hypertension",
+        "canaux sodiques"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Liddle",
+        "Liddle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MAPA",
+      "definition": "Mesure Ambulatoire de la Pression Artérielle, une méthode de surveillance de la pression artérielle sur une période de 24 heures.",
+      "category": "acronyme",
+      "synonyms": [
+        "mesure ambulatoire de la pression artérielle",
+        "holter tensionnel"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "hypertension"
+      ],
+      "description": null,
+      "expansion": "Mesure Ambulatoire de la Pression Artérielle",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "MAPA",
+        "mesure ambulatoire de la pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "HTA systolique isolée",
+      "definition": "Type d'hypertension artérielle où la pression artérielle systolique (PAS) est élevée (≥ 140 mmHg) alors que la pression artérielle diastolique (PAD) est normale (< 90 mmHg).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HTA",
+        "PAS",
+        "PAD"
+      ],
+      "description": "L'HTA systolique isolée est plus fréquente chez les personnes âgées et est associée à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "L'HTA systolique isolée nécessite une surveillance et un traitement pour prévenir les complications cardiovasculaires.",
+      "normal_values": "PAS < 140 mmHg et PAD < 90 mmHg",
+      "image_search_terms": [
+        "HTA systolique isolée",
+        "hypertension artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AMD",
+      "definition": "Automesure à Domicile de la Pression Artérielle, une méthode où le patient mesure sa propre pression artérielle à domicile à l'aide d'un auto-tensiomètre.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle",
+        "hypertension artérielle"
+      ],
+      "description": "L'AMD permet une surveillance régulière de la pression artérielle et est utile pour diagnostiquer l'hypertension artérielle et surveiller l'efficacité du traitement.",
+      "expansion": null,
+      "clinical_significance": "L'AMD est une méthode pratique pour la gestion de l'hypertension artérielle à domicile.",
+      "normal_values": "PAM < 135/85 mmHg",
+      "image_search_terms": [
+        "AMD",
+        "auto-tensiomètre"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTA résistante",
+      "definition": "Hypertension artérielle qui persiste malgré une trithérapie comportant un diurétique (thiazidique) après 4 semaines de traitement et de régime hyposodé bien conduits.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HTA",
+        "hypertension artérielle"
+      ],
+      "description": "L'HTA résistante est associée à un risque accru de complications cardiovasculaires et nécessite une évaluation et un traitement spécialisés.",
+      "expansion": null,
+      "clinical_significance": "L'HTA résistante nécessite une gestion spécialisée pour prévenir les complications cardiovasculaires.",
+      "normal_values": "PAS < 140 mmHg et PAD < 90 mmHg",
+      "image_search_terms": [
+        "HTA résistante",
+        "hypertension artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apnées du sommeil",
+      "definition": "Trouble du sommeil caractérisé par des pauses respiratoires pendant le sommeil, souvent associé à l'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome des apnées du sommeil"
+      ],
+      "related_terms": [
+        "hypertension artérielle",
+        "HTA"
+      ],
+      "description": "Les apnées du sommeil peuvent contribuer à l'hypertension artérielle et nécessitent une évaluation et un traitement.",
+      "expansion": null,
+      "clinical_significance": "Le traitement des apnées du sommeil peut aider à gérer l'hypertension artérielle.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "apnées du sommeil",
+        "syndrome des apnées du sommeil"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rythme circadien de la PA",
+      "definition": "Variation de la pression artérielle sur une période de 24 heures, avec une baisse physiologique de 10 à 20% la nuit.",
+      "category": "physiologie",
+      "synonyms": [
+        "rythme circadien de la pression artérielle"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "HTA"
+      ],
+      "description": "Le rythme circadien de la PA est important pour évaluer le risque cardiovasculaire et la gestion de l'hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": "Un rythme circadien altéré de la PA est associé à un risque accru de complications cardiovasculaires.",
+      "normal_values": "Baisse de la PA de 10 à 20% la nuit",
+      "image_search_terms": [
+        "rythme circadien de la PA",
+        "pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "statut dipper",
+      "definition": "Baisse physiologique de la pression artérielle de 10 à 20% pendant la nuit.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle",
+        "HTA"
+      ],
+      "description": "Le statut dipper est un indicateur de la régulation normale de la pression artérielle et est associé à un risque cardiovasculaire plus faible.",
+      "expansion": null,
+      "clinical_significance": "Un statut dipper est un signe de bonne santé cardiovasculaire.",
+      "normal_values": "Baisse de la PA de 10 à 20% la nuit",
+      "image_search_terms": [
+        "statut dipper",
+        "pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "non-dipper",
+      "definition": "Patients chez qui la baisse physiologique de la pression artérielle pendant la nuit est émoussée ou absente.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle",
+        "HTA"
+      ],
+      "description": "Le statut non-dipper est associé à un risque accru de complications cardiovasculaires et nécessite une évaluation et une gestion spécialisées.",
+      "expansion": null,
+      "clinical_significance": "Le statut non-dipper est un indicateur de risque cardiovasculaire accru.",
+      "normal_values": "Baisse de la PA de 10 à 20% la nuit",
+      "image_search_terms": [
+        "non-dipper",
+        "pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertrophie ventriculaire gauche",
+      "definition": "Épaississement anormal du muscle cardiaque du ventricule gauche, souvent associé à l'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension artérielle",
+        "HTA"
+      ],
+      "description": "L'hypertrophie ventriculaire gauche est un signe de stress cardiaque et est associée à un risque accru de complications cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "L'hypertrophie ventriculaire gauche nécessite une évaluation et une gestion pour prévenir les complications cardiovasculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypertrophie ventriculaire gauche",
+        "cœur"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstricteur nasal",
+      "definition": "Médicament utilisé pour réduire la congestion nasale en rétrécissant les vaisseaux sanguins dans le nez.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Décongestionnant nasal"
+      ],
+      "related_terms": [
+        "Pseudoéphédrine",
+        "Oxymétazoline"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "réglisse",
+      "definition": "Plante dont l'extrait peut causer une hypertension en raison de son effet minéralocorticoïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Glycyrrhiza glabra"
+      ],
+      "related_terms": [
+        "Glycyrrhizine",
+        "Licorice"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTARV",
+      "definition": "Hypertension Artérielle Rénovasculaire, une forme d'hypertension causée par une obstruction des artères rénales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hypertension rénovasculaire"
+      ],
+      "related_terms": [
+        "Sténose de l'artère rénale",
+        "Ischémie rénale"
+      ],
+      "description": null,
+      "expansion": "Hypertension Artérielle Rénovasculaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "FDR Cvx",
+      "definition": "Facteurs de Risque Cardiovasculaire, conditions ou habitudes qui augmentent le risque de développer des maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "Facteurs de risque cardiovasculaire"
+      ],
+      "related_terms": [
+        "Hypertension",
+        "Diabète",
+        "Tabagisme"
+      ],
+      "description": null,
+      "expansion": "Facteurs de Risque Cardiovasculaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Ehlers-Danlos",
+      "definition": "Groupe de troubles génétiques affectant le tissu conjonctif, souvent caractérisés par une hypermobilité articulaire et une peau fragile.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome d'Ehlers-Danlos"
+      ],
+      "related_terms": [
+        "Hypermobilité articulaire",
+        "Peau fragile"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "OAP flash",
+      "definition": "Œdème Aigu Pulmonaire flash, une accumulation rapide de liquide dans les poumons, souvent due à une insuffisance cardiaque aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "Œdème Aigu Pulmonaire"
+      ],
+      "related_terms": [
+        "Insuffisance cardiaque",
+        "Dyspnée"
+      ],
+      "description": null,
+      "expansion": "Œdème Aigu Pulmonaire flash",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ARP",
+      "definition": "Activité Rénine Plasmatique, un test sanguin mesurant les niveaux de rénine dans le plasma.",
+      "category": "physiologie",
+      "synonyms": [
+        "Activité Rénine Plasmatique"
+      ],
+      "related_terms": [
+        "Rénine",
+        "Aldostérone"
+      ],
+      "description": null,
+      "expansion": "Activité Rénine Plasmatique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "VCI",
+      "definition": "Veine Cave Inférieure, une grande veine qui ramène le sang désoxygéné de la partie inférieure du corps vers le cœur.",
+      "category": "anatomie",
+      "synonyms": [
+        "Veine Cave Inférieure"
+      ],
+      "related_terms": [
+        "Veine Cave Supérieure",
+        "Veine Azygos"
+      ],
+      "description": null,
+      "expansion": "Veine Cave Inférieure",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Captopril",
+      "definition": "Médicament appartenant à la classe des inhibiteurs de l'enzyme de conversion (IEC), utilisé pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Captopril"
+      ],
+      "related_terms": [
+        "Enalapril",
+        "Lisinopril"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Aortographie rénale",
+      "definition": "Technique d'imagerie invasive utilisant un produit de contraste pour visualiser les artères rénales.",
+      "category": "imagerie",
+      "synonyms": [
+        "Aortographie rénale"
+      ],
+      "related_terms": [
+        "Angiographie",
+        "Artériographie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Scintigraphie rénale",
+      "definition": "Technique d'imagerie nucléaire utilisant un traceur radioactif pour évaluer la fonction rénale.",
+      "category": "imagerie",
+      "synonyms": [
+        "Scintigraphie rénale"
+      ],
+      "related_terms": [
+        "Scintigraphie",
+        "Imagerie nucléaire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "DTPA",
+      "definition": "Diéthylène Triamine Penta-acétique, un agent chélateur utilisé en scintigraphie rénale pour évaluer la fonction rénale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "DTPA"
+      ],
+      "related_terms": [
+        "Maga3",
+        "Scintigraphie rénale"
+      ],
+      "description": null,
+      "expansion": "Diéthylène Triamine Penta-acétique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Maga3",
+      "definition": "Agent de contraste utilisé en scintigraphie rénale pour évaluer la fonction rénale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Maga3"
+      ],
+      "related_terms": [
+        "DTPA",
+        "Scintigraphie rénale"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ATI",
+      "definition": "Récepteurs de l'angiotensine II, impliqués dans la régulation de la pression artérielle et le volume sanguin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs de l'angiotensine II"
+      ],
+      "related_terms": [
+        "inhibiteur de l'enzyme de conversion",
+        "antagoniste des récepteurs de l'angiotensine"
+      ],
+      "description": "Les récepteurs ATI sont ciblés par les antagonistes des récepteurs de l'angiotensine II pour traiter l'hypertension et les maladies rénales.",
+      "expansion": "Récepteurs de l'Angiotensine II",
+      "clinical_significance": "Les antagonistes des récepteurs ATI sont utilisés pour leur effet néphroprotecteur et antiprotéinurique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs de l'angiotensine II",
+        "système rénine-angiotensine-aldostérone"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PKAD",
+      "definition": "Polykystose rénale autosomique dominante, une maladie génétique caractérisée par la formation de kystes dans les reins.",
+      "category": "pathologie",
+      "synonyms": [
+        "polykystose rénale autosomique dominante"
+      ],
+      "related_terms": [
+        "polykystose rénale",
+        "kystes rénaux"
+      ],
+      "description": "La PKAD est une maladie héréditaire qui entraîne la formation de kystes dans les reins, souvent associée à une hypertension artérielle et une insuffisance rénale.",
+      "expansion": "Polykystose Rénale Autosomique Dominante",
+      "clinical_significance": "La PKAD est une cause héréditaire majeure d'insuffisance rénale terminale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polykystose rénale",
+        "kystes rénaux"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "PKAR",
+      "definition": "Polykystose rénale autosomique récessive, une maladie génétique caractérisée par la formation de kystes dans les reins.",
+      "category": "pathologie",
+      "synonyms": [
+        "polykystose rénale autosomique récessive"
+      ],
+      "related_terms": [
+        "polykystose rénale",
+        "kystes rénaux"
+      ],
+      "description": "La PKAR est une maladie héréditaire qui entraîne la formation de kystes dans les reins, souvent associée à une hypertension artérielle et une insuffisance rénale.",
+      "expansion": "Polykystose Rénale Autosomique Récessive",
+      "clinical_significance": "La PKAR est une cause héréditaire majeure d'insuffisance rénale terminale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polykystose rénale",
+        "kystes rénaux"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "SRA",
+      "definition": "Système rénine-angiotensine-aldostérone, un système hormonal qui régule la pression artérielle et l'équilibre hydrique.",
+      "category": "physiologie",
+      "synonyms": [
+        "système rénine-angiotensine-aldostérone"
+      ],
+      "related_terms": [
+        "aldostérone",
+        "rénine",
+        "angiotensine"
+      ],
+      "description": "Le SRA joue un rôle crucial dans la régulation de la pression artérielle et du volume sanguin.",
+      "expansion": "Système Rénine-Angiotensine-Aldostérone",
+      "clinical_significance": "Le SRA est impliqué dans l'hypertension artérielle et les maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système rénine-angiotensine-aldostérone",
+        "aldostérone"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Conn",
+      "definition": "Adénome de Conn, une tumeur bénigne de la corticosurrénale qui sécrète de l'aldostérone.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénome de Conn"
+      ],
+      "related_terms": [
+        "hyperaldostéronisme primaire",
+        "aldostérone"
+      ],
+      "description": "L'adénome de Conn est une cause fréquente d'hyperaldostéronisme primaire, entraînant une hypertension artérielle et une hypokaliémie.",
+      "expansion": "Adénome de Conn",
+      "clinical_significance": "L'adénome de Conn est traité par chirurgie après préparation par spironolactone.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adénome de Conn",
+        "aldostérone"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Spironolactone",
+      "definition": "Un diurétique d'épargne potassique utilisé pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "spironolactone"
+      ],
+      "related_terms": [
+        "aldostérone",
+        "hypertension artérielle"
+      ],
+      "description": "La spironolactone est un antagoniste de l'aldostérone qui augmente l'excrétion de sodium et réduit la rétention d'eau.",
+      "expansion": "Spironolactone",
+      "clinical_significance": "La spironolactone est utilisée pour traiter l'hyperaldostéronisme primaire et l'insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "spironolactone",
+        "aldostérone"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "médullosurrénale",
+      "definition": "La partie centrale de la glande surrénale qui sécrète les catécholamines.",
+      "category": "anatomie",
+      "synonyms": [
+        "médullosurrénale"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "adrénaline"
+      ],
+      "description": "La médullosurrénale est responsable de la sécrétion d'adrénaline et de noradrénaline.",
+      "expansion": "Médullosurrénale",
+      "clinical_significance": "La médullosurrénale est impliquée dans le phéochromocytome, une tumeur sécrétant des catécholamines.",
+      "normal_values": null,
+      "image_search_terms": [
+        "médullosurrénale",
+        "glande surrénale"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "carcinome thyroïdien",
+      "definition": "Un cancer de la glande thyroïde, souvent associé à des mutations génétiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "carcinome thyroïdien"
+      ],
+      "related_terms": [
+        "thyroïde",
+        "cancer"
+      ],
+      "description": "Le carcinome thyroïdien peut être papillaire, folliculaire, médullaire ou anaplasique.",
+      "expansion": "Carcinome Thyroïdien",
+      "clinical_significance": "Le carcinome thyroïdien est souvent traité par chirurgie et iode radioactif.",
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinome thyroïdien",
+        "glande thyroïde"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "neurofibromatose de Reckling Hausen",
+      "definition": "Une maladie génétique caractérisée par la formation de tumeurs bénignes des nerfs.",
+      "category": "pathologie",
+      "synonyms": [
+        "neurofibromatose de type 1",
+        "NF1"
+      ],
+      "related_terms": [
+        "neurofibromatose",
+        "tumeurs nerveuses"
+      ],
+      "description": "La neurofibromatose de type 1 est une maladie autosomique dominante associée à des neurofibromes et des taches café au lait.",
+      "expansion": "Neurofibromatose de Reckling Hausen",
+      "clinical_significance": "La neurofibromatose de type 1 est associée à un risque accru de tumeurs malignes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "neurofibromatose",
+        "tumeurs nerveuses"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "von Hippel-Lindau",
+      "definition": "Une maladie génétique caractérisée par la formation de tumeurs bénignes et malignes dans divers organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de von Hippel-Lindau",
+        "VHL"
+      ],
+      "related_terms": [
+        "tumeurs",
+        "génétique"
+      ],
+      "description": "La maladie de von Hippel-Lindau est associée à des hémangioblastomes, des phéochromocytomes et des carcinomes rénaux.",
+      "expansion": "Maladie de von Hippel-Lindau",
+      "clinical_significance": "La maladie de von Hippel-Lindau est une maladie autosomique dominante avec une pénétrance élevée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "von Hippel-Lindau",
+        "tumeurs"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "NEM",
+      "definition": "Néoplasie endocrinienne multiple, un groupe de syndromes génétiques caractérisés par la formation de tumeurs dans les glandes endocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "néoplasie endocrinienne multiple"
+      ],
+      "related_terms": [
+        "tumeurs endocrines",
+        "génétique"
+      ],
+      "description": "Les NEM incluent les types 1 et 2, chacun associé à des tumeurs spécifiques des glandes endocrines.",
+      "expansion": "Néoplasie Endocrinienne Multiple",
+      "clinical_significance": "Les NEM sont des syndromes autosomiques dominants avec une pénétrance élevée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néoplasie endocrinienne multiple",
+        "tumeurs endocrines"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "Bloc Métanephrine",
+      "definition": "Un test de dépistage pour le phéochromocytome, mesurant les métanéphrines dans les urines.",
+      "category": "physiologie",
+      "synonyms": [
+        "bloc métanéphrine"
+      ],
+      "related_terms": [
+        "phéochromocytome",
+        "catécholamines"
+      ],
+      "description": "Le bloc métanéphrine est un marqueur sensible pour le diagnostic du phéochromocytome.",
+      "expansion": "Bloc Métanéphrine",
+      "clinical_significance": "Le bloc métanéphrine est utilisé pour confirmer le diagnostic de phéochromocytome.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bloc métanéphrine",
+        "phéochromocytome"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "Normétanephrine",
+      "definition": "Un métabolite de la noradrénaline, utilisé comme marqueur pour le diagnostic du phéochromocytome.",
+      "category": "physiologie",
+      "synonyms": [
+        "normétanéphrine"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "phéochromocytome"
+      ],
+      "description": "La normétanéphrine est un métabolite de la noradrénaline, souvent élevé dans le phéochromocytome.",
+      "expansion": "Normétanéphrine",
+      "clinical_significance": "La normétanéphrine est un marqueur important pour le diagnostic du phéochromocytome.",
+      "normal_values": null,
+      "image_search_terms": [
+        "normétanéphrine",
+        "noradrénaline"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "VMA",
+      "definition": "Acide vanillylmandélique, un métabolite des catécholamines utilisé pour le diagnostic du phéochromocytome.",
+      "category": "physiologie",
+      "synonyms": [
+        "acide vanillylmandélique"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "phéochromocytome"
+      ],
+      "description": "Le VMA est un métabolite des catécholamines, souvent élevé dans le phéochromocytome.",
+      "expansion": "Acide Vanillylmandélique",
+      "clinical_significance": "Le VMA est un marqueur utilisé pour le diagnostic du phéochromocytome.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acide vanillylmandélique",
+        "catécholamines"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "Scintigraphie au MIBG",
+      "definition": "Technique d'imagerie nucléaire utilisant le MIBG (méta-iodobenzylguanidine) pour détecter les tumeurs neuroendocrines.",
+      "category": "imagerie",
+      "synonyms": [
+        "MIBG scan"
+      ],
+      "related_terms": [
+        "Scintigraphie"
+      ],
+      "description": "Utilisée pour rechercher des localisations ectopiques de tumeurs neuroendocrines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumorectomie surrénale",
+      "definition": "Intervention chirurgicale pour enlever une tumeur de la glande surrénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "Surrénalectomie"
+      ],
+      "related_terms": [
+        "Tumorectomie"
+      ],
+      "description": "Chirurgie délicate avec risque de crise hypertensive en peropératoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alpha-bloquant",
+      "definition": "Médicament qui bloque les récepteurs alpha-adrénergiques, utilisés pour traiter l'hypertension.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "alpha-antagoniste"
+      ],
+      "related_terms": [
+        "béta-bloquant",
+        "Inhibiteur calcique"
+      ],
+      "description": "Utilisé en préparation préopératoire pour éviter les crises hypertensives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "béta-bloquant",
+      "definition": "Médicament qui bloque les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension et d'autres conditions cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-antagoniste"
+      ],
+      "related_terms": [
+        "alpha-bloquant",
+        "Inhibiteur calcique"
+      ],
+      "description": "Utilisé en association avec un alpha-bloquant pour éviter les crises hypertensives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Inhibiteur calcique",
+      "definition": "Médicament qui bloque l'entrée du calcium dans les cellules musculaires lisses des vaisseaux sanguins, utilisés pour traiter l'hypertension.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Antagoniste calcique"
+      ],
+      "related_terms": [
+        "alpha-bloquant",
+        "béta-bloquant"
+      ],
+      "description": "Utilisé en préparation préopératoire pour éviter les crises hypertensives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Labétolol",
+      "definition": "Médicament combiné alpha et bêta-bloquant utilisé pour traiter l'hypertension.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Labetalol"
+      ],
+      "related_terms": [
+        "alpha-bloquant",
+        "béta-bloquant"
+      ],
+      "description": "Exemple de médicament utilisé en préparation préopératoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumeur hypophysaire",
+      "definition": "Tumeur de la glande hypophyse, souvent bénigne, qui peut causer des troubles endocriniens.",
+      "category": "pathologie",
+      "synonyms": [
+        "Adénome hypophysaire"
+      ],
+      "related_terms": [
+        "Cushing paranéoplasique",
+        "Tumeur de la corticosurrénale"
+      ],
+      "description": "Peut causer un hypercorticisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cushing paranéoplasique",
+      "definition": "Syndrome de Cushing causé par une tumeur non hypophysaire sécrétant de l'ACTH.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome de Cushing ectopique"
+      ],
+      "related_terms": [
+        "Tumeur hypophysaire",
+        "Tumeur de la corticosurrénale"
+      ],
+      "description": "Causé par la sécrétion d'ACTH-like.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACTH-like",
+      "definition": "Substance similaire à l'hormone adrénocorticotrope (ACTH) sécrétée par des tumeurs non hypophysaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "ACTH ectopique"
+      ],
+      "related_terms": [
+        "ACTH",
+        "Cushing paranéoplasique"
+      ],
+      "description": "Peut causer un syndrome de Cushing paranéoplasique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumeur de la corticosurrénale",
+      "definition": "Tumeur de la partie corticale de la glande surrénale, souvent bénigne.",
+      "category": "pathologie",
+      "synonyms": [
+        "Adénome surrénalien"
+      ],
+      "related_terms": [
+        "Tumeur hypophysaire",
+        "Cushing paranéoplasique"
+      ],
+      "description": "Peut causer un hypercorticisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Obésité facio-tronculaire",
+      "definition": "Accumulation excessive de graisse dans la région du visage et du cou.",
+      "category": "pathologie",
+      "synonyms": [
+        "Obésité faciale"
+      ],
+      "related_terms": [
+        "faciès cushingoïde",
+        "amyotrophie"
+      ],
+      "description": "Signe clinique du syndrome de Cushing.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "faciès cushingoïde",
+      "definition": "Apparence faciale caractéristique du syndrome de Cushing, incluant une face ronde et rouge.",
+      "category": "pathologie",
+      "synonyms": [
+        "visage cushingoïde"
+      ],
+      "related_terms": [
+        "Obésité facio-tronculaire",
+        "amyotrophie"
+      ],
+      "description": "Signe clinique du syndrome de Cushing.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cortisol libre urinaire",
+      "definition": "Niveau de cortisol non lié aux protéines dans l'urine.",
+      "category": "physiologie",
+      "synonyms": [
+        "Cortisol urinaire"
+      ],
+      "related_terms": [
+        "Cortisolémie",
+        "ACTH"
+      ],
+      "description": "Augmenté dans le syndrome de Cushing.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumeur pituitaire",
+      "definition": "Tumeur de la glande pituitaire, souvent bénigne, qui peut causer des troubles endocriniens.",
+      "category": "pathologie",
+      "synonyms": [
+        "Adénome pituitaire"
+      ],
+      "related_terms": [
+        "ACTH",
+        "Adénome surrénalien"
+      ],
+      "description": "Peut causer un hypercorticisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Adénome surrénalien",
+      "definition": "Tumeur bénigne de la glande surrénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "Adénome corticosurrénalien"
+      ],
+      "related_terms": [
+        "Tumeur pituitaire",
+        "Carcinome surrénalien"
+      ],
+      "description": "Peut causer un hypercorticisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Carcinome surrénalien",
+      "definition": "Tumeur maligne de la glande surrénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cancer surrénalien"
+      ],
+      "related_terms": [
+        "Adénome surrénalien",
+        "Tumeur pituitaire"
+      ],
+      "description": "Peut causer un hypercorticisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Turner",
+      "definition": "Syndrome génétique caractérisé par l'absence totale ou partielle d'un chromosome X chez les femmes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome de Turner"
+      ],
+      "related_terms": [
+        "cardiopathies congénitales",
+        "Coarctation de l'aorte"
+      ],
+      "description": "Associé à une prévalence de la coarctation de l'aorte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Radiographie de thorax",
+      "definition": "Technique d'imagerie utilisant les rayons X pour obtenir des images du thorax.",
+      "category": "imagerie",
+      "synonyms": [
+        "Radiographie pulmonaire"
+      ],
+      "related_terms": [
+        "ECG",
+        "Echographie cardiaque"
+      ],
+      "description": "Utilisée pour détecter des anomalies cardiaques et pulmonaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRM aortique",
+      "definition": "Imagerie par Résonance Magnétique de l'aorte, technique d'imagerie utilisant des champs magnétiques pour obtenir des images détaillées de l'aorte.",
+      "category": "imagerie",
+      "synonyms": [
+        "MRI aortique"
+      ],
+      "related_terms": [
+        "Angioscanner",
+        "Aortographie"
+      ],
+      "description": "Utilisée pour confirmer le diagnostic de coarctation de l'aorte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aortographie",
+      "definition": "Technique d'imagerie invasive utilisant un produit de contraste pour visualiser l'aorte.",
+      "category": "imagerie",
+      "synonyms": [
+        "Aortogramme"
+      ],
+      "related_terms": [
+        "IRM aortique",
+        "Angioscanner"
+      ],
+      "description": "Gold standard pour le diagnostic de coarctation de l'aorte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crafoord",
+      "definition": "Intervention chirurgicale pour corriger la coarctation de l'aorte.",
+      "category": "pathologie",
+      "synonyms": [
+        "Intervention de Crafoord"
+      ],
+      "related_terms": [
+        "Coarctation de l'aorte",
+        "Angioplastie"
+      ],
+      "description": "Traitement chirurgical de la coarctation de l'aorte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sympathicomimétiques",
+      "definition": "Médicaments qui imitent l'action des neurotransmetteurs du système nerveux sympathique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Sympathomimétiques"
+      ],
+      "related_terms": [
+        "AINS",
+        "Ciclosporine"
+      ],
+      "description": "Peuvent provoquer ou favoriser l'apparition d'une HTA.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Erythropoïétine",
+      "definition": "Hormone produite par les reins qui stimule la production de globules rouges.",
+      "category": "physiologie",
+      "synonyms": [
+        "EPO"
+      ],
+      "related_terms": [
+        "Ciclosporine",
+        "Contraceptifs oraux"
+      ],
+      "description": "Peut provoquer ou favoriser l'apparition d'une HTA.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anabolisants stéroïdes",
+      "definition": "Médicaments synthétiques qui imitent l'action de la testostérone, utilisés pour augmenter la masse musculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Stéroïdes anabolisants"
+      ],
+      "related_terms": [
+        "Contraceptifs oraux",
+        "Erythropoïétine"
+      ],
+      "description": "Peuvent provoquer ou favoriser l'apparition d'une HTA.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SAS",
+      "definition": "Syndrome d'Apnées du Sommeil, trouble caractérisé par des pauses respiratoires pendant le sommeil.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "obésité",
+        "ronflement"
+      ],
+      "description": "Peut causer une somnolence diurne et une fatigue.",
+      "expansion": "Syndrome d'Apnées du Sommeil",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ronflement",
+      "definition": "Bruit respiratoire pendant le sommeil causé par la vibration des tissus mous de la gorge.",
+      "category": "pathologie",
+      "synonyms": [
+        "ronflements"
+      ],
+      "related_terms": [
+        "SAS",
+        "obésité"
+      ],
+      "description": "Signe clinique du syndrome d'apnées du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apnées nocturnes",
+      "definition": "Pauses respiratoires pendant le sommeil, caractéristiques du syndrome d'apnées du sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "apnées du sommeil"
+      ],
+      "related_terms": [
+        "SAS",
+        "ronflement"
+      ],
+      "description": "Signe clinique du syndrome d'apnées du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "somnolence",
+      "definition": "État de sommeil excessif ou de difficulté à rester éveillé.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypersomnie"
+      ],
+      "related_terms": [
+        "SAS",
+        "fatigue diurne"
+      ],
+      "description": "Signe clinique du syndrome d'apnées du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fatigue diurne",
+      "definition": "Sensation de fatigue ou d'épuisement pendant la journée.",
+      "category": "pathologie",
+      "synonyms": [
+        "fatigue"
+      ],
+      "related_terms": [
+        "SAS",
+        "somnolence"
+      ],
+      "description": "Signe clinique du syndrome d'apnées du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "index apnées-hypopnées",
+      "definition": "Mesure de la sévérité du syndrome d'apnées du sommeil, basée sur le nombre d'apnées et d'hypopnées par heure de sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "IAH"
+      ],
+      "related_terms": [
+        "polysomnographie",
+        "SAS"
+      ],
+      "description": "Utilisé pour diagnostiquer le syndrome d'apnées du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C-PAP",
+      "definition": "Ventilation à pression positive continue, traitement de référence pour le syndrome d'apnées du sommeil.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "SAS",
+        "polysomnographie"
+      ],
+      "description": "Traitement de référence pour le syndrome d'apnées du sommeil.",
+      "expansion": "Continuous Positive Airway Pressure",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyper minéralo cortisisme",
+      "definition": "Condition caractérisée par une production excessive de minéralocorticoïdes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hyperaldostéronisme"
+      ],
+      "related_terms": [
+        "réglisse",
+        "11 béta hydroxy déshydrogénase"
+      ],
+      "description": "Peut causer une hypertension artérielle avec hypokaliémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "11 béta hydroxy déshydrogénase",
+      "definition": "Enzyme impliquée dans le métabolisme des corticostéroïdes.",
+      "category": "physiologie",
+      "synonyms": [
+        "11β-HSD"
+      ],
+      "related_terms": [
+        "réglisse",
+        "hyper minéralo cortisisme"
+      ],
+      "description": "Inhibition de cette enzyme peut causer une hypertension artérielle avec hypokaliémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Atteinte d'organe cible",
+      "definition": "Atteinte paraclinique ou infra clinique secondaire à l'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "Atteinte d'organe cible"
+      ],
+      "related_terms": [
+        "Conditions cliniques ou pathologies associées",
+        "HTA"
+      ],
+      "description": "Atteinte secondaire à l'hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Conditions cliniques ou pathologies associées",
+      "definition": "Atteinte clinique établie secondaire à l'hypertension artérielle, comme une maladie cardio-cérébro-vasculaire ou rénale associée.",
+      "category": "pathologie",
+      "synonyms": [
+        "Pathologies associées"
+      ],
+      "related_terms": [
+        "Atteinte d'organe cible",
+        "HTA"
+      ],
+      "description": "Atteinte clinique secondaire à l'hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RCVG",
+      "definition": "Risque CardioVasculaire Global, une évaluation du risque de développer une maladie cardiovasculaire.",
+      "category": "classification",
+      "synonyms": [
+        "risque cardiovasculaire global"
+      ],
+      "related_terms": [
+        "SCORE",
+        "GLOBORISK"
+      ],
+      "description": "Utilisé pour estimer le risque de maladies cardiovasculaires en fonction de divers facteurs de risque.",
+      "expansion": "Risque CardioVasculaire Global",
+      "clinical_significance": "Important pour la prévention primaire des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GLOBORISK",
+      "definition": "Outil de stratification du risque cardiovasculaire global développé pour le contexte tunisien.",
+      "category": "classification",
+      "synonyms": [
+        "Global Risk Score"
+      ],
+      "related_terms": [
+        "RCVG",
+        "SCORE"
+      ],
+      "description": "Utilisé pour estimer la morbi-mortalité cardiovasculaire à 10 ans en prévention primaire.",
+      "expansion": "Global Risk Score",
+      "clinical_significance": "Adapté spécifiquement pour la population tunisienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PEC",
+      "definition": "Prise En Charge, terme général pour désigner le traitement et le suivi médical d'un patient.",
+      "category": "classification",
+      "synonyms": [
+        "prise en charge"
+      ],
+      "related_terms": [
+        "HTA",
+        "INEAS"
+      ],
+      "description": "Ensemble des actions médicales pour traiter et suivre un patient.",
+      "expansion": "Prise En Charge",
+      "clinical_significance": "Important pour le suivi et le traitement des patients hypertendus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "INEAS",
+      "definition": "Institut National d'Excellence en Assurance et Services de santé, organisme tunisien de référence en matière de santé.",
+      "category": "classification",
+      "synonyms": [
+        "Institut National d'Excellence en Assurance et Services de santé"
+      ],
+      "related_terms": [
+        "PEC",
+        "HTA"
+      ],
+      "description": "Organisme de référence pour les guides de prise en charge médicale en Tunisie.",
+      "expansion": "Institut National d'Excellence en Assurance et Services de santé",
+      "clinical_significance": "Important pour les recommandations et guides de pratique clinique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AOC",
+      "definition": "Atteinte d'Organe Cible, dommages causés aux organes par l'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "atteinte d'organe cible"
+      ],
+      "related_terms": [
+        "HVG",
+        "microalbuminurie"
+      ],
+      "description": "Dommages aux organes cibles tels que le cœur, les reins, et les vaisseaux sanguins.",
+      "expansion": "Atteinte d'Organe Cible",
+      "clinical_significance": "Indicateur de la sévérité de l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "labétalol",
+      "definition": "Médicament antihypertenseur appartenant à la famille des alpha et bêtabloquants.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "labétalol"
+      ],
+      "related_terms": [
+        "nicardipine",
+        "uradipil"
+      ],
+      "description": "Utilisé pour le traitement des urgences hypertensives, sauf dans l'OAP.",
+      "expansion": "Labétalol",
+      "clinical_significance": "Important pour le traitement de l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "uradipil",
+      "definition": "Médicament antihypertenseur appartenant à la famille des alpha-bloquants.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "uradipil"
+      ],
+      "related_terms": [
+        "nicardipine",
+        "labétalol"
+      ],
+      "description": "Utilisé pour le traitement des urgences hypertensives, sauf en cas de rétrécissement aortique serré.",
+      "expansion": "Uradipil",
+      "clinical_significance": "Important pour le traitement de l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "isosorbide dinitrate",
+      "definition": "Médicament appartenant à la famille des dérivés nitrés, utilisé comme vasodilatateur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "isosorbide dinitrate"
+      ],
+      "related_terms": [
+        "nicardipine",
+        "labétalol"
+      ],
+      "description": "Utilisé pour le traitement des urgences hypertensives.",
+      "expansion": "Isosorbide Dinitrate",
+      "clinical_significance": "Important pour le traitement de l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "esmolol",
+      "definition": "Médicament bêtabloquant utilisé pour traiter l'hypertension et les arythmies cardiaques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "esmolol"
+      ],
+      "related_terms": [
+        "dissection de l'aorte",
+        "bêtabloquant"
+      ],
+      "description": "Utilisé pour le traitement de la dissection de l'aorte.",
+      "expansion": "Esmolol",
+      "clinical_significance": "Important pour le traitement de l'hypertension artérielle et des arythmies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BB",
+      "definition": "Bétabloquants, classe de médicaments utilisés pour traiter l'hypertension, l'angine de poitrine et les arythmies.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquants"
+      ],
+      "related_terms": [
+        "hypertension",
+        "angine de poitrine",
+        "arythmies"
+      ],
+      "description": "Les BB agissent en bloquant les récepteurs bêta-adrénergiques, réduisant ainsi la fréquence cardiaque et la force de contraction du cœur.",
+      "expansion": "Bétabloquants",
+      "clinical_significance": "Les BB sont utilisés pour leur efficacité dans la gestion de l'hypertension et des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag II",
+      "definition": "Angiotensine II, hormone peptidique qui provoque la vasoconstriction et la rétention hydrosodée.",
+      "category": "physiologie",
+      "synonyms": [
+        "angiotensine II"
+      ],
+      "related_terms": [
+        "système rénine-angiotensine-aldostérone"
+      ],
+      "description": "L'Ag II joue un rôle clé dans la régulation de la pression artérielle et du volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostaglandines vasodilatatrices",
+      "definition": "Médiateurs lipidiques qui provoquent la vasodilatation et régulent la fonction vasculaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation",
+        "inflammation"
+      ],
+      "description": "Les prostaglandines vasodilatatrices jouent un rôle dans la régulation de la pression artérielle et les réponses inflammatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angio-œdème",
+      "definition": "Gonflement soudain et localisé des tissus sous-cutanés ou des muqueuses, souvent causé par une réaction allergique.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème de Quincke"
+      ],
+      "related_terms": [
+        "allergie",
+        "réaction anaphylactique"
+      ],
+      "description": "L'angio-œdème peut être une réaction allergique grave nécessitant une intervention médicale rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysgueusie",
+      "definition": "Altération du goût, souvent décrite comme un goût métallique ou désagréable.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "agueusie",
+        "troubles du goût"
+      ],
+      "description": "La dysgueusie peut être un effet secondaire de certains médicaments ou une manifestation de certaines maladies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agueusie",
+      "definition": "Perte complète du goût.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dysgueusie",
+        "troubles du goût"
+      ],
+      "description": "L'agueusie peut être un effet secondaire de certains médicaments ou une manifestation de certaines maladies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AT1",
+      "definition": "Récepteur de l'angiotensine II de type 1, impliqué dans la vasoconstriction et la rétention hydrosodée.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "angiotensine II",
+        "récepteurs de l'angiotensine"
+      ],
+      "description": "Le récepteur AT1 est une cible thérapeutique importante pour les médicaments antihypertenseurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amlodipine",
+      "definition": "Un inhibiteur calcique de la classe des dihydropyridines utilisé pour traiter l'hypertension et l'angine de poitrine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "nicardipine",
+        "nifédipine"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Nifédipine",
+      "definition": "Un inhibiteur calcique de la classe des dihydropyridines utilisé pour traiter l'hypertension et l'angine de poitrine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "amlodipine",
+        "nicardipine"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phenylalkylamines",
+      "definition": "Une classe de médicaments inhibiteurs calciques, dont le chef de file est le vérapamil, utilisée pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "vérapamil"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Vérapamil",
+      "definition": "Un inhibiteur calcique de la classe des phénylalkylamines utilisé pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Phenylalkylamines"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Benthiazépines",
+      "definition": "Une classe de médicaments inhibiteurs calciques, dont le chef de file est le diltiazem, utilisée pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "diltiazem"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diltiazem",
+      "definition": "Un inhibiteur calcique de la classe des benthiazépines utilisé pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Benthiazépines"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DHP",
+      "definition": "Dihydropyridines, une sous-classe d'inhibiteurs calciques utilisés principalement pour traiter l'hypertension.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "amlodipine",
+        "nicardipine"
+      ],
+      "description": null,
+      "expansion": "Dihydropyridines",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angor spastique",
+      "definition": "Type d'angine de poitrine causée par un spasme des artères coronaires, souvent appelée angine de Prinzmetal.",
+      "category": "pathologie",
+      "synonyms": [
+        "angine de Prinzmetal"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "ischémie myocardique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Indapamide",
+      "definition": "Un diurétique thiazidique utilisé pour traiter l'hypertension et les œdèmes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hydrochlorothiazide",
+        "diurétiques thiazidiques"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "natriurétique",
+      "definition": "Qui favorise l'excrétion de sodium dans l'urine, souvent utilisé pour décrire l'effet des diurétiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "diurétique",
+        "sodium"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti kaliurétique",
+      "definition": "Qui réduit l'excrétion de potassium dans l'urine, souvent utilisé pour décrire l'effet des diurétiques épargneurs de potassium.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "diurétique",
+        "potassium"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombocytopénie",
+      "definition": "Diminution anormale du nombre de plaquettes dans le sang, pouvant entraîner des saignements ou des ecchymoses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "plaquettes",
+        "saignement"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "150-450 x 10^9/L",
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Impuissance",
+      "definition": "Incapacité persistante à obtenir ou à maintenir une érection suffisante pour permettre une activité sexuelle satisfaisante.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysfonction érectile"
+      ],
+      "related_terms": [
+        "érection",
+        "androgènes"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Nausées",
+      "definition": "Sensation de malaise avec envie de vomir, souvent associée à des troubles gastro-intestinaux ou à des effets secondaires de médicaments.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vomissements",
+        "malaise"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aténolol",
+      "definition": "L'Aténolol est un bétabloquant cardiosélectif utilisé pour traiter l'hypertension artérielle et l'angine de poitrine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Bisoprolol",
+        "bétabloquants"
+      ],
+      "description": "Agoniste partiel des récepteurs bêta-adrénergiques, réduisant la fréquence cardiaque et la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension et des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bisoprolol",
+      "definition": "Le Bisoprolol est un bétabloquant cardiosélectif utilisé pour traiter l'hypertension artérielle et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Aténolol",
+        "bétabloquants"
+      ],
+      "description": "Agoniste partiel des récepteurs bêta-adrénergiques, réduisant la fréquence cardiaque et la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension et des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs β-adrénergiques",
+      "definition": "Les récepteurs β-adrénergiques sont des récepteurs membranaires qui répondent aux catécholamines, principalement l'adrénaline et la noradrénaline.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteurs bêta-adrénergiques"
+      ],
+      "related_terms": [
+        "récepteurs β1",
+        "récepteurs β2"
+      ],
+      "description": "Jouent un rôle crucial dans la régulation cardiovasculaire et métabolique.",
+      "expansion": null,
+      "clinical_significance": "Cibles importantes pour les médicaments bétabloquants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ASI",
+      "definition": "Activité sympathique intrinsèque, une propriété de certains bétabloquants qui leur confère une activité agoniste partielle.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "bétabloquants"
+      ],
+      "description": "Réduit la bradycardie associée aux bétabloquants.",
+      "expansion": null,
+      "clinical_significance": "Important dans la sélection des bétabloquants pour certains patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prazosine",
+      "definition": "La Prazosine est un alpha-bloquant utilisé pour traiter l'hypertension artérielle et l'hypertrophie bénigne de la prostate.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Urapidil",
+        "alpha-bloquants"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension et des troubles prostatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Urapidil",
+      "definition": "L'Urapidil est un alpha-bloquant utilisé pour traiter l'hypertension artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Prazosine",
+        "alpha-bloquants"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Moxonidine",
+      "definition": "La Moxonidine est un antihypertenseur central agoniste des récepteurs alpha-2 adrénergiques et des récepteurs imidazoline.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Clonidine",
+        "Méthyl-Dopa"
+      ],
+      "description": "Réduit l'activité sympathique centrale, entraînant une baisse de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clonidine",
+      "definition": "La Clonidine est un antihypertenseur central agoniste des récepteurs alpha-2 adrénergiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Moxonidine",
+        "Méthyl-Dopa"
+      ],
+      "description": "Réduit l'activité sympathique centrale, entraînant une baisse de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méthyl-Dopa",
+      "definition": "La Méthyl-Dopa est un antihypertenseur central agoniste des récepteurs alpha-2 adrénergiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Moxonidine",
+        "Clonidine"
+      ],
+      "description": "Réduit l'activité sympathique centrale, entraînant une baisse de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dihydralazine",
+      "definition": "La Dihydralazine est un vasodilatateur utilisé pour traiter l'hypertension artérielle sévère.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Minoxidil",
+        "Diazoxide",
+        "Nitroprussiate de sodium"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Minoxidil",
+      "definition": "Le Minoxidil est un vasodilatateur utilisé pour traiter l'hypertension artérielle sévère.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dihydralazine",
+        "Diazoxide",
+        "Nitroprussiate de sodium"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Diazoxide",
+      "definition": "Le Diazoxide est un vasodilatateur utilisé pour traiter l'hypertension artérielle sévère.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dihydralazine",
+        "Minoxidil",
+        "Nitroprussiate de sodium"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Nitroprussiate de sodium",
+      "definition": "Le Nitroprussiate de sodium est un vasodilatateur utilisé pour traiter l'hypertension artérielle sévère.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dihydralazine",
+        "Minoxidil",
+        "Diazoxide"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, entraînant une vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans la gestion de l'hypertension sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyposodé",
+      "definition": "Régime alimentaire pauvre en sodium, souvent recommandé pour les patients souffrant d'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "régime pauvre en sel"
+      ],
+      "related_terms": [
+        "régime hyposodé",
+        "régime pauvre en sodium"
+      ],
+      "description": "Un régime hyposodé vise à réduire la consommation de sel pour aider à contrôler la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "régime hyposodé",
+        "régime pauvre en sel"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aérobique",
+      "definition": "Type d'exercice physique qui implique l'utilisation de l'oxygène pour produire de l'énergie, comme la course à pied ou le cyclisme.",
+      "category": "physiologie",
+      "synonyms": [
+        "exercice cardiovasculaire"
+      ],
+      "related_terms": [
+        "exercice aérobique",
+        "activité physique"
+      ],
+      "description": "L'exercice aérobique est bénéfique pour le système cardiovasculaire et aide à maintenir une bonne condition physique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "exercice aérobique",
+        "activité physique"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LDL cholestérol",
+      "definition": "Cholestérol à lipoprotéines de basse densité, souvent appelé 'mauvais cholestérol', car il contribue à la formation de plaques dans les artères.",
+      "category": "pathologie",
+      "synonyms": [
+        "LDL",
+        "cholestérol LDL"
+      ],
+      "related_terms": [
+        "cholestérol",
+        "lipoprotéines"
+      ],
+      "description": "Un taux élevé de LDL cholestérol est associé à un risque accru de maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "LDL cholestérol",
+        "cholestérol LDL"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ARA II",
+      "definition": "Antagonistes des Récepteurs de l'Angiotensine II, une classe de médicaments utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antagonistes des récepteurs de l'angiotensine II"
+      ],
+      "related_terms": [
+        "ARB",
+        "sartans"
+      ],
+      "description": "Les ARA II bloquent les récepteurs de l'angiotensine II, réduisant ainsi la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ARA II",
+        "antagonistes des récepteurs de l'angiotensine II"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "artérite des membres inférieurs",
+      "definition": "Maladie des artères des membres inférieurs, souvent due à l'athérosclérose, entraînant une réduction de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "artérite des membres inférieurs"
+      ],
+      "related_terms": [
+        "maladie artérielle périphérique",
+        "ischémie des membres inférieurs"
+      ],
+      "description": "L'artérite des membres inférieurs peut entraîner des douleurs lors de la marche et des complications graves comme les ulcères et la gangrène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artérite des membres inférieurs",
+        "maladie artérielle périphérique"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles de rythme",
+      "definition": "Anomalies du rythme cardiaque, souvent appelées arythmies, qui peuvent être bénignes ou graves.",
+      "category": "pathologie",
+      "synonyms": [
+        "arythmies"
+      ],
+      "related_terms": [
+        "troubles du rythme cardiaque",
+        "arythmie"
+      ],
+      "description": "Les troubles de rythme peuvent inclure des conditions telles que la fibrillation auriculaire et la tachycardie ventriculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "troubles de rythme",
+        "arythmies"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrysme de l'aorte",
+      "definition": "Dilatation anormale de l'aorte, souvent due à une faiblesse de la paroi artérielle, qui peut entraîner une rupture.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrysme aortique"
+      ],
+      "related_terms": [
+        "anévrysme",
+        "dilatation aortique"
+      ],
+      "description": "Un anévrysme de l'aorte peut être asymptomatique ou entraîner des douleurs abdominales ou thoraciques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrysme de l'aorte",
+        "anévrysme aortique"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperactivité sympathique",
+      "definition": "Augmentation de l'activité du système nerveux sympathique, souvent associée à des conditions telles que l'hypertension et le stress.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperactivité sympathique"
+      ],
+      "related_terms": [
+        "activité sympathique",
+        "système nerveux sympathique"
+      ],
+      "description": "L'hyperactivité sympathique peut entraîner une augmentation de la fréquence cardiaque et de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperactivité sympathique",
+        "activité sympathique"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méthyldopa",
+      "definition": "Médicament antihypertenseur central, utilisé pour traiter l'hypertension, en particulier pendant la grossesse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "méthyldopa"
+      ],
+      "related_terms": [
+        "antihypertenseurs centraux",
+        "médicaments antihypertenseurs"
+      ],
+      "description": "La méthyldopa agit en réduisant la pression artérielle par une action centrale sur le système nerveux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "méthyldopa",
+        "antihypertenseurs centraux"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ESC 2018",
+      "definition": "Recommandations de la Société Européenne de Cardiologie pour la prise en charge de l'hypertension artérielle, publiées en 2018.",
+      "category": "classification",
+      "synonyms": [
+        "recommandations ESC 2018"
+      ],
+      "related_terms": [
+        "recommandations ESC",
+        "guidelines ESC 2018"
+      ],
+      "description": "Les recommandations ESC 2018 fournissent des lignes directrices pour le diagnostic, le traitement et la prévention de l'hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ESC 2018",
+        "recommandations ESC 2018"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "HTA avec effet blouse blanche",
+      "definition": "Hypertension artérielle qui se manifeste uniquement en présence de personnel médical, souvent due à l'anxiété.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension à effet blouse blanche"
+      ],
+      "related_terms": [
+        "hypertension blouse blanche",
+        "hypertension anxieuse"
+      ],
+      "description": "L'HTA avec effet blouse blanche peut être diagnostiquée par une MAPA pour évaluer la pression artérielle en dehors du cabinet médical.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HTA avec effet blouse blanche",
+        "hypertension à effet blouse blanche"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "HTA secondaire",
+      "definition": "Hypertension artérielle causée par une condition médicale sous-jacente, telle qu'une maladie rénale ou endocrinienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension secondaire"
+      ],
+      "related_terms": [
+        "hypertension secondaire",
+        "hypertension symptomatique"
+      ],
+      "description": "L'HTA secondaire nécessite le traitement de la cause sous-jacente pour contrôler la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HTA secondaire",
+        "hypertension secondaire"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "anti-aldostéronique",
+      "definition": "Médicament qui bloque l'action de l'aldostérone, une hormone qui régule la réabsorption de sodium et d'eau par les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anti-aldostéronique"
+      ],
+      "related_terms": [
+        "antagonistes de l'aldostérone",
+        "diurétiques d'épargne potassique"
+      ],
+      "description": "Les anti-aldostéroniques sont utilisés pour traiter l'hypertension résistante et l'insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-aldostéronique",
+        "antagonistes de l'aldostérone"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hypertension",
+      "definition": "Terme général désignant une pression artérielle élevée, souvent utilisé pour décrire l'hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "HTA"
+      ],
+      "related_terms": [
+        "hypertension artérielle",
+        "hypertension essentielle"
+      ],
+      "description": "L'hypertension peut être primaire (essentielle) ou secondaire, causée par une autre condition médicale.",
+      "expansion": null,
+      "clinical_significance": "L'hypertension est un facteur de risque majeur pour les maladies cardiovasculaires.",
+      "normal_values": "Pression artérielle systolique < 140 mmHg et pression artérielle diastolique < 90 mmHg",
+      "image_search_terms": [
+        "hypertension",
+        "pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "cardiologie",
+      "definition": "Branche de la médecine qui étudie le cœur et ses maladies.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "cardiologue",
+        "maladies cardiovasculaires"
+      ],
+      "description": "La cardiologie inclut le diagnostic et le traitement des maladies cardiaques congénitales et acquises.",
+      "expansion": null,
+      "clinical_significance": "Les cardiologues jouent un rôle crucial dans la gestion des maladies cardiovasculaires, y compris l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiologie",
+        "cœur"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "tensionnels",
+      "definition": "Relatif à la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle"
+      ],
+      "related_terms": [
+        "hypertension",
+        "hypotension"
+      ],
+      "description": "Les chiffres tensionnels se réfèrent aux mesures de la pression artérielle systolique et diastolique.",
+      "expansion": null,
+      "clinical_significance": "La surveillance des chiffres tensionnels est cruciale pour la gestion de l'hypertension artérielle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tensionnels",
+        "pression artérielle"
+      ],
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "source_file": "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md",
+      "confidence_score": 0.96
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Hypertension Artérielle/Courses/38 Hypertension artérielle.md"
+  ],
+  "total_terms": 165
+}

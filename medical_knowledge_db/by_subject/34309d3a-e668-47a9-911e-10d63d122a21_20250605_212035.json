@@ -1,0 +1,3136 @@
+{
+  "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+  "terms": [
+    {
+      "term": "eau somatique totale (EST)",
+      "definition": "La masse d'eau contenue dans l'organisme, représentant environ 60 % du poids corporel chez un adulte.",
+      "category": "physiologie",
+      "synonyms": [
+        "eau corporelle totale"
+      ],
+      "related_terms": [
+        "compartiment intracellulaire",
+        "compartiment extracellulaire"
+      ],
+      "description": "L'EST varie selon l'adiposité, le genre et l'âge.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer l'état d'hydratation d'un patient.",
+      "normal_values": "60 % du poids corporel chez un adulte",
+      "image_search_terms": [
+        "eau somatique totale",
+        "compartiments liquidiens"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compartiment intracellulaire",
+      "definition": "Totalité du liquide entouré par la membrane cellulaire, représentant environ 40 % du poids corporel.",
+      "category": "physiologie",
+      "synonyms": [
+        "secteur intracellulaire"
+      ],
+      "related_terms": [
+        "compartiment extracellulaire",
+        "liquide intracellulaire"
+      ],
+      "description": "Contient des concentrations élevées de potassium et de magnésium.",
+      "expansion": null,
+      "clinical_significance": "Important pour comprendre les déséquilibres électrolytiques intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "compartiment intracellulaire",
+        "liquide intracellulaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compartiment extracellulaire",
+      "definition": "Totalité du liquide situé à l'extérieur de la cellule, représentant environ 20 % du poids corporel.",
+      "category": "physiologie",
+      "synonyms": [
+        "secteur extracellulaire"
+      ],
+      "related_terms": [
+        "compartiment intracellulaire",
+        "liquide extracellulaire"
+      ],
+      "description": "Composé du secteur interstitiel, vasculaire et du liquide trans-cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour comprendre les déséquilibres électrolytiques extracellulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "compartiment extracellulaire",
+        "liquide extracellulaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Na+/K+ ATPase",
+      "definition": "Pompe membranaire qui expulse activement 3 ions sodium vers l'extérieur de la cellule et importe deux ions potassium vers l'intérieur.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe sodium-potassium"
+      ],
+      "related_terms": [
+        "sodium",
+        "potassium",
+        "membrane plasmique"
+      ],
+      "description": "Maintient les différences de concentration en sodium et potassium entre les compartiments intra et extracellulaires.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour le maintien de l'équilibre électrolytique cellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Na+/K+ ATPase",
+        "pompe sodium-potassium"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "membrane capillaire",
+      "definition": "Structure semi-perméable qui permet les échanges d'eau et d'électrolytes entre le secteur plasmatique et interstitiel.",
+      "category": "anatomie",
+      "synonyms": [
+        "paroi capillaire"
+      ],
+      "related_terms": [
+        "capillaires",
+        "échanges liquidiens"
+      ],
+      "description": "La membrane capillaire joue un rôle crucial dans la régulation des échanges liquidiens et électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Des altérations de la membrane capillaire peuvent entraîner des déséquilibres hydriques et électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "membrane capillaire",
+        "paroi capillaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loi de Starling",
+      "definition": "Principe physiologique qui décrit les forces qui régissent le mouvement des fluides à travers les membranes capillaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "équation de Starling"
+      ],
+      "related_terms": [
+        "pression oncotique",
+        "pression hydrostatique"
+      ],
+      "description": "La loi de Starling prend en compte les pressions hydrostatique et oncotique pour expliquer les échanges liquidiens entre les compartiments plasmatique et interstitiel.",
+      "expansion": null,
+      "clinical_significance": "Des déséquilibres dans les forces de Starling peuvent entraîner des œdèmes ou des déshydratations.",
+      "normal_values": null,
+      "image_search_terms": [
+        "loi de Starling",
+        "équation de Starling"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression hydrostatique",
+      "definition": "Pression exercée par le liquide dans les capillaires qui tend à faire sortir l'eau du compartiment intravasculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression capillaire"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "pression veineuse"
+      ],
+      "description": "La pression hydrostatique est un facteur clé dans la régulation des échanges liquidiens à travers les membranes capillaires.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la pression hydrostatique peut entraîner un œdème.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pression hydrostatique",
+        "pression capillaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoalbuminémie",
+      "definition": "Diminution de la concentration d'albumine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "faible taux d'albumine"
+      ],
+      "related_terms": [
+        "albumine",
+        "protéines plasmatiques"
+      ],
+      "description": "L'hypoalbuminémie peut entraîner une diminution de la pression oncotique et des œdèmes.",
+      "expansion": null,
+      "clinical_significance": "L'hypoalbuminémie peut être causée par une malnutrition, une cirrhose hépatique ou un syndrome néphrotique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoalbuminémie",
+        "faible taux d'albumine"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cirrhose hépatique",
+      "definition": "Maladie chronique du foie caractérisée par une fibrose et une altération de la structure hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "cirrhose"
+      ],
+      "related_terms": [
+        "foie",
+        "fibrose hépatique"
+      ],
+      "description": "La cirrhose hépatique peut entraîner une diminution de la synthèse d'albumine et une hypoalbuminémie.",
+      "expansion": null,
+      "clinical_significance": "La cirrhose hépatique peut entraîner des complications graves, y compris l'insuffisance hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cirrhose hépatique",
+        "cirrhose"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolalité",
+      "definition": "Concentration totale de toutes les particules dissoutes dans une solution, exprimée en osmoles par kilogramme d'eau (mOsm/kg H2O).",
+      "category": "physiologie",
+      "synonyms": [
+        "concentration osmotique"
+      ],
+      "related_terms": [
+        "osmolarité",
+        "osmoles"
+      ],
+      "description": "L'osmolalité est un indicateur important de l'équilibre hydrique et électrolytique du corps.",
+      "expansion": null,
+      "clinical_significance": "Des variations de l'osmolalité peuvent indiquer des déséquilibres hydriques ou électrolytiques.",
+      "normal_values": "280-300 mOsm/kg H2O",
+      "image_search_terms": [
+        "osmolalité",
+        "concentration osmotique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmoles",
+      "definition": "Particules dissoutes dans une solution qui contribuent à la pression osmotique.",
+      "category": "physiologie",
+      "synonyms": [
+        "particules osmotiques"
+      ],
+      "related_terms": [
+        "osmolalité",
+        "osmolarité"
+      ],
+      "description": "Les osmoles sont essentiels pour maintenir l'équilibre hydrique et électrolytique du corps.",
+      "expansion": null,
+      "clinical_significance": "Des variations dans la concentration d'osmoles peuvent entraîner des déséquilibres hydriques ou électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "osmoles",
+        "particules osmotiques"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolalité plasmatique",
+      "definition": "Mesure de la concentration des particules dissoutes dans le plasma sanguin, exprimée en osmoles par kilogramme d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "osmolarité plasmatique"
+      ],
+      "related_terms": [
+        "osmolalité efficace",
+        "tonicité plasmatique"
+      ],
+      "description": "L'osmolalité plasmatique est cruciale pour le maintien de l'équilibre hydrique entre les compartiments intra et extracellulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "285-295 mosmoles/Kg d'eau",
+      "image_search_terms": [
+        "osmolalité plasmatique",
+        "équilibre hydrique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SEC",
+      "definition": "Secteur extracellulaire, comprenant le liquide interstitiel et le plasma sanguin.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment extracellulaire"
+      ],
+      "related_terms": [
+        "SIC",
+        "osmolalité plasmatique"
+      ],
+      "description": "Le SEC est essentiel pour le transport des nutriments et des déchets entre les cellules et le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "secteur extracellulaire",
+        "liquide interstitiel"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SIC",
+      "definition": "Secteur intracellulaire, comprenant le liquide à l'intérieur des cellules.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment intracellulaire"
+      ],
+      "related_terms": [
+        "SEC",
+        "osmolalité plasmatique"
+      ],
+      "description": "Le SIC est crucial pour le maintien de l'homéostasie cellulaire et la fonction cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "secteur intracellulaire",
+        "liquide intracellulaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolalité efficace",
+      "definition": "Mesure de la concentration des solutés qui ne traversent pas librement les membranes cellulaires, contribuant ainsi à l'équilibre osmotique.",
+      "category": "physiologie",
+      "synonyms": [
+        "tonicité plasmatique"
+      ],
+      "related_terms": [
+        "osmolalité plasmatique",
+        "natrémie"
+      ],
+      "description": "L'osmolalité efficace est essentielle pour le maintien de l'équilibre hydrique et la prévention des déséquilibres osmotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "osmolalité efficace",
+        "tonicité plasmatique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolarité extracellulaire",
+      "definition": "Concentration des solutés dans le compartiment extracellulaire, influençant le mouvement de l'eau entre les compartiments intra et extracellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "osmolarité du SEC"
+      ],
+      "related_terms": [
+        "sodium",
+        "natrémie"
+      ],
+      "description": "L'osmolarité extracellulaire est régulée principalement par le sodium et est essentielle pour le maintien de l'équilibre hydrique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "osmolarité extracellulaire",
+        "SEC"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlore",
+      "definition": "Élément chimique essentiel pour le maintien de l'équilibre acido-basique et de l'osmolarité plasmatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "Cl-"
+      ],
+      "related_terms": [
+        "sodium",
+        "chlorémie"
+      ],
+      "description": "Le chlore est le principal anion extracellulaire et joue un rôle crucial dans la régulation de l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "chlore",
+        "Cl-"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorémie",
+      "definition": "Concentration de chlore dans le sang, exprimée en millimoles par litre (mmol/L).",
+      "category": "physiologie",
+      "synonyms": [
+        "concentration de chlore"
+      ],
+      "related_terms": [
+        "chlore",
+        "osmolarité plasmatique"
+      ],
+      "description": "La chlorémie est un indicateur important de l'équilibre acido-basique et électrolytique du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "98-107 mmol/L",
+      "image_search_terms": [
+        "chlorémie",
+        "concentration de chlore"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TCP",
+      "definition": "Tube contourné proximal, segment du néphron où se produit la réabsorption de la majorité de l'eau et des électrolytes filtrés par le glomérule.",
+      "category": "anatomie",
+      "synonyms": [
+        "tube proximal"
+      ],
+      "related_terms": [
+        "réabsorption d'eau",
+        "sodium"
+      ],
+      "description": "Le TCP est essentiel pour la réabsorption isotonique de l'eau et des électrolytes, maintenant ainsi l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TCP",
+        "tube contourné proximal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube contourné distal (TCD)",
+      "definition": "Segment du néphron où se produit la réabsorption fine des électrolytes et la régulation de l'équilibre acido-basique.",
+      "category": "anatomie",
+      "synonyms": [
+        "tube distal"
+      ],
+      "related_terms": [
+        "réabsorption de sodium",
+        "aldostérone"
+      ],
+      "description": "Le TCD est crucial pour la régulation fine de la réabsorption des électrolytes et de l'eau, ainsi que pour l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TCD",
+        "tube contourné distal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FAN",
+      "definition": "Facteur atrial natriurétique, hormone sécrétée par le cœur qui augmente l'excrétion de sodium et d'eau par les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "peptide natriurétique atrial"
+      ],
+      "related_terms": [
+        "sodium",
+        "diurèse"
+      ],
+      "description": "Le FAN joue un rôle important dans la régulation de l'équilibre hydrique et de la pression artérielle en augmentant l'excrétion de sodium et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FAN",
+        "peptide natriurétique atrial"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs V1",
+      "definition": "Récepteurs de la vasopressine présents au niveau vasculaire et plaquettaire, responsables des actions vasoconstrictives et hémostatiques de l'ADH.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteurs V1R"
+      ],
+      "related_terms": [
+        "ADH",
+        "vasopressine",
+        "récepteurs V2"
+      ],
+      "description": "Les récepteurs V1 sont impliqués dans la régulation de la pression artérielle et de l'hémostase.",
+      "expansion": "N/A",
+      "clinical_significance": "Les récepteurs V1 jouent un rôle crucial dans la régulation de la pression artérielle et de l'hémostase.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "récepteurs V1",
+        "vasopressine",
+        "ADH"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs V2",
+      "definition": "Récepteurs de la vasopressine situés à la membrane basolatérale des cellules principales du canal collecteur rénal, impliqués dans la réabsorption d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteurs V2R"
+      ],
+      "related_terms": [
+        "ADH",
+        "vasopressine",
+        "récepteurs V1"
+      ],
+      "description": "Les récepteurs V2 sont essentiels pour la régulation de l'équilibre hydrique en augmentant la perméabilité à l'eau des tubules collecteurs.",
+      "expansion": "N/A",
+      "clinical_significance": "Un dysfonctionnement des récepteurs V2 peut entraîner des troubles de l'hydratation comme le diabète insipide néphrogénique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "récepteurs V2",
+        "vasopressine",
+        "ADH"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aquaporine 2",
+      "definition": "Canal à eau situé à la membrane apicale des cellules principales du canal collecteur rénal, régulé par l'ADH pour permettre la réabsorption d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "AQP-2"
+      ],
+      "related_terms": [
+        "ADH",
+        "vasopressine",
+        "aquaporines 3",
+        "aquaporines 4"
+      ],
+      "description": "L'aquaporine 2 est essentielle pour la régulation de l'équilibre hydrique en permettant la réabsorption d'eau dans les reins.",
+      "expansion": "N/A",
+      "clinical_significance": "Un dysfonctionnement de l'aquaporine 2 peut entraîner des troubles de l'hydratation comme le diabète insipide néphrogénique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "aquaporine 2",
+        "AQP-2",
+        "tubule collecteur rénal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aquaporines 3",
+      "definition": "Canaux à eau situés à la membrane basolatérale des cellules principales du canal collecteur rénal, permettant la sortie de l'eau réabsorbée.",
+      "category": "physiologie",
+      "synonyms": [
+        "AQP-3"
+      ],
+      "related_terms": [
+        "ADH",
+        "vasopressine",
+        "aquaporine 2",
+        "aquaporines 4"
+      ],
+      "description": "Les aquaporines 3 sont essentielles pour la régulation de l'équilibre hydrique en permettant la sortie de l'eau réabsorbée dans les reins.",
+      "expansion": "N/A",
+      "clinical_significance": "Un dysfonctionnement des aquaporines 3 peut entraîner des troubles de l'hydratation.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "aquaporines 3",
+        "AQP-3",
+        "tubule collecteur rénal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aquaporines 4",
+      "definition": "Canaux à eau situés à la membrane basolatérale des cellules principales du canal collecteur rénal, permettant la sortie de l'eau réabsorbée.",
+      "category": "physiologie",
+      "synonyms": [
+        "AQP-4"
+      ],
+      "related_terms": [
+        "ADH",
+        "vasopressine",
+        "aquaporine 2",
+        "aquaporines 3"
+      ],
+      "description": "Les aquaporines 4 sont essentielles pour la régulation de l'équilibre hydrique en permettant la sortie de l'eau réabsorbée dans les reins.",
+      "expansion": "N/A",
+      "clinical_significance": "Un dysfonctionnement des aquaporines 4 peut entraîner des troubles de l'hydratation.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "aquaporines 4",
+        "AQP-4",
+        "tubule collecteur rénal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mécanorécepteurs",
+      "definition": "Récepteurs sensibles aux stimuli mécaniques, tels que la pression ou l'étirement, qui modulent la sensibilité du rétrocontrôle tubulo-glomérulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteurs mécaniques"
+      ],
+      "related_terms": [
+        "rétrocontrôle tubulo-glomérulaire",
+        "interstitium péritubulaire"
+      ],
+      "description": "Les mécanorécepteurs jouent un rôle crucial dans la régulation de la pression et du volume interstitiel rénal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tubulo-glomérulaire",
+      "definition": "Mécanisme de rétrocontrôle qui ajuste le débit de filtration glomérulaire en réponse aux variations de la concentration de sodium dans le fluide tubulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "rétrocontrôle tubulo-glomérulaire"
+      ],
+      "related_terms": [
+        "mécanorécepteurs",
+        "interstitium péritubulaire"
+      ],
+      "description": "Le rétrocontrôle tubulo-glomérulaire est essentiel pour maintenir l'équilibre hydrique et électrolytique du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système rénine angiotensine",
+      "definition": "Système hormonal qui régule la pression artérielle et l'équilibre hydrique en contrôlant la vasoconstriction et la rétention de sodium.",
+      "category": "physiologie",
+      "synonyms": [
+        "système rénine-angiotensine-aldostérone"
+      ],
+      "related_terms": [
+        "rénine",
+        "angiotensine II",
+        "aldostérone"
+      ],
+      "description": "Le système rénine angiotensine est crucial pour la régulation de la pression artérielle et de l'équilibre électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BNP",
+      "definition": "Brain natriuretic peptide, une hormone sécrétée par le cœur en réponse à une distension des ventricules, augmentant l'excrétion de sodium et d'eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "peptide natriurétique cérébral"
+      ],
+      "related_terms": [
+        "FAN",
+        "peptide natriurétique de type C",
+        "urodilatine"
+      ],
+      "description": "Le BNP est utilisé comme marqueur dans le diagnostic de l'insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HEC",
+      "definition": "Hyperhydratation extracellulaire, une condition caractérisée par une rétention proportionnelle d'eau et de sodium dans le secteur extracellulaire, sans modification de l'osmolalité plasmatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperhydratation extracellulaire"
+      ],
+      "related_terms": [
+        "hyperhydratation",
+        "osmolalité plasmatique"
+      ],
+      "description": "L'HEC peut entraîner des œdèmes et d'autres manifestations cliniques en fonction de la rapidité d'installation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myxoedème",
+      "definition": "Œdème non inflammatoire observé dans l'hypothyroïdie, caractérisé par une accumulation de mucopolysaccharides dans la peau.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème myxoedémateux"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "mucopolysaccharides"
+      ],
+      "description": "Le myxoedème est un signe clinique de l'hypothyroïdie, caractérisé par une peau sèche, épaisse et œdémateuse.",
+      "expansion": "N/A",
+      "clinical_significance": "Le myxoedème est un indicateur important de l'hypothyroïdie sévère et nécessite une intervention médicale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "myxoedème",
+        "hypothyroïdie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome néphritique aiguë",
+      "definition": "Condition caractérisée par une inflammation aiguë des glomérules rénaux, entraînant une hématurie, une protéinurie et une hypertension.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrite aiguë"
+      ],
+      "related_terms": [
+        "glomérules",
+        "hématurie",
+        "protéinurie"
+      ],
+      "description": "Le syndrome néphritique aiguë est souvent causé par une infection ou une réaction auto-immune, entraînant une inflammation des glomérules rénaux.",
+      "expansion": "N/A",
+      "clinical_significance": "Le syndrome néphritique aiguë peut entraîner une insuffisance rénale aiguë et nécessite une intervention médicale immédiate.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "néphrite aiguë",
+        "glomérules"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéropathie exsudative",
+      "definition": "Condition caractérisée par une perte excessive de protéines dans le tractus gastro-intestinal, entraînant une hypoalbuminémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "perte protéique digestive"
+      ],
+      "related_terms": [
+        "hypoalbuminémie",
+        "protéines"
+      ],
+      "description": "L'entéropathie exsudative peut être causée par diverses conditions, y compris les maladies inflammatoires de l'intestin et les infections.",
+      "expansion": "N/A",
+      "clinical_significance": "L'entéropathie exsudative peut entraîner des œdèmes et nécessite une intervention médicale pour corriger la perte protéique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "entéropathie exsudative",
+        "hypoalbuminémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome hépato-rénal",
+      "definition": "Insuffisance rénale fonctionnelle survenant chez les patients atteints de cirrhose hépatique avancée ou de défaillance hépatique aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance rénale hépatique"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "insuffisance rénale"
+      ],
+      "description": "Le syndrome hépato-rénal est une complication grave de la cirrhose hépatique, caractérisée par une vasoconstriction rénale et une diminution du débit sanguin rénal.",
+      "expansion": "N/A",
+      "clinical_significance": "Le syndrome hépato-rénal est associé à un mauvais pronostic et nécessite une intervention médicale urgente.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome hépato-rénal",
+        "cirrhose"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrochlorothiazide",
+      "definition": "Diurétique thiazidique utilisé pour traiter l'hypertension et les œdèmes en augmentant l'excrétion urinaire de sodium et d'eau.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HCTZ"
+      ],
+      "related_terms": [
+        "diurétique",
+        "hypertension"
+      ],
+      "description": "L'hydrochlorothiazide agit en inhibant le co-transporteur Na+/Cl- dans le tube contourné distal.",
+      "expansion": "N/A",
+      "clinical_significance": "L'hydrochlorothiazide est un diurétique couramment utilisé pour traiter l'hypertension et les œdèmes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hydrochlorothiazide",
+        "diurétique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Amiloride",
+      "definition": "Diurétique épargneur de potassium utilisé pour traiter l'hypertension et les œdèmes en inhibant l'absorption de sodium dans le tube collecteur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Midamor"
+      ],
+      "related_terms": [
+        "diurétique",
+        "hypertension"
+      ],
+      "description": "L'amiloride agit en inhibant le canal sodium apical dans la cellule principale du tube collecteur.",
+      "expansion": "N/A",
+      "clinical_significance": "L'amiloride est utilisé pour traiter l'hypertension et les œdèmes, souvent en combinaison avec d'autres diurétiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "amiloride",
+        "diurétique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aldactone",
+      "definition": "Antagoniste de l'aldostérone utilisé pour traiter l'hypertension, l'insuffisance cardiaque et les œdèmes en inhibant l'action de l'aldostérone.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "spironolactone"
+      ],
+      "related_terms": [
+        "diurétique",
+        "hypertension"
+      ],
+      "description": "L'Aldactone agit en bloquant les récepteurs de l'aldostérone, réduisant ainsi la réabsorption de sodium et d'eau dans les tubules rénaux.",
+      "expansion": "N/A",
+      "clinical_significance": "L'Aldactone est un diurétique épargneur de potassium utilisé pour traiter l'hypertension, l'insuffisance cardiaque et les œdèmes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Aldactone",
+        "diurétique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "créatinine plasmatique",
+      "definition": "Mesure de la créatinine dans le plasma sanguin, utilisée pour évaluer la fonction rénale.",
+      "category": "physiologie",
+      "synonyms": [
+        "taux de créatinine"
+      ],
+      "related_terms": [
+        "créatinine",
+        "fonction rénale"
+      ],
+      "description": "La créatinine plasmatique est un marqueur important de la fonction rénale, utilisé pour diagnostiquer et surveiller l'insuffisance rénale.",
+      "expansion": "N/A",
+      "clinical_significance": "Des niveaux élevés de créatinine plasmatique peuvent indiquer une insuffisance rénale.",
+      "normal_values": "0.6-1.2 mg/dL",
+      "image_search_terms": [
+        "créatinine",
+        "fonction rénale"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HIC",
+      "definition": "Hyperhydratation intracellulaire, une condition caractérisée par une augmentation du volume du compartiment intracellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperhydratation intracellulaire"
+      ],
+      "related_terms": [
+        "hydratation",
+        "compartiment intracellulaire"
+      ],
+      "description": "L'HIC est souvent associée à une rétention hydrique pure sans rétention sodée, entraînant une hypo-osmolalité.",
+      "expansion": "Hyperhydratation Intracellulaire",
+      "clinical_significance": "L'HIC peut entraîner des complications graves, y compris des troubles neurologiques et des déséquilibres électrolytiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hyperhydratation intracellulaire",
+        "hydratation"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperlipidémie",
+      "definition": "Niveau élevé de lipides dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "Dyslipidémie"
+      ],
+      "related_terms": [
+        "Cholestérol",
+        "Triglycérides"
+      ],
+      "description": "L'hyperlipidémie est un facteur de risque pour les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hyperlipidémie",
+        "Dyslipidémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Eau plasmatique",
+      "definition": "Partie liquide du plasma sanguin, excluant les protéines et les lipides.",
+      "category": "physiologie",
+      "synonyms": [
+        "Plasma aqueux"
+      ],
+      "related_terms": [
+        "Plasma",
+        "Sérum"
+      ],
+      "description": "L'eau plasmatique représente environ 93% du volume plasmatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Eau plasmatique",
+        "Plasma aqueux"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lipides",
+      "definition": "Groupe de molécules organiques insolubles dans l'eau, incluant les graisses et les huiles.",
+      "category": "physiologie",
+      "synonyms": [
+        "Graisses"
+      ],
+      "related_terms": [
+        "Cholestérol",
+        "Triglycérides"
+      ],
+      "description": "Les lipides jouent un rôle crucial dans le stockage d'énergie et la structure cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Lipides",
+        "Graisses"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protides",
+      "definition": "Molécules organiques complexes composées d'acides aminés, également appelées protéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "Protéines"
+      ],
+      "related_terms": [
+        "Acides aminés",
+        "Peptides"
+      ],
+      "description": "Les protides sont essentiels pour la structure et la fonction des cellules.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Protides",
+        "Protéines"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pseudo-hyponatrémies",
+      "definition": "Hyponatrémies apparentes dues à des artefacts de mesure, souvent causées par une hyperlipidémie ou une hyperprotidémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hyponatrémies factices"
+      ],
+      "related_terms": [
+        "Hyponatrémie",
+        "Hyperlipidémie"
+      ],
+      "description": "Les pseudo-hyponatrémies ne reflètent pas une véritable diminution de la concentration de sodium dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Pseudo-hyponatrémies",
+        "Hyponatrémies factices"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperglycémies",
+      "definition": "Niveaux élevés de glucose dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hyperglycémie"
+      ],
+      "related_terms": [
+        "Diabète",
+        "Glycémie"
+      ],
+      "description": "Les hyperglycémies sont souvent associées au diabète et peuvent entraîner des complications graves si elles ne sont pas traitées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hyperglycémies",
+        "Hyperglycémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méthanol",
+      "definition": "Alcool toxique qui peut causer une intoxication grave s'il est ingéré.",
+      "category": "toxicologie",
+      "synonyms": [
+        "Alcool méthylique"
+      ],
+      "related_terms": [
+        "Éthanol",
+        "Intoxication"
+      ],
+      "description": "L'ingestion de méthanol peut entraîner une acidose métabolique et des lésions oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Méthanol",
+        "Alcool méthylique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Éthanol",
+      "definition": "Alcool présent dans les boissons alcoolisées, également utilisé comme solvant et antiseptique.",
+      "category": "toxicologie",
+      "synonyms": [
+        "Alcool éthylique"
+      ],
+      "related_terms": [
+        "Méthanol",
+        "Intoxication"
+      ],
+      "description": "L'éthanol est métabolisé par le foie et peut causer une intoxication aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Éthanol",
+        "Alcool éthylique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperosmolalité plasmatique",
+      "definition": "État pathologique caractérisé par une osmolalité plasmatique élevée, souvent due à une déshydratation ou à une hyperglycémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hyperosmolarité plasmatique"
+      ],
+      "related_terms": [
+        "Osmolalité plasmatique",
+        "Hyperglycémie"
+      ],
+      "description": "L'hyperosmolalité plasmatique peut entraîner des symptômes neurologiques et une déshydratation cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hyperosmolalité plasmatique",
+        "Hyperosmolarité"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Osmolalité urinaire",
+      "definition": "Mesure de la concentration totale des particules osmotiquement actives dans l'urine.",
+      "category": "physiologie",
+      "synonyms": [
+        "Osmolarité urinaire"
+      ],
+      "related_terms": [
+        "Osmolalité plasmatique",
+        "Urine"
+      ],
+      "description": "L'osmolalité urinaire est un indicateur de la capacité des reins à concentrer ou diluer l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "50-1200 mosm/kg",
+      "image_search_terms": [
+        "Osmolalité urinaire",
+        "Osmolarité urinaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cerebral salt wasting",
+      "definition": "Syndrome caractérisé par une perte excessive de sodium dans l'urine, souvent associé à des lésions cérébrales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Perte de sel d'origine cérébrale"
+      ],
+      "related_terms": [
+        "Hyponatrémie",
+        "Lésions cérébrales"
+      ],
+      "description": "Le cerebral salt wasting est souvent confondu avec le syndrome de sécrétion inappropriée de l'hormone antidiurétique (SIADH).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Cerebral salt wasting",
+        "Perte de sel d'origine cérébrale"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhydratation intracellulaire isolée",
+      "definition": "État où il y a un excès de liquide dans les cellules sans augmentation du volume extracellulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyponatrémie",
+        "insuffisance surrénalienne",
+        "hypothyroïdie",
+        "SIADH"
+      ],
+      "description": "Cet état peut être causé par une prise de diurétiques, une insuffisance surrénalienne, une hypothyroïdie ou un syndrome de sécrétion inappropriée d'ADH (SIADH).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "euvolémie",
+      "definition": "État où le volume sanguin est normal, sans déshydratation ni surcharge liquidienne.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyponatrémie",
+        "SIADH"
+      ],
+      "description": "Important pour évaluer l'état hydratation et guider le traitement des déséquilibres électrolytiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum salé hypertonique",
+      "definition": "Solution saline concentrée utilisée pour traiter l'hyponatrémie sévère en augmentant rapidement la concentration de sodium dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solution saline hypertonique"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "natrémie"
+      ],
+      "description": "Utilisée en milieu hospitalier pour corriger les déséquilibres électrolytiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome pseudobulbaire",
+      "definition": "Ensemble de symptômes résultant de lésions bilatérales des voies corticobulbaires, incluant la dysarthrie, la dysphagie et la quadriparésie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "myélinolyse centropontine",
+        "hyponatrémie"
+      ],
+      "description": "Peut être causé par une correction trop rapide de l'hyponatrémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysarthrie",
+      "definition": "Trouble de l'articulation des mots dû à une faiblesse ou une incoordination des muscles de la parole.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome pseudobulbaire",
+        "myélinolyse centropontine"
+      ],
+      "description": "Peut être causé par des lésions cérébrales ou des maladies neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "quadriparésie",
+      "definition": "Faiblesse musculaire affectant les quatre membres, souvent due à des lésions de la moelle épinière ou du cerveau.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome pseudobulbaire",
+        "myélinolyse centropontine"
+      ],
+      "description": "Peut être flasque ou spastique selon la cause sous-jacente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "malnutrition",
+      "definition": "État de déficit nutritionnel, souvent dû à une alimentation insuffisante ou à une malabsorption.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "éthylisme",
+        "hypoxie",
+        "hypokaliémie"
+      ],
+      "description": "Peut entraîner une perte de poids, une faiblesse musculaire et des carences en vitamines et minéraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "soluté glucosé 5%",
+      "definition": "Solution intraveineuse contenant 5% de glucose, utilisée pour l'hydratation et la correction de l'hyponatrémie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "D5W"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "natrémie"
+      ],
+      "description": "Peut être utilisée pour faire baisser la natrémie en cas de correction trop rapide de l'hyponatrémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypotonie des globes oculaires",
+      "definition": "Diminution de la pression intraoculaire, souvent observée dans les cas de déshydratation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "L'hypotonie des globes oculaires est un signe clinique de déshydratation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "collapsus vasculaire",
+      "definition": "Effondrement circulatoire caractérisé par une chute brutale de la pression artérielle et une diminution du débit cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypovolémie",
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le collapsus vasculaire est une urgence médicale nécessitant une intervention immédiate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PVC",
+      "definition": "Pression veineuse centrale, mesure de la pression dans les grandes veines près du cœur.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "La PVC est utilisée pour évaluer l'état de remplissage vasculaire et la fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "2-6 cm H2O",
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance rénale aiguë fonctionnelle",
+      "definition": "Diminution soudaine de la fonction rénale due à une diminution du débit sanguin rénal, souvent réversible.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA fonctionnelle"
+      ],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "L'insuffisance rénale aiguë fonctionnelle peut être causée par une déshydratation ou une hypovolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "natiurèse",
+      "definition": "Quantité de sodium excrétée dans les urines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "La natriurèse est un indicateur de la fonction rénale et de l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathie chronique",
+      "definition": "Maladie rénale chronique caractérisée par une diminution progressive et irréversible de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "La néphropathie chronique peut entraîner des pertes rénales de sel et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrite interstitielle chronique",
+      "definition": "Inflammation chronique du tissu interstitiel rénal, souvent associée à une diminution de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "La néphrite interstitielle chronique peut entraîner des pertes rénales de sel et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nephronophtise",
+      "definition": "Maladie rénale héréditaire caractérisée par une dégénérescence des tubules rénaux et une insuffisance rénale progressive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "La nephronophtise peut entraîner des pertes rénales de sel et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de levée d'obstacle des uropathies",
+      "definition": "Syndrome caractérisé par une augmentation soudaine de la diurèse après le soulagement d'une obstruction des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le syndrome de levée d'obstacle des uropathies peut entraîner des pertes rénales de sel et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurèses osmotiques",
+      "definition": "Augmentation de la production d'urine due à la présence de solutés osmotiquement actifs dans les urines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Les diurèses osmotiques peuvent être causées par un coma hyperosmolaire, une acidocétose, une hypercalcémie ou l'administration de mannitol.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mannitol",
+      "definition": "Agent osmotique utilisé pour augmenter la diurèse et réduire la pression intracrânienne.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le mannitol peut entraîner des diurèses osmotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasmion",
+      "definition": "Solution colloïdale utilisée pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le plasmion est utilisé pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "P.F.C",
+      "definition": "Plasma frais congelé, utilisé pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le P.F.C est utilisé pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "albumine 4%",
+      "definition": "Solution d'albumine utilisée pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "L'albumine 4% est utilisée pour le remplissage vasculaire en cas de déshydratation ou d'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum salé isotonique",
+      "definition": "Solution de chlorure de sodium à 0,9% utilisée pour la réhydratation et le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum physiologique"
+      ],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le sérum salé isotonique est utilisé pour la réhydratation et le remplissage vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum de NaCl à 9%",
+      "definition": "Solution de chlorure de sodium à 9% utilisée pour la réhydratation et le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum hypertonique"
+      ],
+      "related_terms": [
+        "déshydratation extracellulaire"
+      ],
+      "description": "Le sérum de NaCl à 9% est utilisé pour la réhydratation et le remplissage vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déshydratation intracellulaire",
+      "definition": "Diminution du volume de l'eau intracellulaire conséquence d'une hyperosmolalité du secteur extracellulaire entraînant un appel d'eau du milieu intracellulaire vers le milieu extracellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "DIC"
+      ],
+      "related_terms": [
+        "hyperosmolalité",
+        "secteur extracellulaire"
+      ],
+      "description": "La déshydratation intracellulaire résulte d'un bilan d'eau négatif, apparaissant lorsque les pertes en eau sont supérieures aux apports vers le secteur extracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperosmolalité",
+      "definition": "Augmentation de l'osmolarité du plasma sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperosmolarité"
+      ],
+      "related_terms": [
+        "déshydratation intracellulaire"
+      ],
+      "description": "L'hyperosmolalité peut entraîner un appel d'eau du milieu intracellulaire vers le milieu extracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypernatrémie",
+      "definition": "Concentration élevée de sodium dans le plasma sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "déshydratation intracellulaire"
+      ],
+      "description": "L'hypernatrémie est un trouble métabolique rare, apparaissant en cas d'absence d'accès à l'eau ou de trouble de la soif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DHIC",
+      "definition": "Déshydratation hypertonique intracellulaire, caractérisée par une perte d'eau pure sans perte de sel.",
+      "category": "pathologie",
+      "synonyms": [
+        "déshydratation hypertonique"
+      ],
+      "related_terms": [
+        "DHEC",
+        "hypernatrémie"
+      ],
+      "description": "La DHIC se manifeste par des signes cliniques tels que la soif, la sécheresse des muqueuses, et des signes neuropsychiques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques graves si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DHIC",
+        "déshydratation hypertonique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NIC",
+      "definition": "Néphropathie interstitielle chronique, une maladie rénale caractérisée par une inflammation chronique de l'interstitium rénal.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrite interstitielle chronique"
+      ],
+      "related_terms": [
+        "insuffisance rénale chronique",
+        "néphropathie"
+      ],
+      "description": "La NIC peut être causée par des infections, des médicaments ou des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale progressive.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NIC",
+        "néphrite interstitielle chronique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DHEC",
+      "definition": "Déshydratation hypotonique extracellulaire, caractérisée par une perte d'eau et de sel avec une perte d'eau supérieure à la perte de sel.",
+      "category": "pathologie",
+      "synonyms": [
+        "déshydratation hypotonique"
+      ],
+      "related_terms": [
+        "DHIC",
+        "hypernatrémie"
+      ],
+      "description": "La DHEC se manifeste par des signes cliniques et biologiques combinés de DHIC et DHEC.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques graves si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DHEC",
+        "déshydratation hypotonique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Potomanie",
+      "definition": "Trouble caractérisé par une consommation excessive d'eau, souvent associé à des troubles psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polydipsie",
+        "hyponatrémie"
+      ],
+      "description": "La potomanie peut entraîner une hyponatrémie et des complications neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une restriction hydrique et un traitement psychiatrique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Potomanie",
+        "polydipsie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épuration extra rénale",
+      "definition": "Technique de dialyse utilisée pour éliminer les toxines et l'excès de fluides du corps en cas d'insuffisance rénale.",
+      "category": "procédure médicale",
+      "synonyms": [
+        "dialyse"
+      ],
+      "related_terms": [
+        "hémodialyse",
+        "insuffisance rénale"
+      ],
+      "description": "L'épuration extra rénale peut être nécessaire en cas de déshydratation sévère ou d'intoxication.",
+      "expansion": null,
+      "clinical_significance": "Peut sauver la vie en cas d'insuffisance rénale aiguë ou chronique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épuration extra rénale",
+        "dialyse"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie supra choroïdienne",
+      "definition": "Saignement dans l'espace supra choroïdien, souvent associé à une hypertension intracrânienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie intracrânienne",
+        "hypertension intracrânienne"
+      ],
+      "description": "L'hémorragie supra choroïdienne peut être causée par un traumatisme crânien ou une hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques graves nécessitant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie supra choroïdienne",
+        "hémorragie intracrânienne"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "minirin",
+      "definition": "Nom commercial de la desmopressine, une forme synthétique de l'hormone antidiurétique (ADH) utilisée pour traiter le diabète insipide.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "desmopressine"
+      ],
+      "related_terms": [
+        "ADH",
+        "diabète insipide"
+      ],
+      "description": "Le minirin est utilisé pour augmenter la réabsorption d'eau par les reins et traiter le diabète insipide.",
+      "expansion": null,
+      "clinical_significance": "Peut être utilisé pour diagnostiquer et traiter le diabète insipide central ou néphrogénique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "minirin",
+        "desmopressine"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Noyade",
+      "definition": "Asphyxie causée par l'immersion dans un liquide, souvent de l'eau, entraînant une hypoxie et des complications respiratoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "asphyxie",
+        "hypoxie"
+      ],
+      "description": "La noyade peut entraîner des complications telles que l'œdème pulmonaire et des lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une réanimation cardio-pulmonaire et une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Noyade",
+        "asphyxie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyradiculonévrites",
+      "definition": "Inflammation des racines nerveuses et des nerfs périphériques, souvent causée par une infection ou une réaction auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Guillain-Barré"
+      ],
+      "description": "Les polyradiculonévrites peuvent entraîner une faiblesse musculaire et des troubles sensoriels.",
+      "expansion": null,
+      "clinical_significance": "Les polyradiculonévrites peuvent entraîner une faiblesse musculaire et des troubles sensoriels.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "racines nerveuses",
+        "nerfs périphériques"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "porphyrie aiguë",
+      "definition": "Trouble métabolique rare caractérisé par une accumulation de porphyrines, entraînant des crises aiguës avec des symptômes neurologiques et abdominaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "porphyrines",
+        "crises aiguës"
+      ],
+      "description": "La porphyrie aiguë nécessite une gestion médicale rapide pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": "La porphyrie aiguë nécessite une gestion médicale rapide pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "porphyrines",
+        "crises aiguës"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation assistée",
+      "definition": "Technique de soutien respiratoire utilisant un ventilateur mécanique pour aider ou remplacer la respiration spontanée.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ventilateur mécanique",
+        "respiration assistée"
+      ],
+      "description": "La ventilation assistée est utilisée dans les cas d'insuffisance respiratoire aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": "La ventilation assistée est utilisée dans les cas d'insuffisance respiratoire aiguë ou chronique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ventilateur mécanique",
+        "respiration assistée"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PEEP",
+      "definition": "Pressure Positive End-Expiratory Pressure, une technique de ventilation mécanique utilisée pour maintenir une pression positive dans les voies respiratoires à la fin de l'expiration.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ventilation mécanique",
+        "pression positive"
+      ],
+      "description": "Le PEEP est utilisé pour améliorer l'oxygénation et prévenir l'atélectasie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Le PEEP est utilisé pour améliorer l'oxygénation et prévenir l'atélectasie pulmonaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ventilation mécanique",
+        "pression positive"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndromes nauséeux",
+      "definition": "Ensemble de symptômes caractérisés par des nausées et des vomissements, souvent dus à des troubles gastro-intestinaux ou à des effets secondaires de médicaments.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nausées",
+        "vomissements"
+      ],
+      "description": "Les syndromes nauséeux peuvent entraîner une déshydratation et nécessitent une gestion médicale.",
+      "expansion": null,
+      "clinical_significance": "Les syndromes nauséeux peuvent entraîner une déshydratation et nécessitent une gestion médicale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "nausées",
+        "vomissements"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs type IRS",
+      "definition": "Inhibiteurs de la recapture de la sérotonine, une classe de médicaments antidépresseurs qui augmentent les niveaux de sérotonine dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ISRS"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "sérotonine"
+      ],
+      "description": "Les IRS sont utilisés pour traiter la dépression, les troubles anxieux et d'autres troubles psychiatriques.",
+      "expansion": null,
+      "clinical_significance": "Les IRS sont efficaces pour traiter la dépression et les troubles anxieux mais peuvent entraîner des effets secondaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "antidépresseurs",
+        "sérotonine"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amphétamines",
+      "definition": "Stimulants du système nerveux central utilisés pour traiter l'hyperactivité et la narcolepsie, mais souvent abusés pour leurs effets euphorisants.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "stimulants",
+        "hyperactivité",
+        "narcolepsie"
+      ],
+      "description": "Les amphétamines augmentent les niveaux de dopamine et de noradrénaline dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Les amphétamines peuvent entraîner une dépendance et des effets secondaires graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "stimulants",
+        "hyperactivité",
+        "narcolepsie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ectasy",
+      "definition": "Drogue psychotrope synthétique, également connue sous le nom de MDMA, qui agit comme un stimulant et un hallucinogène.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "MDMA"
+      ],
+      "related_terms": [
+        "stimulant",
+        "hallucinogène"
+      ],
+      "description": "L'ectasy augmente les niveaux de sérotonine, de dopamine et de noradrénaline dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "L'ectasy peut entraîner des effets secondaires graves, y compris l'hyperthermie et la déshydratation.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "stimulant",
+        "hallucinogène"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vincristine",
+      "definition": "Agent chimiothérapeutique utilisé pour traiter divers cancers, notamment les leucémies et les lymphomes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "chimiothérapie",
+        "cancers"
+      ],
+      "description": "La vincristine agit en inhibant la division cellulaire.",
+      "expansion": null,
+      "clinical_significance": "La vincristine est efficace pour traiter divers cancers mais peut entraîner des effets secondaires neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "chimiothérapie",
+        "cancers"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vinblastine",
+      "definition": "Agent chimiothérapeutique utilisé pour traiter divers cancers, notamment les lymphomes et les cancers du testicule.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "chimiothérapie",
+        "cancers"
+      ],
+      "description": "La vinblastine agit en inhibant la division cellulaire.",
+      "expansion": null,
+      "clinical_significance": "La vinblastine est efficace pour traiter divers cancers mais peut entraîner des effets secondaires neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "chimiothérapie",
+        "cancers"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sécrétion tumorale ectopique d'ADH",
+      "definition": "Production anormale d'ADH par des cellules tumorales situées en dehors de l'hypophyse postérieure.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeurs",
+        "ADH"
+      ],
+      "description": "La sécrétion tumorale ectopique d'ADH peut entraîner un syndrome de sécrétion inappropriée d'ADH (SIADH).",
+      "expansion": null,
+      "clinical_significance": "La sécrétion tumorale ectopique d'ADH peut entraîner un syndrome de sécrétion inappropriée d'ADH (SIADH).",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "tumeurs",
+        "ADH"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinomes bronchiques",
+      "definition": "Cancers des bronches, souvent causés par le tabagisme, qui peuvent se propager aux poumons et à d'autres parties du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancers",
+        "bronches"
+      ],
+      "description": "Les carcinomes bronchiques nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "expansion": null,
+      "clinical_significance": "Les carcinomes bronchiques nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cancers",
+        "bronches"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers prostatiques",
+      "definition": "Cancers de la prostate, souvent diagnostiqués chez les hommes âgés, qui peuvent se propager à d'autres parties du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancers",
+        "prostate"
+      ],
+      "description": "Les cancers prostatiques nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "expansion": null,
+      "clinical_significance": "Les cancers prostatiques nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cancers",
+        "prostate"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers digestifs",
+      "definition": "Cancers affectant le système digestif, y compris l'œsophage, l'estomac, l'intestin grêle, le côlon et le rectum.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancers",
+        "système digestif"
+      ],
+      "description": "Les cancers digestifs nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "expansion": null,
+      "clinical_significance": "Les cancers digestifs nécessitent un traitement chirurgical, une chimiothérapie ou une radiothérapie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cancers",
+        "système digestif"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance cortico-surrénalienne",
+      "definition": "État de fonctionnement insuffisant des glandes surrénales, entraînant une diminution de la production de cortisol et d'aldostérone.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "glandes surrénales",
+        "cortisol",
+        "aldostérone"
+      ],
+      "description": "L'insuffisance cortico-surrénalienne peut entraîner des symptômes tels que la fatigue, la faiblesse musculaire et l'hypotension.",
+      "expansion": null,
+      "clinical_significance": "L'insuffisance cortico-surrénalienne peut entraîner des symptômes tels que la fatigue, la faiblesse musculaire et l'hypotension.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "glandes surrénales",
+        "cortisol",
+        "aldostérone"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome à prolactine",
+      "definition": "Tumeur bénigne de l'hypophyse qui sécrète de la prolactine, entraînant une hyperprolactinémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypophyse",
+        "prolactine",
+        "hyperprolactinémie"
+      ],
+      "description": "Un adénome à prolactine peut entraîner des symptômes tels que l'aménorrhée, la galactorrhée et l'infertilité.",
+      "expansion": null,
+      "clinical_significance": "Un adénome à prolactine peut entraîner des symptômes tels que l'aménorrhée, la galactorrhée et l'infertilité.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypophyse",
+        "prolactine",
+        "hyperprolactinémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorpropamide",
+      "definition": "Sulfamide hypoglycémiant utilisé pour traiter le diabète de type 2 en augmentant la sécrétion d'insuline par le pancréas.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "diabète de type 2",
+        "insuline",
+        "pancréas"
+      ],
+      "description": "Le chlorpropamide agit en stimulant les cellules bêta du pancréas pour sécréter plus d'insuline.",
+      "expansion": null,
+      "clinical_significance": "Le chlorpropamide est efficace pour contrôler la glycémie mais peut entraîner des hypoglycémies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "diabète de type 2",
+        "insuline",
+        "pancréas"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clofibrate",
+      "definition": "Médicament utilisé pour traiter l'hyperlipidémie en réduisant les niveaux de triglycérides et de cholestérol dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperlipidémie",
+        "triglycérides",
+        "cholestérol"
+      ],
+      "description": "Le clofibrate agit en augmentant l'activité de la lipoprotéine lipase, ce qui entraîne une réduction des triglycérides et du cholestérol.",
+      "expansion": null,
+      "clinical_significance": "Le clofibrate est efficace pour traiter l'hyperlipidémie mais peut entraîner des effets secondaires gastro-intestinaux.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hyperlipidémie",
+        "triglycérides",
+        "cholestérol"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DDAVP",
+      "definition": "Analogue synthétique de l'hormone antidiurétique (ADH) utilisé pour traiter le diabète insipide central.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "desmopressine"
+      ],
+      "related_terms": [
+        "diabète insipide",
+        "ADH"
+      ],
+      "description": "Le DDAVP agit en augmentant la réabsorption d'eau par les reins, ce qui réduit la production d'urine.",
+      "expansion": null,
+      "clinical_significance": "Le DDAVP est efficace pour traiter le diabète insipide central mais peut entraîner une rétention d'eau.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "diabète insipide",
+        "ADH"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ocytocine",
+      "definition": "Hormone peptidique sécrétée par l'hypophyse postérieure, utilisée pour induire le travail et contrôler les saignements post-partum.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypophyse postérieure",
+        "travail",
+        "saignements post-partum"
+      ],
+      "description": "L'ocytocine agit en stimulant les contractions utérines et en favorisant la lactation.",
+      "expansion": null,
+      "clinical_significance": "L'ocytocine est utilisée pour induire le travail et contrôler les saignements post-partum.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypophyse postérieure",
+        "travail",
+        "saignements post-partum"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dyskaliémies",
+      "definition": "Troubles de la concentration de potassium dans le sang, incluant l'hyperkaliémie et l'hypokaliémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles de la kaliémie"
+      ],
+      "related_terms": [
+        "hyperkaliémie",
+        "hypokaliémie"
+      ],
+      "description": "Les dyskaliémies peuvent entraîner des troubles de l'excitabilité cellulaire, notamment des arythmies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être fatales si non traitées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dyskaliémies",
+        "électrocardiogramme dyskaliémies"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Na-K-ATPase",
+      "definition": "Enzyme transmembranaire qui échange des ions sodium et potassium à travers la membrane cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe sodium-potassium"
+      ],
+      "related_terms": [
+        "potassium",
+        "sodium",
+        "membrane cellulaire"
+      ],
+      "description": "La Na-K-ATPase maintient le gradient de concentration de potassium et de sodium, essentiel pour le potentiel de membrane de repos.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Na-K-ATPase",
+        "pompe sodium-potassium"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "équilibre acido-basique",
+      "definition": "Maintien de l'équilibre entre les acides et les bases dans le corps pour réguler le pH sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "équilibre acidobasique"
+      ],
+      "related_terms": [
+        "acidose",
+        "alcalose"
+      ],
+      "description": "L'équilibre acido-basique est essentiel pour le bon fonctionnement des enzymes et des processus cellulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "équilibre acido-basique",
+        "pH sanguin"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidoses métaboliques aigues minérales",
+      "definition": "Type d'acidose métabolique caractérisée par l'addition d'ions H+ et Cl- dans l'espace extracellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose métabolique minérale"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "acidose respiratoire"
+      ],
+      "description": "Peut être causée par des conditions comme la diarrhée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidoses métaboliques aigues minérales",
+        "acidose métabolique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidoses métaboliques aigues organiques",
+      "definition": "Type d'acidose métabolique où les ions H+ accèdent facilement en intracellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose métabolique organique"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "acidose respiratoire"
+      ],
+      "description": "Peut être causée par des conditions comme l'acidocétose diabétique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidoses métaboliques aigues organiques",
+        "acidose métabolique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube proximal",
+      "definition": "Segment initial du néphron où la réabsorption de la plupart des solutés et de l'eau filtrés par le glomérule se produit.",
+      "category": "anatomie",
+      "synonyms": [
+        "tube contourné proximal"
+      ],
+      "related_terms": [
+        "tube distal",
+        "anse de Henlé"
+      ],
+      "description": "Le tube proximal joue un rôle crucial dans la réabsorption de l'eau, des électrolytes et des nutriments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphron",
+        "tube proximal"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube collecteur cortical (TCC)",
+      "definition": "Segment du néphron situé dans le cortex rénal, responsable de la régulation fine de la réabsorption d'eau et d'électrolytes.",
+      "category": "anatomie",
+      "synonyms": [
+        "tube collecteur"
+      ],
+      "related_terms": [
+        "tube contourné distal",
+        "tube collecteur médullaire"
+      ],
+      "description": "Le TCC est le site principal de l'action de l'aldostérone et de l'ADH, régulant l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphron",
+        "tube collecteur"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules principales",
+      "definition": "Type de cellules épithéliales dans le tube collecteur cortical, responsables de la réabsorption de sodium et de la sécrétion de potassium.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules du tube collecteur"
+      ],
+      "related_terms": [
+        "cellules intercalaires",
+        "aldostérone"
+      ],
+      "description": "Les cellules principales sont sensibles à l'aldostérone et jouent un rôle clé dans la régulation de l'équilibre sodium-potassium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphron",
+        "cellules principales"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules intercalaires",
+      "definition": "Type de cellules épithéliales dans le tube collecteur cortical, impliquées dans la réabsorption de potassium et la sécrétion de protons.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules intercalaires α et β"
+      ],
+      "related_terms": [
+        "cellules principales",
+        "aldostérone"
+      ],
+      "description": "Les cellules intercalaires jouent un rôle dans l'équilibre acido-basique et la régulation du potassium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "néphron",
+        "cellules intercalaires"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "minéralo-corticoïdes",
+      "definition": "Hormones stéroïdiennes qui régulent l'équilibre des électrolytes et le volume sanguin en agissant principalement sur les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "aldostérone"
+      ],
+      "related_terms": [
+        "glucocorticoïdes"
+      ],
+      "description": "Les minéralo-corticoïdes sont essentiels pour la régulation de la pression artérielle et l'équilibre hydrique.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter des conditions comme l'insuffisance surrénale et l'hypotension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "11β hydroxysteroïde deshydrogénases (11βOHSD)",
+      "definition": "Enzyme qui catalyse la conversion des glucocorticoïdes en métabolites inactifs, régulant ainsi leur activité biologique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glucocorticoïdes",
+        "aldostérone"
+      ],
+      "description": "La 11βOHSD est cruciale pour protéger les récepteurs minéralo-corticoïdes de l'activation par les glucocorticoïdes.",
+      "expansion": null,
+      "clinical_significance": "Déficience en 11βOHSD peut entraîner une hypertension et une hypokaliémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicarbonaturie",
+      "definition": "Présence de bicarbonate dans les urines, souvent associée à des troubles acido-basiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidoses tubulaires",
+        "tube collecteur cortical"
+      ],
+      "description": "La bicarbonaturie peut être un indicateur de troubles métaboliques ou rénaux.",
+      "expansion": null,
+      "clinical_significance": "Peut être observée dans des conditions comme les acidoses tubulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube collecteur cortical",
+      "definition": "Segment du néphron situé dans le cortex rénal, responsable de la réabsorption de sodium et de la sécrétion de potassium.",
+      "category": "anatomie",
+      "synonyms": [
+        "TCC"
+      ],
+      "related_terms": [
+        "bicarbonaturie",
+        "aldostérone"
+      ],
+      "description": "Le tube collecteur cortical joue un rôle crucial dans la régulation de l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement peut entraîner des troubles électrolytiques et acido-basiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidoses tubulaires",
+      "definition": "Groupes de troubles rénaux caractérisés par une acidose métabolique due à une anomalie de la réabsorption de bicarbonate ou de la sécrétion d'acide.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bicarbonaturie",
+        "tube collecteur cortical"
+      ],
+      "description": "Les acidoses tubulaires peuvent être dues à des défauts génétiques ou acquis des tubules rénaux.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une acidose métabolique, une hypokaliémie et des calculs rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADH/Vasopressine",
+      "definition": "Hormone antidiurétique produite par l'hypothalamus et stockée dans la post-hypophyse, régulant la réabsorption d'eau par les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopressine"
+      ],
+      "related_terms": [
+        "aldostérone",
+        "tube collecteur cortical"
+      ],
+      "description": "L'ADH joue un rôle clé dans la régulation de l'équilibre hydrique et de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement peut conduire au diabète insipide ou au syndrome de sécrétion inappropriée de l'ADH (SIADH).",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose métabolique aiguë",
+      "definition": "Trouble acido-basique caractérisé par une diminution rapide du pH sanguin due à une accumulation d'acides ou une perte de bases.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "alcalose",
+        "hypokaliémie"
+      ],
+      "description": "L'acidose métabolique aiguë peut entraîner des symptômes neurologiques et musculaires.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par une insuffisance rénale aiguë, un choc ou une intoxication.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose métabolique chronique",
+      "definition": "Trouble acido-basique caractérisé par une diminution prolongée du pH sanguin due à une accumulation d'acides ou une perte de bases.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypokaliémie",
+        "acidose métabolique aiguë"
+      ],
+      "description": "L'acidose métabolique chronique peut entraîner des symptômes neurologiques, musculaires et rénaux.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par une insuffisance rénale chronique, un diabète non contrôlé ou une malabsorption intestinale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "torsade de pointe",
+      "definition": "Type de tachycardie ventriculaire caractérisée par une rotation de l'axe QRS autour de la ligne isoélectrique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypokaliémie",
+        "hypomagnésémie"
+      ],
+      "description": "La torsade de pointe peut être causée par des anomalies électrolytiques, des médicaments ou des troubles congénitaux.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une fibrillation ventriculaire et un arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathie kaliopénique",
+      "definition": "Atteinte rénale due à une déplétion chronique en potassium, caractérisée par une résistance tubulaire à l'ADH et une alcalose métabolique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypokaliémie",
+        "ADH"
+      ],
+      "description": "La néphropathie kaliopénique peut entraîner une insuffisance rénale chronique.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par une hypokaliémie chronique due à des diurétiques, des vomissements ou une hyperaldostéronisme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathie interstitielle chronique",
+      "definition": "Atteinte rénale caractérisée par une inflammation et une fibrose de l'interstitium rénal, entraînant une insuffisance rénale progressive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "néphropathie kaliopénique",
+        "hypokaliémie"
+      ],
+      "description": "La néphropathie interstitielle chronique peut être causée par des infections, des médicaments ou des troubles métaboliques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale chronique et une hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypokaliémies",
+      "definition": "État de déficit en potassium dans le sang, souvent associé à des troubles électrolytiques et des dysfonctionnements musculaires et cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypokaliémie"
+      ],
+      "related_terms": [
+        "kaliurèse",
+        "alcalose métabolique"
+      ],
+      "description": "Les hypokaliémies peuvent être causées par des pertes rénales, gastro-intestinales ou par transfert intracellulaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des arythmies cardiaques, une faiblesse musculaire et des troubles digestifs.",
+      "normal_values": "Kaliémie normale: 3.5-5.0 mmol/L",
+      "image_search_terms": [
+        "hypokaliémie",
+        "kaliémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Bartter",
+      "definition": "Trouble génétique rare caractérisé par une perte de sel au niveau des tubules rénaux, entraînant une hypokaliémie et une alcalose métabolique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Gitelman",
+        "hypokaliémie"
+      ],
+      "description": "Causé par des mutations dans les gènes codant pour les transporteurs ioniques rénaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour corriger les déséquilibres électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Bartter",
+        "hypokaliémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Gitelman",
+      "definition": "Trouble génétique caractérisé par une perte de sel au niveau des tubules rénaux distaux, entraînant une hypokaliémie et une alcalose métabolique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de Bartter",
+        "hypokaliémie"
+      ],
+      "description": "Causé par des mutations dans le gène codant pour le cotransporteur sodium-chlore.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour corriger les déséquilibres électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Gitelman",
+        "hypokaliémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Conn",
+      "definition": "Hyperaldostéronisme primaire caractérisé par une sécrétion excessive d'aldostérone due à un adénome ou une hyperplasie surrénalienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperaldostéronisme primaire"
+      ],
+      "related_terms": [
+        "aldostérone",
+        "rénine"
+      ],
+      "description": "Peut entraîner une hypokaliémie et une hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour corriger les déséquilibres électrolytiques et l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Conn",
+        "hyperaldostéronisme primaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténose de l'artère rénale",
+      "definition": "Rétrécissement de l'artère rénale, souvent dû à l'athérosclérose, entraînant une diminution du débit sanguin rénal et une hypertension artérielle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension artérielle",
+        "athérosclérose"
+      ],
+      "description": "Peut entraîner une insuffisance rénale et une hypertension artérielle.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour corriger la sténose et l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sténose de l'artère rénale",
+        "hypertension artérielle"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chloroquine",
+      "definition": "Médicament antipaludéen utilisé pour traiter et prévenir le paludisme en inhibant la synthèse de l'ADN du parasite.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "paludisme",
+        "antipaludéen"
+      ],
+      "description": "Peut entraîner des effets secondaires comme des troubles gastro-intestinaux et des troubles visuels.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter et prévenir le paludisme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "chloroquine",
+        "antipaludéen"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paralysie périodique familiale de Westphal",
+      "definition": "Trouble génétique rare caractérisé par des épisodes de faiblesse musculaire due à des anomalies du métabolisme du potassium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypokaliémie",
+        "paralysie périodique"
+      ],
+      "description": "Peut entraîner des épisodes de paralysie musculaire.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement pour corriger les déséquilibres électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "paralysie périodique familiale de Westphal",
+        "hypokaliémie"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triamtérène",
+      "definition": "Diurétique épargneur de potassium utilisé pour traiter l'hypertension artérielle et les œdèmes en inhibant les canaux sodium.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "diurétiques épargneurs de potassium",
+        "amiloride"
+      ],
+      "description": "Peut entraîner des effets secondaires comme l'hyperkaliémie et des troubles gastro-intestinaux.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter l'hypertension et les œdèmes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "triamtérène",
+        "diurétiques épargneurs de potassium"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "KCl",
+      "definition": "Chlorure de potassium, utilisé pour traiter l'hypokaliémie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "chlorure de potassium"
+      ],
+      "related_terms": [
+        "gluconate de potassium"
+      ],
+      "description": "Utilisé pour corriger les niveaux de potassium dans le sang.",
+      "expansion": "Potassium Chloride",
+      "clinical_significance": "Important pour éviter les troubles du rythme cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "chlorure de potassium",
+        "KCl"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépolarisation",
+      "definition": "Changement dans la charge électrique d'une cellule, souvent associé à la transmission de signaux nerveux ou musculaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "dépolarisation cellulaire"
+      ],
+      "related_terms": [
+        "hyperexcitabilité"
+      ],
+      "description": "Processus clé dans la contraction musculaire et la transmission neuronale.",
+      "expansion": "N/A",
+      "clinical_significance": "Des anomalies peuvent causer des troubles neuromusculaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "dépolarisation",
+        "dépolarisation cellulaire"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paralysie flasque symétrique",
+      "definition": "Type de paralysie caractérisée par une faiblesse musculaire sans raideur, affectant les deux côtés du corps de manière égale.",
+      "category": "pathologie",
+      "synonyms": [
+        "paralysie flasque bilatérale"
+      ],
+      "related_terms": [
+        "hypotonie musculaire"
+      ],
+      "description": "Peut être causée par des troubles neurologiques ou métaboliques.",
+      "expansion": "N/A",
+      "clinical_significance": "Peut indiquer une condition médicale grave.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "paralysie flasque symétrique",
+        "paralysie flasque bilatérale"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurétiques épargneurs de potassium",
+      "definition": "Médicaments qui augmentent l'excrétion urinaire tout en conservant le potassium dans le corps.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "diurétiques potassium-épargneurs"
+      ],
+      "related_terms": [
+        "inhibiteurs de l'enzyme de conversion"
+      ],
+      "description": "Utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "expansion": "N/A",
+      "clinical_significance": "Peuvent causer une hyperkaliémie si mal utilisés.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "diurétiques épargneurs de potassium",
+        "diurétiques potassium-épargneurs"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antagonistes des récepteurs de l'angiotensine II",
+      "definition": "Médicaments qui bloquent les récepteurs de l'angiotensine II, utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ARA II"
+      ],
+      "related_terms": [
+        "inhibiteurs de l'enzyme de conversion"
+      ],
+      "description": "Peuvent causer une hyperkaliémie et des œdèmes.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "antagonistes des récepteurs de l'angiotensine II",
+        "ARA II"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bétabloquants non sélectifs",
+      "definition": "Médicaments qui bloquent les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquants non sélectifs"
+      ],
+      "related_terms": [
+        "bêta-bloquants sélectifs"
+      ],
+      "description": "Peuvent causer une bradycardie et une hypotension.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisés pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "bétabloquants non sélectifs",
+        "bêta-bloquants non sélectifs"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antagoniste des récepteurs de l'angiotensine II",
+      "definition": "Médicaments qui bloquent les récepteurs de l'angiotensine II, utilisés pour traiter l'hypertension et l'insuffisance cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ARA II",
+        "sartans"
+      ],
+      "related_terms": [
+        "inhibiteurs de l'enzyme de conversion",
+        "hypertension"
+      ],
+      "description": "Les ARA II réduisent la pression artérielle en bloquant les effets de l'angiotensine II.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'hypertension et l'insuffisance cardiaque, mais peuvent causer une hyperkaliémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ARA II mécanisme",
+        "ARA II effets secondaires"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résines échangeuses d'ions",
+      "definition": "Substances utilisées pour échanger des ions dans le corps, souvent pour traiter l'hyperkaliémie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Kayexalate",
+        "hyperkaliémie"
+      ],
+      "description": "Les résines échangeuses d'ions peuvent être administrées par voie orale ou rectale pour éliminer le potassium.",
+      "expansion": null,
+      "clinical_significance": "Utilisées pour traiter l'hyperkaliémie, mais peuvent causer des effets secondaires gastro-intestinaux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "résines échangeuses d'ions mécanisme",
+        "résines échangeuses d'ions administration"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Kayexalate",
+      "definition": "Résine échangeuse d'ions utilisée pour traiter l'hyperkaliémie en échangeant le potassium contre du sodium.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "polystyrène sulfonate de sodium"
+      ],
+      "related_terms": [
+        "hyperkaliémie",
+        "résines échangeuses d'ions"
+      ],
+      "description": "Le Kayexalate est administré par voie orale ou rectale pour éliminer le potassium.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter l'hyperkaliémie, mais peut causer des effets secondaires gastro-intestinaux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Kayexalate administration",
+        "Kayexalate effets secondaires"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dialyse péritonéale",
+      "definition": "Procédé de dialyse utilisant le péritoine comme membrane d'échange pour éliminer les déchets et l'excès de liquide.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémodialyse",
+        "épuration extra rénale"
+      ],
+      "description": "La dialyse péritonéale est moins efficace que l'hémodialyse mais peut être réalisée à domicile.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter l'insuffisance rénale, mais peut causer des infections péritonéales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dialyse péritonéale mécanisme",
+        "dialyse péritonéale administration"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bétamimétiques",
+      "definition": "Médicaments qui stimulent les récepteurs bêta-adrénergiques, utilisés pour traiter l'asthme et l'hyperkaliémie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-agonistes"
+      ],
+      "related_terms": [
+        "salbutamol",
+        "asthme"
+      ],
+      "description": "Les bétamimétiques dilatent les bronches et peuvent également être utilisés pour traiter l'hyperkaliémie.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'asthme et l'hyperkaliémie, mais peuvent causer des effets secondaires cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bétamimétiques mécanisme",
+        "bétamimétiques effets secondaires"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "digitaline",
+      "definition": "Médicament utilisé pour traiter l'insuffisance cardiaque et certains troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "digoxine"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "arythmies"
+      ],
+      "description": "La digitaline augmente la force de contraction du cœur et ralentit la fréquence cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter l'insuffisance cardiaque, mais a une marge thérapeutique étroite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "digitaline mécanisme",
+        "digitaline effets secondaires"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-2 Dyskaliémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM 3.10.21 AM 3.21.42 AM.md",
+    "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md"
+  ],
+  "total_terms": 146
+}

@@ -1,0 +1,2709 @@
+{
+  "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+  "terms": [
+    {
+      "term": "polype adénomateux",
+      "definition": "Excroissance bénigne de la muqueuse intestinale qui peut évoluer en cancer colorectal.",
+      "category": "pathologie",
+      "synonyms": [
+        "Adénome",
+        "Polype"
+      ],
+      "related_terms": [
+        "Dysplasie",
+        "Cancer colorectal"
+      ],
+      "description": "Les polypes adénomateux sont des lésions précancéreuses qui doivent être surveillées et souvent enlevées pour prévenir le cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thérapie ciblée",
+      "definition": "Traitement du cancer utilisant des médicaments qui ciblent spécifiquement les mécanismes moléculaires impliqués dans la croissance et la propagation des cellules cancéreuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Thérapie moléculaire ciblée"
+      ],
+      "related_terms": [
+        "Chimiothérapie",
+        "Radiothérapie"
+      ],
+      "description": "La thérapie ciblée est une approche précise qui vise à bloquer les voies spécifiques impliquées dans le développement du cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysplasie",
+      "definition": "Anomalie de la croissance et de la différenciation des cellules, souvent précancéreuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "Anomalie cellulaire"
+      ],
+      "related_terms": [
+        "Polype adénomateux",
+        "Cancer colorectal"
+      ],
+      "description": "La dysplasie peut être de bas ou de haut grade, indiquant le risque de progression vers un cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polypose Recto-colique Familiale (PAF)",
+      "definition": "Maladie héréditaire caractérisée par la formation de nombreux polypes adénomateux dans le côlon et le rectum.",
+      "category": "pathologie",
+      "synonyms": [
+        "Polypose adénomateuse familiale"
+      ],
+      "related_terms": [
+        "Gène APC",
+        "Gène MUTYH"
+      ],
+      "description": "La PAF est une condition génétique qui augmente considérablement le risque de cancer colorectal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gène APC",
+      "definition": "Gène suppresseur de tumeur dont la mutation est associée à la polypose adénomateuse familiale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "APC"
+      ],
+      "related_terms": [
+        "Polypose adénomateuse familiale",
+        "Gène MUTYH"
+      ],
+      "description": "Les mutations du gène APC sont responsables de la majorité des cas de polypose adénomateuse familiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gène MUTYH",
+      "definition": "Gène impliqué dans la réparation de l'ADN, dont la mutation est associée à une forme de polypose adénomateuse familiale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "MUTYH"
+      ],
+      "related_terms": [
+        "Polypose adénomateuse familiale",
+        "Gène APC"
+      ],
+      "description": "Les mutations du gène MUTYH sont responsables d'environ 10% des cas de polypose adénomateuse familiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Gardner",
+      "definition": "Syndrome associant des tumeurs osseuses et des tissus conjonctifs à des polypes adénomateux.",
+      "category": "pathologie",
+      "synonyms": [
+        "Gardner's syndrome"
+      ],
+      "related_terms": [
+        "Tumeur desmoide",
+        "Polypose adénomateuse familiale"
+      ],
+      "description": "Le syndrome de Gardner est une variante de la polypose adénomateuse familiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Turcot",
+      "definition": "Syndrome associant des tumeurs du système nerveux central à des polypes adénomateux.",
+      "category": "pathologie",
+      "synonyms": [
+        "Turcot's syndrome"
+      ],
+      "related_terms": [
+        "Glioblastome",
+        "Blastome médullaire"
+      ],
+      "description": "Le syndrome de Turcot est une variante de la polypose adénomateuse familiale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Peutz-Jeghers",
+      "definition": "Syndrome associant des pigmentations péri-orificielles à des polypes hamartomateux.",
+      "category": "pathologie",
+      "synonyms": [
+        "Peutz-Jeghers syndrome"
+      ],
+      "related_terms": [
+        "Polypes hamartomateux",
+        "Pigmentations péri-orificielles"
+      ],
+      "description": "Le syndrome de Peutz-Jeghers est une condition génétique rare associée à un risque accru de cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Lynch",
+      "definition": "Syndrome héréditaire de cancer colorectal sans polypose, caractérisé par une forte pénétrance et une survenue précoce.",
+      "category": "pathologie",
+      "synonyms": [
+        "HNPCC"
+      ],
+      "related_terms": [
+        "Cancer colorectal",
+        "Critères d'Amsterdam II"
+      ],
+      "description": "Le syndrome de Lynch est responsable de 1 à 5% de tous les cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Critères d'Amsterdam II",
+      "definition": "Critères cliniques utilisés pour identifier les familles à risque de syndrome de Lynch.",
+      "category": "classification",
+      "synonyms": [
+        "Amsterdam II criteria"
+      ],
+      "related_terms": [
+        "Syndrome de Lynch",
+        "Cancer colorectal"
+      ],
+      "description": "Les critères d'Amsterdam II incluent des antécédents familiaux de cancers de spectre de Lynch.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rectocolite ulcéro-hémorragique (RCH)",
+      "definition": "Maladie inflammatoire chronique de l'intestin caractérisée par des ulcérations de la muqueuse colorectale.",
+      "category": "pathologie",
+      "synonyms": [
+        "RCH",
+        "Colite ulcéreuse"
+      ],
+      "related_terms": [
+        "Maladie de Crohn",
+        "Cholangite sclérosante primitive"
+      ],
+      "description": "La RCH augmente le risque de cancer colorectal, surtout en cas de dysplasie associée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholangite sclérosante primitive (CSP)",
+      "definition": "Maladie inflammatoire chronique des voies biliaires, souvent associée à la rectocolite ulcéro-hémorragique.",
+      "category": "pathologie",
+      "synonyms": [
+        "CSP",
+        "Primary sclerosing cholangitis"
+      ],
+      "related_terms": [
+        "Rectocolite ulcéro-hémorragique",
+        "Voies biliaires"
+      ],
+      "description": "La CSP est une complication de la RCH qui augmente le risque de cancer colorectal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémoccult",
+      "definition": "Test de dépistage du cancer colorectal qui détecte la présence de sang occulte dans les selles.",
+      "category": "pathologie",
+      "synonyms": [
+        "Test de recherche de sang occulte dans les selles"
+      ],
+      "related_terms": [
+        "coloscopie"
+      ],
+      "description": "Utilisé pour le dépistage initial du cancer colorectal, suivi d'une coloscopie si le test est positif.",
+      "expansion": null,
+      "clinical_significance": "Important pour le dépistage précoce du cancer colorectal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CCR",
+      "definition": "Cancer Colorectal, un type de cancer qui se développe dans le côlon ou le rectum.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cancer colorectal"
+      ],
+      "related_terms": [
+        "adénome",
+        "polypose adénomateuse familiale"
+      ],
+      "description": "Un des cancers les plus fréquents, souvent détecté par des tests de dépistage comme l'Hémoccult.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention et le traitement précoce.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypose adénomateuse familiale",
+      "definition": "Syndrome héréditaire caractérisé par la formation de nombreux polypes adénomateux dans le côlon et le rectum.",
+      "category": "pathologie",
+      "synonyms": [
+        "FAP"
+      ],
+      "related_terms": [
+        "Syndrome de Lynch",
+        "HNPCC"
+      ],
+      "description": "Prédispose fortement au cancer colorectal.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HNPCC",
+      "definition": "Hereditary Non-Polyposis Colorectal Cancer, un syndrome héréditaire de cancer colorectal sans polypose.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome de Lynch"
+      ],
+      "related_terms": [
+        "polypose adénomateuse familiale"
+      ],
+      "description": "Prédispose au cancer colorectal et à d'autres cancers.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloscopie",
+      "definition": "Examen endoscopique du côlon et du rectum à l'aide d'un coloscope.",
+      "category": "imagerie",
+      "synonyms": [
+        "colonoscopie"
+      ],
+      "related_terms": [
+        "Hémoccult",
+        "chromo endoscopie"
+      ],
+      "description": "Utilisé pour le dépistage et le diagnostic du cancer colorectal.",
+      "expansion": null,
+      "clinical_significance": "Important pour la détection précoce des cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chromo endoscopie",
+      "definition": "Technique d'endoscopie utilisant des colorants pour améliorer la visualisation des muqueuses gastro-intestinales.",
+      "category": "imagerie",
+      "synonyms": [
+        "chromo coloscopie"
+      ],
+      "related_terms": [
+        "coloscopie"
+      ],
+      "description": "Utilisée pour une meilleure détection des lésions précancéreuses.",
+      "expansion": null,
+      "clinical_significance": "Améliore la précision du diagnostic endoscopique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oncogénétique",
+      "definition": "Branche de la génétique qui étudie les gènes impliqués dans le développement des cancers.",
+      "category": "classification",
+      "synonyms": [
+        "génétique oncologique"
+      ],
+      "related_terms": [
+        "polypose adénomateuse familiale",
+        "Syndrome de Lynch"
+      ],
+      "description": "Utilisée pour identifier les mutations génétiques prédisposant au cancer.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention et le traitement des cancers héréditaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tube digestif",
+      "definition": "Ensemble des organes qui composent le système digestif, de la bouche à l'anus.",
+      "category": "anatomie",
+      "synonyms": [
+        "tractus gastro-intestinal"
+      ],
+      "related_terms": [
+        "intestin grêle",
+        "rectum"
+      ],
+      "description": "Inclut l'œsophage, l'estomac, l'intestin grêle et le gros intestin.",
+      "expansion": null,
+      "clinical_significance": "Important pour la digestion et l'absorption des nutriments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intestin grêle",
+      "definition": "Partie du tube digestif située entre l'estomac et le gros intestin.",
+      "category": "anatomie",
+      "synonyms": [
+        "petit intestin"
+      ],
+      "related_terms": [
+        "duodénum",
+        "jéjunum",
+        "iléon"
+      ],
+      "description": "Composé du duodénum, du jéjunum et de l'iléon.",
+      "expansion": null,
+      "clinical_significance": "Site principal de l'absorption des nutriments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "jonction iléo-cæcale",
+      "definition": "Point de jonction entre l'iléon (partie terminale de l'intestin grêle) et le cæcum (début du gros intestin).",
+      "category": "anatomie",
+      "synonyms": [
+        "valvule iléo-cæcale"
+      ],
+      "related_terms": [
+        "intestin grêle",
+        "cæcum"
+      ],
+      "description": "Marque la transition entre l'intestin grêle et le gros intestin.",
+      "expansion": null,
+      "clinical_significance": "Important pour la continuité du transit intestinal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "charnière recto-sigmoïdienne",
+      "definition": "Zone de transition entre le côlon sigmoïde et le rectum.",
+      "category": "anatomie",
+      "synonyms": [
+        "jonction recto-sigmoïdienne"
+      ],
+      "related_terms": [
+        "côlon sigmoïde",
+        "rectum"
+      ],
+      "description": "Marque la fin du côlon sigmoïde et le début du rectum.",
+      "expansion": null,
+      "clinical_significance": "Important pour la continuité du transit intestinal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "côlon ascendant",
+      "definition": "Première partie du côlon, située à droite de l'abdomen.",
+      "category": "anatomie",
+      "synonyms": [
+        "côlon droit"
+      ],
+      "related_terms": [
+        "côlon transverse",
+        "côlon descendant",
+        "côlon sigmoïde"
+      ],
+      "description": "S'étend de la jonction iléo-cæcale à l'angle colique droit.",
+      "expansion": null,
+      "clinical_significance": "Site possible de cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "côlon transverse",
+      "definition": "Partie du côlon située entre le côlon ascendant et le côlon descendant.",
+      "category": "anatomie",
+      "synonyms": [
+        "colon transverse"
+      ],
+      "related_terms": [
+        "côlon ascendant",
+        "côlon descendant",
+        "côlon sigmoïde"
+      ],
+      "description": "Traverse l'abdomen de droite à gauche.",
+      "expansion": null,
+      "clinical_significance": "Site possible de cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "côlon descendant",
+      "definition": "Partie du côlon située entre le côlon transverse et le côlon sigmoïde.",
+      "category": "anatomie",
+      "synonyms": [
+        "côlon gauche"
+      ],
+      "related_terms": [
+        "côlon ascendant",
+        "côlon transverse",
+        "côlon sigmoïde"
+      ],
+      "description": "Descend verticalement le long du flanc gauche.",
+      "expansion": null,
+      "clinical_significance": "Site possible de cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "côlon sigmoïde",
+      "definition": "Partie terminale du côlon, située entre le côlon descendant et le rectum.",
+      "category": "anatomie",
+      "synonyms": [
+        "sigmoïde"
+      ],
+      "related_terms": [
+        "côlon ascendant",
+        "côlon transverse",
+        "côlon descendant"
+      ],
+      "description": "Forme une boucle en S avant de se continuer par le rectum.",
+      "expansion": null,
+      "clinical_significance": "Site fréquent de cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fascias",
+      "definition": "Enveloppes de tissu conjonctif qui entourent et soutiennent les organes et les structures anatomiques.",
+      "category": "anatomie",
+      "synonyms": [
+        "aponévroses"
+      ],
+      "related_terms": [
+        "mésos"
+      ],
+      "description": "Assurent la fixité des segments coliques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la stabilité anatomique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mésos",
+      "definition": "Replis du péritoine qui soutiennent et fixent les organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "mésentères"
+      ],
+      "related_terms": [
+        "fascias"
+      ],
+      "description": "Assurent la mobilité des segments coliques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la mobilité anatomique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arcade de Riolan",
+      "definition": "Anastomose artérielle entre les artères mésentériques supérieure et inférieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "arcade marginale"
+      ],
+      "related_terms": [
+        "artère mésentérique supérieure",
+        "artère mésentérique inférieure"
+      ],
+      "description": "Permet une circulation collatérale en cas d'obstruction vasculaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la vascularisation colique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "estomac",
+      "definition": "Organe du système digestif situé entre l'œsophage et l'intestin grêle.",
+      "category": "anatomie",
+      "synonyms": [
+        "estomac"
+      ],
+      "related_terms": [
+        "œsophage",
+        "intestin grêle"
+      ],
+      "description": "Site de la digestion des aliments.",
+      "expansion": null,
+      "clinical_significance": "Important pour la digestion et l'absorption des nutriments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pancréas",
+      "definition": "Glande située derrière l'estomac, produisant des enzymes digestives et des hormones.",
+      "category": "anatomie",
+      "synonyms": [
+        "pancréas"
+      ],
+      "related_terms": [
+        "estomac",
+        "duodénum"
+      ],
+      "description": "Important pour la digestion et la régulation du glucose.",
+      "expansion": null,
+      "clinical_significance": "Peut être envahi par des cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "caecum",
+      "definition": "Première partie du gros intestin, située à la jonction iléo-cæcale.",
+      "category": "anatomie",
+      "synonyms": [
+        "cæcum"
+      ],
+      "related_terms": [
+        "intestin grêle",
+        "valvule iléo-cæcale"
+      ],
+      "description": "Site de la jonction entre l'intestin grêle et le gros intestin.",
+      "expansion": null,
+      "clinical_significance": "Important pour la continuité du transit intestinal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fascia d'accolement",
+      "definition": "Enveloppe de tissu conjonctif qui fixe le cæcum à la paroi abdominale.",
+      "category": "anatomie",
+      "synonyms": [
+        "fascia"
+      ],
+      "related_terms": [
+        "caecum",
+        "psoas"
+      ],
+      "description": "Assure la fixité du cæcum.",
+      "expansion": null,
+      "clinical_significance": "Important pour la stabilité anatomique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "grand épiploon",
+      "definition": "Repli du péritoine qui recouvre les anses intestinales et les organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "épiploon"
+      ],
+      "related_terms": [
+        "péritoine",
+        "anses grêles"
+      ],
+      "description": "Protège et soutient les organes abdominaux.",
+      "expansion": null,
+      "clinical_significance": "Important pour la protection des organes abdominaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fascia de Toldt",
+      "definition": "Enveloppe de tissu conjonctif qui fixe le côlon à la paroi abdominale.",
+      "category": "anatomie",
+      "synonyms": [
+        "fascia"
+      ],
+      "related_terms": [
+        "côlon ascendant",
+        "côlon descendant"
+      ],
+      "description": "Assure la fixité du côlon.",
+      "expansion": null,
+      "clinical_significance": "Important pour la stabilité anatomique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "duodénojéjunal",
+      "definition": "Jonction entre le duodénum et le jéjunum, marquant le début du jéjunum.",
+      "category": "anatomie",
+      "synonyms": [
+        "angle duodénojéjunal"
+      ],
+      "related_terms": [
+        "duodénum",
+        "jéjunum"
+      ],
+      "description": "Important pour la continuité du transit intestinal.",
+      "expansion": null,
+      "clinical_significance": "Marque la transition entre le duodénum et le jéjunum.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rate",
+      "definition": "Organe situé dans l'abdomen, important pour la filtration du sang et la production de cellules sanguines.",
+      "category": "anatomie",
+      "synonyms": [
+        "rate"
+      ],
+      "related_terms": [
+        "pancréas",
+        "rein"
+      ],
+      "description": "Peut être envahie par des cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": "Important pour la filtration du sang et la production de cellules sanguines.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iliaques",
+      "definition": "Vaisseaux sanguins situés dans le bassin, fournissant le sang aux organes pelviens.",
+      "category": "anatomie",
+      "synonyms": [
+        "artères iliaques"
+      ],
+      "related_terms": [
+        "uretère",
+        "vessie"
+      ],
+      "description": "Important pour la vascularisation des organes pelviens.",
+      "expansion": null,
+      "clinical_significance": "Peut être envahi par des cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère colique supérieure droite",
+      "definition": "Branche de l'artère mésentérique supérieure qui vascularise le côlon ascendant.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère colique droite"
+      ],
+      "related_terms": [
+        "artère mésentérique supérieure",
+        "côlon ascendant"
+      ],
+      "description": "Important pour la vascularisation du côlon ascendant.",
+      "expansion": null,
+      "clinical_significance": "Peut être impliquée dans la chirurgie carcinologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère iléocolique",
+      "definition": "Branche de l'artère mésentérique supérieure qui vascularise le cæcum et l'iléon.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère iléo-caeco-colo-appendiculaire"
+      ],
+      "related_terms": [
+        "artère mésentérique supérieure",
+        "cæcum"
+      ],
+      "description": "Important pour la vascularisation du cæcum et de l'iléon.",
+      "expansion": null,
+      "clinical_significance": "Peut être impliquée dans la chirurgie carcinologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère colique moyenne",
+      "definition": "Artère qui vascularise la partie moyenne du côlon, souvent inconstante.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère colique droite",
+        "artère colique gauche"
+      ],
+      "description": "L'artère colique moyenne est une branche de l'artère mésentérique supérieure qui vascularise le côlon transverse.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère colique moyenne",
+        "vascularisation côlon"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère colique supérieure gauche",
+      "definition": "Branche de l'artère mésentérique inférieure qui vascularise l'angle colique gauche.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère mésentérique inférieure",
+        "artères sigmoïdiennes"
+      ],
+      "description": "L'artère colique supérieure gauche est une branche de l'artère mésentérique inférieure qui fournit le sang à l'angle colique gauche.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère colique supérieure gauche",
+        "vascularisation côlon gauche"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères sigmoïdiennes",
+      "definition": "Branches de l'artère mésentérique inférieure qui vascularisent le côlon sigmoïde.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère mésentérique inférieure",
+        "artère colique supérieure gauche"
+      ],
+      "description": "Les artères sigmoïdiennes sont des branches de l'artère mésentérique inférieure qui fournissent le sang au côlon sigmoïde.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "artères sigmoïdiennes",
+        "vascularisation côlon sigmoïde"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère rectale supérieure",
+      "definition": "Branche terminale de l'artère mésentérique inférieure qui vascularise le rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère mésentérique inférieure",
+        "rectum"
+      ],
+      "description": "L'artère rectale supérieure est la branche terminale de l'artère mésentérique inférieure qui fournit le sang au rectum.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère rectale supérieure",
+        "vascularisation rectum"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arcade de Riolon",
+      "definition": "Arcade vasculaire qui relie les territoires mésentériques supérieurs et inférieurs.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularisation colique",
+        "arcades para coliques"
+      ],
+      "description": "L'Arcade de Riolon est une arcade vasculaire qui relie les territoires mésentériques supérieurs et inférieurs, assurant une continuité vasculaire.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Arcade de Riolon",
+        "vascularisation colique"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sphincter anal interne",
+      "definition": "Muscle lisse qui entoure le canal anal et contribue à la continence anale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sphincter anal externe",
+        "canal anal"
+      ],
+      "description": "Le sphincter anal interne est un muscle lisse qui entoure le canal anal et joue un rôle crucial dans la continence anale.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sphincter anal interne",
+        "anatomie canal anal"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sphincter anal externe",
+      "definition": "Muscle strié qui entoure le canal anal et contribue à la continence anale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sphincter anal interne",
+        "canal anal"
+      ],
+      "description": "Le sphincter anal externe est un muscle strié qui entoure le canal anal et joue un rôle crucial dans la continence anale.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sphincter anal externe",
+        "anatomie canal anal"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cul-de-sac de Douglas",
+      "definition": "Espace péritonéal situé entre le rectum et la face postérieure de l'utérus chez la femme.",
+      "category": "anatomie",
+      "synonyms": [
+        "poche de Douglas"
+      ],
+      "related_terms": [
+        "péritoine",
+        "rectum",
+        "utérus"
+      ],
+      "description": "Le cul-de-sac de Douglas est un espace péritonéal situé entre le rectum et la face postérieure de l'utérus chez la femme.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cul-de-sac de Douglas",
+        "anatomie péritonéale"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fascia pelvien",
+      "definition": "Enveloppe fibreuse qui entoure les organes pelviens et les maintient en place.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "fascia recti",
+        "fascia pariétal"
+      ],
+      "description": "Le fascia pelvien est une enveloppe fibreuse qui entoure les organes pelviens et les maintient en place.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "fascia pelvien",
+        "anatomie pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mésorectum",
+      "definition": "Tissu cellulo-graisseux et lymphatique entourant le rectum, situé entre la musculeuse rectale et le fascia recti.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "fascia recti",
+        "musculeuse rectale"
+      ],
+      "description": "Le mésorectum est un tissu cellulo-graisseux et lymphatique entourant le rectum, situé entre la musculeuse rectale et le fascia recti.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "mésorectum",
+        "anatomie rectale"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévrose pré-sacrée",
+      "definition": "Membrane fibreuse qui tapisse le sacrum, le coccyx et les muscles pyramidaux et ischio-coccygiens.",
+      "category": "anatomie",
+      "synonyms": [
+        "fascia pré-sacré"
+      ],
+      "related_terms": [
+        "sacrum",
+        "coccyx",
+        "muscles pyramidaux"
+      ],
+      "description": "L'aponévrose pré-sacrée est une membrane fibreuse qui tapisse le sacrum, le coccyx et les muscles pyramidaux et ischio-coccygiens.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "aponévrose pré-sacrée",
+        "anatomie sacrée"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aponévrose prostatopéritonéale de Denonvilliers",
+      "definition": "Membrane fibreuse située entre le rectum et la prostate chez l'homme.",
+      "category": "anatomie",
+      "synonyms": [
+        "fascia de Denonvilliers"
+      ],
+      "related_terms": [
+        "prostate",
+        "rectum"
+      ],
+      "description": "L'aponévrose prostatopéritonéale de Denonvilliers est une membrane fibreuse située entre le rectum et la prostate chez l'homme.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "aponévrose prostatopéritonéale de Denonvilliers",
+        "anatomie prostatique"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cloison recto-vaginale",
+      "definition": "Membrane fibreuse située entre le rectum et le vagin chez la femme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "rectum",
+        "vagin"
+      ],
+      "description": "La cloison recto-vaginale est une membrane fibreuse située entre le rectum et le vagin chez la femme.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cloison recto-vaginale",
+        "anatomie pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plexus hypogastrique",
+      "definition": "Réseau de nerfs situé dans le bassin, impliqué dans la régulation des fonctions autonomes des organes pelviens.",
+      "category": "anatomie",
+      "synonyms": [
+        "plexus pelvien"
+      ],
+      "related_terms": [
+        "nerfs splanchniques",
+        "ganglions pelviens"
+      ],
+      "description": "Le plexus hypogastrique est un réseau complexe de fibres nerveuses sympathiques et parasympathiques qui innervent les organes pelviens, y compris le rectum, la vessie et les organes génitaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plexus hypogastrique",
+        "nerfs pelviens"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pelvi-rectal",
+      "definition": "Espace anatomique situé entre le rectum et les parois pelviennes.",
+      "category": "anatomie",
+      "synonyms": [
+        "espace recto-pelvien"
+      ],
+      "related_terms": [
+        "espace rétro-rectal",
+        "espace pré-rectal"
+      ],
+      "description": "L'espace pelvi-rectal est une région anatomique importante pour la chirurgie colorectale et la compréhension de la propagation des cancers rectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "espace pelvi-rectal",
+        "anatomie pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères iliaques internes",
+      "definition": "Artères qui fournissent du sang aux organes pelviens et aux membres inférieurs.",
+      "category": "anatomie",
+      "synonyms": [
+        "artères hypogastriques"
+      ],
+      "related_terms": [
+        "artère iliaque commune",
+        "artère iliaque externe"
+      ],
+      "description": "Les artères iliaques internes sont des branches de l'artère iliaque commune et vascularisent les organes pelviens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères iliaques internes",
+        "vascularisation pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère pudendale",
+      "definition": "Branche de l'artère iliaque interne qui vascularise les organes génitaux externes et le périnée.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère honteuse interne"
+      ],
+      "related_terms": [
+        "artère iliaque interne",
+        "vascularisation périnéale"
+      ],
+      "description": "L'artère pudendale est cruciale pour la vascularisation des organes génitaux externes et du périnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère pudendale",
+        "vascularisation génitale"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscle releveur de l'anus",
+      "definition": "Muscle qui soutient le plancher pelvien et contribue à la continence anale.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscle pubo-rectal"
+      ],
+      "related_terms": [
+        "sphincter anal interne",
+        "sphincter anal externe"
+      ],
+      "description": "Le muscle releveur de l'anus est essentiel pour le soutien du plancher pelvien et la continence anale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle releveur de l'anus",
+        "anatomie pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine rectale supérieure",
+      "definition": "Veine qui draine le sang du rectum vers la veine mésentérique inférieure.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine mésentérique inférieure",
+        "veines sigmoïdiennes"
+      ],
+      "description": "La veine rectale supérieure est importante pour le drainage veineux du rectum.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "veine rectale supérieure",
+        "drainage veineux rectal"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumeur carcinoïde",
+      "definition": "Tumeur neuroendocrine qui se développe à partir des cellules entérochromaffines.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur neuroendocrine"
+      ],
+      "related_terms": [
+        "carcinome",
+        "tumeur glandulaire"
+      ],
+      "description": "Les tumeurs carcinoïdes sont des tumeurs neuroendocrines qui peuvent se développer dans le tractus gastro-intestinal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tumeur carcinoïde",
+        "tumeur neuroendocrine"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clearance latérale",
+      "definition": "Mesure de la distance entre la zone d'extension maximale du tissu tumoral et le fascia recti.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "marge de résection",
+        "extension tumorale"
+      ],
+      "description": "La clearance latérale est une mesure importante pour évaluer l'extension tumorale et planifier la chirurgie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "clearance latérale",
+        "marge de résection"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métastases hépatiques",
+      "definition": "Propagation du cancer au foie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "métastases",
+        "cancer du foie"
+      ],
+      "description": "Les métastases hépatiques sont des foyers secondaires de cancer dans le foie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métastases hépatiques",
+        "cancer du foie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métastases ovariennes",
+      "definition": "Propagation du cancer aux ovaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur de Krukenberg"
+      ],
+      "related_terms": [
+        "métastases",
+        "cancer des ovaires"
+      ],
+      "description": "Les métastases ovariennes sont des foyers secondaires de cancer dans les ovaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métastases ovariennes",
+        "cancer des ovaires"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Métastase ganglionnaire",
+      "definition": "Propagation de cellules cancéreuses vers les ganglions lymphatiques régionaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "métastase lymphatique"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "métastase"
+      ],
+      "description": "Indicateur de la progression du cancer et de la nécessité de traitements plus agressifs.",
+      "expansion": "",
+      "clinical_significance": "Facteur pronostique important.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "métastase ganglionnaire",
+        "ganglions lymphatiques"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anémie hypochrome microcytaire régénérative",
+      "definition": "Type d'anémie caractérisée par des globules rouges petits et pâles, souvent due à une carence en fer.",
+      "category": "pathologie",
+      "synonyms": [
+        "anémie ferriprive"
+      ],
+      "related_terms": [
+        "anémie",
+        "carence en fer"
+      ],
+      "description": "Peut être un signe de cancer colorectal ou d'autres pathologies gastro-intestinales.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic et le traitement des carences en fer.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anémie hypochrome microcytaire",
+        "anémie ferriprive"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ganglion de Troisier",
+      "definition": "Ganglion lymphatique sus-claviculaire gauche, souvent indicateur de métastases dans les cancers abdominaux.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ganglion sus-claviculaire",
+        "métastases ganglionnaires"
+      ],
+      "description": "Signe clinique important dans le diagnostic des cancers avancés.",
+      "expansion": "",
+      "clinical_significance": "Indicateur de métastases à distance.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ganglion de Troisier",
+        "ganglion sus-claviculaire"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Troisier",
+      "definition": "Ganglion sus-claviculaire gauche, souvent impliqué dans les métastases de cancers digestifs.",
+      "category": "anatomie",
+      "synonyms": [
+        "ganglion de Troisier"
+      ],
+      "related_terms": [
+        "ganglion sus-claviculaire",
+        "métastase"
+      ],
+      "description": "La présence d'un ganglion de Troisier est un signe de dissémination métastatique, souvent associé à des cancers gastriques ou colorectaux.",
+      "expansion": null,
+      "clinical_significance": "Indique une propagation lymphatique du cancer et un stade avancé de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ganglion de Troisier",
+        "ganglion sus-claviculaire"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Scanner Thoraco-abdomino-pelvien",
+      "definition": "Examen d'imagerie par tomodensitométrie couvrant le thorax, l'abdomen et le pelvis pour détecter des métastases.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner TAP",
+        "tomodensitométrie thoraco-abdomino-pelvienne"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "scanner"
+      ],
+      "description": "Utilisé pour évaluer l'extension des cancers et rechercher des métastases à distance.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour le bilan d'extension des cancers colorectaux et la planification thérapeutique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "scanner TAP",
+        "tomodensitométrie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du haut rectum",
+      "definition": "Cancer situé dans la partie supérieure du rectum, souvent traité de manière similaire aux cancers du sigmoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer rectal supérieur"
+      ],
+      "related_terms": [
+        "cancer du sigmoïde",
+        "cancer rectal"
+      ],
+      "description": "Les cancers du haut rectum sont généralement traités par chirurgie sans nécessiter de radiothérapie préopératoire.",
+      "expansion": null,
+      "clinical_significance": "Le traitement dépend de la localisation exacte et de l'extension de la tumeur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer du haut rectum",
+        "cancer rectal"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du sigmoïde",
+      "definition": "Cancer situé dans la partie du côlon appelée sigmoïde, qui est la dernière partie du côlon avant le rectum.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer sigmoïdien"
+      ],
+      "related_terms": [
+        "cancer colorectal",
+        "sigmoïde"
+      ],
+      "description": "Les cancers du sigmoïde sont souvent traités par résection chirurgicale avec curage ganglionnaire.",
+      "expansion": null,
+      "clinical_significance": "Le traitement dépend de l'extension de la tumeur et de la présence de métastases.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer du sigmoïde",
+        "cancer sigmoïdien"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRM pelvienne",
+      "definition": "Imagerie par résonance magnétique de la région pelvienne pour évaluer les tumeurs rectales et leur extension.",
+      "category": "imagerie",
+      "synonyms": [
+        "IRM du pelvis"
+      ],
+      "related_terms": [
+        "IRM",
+        "résonance magnétique"
+      ],
+      "description": "Utilisée pour évaluer l'infiltration tumorale dans le mésorectum et les ganglions lymphatiques.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour la planification chirurgicale et l'évaluation de la réponse au traitement néoadjuvant.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IRM pelvienne",
+        "IRM du pelvis"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fascia recti",
+      "definition": "Enveloppe fibreuse entourant le muscle droit de l'abdomen.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscle droit de l'abdomen",
+        "fascia"
+      ],
+      "description": "Utilisé comme repère anatomique dans l'évaluation des tumeurs rectales.",
+      "expansion": null,
+      "clinical_significance": "Permet de déterminer la marge latérale de résection chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fascia recti",
+        "anatomie abdominale"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pubo-rectal",
+      "definition": "Muscle du plancher pelvien qui soutient le rectum.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscle pubo-rectal"
+      ],
+      "related_terms": [
+        "plancher pelvien",
+        "rectum"
+      ],
+      "description": "L'infiltration du muscle pubo-rectal par une tumeur rectale est un facteur de mauvais pronostic.",
+      "expansion": null,
+      "clinical_significance": "L'évaluation de ce muscle est importante pour la planification chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "muscle pubo-rectal",
+        "anatomie pelvienne"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "usTxNx",
+      "definition": "Classification TNM utilisée pour les tumeurs superficielles où l'extension exacte n'est pas déterminée.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "TNM",
+        "classification TNM"
+      ],
+      "description": "Utilisée pour déterminer le stade de la tumeur et planifier le traitement.",
+      "expansion": null,
+      "clinical_significance": "Indique une tumeur superficielle avec une extension locale non déterminée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "classification TNM",
+        "usTxNx"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACE",
+      "definition": "Antigène carcino-embryonnaire, un marqueur tumoral utilisé pour le suivi des cancers colorectaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigène carcino-embryonnaire"
+      ],
+      "related_terms": [
+        "marqueur tumoral",
+        "cancer colorectal"
+      ],
+      "description": "Utilisé pour surveiller la réponse au traitement et détecter les récidives.",
+      "expansion": null,
+      "clinical_significance": "Un taux élevé d'ACE peut indiquer une progression ou une récidive du cancer.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ACE",
+        "antigène carcino-embryonnaire"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stomie",
+      "definition": "Ouverture chirurgicale créée sur la paroi abdominale pour permettre l'évacuation des selles ou de l'urine.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colostomie",
+        "iléostomie"
+      ],
+      "description": "Utilisée dans le traitement des cancers colorectaux pour dévier les selles et permettre la cicatrisation.",
+      "expansion": null,
+      "clinical_significance": "Peut être temporaire ou permanente selon la situation clinique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "stomie",
+        "colostomie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coelioscopique",
+      "definition": "Technique chirurgicale minimement invasive utilisant une caméra et des instruments insérés à travers de petites incisions.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "cœlioscopique"
+      ],
+      "related_terms": [
+        "laparoscopie",
+        "chirurgie minimement invasive"
+      ],
+      "description": "Utilisée pour diverses interventions chirurgicales, y compris la résection des cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": "Permet une récupération plus rapide et moins de douleur postopératoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "coelioscopique",
+        "laparoscopie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi-colectomie droite",
+      "definition": "Résection chirurgicale de la moitié droite du côlon, incluant le côlon ascendant et une partie du côlon transverse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colectomie",
+        "résection colique"
+      ],
+      "description": "Utilisée pour traiter les cancers du côlon droit.",
+      "expansion": null,
+      "clinical_significance": "Permet l'exérèse complète de la tumeur et des ganglions lymphatiques adjacents.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémi-colectomie droite",
+        "colectomie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi-colectomie gauche",
+      "definition": "Résection chirurgicale de la moitié gauche du côlon, incluant le côlon descendant et une partie du côlon sigmoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colectomie",
+        "résection colique"
+      ],
+      "description": "Utilisée pour traiter les cancers du côlon gauche.",
+      "expansion": null,
+      "clinical_significance": "Permet l'exérèse complète de la tumeur et des ganglions lymphatiques adjacents.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémi-colectomie gauche",
+        "colectomie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colectomie segmentaire basse",
+      "definition": "Résection chirurgicale d'une partie spécifique du côlon, généralement le sigmoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "sigmoïdectomie"
+      ],
+      "related_terms": [
+        "colectomie",
+        "résection colique"
+      ],
+      "description": "Utilisée pour traiter les cancers du sigmoïde.",
+      "expansion": null,
+      "clinical_significance": "Permet l'exérèse complète de la tumeur et des ganglions lymphatiques adjacents.",
+      "normal_values": null,
+      "image_search_terms": [
+        "colectomie segmentaire basse",
+        "sigmoïdectomie"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aspiration gastrique",
+      "definition": "Procédure médicale consistant à aspirer le contenu de l'estomac à l'aide d'un tube nasogastrique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tube nasogastrique",
+        "aspiration"
+      ],
+      "description": "Utilisée pour soulager la distension gastrique et prévenir les vomissements dans les cas d'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour la gestion des occlusions intestinales et la préparation à la chirurgie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aspiration gastrique",
+        "tube nasogastrique"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rééquilibration hydroélectrolytique",
+      "definition": "Procédure médicale visant à corriger les déséquilibres en eau et en électrolytes dans le corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "réhydratation",
+        "équilibre électrolytique"
+      ],
+      "description": "Utilisée pour traiter la déshydratation et les déséquilibres électrolytiques, souvent en préparation à la chirurgie.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour stabiliser l'état du patient avant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rééquilibration hydroélectrolytique",
+        "réhydratation"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer synchrone",
+      "definition": "Présence simultanée de deux ou plusieurs cancers primaires distincts.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer multiple",
+        "cancer primaire"
+      ],
+      "description": "Peut compliquer le traitement et le pronostic.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement adaptés à chaque cancer.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer synchrone",
+        "cancer multiple"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémi colectomie droite",
+      "definition": "Intervention chirurgicale consistant à enlever la moitié droite du côlon, incluant le cæcum, le côlon ascendant et une partie du côlon transverse.",
+      "category": "anatomie",
+      "synonyms": [
+        "hémicolectomie droite"
+      ],
+      "related_terms": [
+        "colectomie",
+        "côlon ascendant",
+        "cæcum"
+      ],
+      "description": "Utilisée pour traiter les cancers du côlon droit et les occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": "Permet de traiter les tumeurs localisées dans la partie droite du côlon.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléo-transverse",
+      "definition": "Connexion chirurgicale entre l'iléon (partie terminale de l'intestin grêle) et le côlon transverse, souvent réalisée après une résection intestinale.",
+      "category": "anatomie",
+      "synonyms": [
+        "anastomose iléo-colique"
+      ],
+      "related_terms": [
+        "anastomose",
+        "iléon",
+        "côlon transverse"
+      ],
+      "description": "Permet de rétablir la continuité digestive après une résection intestinale.",
+      "expansion": null,
+      "clinical_significance": "Critique pour restaurer la fonction intestinale après une chirurgie majeure.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothèse colique endoscopique",
+      "definition": "Dispositif médical inséré par endoscopie pour maintenir l'ouverture du côlon en cas d'occlusion tumorale.",
+      "category": "pathologie",
+      "synonyms": [
+        "stent colique"
+      ],
+      "related_terms": [
+        "stent",
+        "occlusion colique",
+        "endoscopie"
+      ],
+      "description": "Utilisé pour soulager une occlusion colique et permettre une intervention chirurgicale ultérieure.",
+      "expansion": null,
+      "clinical_significance": "Permet de stabiliser le patient avant une chirurgie curative.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stent trans-tumoral",
+      "definition": "Dispositif tubulaire inséré à travers une tumeur pour maintenir l'ouverture d'un passage obstrué, souvent utilisé dans le traitement des occlusions coliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "stent colique"
+      ],
+      "related_terms": [
+        "stent",
+        "occlusion colique",
+        "tumeur"
+      ],
+      "description": "Utilisé pour soulager une occlusion colique et permettre une intervention chirurgicale ultérieure.",
+      "expansion": null,
+      "clinical_significance": "Permet de stabiliser le patient avant une chirurgie curative.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stomie de dérivation",
+      "definition": "Ouverture chirurgicale créée pour dévier les matières fécales ou l'urine, souvent utilisée pour soulager une occlusion intestinale.",
+      "category": "anatomie",
+      "synonyms": [
+        "colostomie",
+        "iléostomie"
+      ],
+      "related_terms": [
+        "colostomie",
+        "iléostomie",
+        "occlusion intestinale"
+      ],
+      "description": "Permet de dévier les matières fécales ou l'urine pour soulager une occlusion ou une perforation.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des occlusions intestinales et des perforations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colostomie iliaque gauche",
+      "definition": "Ouverture chirurgicale créée dans la partie gauche de l'iléon pour dévier les matières fécales, souvent utilisée pour soulager une occlusion colique.",
+      "category": "anatomie",
+      "synonyms": [
+        "colostomie"
+      ],
+      "related_terms": [
+        "colostomie",
+        "iléon",
+        "occlusion colique"
+      ],
+      "description": "Permet de dévier les matières fécales pour soulager une occlusion colique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des occlusions coliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coecum",
+      "definition": "Première partie du gros intestin, située à la jonction de l'intestin grêle et du côlon ascendant.",
+      "category": "anatomie",
+      "synonyms": [
+        "cæcum"
+      ],
+      "related_terms": [
+        "côlon ascendant",
+        "intestin grêle"
+      ],
+      "description": "Joue un rôle dans l'absorption de l'eau et des électrolytes.",
+      "expansion": null,
+      "clinical_significance": "Peut être le site de diverses pathologies, y compris les tumeurs et les occlusions.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistule anastomotique",
+      "definition": "Communication anormale entre une anastomose chirurgicale et une autre structure, souvent due à une fuite de l'anastomose.",
+      "category": "pathologie",
+      "synonyms": [
+        "fuite anastomotique"
+      ],
+      "related_terms": [
+        "anastomose",
+        "fuite",
+        "complication chirurgicale"
+      ],
+      "description": "Complication chirurgicale pouvant entraîner des infections et nécessiter une intervention supplémentaire.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des complications postopératoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intervention de Hartmann",
+      "definition": "Procédure chirurgicale consistant à réséquer une partie du côlon et à créer une stomie temporaire, souvent utilisée pour traiter les occlusions coliques.",
+      "category": "anatomie",
+      "synonyms": [
+        "Hartmann"
+      ],
+      "related_terms": [
+        "colectomie",
+        "stomie",
+        "occlusion colique"
+      ],
+      "description": "Permet de traiter les occlusions coliques et de préparer le patient pour une chirurgie ultérieure.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des occlusions coliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colectomie segmentaire haute",
+      "definition": "Résection chirurgicale d'une partie spécifique du côlon, souvent utilisée pour traiter les tumeurs localisées.",
+      "category": "anatomie",
+      "synonyms": [
+        "colectomie segmentaire"
+      ],
+      "related_terms": [
+        "colectomie",
+        "résection colique",
+        "tumeur"
+      ],
+      "description": "Permet de traiter les tumeurs localisées dans le côlon.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des tumeurs coliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bouilly Volkmann",
+      "definition": "Technique chirurgicale consistant à réséquer une partie du côlon et à créer une stomie temporaire, souvent utilisée pour traiter les occlusions coliques.",
+      "category": "anatomie",
+      "synonyms": [
+        "Bouilly Volkmann"
+      ],
+      "related_terms": [
+        "colectomie",
+        "stomie",
+        "occlusion colique"
+      ],
+      "description": "Permet de traiter les occlusions coliques et de préparer le patient pour une chirurgie ultérieure.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des occlusions coliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléo-rectale",
+      "definition": "Connexion chirurgicale entre l'iléon (partie terminale de l'intestin grêle) et le rectum, souvent réalisée après une résection colique.",
+      "category": "anatomie",
+      "synonyms": [
+        "anastomose iléo-rectale"
+      ],
+      "related_terms": [
+        "anastomose",
+        "iléon",
+        "rectum"
+      ],
+      "description": "Permet de rétablir la continuité digestive après une résection colique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour restaurer la fonction intestinale après une chirurgie majeure.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléosigmoïdienne",
+      "definition": "Connexion chirurgicale entre l'iléon (partie terminale de l'intestin grêle) et le côlon sigmoïde, souvent réalisée après une résection colique.",
+      "category": "anatomie",
+      "synonyms": [
+        "anastomose iléosigmoïdienne"
+      ],
+      "related_terms": [
+        "anastomose",
+        "iléon",
+        "côlon sigmoïde"
+      ],
+      "description": "Permet de rétablir la continuité digestive après une résection colique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour restaurer la fonction intestinale après une chirurgie majeure.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exérèse",
+      "definition": "Acte chirurgical consistant à enlever une partie malade ou anormale d'un organe ou d'un tissu.",
+      "category": "anatomie",
+      "synonyms": [
+        "résection"
+      ],
+      "related_terms": [
+        "résection",
+        "chirurgie",
+        "tumeur"
+      ],
+      "description": "Utilisé pour traiter diverses pathologies, y compris les tumeurs et les infections.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des tumeurs et des infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abcès péri-néoplasique",
+      "definition": "Collection de pus autour d'une tumeur, souvent due à une infection secondaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès"
+      ],
+      "related_terms": [
+        "abcès",
+        "tumeur",
+        "infection"
+      ],
+      "description": "Complication pouvant nécessiter un drainage chirurgical ou une antibiothérapie.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des complications infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypose recto colique",
+      "definition": "Condition caractérisée par la présence de nombreux polypes dans le rectum et le côlon, souvent associée à un risque élevé de cancer colorectal.",
+      "category": "pathologie",
+      "synonyms": [
+        "polypose adénomateuse familiale"
+      ],
+      "related_terms": [
+        "polypes",
+        "rectum",
+        "côlon"
+      ],
+      "description": "Condition génétique nécessitant une surveillance régulière et souvent une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la prévention du cancer colorectal.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloproctectomie",
+      "definition": "Résection chirurgicale du côlon et du rectum, souvent utilisée pour traiter les cancers colorectaux étendus.",
+      "category": "anatomie",
+      "synonyms": [
+        "coloproctectomie"
+      ],
+      "related_terms": [
+        "colectomie",
+        "proctectomie",
+        "cancer colorectal"
+      ],
+      "description": "Permet de traiter les cancers colorectaux étendus.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des cancers colorectaux étendus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléoanale",
+      "definition": "Connexion chirurgicale entre l'iléon (partie terminale de l'intestin grêle) et l'anus, souvent réalisée après une résection colorectale.",
+      "category": "anatomie",
+      "synonyms": [
+        "anastomose iléoanale"
+      ],
+      "related_terms": [
+        "anastomose",
+        "iléon",
+        "anus"
+      ],
+      "description": "Permet de rétablir la continuité digestive après une résection colorectale.",
+      "expansion": null,
+      "clinical_significance": "Critique pour restaurer la fonction intestinale après une chirurgie majeure.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stade III",
+      "definition": "Classification du cancer indiquant une tumeur localement avancée avec des métastases ganglionnaires régionales, mais sans métastases à distance.",
+      "category": "classification",
+      "synonyms": [
+        "stade III"
+      ],
+      "related_terms": [
+        "cancer",
+        "métastases",
+        "ganglions"
+      ],
+      "description": "Utilisée pour déterminer le pronostic et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la planification du traitement du cancer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stade II",
+      "definition": "Classification du cancer indiquant une tumeur localement avancée sans métastases ganglionnaires régionales ni métastases à distance.",
+      "category": "classification",
+      "synonyms": [
+        "stade II"
+      ],
+      "related_terms": [
+        "cancer",
+        "métastases",
+        "ganglions"
+      ],
+      "description": "Utilisée pour déterminer le pronostic et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la planification du traitement du cancer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MSI",
+      "definition": "Instabilité des microsatellites, une caractéristique moléculaire de certaines tumeurs, souvent associée à une réponse favorable à l'immunothérapie.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "microsatellites",
+        "tumeur",
+        "immunothérapie"
+      ],
+      "description": "Utilisée pour guider le traitement et déterminer le pronostic.",
+      "expansion": "Microsatellite Instability",
+      "clinical_significance": "Critique pour la planification du traitement du cancer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bas rectum",
+      "definition": "Partie inférieure du rectum, située à moins de 2 cm du bord supérieur du sphincter anal.",
+      "category": "anatomie",
+      "synonyms": [
+        "bas rectum"
+      ],
+      "related_terms": [
+        "rectum",
+        "sphincter anal",
+        "anus"
+      ],
+      "description": "Joue un rôle dans le stockage des matières fécales avant leur évacuation.",
+      "expansion": null,
+      "clinical_significance": "Peut être le site de diverses pathologies, y compris les tumeurs et les inflammations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "moyen rectum",
+      "definition": "Partie intermédiaire du rectum, située entre 2 et 7 cm du bord supérieur du sphincter anal.",
+      "category": "anatomie",
+      "synonyms": [
+        "moyen rectum"
+      ],
+      "related_terms": [
+        "rectum",
+        "sphincter anal",
+        "anus"
+      ],
+      "description": "Joue un rôle dans le stockage des matières fécales avant leur évacuation.",
+      "expansion": null,
+      "clinical_significance": "Peut être le site de diverses pathologies, y compris les tumeurs et les inflammations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "haut rectum",
+      "definition": "Partie supérieure du rectum, située à plus de 7 cm du bord supérieur du sphincter anal.",
+      "category": "anatomie",
+      "synonyms": [
+        "haut rectum"
+      ],
+      "related_terms": [
+        "rectum",
+        "sphincter anal",
+        "anus"
+      ],
+      "description": "Joue un rôle dans le stockage des matières fécales avant leur évacuation.",
+      "expansion": null,
+      "clinical_significance": "Peut être le site de diverses pathologies, y compris les tumeurs et les inflammations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "proctectomie",
+      "definition": "Résection chirurgicale du rectum, souvent utilisée pour traiter les cancers rectaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "proctectomie"
+      ],
+      "related_terms": [
+        "rectum",
+        "résection",
+        "cancer"
+      ],
+      "description": "Permet de traiter les cancers rectaux.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des cancers rectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "curage ganglionnaire mésentérique inférieur",
+      "definition": "Résection chirurgicale des ganglions lymphatiques situés dans le mésentère inférieur, souvent réalisée lors de la chirurgie du cancer colorectal.",
+      "category": "anatomie",
+      "synonyms": [
+        "curage ganglionnaire"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "mésentère",
+        "cancer colorectal"
+      ],
+      "description": "Permet de traiter les cancers colorectaux et de prévenir les récidives.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerfs pelviens",
+      "definition": "Les nerfs pelviens sont des structures nerveuses situées dans le bassin qui jouent un rôle crucial dans les fonctions urinaires et sexuelles.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "nerfs érecteurs",
+        "plexus hypogastrique"
+      ],
+      "description": "La conservation des nerfs pelviens est essentielle pour maintenir la continence urinaire et la fonction sexuelle après une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du rectum non compliqué",
+      "definition": "Le cancer du rectum non compliqué est une tumeur maligne du rectum qui n'a pas encore provoqué de complications majeures telles que l'occlusion ou la perforation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer colorectal",
+        "adénocarcinome du rectum"
+      ],
+      "description": "Ce type de cancer peut être traité par des approches chirurgicales et néoadjuvantes pour améliorer le contrôle loco-régional et réduire le risque de récidive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traitement néoadjuvant",
+      "definition": "Le traitement néoadjuvant est une thérapie administrée avant la chirurgie principale pour réduire la taille de la tumeur et améliorer les résultats chirurgicaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "thérapie préopératoire"
+      ],
+      "related_terms": [
+        "radiothérapie néoadjuvante",
+        "chimiothérapie néoadjuvante"
+      ],
+      "description": "Il inclut la radiothérapie, la radiochimiothérapie et la chimiothérapie pour diminuer le risque de récidive et améliorer le contrôle loco-régional.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiochimiothérapie (RCT)",
+      "definition": "La radiochimiothérapie est une combinaison de radiothérapie et de chimiothérapie pour traiter le cancer.",
+      "category": "pathologie",
+      "synonyms": [
+        "chimioradiothérapie"
+      ],
+      "related_terms": [
+        "radiothérapie",
+        "chimiothérapie"
+      ],
+      "description": "Elle vise à améliorer l'effet de la radiothérapie en sensibilisant les cellules cancéreuses aux radiations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T 3",
+      "definition": "T3 est une classification TNM pour les tumeurs qui ont envahi la musculeuse propre mais pas les structures adjacentes.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "TNM",
+        "stade T3"
+      ],
+      "description": "Cette classification est utilisée pour déterminer l'extension de la tumeur et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N+",
+      "definition": "N+ est une classification TNM indiquant la présence de métastases ganglionnaires régionales.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "TNM",
+        "stade N+"
+      ],
+      "description": "Cette classification est utilisée pour déterminer l'extension ganglionnaire de la tumeur et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protocole Rapido",
+      "definition": "Le protocole Rapido est un schéma thérapeutique combinant une radiothérapie courte suivie de chimiothérapie et de chirurgie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "radiothérapie courte",
+        "chimiothérapie adjuvante"
+      ],
+      "description": "Il est utilisé pour traiter les cancers du rectum non métastatiques classés T3, T4 et/ou N+.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protocole Prodige 23",
+      "definition": "Le protocole Prodige 23 est un schéma thérapeutique combinant chimiothérapie néoadjuvante, radiothérapie longue et chirurgie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "chimiothérapie néoadjuvante",
+        "radiothérapie longue"
+      ],
+      "description": "Il est utilisé pour traiter les cancers du rectum non métastatiques classés T3, T4 et/ou N+.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protocole CAP 50",
+      "definition": "Le protocole CAP 50 est un schéma thérapeutique combinant radiothérapie longue et chimiothérapie concomitante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "radiothérapie longue",
+        "chimiothérapie concomitante"
+      ],
+      "description": "Il est utilisé pour traiter les cancers du rectum non métastatiques classés T3, T4 et/ou N+.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amputation abdomino-périnéale",
+      "definition": "L'amputation abdomino-périnéale est une intervention chirurgicale consistant à enlever le rectum, le mésorectum et l'appareil sphinctérien, suivie d'une colostomie iliaque gauche définitive.",
+      "category": "pathologie",
+      "synonyms": [
+        "APR"
+      ],
+      "related_terms": [
+        "colostomie",
+        "résection rectale"
+      ],
+      "description": "Elle est réalisée lorsque la marge distale est inférieure à 1 cm.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T1N0M0",
+      "definition": "T1N0M0 est une classification TNM pour les tumeurs confinées à la muqueuse ou à la sous-muqueuse sans métastases ganglionnaires ni à distance.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "TNM",
+        "stade T1N0M0"
+      ],
+      "description": "Cette classification est utilisée pour déterminer l'extension de la tumeur et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stade TNM",
+      "definition": "Classification des tumeurs malignes basée sur la taille de la tumeur (T), l'envahissement ganglionnaire (N) et la présence de métastases (M).",
+      "category": "classification",
+      "synonyms": [
+        "classification TNM"
+      ],
+      "related_terms": [
+        "cancer",
+        "métastase"
+      ],
+      "description": "Utilisée pour évaluer la progression du cancer et déterminer le pronostic.",
+      "expansion": "Tumor, Node, Metastasis",
+      "clinical_significance": "Essentiel pour le pronostic et le choix du traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TNM staging",
+        "cancer staging"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "envahissement vasculaire",
+      "definition": "Présence de cellules tumorales dans les vaisseaux sanguins, indiquant une propagation potentielle du cancer.",
+      "category": "pathologie",
+      "synonyms": [
+        "invasion vasculaire"
+      ],
+      "related_terms": [
+        "embols vasculaires",
+        "métastase"
+      ],
+      "description": "Facteur de mauvais pronostic dans les cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascular invasion",
+        "cancer spread"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "dédifférenciation histologique",
+      "definition": "Perte de la différenciation cellulaire normale, indiquant une progression vers un état plus agressif du cancer.",
+      "category": "pathologie",
+      "synonyms": [
+        "anaplasie"
+      ],
+      "related_terms": [
+        "cancer",
+        "tumeur"
+      ],
+      "description": "Caractéristique histologique associée à un mauvais pronostic.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "histological dedifferentiation",
+        "anaplasia"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "instabilité microsatellitaire",
+      "definition": "Altération de la longueur des séquences répétitives d'ADN, souvent due à des défauts dans les mécanismes de réparation de l'ADN.",
+      "category": "pathologie",
+      "synonyms": [
+        "MSI"
+      ],
+      "related_terms": [
+        "cancer colorectal",
+        "mutation"
+      ],
+      "description": "Associée à un pronostic plus favorable dans certains cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "microsatellite instability",
+        "MSI"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "emboles carcinomateux lymphatiques et vasculaires",
+      "definition": "Fragments de tissu tumoral transportés par les vaisseaux lymphatiques ou sanguins, pouvant former des métastases.",
+      "category": "pathologie",
+      "synonyms": [
+        "emboles tumoraux"
+      ],
+      "related_terms": [
+        "métastase",
+        "cancer"
+      ],
+      "description": "Facteur de mauvais pronostic dans les cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinomatous emboli",
+        "tumor emboli"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "engainements péri-nerveux",
+      "definition": "Invasion des cellules tumorales autour des nerfs, indiquant une propagation locale du cancer.",
+      "category": "pathologie",
+      "synonyms": [
+        "invasion péri-nerveuse"
+      ],
+      "related_terms": [
+        "cancer",
+        "tumeur"
+      ],
+      "description": "Facteur de mauvais pronostic dans les cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "perineural invasion",
+        "nerve invasion"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "aneuploïdie",
+      "definition": "Anomalie chromosomique caractérisée par un nombre anormal de chromosomes dans une cellule.",
+      "category": "pathologie",
+      "synonyms": [
+        "aneuploidy"
+      ],
+      "related_terms": [
+        "cancer",
+        "mutation"
+      ],
+      "description": "Associée à un mauvais pronostic dans les cancers colorectaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aneuploidy",
+        "chromosomal abnormality"
+      ],
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "source_file": "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    }
+  ],
+  "source_files": [
+    "Chirurgie Générale/Cancers Colorectaux/Courses/15 Cancers colorectaux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md"
+  ],
+  "total_terms": 129
+}

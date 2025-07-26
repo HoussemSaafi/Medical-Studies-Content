@@ -1,0 +1,53 @@
+{
+  "category": "toxicologie",
+  "terms": [
+    {
+      "term": "Méthanol",
+      "definition": "Alcool toxique qui peut causer une intoxication grave s'il est ingéré.",
+      "category": "toxicologie",
+      "synonyms": [
+        "Alcool méthylique"
+      ],
+      "related_terms": [
+        "Éthanol",
+        "Intoxication"
+      ],
+      "description": "L'ingestion de méthanol peut entraîner une acidose métabolique et des lésions oculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Méthanol",
+        "Alcool méthylique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Éthanol",
+      "definition": "Alcool présent dans les boissons alcoolisées, également utilisé comme solvant et antiseptique.",
+      "category": "toxicologie",
+      "synonyms": [
+        "Alcool éthylique"
+      ],
+      "related_terms": [
+        "Méthanol",
+        "Intoxication"
+      ],
+      "description": "L'éthanol est métabolisé par le foie et peut causer une intoxication aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Éthanol",
+        "Alcool éthylique"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 2,
+  "extraction_date": "20250605_212035"
+}

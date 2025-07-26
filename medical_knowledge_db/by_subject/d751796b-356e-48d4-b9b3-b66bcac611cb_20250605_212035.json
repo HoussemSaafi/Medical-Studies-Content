@@ -1,0 +1,2765 @@
+{
+  "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+  "terms": [
+    {
+      "term": "coma",
+      "definition": "État de perte de conscience profonde et durable, caractérisé par une absence d'éveil et de réponse comportementale, même en réponse à des stimulations douloureuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "état comateux"
+      ],
+      "related_terms": [
+        "vigilance",
+        "conscience"
+      ],
+      "description": "Le coma est une urgence médicale nécessitant une évaluation rapide et un traitement approprié pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Le coma peut être causé par des conditions variées telles que des traumatismes crâniens, des intoxications, des accidents vasculaires cérébraux, ou des infections graves comme la méningite bactérienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mort encéphalique",
+      "definition": "État de mort cérébrale totale et irréversible, caractérisé par l'absence de toute activité cérébrale et de la fonction du tronc cérébral.",
+      "category": "pathologie",
+      "synonyms": [
+        "mort cérébrale"
+      ],
+      "related_terms": [
+        "coma",
+        "engagement cérébral"
+      ],
+      "description": "La mort encéphalique est diagnostiquée par des critères cliniques stricts et des tests paracliniques confirmant l'absence de toute activité cérébrale.",
+      "expansion": null,
+      "clinical_significance": "La mort encéphalique est une situation critique nécessitant une évaluation rapide et précise pour des décisions médicales et éthiques importantes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite bactérienne",
+      "definition": "Infection bactérienne des méninges, les membranes protectrices du cerveau et de la moelle épinière.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningite purulente"
+      ],
+      "related_terms": [
+        "méningite",
+        "infection bactérienne"
+      ],
+      "description": "La méningite bactérienne est une urgence médicale nécessitant un traitement antibiotique rapide pour éviter des complications graves comme le choc septique.",
+      "expansion": null,
+      "clinical_significance": "La méningite bactérienne peut être mortelle si elle n'est pas traitée rapidement et de manière appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vigilance",
+      "definition": "État d'éveil permettant l'ouverture des yeux, la réponse motrice et la communication verbale.",
+      "category": "physiologie",
+      "synonyms": [
+        "éveil"
+      ],
+      "related_terms": [
+        "conscience",
+        "coma"
+      ],
+      "description": "La vigilance dépend de la formation réticulée activatrice ascendante et peut être évaluée de manière objective.",
+      "expansion": null,
+      "clinical_significance": "L'évaluation de la vigilance est cruciale pour déterminer l'état de conscience d'un patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "conscience",
+      "definition": "Connaissance de soi et du monde extérieur permettant un discours cohérent et un comportement adapté aux stimulations.",
+      "category": "physiologie",
+      "synonyms": [
+        "état de conscience"
+      ],
+      "related_terms": [
+        "vigilance",
+        "coma"
+      ],
+      "description": "La conscience est une fonction corticale représentant la somme des fonctions affectives et cognitives.",
+      "expansion": null,
+      "clinical_significance": "Les troubles de la conscience impliquent un dysfonctionnement cérébral et peuvent évoluer jusqu'au coma.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cortex",
+      "definition": "Couche externe du cerveau, composée de matière grise, responsable des fonctions cognitives, sensorielles et motrices.",
+      "category": "anatomie",
+      "synonyms": [
+        "écorce cérébrale"
+      ],
+      "related_terms": [
+        "matière grise",
+        "matière blanche"
+      ],
+      "description": "Le cortex est impliqué dans de nombreuses fonctions cérébrales essentielles.",
+      "expansion": null,
+      "clinical_significance": "Les lésions du cortex peuvent entraîner des déficits cognitifs et sensorimoteurs importants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "matière blanche",
+      "definition": "Partie du système nerveux central composée principalement de fibres nerveuses myélinisées, responsables de la transmission des signaux nerveux.",
+      "category": "anatomie",
+      "synonyms": [
+        "substance blanche"
+      ],
+      "related_terms": [
+        "matière grise",
+        "cortex"
+      ],
+      "description": "La matière blanche est essentielle pour la communication entre différentes régions du cerveau.",
+      "expansion": null,
+      "clinical_significance": "Les lésions de la matière blanche peuvent entraîner des déficits neurologiques variés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thalamique",
+      "definition": "Relatif au thalamus, une structure située au centre du cerveau, jouant un rôle crucial dans la relayage des informations sensorielles et motrices.",
+      "category": "anatomie",
+      "synonyms": [
+        "relatif au thalamus"
+      ],
+      "related_terms": [
+        "thalamus",
+        "substance réticulée"
+      ],
+      "description": "Les lésions thalamiques peuvent entraîner des troubles de la conscience et des fonctions sensorielles.",
+      "expansion": null,
+      "clinical_significance": "Le thalamus est une structure clé dans le relais des informations sensorielles et motrices.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "substance réticulée",
+      "definition": "Réseau de neurones situé dans le tronc cérébral, impliqué dans la régulation de l'éveil, du sommeil et des fonctions autonomes.",
+      "category": "anatomie",
+      "synonyms": [
+        "formation réticulée"
+      ],
+      "related_terms": [
+        "tronc cérébral",
+        "vigilance"
+      ],
+      "description": "La substance réticulée joue un rôle crucial dans le maintien de l'état de vigilance.",
+      "expansion": null,
+      "clinical_significance": "Les lésions de la substance réticulée peuvent entraîner des troubles de la conscience et des fonctions autonomes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiovasculaire",
+      "definition": "Relatif au cœur et aux vaisseaux sanguins, impliquant la circulation sanguine et la fonction cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "système cardiovasculaire"
+      ],
+      "related_terms": [
+        "régulation cardiovasculaire",
+        "thermorégulation"
+      ],
+      "description": "Le système cardiovasculaire est essentiel pour la distribution de l'oxygène et des nutriments dans le corps.",
+      "expansion": null,
+      "clinical_significance": "Les troubles cardiovasculaires peuvent entraîner des complications graves comme l'infarctus du myocarde ou l'accident vasculaire cérébral.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thermorégulation",
+      "definition": "Processus par lequel l'organisme maintient une température corporelle stable malgré les variations de la température ambiante.",
+      "category": "physiologie",
+      "synonyms": [
+        "régulation thermique"
+      ],
+      "related_terms": [
+        "homéostasie",
+        "régulation cardiovasculaire"
+      ],
+      "description": "La thermorégulation est essentielle pour le maintien des fonctions corporelles normales.",
+      "expansion": null,
+      "clinical_significance": "Les troubles de la thermorégulation peuvent entraîner des complications graves comme l'hypothermie ou l'hyperthermie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veille-sommeil",
+      "definition": "Cycle biologique alternant entre des périodes d'éveil (veille) et de sommeil, régulé par des mécanismes circadiens.",
+      "category": "physiologie",
+      "synonyms": [
+        "cycle veille-sommeil"
+      ],
+      "related_terms": [
+        "rythme circadien",
+        "vigilance"
+      ],
+      "description": "Le cycle veille-sommeil est essentiel pour le repos et la récupération physique et mentale.",
+      "expansion": null,
+      "clinical_significance": "Les troubles du cycle veille-sommeil peuvent entraîner des problèmes de santé variés, y compris des troubles de l'humeur et des fonctions cognitives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "persistant",
+      "definition": "Qui dure ou persiste pendant une période prolongée, souvent utilisé pour décrire des états pathologiques qui ne se résolvent pas rapidement.",
+      "category": "classification",
+      "synonyms": [
+        "persistant"
+      ],
+      "related_terms": [
+        "état végétatif persistant"
+      ],
+      "description": "Un état persistant peut nécessiter des interventions médicales prolongées et un suivi attentif.",
+      "expansion": null,
+      "clinical_significance": "La persistance d'un état pathologique peut indiquer une gravité accrue et un pronostic moins favorable.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "permanent",
+      "definition": "Qui est définitif et irréversible, souvent utilisé pour décrire des états pathologiques qui ne se résolvent pas.",
+      "category": "classification",
+      "synonyms": [
+        "irréversible"
+      ],
+      "related_terms": [
+        "état végétatif permanent"
+      ],
+      "description": "Un état permanent nécessite des soins palliatifs et un soutien continu pour le patient et sa famille.",
+      "expansion": null,
+      "clinical_significance": "La permanence d'un état pathologique indique une gravité extrême et un pronostic défavorable.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "non-traumatique",
+      "definition": "Relatif à une condition ou une lésion qui n'est pas causée par un traumatisme physique.",
+      "category": "classification",
+      "synonyms": [
+        "non traumatique"
+      ],
+      "related_terms": [
+        "traumatique",
+        "étiologie non-traumatique"
+      ],
+      "description": "Les conditions non-traumatiques peuvent inclure des maladies dégénératives, des infections, ou des troubles métaboliques.",
+      "expansion": null,
+      "clinical_significance": "L'identification de l'étiologie non-traumatique est cruciale pour un traitement approprié et ciblé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatique",
+      "definition": "Relatif à une condition ou une lésion causée par un traumatisme physique, tel qu'un accident ou une blessure.",
+      "category": "classification",
+      "synonyms": [
+        "traumatique"
+      ],
+      "related_terms": [
+        "non-traumatique",
+        "étiologie traumatique"
+      ],
+      "description": "Les lésions traumatiques peuvent inclure des fractures, des contusions, ou des hémorragies.",
+      "expansion": null,
+      "clinical_significance": "L'identification de l'étiologie traumatique est cruciale pour un traitement approprié et ciblé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obnubilation",
+      "definition": "État de ralentissement des fonctions de la conscience avec dégradation de l'attention.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "confusion mentale",
+        "stupeur"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "obnubilation",
+        "conscience altérée"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "confusion mentale",
+      "definition": "Altération des fonctions stratégiques de la conscience, incluant la mémoire, l'orientation temporo-spatiale et la planification.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obnubilation",
+        "stupeur"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "confusion mentale",
+        "altération cognitive"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stupeur",
+      "definition": "État de réaction fugace d'éveil aux stimulations nociceptives avec une réactivité motrice encore plus ou moins organisée et une communication par le langage très fruste.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obnubilation",
+        "confusion mentale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "stupeur",
+        "réactivité motrice"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "formation réticulée",
+      "definition": "Réseau de neurones situé dans le tronc cérébral, impliqué dans le contrôle de l'éveil et de la vigilance.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tronc cérébral",
+        "cortex cérébral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "formation réticulée",
+        "tronc cérébral"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tronc cérébral",
+      "definition": "Partie du cerveau qui relie le cerveau antérieur et le cervelet au reste du système nerveux central.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "formation réticulée",
+        "cortex cérébral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tronc cérébral",
+        "formation réticulée"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cortex cérébral",
+      "definition": "Couche externe du cerveau, responsable des fonctions cognitives et affectives.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "formation réticulée",
+        "tronc cérébral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cortex cérébral",
+        "fonctions cognitives"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc",
+      "definition": "État critique caractérisé par une insuffisance circulatoire aiguë, entraînant une mauvaise perfusion des tissus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle",
+        "fréquence cardiaque"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "choc",
+        "insuffisance circulatoire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème pulmonaire",
+      "definition": "Accumulation anormale de liquide dans les poumons, souvent due à une insuffisance cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cyanose",
+        "détresse respiratoire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "œdème pulmonaire",
+        "insuffisance cardiaque"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intubation endotrachéale",
+      "definition": "Procédure médicale consistant à insérer un tube dans la trachée pour assurer la ventilation mécanique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "ventilation mécanique",
+        "détresse respiratoire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "intubation endotrachéale",
+        "ventilation mécanique"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycémie capillaire",
+      "definition": "Mesure du taux de glucose dans le sang capillaire, souvent réalisée par une piqûre au bout du doigt.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoglycémie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "glycémie capillaire",
+        "taux de glucose"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharyngolaryngés",
+      "definition": "Relatif au pharynx et au larynx, structures anatomiques impliquées dans la respiration et la déglutition.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "voies aériennes supérieures"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "pharyngolaryngés",
+        "pharynx et larynx"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perfusion cérébrale",
+      "definition": "Flux sanguin vers le cerveau, essentiel pour maintenir les fonctions cérébrales.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypotension",
+        "circulation sanguine"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "perfusion cérébrale",
+        "flux sanguin cérébral"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypotonie",
+      "definition": "Diminution du tonus musculaire, souvent observée dans les états de coma.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertonie pyramidale",
+        "coma"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypotonie",
+        "tonus musculaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertonie pyramidale",
+      "definition": "Augmentation du tonus musculaire due à une lésion du système pyramidal, souvent observée dans les états de coma.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypotonie",
+        "coma"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hypertonie pyramidale",
+        "tonus musculaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "raideur de la nuque",
+      "definition": "Rigidité du cou, souvent signe de méningite ou d'autres pathologies neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome méningé",
+        "coma léger"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "raideur de la nuque",
+        "méningite"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome méningé",
+      "definition": "Ensemble de signes cliniques incluant la raideur de la nuque, souvent associé à une méningite.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "raideur de la nuque",
+        "coma léger"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome méningé",
+        "méningite"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémiplégie",
+      "definition": "Paralysie d'une moitié du corps, souvent due à une lésion cérébrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "paraplégie",
+        "tétraplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hémiplégie",
+        "paralysie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paraplégie",
+      "definition": "Paralysie des membres inférieurs, souvent due à une lésion de la moelle épinière.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémiplégie",
+        "tétraplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "paraplégie",
+        "paralysie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tétraplégie",
+      "definition": "Paralysie des quatre membres, souvent due à une lésion de la moelle épinière au niveau cervical.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémiplégie",
+        "paraplégie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tétraplégie",
+        "paralysie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manœuvre de Pierre Marie et Foix",
+      "definition": "Technique de compression postérieure des branches montantes des mandibules pour évaluer la motricité faciale chez les patients comateux.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "motricité faciale",
+        "coma"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "manœuvre de Pierre Marie et Foix",
+        "motricité faciale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexes cutané-plantaires",
+      "definition": "Réflexes provoqués par la stimulation de la plante du pied, évaluant l'intégrité des voies motrices.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réflexes ostéo-tendineux",
+        "syndrome pyramidal"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réflexes cutané-plantaires",
+        "voies motrices"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signe de Babinski",
+      "definition": "Réflexe pathologique caractérisé par l'extension du gros orteil et la flexion des autres orteils en réponse à la stimulation de la plante du pied.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome pyramidal",
+        "réflexes cutané-plantaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "signe de Babinski",
+        "réflexe pathologique"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome pyramidal",
+      "definition": "Ensemble de signes cliniques résultant d'une lésion du système pyramidal, incluant l'hypertonie, l'hyperréflexie et le signe de Babinski.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "signe de Babinski",
+        "réflexes cutané-plantaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome pyramidal",
+        "système pyramidal"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diplégie faciale",
+      "definition": "Paralysie des muscles faciaux des deux côtés du visage, souvent due à une lésion des nerfs faciaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "coma profond",
+        "paupières"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "diplégie faciale",
+        "paralysie faciale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe fronto-orbiculaire",
+      "definition": "Réflexe provoqué par la percussion de la région frontale, entraînant une contraction des muscles orbiculaires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "clignement à la menace",
+        "coma"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réflexe fronto-orbiculaire",
+        "muscles orbiculaires"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sympathique irido-dilatateur",
+      "definition": "Système nerveux sympathique responsable de la dilatation de la pupille.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "parasympathique irido-constricteur",
+        "pupilles"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sympathique irido-dilatateur",
+        "dilatation pupillaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parasympathique irido-constricteur",
+      "definition": "Système nerveux parasympathique responsable de la constriction de la pupille.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "sympathique irido-dilatateur",
+        "pupilles"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "parasympathique irido-constricteur",
+        "constriction pupillaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myosis",
+      "definition": "Constriction anormale de la pupille, souvent due à une stimulation parasympathique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "mydriase",
+        "pupilles"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "myosis",
+        "constriction pupillaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe photomoteur",
+      "definition": "Réflexe pupillaire en réponse à la lumière, entraînant une constriction de la pupille.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réflexe consensuel",
+        "pupilles"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réflexe photomoteur",
+        "constriction pupillaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe consensuel",
+      "definition": "Réflexe pupillaire où la constriction d'une pupille en réponse à la lumière entraîne la constriction de l'autre pupille.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réflexe photomoteur",
+        "pupilles"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réflexe consensuel",
+        "constriction pupillaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexes oculocéphaliques",
+      "definition": "Réflexes provoqués par la rotation, flexion ou extension de la tête, évaluant l'intégrité des arcs réflexes oculomoteurs.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "motricité oculaire extrinsèque",
+        "coma"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réflexes oculocéphaliques",
+        "arcs réflexes oculomoteurs"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rythmes oscillants et périodiques",
+      "definition": "Modifications rythmiques de la respiration qui peuvent indiquer une souffrance du diencéphale et de la partie haute du tronc cérébral.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "diencéphale",
+        "tronc cérébral"
+      ],
+      "description": "Ces rythmes respiratoires anormaux sont souvent observés dans les états de coma et peuvent aider à localiser la lésion cérébrale.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des causes de coma.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysrythmies majeures",
+      "definition": "Altérations importantes du rythme respiratoire indiquant une atteinte bulbo-protubérantielle.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bulbo-protubérantielle"
+      ],
+      "description": "Ces dysrythmies sont des signes cliniques graves qui peuvent indiquer une lésion dans la région du bulbe rachidien et de la protubérance.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des causes de coma.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "score de Glasgow",
+      "definition": "Échelle d'évaluation de la profondeur du coma basée sur l'ouverture des yeux, la réponse verbale et la réponse motrice.",
+      "category": "classification",
+      "synonyms": [
+        "GCS"
+      ],
+      "related_terms": [
+        "coma",
+        "traumatisme crânien"
+      ],
+      "description": "Utilisé pour évaluer la gravité des traumatismes crâniens et des comas de diverses origines.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le pronostic des patients en coma.",
+      "normal_values": "Entre 3 et 15",
+      "image_search_terms": [
+        "score de Glasgow",
+        "échelle de coma"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Babinski",
+      "definition": "Signe neurologique où la stimulation de la plante du pied provoque une extension du gros orteil et une flexion des autres orteils.",
+      "category": "physiologie",
+      "synonyms": [
+        "signe de Babinski"
+      ],
+      "related_terms": [
+        "réflexe plantaire"
+      ],
+      "description": "Indique une atteinte des voies pyramidales dans le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions du système nerveux central.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "III",
+      "definition": "Nerf crânien responsable de l'innervation des muscles oculomoteurs et de l'élévation de la paupière supérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf oculomoteur"
+      ],
+      "related_terms": [
+        "nerfs crâniens",
+        "muscles oculomoteurs"
+      ],
+      "description": "Atteinte de ce nerf peut entraîner une mydriase unilatérale aréactive.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexes du tronc cérébral",
+      "definition": "Réflexes contrôlés par le tronc cérébral, incluant les réflexes pupillaires, cornéens, et oculo-céphalogyres.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tronc cérébral",
+        "réflexe photomoteur"
+      ],
+      "description": "Leur abolition peut indiquer une atteinte grave du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie postanoxique",
+      "definition": "Dysfonctionnement cérébral résultant d'une privation d'oxygène au cerveau.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "anoxie",
+        "encéphalopathie"
+      ],
+      "description": "Peut entraîner une mydriase bilatérale et d'autres signes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales post-anoxiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intoxication aux barbituriques",
+      "definition": "Empoisonnement dû à une surdose de barbituriques, des médicaments dépresseurs du système nerveux central.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "barbituriques",
+        "intoxication"
+      ],
+      "description": "Peut entraîner une mydriase bilatérale et d'autres signes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des intoxications médicamenteuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myosis punctiforme",
+      "definition": "Constriction excessive de la pupille en un point minuscule.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pupille",
+        "myosis"
+      ],
+      "description": "Caractéristique d'une lésion protubérantielle.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myosis réactif",
+      "definition": "Constriction de la pupille qui réagit à la lumière.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pupille",
+        "réflexe photomoteur"
+      ],
+      "description": "Peut être observé dans les encéphalopathies métaboliques ou une compression diencéphalique en cas d'HTIC.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTIC",
+      "definition": "Hypertension intracrânienne, augmentation de la pression à l'intérieur du crâne.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension intracrânienne"
+      ],
+      "related_terms": [
+        "pression intracrânienne"
+      ],
+      "description": "Peut entraîner une compression diencéphalique et d'autres signes neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de détérioration rostro-caudale",
+      "definition": "Progression de la détérioration cérébrale des hémisphères vers le tronc cérébral.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tronc cérébral",
+        "hémisphères"
+      ],
+      "description": "Indique une aggravation de la souffrance cérébrale.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cerveau",
+      "definition": "Organe central du système nerveux, responsable de la coordination des fonctions corporelles.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "système nerveux central",
+        "fonctions corporelles"
+      ],
+      "description": "Atteinte du cerveau peut entraîner des dysfonctionnements neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexes",
+      "definition": "Réponses involontaires à des stimuli, souvent utilisées pour évaluer l'intégrité du système nerveux.",
+      "category": "physiologie",
+      "synonyms": [
+        "réactions réflexes"
+      ],
+      "related_terms": [
+        "réflexe cilio-spinal",
+        "réflexe fronto-orbiculaire"
+      ],
+      "description": "Les réflexes du tronc cérébral sont particulièrement importants dans l'évaluation des patients en coma.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cilio-spinal",
+      "definition": "Réflexe qui provoque la dilatation pupillaire après stimulation sus-claviculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe pupillaire cilio-spinal"
+      ],
+      "related_terms": [
+        "réflexe photomoteur",
+        "réflexe oculo-cardiaque"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies sympathiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fronto-orbiculaire",
+      "definition": "Réflexe qui provoque la fermeture palpébrale après percussion glabellaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe glabellaire"
+      ],
+      "related_terms": [
+        "réflexe cornéen",
+        "réflexe massétérin"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies motrices faciales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oculo-céphalique",
+      "definition": "Réflexe qui provoque un mouvement conjugué des yeux dans le sens inverse du mouvement imprimé de la tête.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe oculo-vestibulaire"
+      ],
+      "related_terms": [
+        "réflexe oculo-cardiaque",
+        "réflexe photomoteur"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies oculomotrices.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "photomoteur",
+      "definition": "Réflexe qui provoque la contraction pupillaire par stimulation lumineuse.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe pupillaire à la lumière"
+      ],
+      "related_terms": [
+        "réflexe cilio-spinal",
+        "réflexe oculo-cardiaque"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies optiques et des nerfs oculomoteurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cornéen",
+      "definition": "Réflexe qui provoque la fermeture de la paupière par stimulation cornéenne.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe cornéen"
+      ],
+      "related_terms": [
+        "réflexe fronto-orbiculaire",
+        "réflexe massétérin"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies sensitives faciales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "massétérin",
+      "definition": "Réflexe qui provoque la contraction du masséter par percussion mentonnière.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe mandibulaire"
+      ],
+      "related_terms": [
+        "réflexe cornéen",
+        "réflexe fronto-orbiculaire"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies motrices trigéminales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oculo-cardiaque",
+      "definition": "Réflexe qui provoque un ralentissement cardiaque après compression des globes oculaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe d'Aschner"
+      ],
+      "related_terms": [
+        "réflexe photomoteur",
+        "réflexe oculo-céphalique"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies parasympathiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "palmo-mentonnier",
+      "definition": "Réflexe pathologique qui provoque la contraction de la houppe du menton par stimulation de l'éminence thénar homolatéral.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe de Marinesco-Radovici"
+      ],
+      "related_terms": [
+        "réflexe cornéo-mandibulaire"
+      ],
+      "description": "Indique une atteinte des voies corticospinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cornéo-mandibulaire",
+      "definition": "Réflexe pathologique qui provoque un mouvement de diduction de la mandibule après stimulation de la cornée.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe de Wartenberg"
+      ],
+      "related_terms": [
+        "réflexe palmo-mentonnier"
+      ],
+      "description": "Indique une atteinte des voies corticospinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glasgow - Liège",
+      "definition": "Échelle combinant le score de Glasgow avec l'évaluation de cinq réflexes du tronc cérébral pour une évaluation plus précise du niveau de conscience.",
+      "category": "classification",
+      "synonyms": [
+        "score de Glasgow-Liège"
+      ],
+      "related_terms": [
+        "score de Glasgow"
+      ],
+      "description": "Utilisé pour une évaluation plus détaillée de la souffrance cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cheynes-Stokes",
+      "definition": "Type de respiration caractérisé par des périodes de polypnée suivies de phases d'apnée, indiquant une atteinte diffuse des hémisphères cérébraux ou diencéphalique.",
+      "category": "physiologie",
+      "synonyms": [
+        "respiration de Cheyne-Stokes"
+      ],
+      "related_terms": [
+        "hyperventilation neurogène centrale",
+        "respiration apneustique"
+      ],
+      "description": "Observé dans les comas et les insuffisances cardiaques sévères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diencéphalique",
+      "definition": "Relatif au diencéphale, une partie du cerveau qui inclut le thalamus, l'hypothalamus, l'épithalamus et le subthalamus.",
+      "category": "anatomie",
+      "synonyms": [
+        "diencéphale"
+      ],
+      "related_terms": [
+        "mésencéphale",
+        "télencéphale"
+      ],
+      "description": "Impliqué dans la régulation de nombreuses fonctions corporelles, y compris la température et la faim.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "diencéphale anatomie",
+        "diencephalon"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperventilation neurogène centrale",
+      "definition": "Polypnée régulière et ample témoignant d'une lésion ponto-pédonculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperventilation centrale"
+      ],
+      "related_terms": [
+        "respiration de Cheyne-Stokes",
+        "respiration apneustique"
+      ],
+      "description": "Observée dans les lésions du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponto-pédonculaire",
+      "definition": "Relatif à la jonction entre le pont et le pédoncule cérébral.",
+      "category": "anatomie",
+      "synonyms": [
+        "pontopédonculaire"
+      ],
+      "related_terms": [
+        "mésencéphale",
+        "protubérance"
+      ],
+      "description": "Zone critique pour les voies motrices et sensitives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ponto-pédonculaire anatomie",
+        "pontopeduncular junction"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protubérance",
+      "definition": "Partie du tronc cérébral située entre le mésencéphale et le bulbe rachidien, également connue sous le nom de pont.",
+      "category": "anatomie",
+      "synonyms": [
+        "pont"
+      ],
+      "related_terms": [
+        "mésencéphale",
+        "bulbe rachidien"
+      ],
+      "description": "Impliquée dans de nombreuses fonctions motrices et sensitives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "protubérance anatomie",
+        "pons"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "respiration apneustique",
+      "definition": "Type de respiration caractérisé par des pauses après l'inspiration et l'expiration, indiquant une atteinte de la partie basse de la protubérance.",
+      "category": "physiologie",
+      "synonyms": [
+        "apneusis"
+      ],
+      "related_terms": [
+        "respiration de Cheyne-Stokes",
+        "hyperventilation neurogène centrale"
+      ],
+      "description": "Observée dans les lésions du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "respiration ataxique",
+      "definition": "Type de respiration totalement anarchique, indiquant une atteinte des centres bulbaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "respiration irrégulière"
+      ],
+      "related_terms": [
+        "respiration de Cheyne-Stokes",
+        "respiration apneustique"
+      ],
+      "description": "Observée dans les lésions sévères du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardio-vasculaires",
+      "definition": "Relatif au cœur et aux vaisseaux sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "cardiovasculaire"
+      ],
+      "related_terms": [
+        "hypertension artérielle",
+        "tachycardie"
+      ],
+      "description": "Impliqué dans la régulation de la pression artérielle et de la fréquence cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypersudation",
+      "definition": "Transpiration excessive, souvent due à une stimulation excessive des glandes sudoripares.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperhidrose"
+      ],
+      "related_terms": [
+        "hypothermie",
+        "fièvre"
+      ],
+      "description": "Peut être un symptôme de diverses conditions médicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothalamodiencéphaliques",
+      "definition": "Relatif à l'hypothalamus et au diencéphale.",
+      "category": "anatomie",
+      "synonyms": [
+        "hypothalamo-diencéphalique"
+      ],
+      "related_terms": [
+        "hypothalamus",
+        "diencéphale"
+      ],
+      "description": "Impliqué dans la régulation de nombreuses fonctions corporelles, y compris la température et la faim.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothalamus anatomie",
+        "diencephalon"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningo-encéphalite",
+      "definition": "Inflammation des méninges et du cerveau, souvent due à une infection virale ou bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningoencéphalite"
+      ],
+      "related_terms": [
+        "syndrome méningé",
+        "HTIC"
+      ],
+      "description": "Peut causer des symptômes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RPM",
+      "definition": "Réflexe photomoteur, la contraction de la pupille en réponse à la lumière.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe pupillaire à la lumière"
+      ],
+      "related_terms": [
+        "myosis",
+        "astérixis"
+      ],
+      "description": "Utilisé pour évaluer l'intégrité des voies optiques et des nerfs oculomoteurs.",
+      "expansion": "Réflexe PhotoMoteur",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Locked-in-syndrome",
+      "definition": "Syndrome caractérisé par la suppression de toute activité motrice volontaire au niveau des membres et des territoires bulbo-protubérantiels, tout en conservant la conscience.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'enfermement"
+      ],
+      "related_terms": [
+        "accident vasculaire cérébral",
+        "tronc basilaire"
+      ],
+      "description": "Souvent causé par un accident vasculaire cérébral du tronc basilaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tronc basilaire",
+      "definition": "Partie du tronc cérébral qui inclut le pont et le bulbe rachidien.",
+      "category": "anatomie",
+      "synonyms": [
+        "basilar trunk"
+      ],
+      "related_terms": [
+        "Locked-in-syndrome",
+        "accident vasculaire cérébral"
+      ],
+      "description": "Impliqué dans de nombreuses fonctions motrices et sensitives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tronc basilaire anatomie",
+        "basilar trunk"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident vasculaire cérébral",
+      "definition": "Interruption soudaine de l'apport sanguin au cerveau, causant une perte de fonction cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC",
+        "stroke"
+      ],
+      "related_terms": [
+        "Locked-in-syndrome",
+        "tronc basilaire"
+      ],
+      "description": "Peut être ischémique ou hémorragique.",
+      "expansion": "Accident Vasculaire Cérébral",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathies métaboliques",
+      "definition": "Troubles du fonctionnement cérébral dus à des anomalies métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie métabolique"
+      ],
+      "related_terms": [
+        "encéphalopathie hépatique",
+        "encéphalopathie hypoglycémique"
+      ],
+      "description": "Les encéphalopathies métaboliques peuvent être causées par des déséquilibres métaboliques tels que l'hypoglycémie ou l'hyperammoniémie.",
+      "expansion": null,
+      "clinical_significance": "Ces encéphalopathies peuvent entraîner des symptômes neurologiques graves, y compris le coma.",
+      "normal_values": null,
+      "image_search_terms": [
+        "encéphalopathie",
+        "coma métabolique"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "URGENCE thérapeutique",
+      "definition": "Situation médicale nécessitant une intervention immédiate pour éviter des conséquences graves.",
+      "category": "classification",
+      "synonyms": [
+        "urgence médicale"
+      ],
+      "related_terms": [
+        "urgence vitale",
+        "urgence absolue"
+      ],
+      "description": "Une urgence thérapeutique nécessite une prise en charge rapide et appropriée pour prévenir des complications.",
+      "expansion": null,
+      "clinical_significance": "Le retard dans le traitement peut entraîner des conséquences graves pour le patient.",
+      "normal_values": null,
+      "image_search_terms": [
+        "urgence médicale",
+        "intervention immédiate"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningoencéphalites virales",
+      "definition": "Inflammation du cerveau et des méninges causée par une infection virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningoencéphalite virale"
+      ],
+      "related_terms": [
+        "encéphalite herpétique",
+        "méningite virale"
+      ],
+      "description": "Les méningoencéphalites virales peuvent entraîner des symptômes neurologiques graves et nécessitent un traitement spécifique.",
+      "expansion": null,
+      "clinical_significance": "Ces infections peuvent entraîner des séquelles neurologiques permanentes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "méningoencéphalite",
+        "infection virale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuro-paludisme",
+      "definition": "Forme grave de paludisme affectant le système nerveux central.",
+      "category": "pathologie",
+      "synonyms": [
+        "paludisme cérébral"
+      ],
+      "related_terms": [
+        "paludisme",
+        "malaria"
+      ],
+      "description": "Le neuro-paludisme est une complication sévère du paludisme qui peut entraîner un coma et des convulsions.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antipaludique urgent pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "paludisme",
+        "malaria cérébrale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HYPOGLYCEMIE",
+      "definition": "État de glycémie anormalement basse, généralement inférieure à 70 mg/dL.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoglycémie"
+      ],
+      "related_terms": [
+        "glycémie basse",
+        "hypoglycémie sévère"
+      ],
+      "description": "L'hypoglycémie peut entraîner des symptômes neurologiques graves, y compris le coma.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une correction rapide pour éviter des complications neurologiques.",
+      "normal_values": "Valeurs normales de la glycémie: 70-100 mg/dL",
+      "image_search_terms": [
+        "hypoglycémie",
+        "glycémie basse"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PL",
+      "definition": "Ponction lombaire, une procédure médicale pour prélever du liquide céphalo-rachidien.",
+      "category": "imagerie",
+      "synonyms": [
+        "ponction lombaire"
+      ],
+      "related_terms": [
+        "liquide céphalo-rachidien",
+        "LCR"
+      ],
+      "description": "La PL est utilisée pour diagnostiquer des infections du système nerveux central, des hémorragies sous-arachnoïdiennes, et d'autres conditions.",
+      "expansion": "Ponction Lombaire",
+      "clinical_significance": "Peut entraîner des complications si réalisée en présence de contre-indications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ponction lombaire",
+        "LCR"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tomodensitométrie (TDM)",
+      "definition": "Technique d'imagerie médicale utilisant des rayons X pour obtenir des images en coupe du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "TDM",
+        "scanner"
+      ],
+      "related_terms": [
+        "imagerie par résonance magnétique",
+        "IRM"
+      ],
+      "description": "La TDM est utilisée pour diagnostiquer diverses conditions médicales, y compris les traumatismes crâniens et les accidents vasculaires cérébraux.",
+      "expansion": "Tomodensitométrie",
+      "clinical_significance": "Examen de première intention dans de nombreuses situations d'urgence.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TDM",
+        "scanner"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombophlébite cérébrale",
+      "definition": "Inflammation d'une veine cérébrale avec formation de caillots sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombophlébite cérébrale"
+      ],
+      "related_terms": [
+        "thrombose veineuse cérébrale",
+        "TVC"
+      ],
+      "description": "La thrombophlébite cérébrale peut entraîner des symptômes neurologiques graves, y compris des crises d'épilepsie et des déficits neurologiques focaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement anticoagulant pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombophlébite cérébrale",
+        "TVC"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVC ischémique",
+      "definition": "Accident vasculaire cérébral causé par une occlusion artérielle entraînant une ischémie cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC ischémique",
+        "infarctus cérébral"
+      ],
+      "related_terms": [
+        "AVC",
+        "accident vasculaire cérébral"
+      ],
+      "description": "L'AVC ischémique est la forme la plus courante d'AVC et peut entraîner des déficits neurologiques permanents.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge rapide pour minimiser les dommages cérébraux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVC ischémique",
+        "infarctus cérébral"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Électroencéphalogramme (EEG)",
+      "definition": "Technique d'enregistrement de l'activité électrique du cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG",
+        "électroencéphalogramme"
+      ],
+      "related_terms": [
+        "électroencéphalographie"
+      ],
+      "description": "L'EEG est utilisé pour diagnostiquer diverses conditions neurologiques, y compris l'épilepsie et les encéphalopathies.",
+      "expansion": "Électroencéphalogramme",
+      "clinical_significance": "Peu d'intérêt pour évaluer la profondeur du coma ou apporter un élément pronostique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EEG",
+        "électroencéphalogramme"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalite herpétique",
+      "definition": "Inflammation du cerveau causée par une infection par le virus de l'herpès.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalite herpétique"
+      ],
+      "related_terms": [
+        "encéphalite",
+        "herpès"
+      ],
+      "description": "L'encéphalite herpétique peut entraîner des symptômes neurologiques graves, y compris des crises d'épilepsie et des déficits neurologiques focaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antiviral pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "encéphalite herpétique",
+        "herpès"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite purulente",
+      "definition": "Inflammation des méninges caractérisée par la présence de pus dans le liquide céphalo-rachidien.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningite bactérienne"
+      ],
+      "related_terms": [
+        "méningite",
+        "méningocoque"
+      ],
+      "description": "La méningite purulente est souvent causée par des bactéries et nécessite un traitement antibiotique urgent.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une hospitalisation immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "méningite purulente",
+        "méningite bactérienne"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LCR",
+      "definition": "Liquide céphalo-rachidien, un fluide clair et incolore qui circule dans le système nerveux central.",
+      "category": "anatomie",
+      "synonyms": [
+        "liquide cérébro-spinal"
+      ],
+      "related_terms": [
+        "méninges",
+        "ventricules cérébraux"
+      ],
+      "description": "Le LCR joue un rôle crucial dans la protection et le soutien du cerveau et de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "LCR",
+        "liquide céphalo-rachidien"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytocentrifugation",
+      "definition": "Technique de laboratoire utilisée pour concentrer les cellules dans un échantillon de liquide.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "centrifugation",
+        "cytologie"
+      ],
+      "description": "La cytocentrifugation est souvent utilisée pour analyser le LCR et d'autres fluides corporels.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cytocentrifugation",
+        "centrifugation"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycorrachie",
+      "definition": "Concentration de glucose dans le liquide céphalo-rachidien.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glycémie",
+        "LCR"
+      ],
+      "description": "La glycorrachie est comparée à la glycémie pour évaluer la présence d'infections ou d'autres anomalies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glycorrachie",
+        "glucose dans le LCR"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéinorrachie",
+      "definition": "Concentration de protéines dans le liquide céphalo-rachidien.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "protéines",
+        "LCR"
+      ],
+      "description": "Une protéinorrachie élevée peut indiquer une inflammation ou une infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "protéinorrachie",
+        "protéines dans le LCR"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoglycorrachie",
+      "definition": "Diminution de la concentration de glucose dans le liquide céphalo-rachidien.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glycorrachie",
+        "LCR"
+      ],
+      "description": "L'hypoglycorrachie est souvent associée à des infections bactériennes du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoglycorrachie",
+        "glucose dans le LCR"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrocardiogramme (ECG)",
+      "definition": "Enregistrement de l'activité électrique du cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "ECG"
+      ],
+      "related_terms": [
+        "électrocardiographie",
+        "rythme cardiaque"
+      ],
+      "description": "L'ECG est utilisé pour diagnostiquer les troubles du rythme cardiaque et d'autres anomalies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "électrocardiogramme",
+        "ECG"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathie d'inhalation",
+      "definition": "Infection pulmonaire causée par l'inhalation de substances étrangères.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumonie",
+        "inhalation"
+      ],
+      "description": "La pneumopathie d'inhalation peut être causée par des vomissements ou d'autres substances inhalées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumopathie d'inhalation",
+        "pneumonie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie méningée",
+      "definition": "Saignement dans les méninges, souvent causé par une rupture d'anévrisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie sous-arachnoïdienne"
+      ],
+      "related_terms": [
+        "hémorragie cérébrale",
+        "anévrisme"
+      ],
+      "description": "L'hémorragie méningée est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie méningée",
+        "hémorragie sous-arachnoïdienne"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie cérébrale sus tentorielle",
+      "definition": "Saignement dans la partie supérieure du cerveau, au-dessus du tentorium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie cérébrale",
+        "tentorium"
+      ],
+      "description": "L'hémorragie cérébrale sus tentorielle peut causer des déficits neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie cérébrale sus tentorielle",
+        "hémorragie cérébrale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie cérébrale sous tentorielle",
+      "definition": "Saignement dans la partie inférieure du cerveau, en dessous du tentorium.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie cérébrale",
+        "tentorium"
+      ],
+      "description": "L'hémorragie cérébrale sous tentorielle peut causer des déficits neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie cérébrale sous tentorielle",
+        "hémorragie cérébrale"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus cérébral",
+      "definition": "Mort cellulaire dans une région du cerveau due à un manque d'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC ischémique"
+      ],
+      "related_terms": [
+        "AVC",
+        "ischémie cérébrale"
+      ],
+      "description": "L'infarctus cérébral est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus cérébral",
+        "AVC ischémique"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolie gazeuse",
+      "definition": "Obstruction d'un vaisseau sanguin par une bulle de gaz.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "embolie",
+        "bulle de gaz"
+      ],
+      "description": "L'embolie gazeuse peut être causée par des plongées sous-marines ou des interventions chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "embolie gazeuse",
+        "embolie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertension intracrânienne",
+      "definition": "Augmentation de la pression à l'intérieur du crâne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression intracrânienne",
+        "hypertension"
+      ],
+      "description": "L'hypertension intracrânienne peut être causée par des tumeurs, des hémorragies ou des infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertension intracrânienne",
+        "pression intracrânienne"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADEM",
+      "definition": "Encéphalomyélite aiguë disséminée, une maladie inflammatoire du système nerveux central.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalomyélite aiguë disséminée"
+      ],
+      "related_terms": [
+        "encéphalite",
+        "myélite"
+      ],
+      "description": "L'ADEM est souvent causée par une réaction auto-immune après une infection virale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ADEM",
+        "encéphalomyélite aiguë disséminée"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuropaludisme",
+      "definition": "Infection cérébrale causée par le parasite du paludisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "paludisme cérébral"
+      ],
+      "related_terms": [
+        "paludisme",
+        "Plasmodium falciparum"
+      ],
+      "description": "Le neuropaludisme est une complication grave du paludisme nécessitant un traitement urgent.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "neuropaludisme",
+        "paludisme cérébral"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie des états septiques graves",
+      "definition": "Dysfonctionnement cérébral causé par une infection sévère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sepsis",
+        "encéphalopathie"
+      ],
+      "description": "L'encéphalopathie des états septiques graves peut causer des déficits neurologiques et nécessite un traitement rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "encéphalopathie des états septiques graves",
+        "sepsis"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose respiratoire",
+      "definition": "Diminution du pH sanguin due à une augmentation de la concentration de dioxyde de carbone.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidose",
+        "hypercapnie"
+      ],
+      "description": "L'acidose respiratoire peut être causée par une hypoventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidose respiratoire",
+        "acidose"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atélectasies",
+      "definition": "Collapse partiel ou complet d'un ou plusieurs lobes pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "atélectasie"
+      ],
+      "related_terms": [
+        "collapse pulmonaire",
+        "pneumonie"
+      ],
+      "description": "Les atélectasies peuvent être causées par une obstruction des voies respiratoires ou une compression externe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "atélectasies",
+        "atélectasie"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertension artérielle pulmonaire",
+      "definition": "Augmentation de la pression dans les artères pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension pulmonaire",
+        "artères pulmonaires"
+      ],
+      "description": "L'hypertension artérielle pulmonaire peut être causée par des maladies cardiaques ou pulmonaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertension artérielle pulmonaire",
+        "hypertension pulmonaire"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EME",
+      "definition": "État de mort encéphalique, défini comme la perte irréversible des fonctions encéphaliques.",
+      "category": "classification",
+      "synonyms": [
+        "mort encéphalique"
+      ],
+      "related_terms": [
+        "mort cérébrale",
+        "tronc cérébral"
+      ],
+      "description": "L'EME est diagnostiqué par des critères cliniques et des tests de confirmation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EME",
+        "mort encéphalique"
+      ],
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe photo-moteur",
+      "definition": "Réflexe qui provoque la contraction de la pupille en réponse à la lumière.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe pupillaire"
+      ],
+      "related_terms": [
+        "réflexe cornéen",
+        "réflexe oculo-cardiaque"
+      ],
+      "description": "Utilisé pour évaluer la fonction du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe cornéen",
+      "definition": "Réflexe provoqué par le contact de la cornée, entraînant un clignement des yeux.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe cornéen"
+      ],
+      "related_terms": [
+        "réflexe photo-moteur",
+        "réflexe oculo-cardiaque"
+      ],
+      "description": "Utilisé pour évaluer la fonction du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe oculo-cardiaque",
+      "definition": "Réflexe qui provoque une diminution de la fréquence cardiaque en réponse à une pression sur le globe oculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe oculo-cardiaque"
+      ],
+      "related_terms": [
+        "réflexe photo-moteur",
+        "réflexe cornéen"
+      ],
+      "description": "Utilisé pour évaluer la fonction du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe de toux",
+      "definition": "Réflexe provoqué par la stimulation des voies respiratoires, entraînant une expulsion rapide de l'air.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe de toux"
+      ],
+      "related_terms": [
+        "réflexe photo-moteur",
+        "réflexe cornéen"
+      ],
+      "description": "Utilisé pour évaluer la fonction du tronc cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "benzodiazépines",
+      "definition": "Classe de médicaments psychotropes utilisés pour leurs propriétés anxiolytiques, hypnotiques, anticonvulsivantes et sédatives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "benzodiazépines"
+      ],
+      "related_terms": [
+        "morphiniques",
+        "barbituriques"
+      ],
+      "description": "Utilisées pour la sédation et le traitement de l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "barbituriques",
+      "definition": "Classe de médicaments dérivés de l'acide barbiturique, utilisés principalement comme sédatifs et anticonvulsivants.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "barbituriques"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "morphiniques"
+      ],
+      "description": "Utilisés pour la sédation et le traitement des convulsions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pa CO2",
+      "definition": "Pression partielle de dioxyde de carbone dans le sang artériel, utilisée pour évaluer la ventilation.",
+      "category": "physiologie",
+      "synonyms": [
+        "PaCO2"
+      ],
+      "related_terms": [
+        "capnie",
+        "ventilation"
+      ],
+      "description": "Utilisée pour évaluer la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valve de Boussignac",
+      "definition": "Dispositif médical utilisé pour fournir une pression positive continue lors de l'oxygénation.",
+      "category": "imagerie",
+      "synonyms": [
+        "valve de Boussignac"
+      ],
+      "related_terms": [
+        "oxygénation",
+        "ventilation"
+      ],
+      "description": "Utilisée pour maintenir une pression positive continue pendant l'oxygénation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EEG nul",
+      "definition": "Électroencéphalogramme plat et aréactif, indiquant l'absence d'activité électrique cérébrale.",
+      "category": "imagerie",
+      "synonyms": [
+        "EEG nul"
+      ],
+      "related_terms": [
+        "EEG",
+        "électro-encéphalique"
+      ],
+      "description": "Utilisé pour confirmer la mort encéphalique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angio-TDM",
+      "definition": "Angiographie par tomodensitométrie, une technique d'imagerie utilisée pour visualiser les vaisseaux sanguins.",
+      "category": "imagerie",
+      "synonyms": [
+        "angio-TDM"
+      ],
+      "related_terms": [
+        "angiographie",
+        "tomodensitométrie"
+      ],
+      "description": "Utilisée pour évaluer la circulation cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Doppler transcrânien",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les vaisseaux cérébraux.",
+      "category": "imagerie",
+      "synonyms": [
+        "Doppler transcrânien"
+      ],
+      "related_terms": [
+        "artères cérébrales moyennes",
+        "tronc basilaire"
+      ],
+      "description": "Utilisé pour suivre la progression de l'encéphalopathie anoxique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères cérébrales moyennes",
+      "definition": "Vaisseaux sanguins qui fournissent le sang à la majeure partie des lobes pariétaux et temporaux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "artères cérébrales moyennes"
+      ],
+      "related_terms": [
+        "circulation antérieure",
+        "tronc basilaire"
+      ],
+      "description": "Utilisées pour évaluer la circulation cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électro-encéphalique",
+      "definition": "Relatif à l'électroencéphalogramme, un test qui enregistre l'activité électrique du cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "électro-encéphalique"
+      ],
+      "related_terms": [
+        "EEG",
+        "EEG nul"
+      ],
+      "description": "Utilisé pour diagnostiquer les troubles cérébraux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiographie cérébrale",
+      "definition": "Technique d'imagerie utilisée pour visualiser les vaisseaux sanguins du cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie cérébrale"
+      ],
+      "related_terms": [
+        "angio-TDM",
+        "circulation encéphalique"
+      ],
+      "description": "Utilisée pour évaluer la circulation cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "circulation encéphalique",
+      "definition": "Circulation sanguine dans le cerveau.",
+      "category": "physiologie",
+      "synonyms": [
+        "circulation cérébrale"
+      ],
+      "related_terms": [
+        "angiographie cérébrale",
+        "circulation cérébrale"
+      ],
+      "description": "Utilisée pour évaluer la fonction cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "source_file": "Réanimation/Coma/Courses/17 Coma.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Coma/Courses/17 Coma.md"
+  ],
+  "total_terms": 133
+}

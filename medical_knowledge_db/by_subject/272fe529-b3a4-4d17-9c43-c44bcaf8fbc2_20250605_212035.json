@@ -1,0 +1,601 @@
+{
+  "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+  "terms": [
+    {
+      "term": "hypochondre gauche",
+      "definition": "Région anatomique située sous les côtes gauches, correspondant à la partie supérieure gauche de l'abdomen.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "hypochondre droit"
+      ],
+      "description": "C'est la région où se trouve la rate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypochondre gauche",
+        "anatomie abdominale"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypersplénisme",
+      "definition": "État pathologique caractérisé par une hyperactivité de la rate, entraînant une séquestration excessive des éléments sanguins et une hyperdestruction des cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "splénomégalie",
+        "cytopénies"
+      ],
+      "description": "L'hypersplénisme peut provoquer des cytopénies modérées des trois lignées sanguines (globules rouges, globules blancs, plaquettes).",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anémie, une leucopénie, une thrombopénie ou une pancytopénie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypersplénisme",
+        "rate hypertrophiée"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asplénie fonctionnelle",
+      "definition": "État dans lequel la rate est présente mais ne fonctionne pas correctement, souvent après une splénectomie partielle ou en raison de certaines maladies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "splénectomie",
+        "splénomégalie"
+      ],
+      "description": "L'asplénie fonctionnelle peut entraîner une augmentation du risque d'infections graves, en particulier par des bactéries encapsulées.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent une prophylaxie antibiotique et des vaccinations spécifiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "asplénie fonctionnelle",
+        "splénectomie"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatomégalie",
+      "definition": "Augmentation de la taille du foie, souvent détectée par la palpation ou l'imagerie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertrophie hépatique"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite"
+      ],
+      "description": "L'hépatomégalie peut être causée par diverses conditions, y compris des infections, des maladies hématologiques, des troubles métaboliques, et des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie hépatique sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatomégalie",
+        "foie hypertrophié"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies profondes",
+      "definition": "Gonflement des ganglions lymphatiques situés profondément dans le corps, souvent détecté par l'imagerie.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphadénopathie profonde"
+      ],
+      "related_terms": [
+        "adénopathies périphériques",
+        "lymphome"
+      ],
+      "description": "Les adénopathies profondes peuvent être causées par des infections, des maladies inflammatoires ou des cancers.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie systémique ou une infection grave.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adénopathies profondes",
+        "ganglions lymphatiques"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus splénique",
+      "definition": "Nécrose d'une partie de la rate due à une interruption de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "splénomégalie",
+        "rupture de la rate"
+      ],
+      "description": "L'infarctus splénique peut être causé par une thrombose, une embolie ou une torsion de la rate.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des douleurs abdominales aiguës et nécessiter une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus splénique",
+        "rate nécrosée"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rupture de la rate",
+      "definition": "Déchirure de la capsule splénique, souvent due à un traumatisme abdominal.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "splénomégalie",
+        "infarctus splénique"
+      ],
+      "description": "La rupture de la rate peut entraîner une hémorragie interne massive et nécessiter une intervention chirurgicale d'urgence.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortelle si non traitée rapidement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rupture de la rate",
+        "hémorragie splénique"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Myélémie",
+      "definition": "Présence de cellules myéloïdes immatures dans le sang périphérique.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucémoïde"
+      ],
+      "related_terms": [
+        "leucémie",
+        "myélofibrose"
+      ],
+      "description": "Peut être un signe de leucémie ou d'autres maladies myéloïdes.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de maladies myéloïdes graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "myélémie",
+        "cellules myéloïdes"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "Hémocultures",
+      "definition": "Examen de laboratoire consistant à cultiver des bactéries à partir de sang pour identifier des infections bactériennes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "culture sanguine"
+      ],
+      "related_terms": [
+        "bactériémie",
+        "septicémie"
+      ],
+      "description": "Utilisé pour diagnostiquer des infections bactériennes du sang.",
+      "expansion": null,
+      "clinical_significance": "Critique pour identifier et traiter les infections bactériennes du sang.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémocultures",
+        "culture sanguine"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endocardites bactériennes",
+      "definition": "Infection de la paroi interne du cœur, généralement des valves cardiaques, causée par des bactéries.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite infectieuse"
+      ],
+      "related_terms": [
+        "valvulopathie",
+        "septicémie"
+      ],
+      "description": "Peut être causée par diverses bactéries et nécessite un traitement antibiotique urgent.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant un traitement antibiotique urgent.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endocardite bactérienne",
+        "infection valvulaire"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "Valvulopathie",
+      "definition": "Maladie ou dysfonctionnement des valves cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie valvulaire"
+      ],
+      "related_terms": [
+        "endocardite",
+        "insuffisance valvulaire"
+      ],
+      "description": "Peut être congénitale ou acquise et nécessite souvent une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "valvulopathie",
+        "maladie valvulaire"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "Echographie cardiaque",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser le cœur et ses structures.",
+      "category": "imagerie",
+      "synonyms": [
+        "échocardiographie"
+      ],
+      "related_terms": [
+        "échocardiogramme",
+        "ultrason cardiaque"
+      ],
+      "description": "Utilisée pour diagnostiquer diverses maladies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Outil diagnostique essentiel pour les maladies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie cardiaque",
+        "échocardiographie"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "Sérologie de Widal",
+      "definition": "Test sérologique utilisé pour diagnostiquer la fièvre typhoïde en détectant les anticorps contre les antigènes de Salmonella typhi.",
+      "category": "microbiologie",
+      "synonyms": [
+        "test de Widal"
+      ],
+      "related_terms": [
+        "fièvre typhoïde",
+        "Salmonella typhi"
+      ],
+      "description": "Utilisé pour confirmer le diagnostic de fièvre typhoïde.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la fièvre typhoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sérologie de Widal",
+        "test de Widal"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "Sérologie de Wright",
+      "definition": "Test sérologique utilisé pour diagnostiquer la brucellose en détectant les anticorps contre les antigènes de Brucella.",
+      "category": "microbiologie",
+      "synonyms": [
+        "test de Wright"
+      ],
+      "related_terms": [
+        "brucellose",
+        "Brucella"
+      ],
+      "description": "Utilisé pour confirmer le diagnostic de brucellose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la brucellose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sérologie de Wright",
+        "test de Wright"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Brucellose",
+      "definition": "Infection bactérienne causée par les bactéries du genre Brucella, souvent transmise par contact avec des animaux infectés ou des produits alimentaires contaminés.",
+      "category": "pathologie",
+      "synonyms": [
+        "fièvre de Malte"
+      ],
+      "related_terms": [
+        "Brucella",
+        "zoonose"
+      ],
+      "description": "Peut causer des symptômes variés incluant fièvre, douleurs articulaires et splénomégalie.",
+      "expansion": null,
+      "clinical_significance": "Infection zoonotique nécessitant un traitement antibiotique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "brucellose",
+        "fièvre de Malte"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.89
+    },
+    {
+      "term": "Hépatosplénomégalie",
+      "definition": "Augmentation simultanée du volume du foie et de la rate.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépato-splénomégalie"
+      ],
+      "related_terms": [
+        "hépatomégalie",
+        "splénomégalie"
+      ],
+      "description": "Peut être causée par diverses infections, maladies hématologiques, ou maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de diverses conditions pathologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatosplénomégalie",
+        "foie et rate hypertrophiés"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.88
+    },
+    {
+      "term": "Biopsie ostéo-médullaire (BOM)",
+      "definition": "Procédure médicale consistant à prélever un échantillon de moelle osseuse pour examen.",
+      "category": "classification",
+      "synonyms": [
+        "biopsie de moelle osseuse"
+      ],
+      "related_terms": [
+        "myélogramme",
+        "ponction de moelle osseuse"
+      ],
+      "description": "Utilisée pour diagnostiquer diverses maladies hématologiques et infections.",
+      "expansion": null,
+      "clinical_significance": "Outil diagnostique essentiel pour les maladies hématologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "biopsie ostéo-médullaire",
+        "biopsie de moelle osseuse"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.86
+    },
+    {
+      "term": "Ponction biopsie du foie (PBF)",
+      "definition": "Procédure médicale consistant à prélever un échantillon de tissu hépatique pour examen.",
+      "category": "classification",
+      "synonyms": [
+        "biopsie hépatique"
+      ],
+      "related_terms": [
+        "ponction hépatique",
+        "biopsie du foie"
+      ],
+      "description": "Utilisée pour diagnostiquer diverses maladies du foie.",
+      "expansion": null,
+      "clinical_significance": "Outil diagnostique essentiel pour les maladies hépatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ponction biopsie du foie",
+        "biopsie hépatique"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "Granulome tuberculoïde",
+      "definition": "Structure inflammatoire caractéristique de la tuberculose, composée de cellules épithélioïdes et de cellules géantes de Langhans.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulome épithélioïde"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "cellules géantes de Langhans"
+      ],
+      "description": "Indicateur histologique de la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic histologique de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "granulome tuberculoïde",
+        "granulome épithélioïde"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.84
+    },
+    {
+      "term": "Nécrose caséeuse",
+      "definition": "Type de nécrose caractérisée par une dégénérescence fromagée du tissu, souvent observée dans les granulomes tuberculoïdes.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécrose fromagée"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "granulome"
+      ],
+      "description": "Caractéristique histologique de la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic histologique de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "nécrose caséeuse",
+        "nécrose fromagée"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.83
+    },
+    {
+      "term": "Leishmaniose viscérale",
+      "definition": "Infection parasitaire causée par des protozoaires du genre Leishmania, affectant les organes profonds comme la rate, le foie et les ganglions lymphatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "kala-azar"
+      ],
+      "related_terms": [
+        "Leishmania",
+        "protozoaire"
+      ],
+      "description": "Peut causer des symptômes variés incluant fièvre, splénomégalie et anémie.",
+      "expansion": null,
+      "clinical_significance": "Infection parasitaire grave nécessitant un traitement spécifique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "leishmaniose viscérale",
+        "kala-azar"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.82
+    },
+    {
+      "term": "Phlébotome",
+      "definition": "Petit insecte hématophage de l'ordre des diptères, vecteur de la leishmaniose.",
+      "category": "microbiologie",
+      "synonyms": [
+        "moucheron piqueur"
+      ],
+      "related_terms": [
+        "Leishmania",
+        "leishmaniose"
+      ],
+      "description": "Vecteur de la leishmaniose viscérale.",
+      "expansion": null,
+      "clinical_significance": "Important vecteur de la leishmaniose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phlébotome",
+        "moucheron piqueur"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.81
+    },
+    {
+      "term": "Biopsie ganglionnaire",
+      "definition": "Procédure médicale consistant à prélever un échantillon de tissu d'un ganglion lymphatique pour examen microscopique.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie de ganglion lymphatique"
+      ],
+      "related_terms": [
+        "lymphome",
+        "métastase",
+        "ganglion sentinelle"
+      ],
+      "description": "Utilisée pour diagnostiquer des maladies telles que les lymphomes, les infections et les métastases cancéreuses.",
+      "expansion": null,
+      "clinical_significance": "Critique pour le diagnostic des maladies lymphatiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "biopsie ganglionnaire",
+        "ganglion lymphatique"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leucémie aiguë",
+      "definition": "Cancer du sang caractérisé par la prolifération rapide de cellules immatures dans la moelle osseuse et le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucémie aiguë myéloïde",
+        "leucémie aiguë lymphoblastique"
+      ],
+      "related_terms": [
+        "chimiothérapie",
+        "greffe de moelle osseuse",
+        "cytopénie"
+      ],
+      "description": "La leucémie aiguë nécessite un traitement immédiat et agressif, souvent par chimiothérapie.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "leucémie aiguë",
+        "cellules leucémiques"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndromes myéloprolifératifs",
+      "definition": "Groupe de maladies caractérisées par une prolifération excessive des cellules myéloïdes dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "néoplasies myéloprolifératives"
+      ],
+      "related_terms": [
+        "polycythémie vraie",
+        "thrombocytose essentielle",
+        "myélofibrose"
+      ],
+      "description": "Ces syndromes peuvent évoluer vers une leucémie aiguë myéloïde.",
+      "expansion": null,
+      "clinical_significance": "Important pour le suivi et le traitement des maladies myéloïdes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndromes myéloprolifératifs",
+        "néoplasies myéloprolifératives"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndromes lymphoprolifératifs",
+      "definition": "Groupe de maladies caractérisées par une prolifération excessive des lymphocytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "néoplasies lymphoprolifératives"
+      ],
+      "related_terms": [
+        "lymphome",
+        "leucémie lymphoïde chronique",
+        "maladie de Hodgkin"
+      ],
+      "description": "Ces syndromes incluent divers types de lymphomes et de leucémies lymphoïdes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des maladies lymphoïdes.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndromes lymphoprolifératifs",
+        "néoplasies lymphoprolifératives"
+      ],
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "source_file": "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Hématologie/Splénomégalies/Courses/64 Splénomégalies 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md"
+  ],
+  "total_terms": 26
+}

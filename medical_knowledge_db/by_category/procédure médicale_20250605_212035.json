@@ -1,0 +1,53 @@
+{
+  "category": "procédure médicale",
+  "terms": [
+    {
+      "term": "épuration extra rénale",
+      "definition": "Technique de dialyse utilisée pour éliminer les toxines et l'excès de fluides du corps en cas d'insuffisance rénale.",
+      "category": "procédure médicale",
+      "synonyms": [
+        "dialyse"
+      ],
+      "related_terms": [
+        "hémodialyse",
+        "insuffisance rénale"
+      ],
+      "description": "L'épuration extra rénale peut être nécessaire en cas de déshydratation sévère ou d'intoxication.",
+      "expansion": null,
+      "clinical_significance": "Peut sauver la vie en cas d'insuffisance rénale aiguë ou chronique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épuration extra rénale",
+        "dialyse"
+      ],
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "source_file": "Néphrologie/Troubles de l'Hydratation, Dyskaliémies/Courses/71-1 Les troubles de l’hydratation 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cystoscopie",
+      "definition": "Examen endoscopique de la vessie à l'aide d'un cystoscope.",
+      "category": "procédure médicale",
+      "synonyms": [
+        "endoscopie vésicale"
+      ],
+      "related_terms": [
+        "cystoscope",
+        "endoscopie"
+      ],
+      "description": "Utilisé pour diagnostiquer et traiter des conditions de la vessie.",
+      "expansion": null,
+      "clinical_significance": "Procédure diagnostique importante pour évaluer les pathologies vésicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cystoscopie",
+        "endoscopie vésicale"
+      ],
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 2,
+  "extraction_date": "20250605_212035"
+}

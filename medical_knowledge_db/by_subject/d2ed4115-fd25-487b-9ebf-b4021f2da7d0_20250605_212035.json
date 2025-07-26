@@ -1,0 +1,1985 @@
+{
+  "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+  "terms": [
+    {
+      "term": "acido-basique",
+      "definition": "Équilibre entre les acides et les bases dans le corps, crucial pour l'homéostasie.",
+      "category": "physiologie",
+      "synonyms": [
+        "équilibre acido-basique"
+      ],
+      "related_terms": [
+        "pH",
+        "tampons",
+        "reins",
+        "poumon"
+      ],
+      "description": "L'équilibre acido-basique est maintenu par des systèmes tampons, les poumons et les reins.",
+      "expansion": null,
+      "clinical_significance": "Déséquilibres peuvent causer acidose ou alcalose.",
+      "normal_values": "pH sanguin normal: 7.35-7.45",
+      "image_search_terms": [
+        "équilibre acido-basique",
+        "homéostasie"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Henderson-Hasselbalch",
+      "definition": "Équation utilisée pour déterminer le pH des solutions tampons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pH",
+        "tampons",
+        "acido-basique"
+      ],
+      "description": "Utilisée pour interpréter l'état acido-basique du sang.",
+      "expansion": null,
+      "clinical_significance": "Aide à diagnostiquer les troubles acido-basiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "équation Henderson-Hasselbalch",
+        "pH sanguin"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Stewart",
+      "definition": "Approche moderne pour l'interprétation des troubles acido-basiques basée sur les principes de la physico-chimie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acido-basique",
+        "pH",
+        "tampons"
+      ],
+      "description": "Considère les forces ioniques et les concentrations de gaz dissous.",
+      "expansion": null,
+      "clinical_significance": "Offre une compréhension plus complète des déséquilibres acido-basiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "approche de Stewart",
+        "troubles acido-basiques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bröensted",
+      "definition": "Théorie selon laquelle un acide est un donneur de protons et une base est un accepteur de protons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acide",
+        "base",
+        "pH"
+      ],
+      "description": "Utilisée pour comprendre les réactions acido-basiques en solution aqueuse.",
+      "expansion": null,
+      "clinical_significance": "Fondamentale pour la compréhension des systèmes tampons.",
+      "normal_values": "",
+      "image_search_terms": [
+        "théorie de Bröensted",
+        "acides et bases"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide",
+      "definition": "Substance qui, en solution aqueuse, libère des ions hydrogène (H+).",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "base",
+        "pH",
+        "Bröensted"
+      ],
+      "description": "Les acides peuvent être forts (complètement dissociés) ou faibles (partiellement dissociés).",
+      "expansion": null,
+      "clinical_significance": "Important dans le métabolisme et l'équilibre acido-basique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acide",
+        "ions hydrogène"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "base",
+      "definition": "Substance qui, en solution aqueuse, accepte des ions hydrogène (H+).",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acide",
+        "pH",
+        "Bröensted"
+      ],
+      "description": "Les bases neutralisent les acides en acceptant des protons.",
+      "expansion": null,
+      "clinical_significance": "Important dans le métabolisme et l'équilibre acido-basique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "base",
+        "ions hydrogène"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcalémie",
+      "definition": "État pathologique caractérisé par une diminution de la concentration d'ions hydrogène dans le sang, entraînant une augmentation du pH sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "alcalose",
+        "pH",
+        "acidémie"
+      ],
+      "description": "Peut être causée par des processus physiopathologiques comme les alcaloses.",
+      "expansion": null,
+      "clinical_significance": "Indique un déséquilibre acido-basique vers l'alcalinité.",
+      "normal_values": "pH sanguin > 7.45",
+      "image_search_terms": [
+        "alcalémie",
+        "pH sanguin"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidoses",
+      "definition": "Troubles caractérisés par une accumulation d'acides dans le sang, entraînant une diminution du pH sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidémie",
+        "pH",
+        "alcalose"
+      ],
+      "description": "Peut être d'origine métabolique, respiratoire ou mixte.",
+      "expansion": null,
+      "clinical_significance": "Indique un déséquilibre acido-basique vers l'acidité.",
+      "normal_values": "pH sanguin < 7.35",
+      "image_search_terms": [
+        "acidoses",
+        "pH sanguin"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dyskaliémie",
+      "definition": "Trouble caractérisé par des niveaux anormaux de potassium dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "potassium",
+        "ionogramme",
+        "reins"
+      ],
+      "description": "Peut être une hyperkaliémie (excès de potassium) ou une hypokaliémie (déficit de potassium).",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des troubles cardiaques et neuromusculaires.",
+      "normal_values": "Potassium sanguin normal: 3.5-5.0 mmol/L",
+      "image_search_terms": [
+        "dyskaliémie",
+        "potassium sanguin"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CO2",
+      "definition": "Dioxyde de carbone, un gaz produit par le métabolisme cellulaire et éliminé par les poumons.",
+      "category": "physiologie",
+      "synonyms": [
+        "dioxyde de carbone"
+      ],
+      "related_terms": [
+        "acidité volatile",
+        "poumon",
+        "pH"
+      ],
+      "description": "En présence d'eau et d'anhydrase carbonique, forme de l'acide carbonique.",
+      "expansion": null,
+      "clinical_significance": "Important dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "CO2",
+        "dioxyde de carbone"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidité volatile",
+      "definition": "Acidité due à la production de CO2, qui peut être éliminée par les poumons.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "CO2",
+        "poumon",
+        "pH"
+      ],
+      "description": "Contrairement aux acides fixes, l'acidité volatile peut être rapidement éliminée par la respiration.",
+      "expansion": null,
+      "clinical_significance": "Important dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acidité volatile",
+        "CO2"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide sulfurique",
+      "definition": "Acide fort produit par le métabolisme des protéines soufrées, entièrement dissocié à pH 7.40.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acides fixes",
+        "pH",
+        "reins"
+      ],
+      "description": "Libère deux ions hydrogène par molécule, contribuant à l'acidité du sang.",
+      "expansion": null,
+      "clinical_significance": "Important dans le bilan des acides fixes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acide sulfurique",
+        "acides fixes"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide phosphorique",
+      "definition": "Acide produit par le métabolisme des phosphoprotéines et des phosphoaminolipides, présent sous forme di-sodique et mono-sodique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acides fixes",
+        "pH",
+        "reins"
+      ],
+      "description": "Libère des ions hydrogène en plusieurs étapes de dissociation.",
+      "expansion": null,
+      "clinical_significance": "Important dans le bilan des acides fixes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acide phosphorique",
+        "acides fixes"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Effet Hamburger",
+      "definition": "Phénomène où les ions bicarbonate sortent des globules rouges en échange avec les ions chlorure, facilitant le transport du dioxyde de carbone.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ions bicarbonate",
+        "Ions chlorure"
+      ],
+      "description": "L'effet Hamburger est le phénomène où les ions bicarbonate sortent des globules rouges en échange avec les ions chlorure, facilitant le transport du dioxyde de carbone.",
+      "expansion": null,
+      "clinical_significance": "L'effet Hamburger est crucial pour le transport du dioxyde de carbone dans le sang.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Effet Hamburger"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémoglobine carbaminée",
+      "definition": "Forme de l'hémoglobine où le dioxyde de carbone est fixé, facilitant son transport dans le sang.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hémoglobine",
+        "Dioxyde de carbone"
+      ],
+      "description": "L'hémoglobine carbaminée est une forme de l'hémoglobine où le dioxyde de carbone est fixé, facilitant son transport dans le sang.",
+      "expansion": null,
+      "clinical_significance": "L'hémoglobine carbaminée joue un rôle important dans le transport du dioxyde de carbone.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Hémoglobine carbaminée"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acides aminés anioniques",
+      "definition": "Acides aminés qui peuvent générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ions bicarbonate",
+        "Équilibre acido-basique"
+      ],
+      "description": "Les acides aminés anioniques sont des acides aminés qui peuvent générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": "Les acides aminés anioniques jouent un rôle dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Acides aminés anioniques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glutamate",
+      "definition": "Acide aminé anionique qui peut générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ions bicarbonate",
+        "Équilibre acido-basique"
+      ],
+      "description": "Le glutamate est un acide aminé anionique qui peut générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": "Le glutamate joue un rôle dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Glutamate"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aspartate",
+      "definition": "Acide aminé anionique qui peut générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ions bicarbonate",
+        "Équilibre acido-basique"
+      ],
+      "description": "L'aspartate est un acide aminé anionique qui peut générer des ions bicarbonate, contribuant ainsi à l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": "L'aspartate joue un rôle dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Aspartate"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Protéines enzymatiques",
+      "definition": "Protéines qui catalysent des réactions chimiques dans les cellules. Leur fonction est sensible aux variations de pH.",
+      "category": "physiologie",
+      "synonyms": [
+        "Enzymes"
+      ],
+      "related_terms": [
+        "pH",
+        "Réactions chimiques"
+      ],
+      "description": "Les protéines enzymatiques sont des protéines qui catalysent des réactions chimiques dans les cellules. Leur fonction est sensible aux variations de pH.",
+      "expansion": null,
+      "clinical_significance": "Des variations de pH peuvent affecter la fonction des protéines enzymatiques, perturbant ainsi les réactions chimiques cellulaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Protéines enzymatiques",
+        "Enzymes"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tampons",
+      "definition": "Molécules capables de limiter les variations de pH en remplaçant un acide fort par un acide faible. Ils sont constitués d'un mélange d'acide faible et de base forte ou d'acide fort et de base faible.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pH",
+        "Acide faible",
+        "Base forte"
+      ],
+      "description": "Les tampons sont des molécules capables de limiter les variations de pH en remplaçant un acide fort par un acide faible. Ils sont constitués d'un mélange d'acide faible et de base forte ou d'acide fort et de base faible.",
+      "expansion": null,
+      "clinical_significance": "Les tampons jouent un rôle crucial dans la régulation de l'équilibre acido-basique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Tampons"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pKA",
+      "definition": "Constante de dissociation acide, qui reflète le pH de semi-dissociation d'un acide faible, c'est-à-dire le pH où le tampon est présent en quantité égale sous forme dissociée et non dissociée.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pH",
+        "Acide faible"
+      ],
+      "description": "Le pKA est la constante de dissociation acide, qui reflète le pH de semi-dissociation d'un acide faible, c'est-à-dire le pH où le tampon est présent en quantité égale sous forme dissociée et non dissociée.",
+      "expansion": null,
+      "clinical_significance": "Le pKA est crucial pour déterminer l'efficacité d'un tampon.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pKA"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Équation d'Henderson Hasselbalch",
+      "definition": "Équation utilisée pour calculer le pH d'une solution tamponnée. Elle est donnée par la formule : pH = pKA + log ([A-] / [AH]).",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pH",
+        "pKA",
+        "Tampon"
+      ],
+      "description": "L'équation d'Henderson Hasselbalch est utilisée pour calculer le pH d'une solution tamponnée. Elle est donnée par la formule : pH = pKA + log ([A-] / [AH]).",
+      "expansion": null,
+      "clinical_significance": "L'équation d'Henderson Hasselbalch est essentielle pour comprendre la régulation du pH dans les solutions tamponnées.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Équation d'Henderson Hasselbalch"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système tampon bicarbonate/acide carbonique",
+      "definition": "Système de régulation de l'équilibre acido-basique dans le corps, basé sur l'équilibre chimique entre le bicarbonate et l'acide carbonique.",
+      "category": "physiologie",
+      "synonyms": [
+        "système tampon bicarbonate",
+        "système tampon acide carbonique"
+      ],
+      "related_terms": [
+        "équilibre acido-basique",
+        "tampon bicarbonate"
+      ],
+      "description": "Ce système joue un rôle crucial dans la régulation du pH sanguin en neutralisant les acides et les bases.",
+      "expansion": null,
+      "clinical_significance": "Important pour maintenir l'homéostasie acido-basique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "extracellular buffer system",
+      "definition": "Système tampon qui régule le pH dans le compartiment extracellulaire, principalement par le bicarbonate et le dioxyde de carbone.",
+      "category": "physiologie",
+      "synonyms": [
+        "système tampon extracellulaire"
+      ],
+      "related_terms": [
+        "acidose",
+        "alvéolaire ventilation",
+        "excrétion rénale"
+      ],
+      "description": "Joue un rôle crucial dans la régulation du pH sanguin et est finement régulé par les poumons et les reins.",
+      "expansion": null,
+      "clinical_significance": "Important pour maintenir l'homéostasie acido-basique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidosis",
+      "definition": "État pathologique caractérisé par une acidité excessive du sang et des tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose"
+      ],
+      "related_terms": [
+        "alcalose",
+        "pH",
+        "bicarbonate"
+      ],
+      "description": "Peut être causée par une accumulation d'acides ou une perte de bases.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "non-bicarbonate buffer systems",
+      "definition": "Systèmes tampons autres que le bicarbonate, comme les protéines et les phosphates, qui aident à maintenir l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "systèmes tampons non-bicarbonate"
+      ],
+      "related_terms": [
+        "protéines",
+        "phosphates",
+        "homéostasie acido-basique"
+      ],
+      "description": "Ces systèmes sont incapables de quitter l'organisme pour réguler l'acidité.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation intracellulaire du pH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inorganic phosphate buffer",
+      "definition": "Système tampon basé sur les phosphates inorganiques, qui joue un rôle dans la régulation du pH intracellulaire et dans l'urine tubulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "tampon phosphate inorganique"
+      ],
+      "related_terms": [
+        "pKA",
+        "phosphates",
+        "équilibre acido-basique"
+      ],
+      "description": "Sa deuxième dissociation a un pKA proche du pH intracellulaire, ce qui en fait un tampon efficace.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation du pH intracellulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protein buffers",
+      "definition": "Systèmes tampons basés sur les protéines, qui contiennent des groupes acides capables de neutraliser les acides et les bases.",
+      "category": "physiologie",
+      "synonyms": [
+        "tampons protéiques"
+      ],
+      "related_terms": [
+        "imidazole",
+        "histidines",
+        "amino acids"
+      ],
+      "description": "Ces systèmes ont une concentration élevée dans les cellules et un pKA proche du pH normal.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation intracellulaire du pH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet Haldane",
+      "definition": "Effet par lequel l'oxygénation de l'hémoglobine modifie sa capacité à tamponner les protons.",
+      "category": "physiologie",
+      "synonyms": [
+        "Haldane effect"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "pKA",
+        "transport de CO2"
+      ],
+      "description": "Lors de la désoxygénation, le pKA de l'hémoglobine augmente, ce qui permet de capter plus de protons.",
+      "expansion": null,
+      "clinical_significance": "Important pour le transport du CO2 et la régulation du pH sanguin.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cristaux hydroxyapatite et carbonate de calcium",
+      "definition": "Tampons osseux qui jouent un rôle dans la régulation de l'équilibre acido-basique, particulièrement dans les surcharges acides chroniques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hydroxyapatite crystals",
+        "calcium carbonate"
+      ],
+      "related_terms": [
+        "osseuse déminéralisation",
+        "ostéoporose",
+        "acidose prolongée"
+      ],
+      "description": "Ces tampons sont mobilisables lentement et interviennent peu dans les désordres acido-basiques aigus.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de l'équilibre acido-basique chronique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicarbonate",
+      "definition": "Ion présent dans le sang et les fluides corporels qui joue un rôle clé dans le maintien de l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "HCO₃⁻"
+      ],
+      "related_terms": [
+        "équilibre acido-basique",
+        "tampon",
+        "reins"
+      ],
+      "description": "Le bicarbonate est un tampon important qui aide à neutraliser les acides produits par le métabolisme.",
+      "expansion": null,
+      "clinical_significance": "Les déséquilibres du bicarbonate peuvent entraîner des acidoses ou des alcaloses métaboliques.",
+      "normal_values": "22-26 mEq/L",
+      "image_search_terms": [
+        "bicarbonate",
+        "équilibre acido-basique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PaCO₂",
+      "definition": "Pression partielle de dioxyde de carbone dans le sang artériel, utilisée pour évaluer la ventilation pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle de CO₂"
+      ],
+      "related_terms": [
+        "ventilation",
+        "dioxyde de carbone",
+        "équilibre acido-basique"
+      ],
+      "description": "La PaCO₂ est un indicateur important de la fonction respiratoire et de l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "35-45 mmHg",
+      "image_search_terms": [
+        "PaCO₂",
+        "pression artérielle de CO₂"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "L.C.R",
+      "definition": "Liquide céphalo-rachidien, fluide qui circule dans le système nerveux central et protège le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "liquide cérébrospinal"
+      ],
+      "related_terms": [
+        "système nerveux central",
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": "Le LCR joue un rôle dans la protection mécanique et chimique du cerveau et de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies du LCR peuvent indiquer des infections ou des maladies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LCR",
+        "liquide cérébrospinal"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HCO₃⁻",
+      "definition": "Ion bicarbonate, un tampon important dans le sang et les fluides corporels.",
+      "category": "physiologie",
+      "synonyms": [
+        "bicarbonate"
+      ],
+      "related_terms": [
+        "équilibre acido-basique",
+        "tampon",
+        "reins"
+      ],
+      "description": "Le HCO₃⁻ aide à neutraliser les acides produits par le métabolisme.",
+      "expansion": null,
+      "clinical_significance": "Les déséquilibres du HCO₃⁻ peuvent entraîner des acidoses ou des alcaloses métaboliques.",
+      "normal_values": "22-26 mEq/L",
+      "image_search_terms": [
+        "HCO₃⁻",
+        "bicarbonate"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Na⁺/K⁺ ATPase",
+      "definition": "Enzyme de transport qui utilise l'énergie de l'ATP pour transporter les ions sodium et potassium à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe sodium-potassium"
+      ],
+      "related_terms": [
+        "sodium",
+        "potassium",
+        "ATP"
+      ],
+      "description": "La Na⁺/K⁺ ATPase est cruciale pour le maintien des gradients électrochimiques à travers les membranes cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements de cette enzyme peuvent entraîner des troubles électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Na⁺/K⁺ ATPase",
+        "pompe sodium-potassium"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NHE",
+      "definition": "Antiport sodium-proton, une protéine de transport qui échange les ions sodium contre les ions hydrogène à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "sodium-hydrogen exchanger"
+      ],
+      "related_terms": [
+        "sodium",
+        "hydrogène",
+        "transport membranaire"
+      ],
+      "description": "Le NHE joue un rôle dans la régulation du pH intracellulaire et du volume cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Les inhibiteurs du NHE sont utilisés dans le traitement de certaines maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NHE",
+        "sodium-hydrogen exchanger"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidité titrable",
+      "definition": "Quantité de substances acides éliminées dans l'urine, mesurée par titrage avec une base forte.",
+      "category": "physiologie",
+      "synonyms": [
+        "acidité titrable",
+        "acidité titrable urinaire"
+      ],
+      "related_terms": [
+        "pH urinaire",
+        "phosphate monosodique"
+      ],
+      "description": "L'acidité titrable est une mesure de la capacité tampon de l'urine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidité titrable",
+        "titrage urinaire"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glutaminase mitochondriale",
+      "definition": "Enzyme qui catalyse la dégradation de la glutamine en ammoniac et acide glutamique dans les mitochondries.",
+      "category": "physiologie",
+      "synonyms": [
+        "glutaminase"
+      ],
+      "related_terms": [
+        "glutamine",
+        "ammoniac",
+        "acide glutamique"
+      ],
+      "description": "La glutaminase mitochondriale est impliquée dans la production d'ammoniac dans les cellules tubulaires rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glutaminase mitochondriale",
+        "enzyme rénale"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glutaminase cytoplasmique",
+      "definition": "Enzyme qui catalyse la dégradation de la glutamine en ammoniac et acide glutamique dans le cytoplasme.",
+      "category": "physiologie",
+      "synonyms": [
+        "glutaminase"
+      ],
+      "related_terms": [
+        "glutamine",
+        "ammoniac",
+        "acide glutamique"
+      ],
+      "description": "La glutaminase cytoplasmique est impliquée dans la production d'ammoniac dans les cellules tubulaires rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "glutaminase cytoplasmique",
+        "enzyme rénale"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "H⁺/K⁺ ATPase",
+      "definition": "Enzyme qui échange des ions hydrogène (H⁺) contre des ions potassium (K⁺) à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "H⁺/K⁺ ATPase"
+      ],
+      "related_terms": [
+        "pompe à protons",
+        "échange ionique"
+      ],
+      "description": "La H⁺/K⁺ ATPase est impliquée dans la régulation de l'équilibre acido-basique et du potassium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "H⁺/K⁺ ATPase",
+        "pompe à protons"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiport HCO₃⁻/Cl⁻",
+      "definition": "Mécanisme de transport actif qui échange des ions bicarbonate (HCO₃⁻) contre des ions chlorure (Cl⁻) à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "antiport bicarbonate/chlorure"
+      ],
+      "related_terms": [
+        "transport actif",
+        "échange ionique"
+      ],
+      "description": "L'antiport HCO₃⁻/Cl⁻ est impliqué dans la régulation de l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "antiport HCO₃⁻/Cl⁻",
+        "transport actif"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicarbonatémie",
+      "definition": "Concentration de bicarbonate dans le sang, un indicateur important de l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "concentration de bicarbonate",
+        "niveau de bicarbonate"
+      ],
+      "related_terms": [
+        "pH sanguin",
+        "équilibre acido-basique"
+      ],
+      "description": "La bicarbonatémie est utilisée pour évaluer les désordres acido-basiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "22-26 mEq/L",
+      "image_search_terms": [
+        "bicarbonatémie",
+        "équilibre acido-basique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation",
+      "definition": "Processus physiologique par lequel l'air entre et sort des poumons, permettant l'échange de gaz respiratoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "respiration"
+      ],
+      "related_terms": [
+        "échange gazeux",
+        "hypoxie"
+      ],
+      "description": "La ventilation est essentielle pour maintenir l'équilibre acido-basique en régulant les niveaux de dioxyde de carbone (CO2) dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Une ventilation inadéquate peut entraîner des troubles acido-basiques tels que l'acidose respiratoire ou l'alcalose respiratoire.",
+      "normal_values": "Volume courant: 500 ml, Fréquence respiratoire: 12-16 respirations par minute",
+      "image_search_terms": [
+        "ventilation pulmonaire",
+        "échange gazeux"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypobasémie",
+      "definition": "État clinique caractérisé par une diminution de la concentration de bicarbonates (HCO3-) dans le sang en dessous de 22 mmol/L.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypobicarbonatémie"
+      ],
+      "related_terms": [
+        "hyperbasémie",
+        "équilibre acido-basique"
+      ],
+      "description": "L'hypobasémie est souvent associée à une acidose métabolique et peut entraîner des symptômes tels que la fatigue et la tachypnée.",
+      "expansion": null,
+      "clinical_significance": "Une hypobasémie sévère peut entraîner une acidose métabolique sévère et des troubles électrolytiques.",
+      "normal_values": "HCO3-: 22-26 mmol/L",
+      "image_search_terms": [
+        "hypobasémie",
+        "acidose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperbasémie",
+      "definition": "État clinique caractérisé par une augmentation de la concentration de bicarbonates (HCO3-) dans le sang au-dessus de 26 mmol/L.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperbicarbonatémie"
+      ],
+      "related_terms": [
+        "hypobasémie",
+        "équilibre acido-basique"
+      ],
+      "description": "L'hyperbasémie est souvent associée à une alcalose métabolique et peut entraîner des symptômes tels que des crampes musculaires et des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Une hyperbasémie sévère peut entraîner une alcalose métabolique sévère et des troubles électrolytiques.",
+      "normal_values": "HCO3-: 22-26 mmol/L",
+      "image_search_terms": [
+        "hyperbasémie",
+        "alcalose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "physiopathologique",
+      "definition": "Relatif aux mécanismes par lesquels une maladie ou un trouble affecte les fonctions normales de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "pathophysiologique"
+      ],
+      "related_terms": [
+        "pathogénie",
+        "étiologie"
+      ],
+      "description": "La physiopathologie étudie les altérations des fonctions physiologiques causées par des maladies.",
+      "expansion": null,
+      "clinical_significance": "Comprendre la physiopathologie est crucial pour le diagnostic et le traitement des maladies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "physiopathologie",
+        "mécanismes de maladie"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métabolique",
+      "definition": "Relatif aux processus chimiques et physiques nécessaires au maintien de la vie, y compris la production d'énergie et l'élimination des déchets.",
+      "category": "physiologie",
+      "synonyms": [
+        "métabolisme"
+      ],
+      "related_terms": [
+        "anabolisme",
+        "catabolisme"
+      ],
+      "description": "Les troubles métaboliques peuvent affecter l'équilibre acido-basique et les fonctions cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Les troubles métaboliques peuvent entraîner des maladies telles que le diabète et les maladies hépatiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "métabolique",
+        "métabolisme"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "respiratoire",
+      "definition": "Relatif aux processus de respiration, y compris l'échange de gaz entre l'air et le sang dans les poumons.",
+      "category": "physiologie",
+      "synonyms": [
+        "respiration"
+      ],
+      "related_terms": [
+        "ventilation",
+        "échange gazeux"
+      ],
+      "description": "Les troubles respiratoires peuvent affecter l'équilibre acido-basique en modifiant les niveaux de dioxyde de carbone (CO2).",
+      "expansion": null,
+      "clinical_significance": "Les troubles respiratoires peuvent entraîner des maladies telles que l'asthme et la bronchopneumopathie chronique obstructive (BPCO).",
+      "normal_values": "Fréquence respiratoire: 12-16 respirations par minute",
+      "image_search_terms": [
+        "respiratoire",
+        "échange gazeux"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide indosé",
+      "definition": "Acide qui, lorsqu'il est métabolisé, produit des ions hydrogène (H+) sans produire de bicarbonates (HCO3-).",
+      "category": "physiologie",
+      "synonyms": [
+        "acide non volatil"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "trou anionique"
+      ],
+      "description": "L'accumulation d'acides indosés peut entraîner une acidose métabolique.",
+      "expansion": null,
+      "clinical_significance": "Les acides indosés peuvent être produits par des processus métaboliques anormaux ou une insuffisance rénale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "acide indosé",
+        "acidose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anion indosé",
+      "definition": "Anion non mesuré dans le calcul du trou anionique, souvent associé à l'acidose métabolique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "trou anionique",
+        "acidose métabolique"
+      ],
+      "description": "Les anions indosés sont des anions non mesurés qui contribuent à l'acidose métabolique.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic des acidoses métaboliques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "anion indosé",
+        "acidose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance rénale chronique avancée",
+      "definition": "Déclin progressif et irréversible de la fonction rénale, souvent associé à une accumulation de déchets métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRC"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "hyperphosphatémie"
+      ],
+      "description": "L'insuffisance rénale chronique avancée est une cause de défaut d'élimination des H+.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic et la gestion des acidoses métaboliques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance rénale chronique",
+        "IRC"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TAP",
+      "definition": "Trou anionique plasmatique, mesure de la différence entre les cations et les anions mesurés dans le plasma.",
+      "category": "physiologie",
+      "synonyms": [
+        "trou anionique"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "hyperlactatémie"
+      ],
+      "description": "Le TAP est utilisé pour évaluer les acidoses métaboliques.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic des acidoses métaboliques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "TAP",
+        "trou anionique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cétonémie",
+      "definition": "Présence de corps cétoniques dans le sang, souvent observée dans la céto-acidose diabétique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "corps cétoniques",
+        "céto-acidose diabétique"
+      ],
+      "description": "La cétonémie est un signe de céto-acidose diabétique.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic de la céto-acidose diabétique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cétonémie",
+        "céto-acidose diabétique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperphosphatémie",
+      "definition": "Élévation du taux de phosphate dans le sang, souvent observée dans l'insuffisance rénale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance rénale",
+        "acidose métabolique"
+      ],
+      "description": "L'hyperphosphatémie est un signe d'insuffisance rénale.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic de l'insuffisance rénale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hyperphosphatémie",
+        "insuffisance rénale"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trou anionique urinaire (TAU)",
+      "definition": "Mesure de la différence entre les cations et les anions mesurés dans l'urine, utilisée pour évaluer les acidoses métaboliques.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidose métabolique",
+        "bicarbonate"
+      ],
+      "description": "Le TAU aide à déterminer l'origine digestive ou rénale de l'acidose métabolique.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic des acidoses métaboliques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "trou anionique urinaire",
+        "acidose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose tubulaire proximale",
+      "definition": "Type d'acidose métabolique due à un défaut de réabsorption des bicarbonates par le tubule proximal.",
+      "category": "pathologie",
+      "synonyms": [
+        "ATP"
+      ],
+      "related_terms": [
+        "bicarbonates",
+        "pH urinaire"
+      ],
+      "description": "L'acidose tubulaire proximale est caractérisée par une diminution de la capacité de réabsorption des bicarbonates.",
+      "expansion": "",
+      "clinical_significance": "Important dans le diagnostic des acidoses métaboliques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acidose tubulaire proximale",
+        "ATP"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "H+/ATPase",
+      "definition": "Enzyme qui catalyse la décomposition de l'ATP pour fournir l'énergie nécessaire au transport actif des ions hydrogène (H+) à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe à protons"
+      ],
+      "related_terms": [
+        "échangeur Cl-/HCO3",
+        "cellules intercalaires"
+      ],
+      "description": "La H+/ATPase joue un rôle crucial dans la régulation de l'équilibre acido-basique dans les reins.",
+      "expansion": null,
+      "clinical_significance": "Une dysfonction de la H+/ATPase peut entraîner des troubles acido-basiques comme l'acidose tubulaire distale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "H+/ATPase",
+        "pompe à protons"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Cl-/HCO3",
+      "definition": "Échangeur ionique qui permet l'échange de chlorure (Cl-) contre le bicarbonate (HCO3-) à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "échangeur chlorure-bicarbonate"
+      ],
+      "related_terms": [
+        "H+/ATPase",
+        "cellules intercalaires"
+      ],
+      "description": "L'échangeur Cl-/HCO3 est essentiel pour la régulation de l'équilibre acido-basique dans les reins.",
+      "expansion": null,
+      "clinical_significance": "Une dysfonction de cet échangeur peut entraîner des troubles acido-basiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échangeur Cl-/HCO3",
+        "échangeur chlorure-bicarbonate"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "hypoventilation alvéolaire",
+      "definition": "État pathologique caractérisé par une ventilation insuffisante des alvéoles pulmonaires, entraînant une rétention de dioxyde de carbone.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoventilation"
+      ],
+      "related_terms": [
+        "PaCO2",
+        "hypercapnie"
+      ],
+      "description": "L'hypoventilation alvéolaire est une cause majeure d'acidose respiratoire.",
+      "expansion": null,
+      "clinical_significance": "L'hypoventilation alvéolaire peut entraîner des complications respiratoires et neurologiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoventilation alvéolaire",
+        "hypoventilation"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Pickwick",
+      "definition": "Syndrome caractérisé par une obésité sévère, une hypoventilation alvéolaire chronique, une hypercapnie et une hypoxémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'obésité-hypoventilation"
+      ],
+      "related_terms": [
+        "obésité",
+        "hypoventilation alvéolaire"
+      ],
+      "description": "Le syndrome de Pickwick est souvent associé à une acidose respiratoire chronique.",
+      "expansion": null,
+      "clinical_significance": "Le syndrome de Pickwick peut entraîner des complications respiratoires et cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Pickwick",
+        "syndrome d'obésité-hypoventilation"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Guillain-Barré",
+      "definition": "Maladie auto-immune caractérisée par une inflammation des nerfs périphériques, entraînant une faiblesse musculaire et une paralysie.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyradiculonévrite aiguë"
+      ],
+      "related_terms": [
+        "myasthénie",
+        "polyomyélite"
+      ],
+      "description": "Le syndrome de Guillain-Barré peut entraîner une hypoventilation alvéolaire et une acidose respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Le syndrome de Guillain-Barré est une urgence neurologique nécessitant une prise en charge rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Guillain-Barré",
+        "polyradiculonévrite aiguë"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicarbonates plasmatiques",
+      "definition": "Concentration de bicarbonate dans le plasma sanguin, utilisée pour évaluer l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "HCO3-"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "alcalose métabolique"
+      ],
+      "description": "Une augmentation des bicarbonates plasmatiques est associée à une alcalose métabolique.",
+      "expansion": null,
+      "clinical_significance": "Les bicarbonates plasmatiques sont un indicateur clé de l'équilibre acido-basique.",
+      "normal_values": "Bicarbonates plasmatiques normaux: 22-26 mmol/L",
+      "image_search_terms": [
+        "bicarbonates plasmatiques",
+        "HCO3-"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcaloses métaboliques",
+      "definition": "Troubles caractérisés par une augmentation du pH sanguin due à une élévation des bicarbonates ou une perte de protons.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose métabolique"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "alcalose respiratoire"
+      ],
+      "description": "L'alcalose métabolique peut être causée par des pertes de chlore, des surcharges en bicarbonates, ou des troubles rénaux.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des troubles neurologiques, cardiovasculaires et respiratoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "alcalose métabolique",
+        "troubles acido-basiques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calcium ionisé",
+      "definition": "Forme libre et active du calcium dans le sang, essentielle pour de nombreuses fonctions physiologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "calcium libre"
+      ],
+      "related_terms": [
+        "hypocalcémie",
+        "hypercalcémie"
+      ],
+      "description": "Une baisse du calcium ionisé peut entraîner des symptômes neurologiques et musculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "1.12-1.32 mmol/L",
+      "image_search_terms": [
+        "calcium ionisé",
+        "hypocalcémie"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcaloses hypochlorémiques",
+      "definition": "Type d'alcalose métabolique caractérisé par une déplétion en chlore.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose chlorosensible"
+      ],
+      "related_terms": [
+        "alcalose normochlorémique",
+        "hypochlorémie"
+      ],
+      "description": "Causée par des pertes de chlore, souvent d'origine digestive ou rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alcalose hypochlorémique",
+        "troubles électrolytiques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcaloses normochlorémiques",
+      "definition": "Type d'alcalose métabolique où le pool chloré est conservé.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose chlororésistante"
+      ],
+      "related_terms": [
+        "alcalose hypochlorémique",
+        "hyperaldostéronisme"
+      ],
+      "description": "Causée par une rétention rénale de sodium et une altération de la réabsorption du chlore.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alcalose normochlorémique",
+        "troubles rénaux"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidurie paradoxale",
+      "definition": "Excrétion urinaire d'acide malgré une alcalose métabolique, due à une réabsorption tubulaire accrue de bicarbonates.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "alcalose métabolique",
+        "réabsorption tubulaire"
+      ],
+      "description": "Caractéristique de la phase d'entretien de l'alcalose métabolique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidurie paradoxale",
+        "alcalose métabolique"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorurèse",
+      "definition": "Excrétion urinaire de chlore.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "chlorémie",
+        "alcalose métabolique"
+      ],
+      "description": "La chlorurèse est un indicateur important dans le diagnostic des troubles acido-basiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "chlorurèse",
+        "troubles électrolytiques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capnie",
+      "definition": "Concentration de dioxyde de carbone dans le sang artériel.",
+      "category": "physiologie",
+      "synonyms": [
+        "PaCO2"
+      ],
+      "related_terms": [
+        "hypercapnie",
+        "hypocapnie"
+      ],
+      "description": "Une capnie basse est caractéristique de l'alcalose respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "35-45 mmHg",
+      "image_search_terms": [
+        "capnie",
+        "PaCO2"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signe de Chvosteck",
+      "definition": "Contraction des muscles faciaux en réponse à la percussion du nerf facial, indicatif d'une hypocalcémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "signe de Chvostek"
+      ],
+      "related_terms": [
+        "hypocalcémie",
+        "tétanie"
+      ],
+      "description": "Utilisé pour diagnostiquer des troubles du métabolisme du calcium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "signe de Chvosteck",
+        "hypocalcémie"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocapnie aiguë",
+      "definition": "État de diminution rapide de la pression partielle de dioxyde de carbone (PaCO2) dans le sang, souvent causé par une hyperventilation.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypocapnie"
+      ],
+      "related_terms": [
+        "hyperventilation",
+        "PaCO2"
+      ],
+      "description": "L'hypocapnie aiguë peut entraîner une baisse du débit cardiaque et de la pression artérielle systémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcaloses respiratoires chroniques",
+      "definition": "État d'augmentation prolongée du pH sanguin due à une diminution chronique de la PaCO2, souvent asymptomatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose respiratoire chronique"
+      ],
+      "related_terms": [
+        "PaCO2",
+        "hyperventilation chronique"
+      ],
+      "description": "Les alcaloses respiratoires chroniques sont souvent asymptomatiques et les perturbations initiales rentrent progressivement dans l'ordre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alcaloses respiratoires",
+      "definition": "État d'augmentation du pH sanguin due à une diminution de la PaCO2, souvent causé par une hyperventilation.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcalose respiratoire"
+      ],
+      "related_terms": [
+        "PaCO2",
+        "hyperventilation"
+      ],
+      "description": "Les alcaloses respiratoires peuvent être causées par des pathologies pulmonaires ou centrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperventilation alvéolaire d'origine centrale",
+      "definition": "Augmentation de la ventilation alvéolaire due à des causes centrales telles que l'anxiété, la douleur, ou des atteintes neurologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperventilation centrale"
+      ],
+      "related_terms": [
+        "anxiété",
+        "douleur",
+        "atteintes neurologiques"
+      ],
+      "description": "L'hyperventilation alvéolaire d'origine centrale peut être causée par des facteurs psychologiques ou neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "salicylés",
+      "definition": "Médicaments dérivés de l'acide salicylique, souvent utilisés comme anti-inflammatoires et antipyrétiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "aspirine"
+      ],
+      "related_terms": [
+        "acide salicylique",
+        "anti-inflammatoires"
+      ],
+      "description": "Les salicylés peuvent causer une hyperventilation en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aminophylline",
+      "definition": "Médicament bronchodilatateur utilisé pour traiter l'asthme et la bronchopneumopathie chronique obstructive (BPCO).",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "théophylline",
+        "bronchodilatateur"
+      ],
+      "description": "L'aminophylline peut causer une hyperventilation en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CO",
+      "definition": "Monoxyde de carbone, un gaz inodore et incolore qui se lie à l'hémoglobine, réduisant la capacité du sang à transporter l'oxygène.",
+      "category": "microbiologie",
+      "synonyms": [
+        "monoxyde de carbone"
+      ],
+      "related_terms": [
+        "intoxication au CO",
+        "carboxyhémoglobine"
+      ],
+      "description": "L'intoxication au CO peut entraîner une hypoxie tissulaire et une hyperventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anémie intense",
+      "definition": "Réduction sévère du nombre de globules rouges ou de la concentration d'hémoglobine dans le sang, entraînant une diminution de la capacité de transport de l'oxygène.",
+      "category": "pathologie",
+      "synonyms": [
+        "anémie sévère"
+      ],
+      "related_terms": [
+        "globules rouges",
+        "hémoglobine"
+      ],
+      "description": "L'anémie intense peut entraîner une hypoxie tissulaire et une hyperventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation mécanique mal conduite",
+      "definition": "Utilisation inappropriée d'un ventilateur mécanique pour assister la respiration, pouvant entraîner des complications respiratoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ventilation mécanique",
+        "ventilateur"
+      ],
+      "description": "Une ventilation mécanique mal conduite peut entraîner une hyperventilation et une alcalose respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidobasique",
+      "definition": "Relatif à l'équilibre entre les acides et les bases dans le corps, essentiel pour le maintien de la fonction cellulaire normale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "équilibre acido-basique",
+        "pH sanguin"
+      ],
+      "description": "L'équilibre acidobasique est régulé par les poumons et les reins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anions indosés",
+      "definition": "Anions présents dans le plasma qui ne sont pas mesurés de manière courante, incluant les protéines, les phosphates et les sulfates.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "protéines",
+        "phosphates",
+        "sulfates"
+      ],
+      "description": "Les anions indosés sont calculés dans le cadre du trou anionique plasmatique (TAP).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cations indosés",
+      "definition": "Cations présents dans le plasma qui ne sont pas mesurés de manière courante, incluant le calcium et le magnésium.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "calcium",
+        "magnésium"
+      ],
+      "description": "Les cations indosés sont calculés dans le cadre du trou anionique plasmatique (TAP).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CO2T",
+      "definition": "Concentration totale de dioxyde de carbone dans le sang, incluant le CO2 dissous, les bicarbonates et les carbamino-composés.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bicarbonates",
+        "carbamino-composés"
+      ],
+      "description": "Le CO2T est mesuré pour évaluer l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TAU",
+      "definition": "Trou anionique urinaire, une mesure utilisée pour évaluer l'équilibre acido-basique en calculant la différence entre les cations et les anions mesurés dans l'urine.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anions indosés",
+        "cations indosés"
+      ],
+      "description": "Le TAU est utilisé pour diagnostiquer les acidoses métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trou anionique",
+      "definition": "Mesure utilisée pour évaluer l'équilibre acido-basique en calculant la différence entre les cations et les anions mesurés dans le plasma.",
+      "category": "physiologie",
+      "synonyms": [
+        "TAP"
+      ],
+      "related_terms": [
+        "anions indosés",
+        "cations indosés"
+      ],
+      "description": "Le trou anionique est utilisé pour diagnostiquer les acidoses métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intoxication au méthanol",
+      "definition": "Empoisonnement causé par l'ingestion de méthanol, un alcool toxique, entraînant une acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méthanol",
+        "acidose métabolique"
+      ],
+      "description": "L'intoxication au méthanol est responsable d'une acidose métabolique à trou anionique normal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diabète insulinodépendant",
+      "definition": "Forme de diabète sucré nécessitant l'administration d'insuline pour réguler la glycémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète de type 1"
+      ],
+      "related_terms": [
+        "insuline",
+        "glycémie"
+      ],
+      "description": "Le diabète insulinodépendant est une maladie auto-immune où les cellules bêta du pancréas sont détruites, entraînant une insuffisance d'insuline.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion rigoureuse de la glycémie pour éviter les complications aiguës et chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "diabète de type 1",
+        "cellules bêta pancréatiques"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polydipsie",
+      "definition": "Sensation de soif excessive conduisant à une consommation accrue de liquides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polyurie",
+        "déshydratation"
+      ],
+      "description": "La polydipsie peut être un symptôme de diverses conditions médicales, y compris le diabète.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une déshydratation ou un déséquilibre électrolytique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polydipsie",
+        "déshydratation"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "normoxémie",
+      "definition": "Niveau normal de saturation en oxygène dans le sang artériel.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PaO2",
+        "saturation en oxygène"
+      ],
+      "description": "La normoxémie indique une oxygénation adéquate du sang.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer la fonction respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "normoxémie",
+        "oxygénation"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "saturation normale",
+      "definition": "Niveau normal de saturation en oxygène dans le sang, généralement supérieur à 95%.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "SaO2",
+        "oxygénation"
+      ],
+      "description": "La saturation normale indique une oxygénation adéquate du sang.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer la fonction respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "saturation normale",
+        "oxygénation"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cétoacidose diabétique",
+      "definition": "Complication aiguë du diabète caractérisée par une acidose métabolique due à l'accumulation de cétones.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cétones",
+        "diabète"
+      ],
+      "description": "La cétoacidose diabétique est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner un coma et nécessite une hospitalisation immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cétoacidose diabétique",
+        "cétones"
+      ],
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "source_file": "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Néphrologie/Troubles Acido-Basiques/Courses/68 Troubles acido-basiques 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM.md"
+  ],
+  "total_terms": 91
+}

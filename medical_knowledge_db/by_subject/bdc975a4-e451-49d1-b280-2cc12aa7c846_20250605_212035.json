@@ -1,0 +1,2728 @@
+{
+  "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+  "terms": [
+    {
+      "term": "électrocardiographiques",
+      "definition": "Relatif à l'électrocardiographie, l'enregistrement et l'interprétation des signaux électriques produits par le cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "ECG"
+      ],
+      "related_terms": [
+        "électrocardiogramme"
+      ],
+      "description": "Les signes électrocardiographiques sont utilisés pour diagnostiquer des conditions cardiaques spécifiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tissu nodal",
+      "definition": "Tissu spécialisé du cœur qui génère et conduit les impulsions électriques nécessaires à la contraction cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "tissu de conduction"
+      ],
+      "related_terms": [
+        "nœud sino-atrial",
+        "nœud auriculo-ventriculaire"
+      ],
+      "description": "Le tissu nodal est crucial pour le rythme cardiaque et la coordination des contractions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocarde",
+      "definition": "Muscle cardiaque responsable de la contraction et de la relaxation du cœur, permettant la circulation sanguine.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscle cardiaque"
+      ],
+      "related_terms": [
+        "endocarde",
+        "péricarde"
+      ],
+      "description": "Le myocarde est essentiel pour le fonctionnement mécanique du cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anoxie",
+      "definition": "Absence totale d'oxygène dans les tissus, pouvant entraîner des dommages cellulaires et la mort tissulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoxie sévère"
+      ],
+      "related_terms": [
+        "ischémie",
+        "hypoxémie"
+      ],
+      "description": "L'anoxie est une condition critique qui peut survenir lors d'un arrêt circulatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ERC",
+      "definition": "European Resuscitation Council, une organisation qui établit des recommandations pour la réanimation cardiorespiratoire en Europe.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "AHA"
+      ],
+      "description": "L'ERC fournit des lignes directrices pour la prise en charge des arrêts cardiaques.",
+      "expansion": "European Resuscitation Council",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AHA",
+      "definition": "American Heart Association, une organisation qui établit des recommandations pour la réanimation cardiorespiratoire aux États-Unis.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "ERC"
+      ],
+      "description": "L'AHA fournit des lignes directrices pour la prise en charge des arrêts cardiaques.",
+      "expansion": "American Heart Association",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "potentiel d'action",
+      "definition": "Changement rapide et transitoire du potentiel électrique à travers la membrane cellulaire, essentiel pour la transmission des signaux nerveux et musculaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "PA"
+      ],
+      "related_terms": [
+        "dépolarisation",
+        "repolarisation"
+      ],
+      "description": "Le potentiel d'action est crucial pour la contraction cardiaque et la conduction nerveuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nœuds sino-atrial",
+      "definition": "Structure spécialisée dans le cœur qui génère les impulsions électriques responsables du rythme cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "nœud sinusal"
+      ],
+      "related_terms": [
+        "nœud auriculo-ventriculaire"
+      ],
+      "description": "Le nœud sino-atrial est le pacemaker naturel du cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nœuds auriculo-ventriculaire",
+      "definition": "Structure spécialisée dans le cœur qui conduit les impulsions électriques du nœud sino-atrial aux ventricules.",
+      "category": "anatomie",
+      "synonyms": [
+        "nœud AV"
+      ],
+      "related_terms": [
+        "nœud sino-atrial"
+      ],
+      "description": "Le nœud auriculo-ventriculaire est crucial pour la coordination des contractions cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Na/K ATPase",
+      "definition": "Enzyme transmembranaire qui maintient les gradients de concentration de sodium et de potassium à travers la membrane cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe sodium-potassium"
+      ],
+      "related_terms": [
+        "transport actif"
+      ],
+      "description": "La Na/K ATPase est essentielle pour le potentiel de repos des cellules.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canaux sodiques rapides voltage dépendants",
+      "definition": "Canaux ioniques qui s'ouvrent rapidement en réponse à des changements de potentiel membranaire, permettant l'entrée de sodium dans la cellule.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux Na+ rapides"
+      ],
+      "related_terms": [
+        "dépolarisation"
+      ],
+      "description": "Ces canaux sont cruciaux pour la phase initiale de la dépolarisation dans les cellules excitables.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canaux calciques lents voltage-dépendants",
+      "definition": "Canaux ioniques qui s'ouvrent plus lentement en réponse à des changements de potentiel membranaire, permettant l'entrée de calcium dans la cellule.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux Ca2+ lents"
+      ],
+      "related_terms": [
+        "plateau de dépolarisation"
+      ],
+      "description": "Ces canaux sont importants pour le maintien de la dépolarisation dans les cellules cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canaux Na+ f (If: Funny)",
+      "definition": "Canaux ioniques qui permettent un courant dépolarisant par entrée de sodium et sortie de potassium, contribuant à la dépolarisation diastolique dans les cellules nodales.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux If"
+      ],
+      "related_terms": [
+        "dépolarisation diastolique"
+      ],
+      "description": "Ces canaux jouent un rôle clé dans la génération du potentiel pacemaker.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canaux Ca2+ de type T (transitoire)",
+      "definition": "Canaux ioniques qui permettent une entrée transitoire de calcium dans la cellule, contribuant à la dépolarisation diastolique dans les cellules nodales.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux Ca2+ T"
+      ],
+      "related_terms": [
+        "dépolarisation diastolique"
+      ],
+      "description": "Ces canaux sont importants pour la génération du potentiel pacemaker.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "potentiel pacemaker",
+      "definition": "Potentiel électrique généré par les cellules nodales du cœur, responsable de l'initiation des battements cardiaques.",
+      "category": "physiologie",
+      "synonyms": [
+        "potentiel de pacemaker"
+      ],
+      "related_terms": [
+        "nœud sino-atrial",
+        "nœud auriculo-ventriculaire"
+      ],
+      "description": "Le potentiel pacemaker est crucial pour le rythme cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "faisceau de His",
+      "definition": "Faisceau de fibres conductrices dans le cœur qui transmet les impulsions électriques du nœud auriculo-ventriculaire aux ventricules.",
+      "category": "anatomie",
+      "synonyms": [
+        "faisceau atrioventriculaire"
+      ],
+      "related_terms": [
+        "fibres de Purkinje"
+      ],
+      "description": "Le faisceau de His est essentiel pour la conduction des impulsions électriques dans le cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibres de Purkinje",
+      "definition": "Fibres conductrices spécialisées qui distribuent les impulsions électriques aux ventricules, permettant une contraction coordonnée.",
+      "category": "anatomie",
+      "synonyms": [
+        "réseau de Purkinje"
+      ],
+      "related_terms": [
+        "faisceau de His"
+      ],
+      "description": "Les fibres de Purkinje sont cruciales pour la synchronisation des contractions ventriculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sodiques",
+      "definition": "Relatif au sodium, un élément chimique essentiel pour la génération et la propagation des potentiels d'action dans les cellules excitable.",
+      "category": "physiologie",
+      "synonyms": [
+        "sodium"
+      ],
+      "related_terms": [
+        "canaux sodiques",
+        "dépolarisation"
+      ],
+      "description": "Les canaux sodiques jouent un rôle clé dans la phase initiale de la dépolarisation des cellules cardiaques et nerveuses.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements des canaux sodiques peuvent provoquer des arythmies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calciques",
+      "definition": "Relatif au calcium, un élément chimique crucial pour la contraction musculaire et la transmission des signaux électriques dans les cellules.",
+      "category": "physiologie",
+      "synonyms": [
+        "calcium"
+      ],
+      "related_terms": [
+        "canaux calciques",
+        "contraction musculaire"
+      ],
+      "description": "Les canaux calciques sont essentiels pour la phase de plateau du potentiel d'action dans les cellules cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des canaux calciques peuvent entraîner des troubles de la contraction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périodes réfractaires",
+      "definition": "Périodes pendant lesquelles une cellule excitable ne peut pas être stimulée pour produire un nouveau potentiel d'action.",
+      "category": "physiologie",
+      "synonyms": [
+        "période réfractaire"
+      ],
+      "related_terms": [
+        "période réfractaire absolue",
+        "période réfractaire relative"
+      ],
+      "description": "Les périodes réfractaires sont cruciales pour prévenir la tétanie et permettre la repolarisation complète des cellules.",
+      "expansion": null,
+      "clinical_significance": "Les altérations des périodes réfractaires peuvent entraîner des arythmies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pacemaker",
+      "definition": "Cellules spécialisées dans le cœur qui génèrent des impulsions électriques rythmiques pour contrôler la fréquence cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "cellules pacemaker"
+      ],
+      "related_terms": [
+        "nœud sinusal",
+        "rythme cardiaque"
+      ],
+      "description": "Les cellules pacemaker du nœud sinusal initient les battements cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements des cellules pacemaker peuvent entraîner des arythmies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AV",
+      "definition": "Nœud atrioventriculaire, une structure du cœur qui ralentit la conduction des impulsions électriques entre les oreillettes et les ventricules.",
+      "category": "anatomie",
+      "synonyms": [
+        "nœud atrioventriculaire"
+      ],
+      "related_terms": [
+        "nœud sinusal",
+        "faisceau de His"
+      ],
+      "description": "Le nœud AV joue un rôle crucial dans la coordination des contractions auriculaires et ventriculaires.",
+      "expansion": null,
+      "clinical_significance": "Les blocs au niveau du nœud AV peuvent entraîner des arythmies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nodo-hisienne",
+      "definition": "Zone de transition entre le nœud atrioventriculaire et le faisceau de His, impliquée dans la conduction des impulsions électriques.",
+      "category": "anatomie",
+      "synonyms": [
+        "zone nodo-hisienne"
+      ],
+      "related_terms": [
+        "nœud AV",
+        "faisceau de His"
+      ],
+      "description": "La zone nodo-hisienne est essentielle pour la propagation des impulsions électriques vers les ventricules.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies dans cette zone peuvent entraîner des troubles de la conduction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Purkinje",
+      "definition": "Fibres spécialisées dans le cœur qui conduisent rapidement les impulsions électriques aux ventricules, permettant une contraction coordonnée.",
+      "category": "anatomie",
+      "synonyms": [
+        "fibres de Purkinje"
+      ],
+      "related_terms": [
+        "système de conduction cardiaque",
+        "ventricules"
+      ],
+      "description": "Les fibres de Purkinje assurent une distribution rapide et efficace des impulsions électriques aux ventricules.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements des fibres de Purkinje peuvent entraîner des arythmies ventriculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parasympathique",
+      "definition": "Partie du système nerveux autonome qui régule les fonctions involontaires du corps, souvent opposée au système sympathique.",
+      "category": "physiologie",
+      "synonyms": [
+        "système nerveux parasympathique"
+      ],
+      "related_terms": [
+        "système nerveux autonome",
+        "système sympathique"
+      ],
+      "description": "Le système parasympathique ralentit la fréquence cardiaque et favorise la digestion et la relaxation.",
+      "expansion": null,
+      "clinical_significance": "Les déséquilibres entre les systèmes sympathique et parasympathique peuvent entraîner divers troubles cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "If",
+      "definition": "Canaux ioniques spécifiques qui permettent le passage des ions sodium et potassium, jouant un rôle crucial dans la génération du potentiel d'action des cellules pacemaker.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux If"
+      ],
+      "related_terms": [
+        "cellules pacemaker",
+        "potentiel d'action"
+      ],
+      "description": "Les canaux If sont essentiels pour le rythme cardiaque spontané des cellules pacemaker.",
+      "expansion": null,
+      "clinical_significance": "Les dysfonctionnements des canaux If peuvent entraîner des arythmies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ca L",
+      "definition": "Canaux calciques de type L, qui permettent l'entrée du calcium dans les cellules, essentiels pour la contraction musculaire et la conduction électrique.",
+      "category": "physiologie",
+      "synonyms": [
+        "canaux calciques de type L"
+      ],
+      "related_terms": [
+        "canaux calciques",
+        "contraction musculaire"
+      ],
+      "description": "Les canaux Ca L jouent un rôle clé dans la phase de plateau du potentiel d'action des cellules cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies des canaux Ca L peuvent entraîner des troubles de la contraction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chronotrope",
+      "definition": "Effet sur la fréquence des contractions cardiaques, souvent utilisé pour décrire l'action des médicaments ou des neurotransmetteurs sur le rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet chronotrope"
+      ],
+      "related_terms": [
+        "inotrope",
+        "dromotrope"
+      ],
+      "description": "Un effet chronotrope positif augmente la fréquence cardiaque, tandis qu'un effet chronotrope négatif la diminue.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments avec des effets chronotropes sont utilisés pour traiter les arythmies et l'hypertension.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inotrope",
+      "definition": "Effet sur la force de contraction du myocarde, souvent utilisé pour décrire l'action des médicaments ou des neurotransmetteurs sur la contractilité cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet inotrope"
+      ],
+      "related_terms": [
+        "chronotrope",
+        "dromotrope"
+      ],
+      "description": "Un effet inotrope positif augmente la force de contraction du myocarde, tandis qu'un effet inotrope négatif la diminue.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments avec des effets inotropes sont utilisés pour traiter l'insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bathmotrope",
+      "definition": "Effet sur l'excitabilité du myocarde, souvent utilisé pour décrire l'action des médicaments ou des neurotransmetteurs sur la sensibilité des cellules cardiaques aux stimuli électriques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet bathmotrope"
+      ],
+      "related_terms": [
+        "chronotrope",
+        "inotrope"
+      ],
+      "description": "Un effet bathmotrope positif augmente l'excitabilité du myocarde, tandis qu'un effet bathmotrope négatif la diminue.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments avec des effets bathmotropes peuvent influencer la susceptibilité aux arythmies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dromotrope",
+      "definition": "Effet sur la vitesse de conduction des impulsions électriques dans le myocarde, souvent utilisé pour décrire l'action des médicaments ou des neurotransmetteurs sur la propagation des signaux électriques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet dromotrope"
+      ],
+      "related_terms": [
+        "chronotrope",
+        "inotrope"
+      ],
+      "description": "Un effet dromotrope positif augmente la vitesse de conduction, tandis qu'un effet dromotrope négatif la diminue.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments avec des effets dromotropes sont utilisés pour traiter les troubles de la conduction cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lusitrope",
+      "definition": "Effet sur la vitesse de relaxation du myocarde, souvent utilisé pour décrire l'action des médicaments ou des neurotransmetteurs sur la relaxation des cellules cardiaques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet lusitrope"
+      ],
+      "related_terms": [
+        "chronotrope",
+        "inotrope"
+      ],
+      "description": "Un effet lusitrope positif augmente la vitesse de relaxation du myocarde, tandis qu'un effet lusitrope négatif la diminue.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments avec des effets lusitropes sont utilisés pour améliorer la relaxation du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "onde P",
+      "definition": "Onde sur l'électrocardiogramme représentant la dépolarisation des oreillettes.",
+      "category": "imagerie",
+      "synonyms": [
+        "onde P"
+      ],
+      "related_terms": [
+        "complexe QRS",
+        "onde T"
+      ],
+      "description": "L'onde P est cruciale pour évaluer la fonction auriculaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de l'onde P peuvent indiquer des troubles de la conduction auriculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "complexe QRS",
+      "definition": "Complexe sur l'électrocardiogramme représentant la dépolarisation des ventricules.",
+      "category": "imagerie",
+      "synonyms": [
+        "complexe QRS"
+      ],
+      "related_terms": [
+        "onde P",
+        "onde T"
+      ],
+      "description": "Le complexe QRS est essentiel pour évaluer la fonction ventriculaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies du complexe QRS peuvent indiquer des troubles de la conduction ventriculaire ou des infarctus du myocarde.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "onde T",
+      "definition": "Onde sur l'électrocardiogramme représentant la repolarisation des ventricules.",
+      "category": "imagerie",
+      "synonyms": [
+        "onde T"
+      ],
+      "related_terms": [
+        "onde P",
+        "complexe QRS"
+      ],
+      "description": "L'onde T est importante pour évaluer la repolarisation ventriculaire.",
+      "expansion": null,
+      "clinical_significance": "Les anomalies de l'onde T peuvent indiquer des troubles de la repolarisation ventriculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rythme cardiaque",
+      "definition": "Séquence régulière des battements cardiaques, souvent évaluée par l'ECG.",
+      "category": "physiologie",
+      "synonyms": [
+        "rythme sinusal"
+      ],
+      "related_terms": [
+        "fréquence cardiaque",
+        "bradycardie sinusale",
+        "tachycardie sinusale"
+      ],
+      "description": "Le rythme sinusal est le rythme normal du cœur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rythme cardiaque",
+        "rythme sinusal"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fréquence cardiaque",
+      "definition": "Nombre de battements cardiaques par minute.",
+      "category": "physiologie",
+      "synonyms": [
+        "pouls"
+      ],
+      "related_terms": [
+        "bradycardie sinusale",
+        "tachycardie sinusale"
+      ],
+      "description": "La fréquence sinusale au repos est généralement entre 60 et 100 battements par minute.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "60-100 battements par minute",
+      "image_search_terms": [
+        "fréquence cardiaque",
+        "pouls"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PR",
+      "definition": "Intervalle sur l'ECG représentant la durée entre le début de la dépolarisation auriculaire et le début de la dépolarisation ventriculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "intervalle PR"
+      ],
+      "related_terms": [
+        "onde P",
+        "complexe QRS"
+      ],
+      "description": "Mesure le temps de conduction auriculo-ventriculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "0.12-0.20 s",
+      "image_search_terms": [
+        "intervalle PR",
+        "ECG intervalle PR"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "QT",
+      "definition": "Intervalle sur l'ECG représentant la somme de la dépolarisation et de la repolarisation ventriculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "intervalle QT"
+      ],
+      "related_terms": [
+        "complexe QRS",
+        "segment ST",
+        "onde T"
+      ],
+      "description": "Correspond à tout le potentiel d'action ventriculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "intervalle QT",
+        "ECG intervalle QT"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Segment ST",
+      "definition": "Segment sur l'ECG entre la fin du complexe QRS et le début de l'onde T.",
+      "category": "physiologie",
+      "synonyms": [
+        "segment ST"
+      ],
+      "related_terms": [
+        "complexe QRS",
+        "onde T"
+      ],
+      "description": "Isoélectrique dans des conditions normales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "segment ST",
+        "ECG segment ST"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AC",
+      "definition": "Arrêt cardiaque, cessation soudaine de la fonction cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "arrêt cardiaque"
+      ],
+      "related_terms": [
+        "ischémie",
+        "anoxie"
+      ],
+      "description": "Entraîne une ischémie et une anoxie de tous les organes et tissus.",
+      "expansion": "Arrêt cardiaque",
+      "clinical_significance": "Urgence médicale nécessitant une réanimation immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arrêt cardiaque",
+        "réanimation"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ATP",
+      "definition": "Adénosine triphosphate, molécule essentielle pour le stockage et le transfert d'énergie dans les cellules.",
+      "category": "microbiologie",
+      "synonyms": [
+        "adénosine triphosphate"
+      ],
+      "related_terms": [
+        "O2",
+        "radicaux libres"
+      ],
+      "description": "Produit par la chaîne respiratoire mitochondriale à partir d'oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ATP",
+        "adénosine triphosphate"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C3",
+      "definition": "Composant du système du complément, impliqué dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "composant C3"
+      ],
+      "related_terms": [
+        "PNN",
+        "C5",
+        "complément"
+      ],
+      "description": "Participe à l'activation du complément et à la réaction inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "C3",
+        "composant C3"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C5",
+      "definition": "Composant du système du complément, impliqué dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "composant C5"
+      ],
+      "related_terms": [
+        "PNN",
+        "C3",
+        "complément"
+      ],
+      "description": "Participe à l'activation du complément et à la réaction inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "C5",
+        "composant C5"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL 6",
+      "definition": "Interleukine 6, cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine 6"
+      ],
+      "related_terms": [
+        "IL1",
+        "TNF α"
+      ],
+      "description": "Promouvoit et amplifie la réaction inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IL 6",
+        "interleukine 6"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL1",
+      "definition": "Interleukine 1, cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine 1"
+      ],
+      "related_terms": [
+        "IL 6",
+        "TNF α"
+      ],
+      "description": "Promouvoit et amplifie la réaction inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IL1",
+        "interleukine 1"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TNF α",
+      "definition": "Facteur de nécrose tumorale alpha, cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "facteur de nécrose tumorale alpha"
+      ],
+      "related_terms": [
+        "IL 6",
+        "IL1"
+      ],
+      "description": "Promouvoit et amplifie la réaction inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TNF α",
+        "facteur de nécrose tumorale alpha"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance myocardique",
+      "definition": "État de dysfonctionnement du muscle cardiaque, souvent associé à une insuffisance cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance cardiaque",
+        "cardiomyopathie"
+      ],
+      "related_terms": [
+        "dysfonction systolique",
+        "dysfonction ventriculaire gauche"
+      ],
+      "description": "La défaillance myocardique peut être causée par diverses conditions, y compris l'ischémie myocardique et les troubles du rythme.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner un choc cardiogénique et nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc post arrêt cardiaque",
+      "definition": "État de choc qui survient après la réanimation d'un arrêt cardiaque, souvent mixte (cardiogénique et périphérique).",
+      "category": "pathologie",
+      "synonyms": [
+        "choc post-réanimation"
+      ],
+      "related_terms": [
+        "choc cardiogénique",
+        "choc septique"
+      ],
+      "description": "Caractérisé par une dysfonction systolique sévère mais réversible.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge médicale intensive pour stabiliser le patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction systolique",
+      "definition": "Altération de la capacité du cœur à se contracter efficacement pendant la systole, entraînant une diminution de l'éjection ventriculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "insuffisance systolique"
+      ],
+      "related_terms": [
+        "fraction d'éjection",
+        "insuffisance cardiaque"
+      ],
+      "description": "Peut être causée par des maladies cardiaques telles que l'infarctus du myocarde ou la cardiomyopathie.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance cardiaque et nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction ventriculaire gauche",
+      "definition": "Altération de la fonction du ventricule gauche du cœur, affectant sa capacité à pomper le sang efficacement.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance ventriculaire gauche"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "cardiomyopathie"
+      ],
+      "description": "Peut être causée par des maladies cardiaques telles que l'infarctus du myocarde ou la cardiomyopathie.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance cardiaque et nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions de reperfusion",
+      "definition": "Dommages supplémentaires au tissu myocardique qui surviennent lorsque le flux sanguin est rétabli après une période d'ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "dommages de reperfusion"
+      ],
+      "related_terms": [
+        "ischémie myocardique",
+        "infarctus du myocarde"
+      ],
+      "description": "Peuvent entraîner des lésions cellulaires irréversibles et nécessitent une gestion médicale pour minimiser les dommages.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge post-réanimation pour prévenir des complications supplémentaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles de rythme ventriculaires",
+      "definition": "Anomalies du rythme cardiaque originaires des ventricules, pouvant inclure des tachycardies ou des fibrillations ventriculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "arythmies ventriculaires"
+      ],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Peuvent être causés par des maladies cardiaques telles que l'infarctus du myocarde ou des anomalies électriques.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être potentiellement mortels et nécessitent une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arythmies de reperfusion",
+      "definition": "Anomalies du rythme cardiaque qui surviennent lors de la reperfusion du tissu myocardique après une période d'ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles de rythme de reperfusion"
+      ],
+      "related_terms": [
+        "ischémie myocardique",
+        "infarctus du myocarde"
+      ],
+      "description": "Peuvent inclure des tachycardies ou des fibrillations ventriculaires et nécessitent une gestion médicale.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge post-réanimation pour prévenir des complications supplémentaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sidération myocardique",
+      "definition": "État de dysfonction myocardique persistante après revascularisation, malgré le rétablissement de la perfusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "stunning myocardique"
+      ],
+      "related_terms": [
+        "dysfonction myocardique",
+        "revascularisation"
+      ],
+      "description": "La fonction myocardique peut être stimulable par des catécholamines et est réversible.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge post-réanimation pour évaluer la récupération myocardique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hibernation myocardique",
+      "definition": "État d'autoprotection du myocarde ischémié, où le muscle devient hypocontractile pour adapter sa consommation d'oxygène.",
+      "category": "pathologie",
+      "synonyms": [
+        "hibernation cardiaque"
+      ],
+      "related_terms": [
+        "ischémie myocardique",
+        "revascularisation"
+      ],
+      "description": "La fonction myocardique est récupérable en cas de revascularisation et est stimulable par des catécholamines.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge post-réanimation pour évaluer la récupération myocardique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome coronarien",
+      "definition": "Ensemble de conditions résultant de l'obstruction des artères coronaires, entraînant une ischémie myocardique.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie coronarienne"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angine de poitrine"
+      ],
+      "description": "Peut inclure des troubles du rythme ventriculaire ou des troubles conductifs graves.",
+      "expansion": null,
+      "clinical_significance": "Principale cause de mort subite et nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coagulation/anticoagulation",
+      "definition": "Processus biologiques impliqués dans la formation et la dissolution des caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "coagulation sanguine",
+        "anticoagulation"
+      ],
+      "related_terms": [
+        "fibrinolyse",
+        "antifibrinolyse"
+      ],
+      "description": "Altérations de ces processus peuvent aggraver les lésions d'ischémie et de reperfusion.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications post-réanimation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinolyse/antifibrinolyse",
+      "definition": "Processus biologiques impliqués dans la dissolution des caillots sanguins et l'inhibition de cette dissolution.",
+      "category": "physiologie",
+      "synonyms": [
+        "fibrinolyse",
+        "antifibrinolyse"
+      ],
+      "related_terms": [
+        "coagulation",
+        "anticoagulation"
+      ],
+      "description": "Altérations de ces processus peuvent aggraver les lésions d'ischémie et de reperfusion.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications post-réanimation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance surrénalienne relative",
+      "definition": "État où les glandes surrénales ne produisent pas suffisamment de cortisol pour répondre aux besoins du corps en période de stress.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance surrénalienne"
+      ],
+      "related_terms": [
+        "cortisol",
+        "glandes surrénales"
+      ],
+      "description": "Peut être causée par une infection grave ou un traumatisme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une supplémentation en cortisol pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance hépatique",
+      "definition": "Perte de la fonction hépatique, entraînant une accumulation de toxines et un déséquilibre des fonctions métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance hépatique"
+      ],
+      "related_terms": [
+        "foie",
+        "cirrhose"
+      ],
+      "description": "Peut être causée par une ischémie hépatique ou des toxines.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de défaillance multiviscérale",
+      "definition": "État de dysfonctionnement simultané de plusieurs organes vitaux, souvent suite à une insulte grave telle qu'un arrêt cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance multiviscérale"
+      ],
+      "related_terms": [
+        "sepsis",
+        "choc septique"
+      ],
+      "description": "Nécessite une prise en charge médicale intensive pour stabiliser le patient.",
+      "expansion": null,
+      "clinical_significance": "Associé à une mortalité élevée et nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VES",
+      "definition": "Méthode d'évaluation de la respiration basée sur l'observation visuelle, l'écoute et la sensation du souffle.",
+      "category": "acronyme",
+      "synonyms": [
+        "méthode VES"
+      ],
+      "related_terms": [
+        "évaluation respiratoire",
+        "réanimation cardio-pulmonaire"
+      ],
+      "description": "Utilisée pour déterminer l'absence de respiration normale ou la présence de respiration agonique.",
+      "expansion": "Voir, Écouter, Sentir",
+      "clinical_significance": "Important dans l'évaluation initiale d'un patient en arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance respiratoire",
+      "definition": "Incapacité des poumons à assurer une oxygénation adéquate du sang et l'élimination du dioxyde de carbone.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance respiratoire"
+      ],
+      "related_terms": [
+        "hypoxémie",
+        "hypercapnie"
+      ],
+      "description": "Peut être causée par diverses conditions telles que l'asthme, la pneumonie ou l'emphysème.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour corriger l'hypoxémie et prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Epiglottite",
+      "definition": "Inflammation de l'épiglotte, souvent causée par une infection bactérienne, entraînant une obstruction des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "épiglottite"
+      ],
+      "related_terms": [
+        "épiglotte",
+        "obstruction des voies aériennes"
+      ],
+      "description": "Peut être une urgence médicale nécessitant une intervention immédiate pour sécuriser les voies aériennes.",
+      "expansion": null,
+      "clinical_significance": "Potentiellement mortelle si non traitée rapidement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Laryngospasme",
+      "definition": "Contraction involontaire des muscles de la gorge, entraînant une obstruction des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "laryngospasme"
+      ],
+      "related_terms": [
+        "larynx",
+        "obstruction des voies aériennes"
+      ],
+      "description": "Peut être causé par une irritation des voies aériennes ou une réaction allergique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale immédiate pour sécuriser les voies aériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiopathies ischémiques",
+      "definition": "Maladies du cœur causées par une diminution de l'apport sanguin au muscle cardiaque, souvent dues à l'athérosclérose.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies coronariennes"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angine de poitrine"
+      ],
+      "description": "Peuvent entraîner des troubles du rythme ventriculaire ou des troubles conductifs graves.",
+      "expansion": null,
+      "clinical_significance": "Principale cause de mort subite et nécessite une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mort subite",
+      "definition": "Décès inattendu et soudain, souvent dû à une cause cardiaque telle qu'un infarctus du myocarde ou une arythmie.",
+      "category": "pathologie",
+      "synonyms": [
+        "mort subite cardiaque"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "arythmie"
+      ],
+      "description": "Peut être causée par des cardiopathies ischémiques, des valvulopathies ou des cardiomyopathies.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomyopathie",
+      "definition": "Maladie du muscle cardiaque, entraînant une altération de la fonction cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "myocardiopathie"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "hypertrophie cardiaque"
+      ],
+      "description": "Peut être causée par diverses conditions telles que l'ischémie myocardique ou des anomalies génétiques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperkaliémie",
+      "definition": "État de taux élevé de potassium dans le sang, souvent dû à une insuffisance rénale ou à une acidose.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperkaliémie"
+      ],
+      "related_terms": [
+        "hypokaliémie",
+        "insuffisance rénale"
+      ],
+      "description": "Peut entraîner des troubles du rythme cardiaque et nécessite une intervention médicale pour corriger le taux de potassium.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des déséquilibres électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tamponnade",
+      "definition": "Compression du cœur due à l'accumulation de liquide dans le péricarde, entraînant une diminution du débit cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "tamponnade cardiaque"
+      ],
+      "related_terms": [
+        "péricardite",
+        "épanchement péricardique"
+      ],
+      "description": "Nécessite une intervention médicale immédiate pour drainer le liquide et soulager la compression.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumothorax sous tension",
+      "definition": "Accumulation d'air dans la cavité pleurale, entraînant une compression du poumon et une déviation de la trachée.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumothorax compressif"
+      ],
+      "related_terms": [
+        "pneumothorax",
+        "tension pneumothorax"
+      ],
+      "description": "Nécessite une intervention médicale immédiate pour évacuer l'air et soulager la compression.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxiques",
+      "definition": "Substances chimiques ou médicamenteuses pouvant entraîner des effets nocifs sur l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "poisons",
+        "substances toxiques"
+      ],
+      "related_terms": [
+        "intoxication",
+        "empoisonnement"
+      ],
+      "description": "Peuvent inclure des médicaments, des drogues ou des produits chimiques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "causes thromboemboliques",
+      "definition": "Conditions résultant de la formation de caillots sanguins qui obstruent les vaisseaux sanguins, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboembolie"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "thrombose"
+      ],
+      "description": "Peuvent inclure des syndromes coronariens et des embolies pulmonaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour dissoudre les caillots et rétablir le flux sanguin.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "embolie pulmonaire",
+      "definition": "Obstruction d'une artère pulmonaire par un caillot sanguin, entraînant une ischémie du tissu pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "embolie pulmonaire"
+      ],
+      "related_terms": [
+        "thromboembolie",
+        "thrombose"
+      ],
+      "description": "Peut entraîner une insuffisance respiratoire et nécessite une intervention médicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardioscope",
+      "definition": "Appareil utilisé pour surveiller l'activité électrique du cœur et afficher l'électrocardiogramme.",
+      "category": "imagerie",
+      "synonyms": [
+        "moniteur cardiaque"
+      ],
+      "related_terms": [
+        "électrocardiogramme",
+        "monitorage cardiaque"
+      ],
+      "description": "Utilisé pour détecter les rythmes cardiaques et indiquer la nécessité d'un choc électrique externe.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des arrêts cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arrêt cardio-circulatoire",
+      "definition": "État de cessation de la circulation sanguine et de l'activité cardiaque, entraînant une insuffisance d'apport en oxygène aux tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "arrêt cardiaque"
+      ],
+      "related_terms": [
+        "arrêt circulatoire",
+        "réanimation cardio-pulmonaire"
+      ],
+      "description": "Nécessite une intervention médicale immédiate pour rétablir la circulation et l'oxygénation.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrillation ventriculaire (FV)",
+      "definition": "Rythme cardiaque anarchique et irrégulier originaire des ventricules, incompatible avec la vie.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrillation ventriculaire"
+      ],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "arythmie"
+      ],
+      "description": "Peut être à larges mailles ou à fines mailles et nécessite une défibrillation immédiate.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention immédiate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TV",
+      "definition": "Tachycardie ventriculaire, rythme cardiaque rapide originaire des ventricules.",
+      "category": "pathologie",
+      "synonyms": [
+        "tachycardie ventriculaire"
+      ],
+      "related_terms": [
+        "fibrillation ventriculaire",
+        "arythmie"
+      ],
+      "description": "Peut être polymorphe et nécessite une intervention médicale pour rétablir un rythme normal.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des arythmies ventriculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FA",
+      "definition": "Fibrillation auriculaire, rythme cardiaque irrégulier originaire des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrillation auriculaire"
+      ],
+      "related_terms": [
+        "arythmie",
+        "tachycardie auriculaire"
+      ],
+      "description": "Peut être associée à une pré-excitation et nécessite une intervention médicale pour rétablir un rythme normal.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des arythmies auriculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "WPW",
+      "definition": "Syndrome de Wolff-Parkinson-White, anomalie congénitale du cœur caractérisée par une voie de conduction électrique supplémentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Wolff-Parkinson-White"
+      ],
+      "related_terms": [
+        "pré-excitation",
+        "arythmie"
+      ],
+      "description": "Peut entraîner des arythmies et nécessite une évaluation et un traitement médical.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des arythmies cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrillation ventriculaire",
+      "definition": "Arythmie cardiaque caractérisée par des contractions rapides et désorganisées des ventricules.",
+      "category": "pathologie",
+      "synonyms": [
+        "FV"
+      ],
+      "related_terms": [
+        "tachycardie ventriculaire",
+        "asystolie"
+      ],
+      "description": "Peut entraîner un arrêt cardiaque soudain si non traitée.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une défibrillation immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrillation ventriculaire ECG",
+        "FV tracé"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachycardie ventriculaire",
+      "definition": "Arythmie cardiaque avec une fréquence ventriculaire rapide, souvent supérieure à 100 battements par minute.",
+      "category": "pathologie",
+      "synonyms": [
+        "TV"
+      ],
+      "related_terms": [
+        "fibrillation ventriculaire",
+        "tachycardie"
+      ],
+      "description": "Peut être monomorphe ou polymorphe.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tachycardie ventriculaire ECG",
+        "TV tracé"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "QRS",
+      "definition": "Complexe sur l'électrocardiogramme représentant la dépolarisation des ventricules.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "onde P",
+        "segment ST"
+      ],
+      "description": "Utilisé pour diagnostiquer des anomalies de la conduction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Largeur et morphologie du QRS sont critiques pour le diagnostic des arythmies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "complexe QRS",
+        "ECG QRS"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asystolie",
+      "definition": "Absence d'activité électrique cardiaque détectable, souvent associée à une ligne plate sur l'ECG.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arrêt cardiaque",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Urgence médicale nécessitant une réanimation immédiate.",
+      "expansion": null,
+      "clinical_significance": "Souvent associée à un mauvais pronostic.",
+      "normal_values": null,
+      "image_search_terms": [
+        "asystolie ECG",
+        "ligne plate ECG"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chaîne de survie",
+      "definition": "Série d'actions successives pour optimiser la survie des patients en arrêt cardiorespiratoire.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "réanimation cardiopulmonaire",
+        "défibrillation"
+      ],
+      "description": "Inclut la reconnaissance précoce, la RCP, la défibrillation et les soins avancés.",
+      "expansion": null,
+      "clinical_significance": "Critique pour améliorer les taux de survie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "chaîne de survie",
+        "réanimation cardiopulmonaire"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SAMU",
+      "definition": "Service d'Aide Médicale Urgente, un service de secours médical en France.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SMUR",
+        "réanimation"
+      ],
+      "description": "Intervient en cas d'urgences médicales graves.",
+      "expansion": "Service d'Aide Médicale Urgente",
+      "clinical_significance": "Première ligne de réponse aux urgences médicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SAMU",
+        "Service d'Aide Médicale Urgente"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimation cardiopulmonaire",
+      "definition": "Technique de secourisme visant à maintenir la circulation sanguine et la respiration en cas d'arrêt cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "RCP"
+      ],
+      "related_terms": [
+        "massage cardiaque externe",
+        "défibrillation"
+      ],
+      "description": "Inclut les compressions thoraciques et la ventilation.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour maintenir la perfusion cérébrale et coronaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "réanimation cardiopulmonaire",
+        "RCP"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "massage cardiaque externe",
+      "definition": "Technique de compressions thoraciques manuelles pour maintenir la circulation sanguine en cas d'arrêt cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "MCE"
+      ],
+      "related_terms": [
+        "réanimation cardiopulmonaire",
+        "compressions thoraciques"
+      ],
+      "description": "Doit être continu pour maximiser l'efficacité.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "massage cardiaque externe",
+        "MCE"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EMU",
+      "definition": "Équipe Médicale d'Urgence, une équipe spécialisée dans la gestion des urgences médicales à l'hôpital.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "réanimation",
+        "SAMU"
+      ],
+      "description": "Intervient pour prévenir l'arrêt cardiaque chez les patients à risque.",
+      "expansion": "Équipe Médicale d'Urgence",
+      "clinical_significance": "Importante pour la gestion des urgences intra-hospitalières.",
+      "normal_values": null,
+      "image_search_terms": [
+        "EMU",
+        "Équipe Médicale d'Urgence"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEA",
+      "definition": "Défibrillateur Externe Automatisé, un appareil utilisé pour administrer un choc électrique en cas d'arythmie choquable.",
+      "category": "acronyme",
+      "synonyms": [
+        "défibrillateur automatisé externe"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Peut être utilisé par des non-professionnels de la santé.",
+      "expansion": "Défibrillateur Externe Automatisé",
+      "clinical_significance": "Améliore le pronostic en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DEA",
+        "défibrillateur automatisé externe"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMUR",
+      "definition": "Service Mobile d'Urgence et de Réanimation, une équipe médicale mobile spécialisée dans les soins d'urgence.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "SAMU",
+        "réanimation"
+      ],
+      "description": "Intervient sur les lieux des urgences médicales graves.",
+      "expansion": "Service Mobile d'Urgence et de Réanimation",
+      "clinical_significance": "Critique pour la prise en charge pré-hospitalière des urgences.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SMUR",
+        "Service Mobile d'Urgence et de Réanimation"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ALS",
+      "definition": "Advanced Life Support, un ensemble de techniques et de protocoles avancés pour la réanimation cardiopulmonaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "réanimation cardiopulmonaire avancée"
+      ],
+      "related_terms": [
+        "RCP",
+        "défibrillation"
+      ],
+      "description": "Inclut des interventions médicales avancées comme l'intubation et l'administration de médicaments.",
+      "expansion": "Advanced Life Support",
+      "clinical_significance": "Essentiel pour la gestion des arrêts cardiaques complexes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ALS",
+        "réanimation cardiopulmonaire avancée"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AESP",
+      "definition": "Activité Électrique Sans Pouls, une situation où il y a une activité électrique cardiaque mais sans débit cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "activité électrique sans pouls"
+      ],
+      "related_terms": [
+        "asystolie",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Généralement associée à un mauvais pronostic.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une réanimation immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AESP",
+        "activité électrique sans pouls"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MCE",
+      "definition": "Massage Cardiaque Externe, une composante de la RCP où des compressions thoraciques sont appliquées pour maintenir la circulation sanguine.",
+      "category": "acronyme",
+      "synonyms": [
+        "massage cardiaque"
+      ],
+      "related_terms": [
+        "RCP",
+        "compressions thoraciques"
+      ],
+      "description": "Le MCE est essentiel pour maintenir le flux sanguin vers le cerveau et d'autres organes vitaux pendant un arrêt cardiaque.",
+      "expansion": "Massage Cardiaque Externe",
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "massage cardiaque externe",
+        "compressions thoraciques"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "CEE",
+      "definition": "Choc Électrique Externe, une intervention utilisée pour tenter de rétablir un rythme cardiaque normal en cas de fibrillation ventriculaire ou de tachycardie ventriculaire.",
+      "category": "acronyme",
+      "synonyms": [
+        "choc électrique"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "fibrillation ventriculaire"
+      ],
+      "description": "Le CEE est administré via un défibrillateur pour dépolariser le myocarde et permettre au cœur de reprendre un rythme normal.",
+      "expansion": "Choc Électrique Externe",
+      "clinical_significance": "Critique pour le traitement des rythmes choquables.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc électrique externe",
+        "défibrillation"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "amiodarone",
+      "definition": "Un antiarythmique utilisé pour traiter les arythmies ventriculaires, y compris la fibrillation ventriculaire et la tachycardie ventriculaire.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antiarythmique",
+        "fibrillation ventriculaire"
+      ],
+      "description": "L'amiodarone est administrée pour stabiliser le rythme cardiaque en cas de rythmes choquables persistants.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement des arythmies ventriculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "amiodarone",
+        "antiarythmique"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "FV",
+      "definition": "Fibrillation Ventriculaire, une arythmie cardiaque caractérisée par des contractions rapides et désorganisées des ventricules, empêchant le cœur de pomper efficacement le sang.",
+      "category": "acronyme",
+      "synonyms": [
+        "fibrillation ventriculaire"
+      ],
+      "related_terms": [
+        "arythmie",
+        "tachycardie ventriculaire"
+      ],
+      "description": "La FV est une urgence médicale nécessitant une défibrillation immédiate.",
+      "expansion": "Fibrillation Ventriculaire",
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrillation ventriculaire",
+        "arythmie"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "DAE",
+      "definition": "Défibrillateur Automatique Externe, un appareil portable utilisé pour administrer un choc électrique au cœur en cas d'arythmie potentiellement mortelle.",
+      "category": "acronyme",
+      "synonyms": [
+        "défibrillateur automatique"
+      ],
+      "related_terms": [
+        "défibrillation",
+        "arrêt cardiaque"
+      ],
+      "description": "Le DAE est conçu pour être utilisé par des non-professionnels de la santé et peut analyser le rythme cardiaque et administrer un choc si nécessaire.",
+      "expansion": "Défibrillateur Automatique Externe",
+      "clinical_significance": "Critique pour la réanimation en dehors de l'hôpital.",
+      "normal_values": null,
+      "image_search_terms": [
+        "défibrillateur automatique externe",
+        "DAE"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hypoxicélémie",
+      "definition": "État de diminution de la concentration de calcium dans le sang, souvent dû à des troubles métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocalcémie"
+      ],
+      "related_terms": [
+        "troubles métaboliques",
+        "hypocalcémie"
+      ],
+      "description": "L'hypoxicélémie peut entraîner des symptômes neurologiques et cardiaques et doit être corrigée par une supplémentation en calcium.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des troubles métaboliques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoxicélémie",
+        "hypocalcémie"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "tamponnage cardiaque",
+      "definition": "Accumulation de liquide dans le péricarde, comprimant le cœur et empêchant son bon fonctionnement.",
+      "category": "pathologie",
+      "synonyms": [
+        "tamponnade péricardique"
+      ],
+      "related_terms": [
+        "péricardite",
+        "épanchement péricardique"
+      ],
+      "description": "Le tamponnage cardiaque est une urgence médicale nécessitant une évacuation rapide du liquide péricardique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tamponnage cardiaque",
+        "tamponnade péricardique"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "tension",
+      "definition": "État de tension artérielle élevée, souvent dû à une hypertension ou à une obstruction vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension"
+      ],
+      "related_terms": [
+        "hypertension artérielle",
+        "pression artérielle"
+      ],
+      "description": "La tension peut entraîner des complications cardiovasculaires et doit être contrôlée par des médicaments antihypertenseurs.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tension",
+        "hypertension"
+      ],
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "hémorragie gastro-intestinale",
+      "definition": "Perte de sang provenant du tractus gastro-intestinal, pouvant être due à des ulcères, des varices œsophagiennes, ou d'autres causes.",
+      "category": "pathologie",
+      "synonyms": [
+        "saignement gastro-intestinal"
+      ],
+      "related_terms": [
+        "ulcère gastrique",
+        "varices œsophagiennes"
+      ],
+      "description": "Peut être aiguë ou chronique et nécessite une intervention médicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anémie et un choc hypovolémique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrisme de l'aorte",
+      "definition": "Dilatation anormale de l'aorte, souvent due à une faiblesse de la paroi vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrisme aortique"
+      ],
+      "related_terms": [
+        "dissection aortique",
+        "rupture d'anévrisme"
+      ],
+      "description": "Peut être asymptomatique ou provoquer des douleurs thoraciques ou abdominales.",
+      "expansion": null,
+      "clinical_significance": "Risque de rupture pouvant entraîner une hémorragie massive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidémie",
+      "definition": "Taux élevé d'acide dans le sang, souvent causé par une insuffisance rénale ou une acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "acidose métabolique"
+      ],
+      "description": "Peut entraîner des troubles respiratoires et des arythmies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une correction pour éviter des complications respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombolyse",
+      "definition": "Traitement visant à dissoudre les caillots sanguins pour restaurer la circulation sanguine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "fibrinolyse"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "infarctus du myocarde"
+      ],
+      "description": "Utilisé dans le traitement des thromboses artérielles et veineuses.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une administration rapide pour éviter des complications ischémiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome coronarien aigu",
+      "definition": "Ensemble de symptômes résultant d'une ischémie myocardique aiguë, souvent due à une occlusion coronaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SCA"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "angor instable"
+      ],
+      "description": "Peut entraîner une douleur thoracique, des arythmies et une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention rapide pour restaurer le flux sanguin coronaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "revascularisation",
+      "definition": "Rétablissement du flux sanguin dans une artère obstruée, souvent par angioplastie ou pontage.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "reperfusion"
+      ],
+      "related_terms": [
+        "angioplastie",
+        "pontage coronarien"
+      ],
+      "description": "Utilisé pour traiter les occlusions artérielles et restaurer le flux sanguin.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention rapide pour éviter des complications ischémiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "torsade de pointes",
+      "definition": "Type d'arythmie ventriculaire caractérisée par une torsion des complexes QRS autour de la ligne isoélectrique.",
+      "category": "pathologie",
+      "synonyms": [
+        "torsade de pointes"
+      ],
+      "related_terms": [
+        "arythmie ventriculaire",
+        "prolongation de l'intervalle QT"
+      ],
+      "description": "Peut être causée par des médicaments ou des déséquilibres électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention rapide pour éviter une dégénérescence en fibrillation ventriculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "digoxine",
+      "definition": "Médicament inotrope positif utilisé pour traiter l'insuffisance cardiaque et les arythmies.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "digitaline"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "arythmie"
+      ],
+      "description": "Augmente la force de contraction du myocarde et ralentit la conduction auriculo-ventriculaire.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter l'insuffisance cardiaque et les arythmies supraventriculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AÉssP",
+      "definition": "Arythmie par Extrasystoles Supraventriculaires Précoces, une forme d'arythmie cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "Arythmie par Extrasystoles Supraventriculaires Précoces"
+      ],
+      "related_terms": [
+        "arythmie",
+        "extrasystoles"
+      ],
+      "description": "L'AÉssP est une arythmie caractérisée par des battements cardiaques prématurés provenant des oreillettes.",
+      "expansion": "Arythmie par Extrasystoles Supraventriculaires Précoces",
+      "clinical_significance": "Peut nécessiter une intervention médicale en cas de symptômes sévères.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bicarbonate de sodium",
+      "definition": "Composé chimique utilisé pour traiter l'acidose métabolique en augmentant le pH du sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bicarbonate de soude"
+      ],
+      "related_terms": [
+        "acidose",
+        "pH sanguin"
+      ],
+      "description": "Le bicarbonate de sodium est utilisé pour corriger l'acidose métabolique, mais son usage doit être guidé par l'analyse des gaz du sang.",
+      "expansion": "Bicarbonate de sodium",
+      "clinical_significance": "Utilisation prudente nécessaire pour éviter l'exacerbation de l'acidose intracellulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tricycliques",
+      "definition": "Classe d'antidépresseurs qui augmentent les niveaux de sérotonine et de noradrénaline dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antidépresseurs tricycliques"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "sérotonine",
+        "noradrénaline"
+      ],
+      "description": "Les tricycliques sont utilisés pour traiter la dépression, mais un surdosage peut entraîner des effets cardiotoxiques.",
+      "expansion": "Antidépresseurs tricycliques",
+      "clinical_significance": "Surdosage peut causer des arythmies cardiaques et nécessite une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ténectéplase",
+      "definition": "Médicament thrombolytique utilisé pour dissoudre les caillots sanguins dans les artères coronaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "TNKase"
+      ],
+      "related_terms": [
+        "thrombolytique",
+        "caillot sanguin"
+      ],
+      "description": "La ténectéplase est utilisée dans le traitement de l'infarctus du myocarde et de l'embolie pulmonaire.",
+      "expansion": "Ténectéplase",
+      "clinical_significance": "Utilisé en cas d'arrêt cardiaque causé par une embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Altéplase",
+      "definition": "Médicament thrombolytique utilisé pour dissoudre les caillots sanguins dans les artères coronaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "r-tPA",
+        "activateur tissulaire du plasminogène recombinant"
+      ],
+      "related_terms": [
+        "thrombolytique",
+        "caillot sanguin"
+      ],
+      "description": "L'altéplase est utilisée dans le traitement de l'infarctus du myocarde et de l'embolie pulmonaire.",
+      "expansion": "Activateur tissulaire du plasminogène recombinant",
+      "clinical_significance": "Utilisé en cas d'arrêt cardiaque causé par une embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTA gravidique",
+      "definition": "Hypertension artérielle survenant pendant la grossesse, pouvant entraîner des complications pour la mère et le fœtus.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension gravidique"
+      ],
+      "related_terms": [
+        "prééclampsie",
+        "éclampsie"
+      ],
+      "description": "L'HTA gravidique nécessite une surveillance étroite pour prévenir des complications telles que la prééclampsie.",
+      "expansion": "Hypertension artérielle gravidique",
+      "clinical_significance": "Risque accru de complications maternelles et fœtales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie de Benckiser",
+      "definition": "Hémorragie rétroplacentaire, une accumulation de sang entre le placenta et la paroi utérine.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie rétroplacentaire"
+      ],
+      "related_terms": [
+        "placenta prævia",
+        "hématome rétroplacentaire"
+      ],
+      "description": "L'hémorragie de Benckiser peut entraîner des complications graves pour la mère et le fœtus.",
+      "expansion": "Hémorragie rétroplacentaire",
+      "clinical_significance": "Risque accru de complications maternelles et fœtales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dystocie",
+      "definition": "Travail difficile ou anormal, souvent dû à des anomalies de la présentation fœtale ou à des obstructions.",
+      "category": "pathologie",
+      "synonyms": [
+        "dystocie"
+      ],
+      "related_terms": [
+        "présentation fœtale",
+        "obstruction"
+      ],
+      "description": "La dystocie peut nécessiter une intervention obstétricale pour assurer une naissance sécurisée.",
+      "expansion": "Dystocie",
+      "clinical_significance": "Risque accru de complications maternelles et fœtales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "procidence du cordon",
+      "definition": "Descente du cordon ombilical à travers le col de l'utérus avant le fœtus, pouvant entraîner une compression du cordon.",
+      "category": "pathologie",
+      "synonyms": [
+        "procidence du cordon"
+      ],
+      "related_terms": [
+        "cordon ombilical",
+        "compression du cordon"
+      ],
+      "description": "La procidence du cordon nécessite une intervention médicale immédiate pour prévenir l'asphyxie fœtale.",
+      "expansion": "Procidence du cordon",
+      "clinical_significance": "Risque accru de complications maternelles et fœtales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hernie diaphragmatique",
+      "definition": "Malformation congénitale où une partie des organes abdominaux passe à travers une ouverture dans le diaphragme.",
+      "category": "pathologie",
+      "synonyms": [
+        "hernie diaphragmatique"
+      ],
+      "related_terms": [
+        "malformation congénitale",
+        "diaphragme"
+      ],
+      "description": "La hernie diaphragmatique peut entraîner des complications respiratoires et nécessite une intervention chirurgicale.",
+      "expansion": "Hernie diaphragmatique",
+      "clinical_significance": "Risque accru de complications respiratoires néonatales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumothorax",
+      "definition": "Présence d'air dans l'espace pleural, entraînant un collapsus partiel ou total du poumon.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumothorax"
+      ],
+      "related_terms": [
+        "espace pleural",
+        "collapsus pulmonaire"
+      ],
+      "description": "Le pneumothorax peut être causé par une blessure thoracique ou une maladie pulmonaire et nécessite une intervention médicale.",
+      "expansion": "Pneumothorax",
+      "clinical_significance": "Risque accru de complications respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "laparoschisis",
+      "definition": "Malformation congénitale où les intestins sortent de l'abdomen à travers une fente dans la paroi abdominale.",
+      "category": "pathologie",
+      "synonyms": [
+        "laparoschisis"
+      ],
+      "related_terms": [
+        "malformation congénitale",
+        "paroi abdominale"
+      ],
+      "description": "La laparoschisis nécessite une intervention chirurgicale pour replacer les intestins dans l'abdomen.",
+      "expansion": "Laparoschisis",
+      "clinical_significance": "Risque accru de complications néonatales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "omphalocèle",
+      "definition": "Malformation congénitale où les intestins et parfois d'autres organes sortent de l'abdomen à travers une ouverture dans la paroi abdominale près du nombril.",
+      "category": "pathologie",
+      "synonyms": [
+        "omphalocèle"
+      ],
+      "related_terms": [
+        "malformation congénitale",
+        "paroi abdominale"
+      ],
+      "description": "L'omphalocèle nécessite une intervention chirurgicale pour replacer les organes dans l'abdomen.",
+      "expansion": "Omphalocèle",
+      "clinical_significance": "Risque accru de complications néonatales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPP",
+      "definition": "Ventilation au masque avec pression positive, une technique de réanimation néonatale.",
+      "category": "physiologie",
+      "synonyms": [
+        "ventilation au masque avec pression positive"
+      ],
+      "related_terms": [
+        "réanimation néonatale",
+        "ventilation"
+      ],
+      "description": "La VPP est utilisée pour aider les nouveau-nés à respirer en cas de détresse respiratoire.",
+      "expansion": "Ventilation au masque avec pression positive",
+      "clinical_significance": "Technique essentielle en réanimation néonatale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FOP",
+      "definition": "Acronyme pour Fuites, Obstruction, Pressions, utilisé pour évaluer l'efficacité de la ventilation au masque.",
+      "category": "acronyme",
+      "synonyms": [
+        "Fuites, Obstruction, Pressions"
+      ],
+      "related_terms": [
+        "ventilation au masque",
+        "réanimation néonatale"
+      ],
+      "description": "Le FOP est utilisé pour identifier et corriger les problèmes de ventilation au masque.",
+      "expansion": "Fuites, Obstruction, Pressions",
+      "clinical_significance": "Outil important pour la réanimation néonatale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intubation endo-trachéale",
+      "definition": "Procédure médicale consistant à insérer un tube dans la trachée pour assurer une voie respiratoire sécurisée et permettre la ventilation mécanique.",
+      "category": "anatomie",
+      "synonyms": [
+        "intubation trachéale"
+      ],
+      "related_terms": [
+        "ventilation mécanique",
+        "trachée"
+      ],
+      "description": "Utilisée en cas de détresse respiratoire sévère ou d'arrêt cardiorespiratoire pour maintenir l'oxygénation et la ventilation.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des voies aériennes en réanimation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation en pression positive",
+      "definition": "Technique de ventilation mécanique où l'air est insufflé sous pression dans les poumons pour maintenir leur expansion.",
+      "category": "physiologie",
+      "synonyms": [
+        "VPP"
+      ],
+      "related_terms": [
+        "ventilation mécanique",
+        "pression positive"
+      ],
+      "description": "Utilisée pour améliorer l'oxygénation et la ventilation chez les patients en détresse respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Essentielle en réanimation pour maintenir une oxygénation adéquate.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compressions thoraciques",
+      "definition": "Technique de réanimation consistant à appuyer rythmiquement sur le sternum pour stimuler la circulation sanguine en cas d'arrêt cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "massage cardiaque"
+      ],
+      "related_terms": [
+        "réanimation cardio-pulmonaire",
+        "arrêt cardiaque"
+      ],
+      "description": "Utilisée pour maintenir la circulation sanguine et l'oxygénation des organes vitaux jusqu'à la reprise de l'activité cardiaque spontanée.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la survie en cas d'arrêt cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épinéphrine",
+      "definition": "Médicament vasopresseur utilisé en réanimation pour augmenter la pression artérielle et stimuler le cœur en cas d'arrêt cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "adrénaline"
+      ],
+      "related_terms": [
+        "réanimation cardio-pulmonaire",
+        "vasopresseur"
+      ],
+      "description": "Utilisée pour stimuler le cœur et augmenter la pression artérielle en cas d'arrêt cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Essentielle en réanimation pour la reprise de l'activité cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathéter veineux ombilical",
+      "definition": "Dispositif médical inséré dans le cordon ombilical pour administrer des médicaments ou des fluides directement dans la circulation sanguine du nouveau-né.",
+      "category": "anatomie",
+      "synonyms": [
+        "KTVO"
+      ],
+      "related_terms": [
+        "cordon ombilical",
+        "cathéter"
+      ],
+      "description": "Utilisé pour l'administration rapide de médicaments et de fluides chez les nouveau-nés en situation d'urgence.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des urgences néonatales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "culots globulaires",
+      "definition": "Concentré de globules rouges obtenu après centrifugation du sang total, utilisé pour les transfusions sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "concentré de globules rouges"
+      ],
+      "related_terms": [
+        "transfusion sanguine",
+        "globules rouges"
+      ],
+      "description": "Utilisé pour traiter l'anémie aiguë ou les hémorragies sévères.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des hémorragies et de l'anémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "O rhésus négatif",
+      "definition": "Groupe sanguin caractérisé par l'absence de l'antigène Rhésus D sur les globules rouges, souvent utilisé pour les transfusions sanguines en urgence.",
+      "category": "pathologie",
+      "synonyms": [
+        "O négatif"
+      ],
+      "related_terms": [
+        "groupe sanguin",
+        "transfusion sanguine"
+      ],
+      "description": "Utilisé en urgence pour les transfusions sanguines en raison de sa compatibilité universelle.",
+      "expansion": null,
+      "clinical_significance": "Important pour les transfusions sanguines en situation d'urgence.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "source_file": "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Arrêt Cardiorespiratoire/Courses/5 Arrêt cardio-circulatoire.md"
+  ],
+  "total_terms": 132
+}

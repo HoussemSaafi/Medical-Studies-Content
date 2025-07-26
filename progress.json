@@ -1,0 +1,94 @@
+{
+  "markdown_fix_progress": {
+    "total_files": 76,
+    "checked_files": 1,
+    "fixed_files": 1,
+    "files_with_issues": 1,
+    "start_time": "2024-12-19",
+    "status": "in_progress",
+    "specialties": {
+      "Cardiologie CCV": {
+        "checked": 1,
+        "fixed": 1,
+        "total": 6
+      },
+      "Chirurgie Générale": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 6
+      },
+      "Endocrinologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 6
+      },
+      "Gastrologie-Entérologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 4
+      },
+      "Gynécologie-Obstétrique": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 6
+      },
+      "Hématologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 5
+      },
+      "Infectieux": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 2
+      },
+      "Néphrologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 5
+      },
+      "Neurologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 3
+      },
+      "ORL, Ophtalmologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 4
+      },
+      "Ortho, Rhumato": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 3
+      },
+      "Pédiatrie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 3
+      },
+      "Pneumologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 5
+      },
+      "Psychiatrie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 4
+      },
+      "Réanimation": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 10
+      },
+      "Urologie": {
+        "checked": 0,
+        "fixed": 0,
+        "total": 3
+      }
+    },
+    "common_issues_found": [],
+    "fixes_applied": []
+  }
+} 

@@ -1,0 +1,51 @@
+{
+  "category": "enzymologie",
+  "terms": [
+    {
+      "term": "peptidylargininedéiminases",
+      "definition": "Enzymes responsables de la conversion de l'arginine en citrulline dans les protéines, impliquées dans la formation de peptides citrullinés.",
+      "category": "enzymologie",
+      "synonyms": [],
+      "related_terms": [
+        "citrullination",
+        "protéines citrullinées"
+      ],
+      "description": "Les peptidylargininedéiminases jouent un rôle clé dans la pathogenèse de la polyarthrite rhumatoïde en générant des peptides citrullinés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "peptidylargininedéiminases",
+        "citrullination"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métalloprotéinases matricielles",
+      "definition": "Enzymes capables de dégrader les composants de la matrice extracellulaire, impliquées dans la pathogenèse de la polyarthrite rhumatoïde.",
+      "category": "enzymologie",
+      "synonyms": [
+        "MMP"
+      ],
+      "related_terms": [
+        "matrice extracellulaire",
+        "dégradation"
+      ],
+      "description": "Les métalloprotéinases matricielles jouent un rôle clé dans la destruction articulaire observée dans la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métalloprotéinases matricielles",
+        "MMP"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 2,
+  "extraction_date": "20250605_212035"
+}

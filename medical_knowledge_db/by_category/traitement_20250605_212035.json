@@ -1,0 +1,53 @@
+{
+  "category": "traitement",
+  "terms": [
+    {
+      "term": "Laser CO2",
+      "definition": "Technique chirurgicale utilisant un laser à dioxyde de carbone pour vaporiser ou exciser des tissus anormaux, comme les condylomes.",
+      "category": "traitement",
+      "synonyms": [
+        "laser au CO2"
+      ],
+      "related_terms": [
+        "condylomes",
+        "traitement des verrues génitales"
+      ],
+      "description": "Le laser CO2 est utilisé pour traiter les verrues génitales en vaporisant les tissus affectés avec une grande précision.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des condylomes, mais peut causer des douleurs et des cicatrices.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Laser CO2",
+        "laser au CO2"
+      ],
+      "subject_id": "94af644e-95d2-4fb0-806f-c318eadd5341",
+      "source_file": "Infectieux/Infections Sexuellement Transmissibles/Courses/44 Infections sexuellement transmissibles 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Électrocoagulation à l'anse diathermique",
+      "definition": "Technique chirurgicale utilisant un courant électrique pour coaguler et détruire des tissus anormaux, comme les condylomes.",
+      "category": "traitement",
+      "synonyms": [
+        "électrocautérisation"
+      ],
+      "related_terms": [
+        "condylomes",
+        "traitement des verrues génitales"
+      ],
+      "description": "L'électrocoagulation utilise une anse diathermique pour appliquer un courant électrique et détruire les tissus des verrues génitales.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des condylomes, mais peut causer des douleurs et des cicatrices.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Électrocoagulation",
+        "électrocautérisation"
+      ],
+      "subject_id": "94af644e-95d2-4fb0-806f-c318eadd5341",
+      "source_file": "Infectieux/Infections Sexuellement Transmissibles/Courses/44 Infections sexuellement transmissibles 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 2,
+  "extraction_date": "20250605_212035"
+}

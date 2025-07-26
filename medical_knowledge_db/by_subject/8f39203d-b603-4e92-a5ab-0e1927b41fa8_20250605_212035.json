@@ -1,0 +1,1579 @@
+{
+  "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+  "terms": [
+    {
+      "term": "GEU",
+      "definition": "Grossesse Extra-Utérine, une condition où l'œuf s'implante en dehors de la cavité utérine.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "grossesse ectopique"
+      ],
+      "description": "La GEU est une urgence médico-chirurgicale en gynécologie et la première cause de mortalité maternelle au cours du premier trimestre.",
+      "expansion": "Grossesse Extra-Utérine",
+      "clinical_significance": "La GEU nécessite une intervention rapide pour éviter des complications graves comme la rupture tubaire et l'hémopéritoine.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "grossesse extra-utérine",
+        "rupture tubaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "AMP",
+      "definition": "Assistance Médicale à la Procréation, ensemble des techniques médicales visant à aider les couples infertiles à concevoir.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "FIV",
+        "ICSI"
+      ],
+      "description": "L'AMP inclut des techniques comme l'induction d'ovulation et le transfert d'embryons.",
+      "expansion": "Assistance Médicale à la Procréation",
+      "clinical_significance": "L'AMP peut augmenter le risque de GEU en raison de l'altération de la contractilité ciliaire et du reflux tubaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "assistance médicale à la procréation",
+        "FIV"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "ATCDs",
+      "definition": "Antécédents, informations médicales passées d'un patient.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "historique médical"
+      ],
+      "description": "Les ATCDs de GEU sont un facteur de risque important pour une nouvelle GEU.",
+      "expansion": "Antécédents",
+      "clinical_significance": "Les ATCDs sont cruciaux pour évaluer le risque de récidive de GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "antécédents médicaux"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "DIU",
+      "definition": "Dispositif Intra-Utérin, un moyen de contraception placé dans l'utérus.",
+      "category": "acronyme",
+      "synonyms": [
+        "stérilet"
+      ],
+      "related_terms": [
+        "contraception intra-utérine"
+      ],
+      "description": "Le DIU peut favoriser les infections génitales hautes (IGH), augmentant ainsi le risque de GEU.",
+      "expansion": "Dispositif Intra-Utérin",
+      "clinical_significance": "L'utilisation de DIU doit être évaluée en fonction du risque d'IGH et de GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "dispositif intra-utérin",
+        "stérilet"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "IGH",
+      "definition": "Infection Génitale Haute, infection affectant les organes génitaux internes.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "salpingite",
+        "endométrite"
+      ],
+      "description": "Les IGH sont un facteur de risque majeur pour la GEU en raison de l'altération de la fonction tubaire.",
+      "expansion": "Infection Génitale Haute",
+      "clinical_significance": "Les IGH doivent être traitées rapidement pour prévenir les complications comme la GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "infection génitale haute",
+        "salpingite"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β-HCG",
+      "definition": "Bêta-hCG, sous-unité bêta de l'hormone chorionique gonadotrope, produite par le trophoblaste pendant la grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "hCG bêta"
+      ],
+      "related_terms": [
+        "hCG",
+        "gonadotrophine chorionique"
+      ],
+      "description": "Le dosage de la β-HCG est utilisé pour confirmer la grossesse et surveiller son évolution.",
+      "expansion": "Bêta-hCG",
+      "clinical_significance": "Un taux de β-HCG qui ne double pas toutes les 48 heures est suspect de GEU.",
+      "normal_values": "Double toutes les 48 heures en grossesse normale",
+      "image_search_terms": [
+        "beta-hCG",
+        "hCG"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hématosalpinx",
+      "definition": "Accumulation de sang dans la trompe de Fallope, souvent due à une rupture de la trompe.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rupture tubaire",
+        "hémopéritoine"
+      ],
+      "description": "L'hématosalpinx est une complication de la GEU qui peut évoluer vers une rupture tubaire.",
+      "expansion": "",
+      "clinical_significance": "L'hématosalpinx nécessite une intervention chirurgicale urgente pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hématosalpinx",
+        "rupture tubaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "hémopéritoine",
+      "definition": "Présence de sang dans la cavité péritonéale, souvent due à une rupture de la trompe de Fallope.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rupture tubaire",
+        "hématosalpinx"
+      ],
+      "description": "L'hémopéritoine est une complication grave de la GEU qui peut entraîner un choc hémorragique.",
+      "expansion": "",
+      "clinical_significance": "L'hémopéritoine nécessite une intervention chirurgicale urgente pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hémopéritoine",
+        "rupture tubaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "cœlioscopie",
+      "definition": "Technique chirurgicale permettant de visualiser la cavité abdominale à l'aide d'un endoscope.",
+      "category": "imagerie",
+      "synonyms": [
+        "laparoscopie"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "chirurgie mini-invasive"
+      ],
+      "description": "La cœlioscopie est utilisée pour le diagnostic et le traitement de la GEU.",
+      "expansion": "",
+      "clinical_significance": "La cœlioscopie permet une visualisation directe et un traitement simultané de la GEU.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cœlioscopie",
+        "laparoscopie"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "métrorragies",
+      "definition": "Les métrorragies sont des saignements utérins anormaux survenant en dehors des règles menstruelles.",
+      "category": "pathologie",
+      "synonyms": [
+        "saignements utérins anormaux"
+      ],
+      "related_terms": [
+        "ménorragie",
+        "dysménorrhée"
+      ],
+      "description": "Les métrorragies peuvent être un signe de diverses pathologies gynécologiques, y compris la grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "Les métrorragies nécessitent une évaluation médicale pour déterminer la cause sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "métrorragies",
+        "saignements utérins anormaux"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TP/TV",
+      "definition": "TP/TV (Toucher Pelvien/Toucher Vaginal) est une méthode d'examen gynécologique pour évaluer les organes pelviens.",
+      "category": "imagerie",
+      "synonyms": [
+        "toucher pelvien",
+        "toucher vaginal"
+      ],
+      "related_terms": [
+        "examen gynécologique",
+        "douleur pelvienne"
+      ],
+      "description": "Le TP/TV est utilisé pour détecter des anomalies telles que des masses, des douleurs ou des saignements.",
+      "expansion": null,
+      "clinical_significance": "Un TP/TV douloureux peut indiquer une pathologie pelvienne grave, comme une grossesse extra-utérine.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TP/TV",
+        "toucher pelvien"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "CRP",
+      "definition": "CRP (Protéine C-réactive) est un marqueur de l'inflammation dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "protéine C-réactive"
+      ],
+      "related_terms": [
+        "inflammation",
+        "marqueurs biologiques"
+      ],
+      "description": "Un taux élevé de CRP indique une inflammation ou une infection dans le corps.",
+      "expansion": null,
+      "clinical_significance": "La CRP est utilisée pour surveiller l'activité inflammatoire dans diverses conditions médicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CRP",
+        "protéine C-réactive"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "VS",
+      "definition": "VS (Vitesse de Sédimentation) est un test sanguin qui mesure la vitesse à laquelle les globules rouges se déposent dans un tube.",
+      "category": "pathologie",
+      "synonyms": [
+        "vitesse de sédimentation"
+      ],
+      "related_terms": [
+        "inflammation",
+        "marqueurs biologiques"
+      ],
+      "description": "Une VS élevée peut indiquer une inflammation, une infection ou d'autres conditions médicales.",
+      "expansion": null,
+      "clinical_significance": "La VS est utilisée pour surveiller l'activité inflammatoire et l'efficacité du traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "VS",
+        "vitesse de sédimentation"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "Méthotrexate",
+      "definition": "Le Méthotrexate est un médicament antinéoplasique utilisé pour traiter diverses conditions, y compris la grossesse extra-utérine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "MTX"
+      ],
+      "related_terms": [
+        "antinéoplasique",
+        "antimitotique"
+      ],
+      "description": "Le Méthotrexate agit en inhibant la synthèse de l'ADN, ce qui arrête la croissance des cellules trophoblastiques.",
+      "expansion": null,
+      "clinical_significance": "Le Méthotrexate est une option thérapeutique pour les GEU non rompues et stables.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Méthotrexate",
+        "MTX"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "NFS",
+      "definition": "NFS (Numération Formule Sanguine) est un test sanguin qui évalue les différents types de cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "numération formule sanguine"
+      ],
+      "related_terms": [
+        "hémogramme",
+        "analyse sanguine"
+      ],
+      "description": "La NFS est utilisée pour diagnostiquer diverses conditions, y compris les infections, les anémies et les leucémies.",
+      "expansion": null,
+      "clinical_significance": "La NFS est un test de base pour évaluer l'état général de la santé.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NFS",
+        "numération formule sanguine"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "ASAT",
+      "definition": "ASAT (Aspartate Aminotransférase) est une enzyme présente dans le foie et d'autres tissus, utilisée comme marqueur de dommages hépatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "SGOT"
+      ],
+      "related_terms": [
+        "enzymes hépatiques",
+        "dommages hépatiques"
+      ],
+      "description": "Un taux élevé d'ASAT peut indiquer une hépatite, une cirrhose ou d'autres maladies du foie.",
+      "expansion": null,
+      "clinical_significance": "L'ASAT est utilisé pour surveiller la fonction hépatique et diagnostiquer les maladies du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ASAT",
+        "SGOT"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "ALAT",
+      "definition": "ALAT (Alanine Aminotransférase) est une enzyme présente principalement dans le foie, utilisée comme marqueur de dommages hépatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "SGPT"
+      ],
+      "related_terms": [
+        "enzymes hépatiques",
+        "dommages hépatiques"
+      ],
+      "description": "Un taux élevé d'ALAT peut indiquer une hépatite, une cirrhose ou d'autres maladies du foie.",
+      "expansion": null,
+      "clinical_significance": "L'ALAT est utilisé pour surveiller la fonction hépatique et diagnostiquer les maladies du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ALAT",
+        "SGPT"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "Créat",
+      "definition": "Créat (Créatinine) est un produit de déchet du métabolisme musculaire, utilisé pour évaluer la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "créatinine"
+      ],
+      "related_terms": [
+        "fonction rénale",
+        "insuffisance rénale"
+      ],
+      "description": "Un taux élevé de créatinine peut indiquer une insuffisance rénale ou d'autres problèmes rénaux.",
+      "expansion": null,
+      "clinical_significance": "La créatinine est utilisée pour surveiller la fonction rénale et diagnostiquer les maladies rénales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Créat",
+        "créatinine"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Laparoscopie",
+      "definition": "La laparoscopie est une technique chirurgicale mini-invasive utilisée pour examiner et opérer les organes abdominaux et pelviens.",
+      "category": "imagerie",
+      "synonyms": [
+        "cœlioscopie"
+      ],
+      "related_terms": [
+        "chirurgie mini-invasive",
+        "abdomen"
+      ],
+      "description": "La laparoscopie est souvent utilisée pour diagnostiquer et traiter les grossesses extra-utérines.",
+      "expansion": null,
+      "clinical_significance": "La laparoscopie est préférée pour sa morbidité réduite et sa durée d'hospitalisation plus courte.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Laparoscopie",
+        "cœlioscopie"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Salpingotomie",
+      "definition": "La salpingotomie est une procédure chirurgicale conservatrice utilisée pour traiter les grossesses extra-utérines en retirant l'embryon par une incision dans la trompe de Fallope.",
+      "category": "imagerie",
+      "synonyms": [
+        "salpingostomie"
+      ],
+      "related_terms": [
+        "chirurgie conservatrice",
+        "grossesse extra-utérine"
+      ],
+      "description": "La salpingotomie permet de préserver la trompe de Fallope, ce qui est important pour les femmes souhaitant une future grossesse.",
+      "expansion": null,
+      "clinical_significance": "La salpingotomie est une option thérapeutique pour les GEU non rompues et stables.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Salpingotomie",
+        "salpingostomie"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Salpingectomie",
+      "definition": "La salpingectomie est une procédure chirurgicale radicale utilisée pour traiter les grossesses extra-utérines en retirant la trompe de Fallope affectée.",
+      "category": "imagerie",
+      "synonyms": [
+        "ablation de la trompe"
+      ],
+      "related_terms": [
+        "chirurgie radicale",
+        "grossesse extra-utérine"
+      ],
+      "description": "La salpingectomie est indiquée en cas de récidive de GEU ou de trompe délabrée.",
+      "expansion": null,
+      "clinical_significance": "La salpingectomie est une option thérapeutique pour les GEU compliquées ou récidivantes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Salpingectomie",
+        "ablation de la trompe"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "TTT martial",
+      "definition": "Traitement visant à corriger l'anémie, souvent par l'administration de fer.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "traitement martial"
+      ],
+      "related_terms": [
+        "anémie ferriprive",
+        "supplémentation en fer"
+      ],
+      "description": "Le traitement martial est essentiel pour corriger l'anémie et améliorer l'état général du patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iron therapy",
+        "anemia treatment"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "Héparinothérapie",
+      "definition": "Traitement par l'héparine, un anticoagulant utilisé pour prévenir les thromboses veineuses profondes et les embolies pulmonaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "traitement par héparine"
+      ],
+      "related_terms": [
+        "anticoagulant",
+        "thrombose veineuse profonde"
+      ],
+      "description": "L'héparinothérapie est utilisée pour prévenir les complications thromboemboliques post-opératoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "heparin therapy",
+        "anticoagulant treatment"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ATE",
+      "definition": "Accident Thrombo-Embolique, une complication où un caillot sanguin se forme et peut se déplacer dans le système circulatoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboembolisme"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Les ATE peuvent entraîner des complications graves comme l'embolie pulmonaire ou l'infarctus.",
+      "expansion": "Accident Thrombo-Embolique",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thromboembolic event",
+        "blood clot"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "Anti D",
+      "definition": "Immunoglobuline utilisée pour prévenir l'allo-immunisation chez les femmes Rhésus négatif exposées à du sang Rhésus positif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Rho(D) immunoglobuline"
+      ],
+      "related_terms": [
+        "allo-immunisation",
+        "incompatibilité Rhésus"
+      ],
+      "description": "L'administration d'Anti D est essentielle pour prévenir la maladie hémolytique du nouveau-né.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-D immunoglobulin",
+        "Rh incompatibility"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "IST",
+      "definition": "Infections Sexuellement Transmissibles, des infections contractées lors de rapports sexuels non protégés.",
+      "category": "microbiologie",
+      "synonyms": [
+        "MST",
+        "infections sexuellement transmissibles"
+      ],
+      "related_terms": [
+        "syphilis",
+        "gonorrhée"
+      ],
+      "description": "Les IST peuvent avoir des conséquences graves sur la santé reproductive et générale.",
+      "expansion": "Infections Sexuellement Transmissibles",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sexually transmitted infections",
+        "STIs"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "Grossesse extra-utérine",
+      "definition": "Implantation de l'œuf fécondé en dehors de la cavité utérine, souvent dans les trompes de Fallope.",
+      "category": "pathologie",
+      "synonyms": [
+        "GEU"
+      ],
+      "related_terms": [
+        "grossesse tubaire",
+        "grossesse abdominale"
+      ],
+      "description": "La GEU est une urgence médicochirurgicale en gynécologie et la première cause de mortalité maternelle au cours du premier trimestre.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicochirurgicale en gynécologie",
+      "normal_values": null,
+      "image_search_terms": [
+        "grossesse extra-utérine",
+        "GEU"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "endomètre",
+      "definition": "Muqueuse qui tapisse l'intérieur de l'utérus et où l'œuf fécondé s'implante normalement.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "utérus",
+        "cavité utérine"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endomètre",
+        "muqueuse utérine"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pavillon",
+      "definition": "Partie évasée de la trompe de Fallope qui capte l'ovocyte libéré par l'ovaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "infundibulum"
+      ],
+      "related_terms": [
+        "trompe de Fallope",
+        "ovocyte"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pavillon trompe de Fallope",
+        "infundibulum"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cils vibratiles tubaires",
+      "definition": "Structures ciliaires présentes dans les trompes de Fallope qui aident à la progression de l'œuf fécondé vers l'utérus.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "trompes de Fallope",
+        "transport tubaire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cils vibratiles tubaires",
+        "transport tubaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infection génitale haute",
+      "definition": "Infection des organes génitaux supérieurs, incluant les trompes de Fallope, les ovaires et l'utérus.",
+      "category": "pathologie",
+      "synonyms": [
+        "IGH"
+      ],
+      "related_terms": [
+        "salpingite",
+        "pelvi-péritonite"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "infection génitale haute",
+        "IGH"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endométriose",
+      "definition": "Présence de tissu endométrial en dehors de la cavité utérine, souvent associée à des douleurs pelviennes et à l'infertilité.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénomyose",
+        "kyste endométriosique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endométriose",
+        "tissu endométrial"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dispositif intra-utérin",
+      "definition": "Dispositif contraceptif placé dans l'utérus pour prévenir la grossesse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "DIU",
+        "stérilet"
+      ],
+      "related_terms": [
+        "contraception",
+        "stérilet au cuivre"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dispositif intra-utérin",
+        "DIU"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Citrate de Clomifène",
+      "definition": "Médicament utilisé pour induire l'ovulation chez les femmes souffrant d'infertilité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Clomifène"
+      ],
+      "related_terms": [
+        "inducteur de l'ovulation",
+        "traitement de l'infertilité"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Citrate de Clomifène",
+        "Clomifène"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trophoblaste",
+      "definition": "Couche cellulaire externe de l'embryon qui donne naissance au placenta.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "placenta",
+        "embryon"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "trophoblaste",
+        "couche cellulaire embryonnaire"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BHCG",
+      "definition": "Bêta-hCG, une hormone produite par le placenta après la nidation de l'œuf fécondé.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-hCG",
+        "hormone chorionique gonadotrope"
+      ],
+      "related_terms": [
+        "test de grossesse",
+        "hormone placentaire"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "BHCG",
+        "bêta-hCG"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "grossesse",
+      "definition": "État physiologique de la femme enceinte, caractérisé par le développement d'un embryon ou d'un fœtus dans l'utérus.",
+      "category": "pathologie",
+      "synonyms": [
+        "gestation"
+      ],
+      "related_terms": [
+        "embryon",
+        "fœtus",
+        "utérus"
+      ],
+      "description": "La grossesse est un processus complexe qui commence par la fécondation et se termine par l'accouchement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Spéculum",
+      "definition": "Instrument médical utilisé pour écarter les parois du vagin ou d'autres cavités corporelles afin de permettre l'examen visuel.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "colposcope",
+        "vaginoscope"
+      ],
+      "description": "Le spéculum est essentiel pour les examens gynécologiques et permet de visualiser le col de l'utérus et les parois vaginales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "col congestif de grossesse",
+      "definition": "État du col de l'utérus pendant la grossesse, caractérisé par une augmentation de la vascularisation et une coloration bleutée.",
+      "category": "anatomie",
+      "synonyms": [
+        "col bleuté"
+      ],
+      "related_terms": [
+        "col de l'utérus",
+        "vascularisation"
+      ],
+      "description": "Le col congestif de grossesse est un signe physiologique normal observé pendant la grossesse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaire cervicale",
+      "definition": "Sécrétion produite par les glandes du col de l'utérus, dont la consistance et la quantité varient en fonction du cycle menstruel.",
+      "category": "physiologie",
+      "synonyms": [
+        "mucus cervical"
+      ],
+      "related_terms": [
+        "col de l'utérus",
+        "cycle menstruel"
+      ],
+      "description": "La glaire cervicale joue un rôle crucial dans la fertilité en facilitant le passage des spermatozoïdes vers l'utérus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endo-utérine",
+      "definition": "Relatif à l'intérieur de l'utérus.",
+      "category": "anatomie",
+      "synonyms": [
+        "intra-utérin"
+      ],
+      "related_terms": [
+        "utérus",
+        "cavité utérine"
+      ],
+      "description": "Le terme endo-utérine fait référence à tout ce qui se trouve à l'intérieur de l'utérus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cul de sac de Douglas",
+      "definition": "Espace anatomique situé entre le rectum et l'utérus, également connu sous le nom de poche recto-utérine.",
+      "category": "anatomie",
+      "synonyms": [
+        "poche recto-utérine"
+      ],
+      "related_terms": [
+        "rectum",
+        "utérus",
+        "péritoine"
+      ],
+      "description": "Le cul de sac de Douglas est un site fréquent de collecte de liquide ou de sang en cas de pathologies pelviennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie pelvienne",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les organes et structures du bassin.",
+      "category": "imagerie",
+      "synonyms": [
+        "ultrason pelvien"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "pelvis",
+        "imagerie médicale"
+      ],
+      "description": "L'échographie pelvienne est utilisée pour diagnostiquer diverses conditions gynécologiques et obstétricales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sac gestationnel",
+      "definition": "Structure visible à l'échographie qui représente le début de la formation de l'embryon dans l'utérus.",
+      "category": "anatomie",
+      "synonyms": [
+        "sac embryonnaire"
+      ],
+      "related_terms": [
+        "embryon",
+        "utérus",
+        "échographie"
+      ],
+      "description": "Le sac gestationnel est un signe précoce de grossesse intra-utérine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fertilité",
+      "definition": "Capacité de produire des gamètes fonctionnels et de concevoir un enfant.",
+      "category": "physiologie",
+      "synonyms": [
+        "fécondité"
+      ],
+      "related_terms": [
+        "gamètes",
+        "conception",
+        "reproduction"
+      ],
+      "description": "La fertilité est influencée par de nombreux facteurs, y compris l'âge, la santé générale et les conditions médicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Douglas",
+      "definition": "Nom donné à l'espace situé entre le rectum et l'utérus, également connu sous le nom de cul de sac de Douglas.",
+      "category": "anatomie",
+      "synonyms": [
+        "cul de sac de Douglas"
+      ],
+      "related_terms": [
+        "rectum",
+        "utérus",
+        "péritoine"
+      ],
+      "description": "Le cul de sac de Douglas est un site fréquent de collecte de liquide ou de sang en cas de pathologies pelviennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ténesme",
+      "definition": "Sensation d'urgence rectale, souvent accompagnée de douleur, sans passage de selles.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rectum",
+        "douleur",
+        "selles"
+      ],
+      "description": "Le ténesme peut être causé par diverses conditions, y compris les hémorroïdes, les fissures anales et les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysurie",
+      "definition": "Difficulté ou douleur lors de la miction.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "miction",
+        "douleur",
+        "infection urinaire"
+      ],
+      "description": "La dysurie est souvent un symptôme d'infection urinaire, mais peut également être causée par d'autres conditions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dyspareunie",
+      "definition": "Douleur pendant les rapports sexuels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rapports sexuels",
+        "douleur",
+        "vagin"
+      ],
+      "description": "La dyspareunie peut être causée par diverses conditions, y compris les infections, les sécheresses vaginales et les troubles psychologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sub-ictère",
+      "definition": "Jaunissement léger de la peau et des muqueuses, souvent dû à une légère élévation de la bilirubine.",
+      "category": "pathologie",
+      "synonyms": [
+        "ictère léger"
+      ],
+      "related_terms": [
+        "jaunisse",
+        "bilirubine",
+        "foie"
+      ],
+      "description": "Le sub-ictère peut être causé par diverses conditions, y compris les maladies hépatiques et les obstructions biliaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asthénie",
+      "definition": "Faiblesse ou fatigue générale, souvent associée à une maladie ou à un état de santé détérioré.",
+      "category": "pathologie",
+      "synonyms": [
+        "faiblesse",
+        "fatigue"
+      ],
+      "related_terms": [
+        "maladie",
+        "santé",
+        "énergie"
+      ],
+      "description": "L'asthénie peut être un symptôme de diverses conditions, y compris les infections, les anémies et les troubles endocriniens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "villosités choriales",
+      "definition": "Les villosités choriales sont des structures en forme de doigts qui se développent à partir du chorion, la membrane externe de l'embryon, et qui s'insèrent dans l'endomètre pour former le placenta.",
+      "category": "anatomie",
+      "synonyms": [
+        "villosités trophoblastiques"
+      ],
+      "related_terms": [
+        "chorion",
+        "placenta",
+        "endomètre"
+      ],
+      "description": "L'absence de villosités choriales dans le produit de curetage peut indiquer une grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "La présence ou l'absence de villosités choriales est un élément diagnostique clé dans l'évaluation des produits de curetage.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperleucocytose",
+      "definition": "L'hyperleucocytose est une augmentation anormale du nombre de leucocytes (globules blancs) dans le sang, souvent en réponse à une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucocytose"
+      ],
+      "related_terms": [
+        "leucocytes",
+        "infection",
+        "inflammation"
+      ],
+      "description": "L'hyperleucocytose peut être un signe d'infection génitale haute dans le contexte d'une grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "La présence d'hyperleucocytose peut orienter vers un diagnostic d'infection et nécessiter une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GIU",
+      "definition": "Grossesse Intra-Utérine (GIU) est une grossesse où l'embryon s'implante et se développe normalement dans la cavité utérine.",
+      "category": "pathologie",
+      "synonyms": [
+        "grossesse intra-utérine"
+      ],
+      "related_terms": [
+        "grossesse",
+        "utérus"
+      ],
+      "description": "La GIU est la forme normale de grossesse où l'embryon se développe dans l'utérus.",
+      "expansion": null,
+      "clinical_significance": "La distinction entre GIU et GEU est cruciale pour la prise en charge appropriée de la grossesse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "histologie",
+      "definition": "L'histologie est l'étude des tissus biologiques au microscope, permettant d'identifier les structures cellulaires et tissulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "examen histologique"
+      ],
+      "related_terms": [
+        "biopsie",
+        "tissu",
+        "microscope"
+      ],
+      "description": "L'examen histologique du produit de révision utérine permet de confirmer le diagnostic de grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "L'histologie est essentielle pour le diagnostic définitif de certaines conditions pathologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "appendicite",
+      "definition": "L'appendicite est une inflammation de l'appendice, une petite poche en forme de doigt attachée au cæcum.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de l'appendice"
+      ],
+      "related_terms": [
+        "appendice",
+        "cæcum",
+        "inflammation"
+      ],
+      "description": "L'appendicite peut présenter des symptômes similaires à ceux d'une grossesse extra-utérine, nécessitant une évaluation différentielle.",
+      "expansion": null,
+      "clinical_significance": "Le diagnostic correct de l'appendicite est crucial pour éviter des complications graves comme la péritonite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "torsion",
+      "definition": "La torsion est la rotation d'un organe sur son axe, souvent appliquée à la torsion ovarienne ou testiculaire, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "torsion ovarienne",
+        "torsion testiculaire"
+      ],
+      "related_terms": [
+        "ovaire",
+        "testicule",
+        "ischémie"
+      ],
+      "description": "La torsion d'un kyste de l'ovaire peut présenter des symptômes similaires à ceux d'une grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "La torsion nécessite une intervention chirurgicale rapide pour éviter des dommages irréversibles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrome",
+      "definition": "Un fibrome est une tumeur bénigne composée de tissu fibreux et musculaire, souvent trouvée dans l'utérus.",
+      "category": "pathologie",
+      "synonyms": [
+        "léiomyome"
+      ],
+      "related_terms": [
+        "utérus",
+        "tumeur bénigne"
+      ],
+      "description": "Un fibrome sous-séreux peut se tordre et causer des symptômes similaires à ceux d'une grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "Les fibromes peuvent causer des symptômes variés et nécessitent une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyélonéphrite",
+      "definition": "La pyélonéphrite est une infection bactérienne du rein, souvent causée par une infection ascendante des voies urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection rénale"
+      ],
+      "related_terms": [
+        "rein",
+        "infection urinaire"
+      ],
+      "description": "La pyélonéphrite peut présenter des symptômes similaires à ceux d'une grossesse extra-utérine, nécessitant une évaluation différentielle.",
+      "expansion": null,
+      "clinical_significance": "Le diagnostic et le traitement rapide de la pyélonéphrite sont essentiels pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "laparotomie",
+      "definition": "La laparotomie est une incision chirurgicale de la paroi abdominale pour accéder à la cavité abdominale.",
+      "category": "chirurgie",
+      "synonyms": [
+        "chirurgie ouverte"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "abdomen"
+      ],
+      "description": "La laparotomie est une approche chirurgicale conventionnelle pour le traitement de la grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "La laparotomie est utilisée lorsque la cœlioscopie n'est pas possible ou contre-indiquée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accidents thromboemboliques",
+      "definition": "Les accidents thromboemboliques sont des complications médicales graves où un caillot sanguin (thrombus) se forme et peut se déplacer (embolie) pour bloquer un vaisseau sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboembolie"
+      ],
+      "related_terms": [
+        "thrombus",
+        "embolie",
+        "caillot sanguin"
+      ],
+      "description": "La prévention des accidents thromboemboliques est cruciale après une chirurgie pour la grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "Les accidents thromboemboliques peuvent être mortels et nécessitent une prévention rigoureuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GS Rhésus négatif",
+      "definition": "Le groupe sanguin Rhésus négatif (GS Rhésus négatif) est un groupe sanguin où l'antigène Rhésus D est absent sur les globules rouges.",
+      "category": "classification",
+      "synonyms": [
+        "Rhésus négatif"
+      ],
+      "related_terms": [
+        "groupe sanguin",
+        "Rhésus"
+      ],
+      "description": "La prévention de l'allo-immunisation Rhésus est importante chez les femmes Rhésus négatif après une grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "L'allo-immunisation Rhésus peut entraîner des complications lors des grossesses futures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "globulines anti-D",
+      "definition": "Les globulines anti-D sont des immunoglobulines utilisées pour prévenir l'allo-immunisation Rhésus chez les femmes Rhésus négatif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunoglobulines anti-D"
+      ],
+      "related_terms": [
+        "allo-immunisation",
+        "Rhésus"
+      ],
+      "description": "Les globulines anti-D sont administrées pour prévenir la formation d'anticorps anti-Rhésus chez les femmes Rhésus négatif.",
+      "expansion": null,
+      "clinical_significance": "La prévention de l'allo-immunisation Rhésus est cruciale pour éviter des complications lors des grossesses futures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β HCG",
+      "definition": "Beta-human chorionic gonadotropin, une hormone produite pendant la grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "hCG bêta",
+        "beta-hCG"
+      ],
+      "related_terms": [
+        "HCG",
+        "gonadotrophine chorionique"
+      ],
+      "description": "Utilisée pour surveiller l'évolution de la grossesse et détecter certaines anomalies.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour le suivi des grossesses extra-utérines.",
+      "normal_values": "Valeurs normales varient selon le stade de la grossesse.",
+      "image_search_terms": [
+        "beta HCG",
+        "hCG test"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GS",
+      "definition": "Groupe Sanguin, classification des types de sang basée sur la présence ou l'absence d'antigènes à la surface des globules rouges.",
+      "category": "classification",
+      "synonyms": [
+        "groupe sanguin"
+      ],
+      "related_terms": [
+        "ABO",
+        "Rhésus"
+      ],
+      "description": "Important pour les transfusions sanguines et la compatibilité mère-enfant.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "groupe sanguin",
+        "blood group"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RAI",
+      "definition": "Recherche d'Aggrégats Irréguliers, un test sanguin pour détecter la présence d'anticorps irréguliers dans le sang.",
+      "category": "classification",
+      "synonyms": [
+        "RAI",
+        "irregular antibody screen"
+      ],
+      "related_terms": [
+        "Coombs indirect",
+        "anticorps irréguliers"
+      ],
+      "description": "Utilisé pour prévenir les réactions transfusionnelles et les incompatibilités fœto-maternelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "RAI",
+        "irregular antibody screen"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TCA",
+      "definition": "Temps de Céphaline Activée, un test mesurant le temps nécessaire pour la formation d'un caillot sanguin via la voie intrinsèque de la coagulation.",
+      "category": "classification",
+      "synonyms": [
+        "aPTT",
+        "activated partial thromboplastin time"
+      ],
+      "related_terms": [
+        "TCK",
+        "temps de céphaline"
+      ],
+      "description": "Utilisé pour évaluer les troubles de la coagulation et surveiller les traitements anticoagulants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TCA",
+        "aPTT"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MTX",
+      "definition": "Méthotrexate, un médicament antimétabolite utilisé pour traiter diverses conditions, y compris certaines formes de cancer et les grossesses extra-utérines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "méthotrexate"
+      ],
+      "related_terms": [
+        "chimiothérapie",
+        "antimétabolite"
+      ],
+      "description": "Utilisé pour arrêter la croissance des cellules trophoblastiques dans les grossesses extra-utérines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "méthotrexate",
+        "MTX"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plastie tubaire",
+      "definition": "Procédure chirurgicale visant à réparer ou reconstruire une trompe de Fallope endommagée.",
+      "category": "anatomie",
+      "synonyms": [
+        "tuboplastie"
+      ],
+      "related_terms": [
+        "salpingostomie",
+        "chirurgie réparatrice"
+      ],
+      "description": "Utilisée pour traiter les obstructions ou les lésions des trompes de Fallope.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plastie tubaire",
+        "tuboplasty"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombopénie",
+      "definition": "Réduction du nombre de plaquettes dans le sang, pouvant entraîner des saignements anormaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombocytopénie"
+      ],
+      "related_terms": [
+        "plaquettes",
+        "hémorragie"
+      ],
+      "description": "Peut être causée par diverses conditions médicales ou médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombopénie",
+        "thrombocytopenia"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucopénie",
+      "definition": "Réduction du nombre de globules blancs dans le sang, pouvant entraîner une susceptibilité accrue aux infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucocytopénie"
+      ],
+      "related_terms": [
+        "globules blancs",
+        "infection"
+      ],
+      "description": "Peut être causée par diverses conditions médicales ou médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "leucopénie",
+        "leukopenia"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hb",
+      "definition": "Hémoglobine, une protéine présente dans les globules rouges qui transporte l'oxygène dans le sang.",
+      "category": "classification",
+      "synonyms": [
+        "hémoglobine"
+      ],
+      "related_terms": [
+        "globules rouges",
+        "anémie"
+      ],
+      "description": "Utilisée pour diagnostiquer et surveiller les anémies et autres conditions hématologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hb",
+        "hemoglobin"
+      ],
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+    "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Resumes/GrossesseExtraUterine_Final.md"
+  ],
+  "total_terms": 72
+}

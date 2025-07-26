@@ -1,0 +1,2936 @@
+{
+  "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+  "terms": [
+    {
+      "term": "HLA-DRB1",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, impliqué dans la présentation des antigènes aux lymphocytes T et associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DRB1 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DRB1",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTPN22",
+      "definition": "Gène codant pour une protéine tyrosine phosphatase non réceptrice 22, impliquée dans la régulation de la réponse immunitaire et associée à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "protéine tyrosine phosphatase",
+        "réponse immunitaire"
+      ],
+      "description": "Les polymorphismes de PTPN22 sont associés à un risque accru de maladies auto-immunes, y compris la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PTPN22",
+        "protéine tyrosine phosphatase"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STAT4",
+      "definition": "Gène codant pour une protéine de signalisation et de transcription 4, impliquée dans la régulation de la réponse immunitaire et associée à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "signalisation cellulaire",
+        "réponse immunitaire"
+      ],
+      "description": "Les polymorphismes de STAT4 sont associés à un risque accru de maladies auto-immunes, y compris la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "STAT4",
+        "signalisation cellulaire"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autoanticorps antiprotéines citrullinées",
+      "definition": "Autoanticorps dirigés contre les protéines citrullinées, souvent présents dans le sérum des patients atteints de polyarthrite rhumatoïde.",
+      "category": "immunologie",
+      "synonyms": [
+        "ACPA"
+      ],
+      "related_terms": [
+        "protéines citrullinées",
+        "autoanticorps"
+      ],
+      "description": "Les ACPA sont des marqueurs sérologiques spécifiques et sensibles pour le diagnostic de la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "autoanticorps antiprotéines citrullinées",
+        "ACPA"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "peptidylargininedéiminases",
+      "definition": "Enzymes responsables de la conversion de l'arginine en citrulline dans les protéines, impliquées dans la formation de peptides citrullinés.",
+      "category": "enzymologie",
+      "synonyms": [],
+      "related_terms": [
+        "citrullination",
+        "protéines citrullinées"
+      ],
+      "description": "Les peptidylargininedéiminases jouent un rôle clé dans la pathogenèse de la polyarthrite rhumatoïde en générant des peptides citrullinés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "peptidylargininedéiminases",
+        "citrullination"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-DR4",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DR4 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DR4",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-DR1",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DR1 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DR1",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes T CD4+",
+      "definition": "Sous-type de lymphocytes T qui expriment le co-récepteur CD4 et jouent un rôle clé dans la régulation de la réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "lymphocytes T auxiliaires"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "CD4"
+      ],
+      "description": "Les lymphocytes T CD4+ sont impliqués dans l'activation et la régulation des réponses immunitaires adaptatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphocytes T CD4+",
+        "lymphocytes T auxiliaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Th17",
+      "definition": "Sous-type de lymphocytes T auxiliaires qui produisent des cytokines pro-inflammatoires telles que l'IL-17.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphocytes T auxiliaires",
+        "IL-17"
+      ],
+      "description": "Les lymphocytes Th17 jouent un rôle clé dans la réponse immunitaire contre les infections extracellulaires et sont impliqués dans les maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Th17",
+        "lymphocytes T auxiliaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synovite rhumatoïde",
+      "definition": "Inflammation de la membrane synoviale caractéristique de la polyarthrite rhumatoïde, entraînant une prolifération des cellules synoviales et une infiltration de cellules immunitaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "pannus synovial"
+      ],
+      "related_terms": [
+        "synovite",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "La synovite rhumatoïde est responsable des destructions articulaires observées dans la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "synovite rhumatoïde",
+        "pannus synovial"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synoviocytes",
+      "definition": "Cellules résidentes de la membrane synoviale, comprenant des cellules de type macrophagique et fibroblastique.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "membrane synoviale",
+        "cellules synoviales"
+      ],
+      "description": "Les synoviocytes jouent un rôle clé dans la pathogenèse de la polyarthrite rhumatoïde en contribuant à la production de cytokines pro-inflammatoires et à la dégradation de la matrice extracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "synoviocytes",
+        "cellules synoviales"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PGE2",
+      "definition": "Prostaglandine E2, médiateur lipidique impliqué dans l'inflammation et la douleur.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "prostaglandine",
+        "inflammation"
+      ],
+      "description": "La PGE2 contribue à la pathogenèse de la polyarthrite rhumatoïde en favorisant l'inflammation et la dégradation de la matrice extracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PGE2",
+        "prostaglandine E2"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métalloprotéinases matricielles",
+      "definition": "Enzymes capables de dégrader les composants de la matrice extracellulaire, impliquées dans la pathogenèse de la polyarthrite rhumatoïde.",
+      "category": "enzymologie",
+      "synonyms": [
+        "MMP"
+      ],
+      "related_terms": [
+        "matrice extracellulaire",
+        "dégradation"
+      ],
+      "description": "Les métalloprotéinases matricielles jouent un rôle clé dans la destruction articulaire observée dans la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métalloprotéinases matricielles",
+        "MMP"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chondrolyse",
+      "definition": "Dégradation du cartilage articulaire, observée dans la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cartilage articulaire",
+        "dégradation"
+      ],
+      "description": "La chondrolyse est responsable des destructions articulaires observées dans la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "chondrolyse",
+        "dégradation du cartilage"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PDGF",
+      "definition": "Platelet-Derived Growth Factor, facteur de croissance impliqué dans la prolifération cellulaire.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le PDGF joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PDGF",
+        "Platelet-Derived Growth Factor"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FGF-1",
+      "definition": "Fibroblast Growth Factor 1, facteur de croissance impliqué dans la prolifération cellulaire et l'angiogenèse.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le FGF-1 joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire et l'angiogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FGF-1",
+        "Fibroblast Growth Factor 1"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FGF-2",
+      "definition": "Fibroblast Growth Factor 2, facteur de croissance impliqué dans la prolifération cellulaire et l'angiogenèse.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le FGF-2 joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire et l'angiogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FGF-2",
+        "Fibroblast Growth Factor 2"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pannus synovial",
+      "definition": "Tissu inflammatoire qui envahit et détruit les surfaces articulaires dans la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "pannus"
+      ],
+      "related_terms": [
+        "synoviale",
+        "articulation"
+      ],
+      "description": "Le pannus synovial est une caractéristique pathologique de la polyarthrite rhumatoïde, contribuant à l'érosion osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NF-kB",
+      "definition": "Facteur nucléaire kappa B, une protéine complexe qui contrôle la transcription du DNA.",
+      "category": "physiologie",
+      "synonyms": [
+        "nuclear factor kappa B"
+      ],
+      "related_terms": [
+        "RANK",
+        "RANKL"
+      ],
+      "description": "NF-kB joue un rôle clé dans les réponses immunitaires, l'inflammation et la survie cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-6R",
+      "definition": "Récepteur de l'interleukine 6, une cytokine pro-inflammatoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "interleukin-6 receptor"
+      ],
+      "related_terms": [
+        "IL-6",
+        "cytokines"
+      ],
+      "description": "Le blocage de l'IL-6R est une stratégie thérapeutique dans le traitement de la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CD20",
+      "definition": "Antigène de surface des lymphocytes B, cible thérapeutique dans plusieurs maladies auto-immunes et cancers.",
+      "category": "pathologie",
+      "synonyms": [
+        "cluster of differentiation 20"
+      ],
+      "related_terms": [
+        "lymphocytes B",
+        "anticorps"
+      ],
+      "description": "Les traitements ciblant CD20, comme le rituximab, sont utilisés pour dépléter les lymphocytes B.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CTLA4-Ig",
+      "definition": "Molécule de fusion utilisée pour bloquer la costimulation des lymphocytes T, utilisée dans le traitement de la polyarthrite rhumatoïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "abatacept"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "costimulation"
+      ],
+      "description": "CTLA4-Ig agit en inhibant l'activation des lymphocytes T, réduisant ainsi l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Janus kinases",
+      "definition": "Famille d'enzymes intracellulaires qui transmettent des signaux des récepteurs de cytokines à l'intérieur de la cellule.",
+      "category": "physiologie",
+      "synonyms": [
+        "JAK"
+      ],
+      "related_terms": [
+        "cytokines",
+        "signalisation"
+      ],
+      "description": "Les inhibiteurs des Janus kinases sont utilisés pour traiter plusieurs maladies inflammatoires et auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synovites",
+      "definition": "Inflammation de la synoviale, la membrane qui tapisse les articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "synovitis"
+      ],
+      "related_terms": [
+        "synoviale",
+        "articulation"
+      ],
+      "description": "Les synovites sont une caractéristique commune de la polyarthrite rhumatoïde et d'autres maladies inflammatoires des articulations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyarthrite acromélique",
+      "definition": "Forme de polyarthrite affectant principalement les articulations des extrémités (mains et pieds).",
+      "category": "pathologie",
+      "synonyms": [
+        "acromelic polyarthritis"
+      ],
+      "related_terms": [
+        "polyarthrite",
+        "articulations"
+      ],
+      "description": "La polyarthrite acromélique est souvent symétrique et bilatérale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "squeeze test",
+      "definition": "Test clinique utilisé pour évaluer la douleur articulaire en comprimant les articulations métacarpophalangiennes ou métatarsophalangiennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "test de compression"
+      ],
+      "related_terms": [
+        "articulations",
+        "douleur"
+      ],
+      "description": "Le squeeze test est utilisé pour détecter la présence de synovites ou d'épanchements articulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rhumatisme psoriasique",
+      "definition": "Maladie inflammatoire chronique affectant les articulations et la peau, associée au psoriasis.",
+      "category": "pathologie",
+      "synonyms": [
+        "psoriatic arthritis"
+      ],
+      "related_terms": [
+        "psoriasis",
+        "arthrite"
+      ],
+      "description": "Le rhumatisme psoriasique peut affecter les articulations périphériques et axiales, ainsi que les enthèses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrites septiques",
+      "definition": "Infections articulaires causées par des bactéries, souvent associées à une rougeur et une chaleur locales.",
+      "category": "pathologie",
+      "synonyms": [
+        "septic arthritis"
+      ],
+      "related_terms": [
+        "arthrite",
+        "infection"
+      ],
+      "description": "Les arthrites septiques nécessitent un traitement antibiotique rapide pour éviter des dommages articulaires permanents.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrites microcristallines",
+      "definition": "Inflammation articulaire causée par la présence de cristaux dans les articulations, comme dans la goutte.",
+      "category": "pathologie",
+      "synonyms": [
+        "microcrystalline arthritis"
+      ],
+      "related_terms": [
+        "goutte",
+        "arthrite"
+      ],
+      "description": "Les arthrites microcristallines sont souvent associées à des épisodes aigus de douleur et de gonflement articulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ténosynovites",
+      "definition": "Inflammation de la gaine synoviale des tendons.",
+      "category": "pathologie",
+      "synonyms": [
+        "tenosynovitis"
+      ],
+      "related_terms": [
+        "tendons",
+        "synoviale"
+      ],
+      "description": "Les ténosynovites peuvent causer une douleur et un gonflement le long des tendons affectés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudo-polyarthrite rhizomélique",
+      "definition": "Maladie inflammatoire chronique affectant principalement les articulations proches du tronc (épaules et hanches).",
+      "category": "pathologie",
+      "synonyms": [
+        "polymyalgia rheumatica"
+      ],
+      "related_terms": [
+        "polyarthrite",
+        "articulations"
+      ],
+      "description": "La pseudo-polyarthrite rhizomélique est souvent associée à une altération de l'état général et une élévation des marqueurs inflammatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite microcristalline",
+      "definition": "Inflammation articulaire causée par la présence de cristaux dans les articulations, comme dans la goutte.",
+      "category": "pathologie",
+      "synonyms": [
+        "microcrystalline arthritis"
+      ],
+      "related_terms": [
+        "goutte",
+        "arthrite"
+      ],
+      "description": "Les arthrites microcristallines sont souvent associées à des épisodes aigus de douleur et de gonflement articulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACPA",
+      "definition": "Anticorps anti-peptides citrullinés, des auto-anticorps spécifiques de la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "anti-citrullinated protein antibodies"
+      ],
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "auto-anticorps"
+      ],
+      "description": "Les ACPA sont des marqueurs sérologiques plus spécifiques que le FR pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Waaler-Rose",
+      "definition": "Test historique de détection du facteur rhumatoïde basé sur l'agglutination des globules rouges de mouton sensibilisés par un sérum de lapin antiglobules rouges de mouton.",
+      "category": "pathologie",
+      "synonyms": [
+        "Réaction de Waaler-Rose"
+      ],
+      "related_terms": [
+        "facteur rhumatoïde",
+        "agglutination",
+        "globules rouges"
+      ],
+      "description": "Ce test a été largement remplacé par des techniques plus modernes comme la néphélométrie laser ou le test ELISA.",
+      "expansion": "Réaction de Waaler-Rose",
+      "clinical_significance": "Historiquement utilisé pour détecter le facteur rhumatoïde, mais moins précis que les méthodes actuelles.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "Waaler-Rose",
+        "facteur rhumatoïde",
+        "agglutination"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Waldenström",
+      "definition": "Maladie de Waldenström, une forme de lymphome non hodgkinien caractérisée par une prolifération de lymphocytes B produisant une immunoglobuline M anormale.",
+      "category": "pathologie",
+      "synonyms": [
+        "Macroglobulinémie de Waldenström"
+      ],
+      "related_terms": [
+        "lymphome non hodgkinien",
+        "lymphocytes B",
+        "immunoglobuline M"
+      ],
+      "description": "La maladie de Waldenström peut entraîner une hyperviscosité sanguine et des complications neurologiques.",
+      "expansion": "Macroglobulinémie de Waldenström",
+      "clinical_significance": "La maladie nécessite une prise en charge spécialisée et un traitement par chimiothérapie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Waldenström",
+        "lymphome non hodgkinien",
+        "immunoglobuline M"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "peptidylargininedéiminase",
+      "definition": "Enzyme qui catalyse la conversion des résidus d'arginine en citrulline dans les protéines.",
+      "category": "pathologie",
+      "synonyms": [
+        "Peptidylargininedéiminase"
+      ],
+      "related_terms": [
+        "enzyme",
+        "arginine",
+        "citrulline"
+      ],
+      "description": "Cette enzyme joue un rôle clé dans la formation des protéines citrullinées, qui sont des cibles des ACPA.",
+      "expansion": "Peptidylargininedéiminase",
+      "clinical_significance": "Impliquée dans la pathogenèse de la polyarthrite rhumatoïde.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "peptidylargininedéiminase",
+        "enzyme",
+        "citrulline"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CCP",
+      "definition": "Cyclic Citrullinated Peptide, un peptide cyclique citrulliné utilisé comme substrat dans les tests ELISA pour détecter les ACPA.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cyclic Citrullinated Peptide"
+      ],
+      "related_terms": [
+        "peptide",
+        "citrulliné",
+        "ELISA"
+      ],
+      "description": "Les tests anti-CCP sont utilisés pour détecter les ACPA dans le diagnostic de la polyarthrite rhumatoïde.",
+      "expansion": "Cyclic Citrullinated Peptide",
+      "clinical_significance": "Les tests anti-CCP sont des outils diagnostiques importants pour la polyarthrite rhumatoïde.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "CCP",
+        "peptide",
+        "citrulliné"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synovite",
+      "definition": "Inflammation de la synoviale, la membrane qui tapisse les articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "Synovite"
+      ],
+      "related_terms": [
+        "synoviale",
+        "inflammation",
+        "articulations"
+      ],
+      "description": "La synovite est une caractéristique commune de nombreuses maladies rhumatismales, y compris la polyarthrite rhumatoïde.",
+      "expansion": "Synovite",
+      "clinical_significance": "La synovite peut entraîner une douleur, un gonflement et une raideur articulaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "synovite",
+        "synoviale",
+        "inflammation"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Brown",
+      "definition": "Signe de Brown, une érosion osseuse spécifique observée sur les radiographies des pieds dans la polyarthrite rhumatoïde, en regard des têtes des 5e métatarsiens.",
+      "category": "imagerie",
+      "synonyms": [
+        "Signe de Brown"
+      ],
+      "related_terms": [
+        "érosion osseuse",
+        "radiographies",
+        "métatarsiens"
+      ],
+      "description": "Le signe de Brown est un indicateur radiologique de la polyarthrite rhumatoïde.",
+      "expansion": "Signe de Brown",
+      "clinical_significance": "Le signe de Brown est utile pour le diagnostic et le suivi de la polyarthrite rhumatoïde.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Brown",
+        "érosion osseuse",
+        "radiographies"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyarthrite",
+      "definition": "Inflammation de plusieurs articulations, souvent utilisée pour décrire la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyarthrite rhumatoïde"
+      ],
+      "related_terms": [
+        "arthrite",
+        "rhumatisme"
+      ],
+      "description": "La polyarthrite rhumatoïde est une maladie auto-immune chronique caractérisée par une inflammation des articulations.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des déformations articulaires et un handicap fonctionnel.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polyarthrite rhumatoïde",
+        "arthrite"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DAS28-VS",
+      "definition": "Score composite utilisé pour évaluer l'activité de la polyarthrite rhumatoïde, basé sur le nombre d'articulations douloureuses et gonflées, la vitesse de sédimentation et l'évaluation globale de la maladie par le patient.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": [
+        "DAS28-CRP",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Le DAS28-VS est un outil essentiel pour suivre l'évolution de la maladie et ajuster le traitement.",
+      "expansion": "Disease Activity Score 28 - Vitesse de Sédimentation",
+      "clinical_significance": "Utilisé pour déterminer la rémission ou l'activité de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DAS28",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DAS28-VS / CRP",
+      "definition": "Score composite utilisé pour évaluer l'activité de la polyarthrite rhumatoïde, basé sur le nombre d'articulations douloureuses et gonflées, la protéine C réactive et l'évaluation globale de la maladie par le patient.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": [
+        "DAS28-VS",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Le DAS28-CRP est un outil essentiel pour suivre l'évolution de la maladie et ajuster le traitement.",
+      "expansion": "Disease Activity Score 28 - Protéine C Réactive",
+      "clinical_significance": "Utilisé pour déterminer la rémission ou l'activité de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DAS28",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HAQ",
+      "definition": "Health Assessment Questionnaire, un questionnaire utilisé pour évaluer l'incapacité fonctionnelle chez les patients atteints de polyarthrite rhumatoïde.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "handicap fonctionnel"
+      ],
+      "description": "Le HAQ évalue huit domaines d'activité de la vie quotidienne, avec des scores allant de 0 à 3.",
+      "expansion": "Health Assessment Questionnaire",
+      "clinical_significance": "Un outil important pour évaluer l'impact fonctionnel de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HAQ",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthropathies infectieuses",
+      "definition": "Infections articulaires causées par des bactéries, des virus ou des champignons.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "arthrite septique",
+        "arthrite microcristalline"
+      ],
+      "description": "Les arthropathies infectieuses peuvent nécessiter une ponction articulaire pour le diagnostic.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthropathies infectieuses",
+        "arthrite"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "spondyloarthrites",
+      "definition": "Groupe de maladies inflammatoires chroniques affectant principalement la colonne vertébrale et les articulations sacro-iliaques.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "rhumatisme psoriasique",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Les spondyloarthrites incluent la spondylarthrite ankylosante et le rhumatisme psoriasique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "spondyloarthrites",
+        "arthrite"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Gougerot-Sjögren",
+      "definition": "Maladie auto-immune caractérisée par une sécheresse des yeux et de la bouche due à une diminution de la production de larmes et de salive.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "lupus systémique",
+        "sclérodermie systémique"
+      ],
+      "description": "La maladie de Gougerot-Sjögren peut également affecter d'autres organes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie de Gougerot-Sjögren",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lupus systémique",
+      "definition": "Maladie auto-immune chronique qui peut affecter divers organes et systèmes du corps.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "maladie de Gougerot-Sjögren",
+        "sclérodermie systémique"
+      ],
+      "description": "Le lupus systémique peut causer une inflammation des articulations, de la peau, des reins, du cœur et d'autres organes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lupus systémique",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sclérodermie systémique",
+      "definition": "Maladie auto-immune caractérisée par un épaississement et un durcissement de la peau et des tissus conjonctifs.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "lupus systémique",
+        "maladie de Gougerot-Sjögren"
+      ],
+      "description": "La sclérodermie systémique peut également affecter les organes internes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sclérodermie systémique",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladies auto-inflammatoires",
+      "definition": "Maladies caractérisées par une inflammation récurrente sans la présence d'anticorps auto-immuns ou d'infections.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "vascularites",
+        "granulomatoses"
+      ],
+      "description": "Les maladies auto-inflammatoires incluent la fièvre méditerranéenne familiale et le syndrome de Muckle-Wells.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maladies auto-inflammatoires",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphopénie",
+      "definition": "Diminution du nombre de lymphocytes dans le sang.",
+      "category": "pathologie",
+      "synonyms": null,
+      "related_terms": [
+        "hémogramme",
+        "leuconeutropénie"
+      ],
+      "description": "La lymphopénie peut être un signe de maladies auto-immunes ou d'infections.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphopénie",
+        "analyse sanguine"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-nucléaires",
+      "definition": "Anticorps dirigés contre des composants du noyau cellulaire, souvent présents dans les maladies auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": null,
+      "related_terms": [
+        "anticorps anti-DNA",
+        "anticorps anti-ENA"
+      ],
+      "description": "La présence d'anticorps anti-nucléaires peut indiquer un lupus systémique ou une autre connectivite.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-nucléaires",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-DNA",
+      "definition": "Anticorps dirigés contre l'ADN, souvent présents dans le lupus systémique.",
+      "category": "microbiologie",
+      "synonyms": null,
+      "related_terms": [
+        "anticorps anti-nucléaires",
+        "anticorps anti-ENA"
+      ],
+      "description": "La présence d'anticorps anti-DNA est un marqueur spécifique du lupus systémique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-DNA",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-ENA",
+      "definition": "Anticorps dirigés contre des antigènes nucléaires extractibles, souvent présents dans les maladies auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": null,
+      "related_terms": [
+        "anticorps anti-nucléaires",
+        "anticorps anti-DNA"
+      ],
+      "description": "La présence d'anticorps anti-ENA peut indiquer un lupus systémique ou une autre connectivite.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-ENA",
+        "auto-immune"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ponction articulaire",
+      "definition": "Procédure médicale consistant à prélever du liquide synovial d'une articulation pour analyse.",
+      "category": "imagerie",
+      "synonyms": null,
+      "related_terms": [
+        "arthrite septique",
+        "arthrite microcristalline"
+      ],
+      "description": "La ponction articulaire est utilisée pour diagnostiquer les infections articulaires et les arthrites microcristallines.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel de la polyarthrite rhumatoïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ponction articulaire",
+        "arthrite"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "csDMARD",
+      "definition": "Médicaments antirhumatismaux modificateurs de la maladie synthétiques conventionnels, utilisés pour traiter la polyarthrite rhumatoïde.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "bDMARD",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Les csDMARD incluent le méthotrexate et la sulfasalazine.",
+      "expansion": "conventional synthetic Disease-Modifying Anti-Rheumatic Drugs",
+      "clinical_significance": "Utilisés pour obtenir et maintenir une rémission de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "csDMARD",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bDMARD",
+      "definition": "Médicaments antirhumatismaux modificateurs de la maladie biologiques, utilisés pour traiter la polyarthrite rhumatoïde.",
+      "category": "pharmacologie",
+      "synonyms": null,
+      "related_terms": [
+        "csDMARD",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Les bDMARD incluent les inhibiteurs du TNF et les anticorps anti-CD20.",
+      "expansion": "biological Disease-Modifying Anti-Rheumatic Drugs",
+      "clinical_significance": "Utilisés pour obtenir et maintenir une rémission de la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bDMARD",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C1-C2",
+      "definition": "Référence aux première et deuxième vertèbres cervicales, également connues sous les noms d'atlas (C1) et d'axis (C2).",
+      "category": "anatomie",
+      "synonyms": [
+        "atlas",
+        "axis"
+      ],
+      "related_terms": [
+        "rachis cervical",
+        "charnière cervico-occipitale"
+      ],
+      "description": "C1 et C2 sont les deux premières vertèbres cervicales, cruciales pour la mobilité de la tête et du cou.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite métacarpophalangienne",
+      "definition": "Inflammation de l'articulation entre les métacarpiens et les phalanges des doigts.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite MCP"
+      ],
+      "related_terms": [
+        "arthrite",
+        "métacarpiens",
+        "phalanges"
+      ],
+      "description": "L'arthrite métacarpophalangienne est une inflammation des articulations entre les métacarpiens et les phalanges, souvent observée dans la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite trapézométacarpienne",
+      "definition": "Inflammation de l'articulation entre le trapèze et le métacarpien du pouce.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite TMC"
+      ],
+      "related_terms": [
+        "arthrite",
+        "trapèze",
+        "métacarpien"
+      ],
+      "description": "L'arthrite trapézométacarpienne est une inflammation de l'articulation entre le trapèze et le métacarpien du pouce, souvent associée à des douleurs et une limitation de mouvement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite radio-ulnaire distale",
+      "definition": "Inflammation de l'articulation entre le radius et l'ulna au niveau du poignet.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite DRU"
+      ],
+      "related_terms": [
+        "arthrite",
+        "radius",
+        "ulna"
+      ],
+      "description": "L'arthrite radio-ulnaire distale est une inflammation de l'articulation entre le radius et l'ulna au niveau du poignet, souvent associée à des douleurs et une limitation de mouvement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite radiocarpienne",
+      "definition": "Inflammation de l'articulation entre le radius et les os du carpe.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite RC"
+      ],
+      "related_terms": [
+        "arthrite",
+        "radius",
+        "carpe"
+      ],
+      "description": "L'arthrite radiocarpienne est une inflammation de l'articulation entre le radius et les os du carpe, souvent associée à des douleurs et une limitation de mouvement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite médiocarpienne",
+      "definition": "Inflammation des articulations entre les os du carpe.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite MC"
+      ],
+      "related_terms": [
+        "arthrite",
+        "carpe"
+      ],
+      "description": "L'arthrite médiocarpienne est une inflammation des articulations entre les os du carpe, souvent associée à des douleurs et une limitation de mouvement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hallux valgus",
+      "definition": "Déformation du gros orteil (hallux) qui dévie vers l'extérieur, souvent associée à un oignon.",
+      "category": "pathologie",
+      "synonyms": [
+        "oignon"
+      ],
+      "related_terms": [
+        "hallux",
+        "valgus"
+      ],
+      "description": "Le hallux valgus est une déformation du gros orteil qui dévie vers l'extérieur, souvent associée à un oignon.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "quintus varus",
+      "definition": "Déformation du cinquième orteil qui dévie vers l'intérieur.",
+      "category": "pathologie",
+      "synonyms": [
+        "varus du cinquième orteil"
+      ],
+      "related_terms": [
+        "quintus",
+        "varus"
+      ],
+      "description": "Le quintus varus est une déformation du cinquième orteil qui dévie vers l'intérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métatarsophalangienne",
+      "definition": "Articulation entre les métatarsiens et les phalanges des orteils.",
+      "category": "anatomie",
+      "synonyms": [
+        "articulation MTP"
+      ],
+      "related_terms": [
+        "métatarsiens",
+        "phalanges"
+      ],
+      "description": "L'articulation métatarsophalangienne est l'articulation entre les métatarsiens et les phalanges des orteils.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bursite",
+      "definition": "Inflammation d'une bourse séreuse, une petite poche remplie de liquide qui réduit la friction entre les structures anatomiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "bursitis"
+      ],
+      "related_terms": [
+        "bourse séreuse",
+        "inflammation"
+      ],
+      "description": "La bursite est une inflammation d'une bourse séreuse, souvent associée à des douleurs et un gonflement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métatarsiens",
+      "definition": "Os longs du pied situés entre les phalanges et le tarse.",
+      "category": "anatomie",
+      "synonyms": [
+        "os métatarsiens"
+      ],
+      "related_terms": [
+        "phalanges",
+        "tarse"
+      ],
+      "description": "Les métatarsiens sont des os longs du pied situés entre les phalanges et le tarse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "articulation interphalangienne proximale",
+      "definition": "Articulation entre les phalanges proximales et intermédiaires des doigts ou des orteils.",
+      "category": "anatomie",
+      "synonyms": [
+        "articulation IPP"
+      ],
+      "related_terms": [
+        "phalanges",
+        "articulation"
+      ],
+      "description": "L'articulation interphalangienne proximale est l'articulation entre les phalanges proximales et intermédiaires des doigts ou des orteils.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médio-pied",
+      "definition": "Partie centrale du pied comprenant les os du tarse et les métatarsiens.",
+      "category": "anatomie",
+      "synonyms": [
+        "midfoot"
+      ],
+      "related_terms": [
+        "tarse",
+        "métatarsiens"
+      ],
+      "description": "Le médio-pied est la partie centrale du pied comprenant les os du tarse et les métatarsiens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arrière-pied",
+      "definition": "Partie postérieure du pied comprenant le talus et le calcanéum.",
+      "category": "anatomie",
+      "synonyms": [
+        "hindfoot"
+      ],
+      "related_terms": [
+        "talus",
+        "calcanéum"
+      ],
+      "description": "L'arrière-pied est la partie postérieure du pied comprenant le talus et le calcanéum.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pied plat valgus",
+      "definition": "Déformation du pied caractérisée par un affaissement de l'arche plantaire et une déviation vers l'extérieur.",
+      "category": "pathologie",
+      "synonyms": [
+        "flatfoot valgus"
+      ],
+      "related_terms": [
+        "pied plat",
+        "valgus"
+      ],
+      "description": "Le pied plat valgus est une déformation du pied caractérisée par un affaissement de l'arche plantaire et une déviation vers l'extérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valgus calcanéen",
+      "definition": "Déviation du calcanéum vers l'extérieur.",
+      "category": "pathologie",
+      "synonyms": [
+        "calcanéen valgus"
+      ],
+      "related_terms": [
+        "calcanéum",
+        "valgus"
+      ],
+      "description": "Le valgus calcanéen est une déviation du calcanéum vers l'extérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite talonaviculaire",
+      "definition": "Inflammation de l'articulation entre le talus et l'os naviculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite TN"
+      ],
+      "related_terms": [
+        "talus",
+        "naviculaire"
+      ],
+      "description": "L'arthrite talonaviculaire est une inflammation de l'articulation entre le talus et l'os naviculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite soustalienne",
+      "definition": "Inflammation de l'articulation entre le talus et le calcanéum.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite ST"
+      ],
+      "related_terms": [
+        "talus",
+        "calcanéum"
+      ],
+      "description": "L'arthrite soustalienne est une inflammation de l'articulation entre le talus et le calcanéum.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite calcanéo-cuboïdienne",
+      "definition": "Inflammation de l'articulation entre le calcanéum et l'os cuboïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite CC"
+      ],
+      "related_terms": [
+        "calcanéum",
+        "cuboïde"
+      ],
+      "description": "L'arthrite calcanéo-cuboïdienne est une inflammation de l'articulation entre le calcanéum et l'os cuboïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tendons fibulaires",
+      "definition": "Tendons des muscles fibulaires, situés sur la partie latérale de la jambe.",
+      "category": "anatomie",
+      "synonyms": [
+        "tendons péroniers"
+      ],
+      "related_terms": [
+        "fibulaires",
+        "tendons"
+      ],
+      "description": "Les tendons fibulaires sont les tendons des muscles fibulaires, situés sur la partie latérale de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tendon tibial postérieur",
+      "definition": "Tendon du muscle tibial postérieur, situé sur la partie médiale de la jambe.",
+      "category": "anatomie",
+      "synonyms": [
+        "tendon TP"
+      ],
+      "related_terms": [
+        "tibial",
+        "postérieur"
+      ],
+      "description": "Le tendon tibial postérieur est le tendon du muscle tibial postérieur, situé sur la partie médiale de la jambe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épaules",
+      "definition": "Articulation complexe reliant le bras au tronc, composée de l'articulation scapulo-humérale et de l'articulation acromio-claviculaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "shoulder"
+      ],
+      "related_terms": [
+        "scapulo-humérale",
+        "acromio-claviculaire"
+      ],
+      "description": "Les épaules sont des articulations complexes reliant le bras au tronc, composées de l'articulation scapulo-humérale et de l'articulation acromio-claviculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite scapulo-humérale",
+      "definition": "Inflammation de l'articulation entre la scapula et l'humérus.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite SH"
+      ],
+      "related_terms": [
+        "scapula",
+        "humérus"
+      ],
+      "description": "L'arthrite scapulo-humérale est une inflammation de l'articulation entre la scapula et l'humérus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bursite sous-acromio-deltoïdienne",
+      "definition": "Inflammation de la bourse située sous l'acromion et le deltoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "bursite SAD"
+      ],
+      "related_terms": [
+        "acromion",
+        "deltoïde"
+      ],
+      "description": "La bursite sous-acromio-deltoïdienne est une inflammation de la bourse située sous l'acromion et le deltoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scapulo-huméral",
+      "definition": "Relatif à l'articulation entre la scapula et l'humérus.",
+      "category": "anatomie",
+      "synonyms": [
+        "gléno-huméral"
+      ],
+      "related_terms": [
+        "scapula",
+        "humérus"
+      ],
+      "description": "Le terme scapulo-huméral se réfère à l'articulation entre la scapula et l'humérus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "humérus",
+      "definition": "Os long du bras s'étendant de l'épaule au coude.",
+      "category": "anatomie",
+      "synonyms": [
+        "humerus"
+      ],
+      "related_terms": [
+        "bras",
+        "épaule",
+        "coude"
+      ],
+      "description": "L'humérus est l'os long du bras s'étendant de l'épaule au coude.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coiffe des rotateurs",
+      "definition": "Groupe de muscles et de tendons qui stabilisent l'articulation de l'épaule.",
+      "category": "anatomie",
+      "synonyms": [
+        "rotator cuff"
+      ],
+      "related_terms": [
+        "épaule",
+        "muscles",
+        "tendons"
+      ],
+      "description": "La coiffe des rotateurs est un groupe de muscles et de tendons qui stabilisent l'articulation de l'épaule.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coudes",
+      "definition": "Articulation entre le bras et l'avant-bras, composée de l'humérus, du radius et de l'ulna.",
+      "category": "anatomie",
+      "synonyms": [
+        "elbow"
+      ],
+      "related_terms": [
+        "humérus",
+        "radius",
+        "ulna"
+      ],
+      "description": "Les coudes sont des articulations entre le bras et l'avant-bras, composées de l'humérus, du radius et de l'ulna.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valgus physiologique",
+      "definition": "Déviation normale de l'avant-bras vers l'extérieur par rapport à l'axe du bras.",
+      "category": "anatomie",
+      "synonyms": [
+        "physiological valgus"
+      ],
+      "related_terms": [
+        "valgus",
+        "avant-bras"
+      ],
+      "description": "Le valgus physiologique est une déviation normale de l'avant-bras vers l'extérieur par rapport à l'axe du bras.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flessum",
+      "definition": "Flexion permanente d'une articulation, souvent due à une contracture musculaire ou à une raideur articulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "flexion contracture"
+      ],
+      "related_terms": [
+        "flexion",
+        "contracture"
+      ],
+      "description": "Le flessum est une flexion permanente d'une articulation, souvent due à une contracture musculaire ou à une raideur articulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "genoux",
+      "definition": "Articulation entre la cuisse et la jambe, composée du fémur, du tibia et de la patella.",
+      "category": "anatomie",
+      "synonyms": [
+        "knee"
+      ],
+      "related_terms": [
+        "fémur",
+        "tibia",
+        "patella"
+      ],
+      "description": "Les genoux sont des articulations entre la cuisse et la jambe, composées du fémur, du tibia et de la patella.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrites",
+      "definition": "Inflammation d'une ou plusieurs articulations, caractérisée par des douleurs, un gonflement et une raideur.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthritis"
+      ],
+      "related_terms": [
+        "articulation",
+        "inflammation"
+      ],
+      "description": "Les arthrites sont des inflammations d'une ou plusieurs articulations, caractérisées par des douleurs, un gonflement et une raideur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "genu valgum",
+      "definition": "Déformation du genou caractérisée par une déviation vers l'extérieur, souvent appelée genoux cagneux.",
+      "category": "pathologie",
+      "synonyms": [
+        "knock-knees"
+      ],
+      "related_terms": [
+        "genou",
+        "valgum"
+      ],
+      "description": "Le genu valgum est une déformation du genou caractérisée par une déviation vers l'extérieur, souvent appelée genoux cagneux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kyste",
+      "definition": "Sac rempli de liquide ou de matériel semi-solide, souvent bénin, pouvant se former dans diverses parties du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "cyst"
+      ],
+      "related_terms": [
+        "sac",
+        "liquide"
+      ],
+      "description": "Un kyste est un sac rempli de liquide ou de matériel semi-solide, souvent bénin, pouvant se former dans diverses parties du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coxite rhumatoïde",
+      "definition": "Inflammation de l'articulation de la hanche due à la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "rhumatoid coxitis"
+      ],
+      "related_terms": [
+        "hanche",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "La coxite rhumatoïde est une inflammation de l'articulation de la hanche due à la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coxofémorale",
+      "definition": "Articulation de la hanche entre l'os iliaque et le fémur.",
+      "category": "anatomie",
+      "synonyms": [
+        "hip joint"
+      ],
+      "related_terms": [
+        "hanche",
+        "iliaque",
+        "fémur"
+      ],
+      "description": "L'articulation coxofémorale est l'articulation de la hanche entre l'os iliaque et le fémur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "charnière cervico-occipitale",
+      "definition": "Articulation entre la première vertèbre cervicale (C1) et l'os occipital du crâne.",
+      "category": "anatomie",
+      "synonyms": [
+        "cervico-occipital junction"
+      ],
+      "related_terms": [
+        "C1",
+        "os occipital"
+      ],
+      "description": "La charnière cervico-occipitale est l'articulation entre la première vertèbre cervicale (C1) et l'os occipital du crâne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite occipito-atloïdienne",
+      "definition": "Inflammation de l'articulation entre l'os occipital et la première vertèbre cervicale (C1).",
+      "category": "pathologie",
+      "synonyms": [
+        "occipito-atlantal arthritis"
+      ],
+      "related_terms": [
+        "os occipital",
+        "C1"
+      ],
+      "description": "L'arthrite occipito-atloïdienne est une inflammation de l'articulation entre l'os occipital et la première vertèbre cervicale (C1).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite atloïdo-axoïdienne",
+      "definition": "Inflammation de l'articulation entre la première (C1) et la deuxième (C2) vertèbres cervicales.",
+      "category": "pathologie",
+      "synonyms": [
+        "atlanto-axial arthritis"
+      ],
+      "related_terms": [
+        "C1",
+        "C2"
+      ],
+      "description": "L'arthrite atloïdo-axoïdienne est une inflammation de l'articulation entre la première (C1) et la deuxième (C2) vertèbres cervicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "odontoïde",
+      "definition": "Processus osseux de la deuxième vertèbre cervicale (C2) qui s'articule avec la première vertèbre cervicale (C1).",
+      "category": "anatomie",
+      "synonyms": [
+        "dens"
+      ],
+      "related_terms": [
+        "C2",
+        "C1"
+      ],
+      "description": "L'odontoïde est un processus osseux de la deuxième vertèbre cervicale (C2) qui s'articule avec la première vertèbre cervicale (C1).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atlas",
+      "definition": "Première vertèbre cervicale (C1) qui supporte le crâne.",
+      "category": "anatomie",
+      "synonyms": [
+        "C1"
+      ],
+      "related_terms": [
+        "crâne",
+        "vertèbre cervicale"
+      ],
+      "description": "L'atlas est la première vertèbre cervicale (C1) qui supporte le crâne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "subluxations atloïdo-axoïdiennes",
+      "definition": "Déplacement partiel de la première vertèbre cervicale (C1) par rapport à la deuxième vertèbre cervicale (C2).",
+      "category": "pathologie",
+      "synonyms": [
+        "atlanto-axial subluxations"
+      ],
+      "related_terms": [
+        "C1",
+        "C2"
+      ],
+      "description": "Les subluxations atloïdo-axoïdiennes sont des déplacements partiels de la première vertèbre cervicale (C1) par rapport à la deuxième vertèbre cervicale (C2).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diastasis atloïdo-axoïdien",
+      "definition": "Séparation anormale entre la première (C1) et la deuxième (C2) vertèbres cervicales.",
+      "category": "pathologie",
+      "synonyms": [
+        "atlanto-axial diastasis"
+      ],
+      "related_terms": [
+        "C1",
+        "C2"
+      ],
+      "description": "Le diastasis atloïdo-axoïdien est une séparation anormale entre la première (C1) et la deuxième (C2) vertèbres cervicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scanner",
+      "definition": "Technique d'imagerie médicale utilisant des rayons X pour obtenir des images en coupe transversale du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "CT scan",
+        "tomodensitométrie"
+      ],
+      "related_terms": [
+        "rayons X",
+        "imagerie"
+      ],
+      "description": "Le scanner est une technique d'imagerie médicale utilisant des rayons X pour obtenir des images en coupe transversale du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neurochirurgien",
+      "definition": "Médecin spécialisé dans la chirurgie du système nerveux central et périphérique.",
+      "category": "classification",
+      "synonyms": [
+        "neurosurgeon"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "système nerveux"
+      ],
+      "description": "Un neurochirurgien est un médecin spécialisé dans la chirurgie du système nerveux central et périphérique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fébricule",
+      "definition": "Fièvre légère, souvent intermittente, ne dépassant généralement pas 38°C.",
+      "category": "pathologie",
+      "synonyms": [
+        "low-grade fever"
+      ],
+      "related_terms": [
+        "fièvre",
+        "température"
+      ],
+      "description": "La fébricule est une fièvre légère, souvent intermittente, ne dépassant généralement pas 38°C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nodules rhumatoïdes",
+      "definition": "Lésions sous-cutanées fermes, indolores, souvent mobiles, associées à la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "bursite rétroolécrânienne"
+      ],
+      "description": "Ces nodules peuvent apparaître dans diverses régions du corps et peuvent évoluer indépendamment de l'activité de la PR.",
+      "expansion": "",
+      "clinical_significance": "Indicateur de la sévérité de la PR, souvent associé à une positivité du FR et/ou des ACPA.",
+      "normal_values": "",
+      "image_search_terms": [
+        "nodules rhumatoïdes",
+        "bursite rétroolécrânienne"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bursite rétroolécrânienne",
+      "definition": "Inflammation de la bourse séreuse située à l'arrière de l'olécrâne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nodules rhumatoïdes",
+        "olécrâne"
+      ],
+      "description": "La bursite rétroolécrânienne peut être associée à des nodules rhumatoïdes dans la région olécrânienne.",
+      "expansion": "",
+      "clinical_significance": "Peut causer douleur et gonflement à l'arrière du coude.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bursite rétroolécrânienne",
+        "olécrâne"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose fibrinoïde collagénique éosinophile",
+      "definition": "Type de nécrose caractérisée par la dégénérescence du collagène et la présence de fibrine et d'éosinophiles.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nodules rhumatoïdes"
+      ],
+      "description": "Cette nécrose est souvent observée dans les nodules rhumatoïdes.",
+      "expansion": "",
+      "clinical_significance": "Indicateur histologique des nodules rhumatoïdes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "nécrose fibrinoïde",
+        "nodules rhumatoïdes"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardites",
+      "definition": "Inflammation du péricarde, la membrane entourant le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "péricardite"
+      ],
+      "related_terms": [
+        "PR",
+        "myocardites",
+        "endocardites"
+      ],
+      "description": "Les péricardites peuvent être asymptomatiques ou symptomatiques et nécessitent une enquête étiologique complète.",
+      "expansion": "",
+      "clinical_significance": "Peut être associée à la PR et nécessite une évaluation approfondie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "péricardite",
+        "péricarde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardites",
+      "definition": "Inflammation du myocarde, le muscle cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "myocardite"
+      ],
+      "related_terms": [
+        "PR",
+        "péricardites",
+        "endocardites"
+      ],
+      "description": "Les myocardites peuvent être observées au cours de la PR et nécessitent une enquête étiologique exhaustive.",
+      "expansion": "",
+      "clinical_significance": "Peut être associée à la PR et nécessite une évaluation approfondie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "myocardite",
+        "myocarde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocardites",
+      "definition": "Inflammation de l'endocarde, la membrane interne du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite"
+      ],
+      "related_terms": [
+        "PR",
+        "péricardites",
+        "myocardites"
+      ],
+      "description": "Les endocardites peuvent être observées au cours de la PR et nécessitent une enquête étiologique exhaustive.",
+      "expansion": "",
+      "clinical_significance": "Peut être associée à la PR et nécessite une évaluation approfondie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "endocardite",
+        "endocarde"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie coronarienne",
+      "definition": "Maladie des artères coronaires caractérisée par une réduction du flux sanguin vers le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie coronaire",
+        "coronaropathie"
+      ],
+      "related_terms": [
+        "PR",
+        "accident vasculaire cérébral",
+        "athérosclérose"
+      ],
+      "description": "La PR est associée à un sur-risque de maladie coronarienne.",
+      "expansion": "",
+      "clinical_significance": "Facteur de risque cardiovasculaire majeur associé à la PR.",
+      "normal_values": "",
+      "image_search_terms": [
+        "maladie coronarienne",
+        "artères coronaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pleurésies rhumatoïdes",
+      "definition": "Inflammation de la plèvre associée à la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PR",
+        "nodules rhumatoïdes"
+      ],
+      "description": "Les pleurésies rhumatoïdes sont une manifestation pleuropulmonaire de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut causer douleur thoracique et essoufflement.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pleurésie rhumatoïde",
+        "plèvre"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchiolites",
+      "definition": "Inflammation des petites voies respiratoires (bronchioles).",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchiolite"
+      ],
+      "related_terms": [
+        "PR",
+        "pneumopathies organisées"
+      ],
+      "description": "Les bronchiolites peuvent être une manifestation pleuropulmonaire de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut causer toux et essoufflement.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bronchiolite",
+        "bronchioles"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathies organisées",
+      "definition": "Maladie pulmonaire caractérisée par une prolifération de tissu fibreux dans les alvéoles.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumopathie organisée"
+      ],
+      "related_terms": [
+        "PR",
+        "bronchiolites"
+      ],
+      "description": "Les pneumopathies organisées peuvent être une manifestation pleuropulmonaire de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut causer toux et essoufflement.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pneumopathie organisée",
+        "alvéoles pulmonaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathies interstitielles diffuses",
+      "definition": "Maladie pulmonaire caractérisée par une inflammation et une fibrose du tissu interstitiel pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumopathie interstitielle diffuse"
+      ],
+      "related_terms": [
+        "PR",
+        "pneumopathies organisées"
+      ],
+      "description": "Les pneumopathies interstitielles diffuses sont la manifestation pleuropulmonaire la plus fréquente de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut causer essoufflement et diminution de l'espérance de vie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pneumopathie interstitielle diffuse",
+        "tissu interstitiel pulmonaire"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Caplan-Colinet",
+      "definition": "Association d'une polyarthrite rhumatoïde et d'une pneumoconiose, souvent due à l'exposition à la silice.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PR",
+        "pneumoconiose"
+      ],
+      "description": "Le syndrome de Caplan-Colinet est une manifestation pleuropulmonaire rare de la PR.",
+      "expansion": "",
+      "clinical_significance": "Associé à une exposition à la silice et à une PR.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de Caplan-Colinet",
+        "pneumoconiose"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularite rhumatoïde",
+      "definition": "Inflammation des vaisseaux sanguins associée à la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PR",
+        "vascularite"
+      ],
+      "description": "La vascularite rhumatoïde est une complication rare de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut causer des signes cutanés, neurologiques, oculaires, cardiaques, pulmonaires, digestifs, rénaux ou neurologiques centraux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "vascularite rhumatoïde",
+        "vascularite"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scléromalacie perforante",
+      "definition": "Atteinte oculaire sévère caractérisée par une dégénérescence de la sclère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PR",
+        "sclérite",
+        "épisclérite"
+      ],
+      "description": "La scléromalacie perforante est une manifestation oculaire sévère de la PR.",
+      "expansion": "",
+      "clinical_significance": "Peut se compliquer de perforation sclérale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "scléromalacie perforante",
+        "sclère"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies superficielles",
+      "definition": "Gonflement des ganglions lymphatiques situés près de la surface de la peau.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphadénopathie superficielle"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "lymphome"
+      ],
+      "description": "Les adénopathies superficielles peuvent être un signe de diverses conditions, y compris des infections et des cancers.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une infection ou une maladie systémique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Felty",
+      "definition": "Complication rare de la polyarthrite rhumatoïde, caractérisée par une splénomégalie, une neutropénie et des manifestations extra-articulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "splénomégalie",
+        "neutropénie"
+      ],
+      "description": "Le syndrome de Felty est souvent associé à une polyarthrite rhumatoïde ancienne et nodulaire.",
+      "expansion": null,
+      "clinical_significance": "Augmente le risque d'infections bactériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leucémie",
+      "definition": "Cancer des cellules sanguines, caractérisé par une prolifération anormale des globules blancs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphome",
+        "myélome"
+      ],
+      "description": "La leucémie peut être aiguë ou chronique et affecter différents types de cellules sanguines.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement spécialisé et un suivi régulier.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes granuleux",
+      "definition": "Type de lymphocytes contenant des granules cytoplasmiques, souvent associés à des fonctions cytotoxiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "LGL"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "lymphocytes NK"
+      ],
+      "description": "Les lymphocytes granuleux jouent un rôle dans la défense immunitaire contre les infections et les cellules tumorales.",
+      "expansion": null,
+      "clinical_significance": "Peut être impliqué dans certaines formes de leucémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunophénotypage",
+      "definition": "Technique de laboratoire utilisée pour identifier les antigènes présents sur les cellules immunitaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cytométrie en flux",
+        "anticorps monoclonaux"
+      ],
+      "description": "L'immunophénotypage est utilisé pour diagnostiquer et classer les troubles hématologiques et immunologiques.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour le diagnostic des leucémies et des lymphomes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TCR",
+      "definition": "Récepteur des cellules T, un complexe de protéines présent à la surface des lymphocytes T.",
+      "category": "pathologie",
+      "synonyms": [
+        "récepteur des cellules T"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "anticorps"
+      ],
+      "description": "Le TCR joue un rôle crucial dans la reconnaissance des antigènes et l'activation des lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compréhension des mécanismes immunitaires et des maladies auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathies interstitielles",
+      "definition": "Maladies rénales caractérisées par une inflammation de l'interstitium rénal.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "néphrite interstitielle",
+        "interstitium rénal"
+      ],
+      "description": "Les néphropathies interstitielles peuvent être causées par des infections, des médicaments ou des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance rénale si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amylose AA",
+      "definition": "Type d'amylose associé à une inflammation chronique, caractérisé par le dépôt de protéines amyloïdes dans divers organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "amyloïdose AA"
+      ],
+      "related_terms": [
+        "amylose",
+        "inflammation chronique"
+      ],
+      "description": "L'amylose AA peut affecter les reins, le foie, le cœur et d'autres organes.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les complications organiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "névrites",
+      "definition": "Inflammation des nerfs, souvent causée par des maladies auto-immunes ou des infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "neurite"
+      ],
+      "related_terms": [
+        "neuropathie",
+        "inflammation nerveuse"
+      ],
+      "description": "Les nérites peuvent entraîner des douleurs, des faiblesses et des troubles sensoriels.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compression tronculaire",
+      "definition": "Compression d'un nerf au niveau de son tronc, souvent causée par des altérations articulaires ou des tumeurs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome du canal carpien",
+        "compression nerveuse"
+      ],
+      "description": "La compression tronculaire peut entraîner des douleurs, des faiblesses et des troubles sensoriels.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "luxation atloïdo-axoïdienne",
+      "definition": "Déplacement anormal de l'atlas (C1) par rapport à l'axis (C2), souvent causé par des traumatismes ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "instabilité atloïdo-axoïdienne",
+        "subluxation atloïdo-axoïdienne"
+      ],
+      "description": "La luxation atloïdo-axoïdienne peut entraîner une compression médullaire et nécessite une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies neurologiques et orthopédiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anesthésie générale",
+      "definition": "État d'inconscience induit par des médicaments anesthésiques, utilisé pour les interventions chirurgicales.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "anesthésie",
+        "chirurgie"
+      ],
+      "description": "L'anesthésie générale permet de réaliser des interventions chirurgicales sans douleur ni conscience.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour la réalisation de chirurgies complexes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthropathies",
+      "definition": "Maladies affectant les articulations, souvent caractérisées par une inflammation et une destruction articulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite",
+        "rhumatisme"
+      ],
+      "description": "Les arthropathies peuvent être causées par des maladies inflammatoires, dégénératives ou infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies articulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iatrogènes",
+      "definition": "Effets secondaires ou complications causés par un traitement médical.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "effets secondaires",
+        "complications médicales"
+      ],
+      "description": "Les effets iatrogènes peuvent être causés par des médicaments, des interventions chirurgicales ou d'autres traitements médicaux.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des complications médicales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médicamenteuses",
+      "definition": "Relatif aux médicaments ou à leur utilisation.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "pharmacologie",
+        "thérapeutique"
+      ],
+      "description": "Les effets médicamenteux peuvent inclure des effets thérapeutiques et des effets secondaires.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des traitements médicaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thiolés",
+      "definition": "Composés chimiques contenant un groupe thiol (-SH), souvent utilisés en pharmacologie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thiols",
+        "composés soufrés"
+      ],
+      "description": "Les thiolés peuvent être utilisés dans divers médicaments et peuvent avoir des effets thérapeutiques et des effets secondaires.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des traitements médicaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "morbidité-mortalité cardiovasculaire",
+      "definition": "Mesure combinée de la morbidité (maladie) et de la mortalité (décès) liées aux maladies cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladies cardiovasculaires",
+        "mortalité"
+      ],
+      "description": "La morbidité-mortalité cardiovasculaire est une mesure importante pour évaluer l'impact des maladies cardiovasculaires sur la santé publique.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des maladies cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphomes malins non hodgkiniens",
+      "definition": "Type de lymphome caractérisé par une prolifération anormale des lymphocytes B ou T, sans la présence de cellules de Reed-Sternberg.",
+      "category": "pathologie",
+      "synonyms": [
+        "LNH"
+      ],
+      "related_terms": [
+        "lymphome",
+        "cancer lymphatique"
+      ],
+      "description": "Les lymphomes malins non hodgkiniens peuvent être de localisation ganglionnaire ou extraganglionnaire.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers lymphatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "extraganglionnaire",
+      "definition": "Relatif aux tissus ou organes situés en dehors des ganglions lymphatiques.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "système lymphatique"
+      ],
+      "description": "Les lymphomes extraganglionnaires peuvent affecter divers organes, y compris le foie, la rate et le système digestif.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers lymphatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules B matures",
+      "definition": "Type de lymphocytes B qui ont atteint un stade de maturation avancé et sont capables de produire des anticorps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphocytes B",
+        "anticorps"
+      ],
+      "description": "Les cellules B matures jouent un rôle crucial dans la réponse immunitaire adaptative.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies lymphatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers broncho pulmonaires",
+      "definition": "Cancers affectant les bronches et les poumons, souvent causés par le tabagisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer du poumon"
+      ],
+      "related_terms": [
+        "carcinome pulmonaire",
+        "tabagisme"
+      ],
+      "description": "Les cancers broncho pulmonaires sont une cause majeure de mortalité par cancer.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers colorectaux",
+      "definition": "Cancers affectant le côlon et le rectum, souvent causés par des facteurs génétiques et environnementaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer colorectal"
+      ],
+      "related_terms": [
+        "carcinome colorectal",
+        "polypes colorectaux"
+      ],
+      "description": "Les cancers colorectaux sont une cause majeure de mortalité par cancer.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers colorectaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers du sein",
+      "definition": "Cancers affectant le tissu mammaire, souvent causés par des facteurs génétiques et hormonaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer mammaire"
+      ],
+      "related_terms": [
+        "carcinome mammaire",
+        "mammographie"
+      ],
+      "description": "Les cancers du sein sont une cause majeure de mortalité par cancer chez les femmes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers du sein.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysplasies",
+      "definition": "Anomalies de développement des cellules ou des tissus, souvent précurseurs de cancers.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "dysplasie",
+        "précancéreux"
+      ],
+      "description": "Les dysplasies peuvent être causées par des infections, des facteurs génétiques ou environnementaux.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des maladies précancéreuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancers du col utérin",
+      "definition": "Cancers affectant le col de l'utérus, souvent causés par une infection par le papillomavirus humain (HPV).",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer cervical"
+      ],
+      "related_terms": [
+        "HPV",
+        "Pap test"
+      ],
+      "description": "Les cancers du col utérin sont une cause majeure de mortalité par cancer chez les femmes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la gestion des cancers du col utérin.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules immunitaires",
+      "definition": "Cellules du système immunitaire qui jouent un rôle dans la défense contre les infections et les maladies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphocytes",
+        "macrophages"
+      ],
+      "description": "Les cellules immunitaires incluent les lymphocytes, les macrophages et les cellules dendritiques.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la compréhension et la gestion des maladies immunitaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md"
+  ],
+  "total_terms": 142
+}

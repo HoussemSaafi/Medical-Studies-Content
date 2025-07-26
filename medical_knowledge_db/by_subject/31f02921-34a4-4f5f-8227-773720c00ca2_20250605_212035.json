@@ -1,0 +1,805 @@
+{
+  "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+  "terms": [
+    {
+      "term": "déshydratation aigue",
+      "definition": "État pathologique résultant d'un déficit aigu et non compensé en eau et en électrolytes des compartiments hydriques de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "déshydratation sévère"
+      ],
+      "related_terms": [
+        "gastroentérite aigue",
+        "choc hypovolémique"
+      ],
+      "description": "La déshydratation aiguë est une urgence médicale, surtout chez les nourrissons, et peut entraîner des complications graves comme le choc hypovolémique.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une réhydratation rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastroentérite aigue",
+      "definition": "Inflammation aiguë de la muqueuse gastrique et intestinale, souvent causée par une infection virale ou bactérienne, entraînant des vomissements et des diarrhées.",
+      "category": "pathologie",
+      "synonyms": [
+        "gastro-entérite"
+      ],
+      "related_terms": [
+        "déshydratation aigue",
+        "diarrhée aigue"
+      ],
+      "description": "La gastroentérite aiguë est fréquente chez les nourrissons et peut rapidement entraîner une déshydratation sévère.",
+      "expansion": null,
+      "clinical_significance": "Cause fréquente de déshydratation chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "solutions de réhydratation par voie orale (SRO)",
+      "definition": "Solutions contenant des électrolytes et du glucose, utilisées pour traiter la déshydratation par voie orale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "SRO",
+        "solutions de réhydratation orale"
+      ],
+      "related_terms": [
+        "déshydratation aigue",
+        "diarrhée aigue"
+      ],
+      "description": "Les SRO sont essentielles dans le traitement de la déshydratation, surtout chez les enfants, en fournissant les électrolytes nécessaires.",
+      "expansion": null,
+      "clinical_significance": "Traitement de première ligne pour la déshydratation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée aigue",
+      "definition": "Émission fréquente de selles liquides ou molles, souvent causée par une infection ou une intoxication alimentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée"
+      ],
+      "related_terms": [
+        "gastroentérite aigue",
+        "déshydratation aigue"
+      ],
+      "description": "La diarrhée aiguë est une cause fréquente de déshydratation chez les enfants et nécessite une réhydratation rapide.",
+      "expansion": null,
+      "clinical_significance": "Cause fréquente de déshydratation chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intracellulaire",
+      "definition": "Compartiment hydrique situé à l'intérieur des cellules, représentant environ 2/3 de l'eau corporelle totale.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment intracellulaire"
+      ],
+      "related_terms": [
+        "extracellulaire",
+        "vasculaire",
+        "interstitiel"
+      ],
+      "description": "Le compartiment intracellulaire est crucial pour le maintien de l'équilibre hydrique et électrolytique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "extracellulaire",
+      "definition": "Compartiment hydrique situé à l'extérieur des cellules, incluant le secteur vasculaire et interstitiel.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment extracellulaire"
+      ],
+      "related_terms": [
+        "intracellulaire",
+        "vasculaire",
+        "interstitiel"
+      ],
+      "description": "Le compartiment extracellulaire est essentiel pour le transport des nutriments et l'élimination des déchets.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasculaire",
+      "definition": "Secteur du compartiment extracellulaire comprenant le sang et les vaisseaux sanguins.",
+      "category": "anatomie",
+      "synonyms": [
+        "secteur vasculaire"
+      ],
+      "related_terms": [
+        "extracellulaire",
+        "interstitiel",
+        "intracellulaire"
+      ],
+      "description": "Le secteur vasculaire est crucial pour la circulation sanguine et le transport des nutriments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interstitiel",
+      "definition": "Secteur du compartiment extracellulaire situé entre les cellules et les vaisseaux sanguins.",
+      "category": "anatomie",
+      "synonyms": [
+        "secteur interstitiel"
+      ],
+      "related_terms": [
+        "extracellulaire",
+        "vasculaire",
+        "intracellulaire"
+      ],
+      "description": "Le secteur interstitiel joue un rôle clé dans l'équilibre hydrique et le transport des nutriments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hormone antidiurétique",
+      "definition": "Hormone sécrétée par l'hypophyse postérieure qui régule la réabsorption de l'eau par les reins.",
+      "category": "physiologie",
+      "synonyms": [
+        "ADH",
+        "vasopressine"
+      ],
+      "related_terms": [
+        "réabsorption rénale",
+        "équilibre hydrique"
+      ],
+      "description": "L'hormone antidiurétique est essentielle pour maintenir l'équilibre hydrique en régulant la réabsorption de l'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolarité",
+      "definition": "Concentration des molécules dissoutes dans une solution, exprimée en osmoles par litre.",
+      "category": "physiologie",
+      "synonyms": [
+        "osmolarité plasmatique"
+      ],
+      "related_terms": [
+        "tonicité",
+        "équilibre hydrique"
+      ],
+      "description": "L'osmolarité est cruciale pour maintenir l'équilibre hydrique entre les compartiments intra et extracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "290 ± 5 mosmoles/L",
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tonicité",
+      "definition": "Concentration des molécules dissoutes actives sur les mouvements d'eau, excluant les substances diffusibles comme l'urée.",
+      "category": "physiologie",
+      "synonyms": [
+        "tonicité plasmatique"
+      ],
+      "related_terms": [
+        "osmolarité",
+        "équilibre hydrique"
+      ],
+      "description": "La tonicité détermine le volume liquidien intracellulaire en régulant les mouvements d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhydratation intracellulaire",
+      "definition": "État où il y a un excès d'eau dans les cellules, souvent dû à un déséquilibre osmotique.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème intracellulaire"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "œdème cérébral"
+      ],
+      "description": "La hyperhydratation intracellulaire peut entraîner des signes neurologiques graves, y compris des convulsions et un coma.",
+      "expansion": null,
+      "clinical_significance": "Peut être une complication sévère de la déshydratation, nécessitant une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperhydratation intracellulaire",
+        "œdème cérébral"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déshydratation extracellulaire",
+      "definition": "Perte d'eau et d'électrolytes du compartiment extracellulaire, souvent associée à une diminution du volume sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "déshydratation hypovolémique"
+      ],
+      "related_terms": [
+        "choc hypovolémique",
+        "hypotension artérielle"
+      ],
+      "description": "La déshydratation extracellulaire peut entraîner des signes cliniques tels que la tachycardie, l'hypotension et des extrémités froides.",
+      "expansion": null,
+      "clinical_significance": "Peut être une urgence médicale nécessitant une réhydratation rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "déshydratation extracellulaire",
+        "choc hypovolémique"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tonicité plasmatique",
+      "definition": "Mesure de la concentration effective des solutés dans le plasma, influençant le mouvement de l'eau entre les compartiments intra et extracellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "tonicité"
+      ],
+      "related_terms": [
+        "osmolarité",
+        "osmose"
+      ],
+      "description": "La tonicité plasmatique est cruciale pour maintenir l'équilibre hydrique des cellules.",
+      "expansion": null,
+      "clinical_significance": "Importante pour évaluer les déséquilibres hydriques et électrolytiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tonicité plasmatique",
+        "équilibre hydrique"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SRO",
+      "definition": "Solution de Réhydratation Orale, une solution contenant des électrolytes et du glucose utilisée pour traiter la déshydratation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solution de réhydratation orale"
+      ],
+      "related_terms": [
+        "réhydratation orale",
+        "déshydratation"
+      ],
+      "description": "Les SRO sont utilisés pour compenser les pertes en eau et en électrolytes dans les cas de déshydratation.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour traiter la déshydratation légère à modérée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SRO",
+        "solution de réhydratation orale"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "isonatrémique",
+      "definition": "État où la concentration de sodium dans le sang est normale, généralement entre 135 et 145 mEq/L.",
+      "category": "pathologie",
+      "synonyms": [
+        "normonatrémie"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "hypernatrémie"
+      ],
+      "description": "Indique une concentration normale de sodium dans le sang, souvent utilisée pour évaluer l'équilibre hydrique.",
+      "expansion": null,
+      "clinical_significance": "Important pour différencier les types de déshydratation et adapter le traitement.",
+      "normal_values": "Natrémie: 135-145 mEq/L",
+      "image_search_terms": [
+        "isonatrémie",
+        "normonatrémie"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyponatrémique",
+      "definition": "État où la concentration de sodium dans le sang est anormalement basse, généralement inférieure à 135 mEq/L.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyponatrémie"
+      ],
+      "related_terms": [
+        "isonatrémie",
+        "hypernatrémie"
+      ],
+      "description": "Peut être causée par une perte excessive de sodium ou une rétention d'eau.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les déséquilibres électrolytiques, notamment dans les cas de déshydratation.",
+      "normal_values": "Natrémie: <135 mEq/L",
+      "image_search_terms": [
+        "hyponatrémie"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NaCl hypertonique",
+      "definition": "Solution de chlorure de sodium à haute concentration, utilisée pour corriger rapidement les déséquilibres électrolytiques sévères.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum salé hypertonique"
+      ],
+      "related_terms": [
+        "NaCl",
+        "sérum physiologique"
+      ],
+      "description": "Utilisée en cas d'hyponatrémie sévère pour augmenter rapidement la concentration de sodium dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement des hyponatrémies symptomatiques.",
+      "normal_values": "Concentration variable, souvent 3% ou 5%",
+      "image_search_terms": [
+        "NaCl hypertonique",
+        "sérum salé hypertonique"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myélinolyse centropontine",
+      "definition": "Détérioration de la myéline dans le tronc cérébral, souvent due à une correction trop rapide de l'hyponatrémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de démyélinisation osmotique"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "encéphalopathie hyponatrémique"
+      ],
+      "description": "Peut entraîner des symptômes neurologiques graves, y compris la paralysie et la perte de conscience.",
+      "expansion": null,
+      "clinical_significance": "Important pour éviter les complications neurologiques lors de la correction de l'hyponatrémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "myélinolyse centropontine",
+        "syndrome de démyélinisation osmotique"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypernatrémique",
+      "definition": "État où la concentration de sodium dans le sang est anormalement élevée, généralement supérieure à 145 mEq/L.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypernatrémie"
+      ],
+      "related_terms": [
+        "isonatrémie",
+        "hyponatrémie"
+      ],
+      "description": "Peut être causée par une perte excessive d'eau ou un apport excessif de sodium.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les déséquilibres électrolytiques, notamment dans les cas de déshydratation.",
+      "normal_values": "Natrémie: >145 mEq/L",
+      "image_search_terms": [
+        "hypernatrémie"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée",
+      "definition": "Augmentation de la fréquence des selles liquides, souvent accompagnée de douleurs abdominales et de crampes.",
+      "category": "pathologie",
+      "synonyms": [
+        "gastroentérite"
+      ],
+      "related_terms": [
+        "constipation",
+        "colite"
+      ],
+      "description": "Peut être causée par des infections, des intolérances alimentaires, ou d'autres conditions médicales.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les troubles gastro-intestinaux.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "diarrhée",
+        "gastroentérite"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allaitement maternel",
+      "definition": "Acte de nourrir un bébé avec le lait maternel, soit directement au sein, soit par l'expression du lait.",
+      "category": "physiologie",
+      "synonyms": [
+        "allaitement au sein"
+      ],
+      "related_terms": [
+        "lactation",
+        "allaitement artificiel"
+      ],
+      "description": "Fournit une nutrition optimale et des anticorps pour le nouveau-né.",
+      "expansion": null,
+      "clinical_significance": "Important pour la santé et le développement du nourrisson.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "allaitement maternel",
+        "allaitement au sein"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réhydratation orale",
+      "definition": "Méthode de traitement de la déshydratation par l'administration de solutions de réhydratation par voie orale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "SRO",
+        "solution de réhydratation orale"
+      ],
+      "related_terms": [
+        "réhydratation intraveineuse",
+        "sérum oral"
+      ],
+      "description": "Contient des électrolytes et du glucose pour remplacer les pertes de fluides et de sels.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement de la déshydratation, notamment chez les enfants.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "réhydratation orale",
+        "SRO"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrolysat de protéines",
+      "definition": "Formule nutritionnelle contenant des protéines partiellement ou complètement hydrolysées pour faciliter la digestion et l'absorption.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "formule hydrolysée"
+      ],
+      "related_terms": [
+        "formule à base de lait de vache",
+        "formule hypoallergénique"
+      ],
+      "description": "Utilisée pour les nourrissons et les enfants ayant des troubles digestifs ou des allergies alimentaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour prévenir les allergies et améliorer la digestion.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hydrolysat de protéines",
+        "formule hydrolysée"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème cérébral",
+      "definition": "Accumulation excessive de liquide dans le cerveau, entraînant un gonflement du tissu cérébral.",
+      "category": "pathologie",
+      "synonyms": [
+        "gonflement cérébral"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "hydrocéphalie"
+      ],
+      "description": "Peut être causé par des traumatismes, des infections, ou des déséquilibres électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les urgences neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "œdème cérébral",
+        "gonflement cérébral"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infiltrations sous-cutanées",
+      "definition": "Accumulation de liquide sous la peau, souvent due à une perfusion intraveineuse mal positionnée.",
+      "category": "pathologie",
+      "synonyms": [
+        "extravasation"
+      ],
+      "related_terms": [
+        "phlébite",
+        "thrombose"
+      ],
+      "description": "Peut entraîner un gonflement, une douleur, et des dommages tissulaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour prévenir et traiter les complications de la perfusion intraveineuse.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "infiltrations sous-cutanées",
+        "extravasation"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "convulsions",
+      "definition": "Crises soudaines et involontaires de contractions musculaires, souvent accompagnées de perte de conscience.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises épileptiques"
+      ],
+      "related_terms": [
+        "épilepsie",
+        "crise convulsive"
+      ],
+      "description": "Peut être causée par des troubles neurologiques, des infections, ou des déséquilibres électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les urgences neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "convulsions",
+        "crises épileptiques"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infections",
+      "definition": "Invasion et multiplication de micro-organismes pathogènes dans le corps, entraînant une réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies infectieuses"
+      ],
+      "related_terms": [
+        "bactériémie",
+        "septicémie"
+      ],
+      "description": "Peut être causée par des bactéries, des virus, des champignons, ou des parasites.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les maladies infectieuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "infections",
+        "maladies infectieuses"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome sous-dural",
+      "definition": "Accumulation de sang entre la dure-mère et l'arachnoïde, souvent due à un traumatisme crânien.",
+      "category": "pathologie",
+      "synonyms": [
+        "hématome sous-dural"
+      ],
+      "related_terms": [
+        "hématome épidural",
+        "hémorragie intracrânienne"
+      ],
+      "description": "Peut entraîner des symptômes neurologiques graves, y compris des maux de tête, des convulsions, et une perte de conscience.",
+      "expansion": null,
+      "clinical_significance": "Important pour diagnostiquer et traiter les urgences neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hématome sous-dural"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée aigüe",
+      "definition": "La diarrhée aigüe est une condition caractérisée par des selles fréquentes et liquides, souvent accompagnées de crampes abdominales, et qui dure généralement moins de deux semaines.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée aiguë"
+      ],
+      "related_terms": [
+        "gastroentérite aigüe"
+      ],
+      "description": "La diarrhée aigüe peut être causée par des infections virales, bactériennes ou parasitaires et peut entraîner une déshydratation sévère si elle n'est pas traitée.",
+      "expansion": null,
+      "clinical_significance": "La diarrhée aigüe est une cause majeure de déshydratation chez les enfants et peut nécessiter une réhydratation orale ou parentérale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "diarrhée aigüe",
+        "selles liquides"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastroentérite aigüe",
+      "definition": "La gastroentérite aigüe est une inflammation soudaine et sévère de l'estomac et des intestins, souvent causée par une infection virale ou bactérienne, entraînant des symptômes tels que diarrhée, vomissements et douleurs abdominales.",
+      "category": "pathologie",
+      "synonyms": [
+        "gastroentérite aiguë"
+      ],
+      "related_terms": [
+        "diarrhée aigüe"
+      ],
+      "description": "La gastroentérite aigüe est une cause fréquente de déshydratation chez les enfants et peut nécessiter une réhydratation orale ou parentérale.",
+      "expansion": null,
+      "clinical_significance": "La gastroentérite aigüe peut entraîner des complications neurologiques et des séquelles cérébrales si elle n'est pas traitée correctement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gastroentérite aigüe",
+        "inflammation intestinale"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyponatrémies",
+      "definition": "L'hyponatrémie est une condition caractérisée par un niveau anormalement bas de sodium dans le sang, souvent causée par une perte excessive de sodium ou une rétention d'eau.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyponatrémie"
+      ],
+      "related_terms": [
+        "hypernatrémies",
+        "déshydratation aigüe"
+      ],
+      "description": "L'hyponatrémie peut entraîner des complications neurologiques et des séquelles cérébrales si elle n'est pas traitée correctement.",
+      "expansion": null,
+      "clinical_significance": "L'hyponatrémie est une complication potentielle de la déshydratation aigüe et nécessite une réhydratation progressive pour éviter des complications neurologiques.",
+      "normal_values": "Valeurs normales de sodium dans le sang : 135-145 mmol/L",
+      "image_search_terms": [
+        "hyponatrémie",
+        "sodium sanguin"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypernatrémies",
+      "definition": "L'hypernatrémie est une condition caractérisée par un niveau anormalement élevé de sodium dans le sang, souvent causée par une perte excessive d'eau ou une rétention de sodium.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypernatrémie"
+      ],
+      "related_terms": [
+        "hyponatrémies",
+        "déshydratation aigüe"
+      ],
+      "description": "L'hypernatrémie peut entraîner des complications neurologiques et des séquelles cérébrales si elle n'est pas traitée correctement.",
+      "expansion": null,
+      "clinical_significance": "L'hypernatrémie est une complication potentielle de la déshydratation aigüe et nécessite une réhydratation progressive pour éviter des complications neurologiques.",
+      "normal_values": "Valeurs normales de sodium dans le sang : 135-145 mmol/L",
+      "image_search_terms": [
+        "hypernatrémie",
+        "sodium sanguin"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CEC",
+      "definition": "Le compartiment extra-cellulaire (CEC) est l'espace situé en dehors des cellules, incluant le liquide interstitiel et le plasma sanguin.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment extracellulaire"
+      ],
+      "related_terms": [
+        "CIC",
+        "PC"
+      ],
+      "description": "Le CEC joue un rôle crucial dans le maintien de l'équilibre hydrique et électrolytique du corps.",
+      "expansion": "compartiment extra-cellulaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "CEC",
+        "compartiment extra-cellulaire"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CIC",
+      "definition": "Le compartiment intra-cellulaire (CIC) est l'espace situé à l'intérieur des cellules, contenant le cytoplasme et les organites.",
+      "category": "anatomie",
+      "synonyms": [
+        "compartiment intracellulaire"
+      ],
+      "related_terms": [
+        "CEC",
+        "PC"
+      ],
+      "description": "Le CIC est essentiel pour les fonctions métaboliques et biochimiques des cellules.",
+      "expansion": "compartiment intra-cellulaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "CIC",
+        "compartiment intra-cellulaire"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TRC",
+      "definition": "Le Temps de Remplissage Capillaire (TRC) est une mesure du temps nécessaire pour que la couleur revienne à la peau après avoir été pressée, indiquant la perfusion sanguine.",
+      "category": "physiologie",
+      "synonyms": [
+        "temps de remplissage capillaire"
+      ],
+      "related_terms": [
+        "déshydratation aigüe"
+      ],
+      "description": "Le TRC est un indicateur clinique important pour évaluer l'état de déshydratation et la perfusion sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "Valeurs normales de TRC : <3 secondes",
+      "image_search_terms": [
+        "TRC",
+        "temps de remplissage capillaire"
+      ],
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "source_file": "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pédiatrie/Déshydratations Aiguës de l'Enfant/Courses/18 Déshydratations aigues de l’enfant 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md"
+  ],
+  "total_terms": 36
+}

@@ -1,0 +1,784 @@
+{
+  "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+  "terms": [
+    {
+      "term": "métapneumovirus",
+      "definition": "Virus à ARN de la famille des Pneumoviridae, responsable d'infections respiratoires aiguës.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VRS",
+        "bronchiolite"
+      ],
+      "description": "Le métapneumovirus peut causer des infections respiratoires sévères, notamment chez les nourrissons.",
+      "expansion": null,
+      "clinical_significance": "Les infections par le métapneumovirus peuvent nécessiter une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bocavirus",
+      "definition": "Virus à ADN de la famille des Parvoviridae, responsable d'infections respiratoires et gastro-intestinales.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VRS",
+        "bronchiolite"
+      ],
+      "description": "Le bocavirus peut causer des infections respiratoires sévères, notamment chez les nourrissons.",
+      "expansion": null,
+      "clinical_significance": "Les infections par le bocavirus peuvent nécessiter une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "râles crépitants",
+      "definition": "Bruits respiratoires anormaux, discontinus et fins, entendus à l'auscultation pulmonaire, souvent associés à une atteinte alvéolaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronchiolite",
+        "râles sibilants"
+      ],
+      "description": "Les râles crépitants sont caractéristiques de la pneumonie et de l'œdème pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Les râles crépitants peuvent indiquer une atteinte pulmonaire nécessitant un traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distension thoracique",
+      "definition": "Augmentation du volume thoracique due à une hyperinflation pulmonaire, souvent observée dans les maladies obstructives des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronchiolite",
+        "emphysème"
+      ],
+      "description": "La distension thoracique est un signe radiologique de l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": "La distension thoracique peut indiquer une obstruction sévère des voies aériennes nécessitant un traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardite aiguë",
+      "definition": "Inflammation aiguë du myocarde, souvent due à une infection virale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cardiomégalie",
+        "cardiopathie congénitale"
+      ],
+      "description": "La myocardite aiguë peut entraîner une insuffisance cardiaque et des arythmies.",
+      "expansion": null,
+      "clinical_significance": "La myocardite aiguë peut nécessiter une hospitalisation et un traitement urgent.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémoculture",
+      "definition": "Examen de laboratoire consistant à cultiver des bactéries ou des champignons à partir d'un échantillon de sang pour détecter une infection sanguine.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "NFS",
+        "CRP"
+      ],
+      "description": "L'hémoculture est utilisée pour diagnostiquer les infections sanguines et identifier l'agent pathogène.",
+      "expansion": null,
+      "clinical_significance": "L'hémoculture est essentielle pour guider le traitement antibiotique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pathologie pulmonaire",
+      "definition": "Terme général désignant une maladie affectant les poumons, pouvant inclure des infections, des maladies chroniques, ou des anomalies structurelles.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie pulmonaire"
+      ],
+      "related_terms": [
+        "bronchopneumopathie chronique obstructive",
+        "asthme"
+      ],
+      "description": "Les pathologies pulmonaires peuvent affecter la capacité respiratoire et nécessiter des traitements spécifiques.",
+      "expansion": null,
+      "clinical_significance": "Ces maladies peuvent compliquer la gestion de la bronchiolite chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pathologie pulmonaire",
+        "maladie pulmonaire"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunosuppression",
+      "definition": "État de diminution de la réponse immunitaire, pouvant être causé par des maladies, des médicaments, ou des traitements médicaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunodéficience"
+      ],
+      "related_terms": [
+        "VIH",
+        "chimiothérapie"
+      ],
+      "description": "L'immunosuppression augmente le risque d'infections et de complications chez les patients.",
+      "expansion": null,
+      "clinical_significance": "Les patients immunosupprimés nécessitent une surveillance accrue et des traitements adaptés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "immunosuppression",
+        "immunodéficience"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "saturation transcutanée en oxygène",
+      "definition": "Mesure non invasive de la saturation en oxygène du sang, généralement effectuée à l'aide d'un oxymètre de pouls.",
+      "category": "physiologie",
+      "synonyms": [
+        "SpO2"
+      ],
+      "related_terms": [
+        "oxymétrie de pouls",
+        "saturation en oxygène"
+      ],
+      "description": "Une saturation en oxygène inférieure à 92% indique une hypoxémie et nécessite une oxygénothérapie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "95-100%",
+      "image_search_terms": [
+        "saturation transcutanée en oxygène",
+        "SpO2"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coqueluche",
+      "definition": "Infection bactérienne causée par Bordetella pertussis, caractérisée par des quintes de toux violentes.",
+      "category": "pathologie",
+      "synonyms": [
+        "pertussis"
+      ],
+      "related_terms": [
+        "Bordetella pertussis",
+        "toux quinteuse"
+      ],
+      "description": "La coqueluche peut être grave chez les nourrissons et nécessite souvent une hospitalisation.",
+      "expansion": null,
+      "clinical_significance": "La coqueluche est une maladie à déclaration obligatoire et nécessite une vaccination préventive.",
+      "normal_values": null,
+      "image_search_terms": [
+        "coqueluche",
+        "pertussis"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchiolite aiguë",
+      "definition": "Infection virale des petites voies respiratoires, principalement causée par le virus respiratoire syncytial (VRS), affectant principalement les nourrissons.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchiolite"
+      ],
+      "related_terms": [
+        "VRS",
+        "infection respiratoire"
+      ],
+      "description": "La bronchiolite aiguë peut entraîner une détresse respiratoire sévère et nécessite souvent une hospitalisation.",
+      "expansion": null,
+      "clinical_significance": "La bronchiolite est une cause fréquente d'hospitalisation chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchiolite aiguë",
+        "bronchiolite"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiopathies congénitales",
+      "definition": "Malformations cardiaques présentes à la naissance, pouvant affecter la structure ou la fonction du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "malformations cardiaques congénitales"
+      ],
+      "related_terms": [
+        "communication interventriculaire",
+        "canal atrioventriculaire"
+      ],
+      "description": "Les cardiopathies congénitales peuvent nécessiter une intervention chirurgicale ou médicale pour corriger les anomalies.",
+      "expansion": null,
+      "clinical_significance": "Ces malformations peuvent compliquer la gestion de la bronchiolite chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiopathies congénitales",
+        "malformations cardiaques congénitales"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "communication interventriculaire",
+      "definition": "Ouverture anormale entre les deux ventricules du cœur, permettant au sang de passer directement de l'un à l'autre.",
+      "category": "pathologie",
+      "synonyms": [
+        "CIV"
+      ],
+      "related_terms": [
+        "cardiopathie congénitale",
+        "shunt gauche-droit"
+      ],
+      "description": "La CIV peut entraîner une surcharge volumétrique du cœur et nécessiter une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "La CIV est une cause fréquente de cardiopathie congénitale nécessitant une surveillance et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "communication interventriculaire",
+        "CIV"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canal atrioventriculaire",
+      "definition": "Malformation cardiaque congénitale caractérisée par une ouverture entre les oreillettes et les ventricules du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "CAV"
+      ],
+      "related_terms": [
+        "cardiopathie congénitale",
+        "shunt gauche-droit"
+      ],
+      "description": "Le CAV peut entraîner une insuffisance cardiaque et nécessiter une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Le CAV est une malformation complexe nécessitant une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "canal atrioventriculaire",
+        "CAV"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "persistance du canal artériel",
+      "definition": "Malformation cardiaque congénitale où le canal artériel, qui relie normalement l'aorte et l'artère pulmonaire chez le fœtus, reste ouvert après la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "PCA"
+      ],
+      "related_terms": [
+        "cardiopathie congénitale",
+        "shunt gauche-droit"
+      ],
+      "description": "La PCA peut entraîner une surcharge volumétrique du cœur et nécessiter une intervention chirurgicale ou médicale.",
+      "expansion": null,
+      "clinical_significance": "La PCA est une cause fréquente de cardiopathie congénitale nécessitant une surveillance et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "persistance du canal artériel",
+        "PCA"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardites infectieuses",
+      "definition": "Inflammation du muscle cardiaque causée par une infection, souvent virale ou bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "myocardite"
+      ],
+      "related_terms": [
+        "péricardite",
+        "endocardite"
+      ],
+      "description": "Les myocardites infectieuses peuvent entraîner une insuffisance cardiaque et nécessiter un traitement médical.",
+      "expansion": null,
+      "clinical_significance": "Les myocardites infectieuses sont des urgences médicales nécessitant une évaluation et un traitement rapides.",
+      "normal_values": null,
+      "image_search_terms": [
+        "myocardites infectieuses",
+        "myocardite"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachycardies supraventriculaires",
+      "definition": "Troubles du rythme cardiaque caractérisés par une fréquence cardiaque rapide et anormale, originaire des oreillettes ou du nœud auriculo-ventriculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "TSV"
+      ],
+      "related_terms": [
+        "arythmie",
+        "fibrillation auriculaire"
+      ],
+      "description": "Les TSV peuvent entraîner des symptômes tels que des palpitations, des étourdissements, ou une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Les TSV nécessitent une évaluation et un traitement spécialisés pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tachycardies supraventriculaires",
+        "TSV"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désobstruction rhinopharyngée",
+      "definition": "Technique de nettoyage des voies nasales pour éliminer les mucosités et améliorer la respiration.",
+      "category": "physiologie",
+      "synonyms": [
+        "lavage nasal"
+      ],
+      "related_terms": [
+        "congestion nasale",
+        "mucosités"
+      ],
+      "description": "La désobstruction rhinopharyngée est essentielle pour améliorer la respiration chez les nourrissons atteints de bronchiolite.",
+      "expansion": null,
+      "clinical_significance": "Cette technique est une partie importante de la prise en charge symptomatique de la bronchiolite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "désobstruction rhinopharyngée",
+        "lavage nasal"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydratation",
+      "definition": "Processus de maintien ou de restauration de l'équilibre hydrique du corps par l'apport de liquides.",
+      "category": "physiologie",
+      "synonyms": [
+        "réhydratation"
+      ],
+      "related_terms": [
+        "déshydratation",
+        "apports hydriques"
+      ],
+      "description": "Une hydratation adéquate est essentielle pour fluidifier les sécrétions et maintenir la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "90-120 ml/kg/jour pour les nourrissons",
+      "image_search_terms": [
+        "hydratation",
+        "réhydratation"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traitement antipyrétique",
+      "definition": "Traitement visant à réduire la fièvre, généralement à l'aide de médicaments tels que le paracétamol ou l'ibuprofène.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antipyrétique"
+      ],
+      "related_terms": [
+        "paracétamol",
+        "ibuprofène"
+      ],
+      "description": "Le traitement antipyrétique est utilisé pour réduire la fièvre et améliorer le confort du patient.",
+      "expansion": null,
+      "clinical_significance": "Les antipyrétiques sont couramment utilisés pour gérer la fièvre chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": [
+        "traitement antipyrétique",
+        "antipyrétique"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance respiratoire aiguë",
+      "definition": "Incapacité soudaine des poumons à assurer une oxygénation et une élimination du dioxyde de carbone adéquates.",
+      "category": "pathologie",
+      "synonyms": [
+        "IRA"
+      ],
+      "related_terms": [
+        "détresse respiratoire",
+        "insuffisance respiratoire"
+      ],
+      "description": "L'IRA peut être causée par diverses conditions telles que la bronchiolite, la pneumonie, ou l'asthme.",
+      "expansion": null,
+      "clinical_significance": "L'IRA est une urgence médicale nécessitant une intervention rapide et une assistance respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance respiratoire aiguë",
+        "IRA"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "otite moyenne aiguë purulente",
+      "definition": "Infection bactérienne de l'oreille moyenne caractérisée par une accumulation de pus et des symptômes tels que la douleur et la fièvre.",
+      "category": "pathologie",
+      "synonyms": [
+        "OMAP"
+      ],
+      "related_terms": [
+        "otite moyenne",
+        "infection de l'oreille moyenne"
+      ],
+      "description": "L'OMAP nécessite un traitement antibiotique pour prévenir des complications telles que la perforation du tympan.",
+      "expansion": null,
+      "clinical_significance": "L'OMAP est une infection courante chez les enfants nécessitant une évaluation et un traitement rapides.",
+      "normal_values": null,
+      "image_search_terms": [
+        "otite moyenne aiguë purulente",
+        "OMAP"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance respiratoire aigue",
+      "definition": "État clinique où les poumons ne peuvent pas fournir suffisamment d'oxygène au corps ou éliminer suffisamment de dioxyde de carbone.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance respiratoire aiguë"
+      ],
+      "related_terms": [
+        "hypoxémie",
+        "hypercapnie"
+      ],
+      "description": "L'insuffisance respiratoire aiguë est une urgence médicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance respiratoire aigue",
+        "défaillance respiratoire"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Haemophilus influenza",
+      "definition": "Bactérie responsable de diverses infections, y compris des infections respiratoires et des méningites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Haemophilus influenzae"
+      ],
+      "related_terms": [
+        "infection respiratoire",
+        "méningite"
+      ],
+      "description": "Haemophilus influenzae est une bactérie encapsulée qui peut causer des infections graves, notamment chez les enfants non vaccinés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Haemophilus influenza",
+        "Haemophilus influenzae"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pneumomédiastin",
+      "definition": "Présence d'air dans le médiastin, souvent due à une rupture des alvéoles pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "emphysème médiastinal"
+      ],
+      "related_terms": [
+        "pneumothorax",
+        "bronchiolite"
+      ],
+      "description": "Le pneumomédiastin peut être causé par une augmentation de la pression intra-alvéolaire, comme dans la bronchiolite sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Pneumomédiastin",
+        "emphysème médiastinal"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyper-réactivité bronchique",
+      "definition": "État d'hypersensibilité des voies respiratoires, caractérisé par une réponse exagérée à divers stimuli.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperréactivité bronchique"
+      ],
+      "related_terms": [
+        "asthme",
+        "bronchiolite"
+      ],
+      "description": "L'hyper-réactivité bronchique est souvent associée à l'asthme et peut être exacerbée par des infections virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyper-réactivité bronchique",
+        "hyperréactivité bronchique"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus de l'influenza",
+      "definition": "Virus à ARN responsable de la grippe, une infection respiratoire aiguë.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus de la grippe"
+      ],
+      "related_terms": [
+        "grippe",
+        "infection respiratoire"
+      ],
+      "description": "Le virus de l'influenza peut causer des épidémies saisonnières de grippe, affectant principalement les voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "virus de l'influenza",
+        "virus de la grippe"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchopathie chronique obstructive",
+      "definition": "Maladie pulmonaire chronique caractérisée par une obstruction persistante des voies aériennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "BPCO"
+      ],
+      "related_terms": [
+        "bronchiolite oblitérante",
+        "insuffisance respiratoire chronique"
+      ],
+      "description": "La bronchopathie chronique obstructive est souvent causée par le tabagisme et peut entraîner une insuffisance respiratoire chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchopathie chronique obstructive",
+        "BPCO"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance respiratoire chronique",
+      "definition": "État clinique où les poumons ne peuvent pas fournir suffisamment d'oxygène au corps ou éliminer suffisamment de dioxyde de carbone sur une période prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance respiratoire chronique"
+      ],
+      "related_terms": [
+        "BPCO",
+        "bronchiolite oblitérante"
+      ],
+      "description": "L'insuffisance respiratoire chronique est souvent associée à des maladies pulmonaires chroniques comme la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance respiratoire chronique",
+        "défaillance respiratoire chronique"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Palivizumab",
+      "definition": "Anticorps monoclonal utilisé pour prévenir les infections graves à VRS chez les nourrissons à haut risque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Synagis®"
+      ],
+      "related_terms": [
+        "VRS",
+        "prématuré"
+      ],
+      "description": "Le Palivizumab est administré par voie intramusculaire et est indiqué pour les nourrissons prématurés ou ceux ayant des maladies pulmonaires ou cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Palivizumab",
+        "Synagis®"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps monoclonal",
+      "definition": "Protéine synthétisée en laboratoire qui imite les anticorps naturels produits par le système immunitaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "mAb"
+      ],
+      "related_terms": [
+        "Palivizumab",
+        "immunothérapie"
+      ],
+      "description": "Les anticorps monoclonaux sont utilisés pour traiter diverses maladies, y compris les infections et les cancers.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps monoclonal",
+        "mAb"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prématurés",
+      "definition": "Nourrissons nés avant la 37ème semaine de gestation.",
+      "category": "anatomie",
+      "synonyms": [
+        "nourrissons prématurés"
+      ],
+      "related_terms": [
+        "Palivizumab",
+        "VRS"
+      ],
+      "description": "Les nourrissons prématurés sont à haut risque de complications respiratoires et infectieuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "prématurés",
+        "nourrissons prématurés"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intra musculaire",
+      "definition": "Mode d'administration d'un médicament directement dans un muscle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IM"
+      ],
+      "related_terms": [
+        "Palivizumab",
+        "injection"
+      ],
+      "description": "L'administration intramusculaire permet une absorption rapide et efficace du médicament.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "intra musculaire",
+        "IM"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchiolite aigue",
+      "definition": "Infection respiratoire aiguë affectant les petites voies aériennes, principalement chez les nourrissons.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchiolite"
+      ],
+      "related_terms": [
+        "VRS",
+        "insuffisance respiratoire"
+      ],
+      "description": "La bronchiolite aiguë est souvent causée par des virus comme le VRS et peut entraîner des complications graves chez les nourrissons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchiolite aigue",
+        "bronchiolite"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STP",
+      "definition": "Société de Pneumologie de Langue Française, une société savante dédiée à la pneumologie.",
+      "category": "acronyme",
+      "synonyms": [
+        "Société de Pneumologie de Langue Française"
+      ],
+      "related_terms": [
+        "recommandations de bonne pratique",
+        "bronchiolite"
+      ],
+      "description": "La SPLF émet des recommandations et des avis sur les bonnes pratiques en pneumologie.",
+      "expansion": "Société de Pneumologie de Langue Française",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "STP",
+        "Société de Pneumologie de Langue Française"
+      ],
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "source_file": "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pédiatrie/Bronchiolite/Courses/8 Bronchiolite du nourrisson 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.08.57 AM.md"
+  ],
+  "total_terms": 35
+}

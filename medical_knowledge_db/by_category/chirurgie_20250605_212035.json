@@ -1,0 +1,402 @@
+{
+  "category": "chirurgie",
+  "terms": [
+    {
+      "term": "laparotomie",
+      "definition": "La laparotomie est une incision chirurgicale de la paroi abdominale pour accéder à la cavité abdominale.",
+      "category": "chirurgie",
+      "synonyms": [
+        "chirurgie ouverte"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "abdomen"
+      ],
+      "description": "La laparotomie est une approche chirurgicale conventionnelle pour le traitement de la grossesse extra-utérine.",
+      "expansion": null,
+      "clinical_significance": "La laparotomie est utilisée lorsque la cœlioscopie n'est pas possible ou contre-indiquée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "source_file": "Gynécologie-Obstétrique/Grossesse Extra-Utérine/Courses/32 Grossesse extra-utérine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie de décompression",
+      "definition": "Intervention chirurgicale visant à réduire la pression dans l'orbite en retirant du tissu ou de l'os.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "orbitopathie Basedowienne",
+        "chirurgie orbitaire"
+      ],
+      "description": "La chirurgie de décompression est utilisée pour traiter les complications sévères de l'orbitopathie Basedowienne.",
+      "expansion": "",
+      "clinical_significance": "Importante pour traiter les complications oculaires sévères.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chirurgie de décompression",
+        "orbitopathie Basedowienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie plastique et reconstructive",
+      "definition": "Intervention chirurgicale visant à corriger les déformations et à améliorer l'apparence et la fonction des structures affectées.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "chirurgie reconstructive",
+        "chirurgie plastique"
+      ],
+      "description": "La chirurgie plastique et reconstructive est utilisée pour corriger les déformations et améliorer l'apparence et la fonction des structures affectées.",
+      "expansion": "",
+      "clinical_significance": "Importante pour améliorer la qualité de vie des patients.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chirurgie plastique",
+        "chirurgie reconstructive"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdectomie",
+      "definition": "Intervention chirurgicale consistant en l'ablation partielle ou totale de la glande thyroïde.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "glande thyroïde",
+        "chirurgie thyroïdienne"
+      ],
+      "description": "La thyroïdectomie est utilisée pour traiter l'hyperthyroïdie, les goitres et les cancers de la thyroïde.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le traitement définitif de certaines maladies thyroïdiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thyroïdectomie",
+        "chirurgie thyroïdienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plaque vissée",
+      "definition": "Technique chirurgicale utilisant une plaque métallique fixée par des vis pour stabiliser une fracture.",
+      "category": "chirurgie",
+      "synonyms": [
+        "ostéosynthèse par plaque"
+      ],
+      "related_terms": [
+        "ostéosynthèse",
+        "fracture"
+      ],
+      "description": "Utilisée pour traiter des fractures nécessitant une stabilisation rigide.",
+      "expansion": null,
+      "clinical_significance": "Technique courante en chirurgie orthopédique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enclouage centromédullaire",
+      "definition": "Technique chirurgicale consistant à insérer un clou dans la cavité médullaire de l'os pour stabiliser une fracture.",
+      "category": "chirurgie",
+      "synonyms": [
+        "enclouage intramédullaire"
+      ],
+      "related_terms": [
+        "ostéosynthèse",
+        "fracture"
+      ],
+      "description": "Permet une stabilisation interne tout en respectant l'hématome périfracturaire.",
+      "expansion": null,
+      "clinical_significance": "Traitement de choix pour de nombreuses fractures diaphysaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "source_file": "Ortho, Rhumato/Fractures Ouvertes de la Jambe/Courses/31 Fractures ouvertes de la jambe 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathétérisme cardiaque",
+      "definition": "Procédure médicale où un cathéter est inséré dans le cœur pour diagnostiquer ou traiter des conditions cardiaques.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "coronarographie",
+        "angiographie"
+      ],
+      "description": "Utilisé pour diagnostiquer et traiter les maladies cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "curage ganglionnaire",
+      "definition": "Procédure chirurgicale consistant à enlever les ganglions lymphatiques autour d'une tumeur.",
+      "category": "chirurgie",
+      "synonyms": [
+        "lymphadénectomie"
+      ],
+      "related_terms": [
+        "ganglion sentinelle",
+        "métastase ganglionnaire"
+      ],
+      "description": "Utilisé pour prévenir la propagation du cancer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumorectomies",
+      "definition": "Procédure chirurgicale consistant à enlever une tumeur sans enlever une grande partie du tissu environnant.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Wedge résection"
+      ],
+      "related_terms": [
+        "lobectomie",
+        "pneumonectomie"
+      ],
+      "description": "Les tumorectomies sont déconseillées car carcinologiquement incomplètes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bricker",
+      "definition": "Technique chirurgicale de dérivation urinaire utilisant un segment d'intestin pour créer une nouvelle voie d'écoulement des urines.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "entérocystoplastie"
+      ],
+      "description": "Utilisée pour traiter les obstructions urinaires sévères.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des troubles métaboliques et des infections urinaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Bricker",
+        "dérivation urinaire"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entérocystoplastie",
+      "definition": "Technique chirurgicale utilisant un segment d'intestin pour augmenter la capacité de la vessie.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "Bricker"
+      ],
+      "description": "Utilisée pour traiter les vessies de petite capacité ou les obstructions urinaires.",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des troubles métaboliques et des infections urinaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "entérocystoplastie",
+        "augmentation de la vessie"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cystotomie",
+      "definition": "Incision chirurgicale de la vessie pour retirer des calculs ou traiter d'autres conditions vésicales.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "lithiase vésicale primitive",
+        "lithiase vésicale secondaire"
+      ],
+      "description": "Peut être réalisée à ciel ouvert ou par voie endoscopique.",
+      "expansion": "",
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cystotomie",
+        "chirurgie vésicale"
+      ],
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "source_file": "Urologie/Lithiase Urinaire/Courses/50 Lithiase urinaire 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RTUP",
+      "definition": "Résection Trans-Urétrale de la Prostate, une procédure chirurgicale pour enlever une partie de la prostate.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Résection Trans-Urétrale de la Prostate"
+      ],
+      "related_terms": [
+        "adénomectomie",
+        "prostatectomie"
+      ],
+      "description": "La RTUP est utilisée pour traiter les symptômes sévères de l'HBP en enlevant le tissu prostatique obstruant l'urètre.",
+      "expansion": null,
+      "clinical_significance": "Technique de référence pour le traitement chirurgical de l'HBP.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TURP",
+        "prostate surgery"
+      ],
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ITCP",
+      "definition": "Incision Trans-Cervico-Prostatique, une procédure chirurgicale pour traiter l'HBP en incisant le col vésical.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Incision Trans-Cervico-Prostatique"
+      ],
+      "related_terms": [
+        "RTUP",
+        "adénomectomie"
+      ],
+      "description": "L'ITCP est une alternative à la RTUP pour les petites prostates sans lobe médian.",
+      "expansion": null,
+      "clinical_significance": "Moins durable que la RTUP mais avec un risque réduit d'éjaculation rétrograde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ITCP",
+        "prostate surgery"
+      ],
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HIFU",
+      "definition": "Ultrasons Focalisés de Haute Intensité, une technique de traitement non invasive utilisant des ultrasons pour détruire le tissu prostatique.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Ultrasons Focalisés de Haute Intensité"
+      ],
+      "related_terms": [
+        "thermothérapie",
+        "laser"
+      ],
+      "description": "Le HIFU est utilisé pour traiter l'HBP et le cancer de la prostate en ciblant précisément le tissu à détruire.",
+      "expansion": null,
+      "clinical_significance": "Technique mini-invasive avec moins de risques hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HIFU",
+        "prostate treatment"
+      ],
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICTP",
+      "definition": "Incision Cervico-Transversale de la Prostate, une technique chirurgicale utilisée pour traiter l'HBP en incisant la prostate pour soulager l'obstruction urinaire.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Incision Cervico-Transversale de la Prostate"
+      ],
+      "related_terms": [
+        "HBP",
+        "Chirurgie de la prostate"
+      ],
+      "description": "L'ICTP est souvent utilisée pour les petites prostates et permet de préserver l'éjaculation antégrade.",
+      "expansion": null,
+      "clinical_significance": "Elle est une option chirurgicale efficace pour les patients jeunes avec des prostates de petite taille.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prostatectomie radicale",
+      "definition": "Intervention chirurgicale consistant à enlever complètement la prostate, souvent utilisée comme traitement curatif pour le cancer de la prostate localisé.",
+      "category": "chirurgie",
+      "synonyms": [
+        "Ablation de la prostate"
+      ],
+      "related_terms": [
+        "Cancer de la prostate",
+        "Chirurgie"
+      ],
+      "description": "La prostatectomie radicale est une option de traitement pour les patients avec un cancer de la prostate localisé et une espérance de vie suffisante.",
+      "expansion": null,
+      "clinical_significance": "Elle peut entraîner des complications telles que l'incontinence urinaire et la dysfonction érectile.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "source_file": "Urologie/Tumeur de la Prostate/Courses/73 Les Tumeurs de la prostate 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM 3.09.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sigmoïdectomie",
+      "definition": "Résection chirurgicale du sigmoïde, souvent réalisée en cas de volvulus ou de tumeur sténosante.",
+      "category": "chirurgie",
+      "synonyms": [
+        "résection du sigmoïde"
+      ],
+      "related_terms": [
+        "volvulus du colon",
+        "tumeur sténosante"
+      ],
+      "description": "Intervention chirurgicale pour traiter les occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": "Intervention chirurgicale nécessitant une évaluation et une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sigmoïdectomie",
+        "résection du sigmoïde"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suture digestive",
+      "definition": "Procédure chirurgicale consistant à réparer une perforation ou une lésion de l'intestin par suture.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "suture intestinale",
+        "réparation digestive"
+      ],
+      "description": "La suture digestive est souvent nécessaire en cas de perforation intestinale.",
+      "expansion": null,
+      "clinical_significance": "La suture digestive doit être réalisée avec précaution pour éviter des complications post-opératoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "suture digestive",
+        "suture intestinale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 19,
+  "extraction_date": "20250605_212035"
+}

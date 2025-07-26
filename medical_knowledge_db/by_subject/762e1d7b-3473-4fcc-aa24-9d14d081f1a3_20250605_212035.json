@@ -1,0 +1,978 @@
+{
+  "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+  "terms": [
+    {
+      "term": "arthropathie",
+      "definition": "Terme général désignant toute maladie affectant les articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie articulaire"
+      ],
+      "related_terms": [
+        "arthrite",
+        "arthrose"
+      ],
+      "description": "L'arthropathie peut être inflammatoire, dégénérative ou infectieuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs de virulence",
+      "definition": "Molécules produites par les micro-organismes qui augmentent leur capacité à causer une maladie.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virulence"
+      ],
+      "related_terms": [
+        "toxines",
+        "adhésines"
+      ],
+      "description": "Les facteurs de virulence incluent les toxines, les enzymes et les structures de surface qui facilitent l'infection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram négatives",
+      "definition": "Bactéries qui ne retiennent pas le colorant de Gram lors de la coloration de Gram.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries Gram-"
+      ],
+      "related_terms": [
+        "Gram positives"
+      ],
+      "description": "Les bactéries Gram négatives ont une membrane externe supplémentaire qui les distingue des bactéries Gram positives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exotoxines",
+      "definition": "Toxines sécrétées par les bactéries qui peuvent causer des dommages aux cellules hôtes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "toxines extracellulaires"
+      ],
+      "related_terms": [
+        "endotoxines"
+      ],
+      "description": "Les exotoxines sont souvent responsables des symptômes cliniques des infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram positives",
+      "definition": "Bactéries qui retiennent le colorant de Gram lors de la coloration de Gram.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries Gram+"
+      ],
+      "related_terms": [
+        "Gram négatives"
+      ],
+      "description": "Les bactéries Gram positives ont une paroi cellulaire épaisse composée de peptidoglycane.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polynucléaires",
+      "definition": "Type de leucocytes caractérisés par un noyau segmenté, impliqués dans la réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutrophiles"
+      ],
+      "related_terms": [
+        "leucocytes",
+        "phagocytes"
+      ],
+      "description": "Les polynucléaires sont les premiers répondants aux infections bactériennes et jouent un rôle clé dans la phagocytose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite aigue hématogène",
+      "definition": "Infection articulaire aiguë résultant de la dissémination hématogène de bactéries.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite septique aiguë"
+      ],
+      "related_terms": [
+        "septicémie",
+        "bactériémie"
+      ],
+      "description": "L'arthrite aiguë hématogène est souvent causée par des bactéries communes comme Staphylococcus aureus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monoarticulaire",
+      "definition": "Affectant une seule articulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "monoarthrite"
+      ],
+      "related_terms": [
+        "polyarticulaire",
+        "oligoarticulaire"
+      ],
+      "description": "Les infections monoarticulaires sont plus fréquentes que les infections polyarticulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyarticulaire",
+      "definition": "Affectant plusieurs articulations simultanément.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyarthrite"
+      ],
+      "related_terms": [
+        "monoarticulaire",
+        "oligoarticulaire"
+      ],
+      "description": "Les infections polyarticulaires peuvent être causées par des agents pathogènes spécifiques comme Neisseria gonorrhoeae.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligoarticulaire",
+      "definition": "Affectant quelques articulations, généralement entre deux et quatre.",
+      "category": "pathologie",
+      "synonyms": [
+        "oligoarthrite"
+      ],
+      "related_terms": [
+        "monoarticulaire",
+        "polyarticulaire"
+      ],
+      "description": "Les infections oligoarticulaires sont moins fréquentes que les infections monoarticulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AS",
+      "definition": "Arthrite Septique, une infection articulaire causée par des bactéries ou d'autres micro-organismes.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite infectieuse"
+      ],
+      "related_terms": [
+        "arthrite",
+        "sepsis"
+      ],
+      "description": "L'arthrite septique est une urgence médicale nécessitant un traitement rapide pour éviter des complications graves.",
+      "expansion": "Arthrite Septique",
+      "clinical_significance": "Peut entraîner une destruction rapide de l'articulation et une septicémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite septique",
+        "infection articulaire"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A Tbc",
+      "definition": "Arthrite Tuberculeuse, une infection articulaire causée par Mycobacterium tuberculosis.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite tuberculeuse"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "arthrite"
+      ],
+      "description": "L'arthrite tuberculeuse est une forme d'arthrite infectieuse qui nécessite un traitement spécifique.",
+      "expansion": "Arthrite Tuberculeuse",
+      "clinical_significance": "Peut entraîner des destructions articulaires sévères si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite tuberculeuse",
+        "tuberculose articulaire"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A Rhum",
+      "definition": "Arthrite Rhumatoïde, une maladie auto-immune chronique caractérisée par une inflammation des articulations.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyarthrite rhumatoïde"
+      ],
+      "related_terms": [
+        "arthrite",
+        "rhumatisme"
+      ],
+      "description": "La polyarthrite rhumatoïde est une maladie systémique qui peut affecter plusieurs articulations.",
+      "expansion": "Arthrite Rhumatoïde",
+      "clinical_significance": "Peut entraîner des déformations articulaires et une invalidité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite rhumatoïde",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "A Crist",
+      "definition": "Arthrite Cristalline, une inflammation articulaire causée par des cristaux de sels minéraux.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite microcristalline"
+      ],
+      "related_terms": [
+        "goutte",
+        "chondrocalcinose"
+      ],
+      "description": "L'arthrite cristalline inclut des conditions comme la goutte et la chondrocalcinose.",
+      "expansion": "Arthrite Cristalline",
+      "clinical_significance": "Peut entraîner des crises douloureuses et des dommages articulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite cristalline",
+        "goutte"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "germes pyogènes",
+      "definition": "Bactéries responsables d'infections purulentes, souvent des staphylocoques ou des streptocoques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries pyogènes"
+      ],
+      "related_terms": [
+        "staphylocoque",
+        "streptocoque"
+      ],
+      "description": "Les germes pyogènes sont des bactéries qui provoquent des infections avec formation de pus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "germes pyogènes",
+        "infection purulente"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corynébactérie",
+      "definition": "Genre de bactéries à Gram positif, incluant des espèces pathogènes comme Corynebacterium diphtheriae.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Corynebacterium"
+      ],
+      "related_terms": [
+        "diphtérie",
+        "infection corynébactérienne"
+      ],
+      "description": "Les corynébactéries sont des bactéries qui peuvent causer diverses infections, y compris des infections articulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "corynébactérie",
+        "Corynebacterium"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Radiographies",
+      "definition": "Technique d'imagerie utilisant les rayons X pour visualiser les structures internes du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie",
+        "rayons X"
+      ],
+      "related_terms": [
+        "imagerie médicale",
+        "radiologie"
+      ],
+      "description": "Les radiographies sont utilisées pour diagnostiquer diverses conditions osseuses et articulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "radiographie",
+        "rayons X"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Echographie",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les structures internes du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie",
+        "ultrasonographie"
+      ],
+      "related_terms": [
+        "imagerie médicale",
+        "ultrasons"
+      ],
+      "description": "L'échographie est utilisée pour visualiser les épanchements articulaires et guider les ponctions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie",
+        "ultrasonographie"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomes",
+      "definition": "Amas de cellules inflammatoires formant une structure nodulaire, souvent en réponse à une infection ou à un corps étranger.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulome"
+      ],
+      "related_terms": [
+        "inflammation",
+        "infection"
+      ],
+      "description": "Les granulomes peuvent être causés par des infections mycobactériennes ou fongiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "granulomes",
+        "granulome"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Homans",
+      "definition": "Signe de Homans, un test clinique utilisé pour détecter une thrombose veineuse profonde.",
+      "category": "physiologie",
+      "synonyms": [
+        "signe de Homans"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "test clinique"
+      ],
+      "description": "Le signe de Homans est positif si la dorsiflexion du pied provoque une douleur au mollet.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Homans",
+        "signe de Homans"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hanche",
+      "definition": "Articulation entre le fémur et le bassin, permettant la flexion et l'extension de la jambe.",
+      "category": "anatomie",
+      "synonyms": [
+        "articulation de la hanche"
+      ],
+      "related_terms": [
+        "fémur",
+        "bassin"
+      ],
+      "description": "La hanche est une articulation essentielle pour la mobilité et peut être affectée par diverses pathologies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hanche",
+        "articulation de la hanche"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumarthrose",
+      "definition": "Présence d'air dans une articulation, souvent due à une infection ou une blessure.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumarthrose"
+      ],
+      "related_terms": [
+        "arthrite",
+        "infection articulaire"
+      ],
+      "description": "La pneumarthrose peut être un signe d'infection articulaire ou de traumatisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumarthrose",
+        "air dans l'articulation"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arthrite gonococcique",
+      "definition": "Infection articulaire causée par Neisseria gonorrhoeae, souvent associée à des symptômes systémiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "arthrite gonococcique"
+      ],
+      "related_terms": [
+        "gonorrhée",
+        "infection articulaire"
+      ],
+      "description": "L'arthrite gonococcique peut s'intégrer dans un syndrome caractéristique dermatite-polyarthrite-ténosynovite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "arthrite gonococcique",
+        "infection gonococcique"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermatite-polyarthrite-ténosynovite",
+      "definition": "Syndrome caractérisé par une inflammation de la peau, des articulations et des gaines tendineuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "dermatite-polyarthrite-ténosynovite"
+      ],
+      "related_terms": [
+        "dermatite",
+        "polyarthrite",
+        "ténosynovite"
+      ],
+      "description": "Ce syndrome peut être associé à des infections comme la gonorrhée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dermatite-polyarthrite-ténosynovite",
+        "syndrome inflammatoire"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arthrites bactériennes non gonococciques",
+      "definition": "Infections articulaires causées par des bactéries autres que les gonocoques, souvent caractérisées par une douleur articulaire progressive et modérée à sévère.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite",
+        "gonocoques"
+      ],
+      "description": "Ces infections peuvent être causées par des microorganismes virulents comme S. aureus ou Pseudomonas aeruginosa, ou moins virulents comme les staphylocoques coagulase négatifs.",
+      "expansion": "",
+      "clinical_significance": "Important de différencier des autres types d'arthrite pour un traitement approprié.",
+      "normal_values": "",
+      "image_search_terms": [
+        "arthrite bactérienne",
+        "infection articulaire"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "staphylocoques coagulase négatifs",
+      "definition": "Groupe de bactéries à Gram positif qui ne produisent pas de coagulase, souvent impliquées dans les infections nosocomiales.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection bactérienne",
+        "arthrite"
+      ],
+      "description": "Ces bactéries sont souvent moins virulentes mais peuvent causer des infections chez les patients immunodéprimés.",
+      "expansion": "",
+      "clinical_significance": "Traitement souvent nécessitant des antibiotiques spécifiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "staphylocoques coagulase négatifs",
+        "infection staphylococcique"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Propionibacterium acnes",
+      "definition": "Bactérie à Gram positif, anaérobie, souvent impliquée dans les infections cutanées et articulaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection bactérienne",
+        "arthrite"
+      ],
+      "description": "C'est un pathogène opportuniste souvent trouvé dans les follicules pilosébacés.",
+      "expansion": "",
+      "clinical_significance": "Traitement souvent nécessitant des antibiotiques spécifiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Propionibacterium acnes",
+        "infection propionibacterium"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monarticulaire",
+      "definition": "Affectant une seule articulation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite",
+        "polyarticulaire"
+      ],
+      "description": "Ce terme est souvent utilisé pour décrire des infections ou des inflammations limitées à une seule articulation.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic différentiel et le traitement.",
+      "normal_values": "",
+      "image_search_terms": [
+        "monarticulaire",
+        "arthrite monarticulaire"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arthrite virale",
+      "definition": "Inflammation des articulations causée par une infection virale, souvent caractérisée par des symptômes polyarticulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite",
+        "infection virale"
+      ],
+      "description": "Ces infections peuvent simuler des arthrites bactériennes mais sont généralement moins sévères.",
+      "expansion": "",
+      "clinical_significance": "Diagnostic différentiel important pour éviter un traitement antibiotique inutile.",
+      "normal_values": "",
+      "image_search_terms": [
+        "arthrite virale",
+        "infection virale"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synovite aiguë transitoire",
+      "definition": "Inflammation aiguë et temporaire de la synoviale, souvent observée chez les enfants après une infection ORL.",
+      "category": "pathologie",
+      "synonyms": [
+        "rhume de hanche"
+      ],
+      "related_terms": [
+        "arthrite",
+        "infection ORL"
+      ],
+      "description": "Caractérisée par une douleur et une impotence fonctionnelle de la hanche sans signes généraux importants.",
+      "expansion": "",
+      "clinical_significance": "Traitement médical souvent suffisant.",
+      "normal_values": "",
+      "image_search_terms": [
+        "synovite aiguë transitoire",
+        "rhume de hanche"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Céfazoline",
+      "definition": "Antibiotique céphalosporine de première génération utilisé pour traiter diverses infections bactériennes, y compris les infections articulaires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisé souvent en association avec d'autres antibiotiques pour un traitement synergique.",
+      "expansion": "",
+      "clinical_significance": "Traitement de première intention pour certaines infections articulaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Céfazoline",
+        "antibiotique"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Céfapirine",
+      "definition": "Antibiotique céphalosporine de première génération utilisé pour traiter diverses infections bactériennes, y compris les infections articulaires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisé souvent en association avec d'autres antibiotiques pour un traitement synergique.",
+      "expansion": "",
+      "clinical_significance": "Traitement de première intention pour certaines infections articulaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Céfapirine",
+        "antibiotique"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IV",
+      "definition": "Intraveineuse, administration directe dans une veine.",
+      "category": "acronyme",
+      "synonyms": [
+        "intraveineuse"
+      ],
+      "related_terms": [
+        "administration",
+        "veine"
+      ],
+      "description": "Méthode d'administration souvent utilisée pour les antibiotiques nécessitant une diffusion rapide.",
+      "expansion": "Intraveineuse",
+      "clinical_significance": "Méthode d'administration courante pour les antibiotiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "IV",
+        "intraveineuse"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ABG",
+      "definition": "Antibiogramme, test de laboratoire pour déterminer la sensibilité des bactéries aux antibiotiques.",
+      "category": "acronyme",
+      "synonyms": [
+        "antibiogramme"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "sensibilité bactérienne"
+      ],
+      "description": "Utilisé pour guider le choix des antibiotiques dans le traitement des infections.",
+      "expansion": "Antibiogramme",
+      "clinical_significance": "Outil diagnostique essentiel pour un traitement antibiotique efficace.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ABG",
+        "antibiogramme"
+      ],
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bacilles Gram négatifs",
+      "definition": "Bactéries en forme de bâtonnet qui ne retiennent pas la coloration de Gram.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Bacilles Gram négatifs"
+      ],
+      "related_terms": [
+        "Cocci Gram positif"
+      ],
+      "description": "Incluent des pathogènes comme E. coli et Pseudomonas aeruginosa.",
+      "expansion": null,
+      "clinical_significance": "Responsables de nombreuses infections nosocomiales et communautaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Flucloxacilline",
+      "definition": "Antibiotique de la classe des pénicillines, utilisé pour traiter les infections à staphylocoques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Flucloxacilline"
+      ],
+      "related_terms": [
+        "Oxacilline"
+      ],
+      "description": "Efficace contre les staphylocoques résistants à la pénicilline.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les infections cutanées et osseuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acide fusidique",
+      "definition": "Antibiotique utilisé pour traiter les infections à staphylocoques, notamment les infections cutanées et osseuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Acide fusidique"
+      ],
+      "related_terms": [
+        "Vancomycine"
+      ],
+      "description": "Efficace contre les staphylocoques résistants à la pénicilline.",
+      "expansion": null,
+      "clinical_significance": "Utilisé en association avec d'autres antibiotiques pour traiter les infections graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ponction lavage",
+      "definition": "Procédure médicale consistant à aspirer du liquide d'une cavité corporelle et à la rincer avec une solution stérile.",
+      "category": "imagerie",
+      "synonyms": [
+        "Ponction lavage"
+      ],
+      "related_terms": [
+        "Arthroscopie",
+        "Arthrotomie"
+      ],
+      "description": "Utilisée pour diagnostiquer et traiter les infections articulaires.",
+      "expansion": null,
+      "clinical_significance": "Permet de soulager la pression intra-articulaire et d'évacuer le liquide articulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arthroscopie",
+      "definition": "Procédure chirurgicale minimement invasive utilisée pour visualiser et traiter les problèmes à l'intérieur d'une articulation.",
+      "category": "imagerie",
+      "synonyms": [
+        "Arthroscopie"
+      ],
+      "related_terms": [
+        "Arthrotomie"
+      ],
+      "description": "Permet de réaliser un lavage abondant et d'explorer le cartilage et la synoviale.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour diagnostiquer et traiter les infections articulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arthrotomie",
+      "definition": "Procédure chirurgicale consistant à ouvrir une articulation pour traiter des problèmes internes.",
+      "category": "imagerie",
+      "synonyms": [
+        "Arthrotomie"
+      ],
+      "related_terms": [
+        "Arthroscopie"
+      ],
+      "description": "Permet de réaliser un lavage abondant et d'explorer le cartilage et la synoviale.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter les infections articulaires graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cartilage",
+      "definition": "Tissu conjonctif dense et élastique qui recouvre les surfaces articulaires des os.",
+      "category": "anatomie",
+      "synonyms": [
+        "Cartilage"
+      ],
+      "related_terms": [
+        "Synoviale"
+      ],
+      "description": "Joue un rôle crucial dans la réduction du frottement et l'absorption des chocs dans les articulations.",
+      "expansion": null,
+      "clinical_significance": "Les dommages au cartilage peuvent entraîner des douleurs articulaires et de l'arthrite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Synoviale",
+      "definition": "Membrane qui tapisse les cavités articulaires et produit le liquide synovial.",
+      "category": "anatomie",
+      "synonyms": [
+        "Synoviale"
+      ],
+      "related_terms": [
+        "Cartilage"
+      ],
+      "description": "Joue un rôle crucial dans la lubrification et la nutrition des articulations.",
+      "expansion": null,
+      "clinical_significance": "L'inflammation de la synoviale peut entraîner des douleurs articulaires et de l'arthrite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Drainage",
+      "definition": "Procédure médicale consistant à évacuer le pus ou le liquide d'une cavité corporelle.",
+      "category": "imagerie",
+      "synonyms": [
+        "Drainage"
+      ],
+      "related_terms": [
+        "Ponction lavage",
+        "Arthroscopie"
+      ],
+      "description": "Utilisé pour soulager la pression intra-articulaire et évacuer le liquide articulaire.",
+      "expansion": null,
+      "clinical_significance": "Permet de traiter les infections articulaires et de prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Arthrodèse",
+      "definition": "Procédure chirurgicale consistant à fusionner deux os d'une articulation pour la rendre immobile.",
+      "category": "imagerie",
+      "synonyms": [
+        "Arthrodèse"
+      ],
+      "related_terms": [
+        "Fixateur externe",
+        "Plâtre circulaire"
+      ],
+      "description": "Utilisée pour traiter les arthrites graves et les instabilités articulaires.",
+      "expansion": null,
+      "clinical_significance": "Permet de soulager la douleur et d'améliorer la fonction articulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fixateur externe",
+      "definition": "Dispositif médical utilisé pour stabiliser les os fracturés ou les articulations instables.",
+      "category": "imagerie",
+      "synonyms": [
+        "Fixateur externe"
+      ],
+      "related_terms": [
+        "Plâtre circulaire"
+      ],
+      "description": "Utilisé pour traiter les fractures complexes et les infections osseuses.",
+      "expansion": null,
+      "clinical_significance": "Permet de stabiliser les os et de favoriser la guérison.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Plâtre circulaire",
+      "definition": "Dispositif médical utilisé pour immobiliser une articulation ou un membre.",
+      "category": "imagerie",
+      "synonyms": [
+        "Plâtre circulaire"
+      ],
+      "related_terms": [
+        "Fixateur externe"
+      ],
+      "description": "Utilisé pour traiter les fractures et les entorses.",
+      "expansion": null,
+      "clinical_significance": "Permet de stabiliser les os et de favoriser la guérison.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "source_file": "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Ortho, Rhumato/Arthrite Septique/Courses/6 Arthrite septique 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md"
+  ],
+  "total_terms": 46
+}

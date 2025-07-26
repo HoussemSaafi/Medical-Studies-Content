@@ -1,0 +1,96 @@
+{
+  "category": "obstétrique",
+  "terms": [
+    {
+      "term": "HU",
+      "definition": "Hauteur utérine, une mesure de la taille de l'utérus utilisée pour évaluer la croissance fœtale.",
+      "category": "obstétrique",
+      "synonyms": [
+        "hauteur utérine"
+      ],
+      "related_terms": [
+        "croissance fœtale",
+        "grossesse"
+      ],
+      "description": "La HU est un indicateur important de la croissance fœtale et du bien-être.",
+      "expansion": "Hauteur utérine",
+      "clinical_significance": "Une HU diminuée peut indiquer un retard de croissance intra-utérin (RCIU).",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hauteur utérine",
+        "croissance fœtale"
+      ],
+      "subject_id": "4846353b-dac3-4c89-9f60-dcd37a278a89",
+      "source_file": "Gynécologie-Obstétrique/Prééclampsies & Éclampsies/Courses/60 Préeclampsie et éclampsie 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BDC",
+      "definition": "Battements du cœur, souvent utilisés pour évaluer la vitalité fœtale.",
+      "category": "obstétrique",
+      "synonyms": [
+        "battements cardiaques fœtaux"
+      ],
+      "related_terms": [
+        "rythme cardiaque fœtal",
+        "bien-être fœtal"
+      ],
+      "description": "Les BDC sont un indicateur crucial de la santé fœtale.",
+      "expansion": "Battements du cœur",
+      "clinical_significance": "Des BDC ralentis ou absents peuvent indiquer une souffrance fœtale.",
+      "normal_values": "120-160 battements par minute",
+      "image_search_terms": [
+        "battements cardiaques fœtaux",
+        "bien-être fœtal"
+      ],
+      "subject_id": "4846353b-dac3-4c89-9f60-dcd37a278a89",
+      "source_file": "Gynécologie-Obstétrique/Prééclampsies & Éclampsies/Courses/60 Préeclampsie et éclampsie 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PFE",
+      "definition": "Poids fœtal estimé, une estimation du poids du fœtus basée sur des mesures échographiques.",
+      "category": "obstétrique",
+      "synonyms": [
+        "poids fœtal"
+      ],
+      "related_terms": [
+        "échographie",
+        "croissance fœtale"
+      ],
+      "description": "Le PFE est utilisé pour évaluer la croissance fœtale et planifier la prise en charge obstétricale.",
+      "expansion": "Poids fœtal estimé",
+      "clinical_significance": "Important pour détecter un retard de croissance intra-utérin.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "poids fœtal estimé",
+        "échographie"
+      ],
+      "subject_id": "4846353b-dac3-4c89-9f60-dcd37a278a89",
+      "source_file": "Gynécologie-Obstétrique/Prééclampsies & Éclampsies/Courses/60 Préeclampsie et éclampsie 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "multipares",
+      "definition": "Femmes ayant eu plusieurs grossesses, souvent à risque d'alloimmunisation.",
+      "category": "obstétrique",
+      "synonyms": [
+        "multipares"
+      ],
+      "related_terms": [
+        "grossesse",
+        "alloimmunisation"
+      ],
+      "description": "Les femmes multipares sont à risque d'alloimmunisation et de complications obstétricales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 4,
+  "extraction_date": "20250605_212035"
+}

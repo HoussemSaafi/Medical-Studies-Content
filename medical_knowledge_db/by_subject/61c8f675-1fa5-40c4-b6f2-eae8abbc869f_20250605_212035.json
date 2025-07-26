@@ -1,0 +1,2416 @@
+{
+  "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+  "terms": [
+    {
+      "term": "céphalée en coup de tonnerre",
+      "definition": "Type de céphalée qui atteint son intensité maximale en moins d'une minute, souvent associée à des conditions graves comme l'hémorragie sous-arachnoïdienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalée explosive"
+      ],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "HTIC"
+      ],
+      "description": "Ce type de céphalée est souvent décrit comme la pire douleur de la vie du patient et nécessite une évaluation médicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "Indique souvent une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "céphalée en coup de tonnerre",
+        "céphalée explosive"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissection artérielle cervicale",
+      "definition": "Déchirure de la paroi d'une artère cervicale, souvent due à un traumatisme ou une cause spontanée, entraînant une formation de caillot et une obstruction partielle de l'artère.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissection cervicale"
+      ],
+      "related_terms": [
+        "syndrome de Claude Bernard-Horner",
+        "acouphènes pulsatiles"
+      ],
+      "description": "Les symptômes incluent des céphalées, des cervicalgies, et parfois des déficits neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner un AVC ischémique si non traité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dissection artérielle cervicale",
+        "dissection cervicale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Claude Bernard-Horner",
+      "definition": "Ensemble de signes cliniques résultant d'une interruption du nerf sympathique cervical, caractérisé par une ptosis, une myosis et une enophtalmie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Horner"
+      ],
+      "related_terms": [
+        "dissection artérielle cervicale"
+      ],
+      "description": "Peut être causé par diverses conditions affectant le nerf sympathique, y compris les dissections artérielles.",
+      "expansion": null,
+      "clinical_significance": "Indique une lésion du nerf sympathique cervical.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Claude Bernard-Horner",
+        "syndrome de Horner"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glaucome à angle fermé",
+      "definition": "Type de glaucome causé par une obstruction de l'angle de drainage de l'humeur aqueuse, entraînant une augmentation rapide de la pression intraoculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "glaucome aigu"
+      ],
+      "related_terms": [
+        "mydriase aréactive",
+        "halos lumineux"
+      ],
+      "description": "Caractérisé par une douleur oculaire sévère, une vision floue, des halos lumineux et une mydriase aréactive.",
+      "expansion": null,
+      "clinical_significance": "Urgence ophtalmologique nécessitant une réduction rapide de la pression intraoculaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "glaucome à angle fermé",
+        "glaucome aigu"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinusite aiguë",
+      "definition": "Inflammation aiguë des sinus paranasaux, souvent due à une infection bactérienne ou virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "sinusite"
+      ],
+      "related_terms": [
+        "céphalée frontale",
+        "écoulement purulent nasal"
+      ],
+      "description": "Caractérisée par une douleur faciale, une congestion nasale, un écoulement purulent et parfois une fièvre.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement antibiotique si bactérienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sinusite aiguë",
+        "sinusite"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose veineuse cérébrale",
+      "definition": "Formation d'un caillot sanguin dans les veines cérébrales, entraînant une obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose cérébrale"
+      ],
+      "related_terms": [
+        "HTIC",
+        "œdème papillaire"
+      ],
+      "description": "Caractérisée par des céphalées, des troubles visuels, des vomissements et parfois des signes neurologiques focaux.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une anticoagulation pour prévenir l'extension du caillot.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose veineuse cérébrale",
+        "thrombose cérébrale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus veineux",
+      "definition": "Nécrose tissulaire due à l'obstruction d'une veine, souvent associée à une thrombose veineuse cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus cérébral veineux"
+      ],
+      "related_terms": [
+        "thrombose veineuse cérébrale",
+        "œdème papillaire"
+      ],
+      "description": "L'infarctus veineux peut entraîner des œdèmes et des hémorragies par suffusion.",
+      "expansion": null,
+      "clinical_significance": "Complication grave de la thrombose veineuse cérébrale nécessitant une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus veineux",
+        "thrombose veineuse cérébrale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème papillaire",
+      "definition": "Gonflement de la papille optique dû à une augmentation de la pression intracrânienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "papillœdème"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "thrombose veineuse cérébrale"
+      ],
+      "description": "L'œdème papillaire est un signe clinique important qui peut indiquer une hypertension intracrânienne.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une perte de vision si non traité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème papillaire",
+        "papillœdème"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "algies vasculaires de la face",
+      "definition": "Type de céphalée caractérisé par une douleur intense et unilatérale, souvent localisée autour de l'œil.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalée en grappe"
+      ],
+      "related_terms": [
+        "migraines",
+        "céphalées de tension"
+      ],
+      "description": "Les algies vasculaires de la face sont souvent épisodiques et peuvent être accompagnées de larmoiement et de congestion nasale.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être très invalidantes pour les patients.",
+      "normal_values": null,
+      "image_search_terms": [
+        "algies vasculaires de la face",
+        "céphalée en grappe"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "névralgies essentielles de la face",
+      "definition": "Douleur intense et soudaine le long du nerf trijumeau, souvent déclenchée par des stimuli banals.",
+      "category": "pathologie",
+      "synonyms": [
+        "névralgie du trijumeau"
+      ],
+      "related_terms": [
+        "migraines",
+        "algies vasculaires de la face"
+      ],
+      "description": "Les névralgies essentielles de la face sont souvent causées par une compression du nerf trijumeau.",
+      "expansion": null,
+      "clinical_significance": "Peuvent être très douloureuses et nécessiter un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": [
+        "névralgies essentielles de la face",
+        "névralgie du trijumeau"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Société internationale des céphalées",
+      "definition": "Organisation internationale dédiée à la recherche et au traitement des céphalées, y compris les migraines.",
+      "category": "classification",
+      "synonyms": [
+        "International Headache Society",
+        "IHS"
+      ],
+      "related_terms": [
+        "migraines",
+        "céphalées de tension"
+      ],
+      "description": "La Société internationale des céphalées établit des critères diagnostiques pour les différents types de céphalées.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle crucial dans la standardisation des diagnostics et des traitements des céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Société internationale des céphalées",
+        "IHS"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothalamus",
+      "definition": "Structure cérébrale située à la base du cerveau, impliquée dans la régulation de nombreuses fonctions corporelles, y compris la température corporelle, la faim, et le cycle veille-sommeil.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tronc cérébral",
+        "cortex"
+      ],
+      "description": "L'hypothalamus joue un rôle clé dans la régulation des hormones et des réponses autonomes.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement de l'hypothalamus peut entraîner divers troubles endocriniens et métaboliques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothalamus",
+        "structure cérébrale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression corticale envahissante",
+      "definition": "Phénomène neurologique caractérisé par une propagation lente d'une dépression neuronale à travers le cortex cérébral, souvent associée à l'aura migraineuse.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "aura migraineuse",
+        "cortex"
+      ],
+      "description": "La dépression corticale envahissante est causée par une hyperexcitabilité neuronale suivie d'une dépression neuronale.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle clé dans la pathophysiologie de l'aura migraineuse.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépression corticale envahissante",
+        "aura migraineuse"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scotome scintillant",
+      "definition": "Symptôme visuel caractérisé par une zone de vision altérée bordée par une frange de phosphènes brillants, souvent observé dans l'aura migraineuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "aura migraineuse",
+        "phosphène"
+      ],
+      "description": "Le scotome scintillant se propage souvent de manière centrifuge, envahissant progressivement le champ visuel.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'aura migraineuse, souvent suivi de céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "scotome scintillant",
+        "aura migraineuse"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système trigémino-vasculaire",
+      "definition": "Système neurologique impliquant le nerf trijumeau et les vaisseaux sanguins, jouant un rôle clé dans la transmission des signaux douloureux dans les migraines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "nerf trijumeau",
+        "migraines"
+      ],
+      "description": "L'activation du système trigémino-vasculaire entraîne une libération de neuropeptides vasoactifs, contribuant à la douleur migraineuse.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle central dans la pathophysiologie des migraines.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système trigémino-vasculaire",
+        "nerf trijumeau"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICHD 3",
+      "definition": "Classification internationale des céphalées, troisième édition, établie par la Société internationale des céphalées.",
+      "category": "classification",
+      "synonyms": [
+        "International Classification of Headache Disorders 3rd edition"
+      ],
+      "related_terms": [
+        "migraines",
+        "céphalées de tension"
+      ],
+      "description": "L'ICHD 3 fournit des critères diagnostiques standardisés pour les différents types de céphalées.",
+      "expansion": null,
+      "clinical_significance": "Utilisé par les professionnels de la santé pour diagnostiquer et classer les céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ICHD 3",
+        "classification des céphalées"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraine ophtalmique",
+      "definition": "Type de migraine caractérisée par des symptômes visuels tels que des scotomes scintillants et des phosphènes.",
+      "category": "pathologie",
+      "synonyms": [
+        "migraine avec aura visuelle"
+      ],
+      "related_terms": [
+        "scotome scintillant",
+        "phosphènes"
+      ],
+      "description": "La migraine ophtalmique est une forme de migraine où les symptômes visuels précèdent ou accompagnent la céphalée.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des céphalées avec aura visuelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "migraine ophtalmique",
+        "scotome scintillant"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phosphènes",
+      "definition": "Sensations visuelles de tâches brillantes ou scintillantes, souvent perçues comme des flashs lumineux.",
+      "category": "pathologie",
+      "synonyms": [
+        "flashs lumineux"
+      ],
+      "related_terms": [
+        "migraine ophtalmique",
+        "scotome scintillant"
+      ],
+      "description": "Les phosphènes sont des symptômes visuels fréquents dans la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la migraine ophtalmique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phosphènes",
+        "migraine aura visuelle"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLH",
+      "definition": "Hémianopsie latérale homonyme, perte de la moitié du champ visuel du même côté dans les deux yeux.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémianopsie latérale homonyme"
+      ],
+      "related_terms": [
+        "migraine ophtalmique",
+        "scotome scintillant"
+      ],
+      "description": "L'HLH est un trouble visuel qui peut être associé à la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la migraine avec aura.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémianopsie latérale homonyme",
+        "migraine aura visuelle"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métamorphopsies",
+      "definition": "Déformations visuelles où les objets apparaissent déformés ou ondulés.",
+      "category": "pathologie",
+      "synonyms": [
+        "déformations visuelles"
+      ],
+      "related_terms": [
+        "migraine ophtalmique",
+        "scotome scintillant"
+      ],
+      "description": "Les métamorphopsies sont des symptômes visuels qui peuvent être associés à la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la migraine avec aura.",
+      "normal_values": null,
+      "image_search_terms": [
+        "métamorphopsies",
+        "migraine aura visuelle"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chéiro-orales",
+      "definition": "Paresthésies affectant les doigts de la main et le pourtour des lèvres du même côté.",
+      "category": "pathologie",
+      "synonyms": [
+        "paresthésies chéiro-orales"
+      ],
+      "related_terms": [
+        "migraine avec aura sensitive"
+      ],
+      "description": "Les paresthésies chéiro-orales sont des symptômes sensitifs courants dans la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la migraine avec aura sensitive.",
+      "normal_values": null,
+      "image_search_terms": [
+        "paresthésies chéiro-orales",
+        "migraine aura sensitive"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraine hémiplégique familiale",
+      "definition": "Forme rare de migraine caractérisée par une hémiplégie transitoire et souvent une aura prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "migraine hémiplégique"
+      ],
+      "related_terms": [
+        "aura hémiplégique",
+        "migraine"
+      ],
+      "description": "La migraine hémiplégique familiale est une forme génétique de migraine avec des symptômes moteurs.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des migraines avec aura motrice.",
+      "normal_values": null,
+      "image_search_terms": [
+        "migraine hémiplégique familiale",
+        "aura hémiplégique"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICHD-3",
+      "definition": "Classification Internationale des Céphalées, 3ème édition, un système de classification des céphalées primaires et secondaires.",
+      "category": "classification",
+      "synonyms": [
+        "Classification Internationale des Céphalées"
+      ],
+      "related_terms": [
+        "céphalées",
+        "migraine"
+      ],
+      "description": "L'ICHD-3 est utilisé pour diagnostiquer et classer les différents types de céphalées.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la classification des céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ICHD-3",
+        "classification céphalées"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Algie vasculaire de la face",
+      "definition": "Type de céphalée caractérisée par des douleurs intenses et unilatérales, souvent associées à des symptômes parasympathiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalée de Horton"
+      ],
+      "related_terms": [
+        "céphalées",
+        "migraine"
+      ],
+      "description": "L'algie vasculaire de la face est une forme de céphalée primaire avec des douleurs intenses et récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "algie vasculaire de la face",
+        "céphalée de Horton"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Névralgie du trijumeau",
+      "definition": "Douleur intense et soudaine affectant le nerf trijumeau, souvent déclenchée par des stimuli légers.",
+      "category": "pathologie",
+      "synonyms": [
+        "névralgie essentielle du trijumeau"
+      ],
+      "related_terms": [
+        "nerf trijumeau",
+        "douleur faciale"
+      ],
+      "description": "La névralgie du trijumeau est une douleur faciale intense et récurrente.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des douleurs faciales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "névralgie du trijumeau",
+        "nerf trijumeau"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVF",
+      "definition": "Algie vasculaire de la face, type de céphalée caractérisée par des douleurs intenses et unilatérales.",
+      "category": "pathologie",
+      "synonyms": [
+        "algie vasculaire de la face"
+      ],
+      "related_terms": [
+        "céphalées",
+        "migraine"
+      ],
+      "description": "L'AVF est une forme de céphalée primaire avec des douleurs intenses et récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des céphalées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVF",
+        "algie vasculaire de la face"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère basilaire",
+      "definition": "L'artère basilaire est une artère majeure du cerveau, formée par la fusion des deux artères vertébrales et située à la base du cerveau, alimentant le tronc cérébral et le cervelet.",
+      "category": "anatomie",
+      "synonyms": [
+        "basilaire"
+      ],
+      "related_terms": [
+        "artère vertébrale",
+        "tronc cérébral"
+      ],
+      "description": "L'artère basilaire est cruciale pour l'irrigation sanguine du tronc cérébral et du cervelet, et son occlusion peut entraîner des déficits neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère basilaire",
+        "anatomie artère basilaire"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syringomyélie",
+      "definition": "La syringomyélie est une maladie neurologique caractérisée par la formation de cavités remplies de liquide (syrinx) dans la moelle épinière, souvent associée à une malformation de Chiari.",
+      "category": "pathologie",
+      "synonyms": [
+        "syringomyélie"
+      ],
+      "related_terms": [
+        "malformation de Chiari",
+        "moelle épinière"
+      ],
+      "description": "La syringomyélie peut entraîner des symptômes tels que la faiblesse musculaire, des troubles sensitifs et des douleurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syringomyélie",
+        "syrinx moelle épinière"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neurinome du VIII",
+      "definition": "Le neurinome du VIII, également connu sous le nom de schwannome vestibulaire, est une tumeur bénigne qui se développe à partir des cellules de Schwann entourant le nerf vestibulaire (VIII).",
+      "category": "pathologie",
+      "synonyms": [
+        "schwannome vestibulaire"
+      ],
+      "related_terms": [
+        "nerf vestibulaire",
+        "cellules de Schwann"
+      ],
+      "description": "Le neurinome du VIII peut provoquer des symptômes tels que la perte auditive, les acouphènes et les vertiges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "neurinome du VIII",
+        "schwannome vestibulaire"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anévrysme du tronc cérébral",
+      "definition": "Un anévrysme du tronc cérébral est une dilatation pathologique d'une artère située dans le tronc cérébral, souvent due à une faiblesse de la paroi artérielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "anévrysme cérébral"
+      ],
+      "related_terms": [
+        "tronc cérébral",
+        "artère cérébrale"
+      ],
+      "description": "Un anévrysme du tronc cérébral peut entraîner des complications graves telles qu'une rupture, provoquant une hémorragie intracrânienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anévrysme du tronc cérébral",
+        "anévrysme cérébral"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "zona",
+      "definition": "Le zona, également connu sous le nom d'herpès zoster, est une infection virale causée par le virus varicelle-zona, caractérisée par une éruption cutanée douloureuse le long d'un dermatome.",
+      "category": "pathologie",
+      "synonyms": [
+        "herpès zoster"
+      ],
+      "related_terms": [
+        "virus varicelle-zona",
+        "dermatome"
+      ],
+      "description": "Le zona peut provoquer des douleurs intenses et une éruption cutanée, souvent accompagnées de démangeaisons et de sensations de brûlure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "zona",
+        "herpès zoster"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite carcinomateuse",
+      "definition": "La méningite carcinomateuse est une forme de méningite causée par l'infiltration des méninges par des cellules cancéreuses, souvent issues de métastases de cancers solides.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningite néoplasique"
+      ],
+      "related_terms": [
+        "méninges",
+        "métastases"
+      ],
+      "description": "La méningite carcinomateuse peut provoquer des symptômes tels que des maux de tête, des nausées, des vomissements et des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "méningite carcinomateuse",
+        "méningite néoplasique"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombophlébite du sinus caverneux",
+      "definition": "La thrombophlébite du sinus caverneux est une inflammation et une thrombose du sinus caverneux, souvent due à une infection ou à une maladie inflammatoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose du sinus caverneux"
+      ],
+      "related_terms": [
+        "sinus caverneux",
+        "thrombose"
+      ],
+      "description": "La thrombophlébite du sinus caverneux peut entraîner des symptômes tels que des maux de tête, des douleurs oculaires, des œdèmes et des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombophlébite du sinus caverneux",
+        "thrombose sinus caverneux"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gougerot Sjögren",
+      "definition": "Le syndrome de Gougerot-Sjögren est une maladie auto-immune chronique caractérisée par une sécheresse des muqueuses, notamment des yeux et de la bouche, due à une atteinte des glandes exocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Sjögren"
+      ],
+      "related_terms": [
+        "maladie auto-immune",
+        "glandes exocrines"
+      ],
+      "description": "Le syndrome de Gougerot-Sjögren peut provoquer des symptômes tels que la sécheresse oculaire, la sécheresse buccale, la fatigue et des douleurs articulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Gougerot-Sjögren",
+        "syndrome de Sjögren"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalée de tension",
+      "definition": "La céphalée de tension est un type de mal de tête caractérisé par une douleur de type pression ou serrement, souvent bilatérale, et non pulsatile.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalée de type tension"
+      ],
+      "related_terms": [
+        "mal de tête",
+        "céphalée"
+      ],
+      "description": "La céphalée de tension est souvent associée à des facteurs psychologiques tels que le stress, l'anxiété et le surmenage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "céphalée de tension",
+        "mal de tête tension"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vertex",
+      "definition": "Le vertex est le point le plus élevé de la tête, situé au sommet du crâne.",
+      "category": "anatomie",
+      "synonyms": [
+        "sommet du crâne"
+      ],
+      "related_terms": [
+        "crâne",
+        "calotte crânienne"
+      ],
+      "description": "Le vertex est une région anatomique importante pour l'évaluation des traumatismes crâniens et des douleurs céphaliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vertex",
+        "sommet du crâne"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "régions cervico-occipitales",
+      "definition": "Les régions cervico-occipitales désignent la zone anatomique située à la jonction entre le cou (cervical) et l'arrière de la tête (occipital).",
+      "category": "anatomie",
+      "synonyms": [
+        "zone cervico-occipitale"
+      ],
+      "related_terms": [
+        "cou",
+        "occiput"
+      ],
+      "description": "Les régions cervico-occipitales sont souvent impliquées dans les douleurs céphaliques et les tensions musculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "régions cervico-occipitales",
+        "zone cervico-occipitale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IHS",
+      "definition": "L'International Headache Society (IHS) est une organisation internationale dédiée à l'étude et au traitement des céphalées, fournissant des critères diagnostiques et des recommandations cliniques.",
+      "category": "classification",
+      "synonyms": [
+        "International Headache Society"
+      ],
+      "related_terms": [
+        "céphalées",
+        "critères diagnostiques"
+      ],
+      "description": "L'IHS joue un rôle crucial dans la standardisation des diagnostics et des traitements des différents types de céphalées.",
+      "expansion": "International Headache Society",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "IHS",
+        "International Headache Society"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Théorie Neurovasculaire Contemporaine",
+      "definition": "Théorie actuelle expliquant les mécanismes physiopathologiques de la migraine, impliquant des interactions complexes entre le système nerveux et les vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "migraine",
+        "hyperexcitabilité",
+        "dépression corticale envahissante"
+      ],
+      "description": "Cette théorie suggère que la migraine commence dans le cerveau, probablement au niveau de l'hypothalamus ou de la partie supérieure du tronc cérébral, et se propage au cortex cérébral, surtout occipital.",
+      "expansion": "",
+      "clinical_significance": "Importante pour comprendre les mécanismes sous-jacents de la migraine et développer des traitements ciblés.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Théorie Neurovasculaire Contemporaine",
+        "migraine physiopathologie"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperexcitabilité",
+      "definition": "État d'excitabilité anormale du cortex cérébral, souvent observé dans la migraine, qui peut entraîner des symptômes tels que la photophobie, la sonophobie et l'osmophobie.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "migraine",
+        "Théorie Neurovasculaire Contemporaine"
+      ],
+      "description": "L'hyperexcitabilité corticale est un mécanisme clé dans la physiopathologie de la migraine, expliquant les prodromes et les symptômes associés.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et le traitement de la migraine.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hyperexcitabilité corticale",
+        "migraine symptômes"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dépression Corticale Envasissante",
+      "definition": "Phénomène caractérisé par une hyperactivité neuronale suivie d'une inactivation des neurones, se propageant lentement à travers le cortex cérébral, souvent observé dans l'aura migraineuse.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "migraine",
+        "aura migraineuse"
+      ],
+      "description": "La dépression corticale envahissante explique l'aura migraineuse par une hyperactivité neuronale initiale suivie d'une inactivation des neurones, se propageant lentement à travers le cortex.",
+      "expansion": "",
+      "clinical_significance": "Importante pour comprendre les mécanismes de l'aura migraineuse et développer des traitements ciblés.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Dépression Corticale Envasissante",
+        "aura migraineuse"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "V1",
+      "definition": "Première branche du nerf trijumeau, responsable de l'innervation sensitive de la région frontale et nasale.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf ophtalmique"
+      ],
+      "related_terms": [
+        "nerf trijumeau",
+        "céphalées migraineuses"
+      ],
+      "description": "Le V1 est impliqué dans l'innervation des gros vaisseaux sanguins cérébraux, des sinus et des vaisseaux de la dure-mère.",
+      "expansion": "",
+      "clinical_significance": "Importante pour comprendre l'innervation sensitive de la région frontale et nasale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "V1",
+        "nerf ophtalmique"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémorragie sous-arachnoïdienne",
+      "definition": "Saignement dans l'espace sous-arachnoïdien, souvent causé par la rupture d'un anévrisme cérébral, caractérisé par une céphalée brutale et intense.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie méningée"
+      ],
+      "related_terms": [
+        "anévrisme cérébral",
+        "céphalée brutale"
+      ],
+      "description": "L'hémorragie sous-arachnoïdienne est une urgence médicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et la gestion des céphalées brutales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Hémorragie sous-arachnoïdienne",
+        "anévrisme cérébral"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signe de Kerning",
+      "definition": "Signe clinique de raideur méningée, où la flexion de la hanche et du genou provoque une douleur et une résistance à l'extension passive de la jambe.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "raideur méningée",
+        "signe de Brudzinski"
+      ],
+      "description": "Le signe de Kerning est utilisé pour évaluer la raideur méningée, souvent présente dans les méningites et les hémorragies sous-arachnoïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des méningites et des hémorragies sous-arachnoïdiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "signe de Kerning",
+        "raideur méningée"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FLAIR",
+      "definition": "Séquence d'imagerie par résonance magnétique (IRM) utilisée pour détecter des anomalies dans le liquide céphalo-rachidien, telles que des hémorragies sous-arachnoïdiennes.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM",
+        "hémorragie sous-arachnoïdienne"
+      ],
+      "description": "La séquence FLAIR est particulièrement utile pour détecter des anomalies dans le liquide céphalo-rachidien, telles que des hémorragies sous-arachnoïdiennes.",
+      "expansion": "Fluid-Attenuated Inversion Recovery",
+      "clinical_significance": "Importante pour le diagnostic des hémorragies sous-arachnoïdiennes et autres anomalies du liquide céphalo-rachidien.",
+      "normal_values": "",
+      "image_search_terms": [
+        "FLAIR",
+        "IRM séquence FLAIR"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T2* écho de gradient",
+      "definition": "Séquence d'imagerie par résonance magnétique (IRM) utilisée pour détecter des anomalies hémorragiques, telles que des hémorragies sous-arachnoïdiennes.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM",
+        "hémorragie sous-arachnoïdienne"
+      ],
+      "description": "La séquence T2* écho de gradient est particulièrement utile pour détecter des anomalies hémorragiques, telles que des hémorragies sous-arachnoïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des hémorragies sous-arachnoïdiennes et autres anomalies hémorragiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "T2* écho de gradient",
+        "IRM séquence T2*"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "xanthochromie",
+      "definition": "Présence de pigments jaunes dans le liquide céphalo-rachidien, souvent due à la dégradation de l'hémoglobine après une hémorragie sous-arachnoïdienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "liquide céphalo-rachidien"
+      ],
+      "description": "La xanthochromie est un signe important pour le diagnostic des hémorragies sous-arachnoïdiennes, indiquant la présence de produits de dégradation de l'hémoglobine.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des hémorragies sous-arachnoïdiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "xanthochromie",
+        "liquide céphalo-rachidien"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériographie cérébrale",
+      "definition": "Procédure d'imagerie utilisée pour visualiser les artères cérébrales et détecter des anomalies vasculaires, telles que des anévrismes.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "anévrisme",
+        "imagerie vasculaire"
+      ],
+      "description": "L'artériographie cérébrale est une technique d'imagerie invasive utilisée pour visualiser les artères cérébrales et détecter des anomalies vasculaires.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic et la gestion des anomalies vasculaires cérébrales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artériographie cérébrale",
+        "imagerie vasculaire"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Vasospasme",
+      "definition": "Contraction anormale et prolongée des vaisseaux sanguins, souvent observée après une hémorragie sous-arachnoïdienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "spasme vasculaire"
+      ],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "ischémie cérébrale"
+      ],
+      "description": "Le vasospasme peut entraîner une ischémie cérébrale et des complications neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des patients après une hémorragie sous-arachnoïdienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Resaignement",
+      "definition": "Réapparition de saignements après une hémorragie initiale, souvent observée dans les hématomes intracrâniens.",
+      "category": "pathologie",
+      "synonyms": [
+        "réhémorragie"
+      ],
+      "related_terms": [
+        "hématome intracrânien",
+        "hémorragie cérébrale"
+      ],
+      "description": "Le resaignement peut compliquer la gestion des hématomes intracrâniens et nécessiter une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Important dans le suivi des patients avec des hématomes intracrâniens.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Céphalée aiguë",
+      "definition": "Douleur soudaine et intense à la tête, souvent associée à des conditions graves comme les hémorragies intracrâniennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "mal de tête aigu"
+      ],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "hématome intracrânien"
+      ],
+      "description": "Les céphalées aiguës nécessitent une évaluation médicale urgente pour exclure des causes potentiellement mortelles.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel des céphalées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hématome intraparenchymateux",
+      "definition": "Collection de sang à l'intérieur du parenchyme cérébral, souvent due à une rupture vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie intraparenchymateuse"
+      ],
+      "related_terms": [
+        "hémorragie cérébrale",
+        "traumatisme crânien"
+      ],
+      "description": "Les hématomes intraparenchymateux peuvent entraîner des déficits neurologiques focaux et nécessitent une évaluation rapide.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des traumatismes crâniens et des accidents vasculaires cérébraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cérébelleux",
+      "definition": "Relatif au cervelet, une partie du cerveau située à l'arrière du tronc cérébral, impliquée dans la coordination des mouvements.",
+      "category": "anatomie",
+      "synonyms": [
+        "cérébelleuse"
+      ],
+      "related_terms": [
+        "cérébellum",
+        "ataxie"
+      ],
+      "description": "Les lésions cérébelleuses peuvent entraîner des troubles de la coordination et de l'équilibre.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Déficit neurologique focal",
+      "definition": "Perte ou altération de la fonction neurologique dans une région spécifique du corps, souvent due à une lésion cérébrale.",
+      "category": "pathologie",
+      "synonyms": [
+        "déficit neurologique localisé"
+      ],
+      "related_terms": [
+        "paralysie",
+        "aphasie",
+        "hémianopsie"
+      ],
+      "description": "Les déficits neurologiques focaux sont souvent observés dans les accidents vasculaires cérébraux et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cervicalgies",
+      "definition": "Douleurs localisées dans la région cervicale, souvent dues à des troubles musculo-squelettiques ou des lésions nerveuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleurs cervicales"
+      ],
+      "related_terms": [
+        "arthrose cervicale",
+        "hernie discale"
+      ],
+      "description": "Les cervicalgies peuvent être aiguës ou chroniques et nécessitent une évaluation pour exclure des causes graves.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel des douleurs cervicales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de CBH",
+      "definition": "Syndrome de Claude Bernard-Horner, caractérisé par une ptôse, une myosis et une anhidrose unilatérales, souvent due à une lésion du système nerveux sympathique.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Horner"
+      ],
+      "related_terms": [
+        "ptôse",
+        "myosis",
+        "anhidrose"
+      ],
+      "description": "Le syndrome de CBH peut être observé dans les dissections artérielles et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des lésions du système nerveux sympathique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acouphènes pulsatiles",
+      "definition": "Perception de bruits pulsatiles dans l'oreille, souvent synchronisés avec le rythme cardiaque, due à des anomalies vasculaires ou des lésions nerveuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "acouphènes rythmiques"
+      ],
+      "related_terms": [
+        "acouphènes",
+        "tinnitus"
+      ],
+      "description": "Les acouphènes pulsatiles peuvent être observés dans les dissections artérielles et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles auditifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ICHD3",
+      "definition": "Classification Internationale des Céphalées, 3ème édition, un système de classification des céphalées primaires et secondaires.",
+      "category": "classification",
+      "synonyms": [
+        "Classification Internationale des Céphalées"
+      ],
+      "related_terms": [
+        "céphalées",
+        "migraine",
+        "algie vasculaire de la face"
+      ],
+      "description": "L'ICHD3 est utilisée pour diagnostiquer et classer les différents types de céphalées.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion des céphalées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DAC intracrâniennes",
+      "definition": "Dissections des artères cérébrales intracrâniennes, souvent compliquées par une hémorragie sous-arachnoïdienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "dissections artérielles intracrâniennes"
+      ],
+      "related_terms": [
+        "hémorragie sous-arachnoïdienne",
+        "anévrisme"
+      ],
+      "description": "Les DAC intracrâniennes nécessitent une évaluation et une intervention rapides.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des accidents vasculaires cérébraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Écho-Doppler",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour évaluer le flux sanguin dans les vaisseaux, souvent utilisée pour diagnostiquer les dissections artérielles.",
+      "category": "imagerie",
+      "synonyms": [
+        "Doppler ultrasonore"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "Doppler"
+      ],
+      "description": "L'écho-Doppler est utilisé pour évaluer les dissections artérielles et les thromboses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARM cérébrale",
+      "definition": "Angiographie par Résonance Magnétique cérébrale, une technique d'imagerie utilisant la résonance magnétique pour visualiser les vaisseaux sanguins du cerveau.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie cérébrale par IRM"
+      ],
+      "related_terms": [
+        "IRM",
+        "angiographie"
+      ],
+      "description": "L'ARM cérébrale est utilisée pour diagnostiquer les dissections artérielles et les thromboses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles vasculaires cérébraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Chaplet",
+      "definition": "Aspect radiologique caractérisé par une alternance de rétrécissements et de dilatations des artères cérébrales, souvent observé dans le syndrome de vasoconstriction cérébrale réversible.",
+      "category": "imagerie",
+      "synonyms": [
+        "aspect en chapelet"
+      ],
+      "related_terms": [
+        "vasoconstriction cérébrale",
+        "angiographie"
+      ],
+      "description": "L'aspect en chaplet est un signe radiologique important dans le diagnostic du syndrome de vasoconstriction cérébrale réversible.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles vasculaires cérébraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTIC idiopathique",
+      "definition": "Hypertension intracrânienne idiopathique, une augmentation de la pression intracrânienne sans cause identifiable, souvent observée chez les femmes en surpoids.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudotumeur cérébrale"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "œdème papillaire"
+      ],
+      "description": "L'HTIC idiopathique peut entraîner des céphalées, des vomissements et une perte de vision.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie de Horton",
+      "definition": "Artérite à cellules géantes, une inflammation des artères de gros et moyen calibre, souvent observée chez les personnes âgées.",
+      "category": "pathologie",
+      "synonyms": [
+        "artérite temporale"
+      ],
+      "related_terms": [
+        "artérite",
+        "cellules géantes"
+      ],
+      "description": "La maladie de Horton peut entraîner des céphalées, une perte de vision et des douleurs à la mâchoire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méningoencéphalite",
+      "definition": "Inflammation des méninges et du parenchyme cérébral, souvent due à une infection virale ou bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalomyélite"
+      ],
+      "related_terms": [
+        "méningite",
+        "encéphalite"
+      ],
+      "description": "La méningoencéphalite peut entraîner des céphalées, des déficits neurologiques focaux et des crises épileptiques.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des infections du système nerveux central.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méningoencéphalite lymphocytaire",
+      "definition": "Inflammation des méninges et du parenchyme cérébral avec une prédominance de lymphocytes dans le liquide céphalo-rachidien, souvent due à une infection virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "méningoencéphalite virale"
+      ],
+      "related_terms": [
+        "méningite",
+        "encéphalite"
+      ],
+      "description": "La méningoencéphalite lymphocytaire peut être causée par des virus comme le HSV et nécessite un traitement antiherpétique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des infections virales du système nerveux central.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Acyclovir",
+      "definition": "Médicament antiviral utilisé pour traiter les infections à herpès simplex virus (HSV) et varicelle-zona virus (VZV).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "aciclovir"
+      ],
+      "related_terms": [
+        "antiviral",
+        "herpès"
+      ],
+      "description": "L'acyclovir est utilisé pour traiter les infections herpétiques, y compris la méningoencéphalite lymphocytaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des infections virales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Liquide céphalo-rachidien",
+      "definition": "Fluide clair et incolore qui circule dans le système nerveux central, protégeant et nourrissant le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "LCR"
+      ],
+      "related_terms": [
+        "liquide cérébro-spinal",
+        "méninges"
+      ],
+      "description": "Le liquide céphalo-rachidien est analysé pour diagnostiquer des infections et des troubles du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome d'HIC",
+      "definition": "Ensemble des signes et symptômes traduisant l'augmentation de la pression à l'intérieur de la boîte crânienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome d'hypertension intracrânienne"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "œdème cérébral"
+      ],
+      "description": "Le syndrome d'HIC peut être causé par une augmentation du liquide céphalo-rachidien, un œdème cérébral ou un processus expansif intracérébral.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Processus expansif intracérébral",
+      "definition": "Masse ou lésion qui occupe de l'espace à l'intérieur du cerveau, souvent due à une tumeur, un hématome ou un abcès.",
+      "category": "pathologie",
+      "synonyms": [
+        "lésion expansive intracérébrale"
+      ],
+      "related_terms": [
+        "tumeur cérébrale",
+        "hématome intracrânien"
+      ],
+      "description": "Les processus expansifs intracérébraux peuvent entraîner des céphalées, des déficits neurologiques focaux et une hypertension intracrânienne.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARM veineuse",
+      "definition": "Angiographie par Résonance Magnétique veineuse, une technique d'imagerie utilisant la résonance magnétique pour visualiser les veines cérébrales.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie veineuse par IRM"
+      ],
+      "related_terms": [
+        "IRM",
+        "angiographie"
+      ],
+      "description": "L'ARM veineuse est utilisée pour diagnostiquer les thromboses veineuses cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles vasculaires cérébraux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VIe nerf crânien",
+      "definition": "Nerf abducens, le sixième nerf crânien, responsable de l'innervation du muscle droit externe de l'œil, permettant l'abduction de l'œil.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf abducens"
+      ],
+      "related_terms": [
+        "nerfs crâniens",
+        "muscle droit externe"
+      ],
+      "description": "Les lésions du VIe nerf crânien peuvent entraîner une diplopie et une paralysie oculomotrice.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertension intracrânienne idiopathique",
+      "definition": "Condition caractérisée par une pression intracrânienne élevée sans cause identifiable.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudotumeur cérébrale"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne"
+      ],
+      "description": "Cette condition est souvent diagnostiquée par élimination et peut être associée à des facteurs tels que l'obésité, la prise de corticoïdes ou de vitamine A.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des maux de tête sévères et des troubles visuels.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "processus expansif",
+      "definition": "Masse ou tumeur qui occupe de l'espace dans le cerveau, exerçant une pression sur les structures environnantes.",
+      "category": "pathologie",
+      "synonyms": [
+        "masse intracrânienne",
+        "tumeur cérébrale"
+      ],
+      "related_terms": [
+        "tumeur",
+        "masse"
+      ],
+      "description": "Peut être bénin ou malin et nécessite une imagerie pour être diagnostiqué.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des symptômes neurologiques variés en fonction de sa localisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artériographie conventionnelle",
+      "definition": "Procédure d'imagerie utilisant des rayons X et un produit de contraste pour visualiser les artères.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie conventionnelle"
+      ],
+      "related_terms": [
+        "angiographie",
+        "artériographie"
+      ],
+      "description": "Permet de diagnostiquer des anomalies vasculaires telles que les anévrismes et les sténoses.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour des évaluations vasculaires détaillées, mais comporte des risques liés à l'exposition aux radiations et au produit de contraste.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère temporale",
+      "definition": "Vaisseau sanguin situé dans la région temporale de la tête, fournissant du sang au cuir chevelu et aux muscles temporaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère temporale superficielle"
+      ],
+      "related_terms": [
+        "artère",
+        "vaisseau sanguin"
+      ],
+      "description": "Peut être affectée par des conditions telles que l'artérite temporale (maladie de Horton).",
+      "expansion": null,
+      "clinical_significance": "L'inflammation de cette artère peut causer des maux de tête sévères et des troubles visuels.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudopolyarthrite rhizomélique",
+      "definition": "Syndrome inflammatoire caractérisé par des douleurs et une raideur des épaules et des hanches.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudopolyarthrite"
+      ],
+      "related_terms": [
+        "polyarthrite",
+        "arthrite"
+      ],
+      "description": "Souvent associée à la maladie de Horton et peut être traitée avec des corticostéroïdes.",
+      "expansion": null,
+      "clinical_significance": "Peut causer une limitation fonctionnelle significative.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cécité monoculaire transitoire",
+      "definition": "Perte temporaire de la vision dans un œil, souvent due à une diminution du flux sanguin vers l'œil.",
+      "category": "pathologie",
+      "synonyms": [
+        "amaurose fugace"
+      ],
+      "related_terms": [
+        "cécité",
+        "amaurose"
+      ],
+      "description": "Peut être un signe avant-coureur d'une cécité définitive et nécessite une évaluation médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie vasculaire sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus cérébraux",
+      "definition": "Mort des tissus cérébraux due à un manque d'apport sanguin, souvent causée par un caillot ou une hémorragie.",
+      "category": "pathologie",
+      "synonyms": [
+        "accident vasculaire cérébral",
+        "AVC"
+      ],
+      "related_terms": [
+        "AVC",
+        "infarctus"
+      ],
+      "description": "Peut entraîner des déficits neurologiques variés en fonction de la région affectée.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale urgente pour minimiser les dommages.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "claudication de la mâchoire",
+      "definition": "Douleur et fatigue des muscles de la mâchoire lors de la mastication, souvent due à une diminution du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "claudication intermittente de la mâchoire"
+      ],
+      "related_terms": [
+        "claudication",
+        "douleur de la mâchoire"
+      ],
+      "description": "Peut être un symptôme de la maladie de Horton.",
+      "expansion": null,
+      "clinical_significance": "Peut limiter la capacité à manger et parler.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "écho doppler",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser le flux sanguin dans les vaisseaux.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie doppler"
+      ],
+      "related_terms": [
+        "échographie",
+        "doppler"
+      ],
+      "description": "Permet de détecter des anomalies vasculaires telles que les sténoses et les thromboses.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour évaluer les maladies vasculaires et le flux sanguin.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérite gigantocellulaire",
+      "definition": "Inflammation des artères de gros calibre, caractérisée par la présence de cellules géantes dans les parois des artères.",
+      "category": "pathologie",
+      "synonyms": [
+        "artérite à cellules géantes"
+      ],
+      "related_terms": [
+        "artérite",
+        "maladie de Horton"
+      ],
+      "description": "Peut causer des maux de tête sévères, des douleurs à la mâchoire et des troubles visuels.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement urgent avec des corticostéroïdes pour prévenir des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "malformation artérioveineuse",
+      "definition": "Anomalie vasculaire caractérisée par un enchevêtrement anormal de vaisseaux sanguins, souvent présente à la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "MAV"
+      ],
+      "related_terms": [
+        "anomalie vasculaire",
+        "malformation vasculaire"
+      ],
+      "description": "Peut causer des saignements, des convulsions et des déficits neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalées essentielles",
+      "definition": "Types de céphalées primaires sans cause sous-jacente identifiable, souvent déclenchées par des facteurs spécifiques tels que l'effort, la toux ou l'activité sexuelle.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalées primaires"
+      ],
+      "related_terms": [
+        "céphalée",
+        "mal de tête"
+      ],
+      "description": "Peuvent inclure des céphalées d'effort, de toux ou coïtales.",
+      "expansion": null,
+      "clinical_significance": "Nécessitent une évaluation pour exclure des causes secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalées post-traumatiques",
+      "definition": "Céphalées survenant après un traumatisme crânien, souvent accompagnées de symptômes tels que des vertiges, des troubles de la mémoire et des difficultés de concentration.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalées post-commotionnelles"
+      ],
+      "related_terms": [
+        "céphalée",
+        "traumatisme crânien"
+      ],
+      "description": "Peut persister pendant des mois ou des années après le traumatisme.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement pour améliorer la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalées par abus d'antalgiques",
+      "definition": "Céphalées chroniques résultant de l'utilisation excessive de médicaments antalgiques, souvent utilisés pour traiter des maux de tête fréquents.",
+      "category": "pathologie",
+      "synonyms": [
+        "céphalées médicamenteuses"
+      ],
+      "related_terms": [
+        "céphalée",
+        "antalgique"
+      ],
+      "description": "Peut entraîner un cycle de maux de tête et de consommation de médicaments.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une réduction progressive des médicaments et un traitement alternatif.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cervicalgies chroniques",
+      "definition": "Douleurs chroniques dans la région cervicale, souvent causées par des tensions musculaires, des anomalies posturales ou des troubles dégénératifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleurs cervicales chroniques"
+      ],
+      "related_terms": [
+        "cervicalgie",
+        "douleur cervicale"
+      ],
+      "description": "Peut être accompagnée de maux de tête, de raideur et de limitation des mouvements.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement pour améliorer la fonction et la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumorale",
+      "definition": "Relatif à une tumeur, une masse de tissu anormale qui peut être bénigne ou maligne.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur"
+      ],
+      "related_terms": [
+        "masse",
+        "néoplasie"
+      ],
+      "description": "Peut causer des symptômes en fonction de sa localisation et de sa taille.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation pour déterminer la nature de la tumeur et le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraine sans aura",
+      "definition": "Type de migraine caractérisé par des crises de maux de tête sans symptômes neurologiques prémonitoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "migraine commune"
+      ],
+      "related_terms": [
+        "migraine",
+        "céphalée"
+      ],
+      "description": "Peut inclure des nausées, des vomissements et une sensibilité à la lumière et au bruit.",
+      "expansion": null,
+      "clinical_significance": "Peut être traitée avec des analgésiques et des triptans.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraine avec aura",
+      "definition": "Type de migraine caractérisé par des crises de maux de tête précédées de symptômes neurologiques tels que des troubles visuels, des engourdissements ou des difficultés d'élocution.",
+      "category": "pathologie",
+      "synonyms": [
+        "migraine classique"
+      ],
+      "related_terms": [
+        "migraine",
+        "céphalée"
+      ],
+      "description": "Peut être plus invalidante que la migraine sans aura et nécessite un traitement spécifique.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de conditions sous-jacentes telles que des maladies vasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs hormonaux",
+      "definition": "Facteurs liés aux hormones, telles que les fluctuations hormonales pendant le cycle menstruel ou la ménopause, qui peuvent influencer diverses conditions médicales.",
+      "category": "physiologie",
+      "synonyms": [
+        "hormones"
+      ],
+      "related_terms": [
+        "hormone",
+        "cycle menstruel"
+      ],
+      "description": "Peuvent déclencher des migraines, des troubles de l'humeur et d'autres symptômes.",
+      "expansion": null,
+      "clinical_significance": "Peuvent nécessiter une évaluation et un traitement pour gérer les symptômes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mijournée",
+      "definition": "Période de la journée entre le milieu de la matinée et le début de l'après-midi.",
+      "category": "pathologie",
+      "synonyms": [
+        "milieu de la journée"
+      ],
+      "related_terms": [
+        "journée",
+        "après-midi"
+      ],
+      "description": "Peut être une période critique pour les fluctuations de la glycémie et les symptômes de migraine.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter des ajustements alimentaires pour prévenir les symptômes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prodromes",
+      "definition": "Symptômes précurseurs qui précèdent une crise de migraine, tels que des troubles de l'humeur, une sensation de faim, ou de l'asthénie.",
+      "category": "pathologie",
+      "synonyms": [
+        "symptômes précurseurs",
+        "signes avant-coureurs"
+      ],
+      "related_terms": [
+        "aura",
+        "céphalée"
+      ],
+      "description": "Les prodromes peuvent aider à anticiper une crise de migraine et à prendre des mesures préventives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phonophobie",
+      "definition": "Intolérance au bruit, souvent associée à des maux de tête ou des migraines.",
+      "category": "pathologie",
+      "synonyms": [
+        "sensibilité au bruit"
+      ],
+      "related_terms": [
+        "photophobie",
+        "céphalée"
+      ],
+      "description": "La phonophobie peut être un symptôme invalidant pendant une crise de migraine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "International Headache Society ICHD 3",
+      "definition": "Classification internationale des céphalées, troisième édition, établie par l'International Headache Society.",
+      "category": "classification",
+      "synonyms": [
+        "ICHD-3"
+      ],
+      "related_terms": [
+        "IHS",
+        "migraine"
+      ],
+      "description": "L'ICHD-3 fournit des critères diagnostiques standardisés pour les différents types de céphalées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aura",
+      "definition": "Symptômes neurologiques focalisés qui précèdent ou accompagnent une migraine, souvent visuels ou sensitifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "symptômes précurseurs neurologiques"
+      ],
+      "related_terms": [
+        "migraine",
+        "céphalée"
+      ],
+      "description": "L'aura peut inclure des troubles visuels, sensitifs, ou moteurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aura hémiplégique",
+      "definition": "Type d'aura migraineuse caractérisée par une faiblesse ou une paralysie d'un côté du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "aura avec hémiplégie"
+      ],
+      "related_terms": [
+        "migraine hémiplégique familiale",
+        "aura"
+      ],
+      "description": "L'aura hémiplégique est souvent associée à la migraine hémiplégique familiale ou sporadique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aura du tronc cérébral",
+      "definition": "Type d'aura migraineuse affectant le tronc cérébral et les régions postérieures du cerveau, avec des symptômes tels que troubles visuels, diplopie, ataxie, et troubles de la vigilance.",
+      "category": "pathologie",
+      "synonyms": [
+        "aura basilaire"
+      ],
+      "related_terms": [
+        "migraine",
+        "aura"
+      ],
+      "description": "L'aura du tronc cérébral est une forme rare de migraine qui nécessite des explorations complémentaires en urgence.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aura rétinienne",
+      "definition": "Type d'aura migraineuse affectant la rétine, souvent caractérisée par des troubles visuels monoculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "aura rétinienne"
+      ],
+      "related_terms": [
+        "migraine",
+        "aura"
+      ],
+      "description": "L'aura rétinienne est une forme rare de migraine qui peut poser des problèmes diagnostiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scotome central",
+      "definition": "Zone de perte de vision centrale, souvent associée à la migraine ophtalmique.",
+      "category": "pathologie",
+      "synonyms": [
+        "scotome"
+      ],
+      "related_terms": [
+        "migraine ophtalmique",
+        "aura visuelle"
+      ],
+      "description": "Le scotome central peut être un symptôme de l'aura visuelle migraineuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aphasie totale",
+      "definition": "Perte complète de la capacité de parler ou de comprendre le langage, souvent associée à des lésions neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie globale"
+      ],
+      "related_terms": [
+        "aura phasique",
+        "migraine"
+      ],
+      "description": "L'aphasie totale peut être un symptôme de l'aura phasique migraineuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident ischémique transitoire",
+      "definition": "Épisode temporaire de dysfonction neurologique causé par une ischémie cérébrale, souvent sans séquelles permanentes.",
+      "category": "pathologie",
+      "synonyms": [
+        "AIT"
+      ],
+      "related_terms": [
+        "migraine",
+        "aura"
+      ],
+      "description": "L'accident ischémique transitoire peut être un diagnostic différentiel de la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épilepsie focale",
+      "definition": "Type d'épilepsie caractérisée par des crises débutant dans une région spécifique du cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "épilepsie partielle"
+      ],
+      "related_terms": [
+        "migraine",
+        "aura"
+      ],
+      "description": "L'épilepsie focale peut être un diagnostic différentiel de la migraine avec aura.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "état de mal migraineux",
+      "definition": "Crises de migraine persistantes ou successives sans rémission, durant plus de 72 heures.",
+      "category": "pathologie",
+      "synonyms": [
+        "status migrainosus"
+      ],
+      "related_terms": [
+        "migraine",
+        "céphalée"
+      ],
+      "description": "L'état de mal migraineux peut avoir un impact significatif sur l'état général du patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus migraineux",
+      "definition": "Un ou plusieurs symptômes d'aura migraineuse associés à une lésion cérébrale ischémique dans un territoire correspondant, visualisée par l'imagerie cérébrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "migraine avec aura"
+      ],
+      "description": "L'infarctus migraineux est une complication rare de la migraine avec aura, où une ischémie cérébrale se produit dans la région affectée par l'aura.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des céphalées et la gestion des complications ischémiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "infarctus cérébral",
+        "aura migraineuse"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aura persistante sans infarctus",
+      "definition": "Symptômes d'aura qui persistent une semaine ou plus sans infarctus visualisé sur l'imagerie cérébrale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "migraine avec aura"
+      ],
+      "description": "L'aura persistante sans infarctus est une condition où les symptômes d'aura migraineuse durent plus longtemps que d'habitude sans signe d'ischémie cérébrale.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des céphalées et la gestion des symptômes persistants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aura migraineuse",
+        "imagerie cérébrale"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "névralgie essentielle du trijumeau",
+      "definition": "Forme de névralgie du trijumeau sans cause sous-jacente identifiable, souvent due à une compression vasculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "névralgie du trijumeau",
+        "névralgie secondaire"
+      ],
+      "description": "La névralgie essentielle du trijumeau est caractérisée par des douleurs fulgurantes sans anomalie clinique associée.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des douleurs faciales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "nerf trijumeau",
+        "compression vasculaire"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "zone gâchette",
+      "definition": "Région cutanée ou muqueuse limitée dont l'effleurement déclenche une douleur névralgique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "névralgie du trijumeau"
+      ],
+      "description": "La zone gâchette est une région spécifique qui, lorsqu'elle est stimulée, provoque des douleurs névralgiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et la gestion des douleurs faciales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "névralgie du trijumeau",
+        "zone gâchette"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "névralgie secondaire",
+      "definition": "Douleur névralgique due à une cause sous-jacente identifiable, telle qu'une tumeur ou une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "névralgie du trijumeau",
+        "névralgie essentielle du trijumeau"
+      ],
+      "description": "La névralgie secondaire est caractérisée par des douleurs névralgiques associées à des anomalies cliniques sous-jacentes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des douleurs faciales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "névralgie du trijumeau",
+        "névralgie secondaire"
+      ],
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "unilatérale à bascule",
+      "definition": "Douleur qui change de côté, passant d'un côté de la tête à l'autre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "céphalée",
+        "migraine"
+      ],
+      "description": "Ce type de douleur est souvent associé à des migraines ou à des céphalées de tension.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pulsatile",
+      "definition": "Douleur qui est perçue comme battante ou rythmique, souvent en synchronisation avec le rythme cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "battante",
+        "rythmique"
+      ],
+      "related_terms": [
+        "céphalée",
+        "migraine"
+      ],
+      "description": "La douleur pulsatile est fréquemment décrite dans les migraines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arrachement",
+      "definition": "Douleur intense et soudaine, souvent décrite comme une sensation de déchirement.",
+      "category": "pathologie",
+      "synonyms": [
+        "déchirement"
+      ],
+      "related_terms": [
+        "céphalée",
+        "migraine"
+      ],
+      "description": "Ce type de douleur peut être associé à des céphalées en grappe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compression",
+      "definition": "Douleur constante et oppressante, souvent décrite comme une sensation de pression continue.",
+      "category": "pathologie",
+      "synonyms": [
+        "pression"
+      ],
+      "related_terms": [
+        "céphalée",
+        "migraine"
+      ],
+      "description": "Ce type de douleur est souvent associé aux céphalées de tension.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "serrement",
+      "definition": "Douleur constante et oppressante, souvent décrite comme une sensation de constriction.",
+      "category": "pathologie",
+      "synonyms": [
+        "constriction"
+      ],
+      "related_terms": [
+        "céphalée",
+        "migraine"
+      ],
+      "description": "Ce type de douleur est souvent associé aux céphalées de tension.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "source_file": "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Neurologie/Céphalées/Resumes/Cephalees_Final.md",
+    "Neurologie/Céphalées/Courses/16 Céphalées 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM.md"
+  ],
+  "total_terms": 114
+}

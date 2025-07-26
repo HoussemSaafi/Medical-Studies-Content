@@ -1,0 +1,1921 @@
+{
+  "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+  "terms": [
+    {
+      "term": "pathologique",
+      "definition": "Se réfère à une condition ou un état qui s'écarte de la normale et est souvent associé à une maladie ou un dysfonctionnement.",
+      "category": "pathologie",
+      "synonyms": [
+        "morbidité",
+        "maladif"
+      ],
+      "related_terms": [
+        "anxiété pathologique",
+        "trouble anxieux"
+      ],
+      "description": "L'anxiété pathologique est une réponse inadaptée en termes d'intensité, de durée, de fréquence, et entraîne une souffrance et un dysfonctionnement significatifs.",
+      "expansion": null,
+      "clinical_significance": "Important pour différencier l'anxiété normale de l'anxiété nécessitant une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble panique",
+      "definition": "Caractérisé par des attaques de panique récurrentes et inattendues, accompagnées de symptômes somatiques, psychiques et comportementaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises d'angoisse",
+        "attaques de panique"
+      ],
+      "related_terms": [
+        "attaque de panique",
+        "anxiété généralisée"
+      ],
+      "description": "Les attaques de panique sont des épisodes soudains de peur intense, souvent accompagnés de symptômes physiques comme des palpitations, une sensation d'étouffement, et des tremblements.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour gérer les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble anxiété généralisée",
+      "definition": "Caractérisé par une anxiété excessive et persistante concernant divers événements ou activités, accompagnée de symptômes physiques et psychiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "TAG",
+        "anxiété généralisée"
+      ],
+      "related_terms": [
+        "trouble panique",
+        "phobie sociale"
+      ],
+      "description": "Les personnes atteintes de TAG s'inquiètent de manière excessive et ont du mal à contrôler leur anxiété, ce qui peut affecter leur fonctionnement quotidien.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agoraphobie",
+      "definition": "Peur ou anxiété marquée concernant au moins deux des cinq situations suivantes : utilisation des transports en commun, être dans des espaces ouverts, être dans des endroits clos, se trouver dans une foule ou faire la queue, être seul en dehors de chez soi.",
+      "category": "pathologie",
+      "synonyms": [
+        "phobie des espaces ouverts"
+      ],
+      "related_terms": [
+        "phobie spécifique",
+        "phobie sociale"
+      ],
+      "description": "Les personnes atteintes d'agoraphobie évitent souvent ces situations par crainte de ne pas pouvoir s'échapper ou de ne pas trouver de l'aide en cas de symptômes de panique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention pour améliorer la qualité de vie et réduire l'évitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phobie spécifique",
+      "definition": "Peur marquée et persistante d'un objet ou d'une situation spécifique, qui est excessive ou irrationnelle.",
+      "category": "pathologie",
+      "synonyms": [
+        "phobie simple"
+      ],
+      "related_terms": [
+        "agoraphobie",
+        "phobie sociale"
+      ],
+      "description": "Les phobies spécifiques peuvent inclure la peur des animaux, des hauteurs, des espaces clos, etc., et entraînent une évitance significative de l'objet ou de la situation redoutée.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phobie sociale",
+      "definition": "Peur marquée et persistante des situations sociales ou de performance dans lesquelles la personne est exposée à des personnes non familières ou à une évaluation possible par autrui.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble anxiété sociale"
+      ],
+      "related_terms": [
+        "agoraphobie",
+        "phobie spécifique"
+      ],
+      "description": "Les personnes atteintes de phobie sociale craignent d'agir de manière embarrassante ou humiliante et évitent souvent les situations sociales.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention pour améliorer les interactions sociales et la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble anxiété de séparation",
+      "definition": "Anxiété excessive et inappropriée concernant la séparation d'avec les figures d'attachement, souvent observée chez les enfants.",
+      "category": "pathologie",
+      "synonyms": [
+        "anxiété de séparation"
+      ],
+      "related_terms": [
+        "trouble anxieux",
+        "phobie spécifique"
+      ],
+      "description": "Les enfants atteints de ce trouble peuvent refuser d'aller à l'école, de dormir seuls ou de quitter la maison sans un parent.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des troubles anxieux chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble obsessionnel compulsif",
+      "definition": "Caractérisé par des obsessions (pensées, impulsions ou images récurrentes et persistantes) et/ou des compulsions (comportements répétitifs ou actes mentaux que la personne se sent poussée à accomplir).",
+      "category": "pathologie",
+      "synonyms": [
+        "TOC"
+      ],
+      "related_terms": [
+        "troubles anxieux",
+        "état de stress post-traumatique"
+      ],
+      "description": "Les obsessions et compulsions sont envahissantes, inappropriées et causent une détresse ou une altération significative du fonctionnement.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention pour réduire les symptômes et améliorer la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "état de stress post-traumatique",
+      "definition": "Trouble anxieux qui peut se développer après l'exposition à un événement traumatique, caractérisé par des symptômes de reviviscence, d'évitement, d'altérations négatives des cognitions et de l'humeur, et d'hypervigilance.",
+      "category": "pathologie",
+      "synonyms": [
+        "ESPT",
+        "PTSD"
+      ],
+      "related_terms": [
+        "troubles anxieux",
+        "trouble obsessionnel compulsif"
+      ],
+      "description": "Les personnes atteintes d'ESPT peuvent revivre l'événement traumatique, éviter les rappels du traumatisme, et présenter des symptômes d'hypervigilance.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anxiolytiques",
+      "definition": "Médicaments utilisés pour traiter l'anxiété en réduisant les symptômes physiques et psychiques associés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "tranquillisants",
+        "benzodiazépiniques"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "psychothérapie"
+      ],
+      "description": "Les anxiolytiques agissent principalement sur le système nerveux central pour diminuer l'anxiété et la tension.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement symptomatique des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs",
+      "definition": "Médicaments utilisés pour traiter la dépression et d'autres troubles mentaux en modifiant les niveaux de neurotransmetteurs dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antidépressifs"
+      ],
+      "related_terms": [
+        "anxiolytiques",
+        "psychothérapie"
+      ],
+      "description": "Les antidépresseurs peuvent également être utilisés pour traiter les troubles anxieux en raison de leur effet sur les neurotransmetteurs.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement de la dépression et des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DSM 5",
+      "definition": "Manuel diagnostique et statistique des troubles mentaux, cinquième édition, utilisé pour la classification et le diagnostic des troubles mentaux.",
+      "category": "classification",
+      "synonyms": [
+        "DSM-V"
+      ],
+      "related_terms": [
+        "troubles anxieux",
+        "trouble panique"
+      ],
+      "description": "Le DSM-5 fournit des critères diagnostiques pour une variété de troubles mentaux, y compris les troubles anxieux.",
+      "expansion": null,
+      "clinical_significance": "Utilisé par les professionnels de la santé mentale pour diagnostiquer et traiter les troubles mentaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "attaque de panique",
+      "definition": "Épisode soudain de peur intense, souvent accompagné de symptômes physiques comme des palpitations, une sensation d'étouffement, et des tremblements.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise de panique"
+      ],
+      "related_terms": [
+        "trouble panique",
+        "anxiété généralisée"
+      ],
+      "description": "Les attaques de panique peuvent survenir de manière inopinée et atteindre leur acmé en moins de 10 minutes.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour gérer les symptômes et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "raptus anxieux",
+      "definition": "Impulsion soudaine, violente et irrésistible qui peut mener à un passage à l'acte auto-agressif, souvent associée à une crise de panique.",
+      "category": "pathologie",
+      "synonyms": [
+        "impulsion anxieuse"
+      ],
+      "related_terms": [
+        "attaque de panique",
+        "trouble panique"
+      ],
+      "description": "Le raptus anxieux est une urgence médicale nécessitant une intervention immédiate.",
+      "expansion": null,
+      "clinical_significance": "Important pour la gestion des crises de panique et la prévention des comportements auto-agressifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression",
+      "definition": "La dépression est un trouble mental caractérisé par une tristesse persistante et une perte d'intérêt pour les activités quotidiennes, accompagnées de symptômes physiques et cognitifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble dépressif majeur"
+      ],
+      "related_terms": [
+        "anxiété",
+        "trouble bipolaire"
+      ],
+      "description": "Les symptômes incluent fatigue, troubles du sommeil, perte d'appétit, sentiment de culpabilité, et pensées suicidaires.",
+      "expansion": null,
+      "clinical_significance": "La dépression est une cause majeure de handicap et peut entraîner des conséquences graves si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "symptômes de dépression",
+        "trouble dépressif"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tension motrice",
+      "definition": "La tension motrice est un état de tension musculaire accrue, souvent associé à l'anxiété et au stress.",
+      "category": "physiologie",
+      "synonyms": [
+        "tension musculaire"
+      ],
+      "related_terms": [
+        "anxiété",
+        "stress"
+      ],
+      "description": "Les symptômes incluent raideur musculaire, douleurs, et fatigue.",
+      "expansion": null,
+      "clinical_significance": "La tension motrice peut entraîner des douleurs chroniques et une fatigue persistante.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tension musculaire",
+        "symptômes de tension"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypervigilance",
+      "definition": "L'hypervigilance est un état d'alerte accrue et de vigilance excessive, souvent associé à l'anxiété et au stress.",
+      "category": "physiologie",
+      "synonyms": [
+        "vigilance accrue"
+      ],
+      "related_terms": [
+        "anxiété",
+        "stress"
+      ],
+      "description": "Les symptômes incluent une sensibilité accrue aux stimuli environnementaux et une réactivité exagérée.",
+      "expansion": null,
+      "clinical_significance": "L'hypervigilance peut entraîner une fatigue mentale et une détresse émotionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypervigilance",
+        "symptômes d'anxiété"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperactivité neurovégétative",
+      "definition": "L'hyperactivité neurovégétative est un état d'activation accrue du système nerveux autonome, souvent associé à l'anxiété et au stress.",
+      "category": "physiologie",
+      "synonyms": [
+        "activation autonome"
+      ],
+      "related_terms": [
+        "anxiété",
+        "stress"
+      ],
+      "description": "Les symptômes incluent transpiration, palpitations, et bouffées de chaleur.",
+      "expansion": null,
+      "clinical_significance": "L'hyperactivité neurovégétative peut entraîner des symptômes physiques désagréables et une détresse émotionnelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperactivité neurovégétative",
+        "symptômes d'anxiété"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phobogène",
+      "definition": "Un stimulus phobogène est un objet ou une situation qui provoque une réponse anxieuse ou phobique chez une personne.",
+      "category": "pathologie",
+      "synonyms": [
+        "stimulus phobique"
+      ],
+      "related_terms": [
+        "phobie",
+        "anxiété"
+      ],
+      "description": "Les stimuli phobogènes peuvent inclure des animaux, des situations spécifiques, ou des objets.",
+      "expansion": null,
+      "clinical_significance": "L'exposition à un stimulus phobogène peut déclencher une attaque de panique ou une réponse anxieuse intense.",
+      "normal_values": null,
+      "image_search_terms": [
+        "stimulus phobogène",
+        "objet de phobie"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "zoophobie",
+      "definition": "La zoophobie est une peur irrationnelle et persistante des animaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "phobie des animaux"
+      ],
+      "related_terms": [
+        "phobie spécifique",
+        "anxiété"
+      ],
+      "description": "Les symptômes incluent une réponse anxieuse immédiate à la vue ou à la présence d'animaux.",
+      "expansion": null,
+      "clinical_significance": "La zoophobie peut entraîner un évitement significatif des situations impliquant des animaux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "zoophobie",
+        "peur des animaux"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acrophobie",
+      "definition": "L'acrophobie est une peur irrationnelle et persistante des hauteurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "phobie des hauteurs"
+      ],
+      "related_terms": [
+        "phobie spécifique",
+        "anxiété"
+      ],
+      "description": "Les symptômes incluent une réponse anxieuse immédiate à la vue ou à la présence de hauteurs.",
+      "expansion": null,
+      "clinical_significance": "L'acrophobie peut entraîner un évitement significatif des situations impliquant des hauteurs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acrophobie",
+        "peur des hauteurs"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "claustrophobie",
+      "definition": "La claustrophobie est une peur irrationnelle et persistante des espaces clos ou confinés.",
+      "category": "pathologie",
+      "synonyms": [
+        "phobie des espaces clos"
+      ],
+      "related_terms": [
+        "phobie spécifique",
+        "anxiété"
+      ],
+      "description": "Les symptômes incluent une réponse anxieuse immédiate à la vue ou à la présence d'espaces clos.",
+      "expansion": null,
+      "clinical_significance": "La claustrophobie peut entraîner un évitement significatif des situations impliquant des espaces clos.",
+      "normal_values": null,
+      "image_search_terms": [
+        "claustrophobie",
+        "peur des espaces clos"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "panique",
+      "definition": "Une attaque de panique est une période soudaine de peur intense ou de malaise, accompagnée de symptômes physiques tels que palpitations, transpiration, tremblements, et sensation d'étouffement.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise de panique"
+      ],
+      "related_terms": [
+        "anxiété",
+        "phobie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "troubles cognitifs",
+      "definition": "Les troubles cognitifs sont des altérations des fonctions cognitives telles que la mémoire, l'attention, la perception, et le raisonnement, souvent associées à des conditions neurologiques ou psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "déficits cognitifs"
+      ],
+      "related_terms": [
+        "démence",
+        "troubles de l'apprentissage"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "troubles de comportement",
+      "definition": "Les troubles de comportement sont des schémas de comportement inappropriés et perturbateurs qui persistent pendant une période prolongée et affectent le fonctionnement social, scolaire ou professionnel.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles du comportement"
+      ],
+      "related_terms": [
+        "TDAH",
+        "trouble oppositionnel avec provocation"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "anxiété de séparation",
+      "definition": "L'anxiété de séparation est une peur excessive et inappropriée concernant la séparation d'avec les personnes auxquelles l'individu est attaché, souvent observée chez les enfants.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble d'anxiété de séparation"
+      ],
+      "related_terms": [
+        "phobie scolaire",
+        "anxiété"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "figures d'attachement",
+      "definition": "Les figures d'attachement sont des personnes avec lesquelles un individu, souvent un enfant, a formé un lien émotionnel fort et qui fournissent un sentiment de sécurité et de réconfort.",
+      "category": "psychologie",
+      "synonyms": [
+        "personnes d'attachement"
+      ],
+      "related_terms": [
+        "attachement",
+        "lien affectif"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "trouble du spectre de l'autisme",
+      "definition": "Le trouble du spectre de l'autisme (TSA) est un groupe de conditions neurodéveloppementales caractérisées par des déficits persistants dans la communication sociale et les interactions sociales, ainsi que par des comportements restreints et répétitifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "autisme"
+      ],
+      "related_terms": [
+        "TSA",
+        "trouble du spectre autistique"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "troubles psychotiques",
+      "definition": "Les troubles psychotiques sont des conditions mentales caractérisées par une perte de contact avec la réalité, souvent accompagnée de délires, d'hallucinations, et de pensées désorganisées.",
+      "category": "pathologie",
+      "synonyms": [
+        "psychose"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble schizo-affectif"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "anxiété généralisée",
+      "definition": "État de préoccupation excessive et persistante concernant divers aspects de la vie quotidienne, accompagné de symptômes physiques et psychologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble anxieux généralisé"
+      ],
+      "related_terms": [
+        "trouble panique",
+        "phobie sociale"
+      ],
+      "description": "L'anxiété généralisée est caractérisée par une inquiétude excessive et difficile à contrôler, accompagnée de symptômes tels que fatigue, irritabilité, tension musculaire, et troubles du sommeil.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DSM-5",
+      "definition": "Manuel diagnostique et statistique des troubles mentaux, cinquième édition, utilisé pour la classification des troubles mentaux.",
+      "category": "classification",
+      "synonyms": [
+        "Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition"
+      ],
+      "related_terms": [
+        "ICD-10",
+        "CIM-10"
+      ],
+      "description": "Le DSM-5 est une référence standard pour les professionnels de la santé mentale pour diagnostiquer les troubles mentaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obsessions",
+      "definition": "Pensées, idées, impulsions ou représentations persistantes et intrusives qui causent une anxiété ou une détresse importante.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "compulsions",
+        "TOC"
+      ],
+      "description": "Les obsessions sont des pensées récurrentes et indésirables qui provoquent une anxiété significative.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compulsions",
+      "definition": "Comportements répétitifs ou actes mentaux visant à prévenir ou réduire l'anxiété ou la détresse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obsessions",
+        "TOC"
+      ],
+      "description": "Les compulsions sont des actions répétitives et souvent ritualisées visant à réduire l'anxiété.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "folie du doute",
+      "definition": "Type d'obsession caractérisé par des doutes et des scrupules excessifs, souvent liés à des thèmes métaphysiques, religieux ou moraux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obsessions idéatives",
+        "TOC"
+      ],
+      "description": "La folie du doute se manifeste par des interrogations persistantes et intrusives sur des sujets existentiels ou moraux.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "délire du toucher",
+      "definition": "Type d'obsession phobique caractérisé par l'évitement du contact avec certains objets ou situations par crainte de contamination.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obsessions phobiques",
+        "TOC"
+      ],
+      "description": "Le délire du toucher se manifeste par des comportements d'évitement excessifs pour éviter la contamination.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phobies d'impulsion",
+      "definition": "Type d'obsession impulsive caractérisé par la crainte de commettre un acte agressif ou indécent.",
+      "category": "pathologie",
+      "synonyms": [
+        "obsessions impulsives"
+      ],
+      "related_terms": [
+        "TOC"
+      ],
+      "description": "Les phobies d'impulsion se manifestent par une peur intense de commettre des actes violents ou inappropriés.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arithmomanie",
+      "definition": "Compulsion caractérisée par le besoin de compter sans cesse ou d'additionner des chiffres.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "compulsions",
+        "TOC"
+      ],
+      "description": "L'arithmomanie se manifeste par des comportements répétitifs de comptage ou de calcul mental.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperthyroïdie",
+      "definition": "État pathologique caractérisé par une production excessive d'hormones thyroïdiennes, entraînant une accélération du métabolisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyrotoxicose"
+      ],
+      "description": "L'hyperthyroïdie se manifeste par des symptômes tels que la tachycardie, la perte de poids, l'anxiété et l'intolérance à la chaleur.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires et métaboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phéochromocytome",
+      "definition": "Tumeur rare des cellules chromaffines de la médullosurrénale, sécrétant des catécholamines et entraînant une hypertension paroxystique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur chromaffine"
+      ],
+      "description": "Le phéochromocytome se manifeste par des crises d'hypertension, des palpitations, des maux de tête et une transpiration excessive.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arythmie",
+      "definition": "Trouble du rythme cardiaque caractérisé par une fréquence ou un rythme anormal des battements cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysrythmie"
+      ],
+      "related_terms": [
+        "fibrillation auriculaire",
+        "tachycardie"
+      ],
+      "description": "L'arythmie se manifeste par des palpitations, des étourdissements, une faiblesse ou une syncope.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications cardiovasculaires graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "broncho-pneumopathie chronique obstructive",
+      "definition": "Maladie pulmonaire chronique caractérisée par une obstruction persistante des voies aériennes et une inflammation des bronches.",
+      "category": "pathologie",
+      "synonyms": [
+        "BPCO"
+      ],
+      "related_terms": [
+        "emphysème",
+        "bronchite chronique"
+      ],
+      "description": "La BPCO se manifeste par une toux chronique, une expectoration et une dyspnée progressive.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance respiratoire chronique et des complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Epilepsie",
+      "definition": "Trouble neurologique chronique caractérisé par des crises épileptiques récurrentes, dues à une activité électrique anormale dans le cerveau.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "crises convulsives"
+      ],
+      "description": "L'épilepsie se manifeste par des crises convulsives, des absences ou des troubles de la conscience.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "migraines",
+      "definition": "Type de céphalée caractérisé par des maux de tête intenses, souvent unilatéraux, accompagnés de nausées, de vomissements et de sensibilité à la lumière et au bruit.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "céphalée vasculaire"
+      ],
+      "description": "Les migraines se manifestent par des crises de maux de tête pulsatiles, souvent précédées d'une aura visuelle.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une altération significative de la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction vestibulaire",
+      "definition": "Trouble du système vestibulaire, responsable de l'équilibre et de la coordination des mouvements, entraînant des vertiges et des troubles de l'équilibre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vertige",
+        "nystagmus"
+      ],
+      "description": "La dysfonction vestibulaire se manifeste par des vertiges, des nausées et des troubles de l'équilibre.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une altération significative de la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalite",
+      "definition": "Inflammation aiguë du cerveau, souvent due à une infection virale, entraînant des troubles neurologiques variés.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningo-encéphalite"
+      ],
+      "description": "L'encéphalite se manifeste par de la fièvre, des maux de tête, des convulsions et des troubles de la conscience.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques graves et nécessiter une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intoxication",
+      "definition": "État pathologique résultant de l'ingestion ou de l'exposition à une substance toxique, entraînant des symptômes variés selon la substance.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "empoisonnement"
+      ],
+      "description": "L'intoxication se manifeste par des symptômes variés tels que des nausées, des vomissements, des troubles de la conscience et des convulsions.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves et nécessiter une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sevrage",
+      "definition": "Syndrome de sevrage, ensemble de symptômes physiques et psychologiques survenant après l'arrêt brutal d'une substance addictive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de sevrage"
+      ],
+      "description": "Le sevrage se manifeste par des symptômes tels que l'anxiété, les tremblements, les sueurs, les nausées et les convulsions.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves et nécessiter une hospitalisation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sympathomimétiques",
+      "definition": "Substances qui imitent les effets du système nerveux sympathique, entraînant une stimulation du système nerveux central et périphérique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "adrénaline",
+        "noradrénaline"
+      ],
+      "description": "Les sympathomimétiques se manifestent par des effets tels que la tachycardie, l'hypertension, l'anxiété et l'insomnie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuline",
+      "definition": "Hormone peptidique sécrétée par le pancréas, régulant le métabolisme du glucose en favorisant son absorption par les cellules.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoglycémie",
+        "hyperglycémie"
+      ],
+      "description": "L'insuline est utilisée pour traiter le diabète en régulant les niveaux de glucose dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antihistaminergiques",
+      "definition": "Médicaments qui bloquent l'action de l'histamine, un médiateur de l'inflammation, utilisés pour traiter les allergies et les troubles gastro-intestinaux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antihistaminiques"
+      ],
+      "related_terms": [
+        "histamine",
+        "allergies"
+      ],
+      "description": "Les antihistaminiques se manifestent par des effets tels que la somnolence, la sécheresse de la bouche et la constipation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiparkinsoniens",
+      "definition": "Médicaments utilisés pour traiter les symptômes de la maladie de Parkinson en augmentant les niveaux de dopamine dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "lévodopa",
+        "dopamine"
+      ],
+      "description": "Les antiparkinsoniens se manifestent par des effets tels que les nausées, les vomissements, les hallucinations et les troubles du mouvement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticostéroïdes",
+      "definition": "Hormones stéroïdiennes synthétisées par le cortex surrénalien, ayant des effets anti-inflammatoires et immunosuppresseurs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "glucocorticoïdes"
+      ],
+      "related_terms": [
+        "prednisone",
+        "dexaméthasone"
+      ],
+      "description": "Les corticostéroïdes se manifestent par des effets tels que la rétention d'eau, l'hypertension, l'hyperglycémie et l'ostéoporose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbonate de lithium",
+      "definition": "Sel de lithium utilisé comme stabilisateur de l'humeur dans le traitement du trouble bipolaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lithium"
+      ],
+      "related_terms": [
+        "trouble bipolaire",
+        "stabilisateur de l'humeur"
+      ],
+      "description": "Le carbonate de lithium se manifeste par des effets tels que les tremblements, la polyurie, la polydipsie et l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antipsychotiques",
+      "definition": "Médicaments utilisés pour traiter les psychoses, notamment la schizophrénie, en bloquant les récepteurs de la dopamine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "neuroleptiques"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "psychose"
+      ],
+      "description": "Les antipsychotiques se manifestent par des effets tels que la somnolence, les troubles extrapyramidaux, l'hyperprolactinémie et la prise de poids.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métaux lourds",
+      "definition": "Éléments métalliques denses et toxiques, tels que le plomb, le mercure et le cadmium, pouvant causer des effets néfastes sur la santé.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "intoxication au plomb",
+        "empoisonnement au mercure"
+      ],
+      "description": "Les métaux lourds se manifestent par des effets tels que les troubles neurologiques, les troubles rénaux et les troubles gastro-intestinaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "essence",
+      "definition": "Mélange de substances volatiles dérivées du pétrole, utilisé comme carburant pour les moteurs à combustion interne.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hydrocarbures",
+        "carburant"
+      ],
+      "description": "L'essence peut causer des effets tels que l'irritation des voies respiratoires, les maux de tête et les troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "peinture",
+      "definition": "Mélange de pigments, de liants et de solvants utilisé pour recouvrir et protéger les surfaces, pouvant contenir des substances toxiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "solvants volatils",
+        "intoxication"
+      ],
+      "description": "La peinture peut causer des effets tels que l'irritation des voies respiratoires, les maux de tête et les troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insecticides organophosphorés",
+      "definition": "Substances chimiques utilisées pour tuer les insectes, agissant en inhibant l'acétylcholinestérase, entraînant une accumulation d'acétylcholine.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "intoxication aux organophosphorés",
+        "acétylcholinestérase"
+      ],
+      "description": "Les insecticides organophosphorés se manifestent par des effets tels que les nausées, les vomissements, les troubles de la conscience et les convulsions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gaz nerveux",
+      "definition": "Substances chimiques hautement toxiques utilisées comme armes chimiques, agissant en inhibant l'acétylcholinestérase, entraînant une accumulation d'acétylcholine.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "sarin",
+        "tabun"
+      ],
+      "description": "Les gaz nerveux se manifestent par des effets tels que les nausées, les vomissements, les troubles de la conscience et les convulsions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxyde de carbone",
+      "definition": "Gaz inodore et incolore, produit par la combustion incomplète des hydrocarbures, se liant à l'hémoglobine et réduisant la capacité de transport de l'oxygène.",
+      "category": "microbiologie",
+      "synonyms": [
+        "CO"
+      ],
+      "related_terms": [
+        "intoxication au monoxyde de carbone",
+        "carboxyhémoglobine"
+      ],
+      "description": "L'oxyde de carbone se manifeste par des effets tels que les maux de tête, les étourdissements, la faiblesse et la perte de conscience.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dioxyde de carbone",
+      "definition": "Gaz inodore et incolore, produit par la combustion complète des hydrocarbures, jouant un rôle dans la régulation de la respiration et le maintien de l'équilibre acido-basique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "CO2"
+      ],
+      "related_terms": [
+        "hypercapnie",
+        "hypocapnie"
+      ],
+      "description": "Le dioxyde de carbone se manifeste par des effets tels que la dyspnée, les maux de tête et les troubles de la conscience.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles dépressifs",
+      "definition": "Groupe de troubles caractérisés par une humeur dépressive persistante, une perte d'intérêt ou de plaisir, et des symptômes cognitifs et physiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression"
+      ],
+      "related_terms": [
+        "trouble dépressif majeur",
+        "dysthymie"
+      ],
+      "description": "Les troubles dépressifs se manifestent par des symptômes tels que la tristesse, l'anhédonie, la fatigue, les troubles du sommeil et les idées suicidaires.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles de l'adaptation",
+      "definition": "Réactions émotionnelles ou comportementales à un facteur de stress identifiable, se manifestant par une détresse émotionnelle ou une altération du fonctionnement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "stress",
+        "anxiété"
+      ],
+      "description": "Les troubles de l'adaptation se manifestent par des symptômes tels que l'anxiété, la dépression, les troubles du comportement et les troubles du sommeil.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hystérie",
+      "definition": "Trouble caractérisé par des symptômes physiques ou psychologiques exagérés ou simulés, souvent en réponse à un stress émotionnel.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de conversion"
+      ],
+      "related_terms": [
+        "somatisation",
+        "dissociation"
+      ],
+      "description": "L'hystérie se manifeste par des symptômes tels que la paralysie, la cécité, les crises non épileptiques et les troubles de la mémoire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypochondrie",
+      "definition": "Préoccupation excessive et persistante concernant la crainte d'avoir une maladie grave, malgré l'absence de preuves médicales.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble anxieux de la maladie"
+      ],
+      "related_terms": [
+        "anxiété",
+        "somatisation"
+      ],
+      "description": "L'hypochondrie se manifeste par des symptômes tels que l'anxiété, les préoccupations corporelles et les comportements de vérification excessive.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Trouble de la personnalité type limite",
+      "definition": "Trouble de la personnalité caractérisé par un pattern persistant d'instabilité des relations interpersonnelles, de l'image de soi et des affects, ainsi que par une impulsivité marquée.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de la personnalité borderline"
+      ],
+      "related_terms": [
+        "instabilité émotionnelle",
+        "impulsivité"
+      ],
+      "description": "Le trouble de la personnalité type limite se manifeste par des symptômes tels que l'instabilité émotionnelle, les comportements impulsifs, les relations interpersonnelles chaotiques et les tentatives de suicide.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détresse significative et une altération du fonctionnement quotidien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble anxiété séparation",
+      "definition": "Un trouble anxieux caractérisé par une anxiété excessive concernant la séparation d'avec les personnes auxquelles l'individu est attaché.",
+      "category": "pathologie",
+      "synonyms": [
+        "TAS"
+      ],
+      "related_terms": [
+        "trouble anxiété généralisée",
+        "trouble panique"
+      ],
+      "description": "Ce trouble est souvent observé chez les enfants et peut inclure des symptômes tels que des cauchemars, des maux de tête et des douleurs abdominales.",
+      "expansion": null,
+      "clinical_significance": "Important à diagnostiquer pour éviter des complications émotionnelles et sociales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phobie scolaire",
+      "definition": "Une phobie spécifique à l'école, où l'enfant manifeste un refus et des symptômes d'anxiété neurovégétative uniquement en ce qui concerne le fait d'aller à l'école.",
+      "category": "pathologie",
+      "synonyms": [
+        "refus scolaire anxieux"
+      ],
+      "related_terms": [
+        "anxiété neurovégétative"
+      ],
+      "description": "Les symptômes peuvent inclure des céphalées et des douleurs abdominales.",
+      "expansion": null,
+      "clinical_significance": "Important à distinguer du trouble anxiété séparation pour une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychoses",
+      "definition": "Un groupe de troubles mentaux caractérisés par une perte de contact avec la réalité, souvent accompagnée de délires et d'hallucinations.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "troubles du spectre autistique"
+      ],
+      "description": "Les manifestations d'angoisse peuvent être retrouvées dans les psychoses.",
+      "expansion": null,
+      "clinical_significance": "Important à diagnostiquer pour une prise en charge appropriée et pour éviter des complications émotionnelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles du spectre autistique",
+      "definition": "Un groupe de troubles neurodéveloppementaux caractérisés par des déficits persistants dans la communication sociale et les interactions sociales.",
+      "category": "pathologie",
+      "synonyms": [
+        "TSA"
+      ],
+      "related_terms": [
+        "psychoses"
+      ],
+      "description": "Les manifestations d'angoisse peuvent être retrouvées dans les troubles du spectre autistique.",
+      "expansion": null,
+      "clinical_significance": "Important à diagnostiquer pour une prise en charge appropriée et pour éviter des complications émotionnelles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rémission",
+      "definition": "La disparition ou la réduction significative des symptômes d'une maladie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rechute"
+      ],
+      "description": "Un objectif de la prise en charge des troubles anxieux.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer l'efficacité du traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbamates",
+      "definition": "Une classe de médicaments utilisés pour leurs propriétés anxiolytiques et sédatives.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "benzodiazépines",
+        "bêta-bloquants",
+        "antihistaminiques"
+      ],
+      "description": "Exemple : Méprobamate (Equanil®).",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement symptomatique des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêta-bloquants",
+      "definition": "Une classe de médicaments qui bloquent l'action des récepteurs bêta-adrénergiques, utilisés principalement pour traiter l'hypertension et les troubles du rythme cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "benzodiazépines",
+        "carbamates",
+        "antihistaminiques"
+      ],
+      "description": "Exemple : Propanolol (Avlocardyl®).",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement symptomatique des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antihistaminiques",
+      "definition": "Une classe de médicaments qui bloquent l'action de l'histamine, utilisés pour traiter les allergies et les troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "benzodiazépines",
+        "carbamates",
+        "bêta-bloquants"
+      ],
+      "description": "Exemple : Hydroxézine (Atarax®).",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement symptomatique des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs tricycliques",
+      "definition": "Une classe de médicaments utilisés pour traiter la dépression et les troubles anxieux, agissant principalement en inhibant la recapture de la sérotonine et de la noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "ISRS",
+        "IRSSNA",
+        "IMAO"
+      ],
+      "description": "Exemple : Clomipramine (Anafranil®).",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de fond des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ISRS",
+      "definition": "Inhibiteurs Sélectifs de la Recapture de la Sérotonine, une classe de médicaments antidépresseurs utilisés pour traiter la dépression et les troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Inhibiteurs Sélectifs de la Recapture de la Sérotonine"
+      ],
+      "related_terms": [
+        "antidépresseurs tricycliques",
+        "IRSSNA",
+        "IMAO"
+      ],
+      "description": "Exemples : Paroxétine, Floxétine, Sertraline, Escitalopram.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de fond des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRSSNA",
+      "definition": "Inhibiteurs de la Recapture Sélectifs de la Sérotonine et de la Noradrénaline, une classe de médicaments antidépresseurs utilisés pour traiter la dépression et les troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Inhibiteurs de la Recapture Sélectifs de la Sérotonine et de la Noradrénaline"
+      ],
+      "related_terms": [
+        "antidépresseurs tricycliques",
+        "ISRS",
+        "IMAO"
+      ],
+      "description": "Exemple : Venlafaxine.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de fond des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IMAO",
+      "definition": "Inhibiteurs de la Mono-Amine-Oxydase, une classe de médicaments antidépresseurs utilisés pour traiter la dépression et les troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Inhibiteurs de la Mono-Amine-Oxydase"
+      ],
+      "related_terms": [
+        "antidépresseurs tricycliques",
+        "ISRS",
+        "IRSSNA"
+      ],
+      "description": "Exemple : Toloxatone (Humoryl®).",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de fond des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TCC",
+      "definition": "Thérapies Cognitivo-Comportementales, une forme de psychothérapie qui vise à résoudre les problèmes en modifiant les pensées et les comportements négatifs.",
+      "category": "psychothérapie",
+      "synonyms": [
+        "Thérapies Cognitivo-Comportementales"
+      ],
+      "related_terms": [
+        "psychothérapies"
+      ],
+      "description": "Utilisées pour le traitement de fond des troubles anxieux.",
+      "expansion": null,
+      "clinical_significance": "Efficaces pour le traitement des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lorazépam",
+      "definition": "Un médicament benzodiazépinique utilisé pour ses propriétés anxiolytiques, sédatives et myorelaxantes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "benzodiazépines"
+      ],
+      "description": "Exemple : Temesta.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le traitement symptomatique des troubles anxieux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anxiolytique",
+      "definition": "Médicament utilisé pour traiter l'anxiété en réduisant les symptômes associés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anti-anxiété"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "buspirone",
+        "antidépresseurs"
+      ],
+      "description": "Les anxiolytiques peuvent être prescrits en cas d'exacerbation anxieuse aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Buspirone",
+      "definition": "Médicament anxiolytique qui agit principalement sur les signes psychiques d'anxiété sans entraîner de dépendance.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Buspar"
+      ],
+      "related_terms": [
+        "anxiolytiques",
+        "benzodiazépines"
+      ],
+      "description": "La buspirone a un délai d'action pouvant atteindre 3 semaines et n'entraîne pas de syndrome de sevrage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Venlafaxine",
+      "definition": "Antidépresseur utilisé pour traiter les troubles anxieux et dépressifs en modulant les niveaux de sérotonine et de noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Effexor"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "paroxétine",
+        "escitalopram"
+      ],
+      "description": "La venlafaxine est efficace dans le contrôle des signes psychiques d'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Paroxétine",
+      "definition": "Antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) utilisé pour traiter les troubles anxieux et dépressifs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Deroxat"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "venlafaxine",
+        "escitalopram"
+      ],
+      "description": "La paroxétine est utilisée dans le traitement de la phobie sociale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hydroxyzine",
+      "definition": "Antihistaminique H1 utilisé pour ses propriétés anxiolytiques et sédatives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Atarax"
+      ],
+      "related_terms": [
+        "antihistaminiques",
+        "anxiolytiques"
+      ],
+      "description": "L'hydroxyzine est efficace dans le traitement des troubles anxieux généralisés (TAG).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Imipramine",
+      "definition": "Antidépresseur tricyclique utilisé pour traiter la dépression et certains troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Tofranil"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "venlafaxine",
+        "paroxétine"
+      ],
+      "description": "L'imipramine est utilisée dans le traitement des troubles anxieux généralisés (TAG).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TAG",
+      "definition": "Trouble Anxieux Généralisé, caractérisé par une anxiété excessive et persistante.",
+      "category": "classification",
+      "synonyms": [
+        "trouble anxieux généralisé"
+      ],
+      "related_terms": [
+        "anxiété",
+        "troubles anxieux"
+      ],
+      "description": "Le TAG nécessite un traitement d'au moins 6 mois.",
+      "expansion": "Trouble Anxieux Généralisé",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GABA",
+      "definition": "Acide gamma-aminobutyrique, un neurotransmetteur inhibiteur dans le système nerveux central.",
+      "category": "physiologie",
+      "synonyms": [
+        "acide gamma-aminobutyrique"
+      ],
+      "related_terms": [
+        "récepteurs GABA",
+        "benzodiazépines"
+      ],
+      "description": "Les benzodiazépines agissent comme agonistes des récepteurs GABA.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Oxazépam",
+      "definition": "Benzodiazépine utilisée pour ses propriétés anxiolytiques et sédatives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Seresta"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "anxiolytiques"
+      ],
+      "description": "L'oxazépam a un métabolisme hépatique différent des autres benzodiazépines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Alprazolam",
+      "definition": "Benzodiazépine utilisée pour traiter les troubles anxieux et les troubles paniques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Xanax"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "anxiolytiques"
+      ],
+      "description": "L'alprazolam a une demi-vie courte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépendance",
+      "definition": "État de besoin physique ou psychologique d'une substance, entraînant des symptômes de sevrage en cas d'arrêt.",
+      "category": "pathologie",
+      "synonyms": [
+        "addiction"
+      ],
+      "related_terms": [
+        "syndrome de sevrage",
+        "benzodiazépines"
+      ],
+      "description": "La dépendance est un risque associé à l'utilisation prolongée de benzodiazépines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de sevrage",
+      "definition": "Ensemble de symptômes physiques et psychologiques survenant après l'arrêt brutal d'une substance à laquelle le corps s'est habitué.",
+      "category": "pathologie",
+      "synonyms": [
+        "sevrage"
+      ],
+      "related_terms": [
+        "dépendance",
+        "benzodiazépines"
+      ],
+      "description": "Le syndrome de sevrage aux benzodiazépines peut inclure anxiété, agitation, confusion, convulsions et insomnie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Propanolol",
+      "definition": "Bêta-bloquant utilisé pour traiter l'hypertension, l'angine de poitrine et certains troubles anxieux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Avlocardyl"
+      ],
+      "related_terms": [
+        "bêta-bloquants",
+        "anxiété de performance"
+      ],
+      "description": "Le propanolol est efficace sur les symptômes somatiques de l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Agoniste 5HTIA",
+      "definition": "Médicament qui active les récepteurs de la sérotonine de type 1A, utilisé pour ses propriétés anxiolytiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Buspirone"
+      ],
+      "related_terms": [
+        "anxiolytiques",
+        "buspirone"
+      ],
+      "description": "Les agonistes 5HTIA, comme la buspirone, sont utilisés pour traiter l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Etifoxine",
+      "definition": "Médicament anxiolytique utilisé pour ses propriétés anxiolytiques et sédatives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Strésam"
+      ],
+      "related_terms": [
+        "anxiolytiques",
+        "benzodiazépines"
+      ],
+      "description": "L'étifoxine est utilisée pour traiter l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insomnies",
+      "definition": "Trouble du sommeil caractérisé par une difficulté à s'endormir ou à rester endormi.",
+      "category": "pathologie",
+      "synonyms": [
+        "insomnie"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "anxiolytiques"
+      ],
+      "description": "Les insomnies peuvent être traitées par des anxiolytiques, mais la prescription ne doit pas dépasser 1 mois.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles anxieux",
+      "definition": "Ensemble de troubles caractérisés par une anxiété excessive et persistante, souvent accompagnée de symptômes physiques et de comportements d'évitement.",
+      "category": "pathologie",
+      "synonyms": [
+        "anxiété pathologique"
+      ],
+      "related_terms": [
+        "trouble panique",
+        "trouble anxieux généralisé",
+        "phobie sociale"
+      ],
+      "description": "Les troubles anxieux incluent diverses conditions telles que le trouble panique, le trouble anxieux généralisé, la phobie sociale, et le trouble obsessionnel-compulsif.",
+      "expansion": "N/A",
+      "clinical_significance": "Les troubles anxieux sont fréquents et peuvent entraîner une altération significative du fonctionnement quotidien et une souffrance psychologique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "troubles anxieux",
+        "anxiété pathologique"
+      ],
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "source_file": "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Psychiatrie/Troubles Anxieux/Courses/69 Troubles anxieux 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md"
+  ],
+  "total_terms": 97
+}

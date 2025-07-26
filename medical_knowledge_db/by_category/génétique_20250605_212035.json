@@ -1,0 +1,332 @@
+{
+  "category": "génétique",
+  "terms": [
+    {
+      "term": "BRCA1",
+      "definition": "Gène de susceptibilité au cancer du sein, dont les mutations prédisposent fortement au cancer du sein et de l'ovaire.",
+      "category": "génétique",
+      "synonyms": [
+        "Breast Cancer 1"
+      ],
+      "related_terms": [
+        "BRCA2",
+        "cancer du sein",
+        "cancer de l'ovaire"
+      ],
+      "description": "Les mutations du gène BRCA1 sont responsables d'environ 80% des cancers du sein héréditaires.",
+      "expansion": null,
+      "clinical_significance": "Fort prédisposition au cancer du sein et de l'ovaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BRCA2",
+      "definition": "Gène de susceptibilité au cancer du sein, dont les mutations prédisposent au cancer du sein et de l'ovaire.",
+      "category": "génétique",
+      "synonyms": [
+        "Breast Cancer 2"
+      ],
+      "related_terms": [
+        "BRCA1",
+        "cancer du sein",
+        "cancer de l'ovaire"
+      ],
+      "description": "Les mutations du gène BRCA2 sont responsables d'environ 25% des cancers du sein héréditaires.",
+      "expansion": null,
+      "clinical_significance": "Prédisposition au cancer du sein et de l'ovaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autosomique dominante",
+      "definition": "Mode de transmission génétique où une seule copie d'un gène muté est suffisante pour provoquer une maladie.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "génétique",
+        "hérédité"
+      ],
+      "description": "Les maladies autosomiques dominantes se manifestent lorsqu'un seul allèle muté est présent.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DAX-1",
+      "definition": "Dosage-sensitive sex-reversal, adrenal hypoplasia congenital, on the X-chromosome, gène 1",
+      "category": "génétique",
+      "synonyms": [
+        "DAX-1"
+      ],
+      "related_terms": [
+        "HCS",
+        "IS"
+      ],
+      "description": "DAX-1 est un gène impliqué dans le développement des surrénales et des gonades.",
+      "expansion": "Dosage-sensitive sex-reversal, adrenal hypoplasia congenital, on the X-chromosome, gène 1",
+      "clinical_significance": "Mutations dans ce gène peuvent causer une hypoplasie congénitale des surrénales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SF-1",
+      "definition": "Stéroïdogenic Factor 1",
+      "category": "génétique",
+      "synonyms": [
+        "SF-1"
+      ],
+      "related_terms": [
+        "HCS",
+        "IS"
+      ],
+      "description": "SF-1 est un facteur de transcription essentiel pour le développement des surrénales et des gonades.",
+      "expansion": "Stéroïdogenic Factor 1",
+      "clinical_significance": "Mutations dans ce gène peuvent causer une aplasie surrénalienne congénitale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HESX1",
+      "definition": "Gène impliqué dans le développement de l'hypophyse antérieure, dont les mutations peuvent entraîner des anomalies de la morphogenèse hypophysaire.",
+      "category": "génétique",
+      "synonyms": [
+        "HESX1"
+      ],
+      "related_terms": [
+        "hypophyse"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prop 1",
+      "definition": "Gène impliqué dans le développement de l'hypophyse antérieure, dont les mutations peuvent entraîner des anomalies de la morphogenèse hypophysaire.",
+      "category": "génétique",
+      "synonyms": [
+        "Prop1"
+      ],
+      "related_terms": [
+        "hypophyse"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LHX4",
+      "definition": "Gène impliqué dans le développement de l'hypophyse antérieure, dont les mutations peuvent entraîner des anomalies de la morphogenèse hypophysaire.",
+      "category": "génétique",
+      "synonyms": [
+        "LHX4"
+      ],
+      "related_terms": [
+        "hypophyse"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tpit",
+      "definition": "Facteur de transcription impliqué dans la différenciation des cellules corticotropes de l'hypophyse antérieure.",
+      "category": "génétique",
+      "synonyms": [
+        "TBX19"
+      ],
+      "related_terms": [
+        "hypophyse"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "source_file": "Endocrinologie/Insuffisance Surrénalienne Aiguë/Courses/47 L’insuffisance surrénalienne aigue 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.03.44 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-DRB1",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, impliqué dans la présentation des antigènes aux lymphocytes T et associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DRB1 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DRB1",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTPN22",
+      "definition": "Gène codant pour une protéine tyrosine phosphatase non réceptrice 22, impliquée dans la régulation de la réponse immunitaire et associée à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "protéine tyrosine phosphatase",
+        "réponse immunitaire"
+      ],
+      "description": "Les polymorphismes de PTPN22 sont associés à un risque accru de maladies auto-immunes, y compris la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PTPN22",
+        "protéine tyrosine phosphatase"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "STAT4",
+      "definition": "Gène codant pour une protéine de signalisation et de transcription 4, impliquée dans la régulation de la réponse immunitaire et associée à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "signalisation cellulaire",
+        "réponse immunitaire"
+      ],
+      "description": "Les polymorphismes de STAT4 sont associés à un risque accru de maladies auto-immunes, y compris la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "STAT4",
+        "signalisation cellulaire"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-DR4",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DR4 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DR4",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA-DR1",
+      "definition": "Allèle du complexe majeur d'histocompatibilité (CMH) de classe II, associé à un risque accru de polyarthrite rhumatoïde.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "HLA",
+        "CMH"
+      ],
+      "description": "Le polymorphisme de HLA-DR1 est un facteur de risque génétique pour la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA-DR1",
+        "CMH classe II"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RHD",
+      "definition": "Gène codant pour l'antigène D du système Rhésus.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "RhD",
+        "antigène D"
+      ],
+      "description": "Le gène RHD est responsable de l'expression de l'antigène D, déterminant le phénotype Rhésus positif.",
+      "expansion": "",
+      "clinical_significance": "Critique pour la compatibilité transfusionnelle et la prévention de l'allo-immunisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gène RHD",
+        "antigène D"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RHCE",
+      "definition": "Gène codant pour les antigènes C, c, E et e du système Rhésus.",
+      "category": "génétique",
+      "synonyms": [],
+      "related_terms": [
+        "antigène C",
+        "antigène c",
+        "antigène E",
+        "antigène e"
+      ],
+      "description": "Le gène RHCE exprime différents antigènes en fonction de ses allèles, influençant la compatibilité transfusionnelle.",
+      "expansion": "",
+      "clinical_significance": "Important pour la compatibilité transfusionnelle, surtout chez les femmes en âge de procréer.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gène RHCE",
+        "antigènes Rhésus"
+      ],
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "source_file": "Hématologie/Transfusion Sanguine/Courses/66 Transfusion sanguine 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 16,
+  "extraction_date": "20250605_212035"
+}

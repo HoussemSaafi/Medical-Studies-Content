@@ -1,0 +1,1553 @@
+{
+  "extraction_summary": {
+    "timestamp": "20250605_212035",
+    "total_terms_extracted": 9829,
+    "unique_categories": 26,
+    "subjects_processed": 75,
+    "processing_errors": 0
+  },
+  "category_breakdown": {
+    "pathologie": {
+      "count": 4549,
+      "avg_confidence": 0.9489668058914046,
+      "with_synonyms": 3219,
+      "with_related_terms": 4519,
+      "with_clinical_significance": 2502
+    },
+    "anatomie": {
+      "count": 1120,
+      "avg_confidence": 0.9496874999999999,
+      "with_synonyms": 766,
+      "with_related_terms": 1105,
+      "with_clinical_significance": 357
+    },
+    "physiologie": {
+      "count": 1145,
+      "avg_confidence": 0.948768558951965,
+      "with_synonyms": 820,
+      "with_related_terms": 1136,
+      "with_clinical_significance": 539
+    },
+    "pharmacologie": {
+      "count": 1343,
+      "avg_confidence": 0.9498883097542815,
+      "with_synonyms": 1002,
+      "with_related_terms": 1342,
+      "with_clinical_significance": 771
+    },
+    "classification": {
+      "count": 340,
+      "avg_confidence": 0.9501764705882353,
+      "with_synonyms": 226,
+      "with_related_terms": 334,
+      "with_clinical_significance": 198
+    },
+    "imagerie": {
+      "count": 466,
+      "avg_confidence": 0.9501287553648069,
+      "with_synonyms": 372,
+      "with_related_terms": 465,
+      "with_clinical_significance": 229
+    },
+    "microbiologie": {
+      "count": 656,
+      "avg_confidence": 0.9517835365853659,
+      "with_synonyms": 467,
+      "with_related_terms": 652,
+      "with_clinical_significance": 343
+    },
+    "thérapeutique": {
+      "count": 3,
+      "avg_confidence": 0.9499999999999998,
+      "with_synonyms": 3,
+      "with_related_terms": 3,
+      "with_clinical_significance": 3
+    },
+    "acronyme": {
+      "count": 107,
+      "avg_confidence": 0.9537383177570093,
+      "with_synonyms": 48,
+      "with_related_terms": 98,
+      "with_clinical_significance": 57
+    },
+    "immunologie": {
+      "count": 33,
+      "avg_confidence": 0.9484848484848484,
+      "with_synonyms": 24,
+      "with_related_terms": 33,
+      "with_clinical_significance": 15
+    },
+    "vaccination": {
+      "count": 1,
+      "avg_confidence": 0.95,
+      "with_synonyms": 1,
+      "with_related_terms": 1,
+      "with_clinical_significance": 1
+    },
+    "toxicologie": {
+      "count": 2,
+      "avg_confidence": 0.95,
+      "with_synonyms": 2,
+      "with_related_terms": 2,
+      "with_clinical_significance": 0
+    },
+    "procédure médicale": {
+      "count": 2,
+      "avg_confidence": 0.95,
+      "with_synonyms": 2,
+      "with_related_terms": 2,
+      "with_clinical_significance": 2
+    },
+    "chirurgie": {
+      "count": 19,
+      "avg_confidence": 0.9500000000000001,
+      "with_synonyms": 11,
+      "with_related_terms": 19,
+      "with_clinical_significance": 16
+    },
+    "obstétrique": {
+      "count": 4,
+      "avg_confidence": 0.95,
+      "with_synonyms": 4,
+      "with_related_terms": 4,
+      "with_clinical_significance": 3
+    },
+    "biologie": {
+      "count": 4,
+      "avg_confidence": 0.95,
+      "with_synonyms": 4,
+      "with_related_terms": 4,
+      "with_clinical_significance": 4
+    },
+    "génétique": {
+      "count": 16,
+      "avg_confidence": 0.95,
+      "with_synonyms": 8,
+      "with_related_terms": 16,
+      "with_clinical_significance": 6
+    },
+    "oncologie": {
+      "count": 1,
+      "avg_confidence": 0.95,
+      "with_synonyms": 1,
+      "with_related_terms": 1,
+      "with_clinical_significance": 1
+    },
+    "psychologie": {
+      "count": 1,
+      "avg_confidence": 0.97,
+      "with_synonyms": 1,
+      "with_related_terms": 1,
+      "with_clinical_significance": 0
+    },
+    "psychothérapie": {
+      "count": 1,
+      "avg_confidence": 0.95,
+      "with_synonyms": 1,
+      "with_related_terms": 1,
+      "with_clinical_significance": 1
+    },
+    "traitement": {
+      "count": 2,
+      "avg_confidence": 0.95,
+      "with_synonyms": 2,
+      "with_related_terms": 2,
+      "with_clinical_significance": 2
+    },
+    "épidémiologie": {
+      "count": 1,
+      "avg_confidence": 0.95,
+      "with_synonyms": 0,
+      "with_related_terms": 1,
+      "with_clinical_significance": 0
+    },
+    "enzymologie": {
+      "count": 2,
+      "avg_confidence": 0.95,
+      "with_synonyms": 1,
+      "with_related_terms": 2,
+      "with_clinical_significance": 0
+    },
+    "radiothérapie": {
+      "count": 3,
+      "avg_confidence": 0.9499999999999998,
+      "with_synonyms": 2,
+      "with_related_terms": 3,
+      "with_clinical_significance": 0
+    },
+    "symptôme": {
+      "count": 1,
+      "avg_confidence": 0.95,
+      "with_synonyms": 0,
+      "with_related_terms": 1,
+      "with_clinical_significance": 1
+    },
+    "biochimie": {
+      "count": 7,
+      "avg_confidence": 0.95,
+      "with_synonyms": 0,
+      "with_related_terms": 7,
+      "with_clinical_significance": 7
+    }
+  },
+  "subject_breakdown": {
+    "État de Choc Hémorragique": {
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "term_count": 170,
+      "source_files_count": 1,
+      "categories_covered": [
+        "imagerie",
+        "classification",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Brûlures Cutanées": {
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "term_count": 133,
+      "source_files_count": 1,
+      "categories_covered": [
+        "thérapeutique",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "P.E.C Douleur Aiguë": {
+      "subject_id": "39f823a0-6f44-4701-9fe3-8e59c330d418",
+      "term_count": 132,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Arrêt Cardiorespiratoire": {
+      "subject_id": "bdc975a4-e451-49d1-b280-2cc12aa7c846",
+      "term_count": 132,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Coma": {
+      "subject_id": "d751796b-356e-48d4-b9b3-b66bcac611cb",
+      "term_count": 133,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "États Septiques Graves": {
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "term_count": 205,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Déshydratations Aiguës de l'Enfant": {
+      "subject_id": "31f02921-34a4-4f5f-8227-773720c00ca2",
+      "term_count": 36,
+      "source_files_count": 1,
+      "categories_covered": [
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Bronchiolite": {
+      "subject_id": "d0cd0cd5-3bba-4427-a0b3-e258aaddf40b",
+      "term_count": 35,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Vaccinations": {
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "term_count": 120,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "vaccination",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "immunologie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Insuffisance Rénale Aiguë": {
+      "subject_id": "57ce5540-be23-4900-b8c5-ee4b167690fd",
+      "term_count": 180,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Œdèmes": {
+      "subject_id": "40f1d16d-b91b-47b4-8b6e-bbbafed109cd",
+      "term_count": 71,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Troubles de l'Hydratation, Dyskaliémies": {
+      "subject_id": "34309d3a-e668-47a9-911e-10d63d122a21",
+      "term_count": 146,
+      "source_files_count": 2,
+      "categories_covered": [
+        "toxicologie",
+        "procédure médicale",
+        "physiologie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Hématuries": {
+      "subject_id": "f6ae7379-0639-4d5a-952f-ff07c2b44db6",
+      "term_count": 70,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Troubles Acido-Basiques": {
+      "subject_id": "d2ed4115-fd25-487b-9ebf-b4021f2da7d0",
+      "term_count": 91,
+      "source_files_count": 1,
+      "categories_covered": [
+        "microbiologie",
+        "physiologie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Cancer du Col de l'Utérus": {
+      "subject_id": "235d050b-5735-4531-8292-3bac338df812",
+      "term_count": 171,
+      "source_files_count": 2,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Grossesse Extra-Utérine": {
+      "subject_id": "8f39203d-b603-4e92-a5ab-0e1927b41fa8",
+      "term_count": 72,
+      "source_files_count": 2,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Prééclampsies & Éclampsies": {
+      "subject_id": "4846353b-dac3-4c89-9f60-dcd37a278a89",
+      "term_count": 113,
+      "source_files_count": 2,
+      "categories_covered": [
+        "biologie",
+        "obstétrique",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Cancer du Sein": {
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "term_count": 114,
+      "source_files_count": 2,
+      "categories_covered": [
+        "oncologie",
+        "acronyme",
+        "classification",
+        "génétique",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Contraception": {
+      "subject_id": "2ac116d9-ff8a-443e-8fce-8b930d99330b",
+      "term_count": 71,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Métrorragies": {
+      "subject_id": "7541b256-da30-4867-8a07-0662c6abbc94",
+      "term_count": 83,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Dyslipidémies": {
+      "subject_id": "30c83622-a484-4f09-891d-43956057bee3",
+      "term_count": 155,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Hypothyroïdies de l'Enfant et de l'Adulte": {
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "term_count": 184,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "génétique",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "immunologie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Diabète Sucré": {
+      "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+      "term_count": 362,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Insuffisance Surrénalienne Aiguë": {
+      "subject_id": "caa3d614-70c1-454c-8cd6-d001bfcb32c9",
+      "term_count": 66,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "génétique",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Hypercalcémies": {
+      "subject_id": "d1726ddd-6711-42ca-bd2c-896c293e88a1",
+      "term_count": 90,
+      "source_files_count": 1,
+      "categories_covered": [
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Hyperthyroïdies": {
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "term_count": 117,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Diarrhées Chroniques": {
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "term_count": 217,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Ictères": {
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "term_count": 163,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "immunologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Hépatites Virales": {
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "term_count": 207,
+      "source_files_count": 2,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Cancer du Cavum": {
+      "subject_id": "b6c0543d-7c40-415c-bb18-783e0c572a83",
+      "term_count": 110,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Infections des Voies Aériennes Supérieures": {
+      "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+      "term_count": 282,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Dysphagies": {
+      "subject_id": "c9e734bf-4d1a-46f9-b2f0-12e1817d8c46",
+      "term_count": 191,
+      "source_files_count": 2,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Œil Rouge": {
+      "subject_id": "7f9c2932-4002-40f7-ac92-26bfa2a943af",
+      "term_count": 51,
+      "source_files_count": 1,
+      "categories_covered": [
+        "physiologie",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Troubles Anxieux": {
+      "subject_id": "d42ee3e4-deed-453c-b2c4-863d1bee23ec",
+      "term_count": 97,
+      "source_files_count": 1,
+      "categories_covered": [
+        "psychologie",
+        "classification",
+        "psychothérapie",
+        "microbiologie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "États Confusionnels": {
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "term_count": 46,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "anatomie",
+        "physiologie",
+        "pathologie"
+      ]
+    },
+    "Troubles de l'Humeur": {
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "term_count": 161,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Schizophrénie": {
+      "subject_id": "88e0b809-f08a-40ec-8739-91242ff57ca7",
+      "term_count": 143,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Infections Sexuellement Transmissibles": {
+      "subject_id": "94af644e-95d2-4fb0-806f-c318eadd5341",
+      "term_count": 216,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "traitement",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Méningites Bactériennes & Virales": {
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "term_count": 68,
+      "source_files_count": 1,
+      "categories_covered": [
+        "épidémiologie",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Polyarthrite Rhumatoïde": {
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "term_count": 142,
+      "source_files_count": 1,
+      "categories_covered": [
+        "enzymologie",
+        "imagerie",
+        "classification",
+        "génétique",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "immunologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Arthrite Septique": {
+      "subject_id": "762e1d7b-3473-4fcc-aa24-9d14d081f1a3",
+      "term_count": 46,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Fractures Ouvertes de la Jambe": {
+      "subject_id": "a1133d5b-7b93-47fa-acbc-53b306c0eb65",
+      "term_count": 81,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Céphalées": {
+      "subject_id": "61c8f675-1fa5-40c4-b6f2-eae8abbc869f",
+      "term_count": 114,
+      "source_files_count": 2,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Accident Vasculaire Cérébral": {
+      "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+      "term_count": 201,
+      "source_files_count": 2,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Ulcère Gastrique & Duodénal": {
+      "subject_id": "e3a1f2f8-bd23-4833-b1b5-96833fc01a2e",
+      "term_count": 138,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Asthme": {
+      "subject_id": "ac2eddde-3d6b-465a-8c0d-a2ba958eeaa3",
+      "term_count": 180,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Cancers Broncho-Pulmonaires": {
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "term_count": 226,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "radiothérapie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Infections Respiratoires Basses": {
+      "subject_id": "293d6305-c692-4ee9-9bff-674a4c9512a9",
+      "term_count": 110,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Broncho-Pneumopathie Chronique Obstructive": {
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "term_count": 164,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Tuberculose Pulmonaire Commune": {
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "term_count": 90,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Lithiase Urinaire": {
+      "subject_id": "939d794c-98f5-4335-97a3-18d6396684eb",
+      "term_count": 163,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Tumeur de la Prostate": {
+      "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+      "term_count": 220,
+      "source_files_count": 1,
+      "categories_covered": [
+        "procédure médicale",
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Infections Urinaires": {
+      "subject_id": "22a6187b-77a4-42f6-83df-a36dd53dd672",
+      "term_count": 154,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Occlusions Intestinales Aiguës": {
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "term_count": 149,
+      "source_files_count": 2,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Hydatidoses Hépatiques & Pulmonaires": {
+      "subject_id": "b8a1dc5f-6226-4b79-864a-7ce86f45f7ad",
+      "term_count": 148,
+      "source_files_count": 1,
+      "categories_covered": [
+        "biologie",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Péritonites Aiguës": {
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "term_count": 60,
+      "source_files_count": 1,
+      "categories_covered": [
+        "symptôme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie",
+        "chirurgie"
+      ]
+    },
+    "Appendicite Aiguë": {
+      "subject_id": "77f84fc1-abaf-4a92-ba2e-52ee1bc14531",
+      "term_count": 46,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pathologie"
+      ]
+    },
+    "Cancers Colorectaux": {
+      "subject_id": "99718615-fb84-4204-94fb-d25d1b33cf8a",
+      "term_count": 129,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Hémorragies Digestives": {
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "term_count": 143,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Épilepsies": {
+      "subject_id": "486c2f04-d7e0-4ba2-b8b7-663634f57a8c",
+      "term_count": 183,
+      "source_files_count": 2,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Splénomégalies": {
+      "subject_id": "272fe529-b3a4-4d17-9c43-c44bcaf8fbc2",
+      "term_count": 26,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pathologie"
+      ]
+    },
+    "Anémies": {
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "term_count": 311,
+      "source_files_count": 1,
+      "categories_covered": [
+        "obstétrique",
+        "imagerie",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "immunologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Adénopathies Superficielles": {
+      "subject_id": "0be29f02-209a-4f3a-8c4c-cb2fae09ba7d",
+      "term_count": 71,
+      "source_files_count": 1,
+      "categories_covered": [
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Transfusion Sanguine": {
+      "subject_id": "6c7cbb98-a28b-40d8-a5f9-7f6fde381c01",
+      "term_count": 68,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "imagerie",
+        "classification",
+        "biochimie",
+        "génétique",
+        "microbiologie",
+        "anatomie",
+        "physiologie",
+        "pathologie"
+      ]
+    },
+    "Purpuras": {
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "term_count": 127,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Syndromes Coronariens Aigus": {
+      "subject_id": "23c142db-8071-434d-8bd2-877ef709cf58",
+      "term_count": 106,
+      "source_files_count": 1,
+      "categories_covered": [
+        "biologie",
+        "acronyme",
+        "classification",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Ischémie Aiguë des Membres": {
+      "subject_id": "cb851055-1b65-4a0d-8cb2-1271eb2074e7",
+      "term_count": 127,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Endocardites Infectieuses": {
+      "subject_id": "532af22c-1dd9-4770-9cd1-105d802814e0",
+      "term_count": 162,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "anatomie",
+        "imagerie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "Hypertension Artérielle": {
+      "subject_id": "3236ac16-2076-4f06-b710-f330699d1af7",
+      "term_count": 165,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "microbiologie",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Maladies Veineuses Thrombo-Emboliques": {
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "term_count": 119,
+      "source_files_count": 1,
+      "categories_covered": [
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "immunologie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Douleurs Thoraciques Aiguës": {
+      "subject_id": "1c9ec5d3-5063-4969-b17a-e65b0c141f28",
+      "term_count": 131,
+      "source_files_count": 1,
+      "categories_covered": [
+        "biologie",
+        "acronyme",
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Intoxications Aiguës": {
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "term_count": 150,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Polytraumatismes": {
+      "subject_id": "8193f532-fffc-4b78-a471-afa156a7c9ef",
+      "term_count": 60,
+      "source_files_count": 1,
+      "categories_covered": [
+        "classification",
+        "physiologie",
+        "imagerie",
+        "pharmacologie",
+        "anatomie",
+        "pathologie"
+      ]
+    },
+    "Traumatisme Crânien": {
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "term_count": 112,
+      "source_files_count": 1,
+      "categories_covered": [
+        "imagerie",
+        "classification",
+        "anatomie",
+        "physiologie",
+        "pharmacologie",
+        "pathologie"
+      ]
+    },
+    "État de Choc Cardiogénique": {
+      "subject_id": "f15e9140-64ec-4642-8ba4-26d8b10ab7f6",
+      "term_count": 3,
+      "source_files_count": 1,
+      "categories_covered": [
+        "pathologie"
+      ]
+    }
+  },
+  "quality_metrics": {
+    "high_confidence_terms": 9756,
+    "terms_with_images": 4866,
+    "terms_with_clinical_notes": 5058
+  },
+  "top_categories": [
+    [
+      "pathologie",
+      {
+        "count": 4549,
+        "avg_confidence": 0.9489668058914046,
+        "with_synonyms": 3219,
+        "with_related_terms": 4519,
+        "with_clinical_significance": 2502
+      }
+    ],
+    [
+      "pharmacologie",
+      {
+        "count": 1343,
+        "avg_confidence": 0.9498883097542815,
+        "with_synonyms": 1002,
+        "with_related_terms": 1342,
+        "with_clinical_significance": 771
+      }
+    ],
+    [
+      "physiologie",
+      {
+        "count": 1145,
+        "avg_confidence": 0.948768558951965,
+        "with_synonyms": 820,
+        "with_related_terms": 1136,
+        "with_clinical_significance": 539
+      }
+    ],
+    [
+      "anatomie",
+      {
+        "count": 1120,
+        "avg_confidence": 0.9496874999999999,
+        "with_synonyms": 766,
+        "with_related_terms": 1105,
+        "with_clinical_significance": 357
+      }
+    ],
+    [
+      "microbiologie",
+      {
+        "count": 656,
+        "avg_confidence": 0.9517835365853659,
+        "with_synonyms": 467,
+        "with_related_terms": 652,
+        "with_clinical_significance": 343
+      }
+    ],
+    [
+      "imagerie",
+      {
+        "count": 466,
+        "avg_confidence": 0.9501287553648069,
+        "with_synonyms": 372,
+        "with_related_terms": 465,
+        "with_clinical_significance": 229
+      }
+    ],
+    [
+      "classification",
+      {
+        "count": 340,
+        "avg_confidence": 0.9501764705882353,
+        "with_synonyms": 226,
+        "with_related_terms": 334,
+        "with_clinical_significance": 198
+      }
+    ],
+    [
+      "acronyme",
+      {
+        "count": 107,
+        "avg_confidence": 0.9537383177570093,
+        "with_synonyms": 48,
+        "with_related_terms": 98,
+        "with_clinical_significance": 57
+      }
+    ],
+    [
+      "immunologie",
+      {
+        "count": 33,
+        "avg_confidence": 0.9484848484848484,
+        "with_synonyms": 24,
+        "with_related_terms": 33,
+        "with_clinical_significance": 15
+      }
+    ],
+    [
+      "chirurgie",
+      {
+        "count": 19,
+        "avg_confidence": 0.9500000000000001,
+        "with_synonyms": 11,
+        "with_related_terms": 19,
+        "with_clinical_significance": 16
+      }
+    ]
+  ],
+  "most_productive_subjects": [
+    [
+      "Diabète Sucré",
+      {
+        "subject_id": "016e98b0-b750-4193-92c9-f9852c530377",
+        "term_count": 362,
+        "source_files_count": 1,
+        "categories_covered": [
+          "acronyme",
+          "classification",
+          "microbiologie",
+          "physiologie",
+          "imagerie",
+          "pharmacologie",
+          "anatomie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Anémies",
+      {
+        "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+        "term_count": 311,
+        "source_files_count": 1,
+        "categories_covered": [
+          "obstétrique",
+          "imagerie",
+          "classification",
+          "microbiologie",
+          "anatomie",
+          "physiologie",
+          "immunologie",
+          "pharmacologie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Infections des Voies Aériennes Supérieures",
+      {
+        "subject_id": "c661f5a9-e023-4429-87a1-e67ed531b41a",
+        "term_count": 282,
+        "source_files_count": 1,
+        "categories_covered": [
+          "acronyme",
+          "classification",
+          "microbiologie",
+          "physiologie",
+          "anatomie",
+          "imagerie",
+          "pharmacologie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Cancers Broncho-Pulmonaires",
+      {
+        "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+        "term_count": 226,
+        "source_files_count": 1,
+        "categories_covered": [
+          "classification",
+          "physiologie",
+          "microbiologie",
+          "anatomie",
+          "imagerie",
+          "pharmacologie",
+          "radiothérapie",
+          "pathologie",
+          "chirurgie"
+        ]
+      }
+    ],
+    [
+      "Tumeur de la Prostate",
+      {
+        "subject_id": "b2f94455-04c8-41e3-a58f-2eef293f85ad",
+        "term_count": 220,
+        "source_files_count": 1,
+        "categories_covered": [
+          "procédure médicale",
+          "acronyme",
+          "classification",
+          "physiologie",
+          "imagerie",
+          "pharmacologie",
+          "anatomie",
+          "pathologie",
+          "chirurgie"
+        ]
+      }
+    ],
+    [
+      "Diarrhées Chroniques",
+      {
+        "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+        "term_count": 217,
+        "source_files_count": 1,
+        "categories_covered": [
+          "acronyme",
+          "classification",
+          "physiologie",
+          "microbiologie",
+          "anatomie",
+          "imagerie",
+          "pharmacologie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Infections Sexuellement Transmissibles",
+      {
+        "subject_id": "94af644e-95d2-4fb0-806f-c318eadd5341",
+        "term_count": 216,
+        "source_files_count": 1,
+        "categories_covered": [
+          "acronyme",
+          "classification",
+          "traitement",
+          "microbiologie",
+          "physiologie",
+          "anatomie",
+          "imagerie",
+          "pharmacologie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Hépatites Virales",
+      {
+        "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+        "term_count": 207,
+        "source_files_count": 2,
+        "categories_covered": [
+          "classification",
+          "microbiologie",
+          "physiologie",
+          "imagerie",
+          "pharmacologie",
+          "anatomie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "États Septiques Graves",
+      {
+        "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+        "term_count": 205,
+        "source_files_count": 1,
+        "categories_covered": [
+          "classification",
+          "microbiologie",
+          "physiologie",
+          "imagerie",
+          "pharmacologie",
+          "anatomie",
+          "pathologie"
+        ]
+      }
+    ],
+    [
+      "Accident Vasculaire Cérébral",
+      {
+        "subject_id": "27ce0bc6-451a-4e28-8b31-413552f18d6e",
+        "term_count": 201,
+        "source_files_count": 2,
+        "categories_covered": [
+          "acronyme",
+          "imagerie",
+          "classification",
+          "anatomie",
+          "physiologie",
+          "pharmacologie",
+          "pathologie"
+        ]
+      }
+    ]
+  ]
+}

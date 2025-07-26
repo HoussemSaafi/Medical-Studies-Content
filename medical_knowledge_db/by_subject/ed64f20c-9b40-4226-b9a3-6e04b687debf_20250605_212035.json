@@ -1,0 +1,1813 @@
+{
+  "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+  "terms": [
+    {
+      "term": "tuberculose post-primaire",
+      "definition": "Forme de tuberculose pulmonaire qui se développe après la primo-infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "tuberculose pulmonaire commune"
+      ],
+      "related_terms": [
+        "primo-infection"
+      ],
+      "description": "La tuberculose post-primaire est caractérisée par des manifestations pulmonaires en dehors de la primo-infection.",
+      "expansion": null,
+      "clinical_significance": "Forme la plus courante de la tuberculose pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ziehl-Neelsen",
+      "definition": "Méthode de coloration utilisée pour identifier les mycobactéries acido-alcoolo-résistantes.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "fuschine",
+        "auramine"
+      ],
+      "description": "La méthode de Ziehl-Neelsen utilise la fuschine pour colorer les mycobactéries, qui résistent à la décoloration par l'acide et l'alcool.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour le diagnostic de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acido-alcoolo-résistantes",
+      "definition": "Propriété des mycobactéries de résister à la décoloration par l'acide et l'alcool après coloration.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AAR"
+      ],
+      "related_terms": [
+        "Ziehl-Neelsen",
+        "fuschine",
+        "auramine"
+      ],
+      "description": "Les mycobactéries sont capables de conserver la coloration par certaines molécules en présence d'agents solubilisants.",
+      "expansion": null,
+      "clinical_significance": "Caractéristique importante pour l'identification des mycobactéries.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chimioprophylaxie",
+      "definition": "Utilisation de médicaments pour prévenir l'infection ou la maladie chez des personnes exposées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose pulmonaire"
+      ],
+      "description": "La chimioprophylaxie est une mesure préventive utilisée pour réduire le risque de développer la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la prévention de la tuberculose chez les groupes à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose extra-pulmonaire",
+      "definition": "Forme de tuberculose qui affecte des organes autres que les poumons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose pulmonaire",
+        "tuberculose ganglionnaire"
+      ],
+      "description": "La tuberculose extra-pulmonaire peut affecter divers organes comme les ganglions lymphatiques, les os, ou le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Forme de tuberculose qui peut être plus difficile à diagnostiquer.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose ganglionnaire",
+      "definition": "Forme de tuberculose extra-pulmonaire qui affecte les ganglions lymphatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose extra-pulmonaire"
+      ],
+      "description": "La tuberculose ganglionnaire est une forme de tuberculose qui se manifeste par une inflammation des ganglions lymphatiques.",
+      "expansion": null,
+      "clinical_significance": "Forme de tuberculose qui peut nécessiter une biopsie pour le diagnostic.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose pédiatrique",
+      "definition": "Forme de tuberculose qui affecte les enfants.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose pulmonaire",
+        "tuberculose extra-pulmonaire"
+      ],
+      "description": "La tuberculose pédiatrique peut être plus difficile à diagnostiquer en raison des symptômes non spécifiques chez les enfants.",
+      "expansion": null,
+      "clinical_significance": "Importante à considérer dans la prise en charge des enfants exposés à la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-TNF",
+      "definition": "Médicaments qui inhibent le facteur de nécrose tumorale (TNF), utilisés dans le traitement de certaines maladies inflammatoires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "corticostéroïdes",
+        "chimiothérapie",
+        "radiothérapie"
+      ],
+      "description": "Les anti-TNF sont utilisés pour traiter des maladies comme la polyarthrite rhumatoïde et la maladie de Crohn, mais peuvent augmenter le risque d'infections.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des maladies inflammatoires, mais avec des risques d'infections opportunistes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "silicotiques",
+      "definition": "Personnes atteintes de silicose, une maladie pulmonaire causée par l'inhalation de poussières de silice.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrose pulmonaire"
+      ],
+      "description": "Les silicotiques sont à risque accru de développer la tuberculose en raison de l'affaiblissement des poumons.",
+      "expansion": null,
+      "clinical_significance": "Groupe à risque pour la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arabino galactane",
+      "definition": "Un polysaccharide composé d'arabinose et de galactose, présent dans la paroi cellulaire des mycobactéries.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acides mycoliques"
+      ],
+      "description": "Contribue à la résistance des mycobactéries aux acides et à l'alcool.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acides mycoliques",
+      "definition": "Acides gras à très longues chaînes présents dans la paroi cellulaire des mycobactéries.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "arabino galactane"
+      ],
+      "description": "Responsables de l'acido-alcoolo-résistance des mycobactéries.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Löwenstein-Jensen",
+      "definition": "Milieu de culture solide utilisé pour l'isolement des mycobactéries, notamment Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "milieu d'isolement"
+      ],
+      "description": "Contient de l'œuf coagulé et des nutriments spécifiques pour la croissance des mycobactéries.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mycobacterium bovis",
+      "definition": "Espèce de mycobactérie responsable de la tuberculose bovine.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis"
+      ],
+      "description": "Peut être transmis à l'homme par l'ingestion de lait ou de produits laitiers non pasteurisés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macrophages alvéolaires",
+      "definition": "Cellules immunitaires présentes dans les alvéoles pulmonaires, responsables de la phagocytose des particules étrangères.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "phagocytose"
+      ],
+      "description": "Jouent un rôle crucial dans la défense contre les infections pulmonaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chancre primaire",
+      "definition": "Lésion initiale de la tuberculose pulmonaire, résultant de l'inhalation de bacilles de Koch.",
+      "category": "pathologie",
+      "synonyms": [
+        "chancre d'inoculation"
+      ],
+      "related_terms": [
+        "primo-infection tuberculeuse"
+      ],
+      "description": "Forme une lésion exsudative inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomes épithélio-giganto-cellulaires",
+      "definition": "Structures inflammatoires caractéristiques de la tuberculose, composées de cellules épithélioïdes et de cellules géantes.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulomes tuberculoïdes"
+      ],
+      "related_terms": [
+        "nécrose caséeuse"
+      ],
+      "description": "Formés en réponse à l'infection par Mycobacterium tuberculosis.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypersensibilité retardée de type IV",
+      "definition": "Réaction immunitaire retardée médiée par les lymphocytes T, caractéristique de la réponse à l'infection par Mycobacterium tuberculosis.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réaction d'hypersensibilité"
+      ],
+      "description": "Se développe après un délai moyen de 2 semaines à 2 mois.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "primo-infection tuberculeuse",
+      "definition": "Première infection par Mycobacterium tuberculosis, souvent asymptomatique et évoluant vers la guérison spontanée.",
+      "category": "pathologie",
+      "synonyms": [
+        "infection tuberculeuse latente"
+      ],
+      "related_terms": [
+        "chancre primaire"
+      ],
+      "description": "Peut évoluer vers la tuberculose maladie après une période de latence.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules géantes multi-nucléées type Langhans",
+      "definition": "Cellules géantes formées par la fusion de macrophages, caractéristiques des granulomes tuberculeux.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules de Langhans"
+      ],
+      "related_terms": [
+        "granulomes épithélio-giganto-cellulaires"
+      ],
+      "description": "Présentes dans les granulomes tuberculoïdes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "histiocytes épithéloïdes",
+      "definition": "Macrophages activés présents dans les granulomes tuberculeux, ayant une apparence épithélioïde.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "granulomes épithélio-giganto-cellulaires"
+      ],
+      "description": "Formés en réponse à l'infection par Mycobacterium tuberculosis.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloration de Ziehl-Neelsen",
+      "definition": "Technique de coloration utilisée pour détecter les mycobactéries, notamment Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "BK"
+      ],
+      "description": "Permet de visualiser les bacilles acido-alcoolo-résistants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "altération de l'état général (AEG)",
+      "definition": "Dégradation progressive de l'état de santé général, souvent caractérisée par une fatigue physique et psychique.",
+      "category": "pathologie",
+      "synonyms": [
+        "détérioration de l'état général"
+      ],
+      "related_terms": [
+        "asthénie"
+      ],
+      "description": "L'AEG est un signe clinique important qui peut indiquer une maladie sous-jacente, comme la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Peut être un indicateur précoce de maladies graves nécessitant une investigation approfondie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémoptysies",
+      "definition": "Expectoration de sang provenant des voies respiratoires, souvent associée à des maladies pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "crachats sanglants"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "bronchite"
+      ],
+      "description": "Les hémoptysies peuvent être un signe alarmant nécessitant une évaluation médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire grave, comme la tuberculose ou un cancer du poumon.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculinique",
+      "definition": "Relatif à la tuberculine, une substance utilisée pour le test cutané de dépistage de la tuberculose.",
+      "category": "microbiologie",
+      "synonyms": [
+        "tuberculine"
+      ],
+      "related_terms": [
+        "test de Mantoux"
+      ],
+      "description": "Le test tuberculinique est utilisé pour détecter une infection par Mycobacterium tuberculosis.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le dépistage de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PIT",
+      "definition": "Pneumopathie interstitielle diffuse, une maladie pulmonaire caractérisée par une inflammation et une fibrose des tissus interstitiels.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumopathie interstitielle"
+      ],
+      "related_terms": [
+        "fibrose pulmonaire"
+      ],
+      "description": "La PIT peut être causée par diverses conditions, y compris des infections et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance respiratoire progressive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TPC",
+      "definition": "Tuberculose pulmonaire commune, une forme courante de tuberculose affectant les poumons.",
+      "category": "pathologie",
+      "synonyms": [
+        "tuberculose pulmonaire"
+      ],
+      "related_terms": [
+        "Mycobacterium tuberculosis"
+      ],
+      "description": "La TPC est une maladie infectieuse qui affecte principalement les poumons.",
+      "expansion": null,
+      "clinical_significance": "Maladie grave nécessitant un traitement antibiotique prolongé.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "éthylisme",
+      "definition": "Consommation excessive d'alcool, souvent associée à des problèmes de santé et sociaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "alcoolisme"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "dépendance à l'alcool"
+      ],
+      "description": "L'éthylisme peut entraîner divers problèmes de santé, y compris des maladies du foie et des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Facteur de risque pour de nombreuses maladies chroniques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de condensation",
+      "definition": "Accumulation de liquide ou de tissu dans les poumons, souvent visible sur les radiographies thoraciques.",
+      "category": "pathologie",
+      "synonyms": [
+        "condensation pulmonaire"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "œdème pulmonaire"
+      ],
+      "description": "Le syndrome de condensation peut être causé par diverses conditions, y compris des infections et des maladies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire grave nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome cavitaire",
+      "definition": "Présence de cavités dans les poumons, souvent associée à des infections pulmonaires chroniques.",
+      "category": "pathologie",
+      "synonyms": [
+        "cavitation pulmonaire"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "abcès pulmonaire"
+      ],
+      "description": "Le syndrome cavitaire peut être causé par diverses conditions, y compris des infections et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire grave nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome pleural liquidien",
+      "definition": "Accumulation de liquide dans l'espace pleural, souvent associée à une inflammation ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "épanchement pleural"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "tuberculose"
+      ],
+      "description": "Le syndrome pleural liquidien peut être causé par diverses conditions, y compris des infections et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une douleur thoracique et une dyspnée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome pleural gazeux",
+      "definition": "Accumulation de gaz dans l'espace pleural, souvent associée à un pneumothorax.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumothorax"
+      ],
+      "related_terms": [
+        "traumatisme thoracique",
+        "maladie pulmonaire obstructive"
+      ],
+      "description": "Le syndrome pleural gazeux peut être causé par diverses conditions, y compris des traumatismes et des maladies pulmonaires.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une douleur thoracique et une dyspnée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies périphériques",
+      "definition": "Gonflement des ganglions lymphatiques périphériques, souvent associé à des infections ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "ganglions lymphatiques enflés"
+      ],
+      "related_terms": [
+        "lymphadénopathie",
+        "infection"
+      ],
+      "description": "Les adénopathies périphériques peuvent être causées par diverses conditions, y compris des infections et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie sous-jacente nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiographie thoracique (F+P)",
+      "definition": "Examen d'imagerie utilisant des rayons X pour visualiser les structures thoraciques, y compris les poumons et le cœur.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie pulmonaire"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "IRM"
+      ],
+      "description": "La radiographie thoracique est utilisée pour diagnostiquer diverses conditions pulmonaires et cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Outil de diagnostic important pour les maladies pulmonaires et cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nodules",
+      "definition": "Petites masses ou opacités dans les poumons, souvent visibles sur les radiographies thoraciques.",
+      "category": "pathologie",
+      "synonyms": [
+        "opacités pulmonaires"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "cancer du poumon"
+      ],
+      "description": "Les nodules peuvent être causés par diverses conditions, y compris des infections et des tumeurs.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infiltrats",
+      "definition": "Plages d'opacités dans les poumons, souvent visibles sur les radiographies thoraciques, indiquant une inflammation ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "opacités pulmonaires"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "tuberculose"
+      ],
+      "description": "Les infiltrats peuvent être causés par diverses conditions, y compris des infections et des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cavernes",
+      "definition": "Cavités dans les poumons, souvent associées à des infections pulmonaires chroniques.",
+      "category": "pathologie",
+      "synonyms": [
+        "cavités pulmonaires"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "abcès pulmonaire"
+      ],
+      "description": "Les cavernes peuvent être causées par diverses conditions, y compris des infections et des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire grave nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "segments du Fowler",
+      "definition": "Segments supérieurs des lobes inférieurs des poumons, souvent affectés par la tuberculose.",
+      "category": "anatomie",
+      "synonyms": [
+        "segments apicaux postérieurs"
+      ],
+      "related_terms": [
+        "lobes pulmonaires",
+        "tuberculose"
+      ],
+      "description": "Les segments du Fowler sont des zones spécifiques des poumons souvent affectées par la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tomodensitométrie thoracique",
+      "definition": "Examen d'imagerie utilisant des rayons X pour produire des images en coupe transversale des structures thoraciques.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner thoracique"
+      ],
+      "related_terms": [
+        "radiographie thoracique",
+        "IRM"
+      ],
+      "description": "La tomodensitométrie thoracique est utilisée pour diagnostiquer diverses conditions pulmonaires et cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Outil de diagnostic important pour les maladies pulmonaires et cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "verre dépoli",
+      "definition": "Opacité pulmonaire sur les images de tomodensitométrie, indiquant une inflammation ou une infection.",
+      "category": "imagerie",
+      "synonyms": [
+        "opacité en verre dépoli"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "tuberculose"
+      ],
+      "description": "Le verre dépoli peut être causé par diverses conditions, y compris des infections et des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arbre en bourgeon",
+      "definition": "Signe radiologique indiquant une bronchiolite, souvent visible sur les images de tomodensitométrie.",
+      "category": "imagerie",
+      "synonyms": [
+        "signe de bronchiolite cellulaire"
+      ],
+      "related_terms": [
+        "bronchiolite",
+        "tuberculose"
+      ],
+      "description": "L'arbre en bourgeon peut être causé par diverses conditions, y compris des infections et des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nodules centrolobulaires",
+      "definition": "Petites opacités situées au centre des lobules pulmonaires, souvent visibles sur les images de tomodensitométrie.",
+      "category": "imagerie",
+      "synonyms": [
+        "opacités centrolobulaires"
+      ],
+      "related_terms": [
+        "bronchiolite",
+        "tuberculose"
+      ],
+      "description": "Les nodules centrolobulaires peuvent être causés par diverses conditions, y compris des infections et des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "condensations alvéolaires",
+      "definition": "Accumulation de liquide ou de tissu dans les alvéoles pulmonaires, souvent visible sur les images de tomodensitométrie.",
+      "category": "imagerie",
+      "synonyms": [
+        "opacités alvéolaires"
+      ],
+      "related_terms": [
+        "pneumonie",
+        "œdème pulmonaire"
+      ],
+      "description": "Les condensations alvéolaires peuvent être causées par diverses conditions, y compris des infections et des maladies cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une maladie pulmonaire grave nécessitant une évaluation médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pluri-microbiens",
+      "definition": "Prélèvements contenant plusieurs types de micro-organismes, nécessitant une décontamination avant analyse.",
+      "category": "microbiologie",
+      "synonyms": [
+        "polymicrobiens"
+      ],
+      "related_terms": [
+        "prélèvements respiratoires",
+        "décontamination"
+      ],
+      "description": "Les prélèvements pluri-microbiens nécessitent une décontamination pour isoler les bactéries pathogènes.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la tuberculose et d'autres infections respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bacilles",
+      "definition": "Bactéries en forme de bâtonnet, souvent responsables de diverses infections.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries en forme de bâtonnet"
+      ],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "tuberculose"
+      ],
+      "description": "Les bacilles peuvent causer diverses infections, y compris la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de la tuberculose et d'autres infections bactériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antituberculeux",
+      "definition": "Traitement spécifique contre la tuberculose, utilisant des antibiotiques pour éliminer Mycobacterium tuberculosis.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "traitement antituberculeux"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "Mycobacterium tuberculosis"
+      ],
+      "description": "Le traitement antituberculeux est essentiel pour éradiquer la tuberculose et prévenir sa transmission.",
+      "expansion": null,
+      "clinical_significance": "Traitement prolongé nécessaire pour éliminer la bactérie et prévenir la résistance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroscope",
+      "definition": "Instrument endoscopique flexible utilisé pour visualiser et prélever des échantillons dans les voies respiratoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "bronchoscope"
+      ],
+      "related_terms": [
+        "fibroscopie bronchique",
+        "tuberculose"
+      ],
+      "description": "Le fibroscope est utilisé pour diagnostiquer diverses maladies pulmonaires, y compris la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Outil de diagnostic important pour les maladies pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "liquide de ponction pleurale",
+      "definition": "Liquide prélevé de l'espace pleural pour analyse, souvent utilisé pour diagnostiquer des infections ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "épanchement pleural"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "tuberculose"
+      ],
+      "description": "Le liquide de ponction pleurale est utilisé pour diagnostiquer diverses conditions, y compris la tuberculose et le cancer.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de maladies pleurales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biopsie pleurale",
+      "definition": "Prélèvement de tissu de la plèvre pour analyse, souvent utilisé pour diagnostiquer des infections ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie de la plèvre"
+      ],
+      "related_terms": [
+        "pleurésie",
+        "tuberculose"
+      ],
+      "description": "La biopsie pleurale est utilisée pour diagnostiquer diverses conditions, y compris la tuberculose et le cancer.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de maladies pleurales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biopsie bronchique",
+      "definition": "Prélèvement de tissu des voies respiratoires pour analyse, souvent utilisé pour diagnostiquer des infections ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie des bronches"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "fibroscopie bronchique"
+      ],
+      "description": "La biopsie bronchique est utilisée pour diagnostiquer diverses conditions, y compris la tuberculose et le cancer.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de maladies pulmonaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biopsie péritonéale",
+      "definition": "Prélèvement de tissu du péritoine pour analyse, souvent utilisé pour diagnostiquer des infections ou des maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie du péritoine"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "péritonite"
+      ],
+      "description": "La biopsie péritonéale est utilisée pour diagnostiquer diverses conditions, y compris la tuberculose et le cancer.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de maladies péritonéales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acido-alcoolorésistant",
+      "definition": "Propriété des mycobactéries de résister à la décoloration par des solutions acides et alcooliques après coloration.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "mycobactéries",
+        "BAAR"
+      ],
+      "description": "Cette propriété est utilisée pour identifier les mycobactéries, y compris celles responsables de la tuberculose.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "mycobactéries",
+        "coloration de Ziehl-Neelsen"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mycobactéries",
+      "definition": "Genre de bactéries appartenant à la famille des Mycobacteriaceae, incluant des espèces pathogènes comme Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "BAAR"
+      ],
+      "description": "Les mycobactéries sont responsables de diverses infections, dont la tuberculose.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic et le traitement des infections mycobactériennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "mycobactéries",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "auramine",
+      "definition": "Colorant fluorescent utilisé pour la détection des mycobactéries.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "mycobactéries",
+        "coloration de Ziehl-Neelsen"
+      ],
+      "description": "Utilisé pour la détection rapide des mycobactéries dans les échantillons cliniques.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "auramine",
+        "mycobactéries"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose pulmonaire",
+      "definition": "Infection pulmonaire causée par Mycobacterium tuberculosis, caractérisée par des lésions granulomateuses et une inflammation chronique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "tuberculose"
+      ],
+      "description": "La forme la plus courante de tuberculose, affectant principalement les poumons.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic et le traitement de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "tuberculose pulmonaire",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BAAR",
+      "definition": "Bacilles acido-alcoolorésistants, terme utilisé pour décrire les mycobactéries résistantes à la décoloration par des solutions acides et alcooliques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "mycobactéries",
+        "bacilles de Koch"
+      ],
+      "description": "Utilisé pour identifier les mycobactéries, y compris celles responsables de la tuberculose.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "BAAR",
+        "mycobactéries"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bacilles de Koch",
+      "definition": "Nom historique donné à Mycobacterium tuberculosis, en l'honneur de Robert Koch qui a découvert la bactérie.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Mycobacterium tuberculosis"
+      ],
+      "related_terms": [
+        "BAAR",
+        "tuberculose"
+      ],
+      "description": "Agent causal de la tuberculose.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic et le traitement de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bacilles de Koch",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IS6110",
+      "definition": "Séquence d'insertion spécifique présente dans le génome de Mycobacterium tuberculosis, utilisée pour la détection par PCR.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PCR",
+        "Mycobacterium tuberculosis"
+      ],
+      "description": "Utilisée pour la détection spécifique de Mycobacterium tuberculosis.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "IS6110",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "eugoniques",
+      "definition": "Caractéristique des colonies de Mycobacterium tuberculosis sur milieu solide, décrivant leur aspect verruqueux et rugueux.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "culture"
+      ],
+      "description": "Utilisé pour l'identification des colonies de Mycobacterium tuberculosis en culture.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic microbiologique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "eugoniques",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "niacine",
+      "definition": "Acide nicotinique, test biochimique utilisé pour l'identification de Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [
+        "acide nicotinique"
+      ],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "nitrate réductases",
+        "catalase"
+      ],
+      "description": "Utilisé pour différencier Mycobacterium tuberculosis des autres mycobactéries.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "niacine",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nitrate réductases",
+      "definition": "Enzyme capable de réduire les nitrates en nitrites, utilisée pour l'identification de Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "niacine",
+        "catalase"
+      ],
+      "description": "Utilisé pour différencier Mycobacterium tuberculosis des autres mycobactéries.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "nitrate réductases",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "catalase",
+      "definition": "Enzyme qui catalyse la décomposition du peroxyde d'hydrogène en eau et oxygène, utilisée pour l'identification de Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "niacine",
+        "nitrate réductases"
+      ],
+      "description": "Utilisé pour différencier Mycobacterium tuberculosis des autres mycobactéries.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "catalase",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "QuantiFERON-TB Gold In-Tube",
+      "definition": "Test de détection de l'interféron gamma utilisé pour le diagnostic de l'infection tuberculeuse latente.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "T-SPOT.TB assay",
+        "interféron gamma"
+      ],
+      "description": "Utilisé pour détecter l'infection tuberculeuse latente en mesurant la réponse immunitaire.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de l'infection tuberculeuse latente.",
+      "normal_values": "",
+      "image_search_terms": [
+        "QuantiFERON-TB Gold In-Tube",
+        "interféron gamma"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T-SPOT.TB assay",
+      "definition": "Test de détection de l'interféron gamma utilisé pour le diagnostic de l'infection tuberculeuse latente.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "QuantiFERON-TB Gold In-Tube",
+        "interféron gamma"
+      ],
+      "description": "Utilisé pour détecter l'infection tuberculeuse latente en mesurant la réponse immunitaire.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de l'infection tuberculeuse latente.",
+      "normal_values": "",
+      "image_search_terms": [
+        "T-SPOT.TB assay",
+        "interféron gamma"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IDR",
+      "definition": "Intradermoréaction, test cutané utilisé pour évaluer la réponse immunitaire à la tuberculine.",
+      "category": "imagerie",
+      "synonyms": [
+        "Intradermoréaction"
+      ],
+      "related_terms": [
+        "tuberculine",
+        "tuberculose"
+      ],
+      "description": "Utilisé pour détecter l'infection tuberculeuse latente.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de l'infection tuberculeuse latente.",
+      "normal_values": "",
+      "image_search_terms": [
+        "IDR",
+        "Intradermoréaction"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RBK",
+      "definition": "Recherche de Bacilles de Koch, terme utilisé pour décrire la recherche de Mycobacterium tuberculosis dans les échantillons cliniques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "tuberculose"
+      ],
+      "description": "Utilisé pour le diagnostic de la tuberculose.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic de la tuberculose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "RBK",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénopathies médiastinales",
+      "definition": "Gonflement des ganglions lymphatiques situés dans le médiastin, la région centrale de la poitrine.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphadénopathie médiastinale"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "médiastin"
+      ],
+      "description": "Les adénopathies médiastinales peuvent être causées par des infections, des cancers ou des maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Elles peuvent indiquer une pathologie sous-jacente grave nécessitant une investigation approfondie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adénopathies médiastinales",
+        "ganglions lymphatiques"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Quantiféron",
+      "definition": "Test sanguin utilisé pour détecter la présence d'une réponse immunitaire à Mycobacterium tuberculosis, indiquant une infection tuberculeuse latente ou active.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Quantiféron"
+      ],
+      "related_terms": [
+        "Mycobacterium tuberculosis",
+        "tuberculose"
+      ],
+      "description": "Le Quantiféron est plus spécifique que l'IDR et est utilisé pour le dépistage de la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Un résultat positif du Quantiféron indique une infection tuberculeuse et peut nécessiter un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Quantiféron",
+        "Mycobacterium tuberculosis"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PNLT",
+      "definition": "Programme National de Lutte contre la Tuberculose, un programme de santé publique visant à contrôler et éliminer la tuberculose.",
+      "category": "classification",
+      "synonyms": [
+        "Programme National de Lutte contre la Tuberculose"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "santé publique"
+      ],
+      "description": "Le PNLT met en œuvre des stratégies de dépistage, de traitement et de prévention de la tuberculose.",
+      "expansion": null,
+      "clinical_significance": "Il joue un rôle crucial dans la réduction de la morbidité et de la mortalité liées à la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PNLT",
+        "tuberculose"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "isoniazide",
+      "definition": "Antibiotique utilisé principalement pour le traitement de la tuberculose.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "isoniazide"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "antibiotique"
+      ],
+      "description": "L'isoniazide est un bactéricide qui agit sur les bacilles de Koch intra et extra-cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Elle est un composant essentiel des régimes de traitement de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "isoniazide",
+        "tuberculose"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rifampicine",
+      "definition": "Antibiotique puissant utilisé pour traiter la tuberculose et d'autres infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "rifampicine"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "antibiotique"
+      ],
+      "description": "La rifampicine est un bactéricide qui agit sur les bacilles de Koch intra et extra-cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Elle est un composant essentiel des régimes de traitement de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rifampicine",
+        "tuberculose"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyrazinamide",
+      "definition": "Antibiotique utilisé dans le traitement de la tuberculose, agissant principalement sur les bacilles de Koch intra-cellulaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pyrazinamide"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "antibiotique"
+      ],
+      "description": "Le pyrazinamide est un bactéricide qui agit dans un environnement acide intra-cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Il est utilisé en combinaison avec d'autres antibiotiques pour traiter la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pyrazinamide",
+        "tuberculose"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "éthambutol",
+      "definition": "Antibiotique utilisé dans le traitement de la tuberculose, agissant sur les bacilles de Koch intra et extra-cellulaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "éthambutol"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "antibiotique"
+      ],
+      "description": "L'éthambutol est un bactériostatique qui inhibe la synthèse de la paroi cellulaire des bacilles de Koch.",
+      "expansion": null,
+      "clinical_significance": "Il est utilisé en combinaison avec d'autres antibiotiques pour traiter la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "éthambutol",
+        "tuberculose"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C.M.I.",
+      "definition": "Concentration Minimale Inhibitrice, la plus faible concentration d'un antibiotique nécessaire pour inhiber la croissance visible d'une bactérie après incubation pendant une nuit.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "CMI"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "résistance bactérienne"
+      ],
+      "description": "La C.M.I. est utilisée pour déterminer la sensibilité des bactéries aux antibiotiques.",
+      "expansion": null,
+      "clinical_significance": "Elle aide à guider le choix des antibiotiques pour le traitement des infections bactériennes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "C.M.I.",
+        "antibiotique"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HRZE",
+      "definition": "Combinaison de médicaments antituberculeux incluant Isoniazide, Rifampicine, Pyrazinamide et Éthambutol.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Isoniazide",
+        "Rifampicine",
+        "Pyrazinamide",
+        "Éthambutol"
+      ],
+      "description": "Utilisée dans la phase initiale du traitement de la tuberculose pour une efficacité maximale.",
+      "expansion": "Isoniazide + Rifampicine + Pyrazinamide + Éthambutol",
+      "clinical_significance": "Combinaison standard pour le traitement initial de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HRZE",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HR",
+      "definition": "Combinaison de médicaments antituberculeux incluant Isoniazide et Rifampicine.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Isoniazide",
+        "Rifampicine"
+      ],
+      "description": "Utilisée dans la phase de continuation du traitement de la tuberculose.",
+      "expansion": "Isoniazide + Rifampicine",
+      "clinical_significance": "Combinaison standard pour la phase de continuation du traitement de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HR",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DOT",
+      "definition": "Traitement directement observé, une stratégie pour assurer l'observance du traitement antituberculeux.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "Tuberculosis treatment",
+        "Observance"
+      ],
+      "description": "Méthode où la prise des médicaments est supervisée par un professionnel de santé pour garantir l'adhérence au traitement.",
+      "expansion": "Directly Observed Treatment",
+      "clinical_significance": "Important pour prévenir la résistance aux médicaments et assurer l'efficacité du traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "DOT",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SGOT",
+      "definition": "Enzyme hépatique dont l'élévation peut indiquer une atteinte hépatique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AST",
+        "Aspartate Aminotransferase"
+      ],
+      "related_terms": [
+        "SGPT",
+        "ALT"
+      ],
+      "description": "Utilisé pour surveiller la fonction hépatique pendant le traitement antituberculeux.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de la toxicité hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SGOT",
+        "Liver function test"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SGPT",
+      "definition": "Enzyme hépatique dont l'élévation peut indiquer une atteinte hépatique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ALT",
+        "Alanine Aminotransferase"
+      ],
+      "related_terms": [
+        "SGOT",
+        "AST"
+      ],
+      "description": "Utilisé pour surveiller la fonction hépatique pendant le traitement antituberculeux.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de la toxicité hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SGPT",
+        "Liver function test"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "kinésithérapie pleurale",
+      "definition": "Technique de rééducation respiratoire utilisée pour améliorer la fonction pulmonaire et évacuer les sécrétions.",
+      "category": "physiologie",
+      "synonyms": [
+        "Pleural physiotherapy"
+      ],
+      "related_terms": [
+        "Physiotherapy",
+        "Respiratory therapy"
+      ],
+      "description": "Utilisée dans le traitement de la tuberculose pleurale pour améliorer la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la récupération fonctionnelle des patients atteints de tuberculose pleurale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Pleural physiotherapy",
+        "Tuberculosis treatment"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose pulmonaire étendue ou cavitaire",
+      "definition": "Forme de tuberculose caractérisée par des lésions étendues ou des cavités dans les poumons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose pulmonaire non compliquée"
+      ],
+      "description": "Cette forme de tuberculose nécessite un traitement intensif et prolongé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HRZ+E",
+      "definition": "Combinaison de médicaments antituberculeux incluant isoniazide (H), rifampicine (R), pyrazinamide (Z) et éthambutol (E).",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "HRZ",
+        "HR"
+      ],
+      "description": "Utilisée dans le traitement initial de la tuberculose pulmonaire étendue ou cavitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose pulmonaire non compliquée",
+      "definition": "Forme de tuberculose pulmonaire sans complications majeures.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose pulmonaire étendue ou cavitaire"
+      ],
+      "description": "Cette forme de tuberculose nécessite un traitement moins intensif que les formes compliquées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatopathie chronique",
+      "definition": "Maladie chronique du foie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pyrazinamide",
+        "isoniazide"
+      ],
+      "description": "Les patients atteints d'hépatopathie chronique nécessitent un ajustement des doses d'antituberculeux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "test Xpert MTB/RIF",
+      "definition": "Test moléculaire rapide pour détecter la tuberculose et la résistance à la rifampicine.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiogramme",
+        "multi-résistance"
+      ],
+      "description": "Le test Xpert MTB/RIF est utilisé pour détecter la résistance à la rifampicine, indicateur de multi-résistance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "multi-résistance",
+      "definition": "Résistance de la bactérie de la tuberculose à plusieurs médicaments antituberculeux.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "test Xpert MTB/RIF",
+        "antibiogramme"
+      ],
+      "description": "La multi-résistance complique le traitement de la tuberculose et nécessite l'utilisation de médicaments de seconde ligne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose multi-résistante",
+      "definition": "Forme de tuberculose résistante à plusieurs médicaments antituberculeux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "test Xpert MTB/RIF",
+        "antibiogramme"
+      ],
+      "description": "La tuberculose multi-résistante nécessite un traitement prolongé et plus toxique avec des médicaments de seconde ligne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "seconde ligne",
+      "definition": "Médicaments utilisés pour traiter la tuberculose multi-résistante.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antituberculeux",
+        "tuberculose multi-résistante"
+      ],
+      "description": "Les médicaments de seconde ligne sont plus toxiques et moins efficaces que ceux de première ligne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lupus vulgaris",
+      "definition": "Forme chronique de tuberculose cutanée caractérisée par des lésions nodulaires et ulcératives.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose cutanée",
+        "lésions nodulaires"
+      ],
+      "description": "Le lupus vulgaris est une manifestation cutanée de la tuberculose, souvent résultant d'une infection directe ou d'une dissémination hématogène.",
+      "expansion": "",
+      "clinical_significance": "Nécessite un traitement antituberculeux.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "lupus vulgaris",
+        "tuberculose cutanée"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculine",
+      "definition": "Extrait protéique purifié de Mycobacterium tuberculosis utilisé pour le test cutané de dépistage de la tuberculose.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "test tuberculinique",
+        "intradermoréaction"
+      ],
+      "description": "La tuberculine est utilisée pour détecter une réaction immunitaire à Mycobacterium tuberculosis, indiquant une infection présente ou passée.",
+      "expansion": "",
+      "clinical_significance": "Utilisé pour le dépistage de la tuberculose latente.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "tuberculine",
+        "test tuberculinique"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-tuberculosis",
+      "definition": "Médicaments utilisés pour traiter la tuberculose.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antituberculeux"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "isoniazide",
+        "rifampicine"
+      ],
+      "description": "Les médicaments anti-tuberculosis sont utilisés pour éradiquer l'infection par Mycobacterium tuberculosis et prévenir la transmission de la maladie.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une adhérence stricte au traitement pour être efficace.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anti-tuberculosis",
+        "antituberculeux"
+      ],
+      "subject_id": "ed64f20c-9b40-4226-b9a3-6e04b687debf",
+      "source_file": "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pneumologie/Tuberculose Pulmonaire Commune/Courses/72 Tuberculose pulmonaire commune 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md"
+  ],
+  "total_terms": 90
+}

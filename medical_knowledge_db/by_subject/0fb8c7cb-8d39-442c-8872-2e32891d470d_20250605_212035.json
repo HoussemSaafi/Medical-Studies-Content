@@ -1,0 +1,2403 @@
+{
+  "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+  "terms": [
+    {
+      "term": "boite crânienne",
+      "definition": "Structure osseuse qui protège l'encéphale et sert de cavité de résonance pour le chant et la voix, ainsi que de cavité de thermorégulation.",
+      "category": "anatomie",
+      "synonyms": [
+        "crâne",
+        "neurocrâne"
+      ],
+      "related_terms": [
+        "rachis cervical",
+        "vertèbre C1",
+        "calvaria"
+      ],
+      "description": "La boîte crânienne est composée de la voûte (calvaria) et de la base du crâne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression intra crânienne",
+      "definition": "Pression exercée à l'intérieur de la boîte crânienne par le cerveau, le liquide céphalo-rachidien et le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "PIC"
+      ],
+      "related_terms": [
+        "pression de perfusion cérébrale"
+      ],
+      "description": "La régulation de la pression intra crânienne est cruciale pour le bon fonctionnement du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rachis cervical",
+      "definition": "Partie de la colonne vertébrale située dans la région du cou, composée de sept vertèbres cervicales.",
+      "category": "anatomie",
+      "synonyms": [
+        "colonne cervicale"
+      ],
+      "related_terms": [
+        "vertèbre C1",
+        "atlas"
+      ],
+      "description": "Le rachis cervical supporte la tête et permet la mobilité du cou.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vertèbre C1",
+      "definition": "Première vertèbre cervicale, également appelée atlas, qui supporte la boîte crânienne.",
+      "category": "anatomie",
+      "synonyms": [
+        "atlas"
+      ],
+      "related_terms": [
+        "rachis cervical"
+      ],
+      "description": "La vertèbre C1 permet la rotation de la tête.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calvaria",
+      "definition": "Partie supérieure de la boîte crânienne, formée d'os plats soudés par des sutures.",
+      "category": "anatomie",
+      "synonyms": [
+        "voûte crânienne"
+      ],
+      "related_terms": [
+        "boite crânienne",
+        "bregma",
+        "lambda"
+      ],
+      "description": "La calvaria protège le cerveau et permet la croissance de la boîte crânienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bregma",
+      "definition": "Fontanelle antérieure située à la jonction des os frontal et pariétaux chez le nouveau-né.",
+      "category": "anatomie",
+      "synonyms": [
+        "fontanelle antérieure"
+      ],
+      "related_terms": [
+        "calvaria",
+        "lambda"
+      ],
+      "description": "Le bregma permet la croissance de la boîte crânienne chez le nouveau-né.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lambda",
+      "definition": "Fontanelle postérieure située à la jonction des os pariétaux et occipital chez le nouveau-né.",
+      "category": "anatomie",
+      "synonyms": [
+        "fontanelle postérieure"
+      ],
+      "related_terms": [
+        "calvaria",
+        "bregma"
+      ],
+      "description": "Le lambda permet la croissance de la boîte crânienne chez le nouveau-né.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ier nerf crânien",
+      "definition": "Nerf olfactif, responsable de la perception des odeurs.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf olfactif"
+      ],
+      "related_terms": [
+        "lame criblée de l'ethmoïde"
+      ],
+      "description": "Le nerf olfactif passe à travers la lame criblée de l'ethmoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf Olfactif",
+      "definition": "Nerf crânien responsable de la perception des odeurs.",
+      "category": "anatomie",
+      "synonyms": [
+        "Ier nerf crânien"
+      ],
+      "related_terms": [
+        "lame criblée de l'ethmoïde"
+      ],
+      "description": "Le nerf olfactif passe à travers la lame criblée de l'ethmoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf optique (II)",
+      "definition": "Nerf crânien responsable de la vision.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf optique"
+      ],
+      "related_terms": [
+        "canal optique",
+        "artère ophtalmique"
+      ],
+      "description": "Le nerf optique passe à travers le canal optique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "selle Turcique",
+      "definition": "Dépression osseuse située sur la face supérieure du corps du sphénoïde, qui abrite l'hypophyse.",
+      "category": "anatomie",
+      "synonyms": [
+        "selle turcique"
+      ],
+      "related_terms": [
+        "sinus caverneux",
+        "polygone de Willis"
+      ],
+      "description": "La selle turcique est une structure anatomique importante pour l'hypophyse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rocher",
+      "definition": "Partie pétreuse de l'os temporal, contenant les structures de l'oreille interne.",
+      "category": "anatomie",
+      "synonyms": [
+        "partie pétreuse de l'os temporal"
+      ],
+      "related_terms": [
+        "os temporal"
+      ],
+      "description": "Le rocher abrite les structures de l'oreille interne, y compris le labyrinthe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerfs oculomoteurs (III)",
+      "definition": "Nerf crânien responsable des mouvements oculaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf oculomoteur"
+      ],
+      "related_terms": [
+        "fissure orbitaire supérieure"
+      ],
+      "description": "Le nerf oculomoteur passe à travers la fissure orbitaire supérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerfs trochléaires (IV)",
+      "definition": "Nerf crânien responsable des mouvements oculaires, notamment l'abaissement et l'adduction de l'œil.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf trochléaire"
+      ],
+      "related_terms": [
+        "fissure orbitaire supérieure"
+      ],
+      "description": "Le nerf trochléaire passe à travers la fissure orbitaire supérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerfs abducens (VI)",
+      "definition": "Nerf crânien responsable de l'abduction de l'œil.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf abducens"
+      ],
+      "related_terms": [
+        "fissure orbitaire supérieure"
+      ],
+      "description": "Le nerf abducens passe à travers la fissure orbitaire supérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerfs ophtalmiques (V1)",
+      "definition": "Branche du nerf trijumeau responsable de la sensibilité de la région orbitaire et frontale.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf ophtalmique"
+      ],
+      "related_terms": [
+        "fissure orbitaire supérieure"
+      ],
+      "description": "Le nerf ophtalmique passe à travers la fissure orbitaire supérieure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf maxillaire (V2)",
+      "definition": "Branche du nerf trijumeau responsable de la sensibilité de la région maxillaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf maxillaire"
+      ],
+      "related_terms": [
+        "foramen rond"
+      ],
+      "description": "Le nerf maxillaire passe à travers le foramen rond.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf mandibulaire (V3)",
+      "definition": "Branche du nerf trijumeau responsable de la sensibilité de la région mandibulaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf mandibulaire"
+      ],
+      "related_terms": [
+        "foramen ovale"
+      ],
+      "description": "Le nerf mandibulaire passe à travers le foramen ovale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère méningée moyenne",
+      "definition": "Artère qui irrigue la dure-mère et les structures adjacentes.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère méningée moyenne"
+      ],
+      "related_terms": [
+        "foramen épineux"
+      ],
+      "description": "L'artère méningée moyenne passe à travers le foramen épineux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf facial (VII)",
+      "definition": "Nerf crânien responsable des mouvements faciaux et de la perception gustative des deux tiers antérieurs de la langue.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf facial"
+      ],
+      "related_terms": [
+        "méat acoustique interne"
+      ],
+      "description": "Le nerf facial passe à travers le méat acoustique interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf intermédiaire (VIIbis)",
+      "definition": "Partie du nerf facial responsable de la perception gustative et de la sécrétion des glandes salivaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf intermédiaire"
+      ],
+      "related_terms": [
+        "méat acoustique interne"
+      ],
+      "description": "Le nerf intermédiaire passe à travers le méat acoustique interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf cochléo-vestibulaire (VIII)",
+      "definition": "Nerf crânien responsable de l'audition et de l'équilibre.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf cochléo-vestibulaire"
+      ],
+      "related_terms": [
+        "méat acoustique interne"
+      ],
+      "description": "Le nerf cochléo-vestibulaire passe à travers le méat acoustique interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère labyrinthique",
+      "definition": "Artère qui irrigue les structures de l'oreille interne.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère labyrinthique"
+      ],
+      "related_terms": [
+        "méat acoustique interne"
+      ],
+      "description": "L'artère labyrinthique passe à travers le méat acoustique interne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf glosso-pharyngien (IX)",
+      "definition": "Nerf crânien responsable de la sensibilité du pharynx et de la perception gustative du tiers postérieur de la langue.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf glosso-pharyngien"
+      ],
+      "related_terms": [
+        "foramen jugulaire"
+      ],
+      "description": "Le nerf glosso-pharyngien passe à travers le foramen jugulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf vague (X)",
+      "definition": "Nerf crânien responsable de nombreuses fonctions parasympathiques, y compris la régulation de la fréquence cardiaque et la motilité gastro-intestinale.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf vague"
+      ],
+      "related_terms": [
+        "foramen jugulaire"
+      ],
+      "description": "Le nerf vague passe à travers le foramen jugulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf accessoire (XI)",
+      "definition": "Nerf crânien responsable de l'innervation des muscles du cou et de l'épaule.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf accessoire"
+      ],
+      "related_terms": [
+        "foramen jugulaire"
+      ],
+      "description": "Le nerf accessoire passe à travers le foramen jugulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nerf hypoglosse (XII)",
+      "definition": "Nerf crânien responsable de l'innervation des muscles de la langue.",
+      "category": "anatomie",
+      "synonyms": [
+        "nerf hypoglosse"
+      ],
+      "related_terms": [
+        "canal du nerf hypoglosse"
+      ],
+      "description": "Le nerf hypoglosse passe à travers le canal du nerf hypoglosse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "foramen magnum",
+      "definition": "Le plus grand foramen de la base du crâne, permettant le passage de la moelle allongée et des artères vertébrales.",
+      "category": "anatomie",
+      "synonyms": [
+        "trou occipital"
+      ],
+      "related_terms": [
+        "canal vertébral"
+      ],
+      "description": "Le foramen magnum est en continuité avec le canal vertébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "faux du cerveau",
+      "definition": "Cloison dure-mérienne qui sépare les deux hémisphères cérébraux.",
+      "category": "anatomie",
+      "synonyms": [
+        "faux du cerveau"
+      ],
+      "related_terms": [
+        "sinus sagittal supérieur",
+        "sinus sagittal inférieur"
+      ],
+      "description": "La faux du cerveau contient le sinus sagittal supérieur et le sinus sagittal inférieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "foramen caecum",
+      "definition": "Petit foramen situé à la base de la lame criblée de l'ethmoïde, souvent borgne.",
+      "category": "anatomie",
+      "synonyms": [
+        "trou borgne"
+      ],
+      "related_terms": [
+        "sinus sagittal supérieur"
+      ],
+      "description": "Le foramen caecum est situé à la base de la lame criblée de l'ethmoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "processus cristagalli",
+      "definition": "Processus osseux situé à l'avant de la base de la faux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "processus cristagalli"
+      ],
+      "related_terms": [
+        "sinus sagittal inférieur"
+      ],
+      "description": "Le processus cristagalli est situé à l'avant de la base de la faux du cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tente du cervelet",
+      "definition": "Cloison dure-mérienne qui sépare le cervelet des lobes occipitaux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "tente du cervelet"
+      ],
+      "related_terms": [
+        "sinus droit"
+      ],
+      "description": "La tente du cervelet contient le sinus droit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agressions cérébrales secondaires d'origine systémique (ACSOS)",
+      "definition": "Complications secondaires affectant le cerveau après un traumatisme crânien, souvent dues à des facteurs systémiques comme l'hypoxie ou l'hypotension.",
+      "category": "pathologie",
+      "synonyms": [
+        "ACSOS"
+      ],
+      "related_terms": [
+        "traumatisme crânien"
+      ],
+      "description": "Les ACSOS peuvent inclure des complications comme l'hypoxie ou l'hypotension.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "soustentoriel",
+      "definition": "Réfère à la région située en dessous de la tente du cervelet.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sus-tentoriel"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tente du cervelet",
+        "fosse postérieure"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sus-tentoriel",
+      "definition": "Réfère à la région située au-dessus de la tente du cervelet.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "soustentoriel"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tente du cervelet",
+        "fosse antérieure"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clinoïde postérieur",
+      "definition": "Structure osseuse située à la base du crâne, faisant partie du sphénoïde.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "clinoïde antérieur"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sphénoïde",
+        "base du crâne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus latéral",
+      "definition": "Sinus veineux situé dans la dure-mère, drainant le sang veineux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sinus veineux dure-mériens"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sinus veineux",
+        "dure-mère"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clinoïdes antérieurs",
+      "definition": "Structures osseuses situées à la base du crâne, faisant partie du sphénoïde.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "clinoïde postérieur"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sphénoïde",
+        "base du crâne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "foramen ovale de Pacchioni",
+      "definition": "Ouverture dans la tente du cervelet permettant le passage du mésencéphale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "mésencéphale",
+        "tente du cervelet"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "tente du cervelet",
+        "mésencéphale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dure-mère",
+      "definition": "La plus externe des trois méninges qui enveloppent le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "méninges",
+        "arachnoïde",
+        "pie-mère"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "méninges",
+        "cerveau"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère vertébrale",
+      "definition": "Artère qui irrigue le cerveau et la moelle épinière, faisant partie du système vertébro-basilaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "système vertébro-basilaire",
+        "moelle épinière"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "système vertébro-basilaire",
+        "moelle épinière"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "foramen épineux",
+      "definition": "Ouverture dans l'os sphénoïde par laquelle passe l'artère méningée moyenne.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "os sphénoïde",
+        "artère méningée moyenne"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "os sphénoïde",
+        "artère méningée moyenne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome extradural",
+      "definition": "Collection de sang entre l'os du crâne et la dure-mère, souvent due à une lésion de l'artère méningée moyenne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "artère méningée moyenne",
+        "dure-mère"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Urgence neurochirurgicale",
+      "normal_values": "",
+      "image_search_terms": [
+        "hématome",
+        "dure-mère"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines jugulaires internes",
+      "definition": "Veines qui drainent le sang veineux de la cavité crânienne.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "cavité crânienne",
+        "veines cérébrales"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cavité crânienne",
+        "veines cérébrales"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sinus veineux dure-mériens",
+      "definition": "Sinus veineux situés dans la dure-mère, drainant le sang veineux du cerveau.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "dure-mère",
+        "veines cérébrales"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "dure-mère",
+        "veines cérébrales"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pie-mère",
+      "definition": "La plus interne des trois méninges qui enveloppent le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "méninges",
+        "dure-mère",
+        "arachnoïde"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "méninges",
+        "cerveau"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Liquide cérébrospinal",
+      "definition": "Fluide clair et incolore qui entoure le cerveau et la moelle épinière, fournissant une protection mécanique et chimique.",
+      "category": "anatomie",
+      "synonyms": [
+        "LCS"
+      ],
+      "related_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "citernes sous-arachnoïdiennes",
+      "definition": "Dilatations des espaces sous-arachnoïdiens formant des réservoirs de liquide cérébrospinal.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "espaces sous-arachnoïdiens",
+        "liquide cérébrospinal"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "espaces sous-arachnoïdiens",
+        "liquide cérébrospinal"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parenchyme cérébral",
+      "definition": "Tissu fonctionnel du cerveau, composé de neurones et de cellules gliales.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "cerveau",
+        "neurones",
+        "cellules gliales"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cerveau",
+        "neurones"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "liquide céphalorachidien",
+      "definition": "Fluide clair et incolore qui entoure le cerveau et la moelle épinière, fournissant une protection mécanique et chimique.",
+      "category": "anatomie",
+      "synonyms": [
+        "LCR"
+      ],
+      "related_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "loi de Monroe-Kellie",
+      "definition": "Principe selon lequel la somme des volumes du parenchyme cérébral, du liquide cérébrospinal et du sang dans le crâne est constante.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "parenchyme cérébral",
+        "liquide cérébrospinal",
+        "sang"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "parenchyme cérébral",
+        "liquide cérébrospinal"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néo-volume",
+      "definition": "Volume supplémentaire ajouté à l'intérieur du crâne, souvent dû à un hématome ou une tumeur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hématome",
+        "tumeur"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hématome",
+        "tumeur"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "auto-régulation",
+      "definition": "L'auto-régulation est le mécanisme par lequel le cerveau maintient un débit sanguin constant malgré les variations de la pression de perfusion cérébrale, grâce à la vasomotricité des artérioles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasomotricité",
+        "artérioles"
+      ],
+      "description": "L'auto-régulation permet de protéger le cerveau contre les fluctuations de la pression sanguine.",
+      "expansion": null,
+      "clinical_significance": "Une perte d'auto-régulation peut entraîner des lésions cérébrales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "auto-régulation cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Résistances Vasculaires Cérébrales",
+      "definition": "Les résistances vasculaires cérébrales (RVC) sont les forces qui s'opposent au flux sanguin dans les vaisseaux cérébraux, influencées par la vasomotricité des artérioles.",
+      "category": "physiologie",
+      "synonyms": [
+        "RVC"
+      ],
+      "related_terms": [
+        "vasomotricité",
+        "artérioles"
+      ],
+      "description": "Les RVC jouent un rôle crucial dans la régulation du débit sanguin cérébral.",
+      "expansion": null,
+      "clinical_significance": "Des variations anormales des RVC peuvent affecter la perfusion cérébrale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "résistances vasculaires cérébrales",
+        "RVC"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperhémie",
+      "definition": "L'hyperhémie est un excès de sang dans un tissu, souvent dû à une augmentation du débit sanguin ou à une dilatation des vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation",
+        "congestion"
+      ],
+      "description": "L'hyperhémie cérébrale peut entraîner une augmentation de la pression intracrânienne.",
+      "expansion": null,
+      "clinical_significance": "L'hyperhémie peut être un signe de troubles circulatoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperhémie cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contusions",
+      "definition": "Lésions du tissu cérébral dues à un impact direct, souvent associées à des saignements et des gonflements.",
+      "category": "pathologie",
+      "synonyms": [
+        "lésions de contusion"
+      ],
+      "related_terms": [
+        "hématomes",
+        "lésions axonales diffuses"
+      ],
+      "description": "Les contusions sont des lésions cérébrales localisées, souvent causées par un impact direct sur le crâne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "contusions cérébrales",
+        "lésions de contusion"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions axonales diffuses",
+      "definition": "Dommages aux axones causés par les forces d'accélération/décélération, souvent associés à des lésions vasculaires microscopiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "DAI"
+      ],
+      "related_terms": [
+        "contusions",
+        "hématomes"
+      ],
+      "description": "Les lésions axonales diffuses sont des dommages microscopiques aux axones, souvent causés par des forces de cisaillement et d'étirement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lésions axonales diffuses",
+        "DAI"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scalp",
+      "definition": "Couche de peau recouvrant le crâne, souvent affectée par des traumatismes crâniens.",
+      "category": "anatomie",
+      "synonyms": [
+        "cuir chevelu"
+      ],
+      "related_terms": [
+        "ecchymose",
+        "contusion",
+        "plaie"
+      ],
+      "description": "Le scalp peut être marqué par des ecchymoses, des contusions ou des plaies en cas de traumatisme crânien.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "scalp",
+        "cuir chevelu"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ecchymose",
+      "definition": "Tache bleuâtre ou violacée sur la peau, résultant d'une extravasation de sang dans les tissus sous-cutanés.",
+      "category": "pathologie",
+      "synonyms": [
+        "bleu",
+        "contusion"
+      ],
+      "related_terms": [
+        "scalp",
+        "contusion",
+        "plaie"
+      ],
+      "description": "Une ecchymose est une lésion cutanée causée par un traumatisme, souvent visible sur le scalp après un impact.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ecchymose",
+        "bleu"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arachnoïde",
+      "definition": "Méninge située entre la dure-mère et la pie-mère, contenant le liquide céphalo-rachidien.",
+      "category": "anatomie",
+      "synonyms": [
+        "arachnoïde mère"
+      ],
+      "related_terms": [
+        "dure-mère",
+        "pie-mère",
+        "LCS"
+      ],
+      "description": "L'arachnoïde est une membrane protectrice du cerveau et de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "arachnoïde",
+        "méninges"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pétéchie hémorragique",
+      "definition": "Petite tache rouge sur la peau ou les muqueuses, causée par une petite hémorragie capillaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "pétéchie"
+      ],
+      "related_terms": [
+        "lésions axonales diffuses",
+        "microhémorragie"
+      ],
+      "description": "Les pétéchies hémorragiques peuvent être visibles au scanner en cas de lésions axonales diffuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pétéchie hémorragique",
+        "pétéchie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fracture du crâne",
+      "definition": "Rupture de l'os du crâne, souvent causée par un traumatisme direct.",
+      "category": "pathologie",
+      "synonyms": [
+        "fracture crânienne"
+      ],
+      "related_terms": [
+        "hématome extra-dural",
+        "hématome sous-dural"
+      ],
+      "description": "Une fracture du crâne peut être linéaire, déprimée ou comminutive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fracture du crâne",
+        "fracture crânienne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématome extra-dural",
+      "definition": "Accumulation de sang entre la dure-mère et le crâne, souvent causée par une rupture de l'artère méningée moyenne.",
+      "category": "pathologie",
+      "synonyms": [
+        "HED"
+      ],
+      "related_terms": [
+        "hématome sous-dural",
+        "fracture du crâne"
+      ],
+      "description": "Un hématome extra-dural peut causer une compression du cerveau et nécessite souvent une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hématome extra-dural",
+        "HED"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème cytotoxique",
+      "definition": "Type d'œdème cérébral causé par une atteinte de la perméabilité membranaire cellulaire, conduisant à une accumulation intracellulaire d'eau et d'ions.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème cellulaire"
+      ],
+      "related_terms": [
+        "œdème cérébral",
+        "œdème vasogénique"
+      ],
+      "description": "L'œdème cytotoxique se répartit dans tout le tissu cérébral intracellulaire et survient au-delà de 45 minutes avec une acmé à 24-48 heures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème cytotoxique",
+        "œdème cellulaire"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème vasogénique",
+      "definition": "Type d'œdème cérébral causé par une augmentation de la perméabilité de la barrière hémato-encéphalique, provoquant un passage d'eau et de solutés dans le secteur extracellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème extracellulaire"
+      ],
+      "related_terms": [
+        "œdème cérébral",
+        "œdème cytotoxique"
+      ],
+      "description": "L'œdème vasogénique apparaît très précocement et prédomine dans la substance blanche.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème vasogénique",
+        "œdème extracellulaire"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BHE",
+      "definition": "Barrière hémato-encéphalique, barrière physiologique qui sépare le sang circulant des tissus cérébraux.",
+      "category": "anatomie",
+      "synonyms": [
+        "barrière hémato-encéphalique"
+      ],
+      "related_terms": [
+        "œdème vasogénique",
+        "LCS"
+      ],
+      "description": "La BHE régule le passage des substances entre le sang et le cerveau, protégeant ainsi le tissu cérébral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "BHE",
+        "barrière hémato-encéphalique"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pénombre traumatique",
+      "definition": "Zone de tissu cérébral entourant une lésion hémorragique traumatique où le fonctionnement neuronal est altéré mais potentiellement récupérable avec une amélioration de la perfusion et des apports métaboliques.",
+      "category": "pathologie",
+      "synonyms": [
+        "pénombre ischémique"
+      ],
+      "related_terms": [
+        "ischémie",
+        "infarcissement"
+      ],
+      "description": "La pénombre traumatique est une zone à risque d'évoluer vers l'infarcissement et la mort cellulaire, mais elle est théoriquement évitable avec un traitement préventif.",
+      "expansion": null,
+      "clinical_significance": "Cible thérapeutique majeure pour prévenir les lésions ischémiques secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apoptose",
+      "definition": "Processus de mort cellulaire programmée qui peut survenir après un traumatisme crânien, affectant divers types cellulaires comme les neurones et les cellules gliales.",
+      "category": "pathologie",
+      "synonyms": [
+        "mort cellulaire programmée"
+      ],
+      "related_terms": [
+        "nécrose",
+        "traumatisme crânien"
+      ],
+      "description": "L'apoptose débute dès la deuxième heure après un traumatisme crânien et peut persister pendant plusieurs semaines.",
+      "expansion": null,
+      "clinical_significance": "Important dans la compréhension des mécanismes de mort cellulaire retardée après un traumatisme crânien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LAD",
+      "definition": "Lésions axonales diffuses, un type de lésion cérébrale traumatique caractérisée par une rupture généralisée des axones dans le cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "lésions axonales diffuses"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "lésions axonales"
+      ],
+      "description": "Les LAD sont souvent associées à des traumatismes crâniens sévères et peuvent entraîner des déficits neurologiques importants.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des traumatismes crâniens graves et la planification du traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PIC",
+      "definition": "Pression intracrânienne, la pression exercée par le liquide cérébrospinal et le tissu cérébral à l'intérieur du crâne.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression intracrânienne"
+      ],
+      "related_terms": [
+        "œdème cérébral",
+        "hypoxie"
+      ],
+      "description": "Une augmentation de la PIC peut entraîner une diminution de la pression de perfusion cérébrale (PPC), aggravant ainsi l'hypoxie et l'ischémie.",
+      "expansion": null,
+      "clinical_significance": "Paramètre crucial à surveiller chez les patients présentant un traumatisme crânien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PPC",
+      "definition": "Pression de perfusion cérébrale, la différence entre la pression artérielle moyenne et la pression intracrânienne.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression de perfusion cérébrale"
+      ],
+      "related_terms": [
+        "pression artérielle moyenne",
+        "pression intracrânienne"
+      ],
+      "description": "Une diminution de la PPC peut entraîner une hypoxie et une ischémie cérébrale, aggravant les lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Paramètre crucial à surveiller chez les patients présentant un traumatisme crânien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACSOS",
+      "definition": "Agressions cérébrales secondaires d'origine systémique, facteurs cliniques et biologiques systémiques qui aggravent les lésions cérébrales primitives après un traumatisme crânien.",
+      "category": "classification",
+      "synonyms": [
+        "agressions cérébrales secondaires d'origine systémique"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "hypotension artérielle"
+      ],
+      "description": "Les ACSOS incluent des facteurs comme l'hypoxie, l'hypotension artérielle, l'anémie, et l'acidose, qui peuvent aggraver les lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": "Contrôle strict des ACSOS est essentiel pour éviter l'apparition de lésions ischémiques cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACSOC",
+      "definition": "Agressions cérébrales secondaires d'origine centrale, facteurs centraux qui aggravent les lésions cérébrales primaires après un traumatisme crânien.",
+      "category": "classification",
+      "synonyms": [
+        "agressions cérébrales secondaires d'origine centrale"
+      ],
+      "related_terms": [
+        "œdème cérébral",
+        "épilepsie",
+        "hémorragie"
+      ],
+      "description": "Les ACSOC incluent des facteurs comme l'œdème cérébral, l'épilepsie, l'hémorragie, et l'hydrocéphalie.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation et le traitement des lésions cérébrales après un traumatisme crânien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe oculo-céphalique",
+      "definition": "Réflexe qui implique le mouvement des yeux en réponse à la rotation de la tête, utilisé pour évaluer l'intégrité des voies neurologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "réflexe oculo-céphalique"
+      ],
+      "related_terms": [
+        "réflexes du tronc cérébral",
+        "traumatisme crânien"
+      ],
+      "description": "Le réflexe oculo-céphalique vertical est un réflexe diencéphalique, tandis que le réflexe oculo-céphalique horizontal est un réflexe protubérantiel.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des réflexes du tronc cérébral après un traumatisme crânien.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères cérébrales",
+      "definition": "Vaisseaux sanguins qui fournissent le sang oxygéné au cerveau.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère cérébrale antérieure",
+        "artère cérébrale moyenne",
+        "artère cérébrale postérieure"
+      ],
+      "description": "Les artères cérébrales sont cruciales pour le fonctionnement normal du cerveau et toute occlusion peut entraîner un accident vasculaire cérébral (AVC).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artères cérébrales",
+        "circulation cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réflexe de Cushing",
+      "definition": "Réponse physiologique à une augmentation de la pression intracrânienne, caractérisée par une hypertension artérielle, une bradycardie et des modifications respiratoires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "bradycardie",
+        "bradypnée"
+      ],
+      "description": "Le réflexe de Cushing est un mécanisme de compensation pour maintenir la perfusion cérébrale malgré une pression intracrânienne élevée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "réflexe de Cushing",
+        "hypertension intracrânienne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tronc",
+      "definition": "Partie du système nerveux central qui relie le cerveau à la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "tronc cérébral"
+      ],
+      "related_terms": [
+        "mésencéphale",
+        "pont",
+        "bulbe rachidien"
+      ],
+      "description": "Le tronc cérébral contient des centres vitaux pour la respiration, la circulation et la conscience.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tronc cérébral",
+        "anatomie du tronc cérébral"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisme cranio-encéphalique",
+      "definition": "Lésion du crâne et du cerveau résultant d'un traumatisme externe.",
+      "category": "pathologie",
+      "synonyms": [
+        "TCE"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "commotion cérébrale",
+        "hématome intracrânien"
+      ],
+      "description": "Les traumatismes cranio-encéphaliques peuvent varier en gravité de légers à sévères et peuvent entraîner des complications neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "traumatisme cranio-encéphalique",
+        "TCE"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "body-scanner",
+      "definition": "Examen de tomodensitométrie qui couvre l'ensemble du corps pour détecter des lésions multiples chez un patient polytraumatisé.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner corporel total"
+      ],
+      "related_terms": [
+        "TDM",
+        "polytraumatisme"
+      ],
+      "description": "Le body-scanner est utilisé pour évaluer rapidement et globalement les lésions chez les patients ayant subi un traumatisme grave.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "body-scanner",
+        "scanner corporel total"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistule carotido-caverneuse",
+      "definition": "Connexion anormale entre l'artère carotide et le sinus caverneux.",
+      "category": "pathologie",
+      "synonyms": [
+        "CCF"
+      ],
+      "related_terms": [
+        "fistule artério-veineuse",
+        "sinus caverneux"
+      ],
+      "description": "La fistule carotido-caverneuse peut entraîner des symptômes oculaires et neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fistule carotido-caverneuse",
+        "CCF"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EtCO2",
+      "definition": "Pression partielle de dioxyde de carbone dans l'air expiré, utilisée pour estimer la PaCO2.",
+      "category": "physiologie",
+      "synonyms": [
+        "CO2 expiré"
+      ],
+      "related_terms": [
+        "PaCO2",
+        "capnie"
+      ],
+      "description": "L'EtCO2 est souvent utilisé en anesthésie et en soins intensifs pour surveiller la ventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EtCO2",
+        "CO2 expiré"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "normothermie",
+      "definition": "Température corporelle normale, généralement entre 36,5°C et 37,5°C.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthermie",
+        "hypothermie"
+      ],
+      "description": "Le maintien de la normothermie est crucial pour la fonction physiologique normale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "normothermie",
+        "température corporelle normale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuroréanimation",
+      "definition": "Soins intensifs spécialisés pour les patients avec des lésions neurologiques graves.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "soins intensifs",
+        "réanimation"
+      ],
+      "description": "La neuroréanimation vise à stabiliser et à traiter les patients avec des traumatismes crâniens graves ou d'autres lésions neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "neuroréanimation",
+        "soins intensifs neurologiques"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sellick",
+      "definition": "Manœuvre de Sellick, une technique utilisée pour prévenir la régurgitation du contenu gastrique lors de l'intubation.",
+      "category": "anatomie",
+      "synonyms": [
+        "manœuvre de Sellick"
+      ],
+      "related_terms": [
+        "intubation",
+        "régurgitation"
+      ],
+      "description": "La manœuvre de Sellick consiste à appliquer une pression sur le cartilage cricoïde pour occlure l'œsophage.",
+      "expansion": "Manœuvre de Sellick",
+      "clinical_significance": "Utilisée pour prévenir l'aspiration du contenu gastrique pendant l'intubation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "manœuvre de Sellick",
+        "intubation"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Etomidate",
+      "definition": "Un hypnotique utilisé pour l'induction de l'anesthésie, souvent choisi pour sa stabilité hémodynamique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Etomidate®"
+      ],
+      "related_terms": [
+        "anesthésie",
+        "induction"
+      ],
+      "description": "L'Etomidate est un agent anesthésique qui a peu d'effet sur la pression artérielle et la fréquence cardiaque.",
+      "expansion": "Etomidate",
+      "clinical_significance": "Utilisé pour l'induction rapide de l'anesthésie dans les situations d'urgence.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Etomidate",
+        "anesthésie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Succinylcholine",
+      "definition": "Un curare de courte durée d'action utilisé pour la paralysie musculaire pendant l'intubation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Succinylcholine",
+        "Suxaméthonium"
+      ],
+      "related_terms": [
+        "curare",
+        "paralysie musculaire"
+      ],
+      "description": "La Succinylcholine est un agent paralysant qui agit rapidement et se dissipe en quelques minutes.",
+      "expansion": "Succinylcholine",
+      "clinical_significance": "Utilisé pour faciliter l'intubation trachéale en relaxant les muscles.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Succinylcholine",
+        "curare"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydroxyéthylamidon",
+      "definition": "Un colloïde utilisé pour l'expansion volémique dans le traitement de l'hypovolémie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HES",
+        "hydroxyéthylamidon"
+      ],
+      "related_terms": [
+        "expansion volémique",
+        "hypovolémie"
+      ],
+      "description": "L'hydroxyéthylamidon est une solution colloïdale utilisée pour augmenter le volume sanguin.",
+      "expansion": "Hydroxyéthylamidon",
+      "clinical_significance": "Utilisé pour traiter l'hypovolémie en augmentant le volume sanguin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hydroxyéthylamidon",
+        "expansion volémique"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmothérapie",
+      "definition": "Traitement utilisant des agents osmotiques pour réduire la pression intracrânienne en diminuant le volume du liquide cérébral.",
+      "category": "pathologie",
+      "synonyms": [
+        "osmothérapie"
+      ],
+      "related_terms": [
+        "hypertension intracrânienne",
+        "mannitol"
+      ],
+      "description": "L'osmothérapie utilise des solutions hypertoniques pour attirer l'eau hors des cellules cérébrales.",
+      "expansion": "Osmothérapie",
+      "clinical_significance": "Utilisée pour traiter l'hypertension intracrânienne en réduisant le volume cérébral.",
+      "normal_values": null,
+      "image_search_terms": [
+        "osmothérapie",
+        "hypertension intracrânienne"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PetCO2",
+      "definition": "Pression partielle de dioxyde de carbone en fin d'expiration, utilisée pour évaluer la ventilation.",
+      "category": "physiologie",
+      "synonyms": [
+        "PetCO2"
+      ],
+      "related_terms": [
+        "capnie",
+        "ventilation"
+      ],
+      "description": "La PetCO2 est une mesure non invasive de la concentration de CO2 dans le sang.",
+      "expansion": "Pression partielle de dioxyde de carbone en fin d'expiration",
+      "clinical_significance": "Utilisée pour évaluer l'efficacité de la ventilation et détecter l'hypercapnie ou l'hypocapnie.",
+      "normal_values": "35-45 mmHg",
+      "image_search_terms": [
+        "PetCO2",
+        "capnie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carotide",
+      "definition": "Artère principale du cou qui fournit du sang au cerveau.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère carotide"
+      ],
+      "related_terms": [
+        "circulation sanguine",
+        "cerveau"
+      ],
+      "description": "La carotide est une artère essentielle pour la perfusion cérébrale.",
+      "expansion": "Artère carotide",
+      "clinical_significance": "Une occlusion de la carotide peut entraîner une ischémie cérébrale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "carotide",
+        "artère carotide"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Doppler Trans-Crânien",
+      "definition": "Technique d'imagerie non invasive utilisée pour mesurer les vélocités sanguines dans les artères cérébrales.",
+      "category": "imagerie",
+      "synonyms": [
+        "DTC",
+        "Doppler Trans-Crânien"
+      ],
+      "related_terms": [
+        "imagerie médicale",
+        "artères cérébrales"
+      ],
+      "description": "Le DTC est utilisé pour évaluer la circulation cérébrale et détecter les anomalies vasculaires.",
+      "expansion": "Doppler Trans-Crânien",
+      "clinical_significance": "Utilisé pour évaluer la circulation cérébrale et détecter les anomalies vasculaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Doppler Trans-Crânien",
+        "imagerie médicale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SSH",
+      "definition": "Sérum Salé Hypertonique, une solution saline concentrée utilisée pour réduire la pression intracrânienne et augmenter la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Sérum Salé Hypertonique 7,5%"
+      ],
+      "related_terms": [
+        "Mannitol",
+        "osmothérapie"
+      ],
+      "description": "Le SSH est utilisé dans la gestion de l'HTIC, particulièrement dans un contexte d'hypovolémie potentielle.",
+      "expansion": "Sérum Salé Hypertonique",
+      "clinical_significance": "Le SSH peut aider à maintenir la pression artérielle tout en réduisant la PIC.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Sérum Salé Hypertonique",
+        "osmothérapie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RVC",
+      "definition": "Résistances Vasculaires Cérébrales, la résistance au flux sanguin dans les vaisseaux cérébraux.",
+      "category": "physiologie",
+      "synonyms": [
+        "Résistances Vasculaires Cérébrales"
+      ],
+      "related_terms": [
+        "DSC",
+        "PPC"
+      ],
+      "description": "Les RVC sont modulées pour maintenir un DSC constant malgré les variations de la PPC.",
+      "expansion": "Résistances Vasculaires Cérébrales",
+      "clinical_significance": "Les variations des RVC jouent un rôle clé dans l'autorégulation cérébrale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Résistances Vasculaires Cérébrales",
+        "autorégulation cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VSC",
+      "definition": "Volume Sanguin Cérébral, le volume de sang présent dans le cerveau à un moment donné.",
+      "category": "physiologie",
+      "synonyms": [
+        "Volume Sanguin Cérébral"
+      ],
+      "related_terms": [
+        "DSC",
+        "PIC"
+      ],
+      "description": "Le VSC est influencé par les variations des résistances vasculaires cérébrales et la PPC.",
+      "expansion": "Volume Sanguin Cérébral",
+      "clinical_significance": "Un VSC élevé peut contribuer à une augmentation de la PIC.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Volume Sanguin Cérébral",
+        "perfusion cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "concept de Lund",
+      "definition": "Approche thérapeutique visant à maintenir une oxygénation sanguine normale et à antagoniser la vasoconstriction pour gérer l'HTIC.",
+      "category": "classification",
+      "synonyms": [
+        "concept de Lund"
+      ],
+      "related_terms": [
+        "barrière hémato-encéphalique",
+        "oxygénation sanguine normale"
+      ],
+      "description": "Le concept de Lund est appliqué lorsque la barrière hémato-encéphalique est lésée pour optimiser la gestion de l'HTIC.",
+      "expansion": "concept de Lund",
+      "clinical_significance": "Ce concept est crucial pour minimiser les complications neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "concept de Lund",
+        "HTIC"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxygénation sanguine normale",
+      "definition": "État où le sang est correctement oxygéné, assurant une perfusion adéquate des tissus.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxygénation sanguine normale"
+      ],
+      "related_terms": [
+        "concept de Lund",
+        "barrière hémato-encéphalique"
+      ],
+      "description": "Une oxygénation sanguine normale est essentielle pour le bon fonctionnement des organes, y compris le cerveau.",
+      "expansion": "oxygénation sanguine normale",
+      "clinical_significance": "Une oxygénation sanguine insuffisante peut entraîner des complications graves, notamment neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "oxygénation sanguine",
+        "perfusion"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "normovolémie",
+      "definition": "État où le volume sanguin est normal, ni trop élevé ni trop bas.",
+      "category": "physiologie",
+      "synonyms": [
+        "normovolémie"
+      ],
+      "related_terms": [
+        "hématocrite",
+        "protéines plasmatiques"
+      ],
+      "description": "La normovolémie est essentielle pour maintenir une perfusion tissulaire adéquate.",
+      "expansion": "normovolémie",
+      "clinical_significance": "Une normovolémie est cruciale pour la stabilité hémodynamique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "normovolémie",
+        "perfusion tissulaire"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéines plasmatiques",
+      "definition": "Protéines présentes dans le plasma sanguin, jouant divers rôles physiologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "protéines plasmatiques"
+      ],
+      "related_terms": [
+        "normovolémie",
+        "hématocrite"
+      ],
+      "description": "Les protéines plasmatiques sont essentielles pour le maintien de l'équilibre osmotique et la fonction immunitaire.",
+      "expansion": "protéines plasmatiques",
+      "clinical_significance": "Des niveaux anormaux de protéines plasmatiques peuvent indiquer diverses pathologies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "protéines plasmatiques",
+        "plasma sanguin"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "imagerie cérébrale",
+      "definition": "Techniques d'imagerie utilisées pour visualiser le cerveau et ses structures, y compris l'IRM et la tomodensitométrie.",
+      "category": "imagerie",
+      "synonyms": [
+        "imagerie cérébrale"
+      ],
+      "related_terms": [
+        "DVE",
+        "hydrocéphalie"
+      ],
+      "description": "L'imagerie cérébrale est essentielle pour le diagnostic et la gestion des conditions neurologiques.",
+      "expansion": "imagerie cérébrale",
+      "clinical_significance": "L'imagerie cérébrale permet de détecter des anomalies nécessitant une intervention chirurgicale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "imagerie cérébrale",
+        "IRM"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DVE",
+      "definition": "Dérivation Ventriculaire Externe, un dispositif utilisé pour drainer le liquide cérébrospinal (LCR) du cerveau.",
+      "category": "classification",
+      "synonyms": [
+        "Dérivation Ventriculaire Externe"
+      ],
+      "related_terms": [
+        "hydrocéphalie",
+        "LCR"
+      ],
+      "description": "La DVE est utilisée pour traiter l'hydrocéphalie et d'autres conditions nécessitant le drainage du LCR.",
+      "expansion": "Dérivation Ventriculaire Externe",
+      "clinical_significance": "La DVE est cruciale pour prévenir l'accumulation excessive de LCR et les complications neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "DVE",
+        "hydrocéphalie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HED",
+      "definition": "Hématome Extra-Dural, une collection de sang entre la dure-mère et la boîte crânienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hématome Extra-Dural"
+      ],
+      "related_terms": [
+        "HSD",
+        "craniectomie décompressive"
+      ],
+      "description": "L'HED est souvent causé par un traumatisme crânien et peut entraîner une compression cérébrale.",
+      "expansion": "Hématome Extra-Dural",
+      "clinical_significance": "L'HED peut nécessiter une intervention chirurgicale pour évacuer le sang et soulager la pression intracrânienne.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "HED",
+        "hématome"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothermie thérapeutique",
+      "definition": "Technique médicale consistant à abaisser la température corporelle pour réduire le métabolisme et protéger les organes.",
+      "category": "classification",
+      "synonyms": [
+        "hypothermie thérapeutique"
+      ],
+      "related_terms": [
+        "HTIC",
+        "métabolisme basal"
+      ],
+      "description": "L'hypothermie thérapeutique est utilisée pour protéger le cerveau et d'autres organes après un traumatisme ou une ischémie.",
+      "expansion": "hypothermie thérapeutique",
+      "clinical_significance": "L'hypothermie thérapeutique peut réduire la PIC et améliorer les résultats neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypothermie thérapeutique",
+        "HTIC"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métabolisme basal",
+      "definition": "Quantité minimale d'énergie nécessaire pour maintenir les fonctions vitales au repos.",
+      "category": "physiologie",
+      "synonyms": [
+        "métabolisme basal"
+      ],
+      "related_terms": [
+        "hypothermie thérapeutique",
+        "consommation en oxygène"
+      ],
+      "description": "Le métabolisme basal est influencé par divers facteurs, y compris la température corporelle.",
+      "expansion": "métabolisme basal",
+      "clinical_significance": "Une réduction du métabolisme basal peut protéger les organes en période de stress.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "métabolisme basal",
+        "métabolisme"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuro-protecteurs",
+      "definition": "Substances ou interventions visant à protéger les neurones contre les dommages ou la dégénérescence.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "neuro-protecteurs"
+      ],
+      "related_terms": [
+        "hypothermie thérapeutique",
+        "barrière hémato-encéphalique"
+      ],
+      "description": "Les neuro-protecteurs sont utilisés pour prévenir ou réduire les dommages neuronaux dans diverses conditions neurologiques.",
+      "expansion": "neuro-protecteurs",
+      "clinical_significance": "Les neuro-protecteurs peuvent améliorer les résultats neurologiques après un traumatisme ou une ischémie.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "neuro-protecteurs",
+        "neurones"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coma barbiturique",
+      "definition": "État d'inconscience profonde induit par l'administration de barbituriques pour réduire le métabolisme cérébral et la PIC.",
+      "category": "classification",
+      "synonyms": [
+        "coma barbiturique"
+      ],
+      "related_terms": [
+        "HTIC",
+        "barbituriques"
+      ],
+      "description": "Le coma barbiturique est utilisé comme dernière option thérapeutique pour gérer l'HTIC réfractaire.",
+      "expansion": "coma barbiturique",
+      "clinical_significance": "Le coma barbiturique peut réduire la PIC mais comporte des risques significatifs.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "coma barbiturique",
+        "HTIC"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "craniectomie décompressive",
+      "definition": "Procédure chirurgicale consistant à retirer une partie de la boîte crânienne pour réduire la pression intracrânienne.",
+      "category": "classification",
+      "synonyms": [
+        "craniectomie décompressive"
+      ],
+      "related_terms": [
+        "HTIC",
+        "volet fronto-pariéto-temporal"
+      ],
+      "description": "La craniectomie décompressive est utilisée pour gérer l'HTIC réfractaire et prévenir les complications neurologiques.",
+      "expansion": "craniectomie décompressive",
+      "clinical_significance": "La craniectomie décompressive peut améliorer la survie et les résultats neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "craniectomie décompressive",
+        "HTIC"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volet fronto-pariéto-temporal",
+      "definition": "Technique chirurgicale consistant à retirer une partie de la boîte crânienne dans les régions frontale, pariétale et temporale.",
+      "category": "classification",
+      "synonyms": [
+        "volet fronto-pariéto-temporal"
+      ],
+      "related_terms": [
+        "craniectomie décompressive",
+        "volet temporo-pariétal"
+      ],
+      "description": "Le volet fronto-pariéto-temporal est utilisé pour gérer l'HTIC réfractaire et améliorer les résultats neurologiques.",
+      "expansion": "volet fronto-pariéto-temporal",
+      "clinical_significance": "Le volet fronto-pariéto-temporal est préférable au volet temporo-pariétal pour la gestion de l'HTIC.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "volet fronto-pariéto-temporal",
+        "craniectomie décompressive"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volet temporo-pariétal",
+      "definition": "Technique chirurgicale consistant à retirer une partie de la boîte crânienne dans les régions temporale et pariétale.",
+      "category": "classification",
+      "synonyms": [
+        "volet temporo-pariétal"
+      ],
+      "related_terms": [
+        "craniectomie décompressive",
+        "volet fronto-pariéto-temporal"
+      ],
+      "description": "Le volet temporo-pariétal est utilisé pour gérer l'HTIC réfractaire mais est moins efficace que le volet fronto-pariéto-temporal.",
+      "expansion": "volet temporo-pariétal",
+      "clinical_significance": "Le volet temporo-pariétal est une option chirurgicale pour la gestion de l'HTIC.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "volet temporo-pariétal",
+        "craniectomie décompressive"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome du trépané",
+      "definition": "Complication neurologique secondaire à une craniectomie décompressive, caractérisée par une dégradation neurologique améliorée par la cranioplastie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome du trépané"
+      ],
+      "related_terms": [
+        "craniectomie décompressive",
+        "cranioplastie"
+      ],
+      "description": "Le syndrome du trépané est une complication rare mais grave de la craniectomie décompressive.",
+      "expansion": "syndrome du trépané",
+      "clinical_significance": "Le syndrome du trépané nécessite une cranioplastie pour améliorer les symptômes neurologiques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "syndrome du trépané",
+        "craniectomie décompressive"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cranioplastie",
+      "definition": "Procédure chirurgicale consistant à reconstruire une partie de la boîte crânienne retirée lors d'une craniectomie décompressive.",
+      "category": "classification",
+      "synonyms": [
+        "cranioplastie"
+      ],
+      "related_terms": [
+        "syndrome du trépané",
+        "craniectomie décompressive"
+      ],
+      "description": "La cranioplastie est utilisée pour traiter le syndrome du trépané et améliorer les résultats neurologiques.",
+      "expansion": "cranioplastie",
+      "clinical_significance": "La cranioplastie est essentielle pour la réhabilitation neurologique après une craniectomie décompressive.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cranioplastie",
+        "craniectomie décompressive"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodynamique cérébrale",
+      "definition": "Étude de la circulation sanguine dans le cerveau, incluant la pression et le débit sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "circulation cérébrale"
+      ],
+      "related_terms": [
+        "perfusion cérébrale",
+        "pression intracrânienne"
+      ],
+      "description": "Critique pour la gestion des traumatismes crâniens et des accidents vasculaires cérébraux.",
+      "expansion": null,
+      "clinical_significance": "Surveillance essentielle pour prévenir les lésions cérébrales secondaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémodynamique cérébrale",
+        "perfusion cérébrale"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dystonies",
+      "definition": "Mouvements involontaires et contractions musculaires prolongées, souvent dus à des troubles neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "dystonie"
+      ],
+      "related_terms": [
+        "torticolis spasmodique",
+        "dystonie généralisée"
+      ],
+      "description": "Peut affecter diverses parties du corps et nécessite une gestion médicale et rééducative.",
+      "expansion": null,
+      "clinical_significance": "Peut être invalidante et affecter la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dystonies",
+        "dystonie"
+      ],
+      "subject_id": "0fb8c7cb-8d39-442c-8872-2e32891d470d",
+      "source_file": "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Traumatisme Crânien/Courses/67 Traumatismes crâniens.md"
+  ],
+  "total_terms": 112
+}

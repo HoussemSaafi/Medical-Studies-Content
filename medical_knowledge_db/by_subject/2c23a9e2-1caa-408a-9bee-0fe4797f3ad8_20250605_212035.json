@@ -1,0 +1,1228 @@
+{
+  "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+  "terms": [
+    {
+      "term": "péritonites aigues",
+      "definition": "Inflammation aiguë généralisée ou localisée de la séreuse péritonéale, souvent d'origine infectieuse, constituant une urgence chirurgicale grave.",
+      "category": "pathologie",
+      "synonyms": [
+        "PA"
+      ],
+      "related_terms": [
+        "péritonite",
+        "inflammation péritonéale"
+      ],
+      "description": "Les péritonites aiguës sont des infections graves du péritoine qui nécessitent une intervention chirurgicale rapide pour éviter des complications potentiellement mortelles.",
+      "expansion": null,
+      "clinical_significance": "Urgence chirurgicale avec risque vital",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défense",
+      "definition": "Réaction de protection de la paroi abdominale en réponse à une inflammation ou une irritation péritonéale, caractérisée par une douleur à la palpation.",
+      "category": "pathologie",
+      "synonyms": [
+        "défense abdominale"
+      ],
+      "related_terms": [
+        "contracture abdominale"
+      ],
+      "description": "La défense est un signe clinique crucial pour le diagnostic des péritonites aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites postopératoires",
+      "definition": "Inflammation péritonéale survenant après une intervention chirurgicale, souvent due à une complication postopératoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "complications postopératoires"
+      ],
+      "description": "Les péritonites postopératoires sont des complications graves nécessitant une prise en charge rapide et adéquate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hambourg",
+      "definition": "Classification des péritonites aiguës en trois types : primitives, secondaires et tertiaires.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "classification des péritonites"
+      ],
+      "description": "La classification de Hambourg est utilisée pour catégoriser les péritonites aiguës en fonction de leur mode de contamination.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites primitives",
+      "definition": "Infections péritonéales rares, survenant en l'absence de foyer infectieux primaire intra-abdominal ou de solution de continuité du tube digestif.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "infection péritonéale"
+      ],
+      "description": "Les péritonites primitives sont souvent causées par une contamination hématogène ou une translocation bactérienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites secondaires",
+      "definition": "Infections péritonéales les plus fréquentes, dues à une cause locale comme une perforation ou une diffusion à partir d'un viscère abdominal.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "infection péritonéale"
+      ],
+      "description": "Les péritonites secondaires sont souvent polymicrobiennes et liées à la flore intestinale pathogène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites tertiaires",
+      "definition": "Infections péritonéales persistantes malgré un traitement bien conduit, souvent associées à un syndrome de défaillance multiviscérale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "infection péritonéale"
+      ],
+      "description": "Les péritonites tertiaires sont causées par des micro-organismes résistants ou des levures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritoine",
+      "definition": "Membrane séreuse qui tapisse la cavité abdominale et recouvre les viscères abdominaux.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "séreuse péritonéale",
+        "cavité péritonéale"
+      ],
+      "description": "Le péritoine joue un rôle crucial dans la défense contre les infections et les brèches intestinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites",
+      "definition": "Inflammation aiguë ou chronique du péritoine, la membrane séreuse qui tapisse la cavité abdominale et recouvre les viscères abdominaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite"
+      ],
+      "related_terms": [
+        "péritoine",
+        "cavité abdominale"
+      ],
+      "description": "Les péritonites peuvent être causées par des infections bactériennes, des perforations d'organes digestifs, ou des irritations chimiques.",
+      "expansion": null,
+      "clinical_significance": "Les péritonites sont des urgences médicales nécessitant une intervention rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite",
+        "inflammation péritonéale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites chimiques",
+      "definition": "Type de péritonite causée par l'écoulement de liquides caustiques (acides ou alcalins) dans la cavité péritonéale, souvent suite à une perforation digestive haute.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "perforation gastrique",
+        "perforation duodénale"
+      ],
+      "description": "Les péritonites chimiques provoquent une brûlure chimique interne et une altération des capillaires péritonéaux.",
+      "expansion": null,
+      "clinical_significance": "Ce type de péritonite peut évoluer rapidement vers une péritonite bactérienne si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite chimique",
+        "brûlure chimique péritonéale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "3ème secteur",
+      "definition": "Terme utilisé pour décrire une séquestration de liquide dans les tissus interstitiels, souvent en réponse à une inflammation ou un traumatisme.",
+      "category": "physiologie",
+      "synonyms": [
+        "troisième espace"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "œdème"
+      ],
+      "description": "Le 3ème secteur contribue à l'hypovolémie et à l'hyponatrémie en séquestrant des liquides riches en protéines et électrolytes.",
+      "expansion": null,
+      "clinical_significance": "La gestion du 3ème secteur est cruciale pour maintenir l'équilibre hydroélectrolytique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "3ème secteur",
+        "séquestration liquidienne"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endotoxines",
+      "definition": "Toxines libérées par certaines bactéries, notamment les bactéries Gram-négatives, qui peuvent provoquer une réponse inflammatoire systémique.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipopolysaccharides",
+        "toxines bactériennes"
+      ],
+      "description": "Les endotoxines peuvent entraîner une vasodilatation périphérique et une défaillance myocardique.",
+      "expansion": null,
+      "clinical_significance": "Les endotoxines jouent un rôle clé dans le choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endotoxines",
+        "toxines bactériennes"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épiploon",
+      "definition": "Repli du péritoine qui recouvre les viscères abdominaux et joue un rôle dans la protection et le soutien des organes.",
+      "category": "anatomie",
+      "synonyms": [
+        "omentum"
+      ],
+      "related_terms": [
+        "grand épiploon",
+        "petit épiploon"
+      ],
+      "description": "L'épiploon peut être impliqué dans la localisation des processus inflammatoires péritonéaux.",
+      "expansion": null,
+      "clinical_significance": "L'épiploon joue un rôle dans la défense immunitaire abdominale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épiploon",
+        "omentum"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suture digestive",
+      "definition": "Procédure chirurgicale consistant à réparer une perforation ou une lésion de l'intestin par suture.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "suture intestinale",
+        "réparation digestive"
+      ],
+      "description": "La suture digestive est souvent nécessaire en cas de perforation intestinale.",
+      "expansion": null,
+      "clinical_significance": "La suture digestive doit être réalisée avec précaution pour éviter des complications post-opératoires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "suture digestive",
+        "suture intestinale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcère perforé",
+      "definition": "Ulcère gastro-intestinal qui a perforé la paroi de l'organe, permettant au contenu de l'organe de s'écouler dans la cavité péritonéale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ulcère gastrique",
+        "perforation intestinale"
+      ],
+      "description": "Un ulcère perforé est une urgence médicale nécessitant une intervention chirurgicale immédiate.",
+      "expansion": null,
+      "clinical_significance": "La perforation d'un ulcère peut entraîner une péritonite et un choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ulcère perforé",
+        "perforation gastrique"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dissémination microbienne",
+      "definition": "Propagation de micro-organismes pathogènes à partir d'un site initial d'infection vers d'autres parties du corps.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection systémique",
+        "septicémie"
+      ],
+      "description": "La dissémination microbienne peut entraîner une réaction inflammatoire généralisée.",
+      "expansion": null,
+      "clinical_significance": "La dissémination microbienne est une complication grave des infections localisées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dissémination microbienne",
+        "infection systémique"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dilatation capillaire",
+      "definition": "Augmentation du diamètre des capillaires sanguins, souvent en réponse à une inflammation ou à une stimulation chimique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vasodilatation",
+        "inflammation"
+      ],
+      "description": "La dilatation capillaire peut entraîner une augmentation de la perméabilité vasculaire et un épanchement liquidien.",
+      "expansion": null,
+      "clinical_significance": "La dilatation capillaire est un signe d'inflammation aiguë.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dilatation capillaire",
+        "vasodilatation"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perméabilité péritonéale",
+      "definition": "Capacité du péritoine à permettre le passage de liquides et de molécules à travers ses membranes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "perméabilité vasculaire",
+        "épanchement péritonéal"
+      ],
+      "description": "Une augmentation de la perméabilité péritonéale peut entraîner un épanchement liquidien dans la cavité péritonéale.",
+      "expansion": null,
+      "clinical_significance": "La perméabilité péritonéale est un facteur clé dans la pathogenèse de la péritonite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "perméabilité péritonéale",
+        "épanchement péritonéal"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épanchement liquidien",
+      "definition": "Accumulation de liquide dans une cavité corporelle, souvent en réponse à une inflammation ou à une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épanchement pleural",
+        "ascite"
+      ],
+      "description": "Un épanchement liquidien peut être purulent, louche ou clair, et peut varier en abondance.",
+      "expansion": null,
+      "clinical_significance": "L'épanchement liquidien est un signe d'inflammation ou d'infection.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épanchement liquidien",
+        "épanchement péritonéal"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "micro-organismes",
+      "definition": "Organismes vivants microscopiques, incluant les bactéries, les virus, les champignons et les protozoaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bactéries",
+        "virus"
+      ],
+      "description": "Les micro-organismes peuvent être pathogènes et causer des infections.",
+      "expansion": null,
+      "clinical_significance": "La présence de micro-organismes pathogènes peut entraîner une péritonite bactérienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "micro-organismes",
+        "bactéries"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méso",
+      "definition": "Repli du péritoine qui soutient et enveloppe les organes abdominaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "mésentère"
+      ],
+      "related_terms": [
+        "péritoine",
+        "organes abdominaux"
+      ],
+      "description": "Le méso peut être impliqué dans la localisation des processus inflammatoires péritonéaux.",
+      "expansion": null,
+      "clinical_significance": "Le méso joue un rôle dans la défense immunitaire abdominale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "méso",
+        "mésentère"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fausses membranes",
+      "definition": "Dépôts de fibrine et de leucocytes sur les surfaces séreuses, souvent observés dans les processus inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "exsudat fibrino-leucocytaire",
+        "inflammation"
+      ],
+      "description": "Les fausses membranes sont un signe d'inflammation aiguë et peuvent être adhérentes à la séreuse.",
+      "expansion": null,
+      "clinical_significance": "Les fausses membranes peuvent indiquer une péritonite localisée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fausses membranes",
+        "exsudat fibrino-leucocytaire"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "séreuse",
+      "definition": "Membrane délicate qui recouvre les organes et les cavités corporelles.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "péritoine",
+        "plèvre"
+      ],
+      "description": "La séreuse joue un rôle dans la protection et le soutien des organes.",
+      "expansion": null,
+      "clinical_significance": "L'inflammation de la séreuse (sérosite) est un signe de péritonite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "séreuse",
+        "péritoine"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "douleur abdominale",
+      "definition": "Sensation de douleur ou d'inconfort dans la région abdominale, souvent associée à des troubles gastro-intestinaux ou à une inflammation.",
+      "category": "symptôme",
+      "synonyms": [],
+      "related_terms": [
+        "douleur",
+        "abdomen"
+      ],
+      "description": "La douleur abdominale peut être diffuse ou localisée et peut indiquer une péritonite.",
+      "expansion": null,
+      "clinical_significance": "La douleur abdominale est un symptôme clé de la péritonite aiguë.",
+      "normal_values": null,
+      "image_search_terms": [
+        "douleur abdominale",
+        "abdomen"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxines bactériennes",
+      "definition": "Substances toxiques produites par des bactéries qui peuvent provoquer des réactions inflammatoires et des symptômes systémiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "endotoxines",
+        "exotoxines"
+      ],
+      "description": "Les toxines bactériennes peuvent entraîner une vasodilatation périphérique et une défaillance myocardique.",
+      "expansion": null,
+      "clinical_significance": "Les toxines bactériennes jouent un rôle clé dans le choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "toxines bactériennes",
+        "endotoxines"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défense généralisée",
+      "definition": "Contraction musculaire réflexe de la paroi abdominale, déclenchée par la douleur lors de la palpation profonde, qui peut être temporairement vaincue par une palpation douce et progressive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "contracture abdominale"
+      ],
+      "description": "La défense généralisée est un signe clinique de péritonite, indiquant une inflammation de la cavité péritonéale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "marbrures cutanées",
+      "definition": "Taches cutanées violacées ou rouges, souvent observées dans les états de choc ou de mauvaise perfusion tissulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "choc"
+      ],
+      "description": "Les marbrures cutanées sont un signe clinique de mauvaise perfusion tissulaire, souvent observées dans les états de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scanners",
+      "definition": "Technique d'imagerie médicale utilisant des rayons X pour produire des images en coupe transversale du corps.",
+      "category": "imagerie",
+      "synonyms": [
+        "tomodensitométrie"
+      ],
+      "related_terms": [
+        "radiographies"
+      ],
+      "description": "Les scanners sont utilisés pour diagnostiquer et évaluer diverses conditions médicales, y compris les péritonites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite asthénique",
+      "definition": "Forme de péritonite caractérisée par des signes cliniques atténués, souvent observée chez les personnes âgées ou immunodéprimées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite"
+      ],
+      "description": "La péritonite asthénique est une forme de péritonite avec des signes cliniques moins prononcés, nécessitant une vigilance accrue pour le diagnostic.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite postopératoire",
+      "definition": "Péritonite survenant après une intervention chirurgicale, souvent due à une complication postopératoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite"
+      ],
+      "description": "La péritonite postopératoire est une complication grave nécessitant une intervention rapide et une réanimation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite appendiculaire",
+      "definition": "Péritonite due à une inflammation ou une perforation de l'appendice.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "appendicite"
+      ],
+      "description": "La péritonite appendiculaire est une complication de l'appendicite nécessitant une intervention chirurgicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites stercorales",
+      "definition": "Péritonites causées par la perforation du côlon et la libération de matières fécales dans la cavité péritonéale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite"
+      ],
+      "description": "Les péritonites stercorales sont des infections graves nécessitant une intervention chirurgicale urgente et une réanimation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonites appendiculaires",
+      "definition": "Inflammation du péritoine causée par une appendicite perforée ou compliquée.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "appendicite",
+        "péritonite"
+      ],
+      "description": "Caractérisée par une douleur abdominale aiguë, souvent localisée dans la fosse iliaque droite.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention chirurgicale urgente pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péritonite appendiculaire",
+        "appendicite"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiase biliaire",
+      "definition": "Présence de calculs dans la vésicule biliaire ou les voies biliaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "calculs biliaires"
+      ],
+      "related_terms": [
+        "cholécystite",
+        "cholécystectomie"
+      ],
+      "description": "Peut causer des douleurs abdominales, des infections et des obstructions.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent une intervention chirurgicale pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "lithiase biliaire",
+        "calculs biliaires"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie diverticulaire colique",
+      "definition": "Présence de diverticules (petites poches) dans la paroi du côlon, pouvant s'enflammer ou se perforer.",
+      "category": "pathologie",
+      "synonyms": [
+        "diverticulose",
+        "diverticulite"
+      ],
+      "related_terms": [
+        "diverticule",
+        "colite"
+      ],
+      "description": "Peut causer des symptômes tels que la douleur abdominale, la fièvre et des changements dans les habitudes intestinales.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale et parfois chirurgicale pour contrôler les symptômes et prévenir les complications.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "maladie diverticulaire colique",
+        "diverticulite"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colite aigue grave",
+      "definition": "Inflammation sévère et soudaine du côlon, souvent causée par une infection ou une maladie inflammatoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "colite sévère"
+      ],
+      "related_terms": [
+        "colite ulcéreuse",
+        "colite infectieuse"
+      ],
+      "description": "Caractérisée par des symptômes tels que la douleur abdominale sévère, la diarrhée sanglante et la fièvre.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale urgente pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "colite aigue grave",
+        "colite sévère"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite purulente",
+      "definition": "Inflammation du péritoine avec présence de pus, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "abcès"
+      ],
+      "description": "Caractérisée par des symptômes tels que la douleur abdominale sévère, la fièvre et une défense abdominale.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention chirurgicale urgente pour drainer le pus et traiter l'infection.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péritonite purulente",
+        "abcès péritonéal"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyostercorale",
+      "definition": "Péritonite causée par la perforation d'un abcès ou d'une tumeur, souvent associée à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "abcès"
+      ],
+      "description": "Caractérisée par des symptômes tels que la douleur abdominale sévère, la fièvre et une défense abdominale.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention chirurgicale urgente pour drainer le pus et traiter l'infection.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "péritonite pyostercorale",
+        "abcès péritonéal"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie colique",
+      "definition": "Réduction de l'apport sanguin au côlon, souvent due à une obstruction ou une occlusion des vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie intestinale"
+      ],
+      "related_terms": [
+        "infarctus mésentérique",
+        "angor abdominal"
+      ],
+      "description": "L'ischémie colique peut entraîner des douleurs abdominales sévères, des saignements rectaux et, dans les cas graves, une nécrose intestinale.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une intervention chirurgicale urgente pour restaurer le flux sanguin et éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère mésentérique inférieure",
+      "definition": "Vaisseau sanguin qui fournit le sang au côlon gauche et au rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère mésentérique supérieure",
+        "tronc cœliaque"
+      ],
+      "description": "L'occlusion de cette artère peut entraîner une ischémie colique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyosalpinx",
+      "definition": "Accumulation de pus dans les trompes de Fallope, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "salpingite",
+        "hydrosalpinx"
+      ],
+      "description": "Le pyosalpinx peut entraîner des douleurs pelviennes sévères et des complications graves comme la péritonite.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antibiotique et parfois une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodynamiques",
+      "definition": "Relatif à la circulation sanguine et à la dynamique des fluides dans le système cardiovasculaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémodynamique",
+        "circulation sanguine"
+      ],
+      "description": "Les perturbations hémodynamiques peuvent inclure des changements dans la pression artérielle, le débit cardiaque et la résistance vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance circulatoire",
+      "definition": "Incapacité du système circulatoire à maintenir un débit sanguin adéquat pour répondre aux besoins métaboliques des tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance circulatoire"
+      ],
+      "related_terms": [
+        "choc circulatoire",
+        "défaillance cardiaque"
+      ],
+      "description": "La défaillance circulatoire peut entraîner une hypotension, une tachycardie et une insuffisance d'organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance rénale",
+      "definition": "Incapacité des reins à filtrer les déchets et à réguler les fluides et les électrolytes dans le corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance rénale"
+      ],
+      "related_terms": [
+        "insuffisance rénale aiguë",
+        "insuffisance rénale chronique"
+      ],
+      "description": "La défaillance rénale peut entraîner une rétention de déchets, des déséquilibres électrolytiques et une accumulation de liquides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance respiratoire",
+      "definition": "Incapacité des poumons à assurer une oxygénation et une élimination du dioxyde de carbone adéquates.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance respiratoire"
+      ],
+      "related_terms": [
+        "syndrome de détresse respiratoire aiguë",
+        "hypoxémie"
+      ],
+      "description": "La défaillance respiratoire peut entraîner une hypoxémie, une hypercapnie et une insuffisance respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "béta-lactamine",
+      "definition": "Classe d'antibiotiques qui contiennent un noyau bêta-lactame dans leur structure moléculaire, incluant les pénicillines, les céphalosporines et les carbapénèmes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "pénicilline",
+        "céphalosporine"
+      ],
+      "description": "Les bêta-lactamines sont utilisées pour traiter une variété d'infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toilette péritonéale",
+      "definition": "Procédure chirurgicale visant à nettoyer la cavité péritonéale des débris, du pus et des tissus infectés.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lavage péritonéal",
+        "débridement"
+      ],
+      "description": "La toilette péritonéale est souvent nécessaire pour traiter les infections abdominales graves comme la péritonite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "open cœlioscopie",
+      "definition": "Technique de cœlioscopie où l'insertion du premier trocart est réalisée sous vision directe pour minimiser le risque de lésions vasculaires ou intestinales.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "cœlioscopie",
+        "laparoscopie"
+      ],
+      "description": "L'open cœlioscopie est utilisée pour réduire les complications liées à l'insertion des trocarts.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suture",
+      "definition": "Technique chirurgicale utilisant des fils ou des agrafes pour fermer une incision ou réparer une structure tissulaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "couture chirurgicale",
+        "ligature"
+      ],
+      "description": "La suture est utilisée pour fermer des plaies, réparer des tissus et réaliser des anastomoses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite septique",
+      "definition": "Inflammation du péritoine causée par une infection bactérienne, souvent due à une perforation intestinale ou une autre source de contamination.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "péritonite",
+        "sepsis abdominal"
+      ],
+      "description": "La péritonite septique nécessite un traitement antibiotique et souvent une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "appendicectomie",
+      "definition": "Ablation chirurgicale de l'appendice, généralement réalisée pour traiter une appendicite aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "ablation de l'appendice"
+      ],
+      "related_terms": [
+        "appendicite",
+        "chirurgie abdominale"
+      ],
+      "description": "Intervention courante pour traiter l'appendicite aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "appendicectomie",
+        "ablation de l'appendice"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "drainage biliaire",
+      "definition": "Procédure pour évacuer la bile accumulée dans les voies biliaires, souvent réalisée pour traiter une obstruction biliaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "drainage des voies biliaires"
+      ],
+      "related_terms": [
+        "obstruction biliaire",
+        "cholécystectomie"
+      ],
+      "description": "Utilisé pour soulager l'obstruction et prévenir les complications.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "drainage biliaire",
+        "drainage des voies biliaires"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hartmann",
+      "definition": "Procédure chirurgicale consistant en la résection d'une partie du côlon avec création d'une colostomie temporaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "procédure de Hartmann"
+      ],
+      "related_terms": [
+        "résection colique",
+        "colostomie"
+      ],
+      "description": "Utilisée pour traiter des pathologies coliques graves nécessitant une résection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hartmann",
+        "procédure de Hartmann"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite généralisée",
+      "definition": "Inflammation diffuse du péritoine affectant toute la cavité abdominale, souvent due à une perforation intestinale ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite diffuse"
+      ],
+      "related_terms": [
+        "péritonite",
+        "infection abdominale"
+      ],
+      "description": "Urgence médicale nécessitant une intervention chirurgicale et une antibiothérapie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite généralisée",
+        "péritonite diffuse"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colpotomie",
+      "definition": "Incision chirurgicale du vagin pour accéder à la cavité péritonéale, souvent utilisée pour drainer un abcès pelvien.",
+      "category": "pathologie",
+      "synonyms": [
+        "incision vaginale"
+      ],
+      "related_terms": [
+        "drainage pelvien",
+        "abcès de Douglas"
+      ],
+      "description": "Utilisée pour traiter des infections pelviennes nécessitant un drainage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "colpotomie",
+        "incision vaginale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rectotomie",
+      "definition": "Incision chirurgicale du rectum pour accéder à la cavité péritonéale, souvent utilisée pour drainer un abcès pelvien.",
+      "category": "pathologie",
+      "synonyms": [
+        "incision rectale"
+      ],
+      "related_terms": [
+        "drainage pelvien",
+        "abcès de Douglas"
+      ],
+      "description": "Utilisée pour traiter des infections pelviennes nécessitant un drainage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rectotomie",
+        "incision rectale"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite secondaire diffuse",
+      "definition": "Inflammation du péritoine résultant d'une perforation ou d'une infection intra-abdominale, nécessitant une intervention chirurgicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite secondaire"
+      ],
+      "related_terms": [
+        "péritonite",
+        "infection abdominale"
+      ],
+      "description": "Urgence médicale nécessitant une intervention chirurgicale et une antibiothérapie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite secondaire diffuse",
+        "péritonite secondaire"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite primitive",
+      "definition": "Inflammation du péritoine sans cause intra-abdominale évidente, souvent due à une infection bactérienne spontanée.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite spontanée"
+      ],
+      "related_terms": [
+        "péritonite",
+        "infection bactérienne"
+      ],
+      "description": "Nécessite une antibiothérapie et parfois une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite primitive",
+        "péritonite spontanée"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathéter de dialyse péritonéale",
+      "definition": "Dispositif médical inséré dans la cavité péritonéale pour effectuer la dialyse péritonéale, une méthode de traitement de l'insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "cathéter péritonéal"
+      ],
+      "related_terms": [
+        "dialyse péritonéale",
+        "insuffisance rénale"
+      ],
+      "description": "Utilisé pour éliminer les déchets et l'excès de fluide du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cathéter de dialyse péritonéale",
+        "cathéter péritonéal"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite tertiaire",
+      "definition": "Inflammation persistante ou récurrente du péritoine après une péritonite secondaire, souvent due à une réponse immunitaire altérée.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite récurrente"
+      ],
+      "related_terms": [
+        "péritonite",
+        "infection abdominale"
+      ],
+      "description": "Nécessite une antibiothérapie et parfois une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "péritonite tertiaire",
+        "péritonite récurrente"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md"
+  ],
+  "total_terms": 60
+}

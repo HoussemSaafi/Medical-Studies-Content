@@ -1,0 +1,3305 @@
+{
+  "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+  "terms": [
+    {
+      "term": "épisode dépressif majeur",
+      "definition": "Un épisode dépressif majeur est une période de deux semaines ou plus durant laquelle une personne présente une humeur dépressive ou une perte d'intérêt ou de plaisir, accompagnée d'autres symptômes dépressifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression majeure"
+      ],
+      "related_terms": [
+        "dépression",
+        "trouble dépressif"
+      ],
+      "description": "C'est une forme sévère de dépression qui affecte significativement la vie quotidienne.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épisode dépressif",
+      "definition": "Un épisode dépressif est une période de tristesse de l'humeur, de ralentissement psychomoteur et de troubles instinctuels évoluant depuis au moins 15 jours.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression"
+      ],
+      "related_terms": [
+        "tristesse de l'humeur",
+        "syndrome de ralentissement psychomoteur",
+        "troubles instinctuels"
+      ],
+      "description": "C'est une période de dépression qui peut varier en intensité et en durée.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation clinique pour déterminer la sévérité et le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tristesse de l'humeur",
+      "definition": "La tristesse de l'humeur est un état émotionnel caractérisé par une sensation de tristesse persistante et souvent inconsolable.",
+      "category": "pathologie",
+      "synonyms": [
+        "humeur dépressive"
+      ],
+      "related_terms": [
+        "dysphorie",
+        "anhédonie dépressive"
+      ],
+      "description": "C'est un symptôme clé de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de ralentissement psychomoteur",
+      "definition": "Le syndrome de ralentissement psychomoteur est une diminution de la vitesse des mouvements et des processus mentaux, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "ralentissement psychomoteur"
+      ],
+      "related_terms": [
+        "bradykinésie",
+        "bradypsychie"
+      ],
+      "description": "C'est un signe clinique important dans l'évaluation de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles instinctuels",
+      "definition": "Les troubles instinctuels sont des perturbations des fonctions de base telles que le sommeil, l'appétit et la sexualité, souvent observées dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles des fonctions de base"
+      ],
+      "related_terms": [
+        "insomnie",
+        "anorexie",
+        "désintérêt sexuel"
+      ],
+      "description": "Ces troubles sont fréquents dans la dépression et peuvent affecter la qualité de vie.",
+      "expansion": null,
+      "clinical_significance": "Indicateurs importants pour l'évaluation de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysphorie",
+      "definition": "La dysphorie est un état d'humeur désagréable, souvent caractérisé par une sensation d'ennui et d'irritabilité.",
+      "category": "pathologie",
+      "synonyms": [
+        "humeur irritable"
+      ],
+      "related_terms": [
+        "tristesse de l'humeur",
+        "anhédonie dépressive"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anhédonie dépressive",
+      "definition": "L'anhédonie dépressive est l'incapacité à ressentir du plaisir dans les activités habituellement agréables, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "anhédonie"
+      ],
+      "related_terms": [
+        "anesthésie affective"
+      ],
+      "description": "C'est un symptôme clé de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anesthésie affective",
+      "definition": "L'anesthésie affective est une perte de la capacité à ressentir des émotions, souvent observée dans les formes sévères de dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "insensibilité émotionnelle"
+      ],
+      "related_terms": [
+        "anhédonie dépressive"
+      ],
+      "description": "C'est un symptôme de dépression sévère.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradykinésie",
+      "definition": "La bradykinésie est une lenteur des mouvements, souvent observée dans le ralentissement psychomoteur de la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "lenteur des mouvements"
+      ],
+      "related_terms": [
+        "hypomimie",
+        "asthénie"
+      ],
+      "description": "C'est un signe clinique important dans l'évaluation de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypomimie",
+      "definition": "L'hypomimie est une réduction de l'expression faciale, souvent observée dans le ralentissement psychomoteur de la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "réduction de l'expression faciale"
+      ],
+      "related_terms": [
+        "bradykinésie",
+        "asthénie"
+      ],
+      "description": "C'est un signe clinique important dans l'évaluation de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradypsychie",
+      "definition": "La bradypsychie est une lenteur des processus mentaux, souvent observée dans le ralentissement psychomoteur de la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "lenteur des processus mentaux"
+      ],
+      "related_terms": [
+        "bradyphémie",
+        "troubles cognitifs"
+      ],
+      "description": "C'est un signe clinique important dans l'évaluation de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradyphémie",
+      "definition": "La bradyphémie est une diminution du flux verbal, souvent observée dans le ralentissement psychomoteur de la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "diminution du flux verbal"
+      ],
+      "related_terms": [
+        "bradypsychie",
+        "troubles cognitifs"
+      ],
+      "description": "C'est un signe clinique important dans l'évaluation de la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la sévérité de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insomnie",
+      "definition": "L'insomnie est une difficulté à s'endormir ou à rester endormi, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles du sommeil"
+      ],
+      "related_terms": [
+        "hypersomnie",
+        "anorexie"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypersomnie",
+      "definition": "L'hypersomnie est une somnolence excessive, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "somnolence excessive"
+      ],
+      "related_terms": [
+        "insomnie",
+        "anorexie"
+      ],
+      "description": "C'est un symptôme moins fréquent mais possible dans la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désintérêt sexuel",
+      "definition": "Le désintérêt sexuel est une baisse du désir sexuel, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "baisse de la libido"
+      ],
+      "related_terms": [
+        "troubles de l'érection",
+        "orgasme"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles de l'érection",
+      "definition": "Les troubles de l'érection sont des difficultés à obtenir ou à maintenir une érection, souvent observés dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysfonction érectile"
+      ],
+      "related_terms": [
+        "désintérêt sexuel",
+        "orgasme"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression chez les hommes.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "orgasme",
+      "definition": "L'orgasme est le point culminant de l'excitation sexuelle, souvent perturbé dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "climax sexuel"
+      ],
+      "related_terms": [
+        "désintérêt sexuel",
+        "troubles de l'érection"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression chez les femmes.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anxiété",
+      "definition": "L'anxiété est un état de préoccupation excessive, souvent observée dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "angoisse"
+      ],
+      "related_terms": [
+        "dysphorie",
+        "insomnie"
+      ],
+      "description": "C'est un symptôme fréquent dans la dépression.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important pour le diagnostic de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "algies",
+      "definition": "Les algies sont des douleurs, souvent observées dans la dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleurs"
+      ],
+      "related_terms": [
+        "céphalées"
+      ],
+      "description": "Ces douleurs peuvent être diverses et affecter la qualité de vie.",
+      "expansion": null,
+      "clinical_significance": "Indicateurs importants pour l'évaluation de la dépression.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bipolarité",
+      "definition": "La bipolarité est un trouble de l'humeur caractérisé par des épisodes de manie et de dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble bipolaire"
+      ],
+      "related_terms": [
+        "épisode maniaque",
+        "trouble bipolaire I et II"
+      ],
+      "description": "C'est un trouble de l'humeur complexe nécessitant une évaluation et un traitement spécialisés.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épisode maniaque",
+      "definition": "Un épisode maniaque est une période d'humeur anormalement élevée, expansive ou irritable, accompagnée d'autres symptômes maniaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "mania"
+      ],
+      "related_terms": [
+        "accès maniaque",
+        "trouble bipolaire I et II"
+      ],
+      "description": "C'est une phase du trouble bipolaire caractérisée par une énergie excessive et une humeur euphorique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accès maniaque",
+      "definition": "Un accès maniaque est une période d'humeur anormalement élevée, expansive ou irritable, accompagnée d'autres symptômes maniaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode maniaque"
+      ],
+      "related_terms": [
+        "mania",
+        "trouble bipolaire I et II"
+      ],
+      "description": "C'est une phase du trouble bipolaire caractérisée par une énergie excessive et une humeur euphorique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble bipolaire I et II",
+      "definition": "Les troubles bipolaires I et II sont des troubles de l'humeur caractérisés par des épisodes de manie (type I) ou d'hypomanie (type II) et de dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "bipolarité"
+      ],
+      "related_terms": [
+        "épisode maniaque",
+        "accès maniaque"
+      ],
+      "description": "Ce sont des troubles de l'humeur complexes nécessitant une évaluation et un traitement spécialisés.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement médical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thymorégulateurs",
+      "definition": "Les thymorégulateurs sont des médicaments utilisés pour stabiliser l'humeur dans les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "stabilisateurs de l'humeur"
+      ],
+      "related_terms": [
+        "antidépresseurs"
+      ],
+      "description": "Ce sont des médicaments essentiels dans le traitement des troubles bipolaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance médicale pour éviter les effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble des conduites",
+      "definition": "Comportement répétitif et persistant où les droits fondamentaux des autres ou les normes sociales sont violés.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble oppositionnel avec provocation"
+      ],
+      "related_terms": [
+        "agressivité",
+        "délinquance"
+      ],
+      "description": "Les troubles des conduites incluent des comportements comme le mensonge, le vol, l'agressivité et les fugues.",
+      "expansion": null,
+      "clinical_significance": "Ces troubles peuvent indiquer des problèmes sous-jacents nécessitant une intervention psychologique ou psychiatrique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperphagie",
+      "definition": "Augmentation excessive de l'appétit et de la consommation alimentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "surconsommation alimentaire"
+      ],
+      "related_terms": [
+        "boulimie",
+        "troubles alimentaires"
+      ],
+      "description": "L'hyperphagie peut être un symptôme de troubles psychiatriques ou de conditions médicales comme le diabète.",
+      "expansion": null,
+      "clinical_significance": "L'hyperphagie peut conduire à l'obésité et à d'autres complications métaboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cauchemars",
+      "definition": "Rêves effrayants ou perturbants qui peuvent réveiller la personne et causer de l'anxiété.",
+      "category": "pathologie",
+      "synonyms": [
+        "mauvais rêves"
+      ],
+      "related_terms": [
+        "terreurs nocturnes",
+        "parasomnies"
+      ],
+      "description": "Les cauchemars peuvent être un symptôme de troubles psychiatriques ou de stress post-traumatique.",
+      "expansion": null,
+      "clinical_significance": "Les cauchemars fréquents peuvent affecter la qualité du sommeil et la santé mentale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encoprésie",
+      "definition": "Incontinence fécale involontaire chez un enfant ayant un âge de développement où le contrôle des selles est attendu.",
+      "category": "pathologie",
+      "synonyms": [
+        "incontinence fécale"
+      ],
+      "related_terms": [
+        "constipation",
+        "troubles sphinctériens"
+      ],
+      "description": "L'encoprésie peut être primaire (jamais acquis le contrôle des selles) ou secondaire (perte du contrôle après l'avoir acquis).",
+      "expansion": null,
+      "clinical_significance": "L'encoprésie peut indiquer des problèmes médicaux ou psychologiques sous-jacents.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "énurésie",
+      "definition": "Incontinence urinaire involontaire pendant le sommeil chez un enfant ayant un âge de développement où le contrôle de la miction est attendu.",
+      "category": "pathologie",
+      "synonyms": [
+        "pipi au lit"
+      ],
+      "related_terms": [
+        "incontinence urinaire",
+        "troubles sphinctériens"
+      ],
+      "description": "L'énurésie peut être primaire (jamais acquis le contrôle de la miction) ou secondaire (perte du contrôle après l'avoir acquis).",
+      "expansion": null,
+      "clinical_significance": "L'énurésie peut indiquer des problèmes médicaux ou psychologiques sous-jacents.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "irritabilité",
+      "definition": "État émotionnel caractérisé par une réactivité excessive aux stimuli, souvent accompagné de colère ou de frustration.",
+      "category": "pathologie",
+      "synonyms": [
+        "excitabilité"
+      ],
+      "related_terms": [
+        "anxiété",
+        "trouble de l'humeur"
+      ],
+      "description": "L'irritabilité peut être un symptôme de divers troubles psychiatriques, y compris la dépression et les troubles bipolaires.",
+      "expansion": null,
+      "clinical_significance": "L'irritabilité peut affecter les relations interpersonnelles et la qualité de vie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hétéroagressivité",
+      "definition": "Comportement agressif dirigé vers les autres, pouvant inclure des actes verbaux ou physiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "agressivité externe"
+      ],
+      "related_terms": [
+        "violence",
+        "trouble des conduites"
+      ],
+      "description": "L'hétéroagressivité peut être un symptôme de troubles psychiatriques ou de stress.",
+      "expansion": null,
+      "clinical_significance": "L'hétéroagressivité peut avoir des conséquences légales et sociales graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "automutilations",
+      "definition": "Actes délibérés de blessure ou de mutilation de son propre corps sans intention suicidaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "auto-mutilation"
+      ],
+      "related_terms": [
+        "troubles de l'humeur",
+        "troubles de la personnalité"
+      ],
+      "description": "Les automutilations peuvent être un moyen de gérer des émotions intenses ou de faire face à des situations stressantes.",
+      "expansion": null,
+      "clinical_significance": "Les automutilations peuvent indiquer des problèmes psychiatriques sous-jacents nécessitant une intervention.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agnosie",
+      "definition": "Incapacité de reconnaître des objets, des personnes ou des sons malgré des sens intacts.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de la reconnaissance"
+      ],
+      "related_terms": [
+        "AVC",
+        "lésions cérébrales"
+      ],
+      "description": "L'agnosie peut affecter diverses fonctions cognitives et nécessite souvent une rééducation.",
+      "expansion": null,
+      "clinical_significance": "L'agnosie peut indiquer des lésions cérébrales sous-jacentes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Parkinson",
+      "definition": "Trouble neurodégénératif caractérisé par des tremblements, une rigidité musculaire et une bradykinésie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Parkinson"
+      ],
+      "related_terms": [
+        "tremblements",
+        "rigidité musculaire"
+      ],
+      "description": "La maladie de Parkinson est causée par la dégénérescence des neurones dopaminergiques dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "La maladie de Parkinson peut entraîner une détérioration progressive des fonctions motrices.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Aldomet",
+      "definition": "Médicament antihypertenseur contenant de la méthyldopa, utilisé pour traiter l'hypertension.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "méthyldopa"
+      ],
+      "related_terms": [
+        "hypertension",
+        "antihypertenseur"
+      ],
+      "description": "L'Aldomet agit en réduisant la pression artérielle en diminuant la résistance périphérique.",
+      "expansion": null,
+      "clinical_significance": "L'Aldomet peut être utilisé pour traiter l'hypertension, mais peut avoir des effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "INH",
+      "definition": "Isoniazide, un médicament antibiotique utilisé pour traiter la tuberculose.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "isoniazide"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "antibiotique"
+      ],
+      "description": "L'INH agit en inhibant la synthèse de la paroi cellulaire des mycobactéries.",
+      "expansion": null,
+      "clinical_significance": "L'INH est un traitement de première ligne pour la tuberculose, mais peut avoir des effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "L-dopa",
+      "definition": "Lévodopa, un médicament utilisé pour traiter la maladie de Parkinson en augmentant les niveaux de dopamine dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "lévodopa"
+      ],
+      "related_terms": [
+        "maladie de Parkinson",
+        "dopamine"
+      ],
+      "description": "La L-dopa est un précurseur de la dopamine et est souvent utilisée en combinaison avec d'autres médicaments.",
+      "expansion": null,
+      "clinical_significance": "La L-dopa peut améliorer les symptômes moteurs de la maladie de Parkinson, mais peut avoir des effets secondaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réactive",
+      "definition": "Dépression réactive, également connue sous le nom de trouble dépressif réactionnel, est une dépression qui se développe en réponse à un événement stressant ou traumatisant.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression réactionnelle"
+      ],
+      "related_terms": [
+        "trouble dépressif",
+        "stress"
+      ],
+      "description": "La dépression réactive est souvent temporaire et peut être traitée par une thérapie ou un soutien social.",
+      "expansion": null,
+      "clinical_significance": "La dépression réactive peut nécessiter une intervention pour prévenir une détérioration de la santé mentale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mélancoliques",
+      "definition": "Forme sévère de dépression caractérisée par une tristesse profonde, une perte d'intérêt et des symptômes physiques marqués.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression mélancolique"
+      ],
+      "related_terms": [
+        "dépression",
+        "trouble dépressif"
+      ],
+      "description": "La dépression mélancolique peut nécessiter un traitement médical ou psychiatrique intensif.",
+      "expansion": null,
+      "clinical_significance": "La dépression mélancolique peut avoir des conséquences graves, y compris un risque accru de suicide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mélancolie puerpérale",
+      "definition": "Forme sévère de dépression post-partum caractérisée par un sentiment d'incapacité et de culpabilité envers l'enfant, souvent avec des éléments délirants.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression puerpérale",
+        "psychose puerpérale"
+      ],
+      "related_terms": [
+        "post-partum blues",
+        "dépression postnatale"
+      ],
+      "description": "La mélancolie puerpérale est une forme grave de dépression post-partum qui peut inclure des idées suicidaires ou infanticides.",
+      "expansion": null,
+      "clinical_significance": "Risque élevé de suicide, suicide à deux ou infanticide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bipolaire",
+      "definition": "Trouble de l'humeur caractérisé par des épisodes de manie et de dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble bipolaire",
+        "maniaco-dépression"
+      ],
+      "related_terms": [
+        "épisode maniaque",
+        "épisode dépressif"
+      ],
+      "description": "Le trouble bipolaire est marqué par des fluctuations extrêmes de l'humeur, allant de la dépression à la manie.",
+      "expansion": null,
+      "clinical_significance": "Risque de récidives et d'évolution vers des épisodes maniaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néoplasies",
+      "definition": "Nouvelles formations tissulaires anormales, souvent synonymes de tumeurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeurs",
+        "cancers"
+      ],
+      "related_terms": [
+        "carcinome",
+        "sarcome"
+      ],
+      "description": "Les néoplasies peuvent être bénignes ou malignes et affecter divers organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeurs cérébrales",
+      "definition": "Masses anormales de tissu dans le cerveau, pouvant être bénignes ou malignes.",
+      "category": "pathologie",
+      "synonyms": [
+        "néoplasies cérébrales",
+        "cancers du cerveau"
+      ],
+      "related_terms": [
+        "gliome",
+        "métastase cérébrale"
+      ],
+      "description": "Les tumeurs cérébrales peuvent provoquer divers symptômes neurologiques en fonction de leur localisation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aboulie",
+      "definition": "Perte de la volonté ou de l'initiative, souvent associée à des troubles psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "apathie",
+        "indifférence"
+      ],
+      "related_terms": [
+        "dépression",
+        "schizophrénie"
+      ],
+      "description": "L'aboulie est un symptôme de nombreux troubles psychiatriques, caractérisé par une incapacité à prendre des décisions ou à initier des actions.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bouffée délirante aiguë",
+      "definition": "Episode psychotique aigu caractérisé par un début brutal et un délire riche et polymorphe.",
+      "category": "pathologie",
+      "synonyms": [
+        "BDA",
+        "psychose aiguë"
+      ],
+      "related_terms": [
+        "délire",
+        "psychose"
+      ],
+      "description": "La bouffée délirante aiguë est souvent vécue dans une atmosphère d'étrangeté et d'angoisse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "schizophrénie catatonique",
+      "definition": "Forme de schizophrénie caractérisée par des troubles moteurs, incluant la stupeur et l'excitation motrice.",
+      "category": "pathologie",
+      "synonyms": [
+        "catatonie"
+      ],
+      "related_terms": [
+        "stupeur",
+        "excitation motrice"
+      ],
+      "description": "La schizophrénie catatonique peut inclure des symptômes tels que la catalepsie et le négativisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hébéphrénie",
+      "definition": "Forme de schizophrénie caractérisée par des signes déficitaires ou négatifs, tels que l'apathie et le retrait social.",
+      "category": "pathologie",
+      "synonyms": [
+        "schizophrénie désorganisée"
+      ],
+      "related_terms": [
+        "apathie",
+        "retrait social"
+      ],
+      "description": "L'hébéphrénie est souvent associée à une désorganisation de la pensée et du comportement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble hyperactivité avec déficit de l'attention",
+      "definition": "Trouble neurodéveloppemental caractérisé par des niveaux élevés d'hyperactivité, d'impulsivité et d'inattention.",
+      "category": "pathologie",
+      "synonyms": [
+        "TDAH"
+      ],
+      "related_terms": [
+        "hyperactivité",
+        "inattention"
+      ],
+      "description": "Le TDAH est souvent diagnostiqué chez les enfants d'âge scolaire et peut persister à l'âge adulte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble dépressif récurrent",
+      "definition": "Forme de dépression caractérisée par des épisodes dépressifs répétés avec des intervalles de rémission.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression récurrente"
+      ],
+      "related_terms": [
+        "épisode dépressif",
+        "récidive"
+      ],
+      "description": "Le trouble dépressif récurrent nécessite un intervalle d'au moins deux mois consécutifs entre les épisodes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anxiété psychique",
+      "definition": "Etat de tension mentale et de préoccupation excessive, souvent accompagné de symptômes physiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "anxiété mentale"
+      ],
+      "related_terms": [
+        "anxiété",
+        "stress"
+      ],
+      "description": "L'anxiété psychique peut être un symptôme de divers troubles anxieux et de l'humeur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "culpabilité pathologique",
+      "definition": "Sentiment de culpabilité excessif et irrationnel, souvent associé à des troubles psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "culpabilité morbide"
+      ],
+      "related_terms": [
+        "dépression",
+        "anxiété"
+      ],
+      "description": "La culpabilité pathologique peut être un symptôme de dépression ou de troubles anxieux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maniaques",
+      "definition": "Symptômes caractérisés par une humeur élevée, une énergie excessive et une activité accrue, souvent associés au trouble bipolaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "manie"
+      ],
+      "related_terms": [
+        "hypomanie",
+        "trouble bipolaire"
+      ],
+      "description": "Les symptômes maniaques peuvent inclure une euphorie, une irritabilité et une désinhibition.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépressive",
+      "definition": "Relatif à la dépression, un trouble de l'humeur caractérisé par une tristesse persistante et une perte d'intérêt.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépressif"
+      ],
+      "related_terms": [
+        "dépression",
+        "trouble de l'humeur"
+      ],
+      "description": "La dépression est un trouble mental courant qui se caractérise par une tristesse persistante et une perte d'intérêt pour les activités quotidiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépressifs",
+      "definition": "Relatif à la dépression, un trouble de l'humeur caractérisé par une tristesse persistante et une perte d'intérêt.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépressive"
+      ],
+      "related_terms": [
+        "dépression",
+        "trouble de l'humeur"
+      ],
+      "description": "La dépression est un trouble mental courant qui se caractérise par une tristesse persistante et une perte d'intérêt pour les activités quotidiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suicide",
+      "definition": "Acte délibéré de se donner la mort.",
+      "category": "pathologie",
+      "synonyms": [
+        "suicidaire"
+      ],
+      "related_terms": [
+        "tentatives de suicide",
+        "idées suicidaires"
+      ],
+      "description": "Le suicide est un acte volontaire de mettre fin à sa propre vie, souvent associé à des troubles mentaux tels que la dépression.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bipolaires",
+      "definition": "Relatif au trouble bipolaire, un trouble de l'humeur caractérisé par des périodes de dépression et de manie.",
+      "category": "pathologie",
+      "synonyms": [
+        "bipolaire"
+      ],
+      "related_terms": [
+        "trouble bipolaire",
+        "manie",
+        "dépression"
+      ],
+      "description": "Le trouble bipolaire est un trouble mental caractérisé par des épisodes de dépression et de manie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychométriques",
+      "definition": "Relatif à la psychométrie, la science de la mesure des capacités mentales et des comportements.",
+      "category": "pathologie",
+      "synonyms": [
+        "psychométrique"
+      ],
+      "related_terms": [
+        "échelles psychométriques",
+        "tests psychométriques"
+      ],
+      "description": "La psychométrie est la science de la mesure des capacités mentales et des comportements, souvent utilisée pour évaluer les troubles mentaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "R.U.D",
+      "definition": "Outil d'évaluation du risque suicidaire composé de trois composantes : Risque suicidaire (R), Urgence (U), Dangerosité (D).",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "évaluation du risque suicidaire",
+        "suicide"
+      ],
+      "description": "L'outil R.U.D est utilisé pour évaluer le risque suicidaire en trois composantes : le risque suicidaire, l'urgence de la menace et la dangerosité du scénario suicidaire.",
+      "expansion": "Risque suicidaire, Urgence, Dangerosité",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychotiques",
+      "definition": "Relatif à la psychose, un trouble mental caractérisé par une perte de contact avec la réalité.",
+      "category": "pathologie",
+      "synonyms": [
+        "psychotique"
+      ],
+      "related_terms": [
+        "psychose",
+        "hallucinations",
+        "délire"
+      ],
+      "description": "Les symptômes psychotiques incluent des hallucinations, des délires et une perte de contact avec la réalité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "impulsivité",
+      "definition": "Tendance à agir de manière soudaine et sans réflexion préalable.",
+      "category": "pathologie",
+      "synonyms": [
+        "impulsif"
+      ],
+      "related_terms": [
+        "comportement impulsif",
+        "troubles de la personnalité"
+      ],
+      "description": "L'impulsivité est un trait de personnalité caractérisé par des actions soudaines et non réfléchies, souvent associé à des troubles de la personnalité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désespoir",
+      "definition": "État émotionnel de profonde tristesse et de perte d'espoir.",
+      "category": "pathologie",
+      "synonyms": [
+        "désespéré"
+      ],
+      "related_terms": [
+        "dépression",
+        "suicide"
+      ],
+      "description": "Le désespoir est un état émotionnel de profonde tristesse et de perte d'espoir, souvent associé à la dépression et au risque suicidaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "douleur morale",
+      "definition": "Souffrance émotionnelle intense, souvent associée à des sentiments de culpabilité et d'indignité.",
+      "category": "pathologie",
+      "synonyms": [
+        "souffrance morale"
+      ],
+      "related_terms": [
+        "dépression",
+        "culpabilité"
+      ],
+      "description": "La douleur morale est une souffrance émotionnelle intense, souvent associée à des sentiments de culpabilité et d'indignité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "caractéristiques psychotiques",
+      "definition": "Symptômes de psychose, incluant des hallucinations et des délires.",
+      "category": "pathologie",
+      "synonyms": [
+        "symptômes psychotiques"
+      ],
+      "related_terms": [
+        "psychose",
+        "hallucinations",
+        "délire"
+      ],
+      "description": "Les caractéristiques psychotiques incluent des hallucinations et des délires, indiquant une perte de contact avec la réalité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperthymie expansive",
+      "definition": "État d'humeur exagérément positive et expansive, souvent observé dans la manie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperthymie"
+      ],
+      "related_terms": [
+        "manie",
+        "euphorie"
+      ],
+      "description": "L'hyperthymie expansive est un état d'humeur exagérément positive et expansive, souvent observé dans la manie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachypsychie",
+      "definition": "Accélération du fonctionnement mental, souvent observée dans la manie.",
+      "category": "pathologie",
+      "synonyms": [
+        "tachypsychique"
+      ],
+      "related_terms": [
+        "manie",
+        "pensée accélérée"
+      ],
+      "description": "La tachypsychie est une accélération du fonctionnement mental, souvent observée dans la manie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "logorrhéique",
+      "definition": "Caractérisé par un flux de paroles excessif et souvent incohérent.",
+      "category": "pathologie",
+      "synonyms": [
+        "logorrhée"
+      ],
+      "related_terms": [
+        "manie",
+        "discours incohérent"
+      ],
+      "description": "La logorrhée est un flux de paroles excessif et souvent incohérent, souvent observé dans la manie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fuite des idées",
+      "definition": "Pensée rapide et changeante, souvent observée dans la manie.",
+      "category": "pathologie",
+      "synonyms": [
+        "fuite des idées"
+      ],
+      "related_terms": [
+        "manie",
+        "pensée accélérée"
+      ],
+      "description": "La fuite des idées est une pensée rapide et changeante, souvent observée dans la manie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypermnésie",
+      "definition": "Capacité anormale à se souvenir de détails avec une grande précision, souvent observée dans les états maniaques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maniaque",
+        "évocation",
+        "reproduction automatique"
+      ],
+      "description": "L'hypermnésie est un symptôme courant dans les troubles de l'humeur, notamment la manie, où les patients peuvent réciter des textes appris par cœur avec une grande précision.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désinhibition sexuelle",
+      "definition": "Comportement sexuel impulsif et inapproprié, souvent observé dans les troubles de l'humeur comme la manie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "exhibitionnisme",
+        "outrage",
+        "attentat à la pudeur"
+      ],
+      "description": "La désinhibition sexuelle peut conduire à des comportements médicolégaux et à des actes inappropriés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "substance",
+      "definition": "Toute matière ou produit chimique qui peut avoir des effets physiologiques ou psychologiques sur le corps.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "médicament",
+        "traitement"
+      ],
+      "description": "Les substances peuvent inclure des médicaments, des drogues illicites, ou d'autres produits chimiques ayant des effets sur le corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseur",
+      "definition": "Médicament utilisé pour traiter la dépression en augmentant les niveaux de certains neurotransmetteurs dans le cerveau.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "électroconvulsivothérapie",
+        "trouble bipolaire I"
+      ],
+      "description": "Les antidépresseurs sont couramment utilisés pour traiter la dépression, mais peuvent parfois induire des épisodes maniaques chez les patients bipolaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électroconvulsivothérapie",
+      "definition": "Traitement psychiatrique utilisant des impulsions électriques pour induire des crises convulsives sous anesthésie générale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ECT"
+      ],
+      "related_terms": [
+        "antidépresseur",
+        "trouble bipolaire I"
+      ],
+      "description": "L'électroconvulsivothérapie est utilisée pour traiter les troubles de l'humeur sévères, y compris la dépression résistante aux médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble bipolaire I",
+      "definition": "Trouble de l'humeur caractérisé par des épisodes maniaques sévères et des épisodes dépressifs.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épisode maniaque",
+        "antidépresseur",
+        "électroconvulsivothérapie"
+      ],
+      "description": "Le trouble bipolaire I est une forme sévère de trouble bipolaire, nécessitant souvent une hospitalisation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychomotrice",
+      "definition": "Relatif à l'activité motrice et psychique, souvent observé dans les troubles de l'humeur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "agitation",
+        "activité orientée vers un but"
+      ],
+      "description": "L'agitation psychomotrice est un symptôme courant dans les épisodes maniaques et hypomaniaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mixtes",
+      "definition": "Caractéristiques ou symptômes qui combinent des éléments de manie et de dépression, souvent observés dans les troubles de l'humeur.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épisode maniaque",
+        "épisode dépressif"
+      ],
+      "description": "Les caractéristiques mixtes peuvent inclure des symptômes de manie et de dépression simultanément.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manie",
+      "definition": "État pathologique caractérisé par une élévation anormale de l'humeur, une hyperactivité, une accélération de la pensée et une diminution du besoin de sommeil.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode maniaque"
+      ],
+      "related_terms": [
+        "dépression",
+        "hypomanie"
+      ],
+      "description": "La manie est une phase du trouble bipolaire où le patient peut présenter des comportements impulsifs, une euphorie excessive et une irritabilité.",
+      "expansion": null,
+      "clinical_significance": "La manie peut entraîner des comportements à risque et nécessite souvent une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péripartum",
+      "definition": "Période qui entoure la grossesse, incluant la période prénatale et postnatale.",
+      "category": "physiologie",
+      "synonyms": [
+        "post-partum"
+      ],
+      "related_terms": [
+        "grossesse",
+        "accouchement"
+      ],
+      "description": "Le péripartum est une période critique pour la santé mentale des femmes, avec un risque accru de troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "Les troubles de l'humeur en péripartum nécessitent une attention particulière pour prévenir les complications maternelles et néonatales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "catatoniques",
+      "definition": "Caractéristiques comportementales incluant une immobilité, une mutité, une stupeur ou une excitation motrice excessive.",
+      "category": "pathologie",
+      "synonyms": [
+        "catatonie"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble schizo-affectif"
+      ],
+      "description": "Les caractéristiques catatoniques peuvent être observées dans divers troubles psychiatriques, y compris la schizophrénie et les troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "La catatonie peut nécessiter une intervention médicale urgente en raison du risque de complications physiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble bipolaire II",
+      "definition": "Forme de trouble bipolaire caractérisée par la survenue d'au moins un épisode dépressif majeur et d'au moins un épisode hypomaniaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "TBII"
+      ],
+      "related_terms": [
+        "trouble bipolaire I",
+        "épisode hypomaniaque"
+      ],
+      "description": "Le trouble bipolaire II est souvent associé à des épisodes dépressifs plus fréquents et plus longs que les épisodes hypomaniaques.",
+      "expansion": null,
+      "clinical_significance": "Le trouble bipolaire II peut entraîner une détérioration significative du fonctionnement quotidien et nécessite une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypomanie",
+      "definition": "État d'humeur élevée moins sévère que la manie, caractérisé par une élévation de l'humeur, une augmentation de l'énergie et de l'activité.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode hypomaniaque"
+      ],
+      "related_terms": [
+        "manie",
+        "dépression"
+      ],
+      "description": "L'hypomanie est souvent observée dans le trouble bipolaire II et peut être perçue comme agréable par le patient.",
+      "expansion": null,
+      "clinical_significance": "L'hypomanie peut entraîner des comportements à risque et nécessite une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "guérison",
+      "definition": "Processus de rétablissement de la santé après une maladie ou une blessure.",
+      "category": "physiologie",
+      "synonyms": [
+        "rétablissement",
+        "récupération"
+      ],
+      "related_terms": [
+        "rémission",
+        "convalescence"
+      ],
+      "description": "La guérison peut être partielle ou complète et dépend de nombreux facteurs, y compris le traitement et la réponse individuelle.",
+      "expansion": null,
+      "clinical_significance": "La guérison est l'objectif principal de toute intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TBI",
+      "definition": "Abréviation pour Trouble Bipolaire I.",
+      "category": "acronyme",
+      "synonyms": [
+        "trouble bipolaire I"
+      ],
+      "related_terms": [
+        "TBII",
+        "trouble bipolaire II"
+      ],
+      "description": "Le TBI est caractérisé par la survenue d'au moins un épisode maniaque.",
+      "expansion": "Trouble Bipolaire I",
+      "clinical_significance": "Le TBI peut entraîner des comportements à risque et nécessite une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TBII",
+      "definition": "Abréviation pour Trouble Bipolaire II.",
+      "category": "acronyme",
+      "synonyms": [
+        "trouble bipolaire II"
+      ],
+      "related_terms": [
+        "TBI",
+        "trouble bipolaire I"
+      ],
+      "description": "Le TBII est caractérisé par la survenue d'au moins un épisode dépressif majeur et d'au moins un épisode hypomaniaque.",
+      "expansion": "Trouble Bipolaire II",
+      "clinical_significance": "Le TBII peut entraîner une détérioration significative du fonctionnement quotidien et nécessite une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble de l'humeur",
+      "definition": "Catégorie de troubles mentaux caractérisés par des perturbations de l'humeur, incluant la dépression et la manie.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble affectif"
+      ],
+      "related_terms": [
+        "trouble bipolaire",
+        "dépression majeure"
+      ],
+      "description": "Les troubles de l'humeur peuvent être induits par des substances ou dus à des affections médicales.",
+      "expansion": null,
+      "clinical_significance": "Les troubles de l'humeur nécessitent une évaluation et une prise en charge appropriées pour améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble schizo-affectif",
+      "definition": "Trouble mental caractérisé par des symptômes de schizophrénie et de trouble de l'humeur.",
+      "category": "pathologie",
+      "synonyms": [
+        "schizo-affectif"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble bipolaire"
+      ],
+      "description": "Le trouble schizo-affectif peut inclure des épisodes de dépression, de manie ou des deux.",
+      "expansion": null,
+      "clinical_significance": "Le trouble schizo-affectif nécessite une prise en charge médicale et psychosociale à long terme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble dépressif majeur",
+      "definition": "Trouble de l'humeur caractérisé par un ou plusieurs épisodes dépressifs majeurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression majeure"
+      ],
+      "related_terms": [
+        "trouble bipolaire",
+        "dépression"
+      ],
+      "description": "Le trouble dépressif majeur est souvent associé à une humeur triste, une perte d'intérêt ou de plaisir, et une diminution de l'énergie.",
+      "expansion": null,
+      "clinical_significance": "Le trouble dépressif majeur nécessite une évaluation et une prise en charge appropriées pour améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "organicité",
+      "definition": "Caractère de ce qui est organique, c'est-à-dire relatif aux organes ou aux tissus du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "caractère organique"
+      ],
+      "related_terms": [
+        "pathologie organique",
+        "troubles organiques"
+      ],
+      "description": "L'organicité est souvent évoquée lorsque les symptômes psychiatriques sont liés à une pathologie physique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cushing",
+      "definition": "Maladie de Cushing, syndrome endocrinien causé par un excès de cortisol.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Cushing"
+      ],
+      "related_terms": [
+        "hypercortisolisme",
+        "adénome hypophysaire"
+      ],
+      "description": "La maladie de Cushing peut entraîner des symptômes psychiatriques, y compris des troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Wilson",
+      "definition": "Maladie de Wilson, trouble génétique affectant le métabolisme du cuivre.",
+      "category": "pathologie",
+      "synonyms": [
+        "dégénérescence hépatolenticulaire"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "troubles neurologiques"
+      ],
+      "description": "La maladie de Wilson peut causer des symptômes psychiatriques et neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TSA",
+      "definition": "Trouble Schizo-Affectif, combinaison de symptômes schizophréniques et de troubles de l'humeur.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble schizo-affectif"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble bipolaire"
+      ],
+      "description": "Le TSA se caractérise par des épisodes de psychose et de troubles de l'humeur.",
+      "expansion": "Trouble Schizo-Affectif",
+      "clinical_significance": "Diagnostic complexe nécessitant une évaluation approfondie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TB",
+      "definition": "Trouble Bipolaire, caractérisé par des épisodes alternants de manie et de dépression.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble bipolaire"
+      ],
+      "related_terms": [
+        "manie",
+        "dépression"
+      ],
+      "description": "Le TB est un trouble de l'humeur chronique nécessitant un traitement à long terme.",
+      "expansion": "Trouble Bipolaire",
+      "clinical_significance": "Important pour la gestion des épisodes maniaques et dépressifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TB II",
+      "definition": "Trouble Bipolaire de type II, caractérisé par des épisodes dépressifs majeurs et des épisodes hypomaniaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble bipolaire de type II"
+      ],
+      "related_terms": [
+        "hypomanie",
+        "dépression"
+      ],
+      "description": "Le TB II est une forme de trouble bipolaire avec des épisodes hypomaniaques moins sévères que la manie.",
+      "expansion": "Trouble Bipolaire de type II",
+      "clinical_significance": "Diagnostic différentiel important par rapport au trouble bipolaire de type I.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychotropes",
+      "definition": "Médicaments agissant sur le système nerveux central et modifiant l'humeur, les perceptions ou le comportement.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "médicaments psychotropes"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "anxiolytiques"
+      ],
+      "description": "Les psychotropes sont utilisés pour traiter divers troubles psychiatriques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRSNA",
+      "definition": "Inhibiteurs de la Recapture de la Sérotonine et de la Noradrénaline, classe d'antidépresseurs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "inhibiteurs de la recapture de la sérotonine et de la noradrénaline"
+      ],
+      "related_terms": [
+        "venlafaxine",
+        "milnacipran"
+      ],
+      "description": "Les IRSNA sont utilisés pour traiter la dépression et les troubles anxieux.",
+      "expansion": "Inhibiteurs de la Recapture de la Sérotonine et de la Noradrénaline",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECT",
+      "definition": "Electroconvulsivothérapie, traitement psychiatrique utilisant des impulsions électriques pour induire des crises convulsives.",
+      "category": "acronyme",
+      "synonyms": [
+        "électroconvulsivothérapie"
+      ],
+      "related_terms": [
+        "électrochocs",
+        "thérapie par électrochocs"
+      ],
+      "description": "L'ECT est utilisée pour traiter les dépressions sévères résistantes aux médicaments.",
+      "expansion": "Electroconvulsivothérapie",
+      "clinical_significance": "Traitement efficace pour les dépressions sévères et résistantes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuroleptique",
+      "definition": "Médicament antipsychotique utilisé pour traiter les troubles psychotiques en bloquant les récepteurs de la dopamine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antipsychotiques"
+      ],
+      "related_terms": [
+        "anxiolytique",
+        "benzodiazépines"
+      ],
+      "description": "Les neuroleptiques sédatifs peuvent être utilisés en début de traitement pour réduire l'angoisse et prévenir le risque de passage à l'acte suicidaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychothérapies",
+      "definition": "Traitement psychologique basé sur des techniques verbales et comportementales pour aider les patients à comprendre et à gérer leurs problèmes émotionnels et comportementaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "thérapies psychologiques"
+      ],
+      "related_terms": [
+        "psychothérapie de soutien",
+        "thérapie cognitivo-comportementale"
+      ],
+      "description": "Les psychothérapies sont souvent utilisées en association avec les antidépresseurs pour traiter les dépressions sans caractéristiques mélancoliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "quétiapine",
+      "definition": "Antipsychotique de seconde génération utilisé pour traiter la schizophrénie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Séroquel"
+      ],
+      "related_terms": [
+        "olanzapine",
+        "aripiprazole"
+      ],
+      "description": "La quétiapine a des vertus thymorégulatrices et est utilisée pour traiter les épisodes maniaques et dépressifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "olanzapine",
+      "definition": "Antipsychotique de seconde génération utilisé pour traiter la schizophrénie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Zyprexa",
+        "Vaincor"
+      ],
+      "related_terms": [
+        "quétiapine",
+        "aripiprazole"
+      ],
+      "description": "L'olanzapine a des vertus thymorégulatrices et est utilisée pour traiter les épisodes maniaques et dépressifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aripiprazole",
+      "definition": "Antipsychotique de seconde génération utilisé pour traiter la schizophrénie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Abilify"
+      ],
+      "related_terms": [
+        "quétiapine",
+        "olanzapine"
+      ],
+      "description": "L'aripiprazole a des vertus thymorégulatrices et est utilisé pour traiter les épisodes maniaques et dépressifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rispéridone",
+      "definition": "Antipsychotique de seconde génération utilisé pour traiter la schizophrénie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Risperdal"
+      ],
+      "related_terms": [
+        "quétiapine",
+        "olanzapine"
+      ],
+      "description": "La rispéridone a des vertus thymorégulatrices et est utilisée pour traiter les épisodes maniaques et dépressifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorpromazine",
+      "definition": "Antipsychotique de première génération utilisé pour traiter la schizophrénie et les troubles psychotiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Largactil"
+      ],
+      "related_terms": [
+        "halopéridol",
+        "Haldol"
+      ],
+      "description": "La chlorpromazine est utilisée à but sédatif dans les épisodes maniaques notamment dans les formes très agitées ou délirantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "halopéridol",
+      "definition": "Antipsychotique de première génération utilisé pour traiter la schizophrénie et les troubles psychotiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Haldol"
+      ],
+      "related_terms": [
+        "chlorpromazine",
+        "Largactil"
+      ],
+      "description": "L'halopéridol est utilisé à but sédatif dans les épisodes maniaques notamment dans les formes très agitées ou délirantes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychoéducation",
+      "definition": "Processus éducatif visant à informer les patients et leurs familles sur la maladie, son traitement et les moyens de mieux gérer la condition.",
+      "category": "pathologie",
+      "synonyms": [
+        "éducation thérapeutique"
+      ],
+      "related_terms": [
+        "psychothérapies",
+        "thérapie comportementale et cognitive"
+      ],
+      "description": "La psychoéducation est utilisée pour expliquer la maladie et la nécessité du traitement pour obtenir une bonne alliance thérapeutique et assurer une bonne observance thérapeutique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thérapie comportementale et cognitive",
+      "definition": "Type de psychothérapie qui aide les patients à identifier et à changer les pensées et comportements destructeurs ou perturbants.",
+      "category": "pathologie",
+      "synonyms": [
+        "TCC"
+      ],
+      "related_terms": [
+        "psychothérapies",
+        "psychoéducation"
+      ],
+      "description": "La thérapie comportementale et cognitive est utilisée principalement dans la dépression pour aider les patients à gérer leurs symptômes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "actes médico-légaux",
+      "definition": "Actes ou comportements qui ont des implications légales et médicales, souvent en lien avec des situations de danger pour soi-même ou pour autrui.",
+      "category": "pathologie",
+      "synonyms": [
+        "comportements à risque"
+      ],
+      "related_terms": [
+        "hospitalisation sous contrainte"
+      ],
+      "description": "Les actes médico-légaux peuvent inclure des comportements suicidaires ou violents nécessitant une intervention médicale et légale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thymorégulateur",
+      "definition": "Médicament utilisé pour stabiliser l'humeur, souvent prescrit dans le traitement des troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "stabilisateur de l'humeur"
+      ],
+      "related_terms": [
+        "lithium",
+        "lamotrigine",
+        "quétiapine"
+      ],
+      "description": "Les thymorégulateurs sont essentiels pour prévenir les épisodes maniaques et dépressifs dans le trouble bipolaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la stabilisation de l'humeur et la prévention des rechutes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clairance de la créatinine",
+      "definition": "Mesure de la capacité des reins à éliminer la créatinine du sang.",
+      "category": "imagerie",
+      "synonyms": [
+        "clairance créatininique"
+      ],
+      "related_terms": [
+        "urée",
+        "TSH ultrasensible"
+      ],
+      "description": "La clairance de la créatinine est utilisée pour évaluer la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires des médicaments sur les reins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "clairance de la créatinine",
+        "clairance créatininique"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TSH ultrasensible",
+      "definition": "Test qui mesure les niveaux de thyréostimuline (TSH) dans le sang avec une grande sensibilité.",
+      "category": "imagerie",
+      "synonyms": [
+        "TSH"
+      ],
+      "related_terms": [
+        "clairance de la créatinine",
+        "protéinurie de 24 H"
+      ],
+      "description": "La TSH ultrasensible est utilisée pour diagnostiquer les troubles thyroïdiens.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires des médicaments sur la thyroïde.",
+      "normal_values": null,
+      "image_search_terms": [
+        "TSH ultrasensible",
+        "TSH"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéinurie de 24 H",
+      "definition": "Mesure de la quantité de protéines excrétées dans l'urine sur une période de 24 heures.",
+      "category": "imagerie",
+      "synonyms": [
+        "protéinurie"
+      ],
+      "related_terms": [
+        "TSH ultrasensible",
+        "BHCG"
+      ],
+      "description": "La protéinurie de 24 H est utilisée pour évaluer la fonction rénale et détecter les maladies rénales.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires des médicaments sur les reins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "protéinurie de 24 H",
+        "protéinurie"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tégrétolémie",
+      "definition": "Mesure des niveaux de carbamazépine dans le sang.",
+      "category": "imagerie",
+      "synonyms": [
+        "niveaux de carbamazépine"
+      ],
+      "related_terms": [
+        "carbamazépine",
+        "dépakinémie"
+      ],
+      "description": "La tégrétolémie est utilisée pour surveiller les niveaux de carbamazépine et ajuster la posologie.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires et l'efficacité de la carbamazépine.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tégrétolémie",
+        "niveaux de carbamazépine"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépakinémie",
+      "definition": "Mesure des niveaux de valproate dans le sang.",
+      "category": "imagerie",
+      "synonyms": [
+        "niveaux de valproate"
+      ],
+      "related_terms": [
+        "valproate",
+        "tégrétolémie"
+      ],
+      "description": "La dépakinémie est utilisée pour surveiller les niveaux de valproate et ajuster la posologie.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires et l'efficacité du valproate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépakinémie",
+        "niveaux de valproate"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antipsychotiques atypiques",
+      "definition": "Médicaments utilisés pour traiter la schizophrénie et les troubles bipolaires avec moins d'effets secondaires extrapyramidaux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "APA"
+      ],
+      "related_terms": [
+        "quétiapine",
+        "syndrome métabolique"
+      ],
+      "description": "Les antipsychotiques atypiques sont utilisés pour traiter les symptômes psychotiques avec moins d'effets secondaires.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de la schizophrénie et des troubles bipolaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antipsychotiques atypiques",
+        "APA"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseur tricyclique",
+      "definition": "Classe de médicaments antidépresseurs qui augmentent les niveaux de sérotonine et de noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "TCA"
+      ],
+      "related_terms": [
+        "antidépresseur",
+        "ISRS"
+      ],
+      "description": "Les antidépresseurs tricycliques sont utilisés pour traiter la dépression, mais ont des effets secondaires significatifs.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le traitement de la dépression, mais avec précaution chez les personnes âgées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "antidépresseur tricyclique",
+        "TCA"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome",
+      "definition": "Tumeur bénigne qui se développe à partir des cellules glandulaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseur tricyclique"
+      ],
+      "description": "Un adénome peut se développer dans diverses glandes, y compris la prostate.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance des effets secondaires des antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adénome"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRSN",
+      "definition": "Inhibiteurs de la Recapture de la Sérotonine et de la Noradrénaline, une classe d'antidépresseurs qui augmentent les niveaux de sérotonine et de noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "SNRI"
+      ],
+      "related_terms": [
+        "venlafaxine",
+        "duloxétine"
+      ],
+      "description": "Utilisés pour traiter la dépression, les troubles anxieux, et la douleur neuropathique.",
+      "expansion": null,
+      "clinical_significance": "Efficaces mais peuvent causer des effets secondaires comme l'hypertension et la dysurie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TOC",
+      "definition": "Trouble Obsessionnel Compulsif, un trouble anxieux caractérisé par des obsessions et des compulsions.",
+      "category": "pathologie",
+      "synonyms": [
+        "OCD"
+      ],
+      "related_terms": [
+        "anxiété",
+        "compulsions"
+      ],
+      "description": "Les patients présentent des pensées intrusives répétitives et des comportements répétitifs pour réduire l'anxiété.",
+      "expansion": null,
+      "clinical_significance": "Peut être traité par des ISRS et des thérapies comportementales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESPT",
+      "definition": "État de Stress Post-Traumatique, un trouble anxieux qui survient après l'exposition à un événement traumatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "PTSD"
+      ],
+      "related_terms": [
+        "trauma",
+        "flashbacks"
+      ],
+      "description": "Les patients éprouvent des symptômes tels que des flashbacks, des cauchemars, et une hypervigilance.",
+      "expansion": null,
+      "clinical_significance": "Peut être traité par des ISRS et des thérapies comportementales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PRD",
+      "definition": "Phobie Sociale, un trouble anxieux caractérisé par une peur intense des situations sociales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Social Phobia"
+      ],
+      "related_terms": [
+        "anxiété",
+        "évitement social"
+      ],
+      "description": "Les patients éprouvent une peur intense et une anxiété dans les situations sociales, souvent accompagnées d'évitement.",
+      "expansion": null,
+      "clinical_significance": "Peut être traité par des ISRS et des thérapies comportementales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome anticholinergique",
+      "definition": "Ensemble de symptômes résultant de l'inhibition de l'acétylcholine, un neurotransmetteur.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticholinergic syndrome"
+      ],
+      "related_terms": [
+        "sécheresse buccale",
+        "constipation"
+      ],
+      "description": "Peut inclure des symptômes tels que la sécheresse buccale, la constipation, et la tachycardie.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire courant des antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IH",
+      "definition": "Insuffisance Hépatique, une incapacité du foie à remplir ses fonctions normales.",
+      "category": "pathologie",
+      "synonyms": [
+        "liver failure"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "jaunisse"
+      ],
+      "description": "Peut causer des symptômes tels que la jaunisse, l'ascite, et l'encéphalopathie hépatique.",
+      "expansion": null,
+      "clinical_significance": "Contre-indication pour certains antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IR",
+      "definition": "Insuffisance Rénale, une incapacité des reins à remplir leurs fonctions normales.",
+      "category": "pathologie",
+      "synonyms": [
+        "kidney failure"
+      ],
+      "related_terms": [
+        "urémie",
+        "dialyse"
+      ],
+      "description": "Peut causer des symptômes tels que l'urémie, l'œdème, et l'hypertension.",
+      "expansion": null,
+      "clinical_significance": "Contre-indication pour certains antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IC",
+      "definition": "Insuffisance Cardiaque, une incapacité du cœur à pomper suffisamment de sang pour répondre aux besoins du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "heart failure"
+      ],
+      "related_terms": [
+        "œdème pulmonaire",
+        "essoufflement"
+      ],
+      "description": "Peut causer des symptômes tels que l'essoufflement, la fatigue, et l'œdème.",
+      "expansion": null,
+      "clinical_significance": "Contre-indication pour certains antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coronaropathies",
+      "definition": "Maladies des artères coronaires, souvent causées par l'athérosclérose, entraînant une réduction de l'apport sanguin au cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "coronary artery disease"
+      ],
+      "related_terms": [
+        "angine de poitrine",
+        "infarctus du myocarde"
+      ],
+      "description": "Peut causer des symptômes tels que la douleur thoracique, l'essoufflement, et l'infarctus du myocarde.",
+      "expansion": null,
+      "clinical_significance": "Contre-indication pour certains antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tr du rythme",
+      "definition": "Troubles du Rythme Cardiaque, des anomalies dans le rythme normal du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "arrhythmia"
+      ],
+      "related_terms": [
+        "tachycardie",
+        "bradycardie"
+      ],
+      "description": "Peut inclure des symptômes tels que des palpitations, des étourdissements, et une syncope.",
+      "expansion": null,
+      "clinical_significance": "Contre-indication pour certains antidépresseurs tricycliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iono sg",
+      "definition": "Ionogramme Sanguin, un test qui mesure les niveaux d'électrolytes dans le sang.",
+      "category": "imagerie",
+      "synonyms": [
+        "serum electrolytes"
+      ],
+      "related_terms": [
+        "sodium",
+        "potassium"
+      ],
+      "description": "Utilisé pour diagnostiquer les déséquilibres électrolytiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le bilan préthérapeutique du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan thyroïdien",
+      "definition": "Ensemble de tests qui évaluent la fonction de la glande thyroïde.",
+      "category": "imagerie",
+      "synonyms": [
+        "thyroid function tests"
+      ],
+      "related_terms": [
+        "TSH",
+        "T3",
+        "T4"
+      ],
+      "description": "Utilisé pour diagnostiquer l'hypothyroïdie et l'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Important pour le bilan préthérapeutique du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycémie à jeun",
+      "definition": "Mesure du taux de glucose dans le sang après une période de jeûne.",
+      "category": "imagerie",
+      "synonyms": [
+        "fasting blood sugar"
+      ],
+      "related_terms": [
+        "diabète",
+        "hyperglycémie"
+      ],
+      "description": "Utilisé pour diagnostiquer le diabète et les troubles du métabolisme du glucose.",
+      "expansion": null,
+      "clinical_significance": "Important pour le bilan préthérapeutique du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithemie",
+      "definition": "Concentration de lithium dans le sang.",
+      "category": "imagerie",
+      "synonyms": [
+        "lithium level"
+      ],
+      "related_terms": [
+        "lithium",
+        "surveillance"
+      ],
+      "description": "Utilisé pour surveiller les niveaux de lithium chez les patients sous traitement.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance du traitement par le lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome polyuropolydipsique",
+      "definition": "Syndrome caractérisé par une production excessive d'urine et une soif excessive.",
+      "category": "pathologie",
+      "synonyms": [
+        "polyuria-polydipsia syndrome"
+      ],
+      "related_terms": [
+        "diabète insipide",
+        "déséquilibre hydrique"
+      ],
+      "description": "Peut être causé par des troubles rénaux ou endocriniens.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire possible du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphrite interstitielle",
+      "definition": "Inflammation des tissus interstitiels des reins, souvent causée par une réaction allergique ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "interstitial nephritis"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "inflammation rénale"
+      ],
+      "description": "Peut causer des symptômes tels que la douleur rénale, la fièvre, et l'insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire possible du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions glomérulaires",
+      "definition": "Dommages aux glomérules, les unités fonctionnelles des reins responsables de la filtration du sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "glomerular lesions"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "néphropathie"
+      ],
+      "description": "Peut causer des symptômes tels que la protéinurie, l'hématurie, et l'insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire possible du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles thyroïdiens",
+      "definition": "Conditions affectant la glande thyroïde, entraînant des déséquilibres hormonaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroid disorders"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "hyperthyroïdie"
+      ],
+      "description": "Peut causer des symptômes tels que la fatigue, la prise de poids, et l'anxiété.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire possible du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tératogénécité",
+      "definition": "Capacité d'un agent à causer des malformations congénitales chez le fœtus.",
+      "category": "pathologie",
+      "synonyms": [
+        "teratogenicity"
+      ],
+      "related_terms": [
+        "malformations congénitales",
+        "grossesse"
+      ],
+      "description": "Peut être causé par certains médicaments, infections, ou expositions chimiques.",
+      "expansion": null,
+      "clinical_significance": "Effet secondaire possible du lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurétique thiazidique",
+      "definition": "Classe de diurétiques utilisés pour traiter l'hypertension et l'œdème en augmentant l'excrétion de sodium et de chlorure.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thiazide diuretics"
+      ],
+      "related_terms": [
+        "hypertension",
+        "œdème"
+      ],
+      "description": "Peut causer des effets secondaires tels que l'hypokaliémie et l'hyperglycémie.",
+      "expansion": null,
+      "clinical_significance": "Interaction possible avec le lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antagonistes calciques",
+      "definition": "Classe de médicaments utilisés pour traiter l'hypertension et l'angine de poitrine en bloquant les canaux calciques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "calcium channel blockers"
+      ],
+      "related_terms": [
+        "hypertension",
+        "angine de poitrine"
+      ],
+      "description": "Peut causer des effets secondaires tels que l'œdème et la bradycardie.",
+      "expansion": null,
+      "clinical_significance": "Interaction possible avec le lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuroleptiques",
+      "definition": "Classe de médicaments antipsychotiques utilisés pour traiter la schizophrénie et d'autres troubles psychotiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antipsychotics"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "troubles psychotiques"
+      ],
+      "description": "Peut causer des effets secondaires tels que les troubles extrapyramidaux et la sédation.",
+      "expansion": null,
+      "clinical_significance": "Interaction possible avec le lithium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manie aiguë",
+      "definition": "Épisode de trouble de l'humeur caractérisé par une élévation anormale et persistante de l'humeur, de l'énergie et de l'activité.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode maniaque"
+      ],
+      "related_terms": [
+        "dépression bipolaire",
+        "cycle rapide"
+      ],
+      "description": "La manie aiguë est un état de trouble de l'humeur où l'individu présente une élévation anormale et persistante de l'humeur, de l'énergie et de l'activité.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "manie aiguë",
+        "épisode maniaque"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épisode mixte",
+      "definition": "Épisode de trouble de l'humeur où les symptômes de manie et de dépression sont présents simultanément.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode mixte bipolaire"
+      ],
+      "related_terms": [
+        "manie aiguë",
+        "dépression bipolaire"
+      ],
+      "description": "Un épisode mixte est caractérisé par la présence simultanée de symptômes de manie et de dépression.",
+      "expansion": null,
+      "clinical_significance": "Peut être particulièrement difficile à traiter en raison de la complexité des symptômes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épisode mixte",
+        "épisode mixte bipolaire"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cycle rapide",
+      "definition": "Forme de trouble bipolaire caractérisée par au moins quatre épisodes de manie, d'hypomanie, de dépression majeure ou d'épisodes mixtes en une année.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble bipolaire à cycles rapides"
+      ],
+      "related_terms": [
+        "manie aiguë",
+        "dépression bipolaire"
+      ],
+      "description": "Le cycle rapide est une forme de trouble bipolaire où les épisodes de manie, d'hypomanie, de dépression majeure ou d'épisodes mixtes se produisent fréquemment.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale attentive pour stabiliser l'humeur.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cycle rapide",
+        "trouble bipolaire à cycles rapides"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression bipolaire",
+      "definition": "Phase dépressive du trouble bipolaire, caractérisée par des épisodes de dépression majeure.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression bipolaire"
+      ],
+      "related_terms": [
+        "manie aiguë",
+        "cycle rapide"
+      ],
+      "description": "La dépression bipolaire est la phase dépressive du trouble bipolaire, caractérisée par des épisodes de dépression majeure.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépression bipolaire",
+        "trouble bipolaire"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "attente hépatique",
+      "definition": "État de vigilance accrue concernant la fonction hépatique, souvent en raison de facteurs de risque ou de conditions médicales préexistantes.",
+      "category": "pathologie",
+      "synonyms": [
+        "surveillance hépatique"
+      ],
+      "related_terms": [
+        "bilan hépatique",
+        "hépatite"
+      ],
+      "description": "L'attente hépatique est un état de vigilance accrue concernant la fonction hépatique, souvent en raison de facteurs de risque ou de conditions médicales préexistantes.",
+      "expansion": null,
+      "clinical_significance": "Important pour prévenir les complications hépatiques chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "attente hépatique",
+        "surveillance hépatique"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valpromide",
+      "definition": "Médicament anticonvulsivant dérivé de l'acide valproique, utilisé pour traiter les troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "valpromide"
+      ],
+      "related_terms": [
+        "acide valproique",
+        "divalproate"
+      ],
+      "description": "Le valpromide est un médicament anticonvulsivant dérivé de l'acide valproique, utilisé pour traiter les troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans le traitement des troubles bipolaires et des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "valpromide",
+        "acide valproique"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "divalproate",
+      "definition": "Médicament anticonvulsivant dérivé de l'acide valproique, utilisé pour traiter les troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "divalproate"
+      ],
+      "related_terms": [
+        "acide valproique",
+        "valpromide"
+      ],
+      "description": "Le divalproate est un médicament anticonvulsivant dérivé de l'acide valproique, utilisé pour traiter les troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans le traitement des troubles bipolaires et des crises épileptiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "divalproate",
+        "acide valproique"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalite hyperammoniémie",
+      "definition": "Inflammation du cerveau associée à des niveaux élevés d'ammoniac dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalite hyperammoniémique"
+      ],
+      "related_terms": [
+        "encéphalite",
+        "hyperammoniémie"
+      ],
+      "description": "L'encéphalite hyperammoniémie est une inflammation du cerveau associée à des niveaux élevés d'ammoniac dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Peut être une complication grave nécessitant une intervention médicale immédiate.",
+      "normal_values": null,
+      "image_search_terms": [
+        "encéphalite hyperammoniémie",
+        "encéphalite hyperammoniémique"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoplasie médullaire",
+      "definition": "Développement insuffisant de la moelle osseuse, entraînant une production réduite de cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypoplasie médullaire"
+      ],
+      "related_terms": [
+        "moelle osseuse",
+        "anémie"
+      ],
+      "description": "L'hypoplasie médullaire est un développement insuffisant de la moelle osseuse, entraînant une production réduite de cellules sanguines.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des anémies et d'autres troubles hématologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoplasie médullaire",
+        "moelle osseuse"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rash cutané",
+      "definition": "Éruption cutanée caractérisée par des lésions rouges et irritées sur la peau.",
+      "category": "pathologie",
+      "synonyms": [
+        "éruption cutanée"
+      ],
+      "related_terms": [
+        "syndrome de Stevens-Johnson",
+        "syndrome de Lyell"
+      ],
+      "description": "Le rash cutané est une éruption cutanée caractérisée par des lésions rouges et irritées sur la peau.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions médicales nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rash cutané",
+        "éruption cutanée"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diplopie",
+      "definition": "Vision double, souvent due à un désalignement des yeux.",
+      "category": "pathologie",
+      "synonyms": [
+        "diplopie"
+      ],
+      "related_terms": [
+        "vision double",
+        "désalignement des yeux"
+      ],
+      "description": "La diplopie est une vision double, souvent due à un désalignement des yeux.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions neurologiques ou ophtalmologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "diplopie",
+        "vision double"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalée",
+      "definition": "Douleur ou inconfort dans la région de la tête, souvent décrite comme un mal de tête.",
+      "category": "pathologie",
+      "synonyms": [
+        "mal de tête"
+      ],
+      "related_terms": [
+        "migraine",
+        "douleur"
+      ],
+      "description": "La céphalée est une douleur ou un inconfort dans la région de la tête, souvent décrite comme un mal de tête.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions médicales nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "céphalée",
+        "mal de tête"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agitation",
+      "definition": "État d'excitation excessive et d'anxiété, souvent accompagné de mouvements incessants.",
+      "category": "pathologie",
+      "synonyms": [
+        "agitation"
+      ],
+      "related_terms": [
+        "anxiété",
+        "excitation"
+      ],
+      "description": "L'agitation est un état d'excitation excessive et d'anxiété, souvent accompagné de mouvements incessants.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions médicales nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "agitation",
+        "anxiété"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fatigue",
+      "definition": "État de faiblesse physique ou mentale, souvent accompagné d'une diminution de l'énergie et de la capacité à accomplir des tâches.",
+      "category": "pathologie",
+      "synonyms": [
+        "fatigue"
+      ],
+      "related_terms": [
+        "épuisement",
+        "faiblesse"
+      ],
+      "description": "La fatigue est un état de faiblesse physique ou mentale, souvent accompagné d'une diminution de l'énergie et de la capacité à accomplir des tâches.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions médicales nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fatigue",
+        "épuisement"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "humeur dépressive",
+      "definition": "État émotionnel caractérisé par une tristesse persistante, une perte d'intérêt et une diminution de l'énergie.",
+      "category": "pathologie",
+      "synonyms": [
+        "humeur dépressive"
+      ],
+      "related_terms": [
+        "dépression",
+        "tristesse"
+      ],
+      "description": "L'humeur dépressive est un état émotionnel caractérisé par une tristesse persistante, une perte d'intérêt et une diminution de l'énergie.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de diverses conditions médicales nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "humeur dépressive",
+        "dépression"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble schizoaffectif",
+      "definition": "Trouble mental caractérisé par des symptômes de schizophrénie et de trouble de l'humeur.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble schizoaffectif"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble de l'humeur"
+      ],
+      "description": "Le trouble schizoaffectif est un trouble mental caractérisé par des symptômes de schizophrénie et de trouble de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trouble schizoaffectif",
+        "schizophrénie"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble schizophréniforme",
+      "definition": "Trouble mental caractérisé par des symptômes similaires à ceux de la schizophrénie, mais de durée plus courte.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble schizophréniforme"
+      ],
+      "related_terms": [
+        "schizophrénie",
+        "trouble de l'humeur"
+      ],
+      "description": "Le trouble schizophréniforme est un trouble mental caractérisé par des symptômes similaires à ceux de la schizophrénie, mais de durée plus courte.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trouble schizophréniforme",
+        "schizophrénie"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble délirant",
+      "definition": "Trouble mental caractérisé par des croyances fausses et persistantes (délires) qui ne sont pas fondées sur la réalité.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble délirant"
+      ],
+      "related_terms": [
+        "délires",
+        "trouble mental"
+      ],
+      "description": "Le trouble délirant est un trouble mental caractérisé par des croyances fausses et persistantes (délires) qui ne sont pas fondées sur la réalité.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trouble délirant",
+        "délires"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble psychotique",
+      "definition": "Trouble mental caractérisé par une perte de contact avec la réalité, souvent accompagnée de délires et d'hallucinations.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble psychotique"
+      ],
+      "related_terms": [
+        "psychose",
+        "trouble mental"
+      ],
+      "description": "Le trouble psychotique est un trouble mental caractérisé par une perte de contact avec la réalité, souvent accompagnée de délires et d'hallucinations.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation et un traitement spécialisés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trouble psychotique",
+        "psychose"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épisode hypomaniaque",
+      "definition": "Période de trouble de l'humeur caractérisée par une élévation de l'humeur, de l'énergie et de l'activité, mais moins sévère qu'un épisode maniaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode hypomaniaque"
+      ],
+      "related_terms": [
+        "hypomanie",
+        "trouble bipolaire"
+      ],
+      "description": "Un épisode hypomaniaque est une période de trouble de l'humeur caractérisée par une élévation de l'humeur, de l'énergie et de l'activité, mais moins sévère qu'un épisode maniaque.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une intervention médicale pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "épisode hypomaniaque",
+        "hypomanie"
+      ],
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble bipolaire type I",
+      "definition": "Forme de trouble bipolaire caractérisée par la survenue d'au moins un épisode maniaque ou mixte, souvent accompagné d'épisodes dépressifs majeurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble maniaco-dépressif"
+      ],
+      "related_terms": [
+        "trouble bipolaire type II",
+        "manie",
+        "dépression"
+      ],
+      "description": "Le trouble bipolaire type I est une maladie chronique nécessitant un traitement à long terme pour stabiliser l'humeur.",
+      "expansion": null,
+      "clinical_significance": "Le trouble bipolaire type I peut entraîner des comportements à risque et une altération significative du fonctionnement social et professionnel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trouble bipolaire type II",
+      "definition": "Forme de trouble bipolaire caractérisée par la survenue d'au moins un épisode dépressif majeur et d'au moins un épisode hypomaniaque, sans épisode maniaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "trouble bipolaire type I",
+        "hypomanie",
+        "dépression"
+      ],
+      "description": "Le trouble bipolaire type II est souvent sous-diagnostiqué en raison de la prédominance des épisodes dépressifs.",
+      "expansion": null,
+      "clinical_significance": "Le trouble bipolaire type II peut entraîner une détérioration significative de la qualité de vie et un risque accru de suicide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "catatonie",
+      "definition": "Syndrome psychomoteur caractérisé par une altération marquée des mouvements, allant de l'immobilité complète à l'agitation excessive, souvent associé à des troubles psychiatriques ou neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "stupeur",
+        "catalepsie",
+        "mutisme"
+      ],
+      "description": "La catatonie peut être observée dans divers troubles psychiatriques, y compris la schizophrénie et les troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": "La catatonie peut nécessiter une intervention médicale urgente pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EDM",
+      "definition": "Épisode dépressif majeur, caractérisé par une période de deux semaines ou plus de dépression sévère avec des symptômes tels que la tristesse, la perte d'intérêt, des troubles du sommeil et de l'appétit, et des pensées suicidaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "épisode dépressif"
+      ],
+      "related_terms": [
+        "TDM",
+        "dépression"
+      ],
+      "description": "L'EDM est une phase aiguë de la dépression qui peut nécessiter une intervention médicale et psychologique.",
+      "expansion": null,
+      "clinical_significance": "L'EDM peut entraîner une détérioration significative de la qualité de vie et un risque accru de suicide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "263837d1-c7c8-4fb3-afac-5f4c99f61310",
+      "source_file": "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Psychiatrie/Troubles de l'Humeur/Courses/70 Trouble de l’humeur 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.35 AM.md"
+  ],
+  "total_terms": 161
+}

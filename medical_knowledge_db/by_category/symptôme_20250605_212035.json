@@ -1,0 +1,28 @@
+{
+  "category": "symptôme",
+  "terms": [
+    {
+      "term": "douleur abdominale",
+      "definition": "Sensation de douleur ou d'inconfort dans la région abdominale, souvent associée à des troubles gastro-intestinaux ou à une inflammation.",
+      "category": "symptôme",
+      "synonyms": [],
+      "related_terms": [
+        "douleur",
+        "abdomen"
+      ],
+      "description": "La douleur abdominale peut être diffuse ou localisée et peut indiquer une péritonite.",
+      "expansion": null,
+      "clinical_significance": "La douleur abdominale est un symptôme clé de la péritonite aiguë.",
+      "normal_values": null,
+      "image_search_terms": [
+        "douleur abdominale",
+        "abdomen"
+      ],
+      "subject_id": "2c23a9e2-1caa-408a-9bee-0fe4797f3ad8",
+      "source_file": "Chirurgie Générale/Péritonites Aiguës/Courses/57 Péritonites aigues 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 1,
+  "extraction_date": "20250605_212035"
+}

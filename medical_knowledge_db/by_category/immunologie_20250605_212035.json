@@ -1,0 +1,682 @@
+{
+  "category": "immunologie",
+  "terms": [
+    {
+      "term": "antigénicité",
+      "definition": "Capacité d'un antigène à être reconnu par le système immunitaire et à induire une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigénicité"
+      ],
+      "related_terms": [
+        "immunogénicité",
+        "antigène"
+      ],
+      "description": "Importante pour le développement de vaccins efficaces.",
+      "expansion": null,
+      "clinical_significance": "Détermine l'efficacité des vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "antigènes immunogènes",
+      "definition": "Substances capables de stimuler une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigènes"
+      ],
+      "related_terms": [
+        "vaccin acellulaire",
+        "Bordetella"
+      ],
+      "description": "Les antigènes immunogènes sont utilisés dans les vaccins pour provoquer une réponse immunitaire protectrice.",
+      "expansion": "N/A",
+      "clinical_significance": "Composants clés des vaccins acellulaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "immunogenic antigens",
+        "vaccine components"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps",
+      "definition": "Protéines produites par le système immunitaire en réponse à des antigènes étrangers.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "système immunitaire",
+        "antigènes"
+      ],
+      "description": "Les anticorps jouent un rôle clé dans la défense immunitaire et peuvent être impliqués dans des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10fa1db1-be23-4053-b2e5-f2eec96e5c4b",
+      "source_file": "Endocrinologie/Hypothyroïdies de l'Enfant et de l'Adulte/Courses/40 Les hypothyroidies de l’adulte et de l’enfant 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-mitochondries type M2",
+      "definition": "Anticorps spécifiques de la cholangite biliaire primitive, dirigés contre les mitochondries.",
+      "category": "immunologie",
+      "synonyms": [
+        "AMA-M2"
+      ],
+      "related_terms": [
+        "CBP",
+        "anticorps anti-GP210"
+      ],
+      "description": "La présence de ces anticorps est un critère diagnostique important pour la CBP.",
+      "expansion": null,
+      "clinical_significance": "Marqueur diagnostique de la CBP.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti GP210",
+      "definition": "Anticorps spécifiques de la cholangite biliaire primitive, dirigés contre la glycoprotéine 210.",
+      "category": "immunologie",
+      "synonyms": [
+        "anti-GP210"
+      ],
+      "related_terms": [
+        "CBP",
+        "anticorps anti-mitochondries type M2"
+      ],
+      "description": "La présence de ces anticorps est un critère diagnostique important pour la CBP.",
+      "expansion": null,
+      "clinical_significance": "Marqueur diagnostique de la CBP.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti sp100",
+      "definition": "Anticorps spécifiques de la cholangite biliaire primitive, dirigés contre la protéine sp100.",
+      "category": "immunologie",
+      "synonyms": [
+        "anti-sp100"
+      ],
+      "related_terms": [
+        "CBP",
+        "anticorps anti-mitochondries type M2"
+      ],
+      "description": "La présence de ces anticorps est un critère diagnostique important pour la CBP.",
+      "expansion": null,
+      "clinical_significance": "Marqueur diagnostique de la CBP.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "aceefc9b-08aa-4943-9af4-7965eabab428",
+      "source_file": "Gastrologie-Entérologie/Ictères/Courses/41 Les ictères 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "autoanticorps antiprotéines citrullinées",
+      "definition": "Autoanticorps dirigés contre les protéines citrullinées, souvent présents dans le sérum des patients atteints de polyarthrite rhumatoïde.",
+      "category": "immunologie",
+      "synonyms": [
+        "ACPA"
+      ],
+      "related_terms": [
+        "protéines citrullinées",
+        "autoanticorps"
+      ],
+      "description": "Les ACPA sont des marqueurs sérologiques spécifiques et sensibles pour le diagnostic de la polyarthrite rhumatoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "autoanticorps antiprotéines citrullinées",
+        "ACPA"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes T CD4+",
+      "definition": "Sous-type de lymphocytes T qui expriment le co-récepteur CD4 et jouent un rôle clé dans la régulation de la réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "lymphocytes T auxiliaires"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "CD4"
+      ],
+      "description": "Les lymphocytes T CD4+ sont impliqués dans l'activation et la régulation des réponses immunitaires adaptatives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphocytes T CD4+",
+        "lymphocytes T auxiliaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Th17",
+      "definition": "Sous-type de lymphocytes T auxiliaires qui produisent des cytokines pro-inflammatoires telles que l'IL-17.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphocytes T auxiliaires",
+        "IL-17"
+      ],
+      "description": "Les lymphocytes Th17 jouent un rôle clé dans la réponse immunitaire contre les infections extracellulaires et sont impliqués dans les maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Th17",
+        "lymphocytes T auxiliaires"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PDGF",
+      "definition": "Platelet-Derived Growth Factor, facteur de croissance impliqué dans la prolifération cellulaire.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le PDGF joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PDGF",
+        "Platelet-Derived Growth Factor"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FGF-1",
+      "definition": "Fibroblast Growth Factor 1, facteur de croissance impliqué dans la prolifération cellulaire et l'angiogenèse.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le FGF-1 joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire et l'angiogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FGF-1",
+        "Fibroblast Growth Factor 1"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FGF-2",
+      "definition": "Fibroblast Growth Factor 2, facteur de croissance impliqué dans la prolifération cellulaire et l'angiogenèse.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur de croissance",
+        "prolifération cellulaire"
+      ],
+      "description": "Le FGF-2 joue un rôle dans la pathogenèse de la polyarthrite rhumatoïde en favorisant la prolifération cellulaire et l'angiogenèse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FGF-2",
+        "Fibroblast Growth Factor 2"
+      ],
+      "subject_id": "4803800d-6462-4f34-bad6-1f1a3a138495",
+      "source_file": "Ortho, Rhumato/Polyarthrite Rhumatoïde/Courses/58 Polyarthrite Rhumatoïde 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgA",
+      "definition": "Immunoglobuline A, une classe d'anticorps présente principalement dans les sécrétions mucosales.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "IgG",
+        "IgM"
+      ],
+      "description": "L'IgA joue un rôle important dans la défense immunitaire des muqueuses.",
+      "expansion": "Immunoglobuline A",
+      "clinical_significance": "Les autoanticorps de type IgA peuvent être impliqués dans certaines formes d'AHAI.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "IgA",
+        "immunoglobuline A"
+      ],
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fab",
+      "definition": "Fragment antigène-liant, la partie de l'anticorps qui se lie à l'antigène.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "Fc",
+        "anticorps"
+      ],
+      "description": "Le fragment Fab est responsable de la reconnaissance spécifique de l'antigène par l'anticorps.",
+      "expansion": "Fragment antigène-liant",
+      "clinical_significance": "Les fragments Fab des autoanticorps se lient aux antigènes des globules rouges dans les AHAI.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "fragment Fab",
+        "anticorps"
+      ],
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AF",
+      "definition": "Agglutinine Froide, un type d'anticorps qui agglutine les globules rouges à basse température.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "MCAF",
+        "HBDL"
+      ],
+      "description": "Les agglutinines froides sont des anticorps qui agglutinent les globules rouges à basse température, souvent impliqués dans les AHAI à autoanticorps froids.",
+      "expansion": "Agglutinine Froide",
+      "clinical_significance": "Les agglutinines froides sont un indicateur clé des AHAI à autoanticorps froids.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "agglutinine froide",
+        "anticorps"
+      ],
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HBDL",
+      "definition": "Hémolysine Biphasique de Donath Landsteiner, un type d'anticorps qui se fixe sur les globules rouges à basse température et active le complément à température corporelle.",
+      "category": "immunologie",
+      "synonyms": [],
+      "related_terms": [
+        "AF",
+        "MCAF"
+      ],
+      "description": "L'hémolysine biphasique de Donath Landsteiner est un anticorps impliqué dans certaines formes d'AHAI à autoanticorps froids.",
+      "expansion": "Hémolysine Biphasique de Donath Landsteiner",
+      "clinical_significance": "L'hémolysine biphasique de Donath Landsteiner est un indicateur clé des AHAI à autoanticorps froids.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hémolysine biphasique de Donath Landsteiner",
+        "anticorps"
+      ],
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigène incompatible",
+      "definition": "Antigène qui provoque une réaction immunitaire chez un individu qui ne le possède pas.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène étranger"
+      ],
+      "related_terms": [
+        "alloimmunisation",
+        "anticorps"
+      ],
+      "description": "Un antigène incompatible peut provoquer une réaction immunitaire chez un individu qui ne le possède pas, comme dans le cas de l'alloimmunisation fœto-maternelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigène Rhésus standard",
+      "definition": "Antigène D du système Rhésus, un groupe sanguin important en immunologie.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène D"
+      ],
+      "related_terms": [
+        "Rhésus",
+        "Rh"
+      ],
+      "description": "L'antigène Rhésus standard (D) est un marqueur de surface des globules rouges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag",
+      "definition": "Abréviation pour antigène, une substance étrangère qui déclenche une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène"
+      ],
+      "related_terms": [
+        "immunogène",
+        "allergène"
+      ],
+      "description": "Les antigènes peuvent être des protéines, des polysaccharides ou des lipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag Kell",
+      "definition": "Antigène du système Kell, un groupe sanguin important en immunologie.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène Kell"
+      ],
+      "related_terms": [
+        "Kell",
+        "système Kell"
+      ],
+      "description": "L'antigène Kell est un marqueur de surface des globules rouges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag Duffy",
+      "definition": "Antigène du système Duffy, un groupe sanguin important en immunologie.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène Duffy"
+      ],
+      "related_terms": [
+        "Duffy",
+        "système Duffy"
+      ],
+      "description": "L'antigène Duffy est un marqueur de surface des globules rouges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag Kidd",
+      "definition": "Antigène du système Kidd, un groupe sanguin important en immunologie.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigène Kidd"
+      ],
+      "related_terms": [
+        "Kidd",
+        "système Kidd"
+      ],
+      "description": "L'antigène Kidd est un marqueur de surface des globules rouges.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coombs indirect",
+      "definition": "Test de détection des anticorps dans le sérum maternel, utilisé pour détecter l'alloimmunisation.",
+      "category": "immunologie",
+      "synonyms": [
+        "test de Coombs indirect"
+      ],
+      "related_terms": [
+        "test de Coombs",
+        "alloimmunisation"
+      ],
+      "description": "Le test de Coombs indirect est utilisé pour détecter les anticorps anti-érythrocytaires dans le sérum maternel.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'alloimmunisation fœto-maternelle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coombs direct",
+      "definition": "Test de détection des anticorps ou du complément fixé sur les globules rouges, utilisé pour diagnostiquer l'anémie hémolytique.",
+      "category": "immunologie",
+      "synonyms": [
+        "test de Coombs direct"
+      ],
+      "related_terms": [
+        "test de Coombs",
+        "anémie hémolytique"
+      ],
+      "description": "Le test de Coombs direct est utilisé pour détecter les anticorps ou le complément fixé sur les globules rouges.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'anémie hémolytique auto-immune.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoglobulines anti D",
+      "definition": "Anticorps spécifiques contre l'antigène D du système Rhésus, utilisés pour prévenir l'alloimmunisation Rhésus.",
+      "category": "immunologie",
+      "synonyms": [
+        "anti-D"
+      ],
+      "related_terms": [
+        "Rhésus",
+        "alloimmunisation"
+      ],
+      "description": "Les immunoglobulines anti-D sont utilisées pour prévenir l'alloimmunisation Rhésus chez les mères Rhésus négatives.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention de la maladie hémolytique du nouveau-né.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigènes étrangers",
+      "definition": "Antigènes qui ne sont pas reconnus comme propres par le système immunitaire, provoquant une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigènes non-self"
+      ],
+      "related_terms": [
+        "antigènes",
+        "système immunitaire"
+      ],
+      "description": "Les antigènes étrangers peuvent provoquer une réponse immunitaire, y compris la production d'anticorps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps naturels",
+      "definition": "Anticorps présents dans le sang sans stimulation antigénique préalable, souvent dirigés contre des antigènes du système ABO.",
+      "category": "immunologie",
+      "synonyms": [
+        "anticorps naturels"
+      ],
+      "related_terms": [
+        "anticorps",
+        "système ABO"
+      ],
+      "description": "Les anticorps naturels sont présents dans le sang sans stimulation antigénique préalable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps irréguliers",
+      "definition": "Anticorps dirigés contre des antigènes érythrocytaires autres que ceux du système ABO, souvent de type IgG.",
+      "category": "immunologie",
+      "synonyms": [
+        "anticorps irréguliers"
+      ],
+      "related_terms": [
+        "anticorps",
+        "agglutinines irrégulières"
+      ],
+      "description": "Les anticorps irréguliers peuvent provoquer des réactions transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compatibilité transfusionnelle.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-médicament",
+      "definition": "Anticorps dirigés contre un médicament, provoquant une réaction immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "anticorps anti-médicament"
+      ],
+      "related_terms": [
+        "anticorps",
+        "réaction immunitaire"
+      ],
+      "description": "Les anticorps anti-médicament peuvent provoquer des réactions allergiques ou hémolytiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immuns complexes Ac-médicament",
+      "definition": "Complexes formés par la liaison d'un anticorps à un médicament, pouvant provoquer une réaction immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "complexes immuns Ac-médicament"
+      ],
+      "related_terms": [
+        "anticorps",
+        "médicament"
+      ],
+      "description": "Les immuns complexes Ac-médicament peuvent provoquer des réactions allergiques ou hémolytiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "haptène",
+      "definition": "Petite molécule qui devient immunogène lorsqu'elle est liée à une protéine porteuse.",
+      "category": "immunologie",
+      "synonyms": [
+        "haptène"
+      ],
+      "related_terms": [
+        "immunogène",
+        "protéine porteuse"
+      ],
+      "description": "Les haptènes peuvent provoquer des réactions allergiques ou hémolytiques lorsqu'ils sont liés à une protéine porteuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3d24722f-41d2-4115-9beb-154ad206301a",
+      "source_file": "Hématologie/Anémies/Courses/3 Les Anémies 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-H-PF4",
+      "definition": "Anticorps dirigés contre le complexe héparine-facteur 4 plaquettaire, impliqués dans la thrombopénie induite par l'héparine.",
+      "category": "immunologie",
+      "synonyms": [
+        "anti-H-PF4"
+      ],
+      "related_terms": [
+        "anticorps",
+        "héparine"
+      ],
+      "description": "Ces anticorps activent les fragments Fc des anticorps de type IgG, induisant l'activation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogénie de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FcR II",
+      "definition": "Récepteur pour la région Fc des anticorps de type IgG, présent sur les plaquettes.",
+      "category": "immunologie",
+      "synonyms": [
+        "FcR II"
+      ],
+      "related_terms": [
+        "récepteur Fc",
+        "IgG"
+      ],
+      "description": "La fixation des fragments Fc des IgG sur ces récepteurs induit l'activation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogénie de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 33,
+  "extraction_date": "20250605_212035"
+}

@@ -1,0 +1,4330 @@
+{
+  "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+  "terms": [
+    {
+      "term": "déclaration obligatoire",
+      "definition": "Obligation légale de signaler certaines maladies aux autorités de santé publique pour surveiller et contrôler leur propagation.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "maladie à déclaration obligatoire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Permet la surveillance épidémiologique et le contrôle des maladies infectieuses.",
+      "normal_values": "",
+      "image_search_terms": [
+        "déclaration obligatoire",
+        "maladie à déclaration obligatoire"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mécanisme immunitaire",
+      "definition": "Processus par lequel le système immunitaire réagit à une infection ou à une substance étrangère.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "réponse immunitaire",
+        "immunité"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Joue un rôle crucial dans la défense contre les infections et les maladies.",
+      "normal_values": "",
+      "image_search_terms": [
+        "mécanisme immunitaire",
+        "réponse immunitaire"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatotropes",
+      "definition": "Qui a une affinité particulière pour le foie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tropisme hépatique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Les virus hépatotropes ciblent spécifiquement le foie, entraînant des hépatites.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hépatotropes",
+        "tropisme hépatique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions hépatocytaires",
+      "definition": "Dommages aux cellules du foie (hépatocytes) causés par divers agents pathogènes ou toxiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatocytes",
+        "dommages hépatiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut conduire à une insuffisance hépatique ou à une cirrhose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lésions hépatocytaires",
+        "dommages hépatiques"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réponse immunitaire cellulaire",
+      "definition": "Réaction du système immunitaire impliquant principalement les lymphocytes T, qui jouent un rôle clé dans la défense contre les infections virales.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "immunité cellulaire",
+        "lymphocytes T"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Essentielle pour l'élimination des cellules infectées par des virus.",
+      "normal_values": "",
+      "image_search_terms": [
+        "réponse immunitaire cellulaire",
+        "immunité cellulaire"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag viraux",
+      "definition": "Antigènes spécifiques aux virus, qui déclenchent une réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "antigènes viraux"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Utilisés dans le diagnostic des infections virales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Ag viraux",
+        "antigènes viraux"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manifestations extra hépatiques",
+      "definition": "Symptômes ou signes cliniques qui se produisent en dehors du foie, souvent associés à des maladies hépatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "symptômes extra hépatiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peuvent inclure des éruptions cutanées, des arthralgies, ou des glomérulonéphrites.",
+      "normal_values": "",
+      "image_search_terms": [
+        "manifestations extra hépatiques",
+        "symptômes extra hépatiques"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépôt de complexes immuns",
+      "definition": "Accumulation de complexes formés par des antigènes et des anticorps, souvent associée à des réactions inflammatoires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "complexes immuns",
+        "réactions immunitaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des maladies auto-immunes ou des réactions inflammatoires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "dépôt de complexes immuns",
+        "complexes immuns"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite virale aiguë",
+      "definition": "Inflammation soudaine et sévère du foie causée par une infection virale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite aiguë",
+        "infection virale hépatique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut être grave et nécessiter une hospitalisation.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hépatite virale aiguë",
+        "hépatite aiguë"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "forme ictérique",
+      "definition": "Forme de maladie caractérisée par une jaunisse, souvent due à une atteinte hépatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "jaunisse",
+        "ictère"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une atteinte hépatique significative.",
+      "normal_values": "",
+      "image_search_terms": [
+        "forme ictérique",
+        "jaunisse"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus nu",
+      "definition": "Virus dépourvu d'enveloppe lipidique, ce qui le rend plus résistant aux conditions environnementales.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "virus sans enveloppe"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Plus résistant aux désinfectants et aux conditions environnementales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "virus nu",
+        "virus sans enveloppe"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "excrétions des selles",
+      "definition": "Élimination des déchets solides du corps par les selles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "selles",
+        "excrétions fécales"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut être un vecteur de transmission de maladies infectieuses.",
+      "normal_values": "",
+      "image_search_terms": [
+        "excrétions des selles",
+        "selles"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voie oro-fécale",
+      "definition": "Mode de transmission des maladies par ingestion de matières fécales contaminées.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "transmission oro-fécale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Commune pour les infections gastro-intestinales.",
+      "normal_values": "",
+      "image_search_terms": [
+        "voie oro-fécale",
+        "transmission oro-fécale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN monocaténaire de polarité positive",
+      "definition": "Type d'ARN viral qui peut directement servir de matrice pour la synthèse de protéines.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ARN positif",
+        "ARN monocaténaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Caractéristique de nombreux virus à ARN.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ARN monocaténaire de polarité positive",
+        "ARN positif"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HVA de type IgM",
+      "definition": "Anticorps de type IgM dirigés contre le virus de l'hépatite A, indicatifs d'une infection récente.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps anti-HAV IgM"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Utilisé pour le diagnostic de l'hépatite A aiguë.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Ac anti HVA de type IgM",
+        "anticorps anti-HAV IgM"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endémicité",
+      "definition": "Présence constante d'une maladie dans une population ou une région géographique.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "endémique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indique une prévalence élevée et continue de la maladie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "endémicité",
+        "endémique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus oncogène",
+      "definition": "Virus capable de provoquer des cancers en intégrant son matériel génétique dans celui de la cellule hôte.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "virus cancérigène"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut entraîner des cancers comme le carcinome hépatocellulaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "virus oncogène",
+        "virus cancérigène"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "particule de Dane",
+      "definition": "Forme complète et infectieuse du virus de l'hépatite B, contenant l'ADN viral et les protéines de surface.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "particule virale de Dane"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Indicateur de la réplication active du VHB.",
+      "normal_values": "",
+      "image_search_terms": [
+        "particule de Dane",
+        "particule virale de Dane"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN circulaire",
+      "definition": "Forme d'ADN en boucle fermée, souvent présente dans les virus et les plasmides.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ADN en boucle"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Caractéristique du génome du virus de l'hépatite B.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ADN circulaire",
+        "ADN en boucle"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AgHBc",
+      "definition": "Antigène de core du virus de l'hépatite B, présent dans le noyau viral.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "antigène de core de l'hépatite B"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Marqueur de la réplication virale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "AgHBc",
+        "antigène de core de l'hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite B occulte",
+      "definition": "Forme d'infection par le VHB où l'AgHBs n'est pas détectable malgré la présence du virus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "infection occulte par le VHB"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Peut échapper au diagnostic et à la vaccination.",
+      "normal_values": "",
+      "image_search_terms": [
+        "hépatite B occulte",
+        "infection occulte par le VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HBc de type IgM",
+      "definition": "Anticorps de type IgM dirigés contre l'antigène de core du virus de l'hépatite B, indicatifs d'une infection récente.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps anti-HBc IgM"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Utilisé pour le diagnostic de l'hépatite B aiguë.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Ac anti HBc de type IgM",
+        "anticorps anti-HBc IgM"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hepacivirus",
+      "definition": "Genre de virus de la famille des Flaviviridae, incluant le virus de l'hépatite C (VHC).",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHC",
+        "Flaviviridae"
+      ],
+      "description": "Les Hepacivirus sont des virus à ARN qui causent des infections hépatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN monocaténaire",
+      "definition": "Type d'ARN constitué d'une seule chaîne de nucléotides, caractéristique de certains virus comme le VHC.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ARN simple brin"
+      ],
+      "related_terms": [
+        "VHC",
+        "génome viral"
+      ],
+      "description": "L'ARN monocaténaire peut être de polarité positive ou négative.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Viroïde",
+      "definition": "Agent infectieux constitué d'ARN circulaire qui ne code pas pour des protéines et dépend d'un virus auxiliaire pour sa réplication.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHD",
+        "virus satellite"
+      ],
+      "description": "Les viroïdes sont des agents subviraux qui infectent les plantes et certains animaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHD",
+      "definition": "Virus de l'hépatite D, un virus défectif qui nécessite le virus de l'hépatite B (VHB) pour sa réplication.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HDV"
+      ],
+      "related_terms": [
+        "VHB",
+        "viroïde"
+      ],
+      "description": "Le VHD peut causer une hépatite aiguë ou chronique chez les personnes infectées par le VHB.",
+      "expansion": null,
+      "clinical_significance": "Le VHD est une cause importante de maladies hépatiques chez les porteurs de l'Ag HBs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hep/E/viridae",
+      "definition": "Famille de virus à ARN qui inclut le virus de l'hépatite E (VHE).",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHE",
+        "Hep/E/virus"
+      ],
+      "description": "Les Hep/E/viridae sont des virus à ARN qui causent des infections hépatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hep/E/virus",
+      "definition": "Genre de virus de la famille des Hep/E/viridae, incluant le virus de l'hépatite E (VHE).",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHE",
+        "Hep/E/viridae"
+      ],
+      "description": "Les Hep/E/virus sont des virus à ARN qui causent des infections hépatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Voie féco-orale",
+      "definition": "Mode de transmission des maladies par ingestion de matières fécales contaminées, souvent via l'eau ou les aliments.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission féco-orale"
+      ],
+      "related_terms": [
+        "transmission sanguine",
+        "transmission materno-fœtale"
+      ],
+      "description": "Principale voie de transmission dans les zones de forte endémicité pour les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Voie sanguine",
+      "definition": "Mode de transmission des maladies par contact avec du sang contaminé, souvent via des transfusions sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission sanguine"
+      ],
+      "related_terms": [
+        "voie féco-orale",
+        "voie materno-fœtale"
+      ],
+      "description": "Mode de transmission des hépatites virales par transfusion sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Voie materno-fœtale (verticale)",
+      "definition": "Mode de transmission des maladies de la mère à l'enfant pendant la grossesse, souvent par passage transplacentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission materno-fœtale",
+        "transmission verticale"
+      ],
+      "related_terms": [
+        "voie féco-orale",
+        "voie sanguine"
+      ],
+      "description": "Transmission des hépatites virales de la mère à l'enfant pendant le troisième trimestre de la grossesse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anticorps anti-VHE de type IgM",
+      "definition": "Anticorps spécifiques produits par le système immunitaire en réponse à une infection par le virus de l'hépatite E, de type immunoglobuline M.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgM anti-VHE"
+      ],
+      "related_terms": [
+        "détection du génome viral"
+      ],
+      "description": "Utilisés pour le diagnostic de l'hépatite E aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Détection du génome viral",
+      "definition": "Technique de laboratoire utilisée pour identifier la présence de matériel génétique viral dans un échantillon biologique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "détection de l'ARN viral",
+        "détection de l'ADN viral"
+      ],
+      "related_terms": [
+        "Anticorps anti-VHE de type IgM"
+      ],
+      "description": "Utilisée pour le diagnostic de l'hépatite E aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Virus de l'Hépatite E (VHE)",
+      "definition": "Virus responsable de l'hépatite E, une infection du foie qui peut être transmise par voie féco-orale ou zoonotique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VHE"
+      ],
+      "related_terms": [
+        "hépatite A",
+        "hépatite B",
+        "hépatite C"
+      ],
+      "description": "Infecte principalement les adultes et est endémique dans plusieurs régions du monde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Endémie",
+      "definition": "Présence constante d'une maladie dans une population ou une région géographique.",
+      "category": "pathologie",
+      "synonyms": [
+        "endémique"
+      ],
+      "related_terms": [
+        "épidémie",
+        "pandémie"
+      ],
+      "description": "Concerne beaucoup de pays d'Asie, d'Afrique, et d'Amérique Centrale et du Sud pour le VHE.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Prévalence du VHE",
+      "definition": "Proportion de personnes dans une population qui sont infectées par le virus de l'hépatite E à un moment donné.",
+      "category": "pathologie",
+      "synonyms": [
+        "prévalence"
+      ],
+      "related_terms": [
+        "incidence"
+      ],
+      "description": "En Tunisie, elle se situe entre 4 et 12% chez l'adulte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sporadiques",
+      "definition": "Cas de maladie qui apparaissent de manière isolée et non groupée dans le temps ou l'espace.",
+      "category": "pathologie",
+      "synonyms": [
+        "sporadique"
+      ],
+      "related_terms": [
+        "épidémique",
+        "endémique"
+      ],
+      "description": "Les cas d'hépatite E en Tunisie sont sporadiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phase d'incubation",
+      "definition": "Période entre l'infection initiale et l'apparition des premiers symptômes d'une maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "période d'incubation"
+      ],
+      "related_terms": [
+        "phase pré-ictérique",
+        "phase ictérique"
+      ],
+      "description": "Durée variable selon le virus pour les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phase pré-ictérique",
+      "definition": "Période précédant l'apparition de l'ictère dans une hépatite virale, caractérisée par des symptômes non spécifiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "phase pré-ictérique"
+      ],
+      "related_terms": [
+        "phase d'incubation",
+        "phase ictérique"
+      ],
+      "description": "Durée de 5 à 15 jours avec des symptômes pseudo-grippaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phase ictérique",
+      "definition": "Période durant laquelle l'ictère (jaunisse) est présent dans une hépatite virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "phase ictérique"
+      ],
+      "related_terms": [
+        "phase d'incubation",
+        "phase pré-ictérique"
+      ],
+      "description": "Durée de 2 à 6 semaines avec des urines foncées et des selles décolorées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ALAT (SGPT)",
+      "definition": "Alanine aminotransférase, une enzyme hépatique dont l'élévation dans le sang indique une atteinte hépatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "ALAT",
+        "SGPT"
+      ],
+      "related_terms": [
+        "ASAT",
+        "aminotransférases"
+      ],
+      "description": "Élévation plus marquée que l'ASAT dans les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ASAT (SGOT)",
+      "definition": "Aspartate aminotransférase, une enzyme hépatique dont l'élévation dans le sang indique une atteinte hépatique.",
+      "category": "physiologie",
+      "synonyms": [
+        "ASAT",
+        "SGOT"
+      ],
+      "related_terms": [
+        "ALAT",
+        "aminotransférases"
+      ],
+      "description": "Élévation moins marquée que l'ALAT dans les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leucocytes",
+      "definition": "Globules blancs, cellules du système immunitaire qui combattent les infections.",
+      "category": "physiologie",
+      "synonyms": [
+        "globules blancs"
+      ],
+      "related_terms": [
+        "NFS",
+        "PNN"
+      ],
+      "description": "Diminution dans les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ictère obstructif",
+      "definition": "Jaunisse causée par une obstruction des voies biliaires, empêchant l'écoulement normal de la bile.",
+      "category": "pathologie",
+      "synonyms": [
+        "ictère obstructif"
+      ],
+      "related_terms": [
+        "PBH",
+        "écho"
+      ],
+      "description": "Suspecté lors de l'évaluation des hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "factor V",
+      "definition": "Facteur V de la coagulation, une protéine essentielle dans la cascade de coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteur V"
+      ],
+      "related_terms": [
+        "coagulation",
+        "hémostase"
+      ],
+      "description": "Le facteur V est utilisé pour évaluer la fonction hépatique et la coagulation sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "70-140%",
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hepatic encephalopathy",
+      "definition": "Encéphalopathie hépatique, une complication neurologique de l'insuffisance hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie hépatique"
+      ],
+      "related_terms": [
+        "insuffisance hépatique",
+        "coma hépatique"
+      ],
+      "description": "L'encéphalopathie hépatique se manifeste par des troubles de la conscience et des fonctions cognitives.",
+      "expansion": null,
+      "clinical_significance": "Elle est un signe de gravité de l'insuffisance hépatique et peut nécessiter une transplantation hépatique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "West-Haven Classification",
+      "definition": "Classification de West-Haven, un système de classification de la gravité de l'encéphalopathie hépatique.",
+      "category": "classification",
+      "synonyms": [
+        "classification de West-Haven"
+      ],
+      "related_terms": [
+        "encéphalopathie hépatique",
+        "stade de coma"
+      ],
+      "description": "La classification de West-Haven évalue la gravité de l'encéphalopathie hépatique en quatre stades.",
+      "expansion": null,
+      "clinical_significance": "Elle est utilisée pour évaluer la progression de l'encéphalopathie hépatique et guider le traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "genotype 3",
+      "definition": "Génotype 3 du virus de l'hépatite C, une variante génétique du VHC.",
+      "category": "microbiologie",
+      "synonyms": [
+        "génotype 3"
+      ],
+      "related_terms": [
+        "VHC",
+        "génotype"
+      ],
+      "description": "Le génotype 3 est associé à une réponse différente aux traitements antiviraux par rapport aux autres génotypes.",
+      "expansion": null,
+      "clinical_significance": "La détermination du génotype est importante pour choisir le traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibrotest",
+      "definition": "Fibrotest, un test sanguin non invasif pour évaluer la fibrose hépatique.",
+      "category": "imagerie",
+      "synonyms": [
+        "Fibrotest"
+      ],
+      "related_terms": [
+        "fibrose hépatique",
+        "biomarqueurs sanguins"
+      ],
+      "description": "Le Fibrotest est utilisé pour évaluer la sévérité de la fibrose hépatique sans recourir à une biopsie.",
+      "expansion": null,
+      "clinical_significance": "Il est moins invasif que la biopsie hépatique et peut être utilisé pour le suivi des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibroscan",
+      "definition": "Fibroscan, une technique d'imagerie non invasive pour mesurer l'élasticité hépatique.",
+      "category": "imagerie",
+      "synonyms": [
+        "Fibroscan"
+      ],
+      "related_terms": [
+        "élasticité hépatique",
+        "fibrose hépatique"
+      ],
+      "description": "Le Fibroscan est utilisé pour évaluer la sévérité de la fibrose hépatique en mesurant l'élasticité du foie.",
+      "expansion": null,
+      "clinical_significance": "Il est particulièrement utile pour diagnostiquer la fibrose sévère (F3 et F4).",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-HBe",
+      "definition": "Anticorps anti-e de l'hépatite B, des anticorps dirigés contre l'antigène e du VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anti-HBe"
+      ],
+      "related_terms": [
+        "VHB",
+        "anticorps"
+      ],
+      "description": "Les Ac anti-HBe sont utilisés pour évaluer la réponse immunitaire contre le VHB.",
+      "expansion": null,
+      "clinical_significance": "Leur présence indique une réplication virale réduite et une infectivité moindre.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN par PCR",
+      "definition": "Amplification en chaîne par polymérase de l'ADN, une technique de laboratoire pour détecter et quantifier l'ADN viral.",
+      "category": "microbiologie",
+      "synonyms": [
+        "PCR"
+      ],
+      "related_terms": [
+        "ADN",
+        "amplification"
+      ],
+      "description": "La PCR est utilisée pour mesurer la charge virale et surveiller la réponse au traitement antiviral.",
+      "expansion": null,
+      "clinical_significance": "Elle permet de détecter de très faibles quantités d'ADN viral.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN du VHE",
+      "definition": "ARN du virus de l'hépatite E, l'acide ribonucléique du VHE.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ARN du VHE"
+      ],
+      "related_terms": [
+        "VHE",
+        "ARN"
+      ],
+      "description": "L'ARN du VHE est utilisé pour diagnostiquer l'infection par le VHE et surveiller la réponse au traitement.",
+      "expansion": null,
+      "clinical_significance": "Sa présence indique une infection active par le VHE.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "INF pegylé α2a",
+      "definition": "Interféron pégylé alpha-2a, une forme modifiée de l'interféron alpha utilisée pour traiter les hépatites virales.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pegylated interferon alpha-2a"
+      ],
+      "related_terms": [
+        "Interféron",
+        "Hépatite C"
+      ],
+      "description": "L'INF pegylé α2a est utilisé pour son effet immunomodulateur et antiviral, souvent en combinaison avec d'autres antiviraux.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans le traitement de l'hépatite B et C, il peut avoir des effets secondaires significatifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Interféron pégylé",
+        "Traitement hépatite"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "analogue nucléos(t)idiques",
+      "definition": "Médicaments antiviraux qui inhibent la réplication virale en interférant avec la synthèse de l'ADN viral.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Nucléosides analogues",
+        "Nucléotides analogues"
+      ],
+      "related_terms": [
+        "Lamivudine",
+        "Tenofovir"
+      ],
+      "description": "Ces médicaments sont utilisés pour traiter les infections virales chroniques comme l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Efficaces pour réduire la charge virale et prévenir les complications hépatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Antiviraux",
+        "Traitement hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN VHB",
+      "definition": "Acide désoxyribonucléique du virus de l'hépatite B, utilisé pour mesurer la charge virale dans le sang.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ADN du VHB"
+      ],
+      "related_terms": [
+        "Charge virale",
+        "Hépatite B"
+      ],
+      "description": "La quantification de l'ADN VHB est essentielle pour surveiller l'efficacité du traitement antiviral.",
+      "expansion": null,
+      "clinical_significance": "Un marqueur important pour la gestion et le suivi des patients atteints d'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ADN viral",
+        "Charge virale VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ribavarine",
+      "definition": "Un antiviral utilisé pour traiter les infections par le virus de l'hépatite E et d'autres virus.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ribavirin"
+      ],
+      "related_terms": [
+        "Hépatite E",
+        "Antiviral"
+      ],
+      "description": "La ribavarine est souvent utilisée en combinaison avec d'autres antiviraux pour traiter les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour réduire la durée et la sévérité de l'infection par le VHE.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ribavirin",
+        "Traitement hépatite E"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccin inactivé",
+      "definition": "Un type de vaccin contenant des virus ou des bactéries tués ou inactivés, incapables de causer la maladie mais stimulant une réponse immunitaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Vaccin tué"
+      ],
+      "related_terms": [
+        "Vaccination",
+        "Immunité"
+      ],
+      "description": "Les vaccins inactivés sont souvent utilisés pour prévenir les infections virales comme l'hépatite A.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la prévention des maladies infectieuses sans risque de causer la maladie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Vaccin inactivé",
+        "Vaccination"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voie intra-musculaire",
+      "definition": "Mode d'administration de médicaments ou de vaccins directement dans le muscle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IM"
+      ],
+      "related_terms": [
+        "Injection",
+        "Vaccination"
+      ],
+      "description": "La voie intra-musculaire est souvent utilisée pour l'administration de vaccins et de certains médicaments.",
+      "expansion": null,
+      "clinical_significance": "Permet une absorption rapide et efficace des médicaments.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Injection intra-musculaire",
+        "Vaccination IM"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "région deltoïdienne",
+      "definition": "Zone anatomique située sur la partie supérieure du bras, souvent utilisée pour les injections intra-musculaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "Deltoïde"
+      ],
+      "related_terms": [
+        "Injection IM",
+        "Vaccination"
+      ],
+      "description": "La région deltoïdienne est une zone musculaire épaisse, idéale pour les injections intra-musculaires.",
+      "expansion": null,
+      "clinical_significance": "Site préféré pour l'administration de vaccins et de certains médicaments.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Région deltoïdienne",
+        "Injection IM"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Calendrier vaccinal",
+      "definition": "Programme de vaccination recommandé par les autorités de santé publique, indiquant les vaccins à administrer et leur timing.",
+      "category": "classification",
+      "synonyms": [
+        "Programme de vaccination"
+      ],
+      "related_terms": [
+        "Vaccination",
+        "Immunité"
+      ],
+      "description": "Le calendrier vaccinal est essentiel pour assurer une protection optimale contre les maladies infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Aide à prévenir les épidémies et à protéger la population.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Calendrier vaccinal",
+        "Programme de vaccination"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sujets contacts d'hépatite aiguë A",
+      "definition": "Personnes ayant été en contact avec un individu infecté par le virus de l'hépatite A.",
+      "category": "pathologie",
+      "synonyms": [
+        "Contacts d'hépatite A"
+      ],
+      "related_terms": [
+        "Hépatite A",
+        "Transmission virale"
+      ],
+      "description": "Ces sujets sont à risque élevé de contracter l'infection et doivent être vaccinés ou surveillés.",
+      "expansion": null,
+      "clinical_significance": "La vaccination des contacts est essentielle pour prévenir la propagation de l'hépatite A.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Contacts d'hépatite A",
+        "Vaccination"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "professions à risque de contamination",
+      "definition": "Métiers exposés à un risque élevé de contamination par des agents infectieux en raison de leur environnement de travail.",
+      "category": "classification",
+      "synonyms": [
+        "Professions à risque"
+      ],
+      "related_terms": [
+        "Hygiène",
+        "Prévention"
+      ],
+      "description": "Inclut les professions en contact avec des substances biologiques ou des environnements insalubres.",
+      "expansion": null,
+      "clinical_significance": "Ces professions nécessitent des mesures de prévention spécifiques pour éviter les infections.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Professions à risque",
+        "Hygiène"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "éviction scolaire",
+      "definition": "Mesure de santé publique consistant à exclure temporairement un enfant de l'école pour prévenir la propagation d'une maladie infectieuse.",
+      "category": "classification",
+      "synonyms": [
+        "Exclusion scolaire"
+      ],
+      "related_terms": [
+        "Isolation",
+        "Prévention"
+      ],
+      "description": "Utilisée pour limiter la transmission de maladies contagieuses dans les milieux scolaires.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour réduire la propagation des infections virales comme l'hépatite A.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Éviction scolaire",
+        "Isolation"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lavage des mains",
+      "definition": "Pratique d'hygiène consistant à nettoyer les mains avec de l'eau et du savon ou un désinfectant pour éliminer les germes.",
+      "category": "classification",
+      "synonyms": [
+        "Hygiène des mains"
+      ],
+      "related_terms": [
+        "Prévention des infections",
+        "Hygiène"
+      ],
+      "description": "Le lavage des mains est une mesure essentielle pour prévenir la transmission des infections.",
+      "expansion": null,
+      "clinical_significance": "Réduit significativement le risque de transmission des maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Lavage des mains",
+        "Hygiène"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag HBs obtenu par recombinaison génétique",
+      "definition": "Antigène de surface du virus de l'hépatite B produit par recombinaison génétique, utilisé dans les vaccins contre l'hépatite B.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ag HBs recombinant"
+      ],
+      "related_terms": [
+        "Vaccin HBV",
+        "Recombinaison génétique"
+      ],
+      "description": "L'Ag HBs recombinant est utilisé pour induire une réponse immunitaire protectrice contre le VHB.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la prévention de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ag HBs recombinant",
+        "Vaccin HBV"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HBc de type IgG",
+      "definition": "Anticorps dirigés contre l'antigène core du virus de l'hépatite B, de type IgG, indiquant une infection passée par le VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anticorps anti-HBc IgG"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "Marqueur viral"
+      ],
+      "description": "La présence d'Ac anti HBc IgG indique une infection passée par le VHB.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le diagnostic et le suivi de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anticorps anti-HBc IgG",
+        "Hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nv-nés",
+      "definition": "Nouveau-nés, terme désignant les bébés âgés de moins de 28 jours.",
+      "category": "classification",
+      "synonyms": [
+        "Nouveau-nés"
+      ],
+      "related_terms": [
+        "Naissance",
+        "Nourrisson"
+      ],
+      "description": "Les nv-nés sont particulièrement vulnérables aux infections et nécessitent des soins spécifiques.",
+      "expansion": null,
+      "clinical_significance": "La vaccination des nv-nés est essentielle pour prévenir les infections virales comme l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Nouveau-nés",
+        "Naissance"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccin pentavalent",
+      "definition": "Vaccin combiné protégeant contre cinq maladies infectieuses, souvent incluant la diphtérie, le tétanos, la coqueluche, l'hépatite B et l'Haemophilus influenzae type b.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Vaccin 5-en-1"
+      ],
+      "related_terms": [
+        "Vaccination",
+        "Immunité"
+      ],
+      "description": "Le vaccin pentavalent est utilisé pour simplifier le calendrier vaccinal et assurer une protection contre plusieurs maladies.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour prévenir plusieurs infections chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Vaccin pentavalent",
+        "Vaccination"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HBs",
+      "definition": "Anticorps dirigés contre l'antigène de surface du virus de l'hépatite B, indiquant une immunité contre le VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anticorps anti-HBs"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "Immunité"
+      ],
+      "description": "La présence d'Ac anti HBs indique une protection contre l'infection par le VHB.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer l'efficacité de la vaccination contre l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anticorps anti-HBs",
+        "Hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "charge virale B",
+      "definition": "Quantité de virus de l'hépatite B présente dans le sang, mesurée par la quantification de l'ADN du VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Charge virale VHB"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "ADN viral"
+      ],
+      "description": "La charge virale B est un indicateur important de l'activité virale et de la réponse au traitement.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour surveiller l'efficacité du traitement antiviral.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Charge virale VHB",
+        "ADN viral"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoglobulines spécifiques anti HBs",
+      "definition": "Anticorps spécifiques dirigés contre l'antigène de surface du virus de l'hépatite B, utilisés pour la séroprophylaxie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Immunoglobulines anti-HBs"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "Séroprophylaxie"
+      ],
+      "description": "Les immunoglobulines spécifiques anti HBs sont utilisées pour prévenir l'infection par le VHB après une exposition.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la prévention de l'hépatite B en post-exposition.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Immunoglobulines anti-HBs",
+        "Séroprophylaxie"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérovaccination",
+      "definition": "Combinaison de la vaccination et de la séroprophylaxie pour prévenir l'infection par le virus de l'hépatite B.",
+      "category": "classification",
+      "synonyms": [
+        "Vaccination et séroprophylaxie"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "Prévention"
+      ],
+      "description": "La sérovaccination est utilisée pour assurer une protection immédiate et à long terme contre le VHB.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour prévenir l'hépatite B chez les nouveau-nés et après une exposition.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Sérovaccination",
+        "Vaccination"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AgHBs (+)",
+      "definition": "Présence de l'antigène de surface du virus de l'hépatite B dans le sang, indiquant une infection active par le VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AgHBs positif"
+      ],
+      "related_terms": [
+        "Hépatite B",
+        "Marqueur viral"
+      ],
+      "description": "La présence d'AgHBs (+) indique une infection active par le VHB.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour le diagnostic et le suivi de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AgHBs positif",
+        "Hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN+",
+      "definition": "ARN à polarité positive, utilisé comme matériel génétique par certains virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ARN positif"
+      ],
+      "related_terms": [
+        "Virus à ARN",
+        "Génome viral"
+      ],
+      "description": "L'ARN+ peut être directement traduit en protéines virales par la machinerie cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compréhension de la réplication virale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ARN positif",
+        "Virus à ARN"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN Circulaire Partiellement bicaténaire",
+      "definition": "Structure de l'ADN viral où une partie de l'ADN est double brin et l'autre partie est simple brin.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ADN partiellement bicaténaire"
+      ],
+      "related_terms": [
+        "Virus de l'hépatite B",
+        "Génome viral"
+      ],
+      "description": "Cette structure est caractéristique du génome du virus de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compréhension de la réplication virale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ADN partiellement bicaténaire",
+        "Virus de l'hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN-",
+      "definition": "ARN à polarité négative, utilisé comme matériel génétique par certains virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ARN négatif"
+      ],
+      "related_terms": [
+        "Virus à ARN",
+        "Génome viral"
+      ],
+      "description": "L'ARN- doit être transcrit en ARN+ avant de pouvoir être traduit en protéines virales.",
+      "expansion": null,
+      "clinical_significance": "Important pour la compréhension de la réplication virale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ARN négatif",
+        "Virus à ARN"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "passage à la chronicité",
+      "definition": "Transition d'une infection aiguë à une infection chronique, souvent observée avec les hépatites virales.",
+      "category": "pathologie",
+      "synonyms": [
+        "Chronicité"
+      ],
+      "related_terms": [
+        "Hépatite",
+        "Infection chronique"
+      ],
+      "description": "Le passage à la chronicité est un processus où l'infection persiste au-delà de la phase aiguë.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications à long terme comme la cirrhose et le cancer du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Passage à la chronicité",
+        "Infection chronique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer du foie",
+      "definition": "Tumeur maligne du foie, souvent associée à une infection chronique par le virus de l'hépatite B ou C.",
+      "category": "pathologie",
+      "synonyms": [
+        "Carcinome hépatocellulaire"
+      ],
+      "related_terms": [
+        "Hépatite",
+        "Tumeur maligne"
+      ],
+      "description": "Le cancer du foie est une complication grave des hépatites virales chroniques.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortel sans traitement approprié.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Cancer du foie",
+        "Carcinome hépatocellulaire"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ictérique",
+      "definition": "Relatif à l'ictère, une jaunisse due à une accumulation de bilirubine dans le sang et les tissus.",
+      "category": "pathologie",
+      "synonyms": [
+        "jaunisse"
+      ],
+      "related_terms": [
+        "bilirubine",
+        "hépatite"
+      ],
+      "description": "L'ictère peut être causé par diverses maladies hépatiques, y compris les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de dysfonctionnement hépatique ou de blocage des voies biliaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ictère",
+        "jaunisse"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite virale",
+      "definition": "Atteinte inflammatoire diffuse du foie consécutive à une infection par des virus hépatotropes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite A",
+        "hépatite B",
+        "hépatite C",
+        "hépatite D",
+        "hépatite E"
+      ],
+      "description": "L'hépatite virale peut être aiguë ou chronique et est causée par des virus ayant un tropisme principal pour les cellules hépatiques.",
+      "expansion": "",
+      "clinical_significance": "L'hépatite virale est une affection à déclaration obligatoire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "foie",
+        "hépatite",
+        "inflammation hépatique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus hépatotropes",
+      "definition": "Virus ayant un tropisme principal pour les cellules hépatiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "virus de l'hépatite A",
+        "virus de l'hépatite B",
+        "virus de l'hépatite C",
+        "virus de l'hépatite D",
+        "virus de l'hépatite E"
+      ],
+      "description": "Les virus hépatotropes incluent les virus des hépatites A, B, C, D et E.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "virus",
+        "hépatite",
+        "cellules hépatiques"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Herpesviridae",
+      "definition": "Famille de virus à ADN double brin, responsables de diverses infections chez l'homme et les animaux.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "herpès",
+        "virus de l'herpès"
+      ],
+      "description": "Les Herpesviridae peuvent causer des atteintes hépatiques dans le cadre d'infections systémiques.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Herpesviridae",
+        "virus de l'herpès"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entérovirus",
+      "definition": "Groupe de virus à ARN simple brin appartenant à la famille des Picornaviridae, responsables de diverses infections gastro-intestinales et systémiques.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "poliovirus",
+        "coxsackievirus",
+        "echovirus"
+      ],
+      "description": "Les entérovirus peuvent causer des atteintes hépatiques dans le cadre d'infections systémiques.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "entérovirus",
+        "Picornaviridae"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Adénovirus",
+      "definition": "Famille de virus à ADN double brin, responsables de diverses infections respiratoires, gastro-intestinales et oculaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénovirus",
+        "infection adénovirale"
+      ],
+      "description": "Les Adénovirus peuvent causer des atteintes hépatiques dans le cadre d'infections systémiques.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Adénovirus",
+        "infection adénovirale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arbovirus",
+      "definition": "Virus transmis par des arthropodes, principalement des moustiques et des tiques, responsables de diverses infections chez l'homme et les animaux.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "virus de la dengue",
+        "virus du Zika",
+        "virus de la fièvre jaune"
+      ],
+      "description": "Les arbovirus peuvent causer des atteintes hépatiques dans le cadre d'infections systémiques.",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "arbovirus",
+        "virus transmis par arthropodes"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHA",
+      "definition": "Virus de l'hépatite A, un virus à ARN simple brin sans enveloppe, responsable de l'hépatite A.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus de l'hépatite A"
+      ],
+      "related_terms": [
+        "hépatite A",
+        "infection par VHA"
+      ],
+      "description": "Le VHA est transmis principalement par voie féco-orale et est résistant dans le tube digestif.",
+      "expansion": "Virus de l'hépatite A",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "VHA",
+        "virus de l'hépatite A"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHE",
+      "definition": "Virus de l'hépatite E, un virus à ARN simple brin sans enveloppe, responsable de l'hépatite E.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus de l'hépatite E"
+      ],
+      "related_terms": [
+        "hépatite E",
+        "infection par VHE"
+      ],
+      "description": "Le VHE peut être transmis par voie féco-orale ou zoonotique.",
+      "expansion": "Virus de l'hépatite E",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "VHE",
+        "virus de l'hépatite E"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHB",
+      "definition": "Virus de l'hépatite B, un virus à ADN partiellement double brin, responsable de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus de l'hépatite B"
+      ],
+      "related_terms": [
+        "hépatite B",
+        "infection par VHB"
+      ],
+      "description": "Le VHB est transmis par voie sanguine, sexuelle ou materno-fœtale.",
+      "expansion": "Virus de l'hépatite B",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "VHB",
+        "virus de l'hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AgHBs",
+      "definition": "Antigène de surface de l'hépatite B, une protéine présente sur l'enveloppe du virus de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HBsAg"
+      ],
+      "related_terms": [
+        "VHB",
+        "AgHBe"
+      ],
+      "description": "La présence de l'AgHBs dans le sang indique une infection par le VHB et est utilisée pour le diagnostic de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour le dépistage et le suivi de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AgHBs",
+        "HBsAg"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "AgHBe",
+      "definition": "Antigène e de l'hépatite B, une protéine sécrétée par le virus de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HBeAg"
+      ],
+      "related_terms": [
+        "VHB",
+        "AgHBs"
+      ],
+      "description": "La présence de l'AgHBe indique une réplication active du virus et une haute infectiosité.",
+      "expansion": null,
+      "clinical_significance": "Marqueur de la réplicative active du VHB et de la contagiosité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AgHBe",
+        "HBeAg"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "VIH",
+      "definition": "Virus de l'immunodéficience humaine, un rétrovirus responsable du SIDA.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HIV"
+      ],
+      "related_terms": [
+        "SIDA",
+        "IST"
+      ],
+      "description": "Le VIH attaque les cellules du système immunitaire, en particulier les lymphocytes T CD4+, affaiblissant la capacité du corps à combattre les infections.",
+      "expansion": null,
+      "clinical_significance": "Infection chronique qui peut évoluer vers le SIDA en l'absence de traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "VIH",
+        "HIV"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "VHC",
+      "definition": "Virus de l'hépatite C, un virus à ARN appartenant à la famille des Flaviviridae, responsable de l'hépatite C.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HCV"
+      ],
+      "related_terms": [
+        "hépatite C",
+        "Ac anti-VHC"
+      ],
+      "description": "Le VHC est un virus enveloppé avec un génome ARN simple brin. Il se transmet principalement par voie parentérale.",
+      "expansion": null,
+      "clinical_significance": "Peut causer une infection chronique du foie, avec des risques de cirrhose et de cancer du foie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "VHC",
+        "hépatite C"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Ac anti-VHC",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite C, indiquant une exposition au VHC.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anti-HCV antibodies"
+      ],
+      "related_terms": [
+        "VHC",
+        "hépatite C"
+      ],
+      "description": "La présence des Ac anti-VHC dans le sang indique une infection passée ou actuelle par le VHC.",
+      "expansion": null,
+      "clinical_significance": "Marqueur important pour le dépistage de l'hépatite C.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ac anti-VHC",
+        "anti-HCV antibodies"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "CDC",
+      "definition": "Centers for Disease Control and Prevention, l'agence nationale de santé publique des États-Unis.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "OMS",
+        "santé publique"
+      ],
+      "description": "Le CDC est responsable de la prévention et du contrôle des maladies, de la promotion de la santé et de la préparation aux situations d'urgence sanitaire.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle crucial dans la surveillance et la prévention des maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "CDC",
+        "Centers for Disease Control and Prevention"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "OMS",
+      "definition": "Organisation mondiale de la santé, une agence spécialisée des Nations Unies responsable de la santé publique internationale.",
+      "category": "classification",
+      "synonyms": [
+        "WHO"
+      ],
+      "related_terms": [
+        "CDC",
+        "santé publique"
+      ],
+      "description": "L'OMS coordonne les efforts mondiaux pour lutter contre les maladies et promouvoir la santé.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle crucial dans la surveillance et la prévention des maladies infectieuses à l'échelle mondiale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "OMS",
+        "WHO"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Picornaviridæ",
+      "definition": "Famille de virus à ARN, incluant des virus de petite taille comme les entérovirus et les rhinovirus.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "entérovirus",
+        "rhinovirus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Picornaviridæ",
+        "entérovirus",
+        "rhinovirus"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN",
+      "definition": "Acide ribonucléique, un acide nucléique essentiel pour la synthèse des protéines et jouant un rôle central dans la réplication de nombreux virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "RNA"
+      ],
+      "related_terms": [
+        "ADN",
+        "génome viral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "ARN",
+        "RNA",
+        "génome viral"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hepeviridae",
+      "definition": "Famille de virus à ARN, incluant le virus de l'hépatite E.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite E",
+        "virus de l'hépatite E"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Hepeviridae",
+        "hépatite E"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hepadnaviridae",
+      "definition": "Famille de virus à ADN, incluant le virus de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite B",
+        "virus de l'hépatite B"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Hepadnaviridae",
+        "hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN",
+      "definition": "Acide désoxyribonucléique, un acide nucléique contenant les informations génétiques nécessaires à la synthèse des ARN et des protéines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "DNA"
+      ],
+      "related_terms": [
+        "ARN",
+        "génome viral"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "ADN",
+        "DNA",
+        "génome viral"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AntigèneHBs",
+      "definition": "Antigène de surface du virus de l'hépatite B, utilisé comme marqueur de l'infection par le VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AgHBs"
+      ],
+      "related_terms": [
+        "VHB",
+        "hépatite B"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "AntigèneHBs",
+        "AgHBs",
+        "VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Antigènes HBc",
+      "definition": "Antigènes du core du virus de l'hépatite B, présents dans les particules virales mais non détectables dans le sérum.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AgHBc"
+      ],
+      "related_terms": [
+        "VHB",
+        "hépatite B"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Antigènes HBc",
+        "AgHBc",
+        "VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Antigène HBe",
+      "definition": "Antigène de l'enveloppe du virus de l'hépatite B, marqueur de réplication virale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AgHBe"
+      ],
+      "related_terms": [
+        "VHB",
+        "hépatite B"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Antigène HBe",
+        "AgHBe",
+        "VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "reverse transcriptase",
+      "definition": "Enzyme qui catalyse la transcription inverse, c'est-à-dire la synthèse d'ADN à partir d'ARN.",
+      "category": "microbiologie",
+      "synonyms": [
+        "RT"
+      ],
+      "related_terms": [
+        "transcriptase inverse",
+        "VHB"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "reverse transcriptase",
+        "RT",
+        "VHB"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgG",
+      "definition": "Immunoglobuline G, un type d'anticorps présent dans le sang et les fluides extracellulaires, jouant un rôle clé dans l'immunité.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps",
+        "immunité"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "IgG",
+        "anticorps",
+        "immunité"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgM",
+      "definition": "Immunoglobuline M, un type d'anticorps produit en réponse à une nouvelle infection, souvent utilisé comme marqueur d'infection aiguë.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps",
+        "infection aiguë"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "IgM",
+        "anticorps",
+        "infection aiguë"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Flaviviridae",
+      "definition": "Famille de virus à ARN, incluant les virus de la fièvre jaune, de la dengue et de l'hépatite C.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite C",
+        "virus de l'hépatite C"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Flaviviridae",
+        "hépatite C"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Quasi-espèces",
+      "definition": "Population de variants viraux génétiquement distincts mais apparentés, souvent observée dans les infections par le VHC.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHC",
+        "variants viraux"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Quasi-espèces",
+        "VHC",
+        "variants viraux"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatocytes infectés",
+      "definition": "Cellules du foie infectées par un virus, souvent ciblées par la réponse immunitaire cellulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite virale",
+        "réponse immunitaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hépatocytes infectés",
+        "hépatite virale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome pseudo-grippal",
+      "definition": "Ensemble de symptômes ressemblant à ceux de la grippe, souvent observés dans la phase pré-ictérique des hépatites virales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite virale",
+        "phase pré-ictérique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome pseudo-grippal",
+        "hépatite virale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "splénomégalie",
+      "definition": "Augmentation de la taille de la rate, souvent observée dans diverses conditions médicales, y compris les hépatites virales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rate",
+        "hépatite virale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "splénomégalie",
+        "rate",
+        "hépatite virale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aminotransférases",
+      "definition": "Enzymes présentes dans les cellules hépatiques, dont l'élévation dans le sang indique une atteinte hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "transaminases"
+      ],
+      "related_terms": [
+        "ALAT",
+        "ASAT"
+      ],
+      "description": "L'élévation des aminotransférases est un marqueur clé de l'hépatite aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite aiguë",
+      "definition": "Inflammation soudaine et sévère du foie, souvent causée par une infection virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatite virale aiguë"
+      ],
+      "related_terms": [
+        "ictère",
+        "bilirubinémie"
+      ],
+      "description": "L'hépatite aiguë peut être causée par divers virus, notamment les virus A, B, C, D et E.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alanine aminotransférase (ALAT)",
+      "definition": "Enzyme hépatique spécifique dont l'élévation indique une atteinte hépatocellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SGPT"
+      ],
+      "related_terms": [
+        "ASAT",
+        "SGOT"
+      ],
+      "description": "L'ALAT est plus spécifique du foie que l'ASAT.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aspartate aminotransférase (ASAT)",
+      "definition": "Enzyme présente dans divers tissus, y compris le foie, dont l'élévation peut indiquer une atteinte hépatique ou musculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SGOT"
+      ],
+      "related_terms": [
+        "ALAT",
+        "SGPT"
+      ],
+      "description": "L'ASAT est moins spécifique du foie que l'ALAT.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilirubinémie",
+      "definition": "Concentration de bilirubine dans le sang, un pigment jaune résultant de la dégradation de l'hémoglobine.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bilirubine conjuguée",
+        "ictère"
+      ],
+      "description": "Une bilirubinémie élevée peut indiquer une atteinte hépatique ou une obstruction des voies biliaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilirubine conjuguée",
+      "definition": "Forme de bilirubine soluble dans l'eau, produite par le foie et excrétée dans la bile.",
+      "category": "pathologie",
+      "synonyms": [
+        "bilirubine directe"
+      ],
+      "related_terms": [
+        "bilirubinémie",
+        "ictère"
+      ],
+      "description": "L'élévation de la bilirubine conjuguée indique une cholestase ou une atteinte hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gammaglutamyl transpeptidase (gamma GT)",
+      "definition": "Enzyme hépatique dont l'élévation peut indiquer une cholestase ou une consommation excessive d'alcool.",
+      "category": "pathologie",
+      "synonyms": [
+        "GGT"
+      ],
+      "related_terms": [
+        "phosphatases alcalines"
+      ],
+      "description": "La GGT est souvent utilisée comme marqueur de consommation d'alcool.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phosphatases alcalines",
+      "definition": "Enzymes présentes dans divers tissus, dont l'élévation peut indiquer une cholestase ou une maladie osseuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "GGT"
+      ],
+      "description": "Les phosphatases alcalines sont souvent élevées dans les maladies hépatiques cholestatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prothrombine",
+      "definition": "Protéine impliquée dans la coagulation sanguine, dont le taux peut être abaissé dans les maladies hépatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "facteur V"
+      ],
+      "description": "Un taux de prothrombine abaissé peut indiquer une insuffisance hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémogramme sanguin",
+      "definition": "Analyse sanguine complète qui mesure les différents types de cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "numération formule sanguine"
+      ],
+      "related_terms": [
+        "leuconeutropénie"
+      ],
+      "description": "L'hémogramme sanguin est utilisé pour diagnostiquer diverses conditions hématologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "leuconeutropénie",
+      "definition": "Diminution du nombre de leucocytes neutrophiles dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémogramme sanguin"
+      ],
+      "description": "La leuconeutropénie peut être observée dans diverses infections virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérologie virale",
+      "definition": "Analyse sanguine visant à détecter la présence d'anticorps spécifiques contre des virus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ac anti HVA",
+        "AgHBs"
+      ],
+      "description": "La sérologie virale est essentielle pour diagnostiquer les infections virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HVA",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite A.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IgM"
+      ],
+      "description": "La présence d'Ac anti HVA de type IgM indique une infection aiguë par le virus de l'hépatite A.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti HBc",
+      "definition": "Anticorps dirigés contre l'antigène core du virus de l'hépatite B.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IgM",
+        "AgHBs"
+      ],
+      "description": "La présence d'Ac anti HBc de type IgM indique une infection aiguë par le virus de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti VHD",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite D.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ARN du VHD"
+      ],
+      "description": "La présence d'Ac anti VHD indique une infection par le virus de l'hépatite D.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN du VHD",
+      "definition": "Acide ribonucléique du virus de l'hépatite D, détecté pour confirmer l'infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ac anti VHD"
+      ],
+      "description": "La détection de l'ARN du VHD est essentielle pour diagnostiquer l'hépatite D.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti VHC",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite C.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ARN du VHC"
+      ],
+      "description": "La présence d'Ac anti VHC indique une infection par le virus de l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN du VHC",
+      "definition": "Acide ribonucléique du virus de l'hépatite C, détecté pour confirmer l'infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Ac anti VHC"
+      ],
+      "description": "La détection de l'ARN du VHC est essentielle pour diagnostiquer l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHE",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite E.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IgM"
+      ],
+      "description": "La présence d'Anti VHE de type IgM indique une infection aiguë par le virus de l'hépatite E.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ponction Biopsie Hépatique (PBH)",
+      "definition": "Procédure médicale consistant à prélever un échantillon de tissu hépatique pour analyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie hépatique"
+      ],
+      "related_terms": [
+        "nécrose hépatocytaire"
+      ],
+      "description": "La PBH est utilisée pour évaluer la gravité des lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécrose hépatocytaire",
+      "definition": "Mort cellulaire des hépatocytes, les cellules principales du foie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PBH"
+      ],
+      "description": "La nécrose hépatocytaire est un signe de dommage hépatique sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ictère",
+      "definition": "Jaunissement de la peau et des muqueuses dû à une accumulation de bilirubine.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bilirubinémie"
+      ],
+      "description": "L'ictère est un signe clinique fréquent dans les hépatites aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TP",
+      "definition": "Temps de prothrombine, un test de coagulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "temps de Quick"
+      ],
+      "related_terms": [
+        "facteur V"
+      ],
+      "description": "Un TP prolongé peut indiquer une insuffisance hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur V",
+      "definition": "Protéine impliquée dans la coagulation sanguine, synthétisée par le foie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "TP"
+      ],
+      "description": "Un taux de facteur V abaissé peut indiquer une insuffisance hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie hépatique",
+      "definition": "Dysfonctionnement cérébral résultant d'une insuffisance hépatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hépatite fulminante"
+      ],
+      "description": "L'encéphalopathie hépatique est un signe de gravité dans les hépatites aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite fulminante",
+      "definition": "Forme sévère d'hépatite aiguë caractérisée par une défaillance hépatique rapide et une encéphalopathie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie hépatique"
+      ],
+      "description": "L'hépatite fulminante est une urgence médicale nécessitant une hospitalisation immédiate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "classification de West-Haven",
+      "definition": "Système de classification utilisé pour évaluer la gravité de l'encéphalopathie hépatique en quatre stades.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie hépatique",
+        "stade I",
+        "stade II",
+        "stade III",
+        "stade IV"
+      ],
+      "description": "La classification de West-Haven est un outil clinique pour évaluer la progression de l'encéphalopathie hépatique.",
+      "expansion": null,
+      "clinical_significance": "Aide à déterminer la gravité de l'encéphalopathie hépatique et à guider la prise en charge.",
+      "normal_values": null,
+      "image_search_terms": [
+        "classification de West-Haven",
+        "encéphalopathie hépatique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "astérixis",
+      "definition": "Tremblement involontaire des mains, caractérisé par des mouvements rapides et irréguliers, souvent observé dans l'encéphalopathie hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "flapping tremor"
+      ],
+      "related_terms": [
+        "encéphalopathie hépatique",
+        "stade II"
+      ],
+      "description": "L'astérixis est un signe clinique important dans l'évaluation de l'encéphalopathie hépatique.",
+      "expansion": null,
+      "clinical_significance": "Indique une progression de l'encéphalopathie hépatique au stade II.",
+      "normal_values": null,
+      "image_search_terms": [
+        "astérixis",
+        "flapping tremor"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-VHC",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite C, indiquant une exposition au virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-VHC"
+      ],
+      "related_terms": [
+        "VHC",
+        "hépatite C"
+      ],
+      "description": "Les anti-VHC sont des marqueurs sérologiques utilisés pour le diagnostic de l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": "La présence d'anti-VHC indique une infection par le VHC.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-VHC",
+        "anticorps anti-VHC"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HMG",
+      "definition": "Hépatomégalie, une augmentation de la taille du foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatomégalie"
+      ],
+      "related_terms": [
+        "SMG",
+        "hépatite chronique"
+      ],
+      "description": "L'HMG est un signe clinique souvent observé dans les maladies hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hépatite chronique ou d'autres maladies hépatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HMG",
+        "hépatomégalie"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMG",
+      "definition": "Splénomégalie, une augmentation de la taille de la rate.",
+      "category": "pathologie",
+      "synonyms": [
+        "splénomégalie"
+      ],
+      "related_terms": [
+        "HMG",
+        "hépatite chronique"
+      ],
+      "description": "La SMG est un signe clinique souvent observé dans les maladies hépatiques et hématologiques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hépatite chronique ou d'autres maladies hépatiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SMG",
+        "splénomégalie"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GT",
+      "definition": "Gamma-glutamyl transpeptidase, une enzyme utilisée comme marqueur de la fonction hépatique et de la consommation d'alcool.",
+      "category": "physiologie",
+      "synonyms": [
+        "gamma-glutamyl transpeptidase"
+      ],
+      "related_terms": [
+        "PAL",
+        "hépatite chronique"
+      ],
+      "description": "Les niveaux de GT sont souvent élevés dans les maladies hépatiques et l'alcoolisme.",
+      "expansion": null,
+      "clinical_significance": "Une élévation des GT peut indiquer une hépatite ou une consommation excessive d'alcool.",
+      "normal_values": "5-85 U/L",
+      "image_search_terms": [
+        "GT",
+        "gamma-glutamyl transpeptidase"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAL",
+      "definition": "Phosphatase alcaline, une enzyme utilisée comme marqueur de la fonction hépatique et osseuse.",
+      "category": "physiologie",
+      "synonyms": [
+        "phosphatase alcaline"
+      ],
+      "related_terms": [
+        "GT",
+        "hépatite chronique"
+      ],
+      "description": "Les niveaux de PAL sont souvent élevés dans les maladies hépatiques et osseuses.",
+      "expansion": null,
+      "clinical_significance": "Une élévation des PAL peut indiquer une hépatite ou d'autres maladies osseuses.",
+      "normal_values": "40-129 U/L",
+      "image_search_terms": [
+        "PAL",
+        "phosphatase alcaline"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PBH",
+      "definition": "Ponction biopsie hépatique, une procédure médicale utilisée pour prélever un échantillon de tissu hépatique pour analyse.",
+      "category": "imagerie",
+      "synonyms": [
+        "biopsie hépatique"
+      ],
+      "related_terms": [
+        "hépatite chronique",
+        "fibrose hépatique"
+      ],
+      "description": "La PBH est utilisée pour diagnostiquer et évaluer la sévérité des maladies hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Permet de confirmer le diagnostic d'hépatite chronique et d'évaluer la fibrose hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PBH",
+        "biopsie hépatique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibroscan®",
+      "definition": "Appareil utilisé pour mesurer l'élasticité hépatique, un indicateur de la fibrose hépatique.",
+      "category": "imagerie",
+      "synonyms": [
+        "Fibroscan"
+      ],
+      "related_terms": [
+        "fibrose hépatique",
+        "hépatite chronique"
+      ],
+      "description": "Le Fibroscan® est un outil non invasif pour évaluer la fibrose hépatique.",
+      "expansion": null,
+      "clinical_significance": "Permet d'évaluer la sévérité de la fibrose hépatique sans recourir à une biopsie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Fibroscan®",
+        "Fibroscan"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-VHD",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite D, indiquant une exposition au virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-VHD"
+      ],
+      "related_terms": [
+        "VHD",
+        "hépatite D"
+      ],
+      "description": "Les anti-VHD sont des marqueurs sérologiques utilisés pour le diagnostic de l'hépatite D.",
+      "expansion": null,
+      "clinical_significance": "La présence d'anti-VHD indique une infection par le VHD.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-VHD",
+        "anticorps anti-VHD"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-VIH",
+      "definition": "Anticorps dirigés contre le virus de l'immunodéficience humaine, indiquant une exposition au virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-VIH"
+      ],
+      "related_terms": [
+        "VIH",
+        "SIDA"
+      ],
+      "description": "Les anti-VIH sont des marqueurs sérologiques utilisés pour le diagnostic de l'infection par le VIH.",
+      "expansion": null,
+      "clinical_significance": "La présence d'anti-VIH indique une infection par le VIH.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anti-VIH",
+        "anticorps anti-VIH"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgG anti-VHA",
+      "definition": "Immunoglobulines G dirigées contre le virus de l'hépatite A, indiquant une immunité contre le virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgG anti-VHA"
+      ],
+      "related_terms": [
+        "VHA",
+        "hépatite A"
+      ],
+      "description": "Les IgG anti-VHA sont des marqueurs sérologiques indiquant une immunité contre l'hépatite A.",
+      "expansion": null,
+      "clinical_significance": "La présence d'IgG anti-VHA indique une immunité contre le VHA.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IgG anti-VHA"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stéatopathie métabolique",
+      "definition": "Maladie du foie gras non alcoolique, caractérisée par l'accumulation de graisse dans le foie en l'absence de consommation excessive d'alcool.",
+      "category": "pathologie",
+      "synonyms": [
+        "stéatose hépatique non alcoolique"
+      ],
+      "related_terms": [
+        "stéatose",
+        "hépatite chronique"
+      ],
+      "description": "La stéatopathie métabolique est une maladie hépatique liée au métabolisme et à l'obésité.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une hépatite chronique et des complications hépatiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "stéatopathie métabolique",
+        "stéatose hépatique non alcoolique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinome hépato-cellulaire (CHC)",
+      "definition": "Type de cancer du foie qui se développe à partir des hépatocytes, les cellules principales du foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "carcinome hépatocellulaire"
+      ],
+      "related_terms": [
+        "hépatite chronique",
+        "cirrhose"
+      ],
+      "description": "Le CHC est une complication grave de l'hépatite chronique et de la cirrhose.",
+      "expansion": null,
+      "clinical_significance": "Peut être détecté par échographie abdominale et nécessite une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinome hépato-cellulaire",
+        "CHC"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrose sévère",
+      "definition": "Stade avancé de la fibrose hépatique, caractérisé par une accumulation importante de tissu cicatriciel dans le foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrose hépatique avancée"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite chronique"
+      ],
+      "description": "La fibrose sévère est un stade avancé de la maladie hépatique qui peut évoluer vers la cirrhose.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves comme l'hypertension portale et nécessite une surveillance étroite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrose sévère",
+        "fibrose hépatique avancée"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypertension portale",
+      "definition": "Augmentation de la pression dans le système porte, souvent due à une obstruction du flux sanguin dans le foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension portale"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "varices œsophagiennes"
+      ],
+      "description": "L'hypertension portale est une complication grave de la cirrhose et d'autres maladies hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des varices œsophagiennes et d'autres complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertension portale",
+        "varices œsophagiennes"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "varices œsophagiennes",
+      "definition": "Dilatations anormales des veines de l'œsophage, souvent dues à l'hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [
+        "varices œsophagiennes"
+      ],
+      "related_terms": [
+        "hypertension portale",
+        "cirrhose"
+      ],
+      "description": "Les varices œsophagiennes sont une complication grave de l'hypertension portale et peuvent entraîner des saignements importants.",
+      "expansion": null,
+      "clinical_significance": "Nécessitent une surveillance et une prise en charge spécialisée pour prévenir les saignements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "varices œsophagiennes",
+        "hypertension portale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac anti-VHE",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite E, indiquant une exposition au virus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-VHE"
+      ],
+      "related_terms": [
+        "VHE",
+        "hépatite E"
+      ],
+      "description": "Les Ac anti-VHE sont des marqueurs sérologiques utilisés pour le diagnostic de l'hépatite E.",
+      "expansion": null,
+      "clinical_significance": "La présence d'Ac anti-VHE indique une infection par le VHE.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Ac anti-VHE",
+        "anticorps anti-VHE"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHA de type IgM",
+      "definition": "Anticorps de type IgM dirigés contre le virus de l'hépatite A, indicatifs d'une infection aiguë.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgM anti-VHA"
+      ],
+      "related_terms": [
+        "Anti VHA de type IgG"
+      ],
+      "description": "Ces anticorps apparaissent tôt dans l'infection et sont utilisés pour diagnostiquer une hépatite A aiguë.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic précoce de l'hépatite A.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHA de type IgG",
+      "definition": "Anticorps de type IgG dirigés contre le virus de l'hépatite A, indicatifs d'une immunité passée ou d'une vaccination.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgG anti-VHA"
+      ],
+      "related_terms": [
+        "Anti VHA de type IgM"
+      ],
+      "description": "Ces anticorps persistent longtemps après l'infection ou la vaccination et indiquent une immunité.",
+      "expansion": null,
+      "clinical_significance": "Important pour déterminer l'immunité contre l'hépatite A.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag HBs",
+      "definition": "Antigène de surface du virus de l'hépatite B, indicatif d'une infection aiguë ou chronique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HBsAg"
+      ],
+      "related_terms": [
+        "Anti HBs"
+      ],
+      "description": "Présence de cet antigène indique une infection active par le virus de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Marqueur clé pour le diagnostic et le suivi de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti HBs",
+      "definition": "Anticorps dirigés contre l'antigène de surface du virus de l'hépatite B, indicatifs d'une immunité.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anti-HBs"
+      ],
+      "related_terms": [
+        "Ag HBs"
+      ],
+      "description": "Présence de ces anticorps indique une immunité contre l'hépatite B, soit par guérison soit par vaccination.",
+      "expansion": null,
+      "clinical_significance": "Important pour déterminer l'immunité contre l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti HBc de type IgM",
+      "definition": "Anticorps de type IgM dirigés contre l'antigène core du virus de l'hépatite B, indicatifs d'une infection aiguë.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgM anti-HBc"
+      ],
+      "related_terms": [
+        "Anti HBc de type IgG"
+      ],
+      "description": "Ces anticorps apparaissent tôt dans l'infection et sont utilisés pour diagnostiquer une hépatite B aiguë.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic précoce de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti HBc de type IgG",
+      "definition": "Anticorps de type IgG dirigés contre l'antigène core du virus de l'hépatite B, indicatifs d'une infection passée.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgG anti-HBc"
+      ],
+      "related_terms": [
+        "Anti HBc de type IgM"
+      ],
+      "description": "Ces anticorps persistent longtemps après l'infection et indiquent une exposition passée au virus de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Important pour déterminer une infection passée par le virus de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ag HBe",
+      "definition": "Antigène e du virus de l'hépatite B, indicatif d'une réplication virale active.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HBeAg"
+      ],
+      "related_terms": [
+        "Anti HBe"
+      ],
+      "description": "Présence de cet antigène indique une réplication active du virus de l'hépatite B et une infectiosité élevée.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer l'activité virale et l'infectiosité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti HBe",
+      "definition": "Anticorps dirigés contre l'antigène e du virus de l'hépatite B, indicatifs d'une réduction de la réplication virale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anti-HBe"
+      ],
+      "related_terms": [
+        "Ag HBe"
+      ],
+      "description": "Présence de ces anticorps indique une réduction de la réplication virale et une diminution de l'infectiosité.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer l'évolution de l'infection par le virus de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHD",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite D, indicatifs d'une infection.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anti-VHD"
+      ],
+      "related_terms": [
+        "ARN du VHD"
+      ],
+      "description": "Ces anticorps indiquent une infection par le virus de l'hépatite D, qui nécessite une co-infection avec le virus de l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'hépatite D.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHC",
+      "definition": "Anticorps dirigés contre le virus de l'hépatite C, indicatifs d'une infection.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Anti-VHC"
+      ],
+      "related_terms": [
+        "ARN du VHC"
+      ],
+      "description": "Ces anticorps indiquent une infection par le virus de l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic de l'hépatite C.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHE de type IgM",
+      "definition": "Anticorps de type IgM dirigés contre le virus de l'hépatite E, indicatifs d'une infection aiguë.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgM anti-VHE"
+      ],
+      "related_terms": [
+        "Anti VHE de type IgG"
+      ],
+      "description": "Ces anticorps apparaissent tôt dans l'infection et sont utilisés pour diagnostiquer une hépatite E aiguë.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic précoce de l'hépatite E.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti VHE de type IgG",
+      "definition": "Anticorps de type IgG dirigés contre le virus de l'hépatite E, indicatifs d'une infection passée.",
+      "category": "microbiologie",
+      "synonyms": [
+        "IgG anti-VHE"
+      ],
+      "related_terms": [
+        "Anti VHE de type IgM"
+      ],
+      "description": "Ces anticorps persistent longtemps après l'infection et indiquent une exposition passée au virus de l'hépatite E.",
+      "expansion": null,
+      "clinical_significance": "Important pour déterminer une infection passée par le virus de l'hépatite E.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN VHE",
+      "definition": "ARN du virus de l'hépatite E, indicatif d'une réplication virale active.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ARN-VHE"
+      ],
+      "related_terms": [
+        "Anti VHE de type IgM",
+        "Anti VHE de type IgG"
+      ],
+      "description": "Présence de cet ARN indique une réplication active du virus de l'hépatite E.",
+      "expansion": null,
+      "clinical_significance": "Important pour évaluer l'activité virale de l'hépatite E.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome hémorragique",
+      "definition": "Ensemble de symptômes caractérisés par des saignements anormaux, souvent dus à des troubles de la coagulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie"
+      ],
+      "related_terms": [
+        "coagulopathie",
+        "thrombocytopénie"
+      ],
+      "description": "Le syndrome hémorragique peut être causé par diverses conditions, y compris les infections virales, les troubles hématologiques, et les maladies hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de troubles de la coagulation ou de maladies graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flèche hépatique",
+      "definition": "Examen clinique consistant à percuter le foie pour évaluer sa taille et sa consistance.",
+      "category": "physiologie",
+      "synonyms": [
+        "percussion hépatique"
+      ],
+      "related_terms": [
+        "hépatomégalie",
+        "cirrhose"
+      ],
+      "description": "La flèche hépatique permet de détecter une hépatomégalie ou une atrophie hépatique.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation clinique des maladies hépatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atrophie hépatique",
+      "definition": "Réduction de la taille du foie due à une perte de masse hépatique, souvent associée à des maladies chroniques du foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "rétrécissement hépatique"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatomégalie"
+      ],
+      "description": "L'atrophie hépatique peut être causée par diverses conditions, y compris la cirrhose et les maladies hépatiques chroniques.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de maladie hépatique avancée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "transplantation hépatique",
+      "definition": "Greffe de foie, une intervention chirurgicale consistant à remplacer un foie malade par un foie sain provenant d'un donneur.",
+      "category": "pathologie",
+      "synonyms": [
+        "greffe de foie"
+      ],
+      "related_terms": [
+        "hépatite fulminante",
+        "cirrhose"
+      ],
+      "description": "La transplantation hépatique est indiquée pour les patients avec une insuffisance hépatique terminale ou une hépatite fulminante.",
+      "expansion": null,
+      "clinical_significance": "Traitement de dernier recours pour les maladies hépatiques graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sofosbuvir",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite C, agissant comme un inhibiteur de la polymérase NS5B.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Lédipasvir",
+        "Ribavirine"
+      ],
+      "description": "Le Sofosbuvir est souvent utilisé en combinaison avec d'autres antiviraux pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite C avec un bon profil de tolérance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lédipasvir",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite C, agissant comme un inhibiteur de la protéine NS5A.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Sofosbuvir",
+        "Ribavirine"
+      ],
+      "description": "Le Lédipasvir est souvent utilisé en combinaison avec le Sofosbuvir pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite C avec un bon profil de tolérance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ribavirine",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite C et d'autres infections virales, agissant comme un analogue nucléosidique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Sofosbuvir",
+        "Lédipasvir"
+      ],
+      "description": "La Ribavirine est souvent utilisée en combinaison avec d'autres antiviraux pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite C mais avec des effets secondaires significatifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entecavir",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite B, agissant comme un analogue nucléosidique avec une haute barrière de résistance.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Tenofovir",
+        "Lamivudine"
+      ],
+      "description": "L'Entecavir est efficace pour la suppression virale et est recommandé pour le traitement de l'hépatite B chronique.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite B avec un bon profil de tolérance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tenofovir",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite B, agissant comme un analogue nucléotidique avec une haute barrière de résistance.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Entecavir",
+        "Lamivudine"
+      ],
+      "description": "Le Tenofovir est efficace pour la suppression virale et est recommandé pour le traitement de l'hépatite B chronique.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite B avec un bon profil de tolérance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lamivudine",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite B, agissant comme un analogue nucléosidique avec une faible barrière de résistance.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Entecavir",
+        "Tenofovir"
+      ],
+      "description": "La Lamivudine est efficace pour la suppression virale mais expose à un risque élevé de résistance.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite B mais avec un risque de résistance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Interféron Pégylé",
+      "definition": "Médicament antiviral utilisé pour traiter l'hépatite B et C, agissant comme un immunomodulateur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "INF pégylé"
+      ],
+      "related_terms": [
+        "Entecavir",
+        "Tenofovir"
+      ],
+      "description": "L'Interféron Pégylé est utilisé pour le traitement de l'hépatite B et C mais a de nombreuses contre-indications et effets indésirables.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement de l'hépatite B et C mais avec des effets secondaires significatifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Métavir",
+      "definition": "Système de classification utilisé pour évaluer la sévérité de la fibrose hépatique et l'activité inflammatoire dans les maladies hépatiques.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "fibrose hépatique",
+        "cirrhose"
+      ],
+      "description": "Le score Métavir est utilisé pour évaluer la sévérité de la fibrose hépatique et l'activité inflammatoire dans les maladies hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'évaluation et le suivi des maladies hépatiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ARN indétectable",
+      "definition": "Absence de détection de l'ARN viral dans le sang, indiquant une réponse virologique soutenue.",
+      "category": "pathologie",
+      "synonyms": [
+        "réponse virologique soutenue"
+      ],
+      "related_terms": [
+        "ARN viral",
+        "charge virale"
+      ],
+      "description": "Utilisé pour évaluer l'efficacité du traitement antiviral.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiviraux",
+      "definition": "Médicaments utilisés pour traiter les infections virales en inhibant la réplication virale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antiviraux à action directe"
+      ],
+      "related_terms": [
+        "Sofosbuvir",
+        "Ledipasvir",
+        "Ribavirine"
+      ],
+      "description": "Utilisés dans le traitement des hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IFN Peg",
+      "definition": "Interféron pégylé, une forme modifiée de l'interféron avec une demi-vie prolongée.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "interféron pégylé"
+      ],
+      "related_terms": [
+        "interféron",
+        "Ribavirine"
+      ],
+      "description": "Utilisé dans le traitement des hépatites virales, bien que moins couramment aujourd'hui.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ledipasvir",
+      "definition": "Un inhibiteur de la protéine NS5A utilisé dans le traitement de l'hépatite C.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Sofosbuvir",
+        "Ribavirine"
+      ],
+      "description": "Utilisé en association avec le Sofosbuvir pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Velpatasvir",
+      "definition": "Un inhibiteur de la protéine NS5A utilisé dans le traitement de l'hépatite C.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Sofosbuvir",
+        "Glecaprevir",
+        "Pibrentasvir"
+      ],
+      "description": "Utilisé en association avec le Sofosbuvir pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glecaprevir",
+      "definition": "Un inhibiteur de la protéase NS3/4A utilisé dans le traitement de l'hépatite C.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Pibrentasvir",
+        "Sofosbuvir",
+        "Velpatasvir"
+      ],
+      "description": "Utilisé en association avec le Pibrentasvir pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pibrentasvir",
+      "definition": "Un inhibiteur de la protéine NS5A utilisé dans le traitement de l'hépatite C.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Glecaprevir",
+        "Sofosbuvir",
+        "Velpatasvir"
+      ],
+      "description": "Utilisé en association avec le Glecaprevir pour traiter l'hépatite C.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite chronique C",
+      "definition": "Infection chronique du foie causée par le virus de l'hépatite C (VHC).",
+      "category": "pathologie",
+      "synonyms": [
+        "VHC chronique"
+      ],
+      "related_terms": [
+        "hépatite virale",
+        "fibrose hépatique"
+      ],
+      "description": "Peut entraîner une fibrose hépatique et une cirrhose si non traitée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "UDI",
+      "definition": "Usagers de drogues par voie intraveineuse, une population à risque pour les infections virales.",
+      "category": "classification",
+      "synonyms": [
+        "usagers de drogues intraveineuses"
+      ],
+      "related_terms": [
+        "hépatite virale",
+        "VHB",
+        "VHC"
+      ],
+      "description": "Population cible pour les mesures prophylactiques contre les hépatites virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IM",
+      "definition": "Intramusculaire, une voie d'administration de médicaments directement dans le muscle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "intramusculaire"
+      ],
+      "related_terms": [
+        "vaccin",
+        "injection"
+      ],
+      "description": "Utilisée pour l'administration de vaccins et d'autres médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ac AntiHBs",
+      "definition": "Anticorps dirigés contre l'antigène de surface de l'hépatite B, indiquant une immunité contre le VHB.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-HBs"
+      ],
+      "related_terms": [
+        "VHB",
+        "Ag HBs"
+      ],
+      "description": "Utilisé pour évaluer l'immunité contre l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADN du VHB",
+      "definition": "Acide désoxyribonucléique du virus de l'hépatite B, utilisé pour mesurer la charge virale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ADN de l'hépatite B"
+      ],
+      "related_terms": [
+        "VHB",
+        "charge virale"
+      ],
+      "description": "Utilisé pour surveiller l'infection par le VHB.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ténofovir",
+      "definition": "Un antiviral utilisé pour traiter l'hépatite B et le VIH.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "VHB",
+        "prophylaxie"
+      ],
+      "description": "Utilisé pour réduire la charge virale et prévenir la transmission materno-infantile du VHB.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatites virales",
+      "definition": "Infections du foie causées par des virus, notamment les virus A, B, C, D et E.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatite virale"
+      ],
+      "related_terms": [
+        "hépatite A",
+        "hépatite B",
+        "hépatite C",
+        "hépatite D",
+        "hépatite E"
+      ],
+      "description": "Les hépatites virales peuvent varier en gravité et en évolution, allant de formes aiguës à des formes chroniques.",
+      "expansion": null,
+      "clinical_significance": "Les hépatites virales peuvent entraîner des complications graves telles que la cirrhose et le carcinome hépatocellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatite virale",
+        "foie infecté"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virémique",
+      "definition": "Présence de virus dans le sang, indiquant une phase active de l'infection virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "virémie"
+      ],
+      "related_terms": [
+        "infection virale",
+        "phase aiguë"
+      ],
+      "description": "La phase virémique est cruciale pour la transmission et la propagation des infections virales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "virémie",
+        "infection virale"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "féco-orale",
+      "definition": "Mode de transmission des maladies par ingestion de matières fécales contaminées, souvent via l'eau ou les aliments.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission féco-orale"
+      ],
+      "related_terms": [
+        "transmission entérale",
+        "contamination alimentaire"
+      ],
+      "description": "La transmission féco-orale est courante pour les virus A et E des hépatites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "transmission féco-orale",
+        "contamination alimentaire"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parentérale",
+      "definition": "Mode de transmission des maladies par voie sanguine, souvent par contact avec du sang contaminé.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission parentérale"
+      ],
+      "related_terms": [
+        "transmission sanguine",
+        "transmission par aiguille"
+      ],
+      "description": "La transmission parentérale est courante pour les virus B, C et D des hépatites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "transmission parentérale",
+        "transmission sanguine"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sexuelle",
+      "definition": "Mode de transmission des maladies par contact sexuel avec une personne infectée.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission sexuelle"
+      ],
+      "related_terms": [
+        "transmission par contact intime",
+        "transmission par rapports sexuels"
+      ],
+      "description": "La transmission sexuelle est courante pour les virus B et C des hépatites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "transmission sexuelle",
+        "transmission par contact intime"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néonatale",
+      "definition": "Mode de transmission des maladies de la mère au nouveau-né, souvent pendant l'accouchement.",
+      "category": "pathologie",
+      "synonyms": [
+        "transmission néonatale"
+      ],
+      "related_terms": [
+        "transmission mère-enfant",
+        "transmission verticale"
+      ],
+      "description": "La transmission néonatale est courante pour les virus B et C des hépatites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "transmission néonatale",
+        "transmission mère-enfant"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chronicité",
+      "definition": "Évolution d'une maladie vers une forme persistante et de longue durée.",
+      "category": "pathologie",
+      "synonyms": [
+        "chronicité"
+      ],
+      "related_terms": [
+        "maladie chronique",
+        "infection chronique"
+      ],
+      "description": "Le passage à la chronicité est observé dans les hépatites B, B+D, C et E chez les immunodéprimés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "chronicité",
+        "maladie chronique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite aigue fulminante",
+      "definition": "Forme sévère et rapide d'hépatite caractérisée par une défaillance hépatique aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatite fulminante"
+      ],
+      "related_terms": [
+        "défaillance hépatique aiguë",
+        "hépatite sévère"
+      ],
+      "description": "L'hépatite aiguë fulminante peut être fatale et nécessite une intervention médicale immédiate.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatite fulminante",
+        "défaillance hépatique aiguë"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cirrhose",
+      "definition": "Maladie chronique du foie caractérisée par une fibrose et une altération de la structure hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "cirrhose hépatique"
+      ],
+      "related_terms": [
+        "fibrose hépatique",
+        "insuffisance hépatique"
+      ],
+      "description": "La cirrhose est une complication grave des hépatites chroniques et peut conduire à un carcinome hépatocellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cirrhose",
+        "fibrose hépatique"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinome hépatocellulaire",
+      "definition": "Cancer primaire du foie qui se développe à partir des hépatocytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "CHC"
+      ],
+      "related_terms": [
+        "cancer du foie",
+        "tumeur hépatique"
+      ],
+      "description": "Le carcinome hépatocellulaire est une complication grave des hépatites chroniques et de la cirrhose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carcinome hépatocellulaire",
+        "cancer du foie"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatites chroniques",
+      "definition": "Infections virales du foie qui persistent au-delà de six mois.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatite chronique"
+      ],
+      "related_terms": [
+        "hépatite B chronique",
+        "hépatite C chronique"
+      ],
+      "description": "Les hépatites chroniques peuvent entraîner des complications graves telles que la cirrhose et le carcinome hépatocellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatite chronique",
+        "infection hépatique persistante"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Picornaviridae",
+      "definition": "Famille de virus à ARN qui inclut le virus de l'hépatite A.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Picornaviridae"
+      ],
+      "related_terms": [
+        "virus de l'hépatite A",
+        "ARN+"
+      ],
+      "description": "Les Picornaviridae sont des virus non enveloppés à ARN positif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Picornaviridae",
+        "virus de l'hépatite A"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hépadnaviridae",
+      "definition": "Famille de virus à ADN qui inclut le virus de l'hépatite B.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Hépadnaviridae"
+      ],
+      "related_terms": [
+        "virus de l'hépatite B",
+        "ADN circulaire"
+      ],
+      "description": "Les Hépadnaviridae sont des virus enveloppés à ADN circulaire partiellement bicaténaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hépadnaviridae",
+        "virus de l'hépatite B"
+      ],
+      "subject_id": "035f8491-94a4-4042-ac4c-64206bcfdf82",
+      "source_file": "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Gastrologie-Entérologie/Hépatites Virales/Resumes/HepatitesVirales.md",
+    "Gastrologie-Entérologie/Hépatites Virales/Courses/35 Hépatites virales 2.51.49 AM 2.53.07 AM 2.55.03 AM.md"
+  ],
+  "total_terms": 207
+}

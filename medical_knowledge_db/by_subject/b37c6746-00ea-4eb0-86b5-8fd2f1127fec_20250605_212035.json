@@ -1,0 +1,4289 @@
+{
+  "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+  "terms": [
+    {
+      "term": "macro-circulatoires",
+      "definition": "Relatif à la circulation sanguine dans les gros vaisseaux, tels que les artères et les veines principales.",
+      "category": "physiologie",
+      "synonyms": [
+        "macrocirculatoires"
+      ],
+      "related_terms": [
+        "microcirculatoires",
+        "hémodynamique"
+      ],
+      "description": "Les effets macro-circulatoires concernent la distribution du sang à grande échelle dans le corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "communautaire",
+      "definition": "Relatif à une infection acquise en dehors d'un établissement de soins.",
+      "category": "microbiologie",
+      "synonyms": [
+        "communautaire"
+      ],
+      "related_terms": [
+        "nosocomiale",
+        "infection communautaire"
+      ],
+      "description": "Les infections communautaires sont contractées dans la communauté, par opposition aux infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nosocomiale",
+      "definition": "Relatif à une infection acquise dans un établissement de soins.",
+      "category": "microbiologie",
+      "synonyms": [
+        "nosocomiale"
+      ],
+      "related_terms": [
+        "communautaire",
+        "infection nosocomiale"
+      ],
+      "description": "Les infections nosocomiales sont contractées dans les hôpitaux ou autres établissements de soins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SEPSIS-3",
+      "definition": "Consensus international visant à simplifier et améliorer la classification des états septiques aigus.",
+      "category": "classification",
+      "synonyms": [
+        "SEPSIS-3"
+      ],
+      "related_terms": [
+        "SEPSIS-2",
+        "classification des sepsis"
+      ],
+      "description": "SEPSIS-3 est une mise à jour des définitions et des critères diagnostiques des états septiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasopresseur",
+      "definition": "Médicament utilisé pour augmenter la pression artérielle en provoquant une vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseur"
+      ],
+      "related_terms": [
+        "vasoconstricteur",
+        "noradrénaline"
+      ],
+      "description": "Les vasopresseurs sont utilisés pour maintenir la pression artérielle dans les états de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimation",
+      "definition": "Soins intensifs prodigués aux patients en état critique, souvent en unité de soins intensifs (USI).",
+      "category": "pathologie",
+      "synonyms": [
+        "réanimation"
+      ],
+      "related_terms": [
+        "soins intensifs",
+        "unité de soins intensifs"
+      ],
+      "description": "La réanimation vise à stabiliser et à traiter les patients en état critique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "morbimortalité",
+      "definition": "Combinaison de la morbidité (maladie) et de la mortalité (décès) associée à une condition médicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "morbimortalité"
+      ],
+      "related_terms": [
+        "morbidité",
+        "mortalité"
+      ],
+      "description": "La morbimortalité est une mesure de l'impact global d'une maladie sur la santé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SOFA",
+      "definition": "Score de défaillance d'organe séquentielle, utilisé pour évaluer la gravité des états septiques.",
+      "category": "classification",
+      "synonyms": [
+        "SOFA"
+      ],
+      "related_terms": [
+        "score SOFA",
+        "défaillance d'organe"
+      ],
+      "description": "Le score SOFA évalue la gravité des états septiques en fonction de la défaillance d'organe.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Quick SOFA",
+      "definition": "Version simplifiée du score SOFA, utilisée pour une identification rapide des patients à risque de sepsis.",
+      "category": "classification",
+      "synonyms": [
+        "qSOFA"
+      ],
+      "related_terms": [
+        "score SOFA",
+        "sepsis"
+      ],
+      "description": "Le Quick SOFA est un outil de triage rapide pour identifier les patients à risque de sepsis.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SIRS",
+      "definition": "Syndrome de réponse inflammatoire systémique, réponse inflammatoire généralisée à une infection ou une autre cause.",
+      "category": "pathologie",
+      "synonyms": [
+        "SIRS"
+      ],
+      "related_terms": [
+        "sepsis",
+        "réponse inflammatoire"
+      ],
+      "description": "Le SIRS est une réponse inflammatoire systémique qui peut être causée par diverses conditions, y compris les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TNF",
+      "definition": "Facteur de nécrose tumorale, cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "TNF"
+      ],
+      "related_terms": [
+        "cytokine",
+        "réponse immunitaire"
+      ],
+      "description": "Le TNF joue un rôle clé dans la réponse inflammatoire et immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigènes microbiens",
+      "definition": "Molécules spécifiques présentes sur les micro-organismes pathogènes qui sont reconnues par le système immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "PAMPs"
+      ],
+      "related_terms": [
+        "peptidoglycane",
+        "lipopolysaccharide"
+      ],
+      "description": "Les antigènes microbiens activent le système immunitaire en étant reconnus par des récepteurs spécifiques.",
+      "expansion": "Pathogen Associated Molecular Patterns",
+      "clinical_significance": "Important dans la réponse immunitaire contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAMPs",
+      "definition": "Motifs moléculaires associés aux pathogènes, reconnus par le système immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Pathogen Associated Molecular Patterns"
+      ],
+      "related_terms": [
+        "peptidoglycane",
+        "lipopolysaccharide"
+      ],
+      "description": "Les PAMPs sont des éléments clés dans l'activation de la réponse immunitaire.",
+      "expansion": "Pathogen Associated Molecular Patterns",
+      "clinical_significance": "Crucial pour la reconnaissance et la réponse immunitaire contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "peptidoglycane",
+      "definition": "Polymère constitué de sucres et d'acides aminés, présent dans la paroi cellulaire des bactéries.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipopolysaccharide",
+        "endotoxine"
+      ],
+      "description": "Le peptidoglycane est un composant structurel essentiel des bactéries à Gram positif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipopolysaccharide",
+      "definition": "Molécule complexe présente dans la membrane externe des bactéries à Gram négatif, également appelée endotoxine.",
+      "category": "microbiologie",
+      "synonyms": [
+        "endotoxine"
+      ],
+      "related_terms": [
+        "peptidoglycane",
+        "glycolipides"
+      ],
+      "description": "Le lipopolysaccharide est un puissant activateur de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endotoxine",
+      "definition": "Toxine présente dans la membrane externe des bactéries à Gram négatif, également appelée lipopolysaccharide.",
+      "category": "microbiologie",
+      "synonyms": [
+        "lipopolysaccharide"
+      ],
+      "related_terms": [
+        "peptidoglycane",
+        "glycolipides"
+      ],
+      "description": "Les endotoxines sont des molécules qui activent fortement le système immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycolipides",
+      "definition": "Molécules composées de lipides et de glucides, présentes dans les membranes cellulaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipopolysaccharide",
+        "acides mycosiques"
+      ],
+      "description": "Les glycolipides jouent un rôle dans la reconnaissance immunitaire des mycobactéries.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acides mycosiques",
+      "definition": "Acides gras spécifiques présents dans la paroi cellulaire des mycobactéries.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "glycolipides",
+        "lipoprotéines"
+      ],
+      "description": "Les acides mycosiques sont des composants structurels des mycobactéries.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pattern recognition receptors",
+      "definition": "Récepteurs des cellules immunitaires qui reconnaissent des motifs moléculaires spécifiques des pathogènes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "PRR"
+      ],
+      "related_terms": [
+        "antigènes microbiens",
+        "PAMPs"
+      ],
+      "description": "Les PRR jouent un rôle clé dans l'initiation de la réponse immunitaire.",
+      "expansion": "Pattern Recognition Receptors",
+      "clinical_significance": "Essentiel pour la reconnaissance et la réponse immunitaire contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "natural killer",
+      "definition": "Type de lymphocyte capable de détruire les cellules infectées par des virus ou des cellules tumorales.",
+      "category": "pathologie",
+      "synonyms": [
+        "NK"
+      ],
+      "related_terms": [
+        "lymphocytes",
+        "interféron gamma"
+      ],
+      "description": "Les cellules NK jouent un rôle crucial dans la réponse immunitaire innée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interféron gamma",
+      "definition": "Cytokine produite par les lymphocytes NK et T, ayant des effets antiviraux et immunomodulateurs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IFN-γ"
+      ],
+      "related_terms": [
+        "natural killer",
+        "polynucléaires neutrophiles"
+      ],
+      "description": "L'interféron gamma active les macrophages et augmente la présentation des antigènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polynucléaires neutrophiles",
+      "definition": "Type de globule blanc impliqué dans la phagocytose des bactéries et des débris cellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutrophiles"
+      ],
+      "related_terms": [
+        "lymphocytes",
+        "interféron gamma"
+      ],
+      "description": "Les neutrophiles sont des cellules de première ligne de défense contre les infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macrophagique",
+      "definition": "Relatif aux macrophages, des cellules phagocytaires du système immunitaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "macrophages",
+        "cytokines"
+      ],
+      "description": "Le système macrophagique joue un rôle crucial dans la phagocytose et la présentation des antigènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytokines",
+      "definition": "Petites protéines sécrétées par les cellules immunitaires qui régulent la réponse immunitaire.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "macrophages",
+        "lymphocytes T helper"
+      ],
+      "description": "Les cytokines jouent un rôle clé dans la communication intercellulaire et la modulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-12",
+      "definition": "Interleukine-12, une cytokine pro-inflammatoire qui active les lymphocytes NK et T.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "TNF",
+        "IL-10"
+      ],
+      "description": "L'IL-12 joue un rôle dans l'activation de la réponse immunitaire cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "manane",
+      "definition": "Polysaccharide présent dans les parois cellulaires des champignons, capable d'activer le complément.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "C Reactive Proteine",
+        "C3a",
+        "C5a"
+      ],
+      "description": "Le manane est impliqué dans la reconnaissance immunitaire des infections fongiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C Reactive Proteine",
+      "definition": "Protéine de phase aiguë produite par le foie en réponse à l'inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "CRP"
+      ],
+      "related_terms": [
+        "manane",
+        "C3a",
+        "C5a"
+      ],
+      "description": "La CRP est un marqueur de l'inflammation et de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C3a",
+      "definition": "Fragment de la protéine du complément C3, impliqué dans l'activation des phagocytes et le chimiotactisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "C5a",
+        "C Reactive Proteine"
+      ],
+      "description": "Le C3a est un médiateur de l'inflammation et de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C5a",
+      "definition": "Fragment de la protéine du complément C5, impliqué dans l'activation des phagocytes et le chimiotactisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "C3a",
+        "C Reactive Proteine"
+      ],
+      "description": "Le C5a est un médiateur de l'inflammation et de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-8",
+      "definition": "Interleukine-8, une cytokine pro-inflammatoire qui active les neutrophiles et induit le chimiotactisme.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "histamine",
+        "bradykinines"
+      ],
+      "description": "L'IL-8 est un médiateur clé dans l'inflammation et la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradykinines",
+      "definition": "Peptides vasoactifs qui augmentent la perméabilité vasculaire et induisent la douleur et l'inflammation.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "histamine",
+        "IL-8"
+      ],
+      "description": "Les bradykinines sont des médiateurs de l'inflammation et de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytokines d'immunorégulation",
+      "definition": "Groupe de cytokines qui régulent la réponse immunitaire en modulant l'activité des cellules immunitaires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-2",
+        "IL-3",
+        "IL-4"
+      ],
+      "description": "Les cytokines d'immunorégulation jouent un rôle clé dans la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-2",
+      "definition": "Interleukine-2, une cytokine d'immunorégulation qui stimule la prolifération des lymphocytes T.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-3",
+        "IL-4"
+      ],
+      "description": "L'IL-2 est essentielle pour la prolifération et la différenciation des lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-3",
+      "definition": "Interleukine-3, une cytokine d'immunorégulation qui stimule la prolifération et la différenciation des cellules hématopoïétiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-2",
+        "IL-4"
+      ],
+      "description": "L'IL-3 joue un rôle dans la régulation de la production des cellules sanguines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytokines pro inflammatoires",
+      "definition": "Groupe de cytokines qui promeuvent l'inflammation en activant les cellules immunitaires et en augmentant la perméabilité vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-1 β",
+        "TNF- α",
+        "IL-6",
+        "IL-8"
+      ],
+      "description": "Les cytokines pro-inflammatoires jouent un rôle clé dans l'initiation et la propagation de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-1 β",
+      "definition": "Interleukine-1 bêta, une cytokine pro-inflammatoire qui active les cellules immunitaires et induit la fièvre.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "TNF- α",
+        "IL-6",
+        "IL-8"
+      ],
+      "description": "L'IL-1 β est un médiateur clé dans l'inflammation et la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TNF- α",
+      "definition": "Facteur de nécrose tumorale alpha, une cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "TNF-α"
+      ],
+      "related_terms": [
+        "IL-1 β",
+        "IL-6",
+        "IL-8"
+      ],
+      "description": "Le TNF-α est un médiateur clé dans l'inflammation et la réponse immunitaire contre les infections.",
+      "expansion": "Tumor Necrosis Factor alpha",
+      "clinical_significance": "Niveaux élevés de TNF-α sont associés à la sévérité et à la mortalité dans le choc septique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-6",
+      "definition": "Interleukine-6, une cytokine pro-inflammatoire qui stimule la réponse immunitaire et la production de protéines de phase aiguë.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-1 β",
+        "TNF- α",
+        "IL-8"
+      ],
+      "description": "L'IL-6 est un marqueur de la réponse septique et est corrélée à la sévérité du choc septique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytokines anti inflammatoires",
+      "definition": "Groupe de cytokines qui inhibent l'inflammation en régulant l'activité des cellules immunitaires.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-10",
+        "IL-1ra",
+        "TNF",
+        "IL4",
+        "IL-13"
+      ],
+      "description": "Les cytokines anti-inflammatoires jouent un rôle dans la résolution de l'inflammation et la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-10",
+      "definition": "Interleukine-10, une cytokine anti-inflammatoire qui inhibe la sécrétion de cytokines pro-inflammatoires par les macrophages.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-1ra",
+        "TNF",
+        "IL4",
+        "IL-13"
+      ],
+      "description": "L'IL-10 joue un rôle dans la régulation de la réponse immunitaire et la résolution de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL-1ra",
+      "definition": "Antagoniste du récepteur de l'interleukine-1, une cytokine anti-inflammatoire qui inhibe l'activité de l'IL-1.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-10",
+        "TNF",
+        "IL4",
+        "IL-13"
+      ],
+      "description": "L'IL-1ra joue un rôle dans la régulation de la réponse immunitaire et la résolution de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL4",
+      "definition": "Interleukine-4, une cytokine d'immunorégulation qui stimule la prolifération des lymphocytes B et la différenciation des lymphocytes T helper.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "IL-10",
+        "IL-1ra",
+        "TNF",
+        "IL-13"
+      ],
+      "description": "L'IL-4 est impliquée dans la régulation de la réponse immunitaire humorale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monocytes",
+      "definition": "Cellules phagocytaires du système immunitaire qui se différencient en macrophages dans les tissus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "macrophages",
+        "lymphocytes T helper"
+      ],
+      "description": "Les monocytes jouent un rôle clé dans la réponse immunitaire innée et adaptative.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes T helper",
+      "definition": "Type de lymphocyte T qui aide à réguler la réponse immunitaire en activant d'autres cellules immunitaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "Th cells"
+      ],
+      "related_terms": [
+        "monocytes",
+        "macrophages"
+      ],
+      "description": "Les lymphocytes T helper jouent un rôle crucial dans la régulation de la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de fuite capillaire",
+      "definition": "Augmentation de la perméabilité capillaire entraînant une fuite de liquides et de protéines dans l'espace interstitiel.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cytokines",
+        "histamine",
+        "bradykinine"
+      ],
+      "description": "Le syndrome de fuite capillaire est une complication du choc septique entraînant un œdème interstitiel.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de détresse respiratoire aigu",
+      "definition": "État critique caractérisé par une insuffisance respiratoire sévère due à une inflammation pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "SDRA"
+      ],
+      "related_terms": [
+        "dyspnée",
+        "sepsis"
+      ],
+      "description": "Le SDRA est une urgence médicale nécessitant une ventilation mécanique et un soutien intensif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastroentérite",
+      "definition": "Inflammation de l'estomac et des intestins, souvent due à une infection virale ou bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vomissements",
+        "diarrhée"
+      ],
+      "description": "La gastroentérite peut entraîner une déshydratation sévère si non traitée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypo-oxygénation",
+      "definition": "Diminution de l'apport en oxygène aux tissus, pouvant entraîner une insuffisance cellulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "choc septique",
+        "œdème interstitiel"
+      ],
+      "description": "L'hypo-oxygénation est une complication du choc septique due à un œdème interstitiel.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyporéactivité vasculaire",
+      "definition": "Réponse diminuée des vaisseaux sanguins aux agents vasoconstricteurs, souvent observée dans les états de choc septique.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyporéactivité vasculaire"
+      ],
+      "related_terms": [
+        "vasoplégie",
+        "choc distributif"
+      ],
+      "description": "L'hyporéactivité vasculaire est un mécanisme clé dans le choc septique, où les vaisseaux sanguins ne répondent pas adéquatement aux agents vasoconstricteurs.",
+      "expansion": null,
+      "clinical_significance": "Contribue à l'hypotension et à la mauvaise perfusion tissulaire dans le choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyporéactivité vasculaire",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc distributif",
+      "definition": "Type de choc caractérisé par une mauvaise distribution du flux sanguin, souvent associé à une vasodilatation excessive.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc vasodilatateur"
+      ],
+      "related_terms": [
+        "vasoplégie",
+        "hyporéactivité vasculaire"
+      ],
+      "description": "Le choc distributif est souvent observé dans le choc septique, où la vasodilatation excessive entraîne une mauvaise distribution du flux sanguin.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion du choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc distributif",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiotensine",
+      "definition": "Peptide vasoconstricteur produit par le système rénine-angiotensine, jouant un rôle clé dans la régulation de la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [
+        "angiotensine II"
+      ],
+      "related_terms": [
+        "rénine-angiotensine",
+        "vasoconstriction"
+      ],
+      "description": "L'angiotensine est un puissant vasoconstricteur qui aide à maintenir la pression artérielle en réponse à une diminution du flux sanguin rénal.",
+      "expansion": null,
+      "clinical_significance": "Important dans la régulation de la pression artérielle et la réponse à l'hypotension.",
+      "normal_values": null,
+      "image_search_terms": [
+        "angiotensine",
+        "système rénine-angiotensine"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rénine-angiotensine",
+      "definition": "Système hormonal qui régule la pression artérielle et le volume sanguin par la production d'angiotensine.",
+      "category": "physiologie",
+      "synonyms": [
+        "système rénine-angiotensine-aldostérone"
+      ],
+      "related_terms": [
+        "angiotensine",
+        "aldostérone"
+      ],
+      "description": "Le système rénine-angiotensine est activé en réponse à une diminution du flux sanguin rénal, entraînant la production d'angiotensine et d'aldostérone.",
+      "expansion": null,
+      "clinical_significance": "Crucial dans la régulation de la pression artérielle et du volume sanguin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système rénine-angiotensine",
+        "régulation pression artérielle"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NO synthétase inductible",
+      "definition": "Enzyme responsable de la production de monoxyde d'azote en réponse à des stimuli inflammatoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "iNOS"
+      ],
+      "related_terms": [
+        "monoxyde d'azote",
+        "cytokines proinflammatoires"
+      ],
+      "description": "La NO synthétase inductible est activée par des cytokines proinflammatoires et contribue à la production de monoxyde d'azote.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle dans la réponse inflammatoire et la vasodilatation dans le choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NO synthétase inductible",
+        "monoxyde d'azote"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytokines proinflammatoires",
+      "definition": "Protéines sécrétées par les cellules immunitaires qui médient la réponse inflammatoire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "cytokines inflammatoires"
+      ],
+      "related_terms": [
+        "TNF",
+        "IL1",
+        "IL8"
+      ],
+      "description": "Les cytokines proinflammatoires, telles que TNF, IL1 et IL8, jouent un rôle clé dans la réponse inflammatoire et l'activation de la NO synthétase inductible.",
+      "expansion": null,
+      "clinical_significance": "Importantes dans la réponse inflammatoire et la pathogenèse du choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cytokines proinflammatoires",
+        "réponse inflammatoire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endothéline",
+      "definition": "Peptide vasoconstricteur produit par les cellules endothéliales, jouant un rôle dans la régulation du tonus vasculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "endothéline-1"
+      ],
+      "related_terms": [
+        "tromboxane",
+        "vasoconstriction"
+      ],
+      "description": "L'endothéline est un puissant vasoconstricteur qui contribue à la régulation du tonus vasculaire.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la régulation du tonus vasculaire et la réponse à la vasodilatation.",
+      "normal_values": null,
+      "image_search_terms": [
+        "endothéline",
+        "vasoconstriction"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tromboxane",
+      "definition": "Médiateur lipidique dérivé de l'acide arachidonique, agissant comme un puissant vasoconstricteur et promoteur de l'agrégation plaquettaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "tromboxane A2"
+      ],
+      "related_terms": [
+        "endothéline",
+        "vasoconstriction"
+      ],
+      "description": "Le tromboxane est un puissant vasoconstricteur et promoteur de l'agrégation plaquettaire, jouant un rôle dans la réponse à la vasodilatation.",
+      "expansion": null,
+      "clinical_significance": "Important dans la régulation du tonus vasculaire et l'agrégation plaquettaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tromboxane",
+        "vasoconstriction"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gluco-corticoïdes",
+      "definition": "Hormones stéroïdiennes produites par les glandes surrénales, jouant un rôle dans la régulation du métabolisme et la réponse au stress.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "corticostéroïdes"
+      ],
+      "related_terms": [
+        "insuffisance surrénalienne",
+        "fonction surrénalienne"
+      ],
+      "description": "Les gluco-corticoïdes sont impliqués dans la régulation du métabolisme et la réponse au stress, et leur déficience peut contribuer à l'insuffisance surrénalienne.",
+      "expansion": null,
+      "clinical_significance": "Importants dans la régulation du métabolisme et la réponse au stress.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gluco-corticoïdes",
+        "insuffisance surrénalienne"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème interstitiel",
+      "definition": "Accumulation excessive de liquide dans les espaces interstitiels des tissus, souvent due à une augmentation de la perméabilité vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème tissulaire"
+      ],
+      "related_terms": [
+        "hypoperfusion",
+        "régulation vasculaire"
+      ],
+      "description": "L'œdème interstitiel peut empêcher une bonne diffusion de l'oxygène et contribuer à la dysfonction tissulaire dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogenèse du choc septique et la dysfonction tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème interstitiel",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "régulation vasculaire",
+      "definition": "Processus physiologique qui contrôle le tonus vasculaire et le flux sanguin par l'intermédiaire de divers médiateurs et mécanismes.",
+      "category": "physiologie",
+      "synonyms": [
+        "régulation vasculaire"
+      ],
+      "related_terms": [
+        "hypoperfusion",
+        "œdème interstitiel"
+      ],
+      "description": "La régulation vasculaire est essentielle pour maintenir une perfusion tissulaire adéquate et peut être altérée dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la pathogenèse du choc septique et la dysfonction tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "régulation vasculaire",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonctionnement mitochondrial",
+      "definition": "Altération de la fonction des mitochondries, les organites cellulaires responsables de la production d'énergie.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysfonction mitochondriale"
+      ],
+      "related_terms": [
+        "régulation vasculaire",
+        "acide lactique"
+      ],
+      "description": "Le dysfonctionnement mitochondrial peut contribuer à une diminution de la production d'énergie cellulaire et à une augmentation de la production de lactate.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogenèse du choc septique et la dysfonction cellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dysfonctionnement mitochondrial",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide lactique",
+      "definition": "Produit du métabolisme anaérobie, utilisé comme marqueur de l'hypoxie tissulaire et de la sévérité du choc septique.",
+      "category": "physiologie",
+      "synonyms": [
+        "lactate"
+      ],
+      "related_terms": [
+        "dysfonctionnement mitochondrial",
+        "anaérobie"
+      ],
+      "description": "La concentration plasmatique de l'acide lactique est une mesure simple et efficace pour évaluer la sévérité du choc septique et la réponse au traitement.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acide lactique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macrocirculatoires",
+      "definition": "Relatif à la circulation sanguine dans les gros vaisseaux, tels que les artères et les veines principales.",
+      "category": "physiologie",
+      "synonyms": [
+        "macrocirculation"
+      ],
+      "related_terms": [
+        "microcirculatoires",
+        "hypovolémie"
+      ],
+      "description": "Les anomalies macrocirculatoires dans le choc septique incluent une augmentation du débit cardiaque et une diminution des résistances artérielles périphériques.",
+      "expansion": null,
+      "clinical_significance": "Importantes dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "macrocirculatoires",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperkinétique",
+      "definition": "État caractérisé par une augmentation du débit cardiaque et une diminution des résistances artérielles périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperkinétique"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "hyperdynamique"
+      ],
+      "description": "L'état hyperkinétique est souvent observé dans le choc septique après correction de l'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperkinétique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperdynamique",
+      "definition": "État caractérisé par une augmentation du débit cardiaque et une diminution des résistances artérielles périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperdynamique"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "hyperkinétique"
+      ],
+      "description": "L'état hyperdynamique est souvent observé dans le choc septique après correction de l'hypovolémie.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperdynamique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression myocardique",
+      "definition": "Diminution de la fonction contractile du myocarde, souvent observée dans le choc septique.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression myocardique"
+      ],
+      "related_terms": [
+        "index cardiaque",
+        "cardiomyopathie septique"
+      ],
+      "description": "La dépression myocardique contribue à l'insuffisance circulatoire dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépression myocardique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "index cardiaque",
+      "definition": "Mesure du débit cardiaque ajustée à la surface corporelle, utilisée pour évaluer la fonction cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "index cardiaque"
+      ],
+      "related_terms": [
+        "dépression myocardique",
+        "cardiomyopathie septique"
+      ],
+      "description": "L'index cardiaque diminue dans le choc septique en raison de la dépression myocardique.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "index cardiaque",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypokinétique",
+      "definition": "État caractérisé par une diminution du débit cardiaque et une augmentation des résistances artérielles périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypokinétique"
+      ],
+      "related_terms": [
+        "dépression myocardique",
+        "index cardiaque"
+      ],
+      "description": "Le choc hypokinétique est observé à un stade tardif du choc septique en raison de la dépression myocardique.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypokinétique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAPO",
+      "definition": "Pression artérielle pulmonaire occlusive, mesurée pour évaluer la fonction cardiaque et la pression dans les artères pulmonaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle pulmonaire occlusive"
+      ],
+      "related_terms": [
+        "dépression myocardique",
+        "index cardiaque"
+      ],
+      "description": "La PAPO ne s'élève pas dans le choc septique en raison de la vasoplégie dominante.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PAPO",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "post charge",
+      "definition": "Résistance vasculaire systémique, exprimée par les résistances artérielles périphériques.",
+      "category": "physiologie",
+      "synonyms": [
+        "post charge"
+      ],
+      "related_terms": [
+        "précharge",
+        "vasoplégie"
+      ],
+      "description": "La post charge n'augmente pas dans le choc septique en raison de la vasoplégie dominante.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "post charge",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "précharge",
+      "definition": "Volume de sang dans le ventricule gauche à la fin de la diastole, déterminant la force de contraction du cœur.",
+      "category": "physiologie",
+      "synonyms": [
+        "précharge"
+      ],
+      "related_terms": [
+        "post charge",
+        "vasoplégie"
+      ],
+      "description": "La précharge ne s'élève jamais dans le choc septique en raison de la vasoplégie dominante.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "précharge",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiomyopathie septique",
+      "definition": "Dysfonctionnement myocardique observé dans le choc septique, souvent dû à l'atteinte directe des toxines bactériennes et des médiateurs de l'inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "cardiomyopathie septique"
+      ],
+      "related_terms": [
+        "dépression myocardique",
+        "index cardiaque"
+      ],
+      "description": "La cardiomyopathie septique contribue à la dépression myocardique et à la diminution de l'index cardiaque dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiomyopathie septique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médiateurs de l'inflammation",
+      "definition": "Molécules produites par les cellules immunitaires qui médient la réponse inflammatoire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "médiateurs inflammatoires"
+      ],
+      "related_terms": [
+        "cytokines proinflammatoires",
+        "cardiomyopathie septique"
+      ],
+      "description": "Les médiateurs de l'inflammation, tels que les cytokines proinflammatoires, jouent un rôle clé dans la pathogenèse du choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importants dans la réponse inflammatoire et la pathogenèse du choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "médiateurs de l'inflammation",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médiateurs proinflammatoires",
+      "definition": "Molécules produites par les cellules immunitaires qui médient la réponse inflammatoire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "médiateurs proinflammatoires"
+      ],
+      "related_terms": [
+        "cytokines",
+        "CIVD"
+      ],
+      "description": "Les médiateurs proinflammatoires, tels que les cytokines, jouent un rôle clé dans la pathogenèse du choc septique et l'activation de la coagulation.",
+      "expansion": null,
+      "clinical_significance": "Importants dans la réponse inflammatoire et la pathogenèse du choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "médiateurs proinflammatoires",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système procoagulant",
+      "definition": "Ensemble des facteurs de coagulation qui favorisent la formation de caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "système procoagulant"
+      ],
+      "related_terms": [
+        "système fibrinolytique",
+        "CIVD"
+      ],
+      "description": "L'activation du système procoagulant contribue à la formation de caillots dans la CIVD.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogenèse du choc septique et la formation de caillots.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système procoagulant",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système fibrinolytique",
+      "definition": "Ensemble des facteurs qui favorisent la dissolution des caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "système fibrinolytique"
+      ],
+      "related_terms": [
+        "système procoagulant",
+        "CIVD"
+      ],
+      "description": "Le dépassement du système fibrinolytique contribue à la formation de caillots dans la CIVD.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogenèse du choc septique et la formation de caillots.",
+      "normal_values": null,
+      "image_search_terms": [
+        "système fibrinolytique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrine",
+      "definition": "Protéine insoluble formée à partir du fibrinogène, constituant la base des caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "fibrine"
+      ],
+      "related_terms": [
+        "CIVD",
+        "système fibrinolytique"
+      ],
+      "description": "La fibrine est un élément initial de la CIVD, contribuant à la formation de caillots dans les petits vaisseaux sanguins.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la pathogenèse du choc septique et la formation de caillots.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrine",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ATIII",
+      "definition": "Antithrombine III, une protéine qui inhibe plusieurs facteurs de coagulation, jouant un rôle clé dans la régulation de la coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "antithrombine III"
+      ],
+      "related_terms": [
+        "CIVD",
+        "système fibrinolytique"
+      ],
+      "description": "La diminution de la concentration plasmatique en ATIII est un marqueur précoce de la CIVD.",
+      "expansion": null,
+      "clinical_significance": "Importante dans la régulation de la coagulation et la pathogenèse du choc septique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ATIII",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression systolique",
+      "definition": "Diminution de la fonction contractile du ventricule gauche, souvent observée dans le choc septique.",
+      "category": "pathologie",
+      "synonyms": [
+        "dépression systolique"
+      ],
+      "related_terms": [
+        "dépression myocardique",
+        "index cardiaque"
+      ],
+      "description": "La dépression systolique contribue à l'insuffisance circulatoire dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dépression systolique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs β adrénergiques",
+      "definition": "Récepteurs situés sur les cellules cardiaques qui répondent aux catécholamines, telles que l'adrénaline et la noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs bêta-adrénergiques"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "dépression systolique"
+      ],
+      "description": "La diminution de la sensibilité des récepteurs β adrénergiques contribue à la dépression systolique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs β adrénergiques",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anomalies de la relaxation diastolique",
+      "definition": "Altérations de la capacité du myocarde à se relâcher pendant la diastole, souvent observées dans le choc septique.",
+      "category": "pathologie",
+      "synonyms": [
+        "anomalies de la relaxation diastolique"
+      ],
+      "related_terms": [
+        "œdème interstitiel myocardique",
+        "dépression systolique"
+      ],
+      "description": "Les anomalies de la relaxation diastolique sont souvent dues à l'œdème interstitiel myocardique et contribuent à la dysfonction myocardique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Importantes dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anomalies de la relaxation diastolique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème interstitiel myocardique",
+      "definition": "Accumulation excessive de liquide dans les espaces interstitiels du myocarde, souvent due à une augmentation de la perméabilité vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème myocardique"
+      ],
+      "related_terms": [
+        "anomalies de la relaxation diastolique",
+        "dépression systolique"
+      ],
+      "description": "L'œdème interstitiel myocardique contribue aux anomalies de la relaxation diastolique et à la dysfonction myocardique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la sévérité du choc septique et la réponse au traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème interstitiel myocardique",
+        "choc septique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème alvéolaire",
+      "definition": "L'œdème alvéolaire est une accumulation de liquide dans les alvéoles pulmonaires, souvent due à une augmentation de la perméabilité capillaire ou à une pression hydrostatique élevée.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème pulmonaire"
+      ],
+      "related_terms": [
+        "œdème interstitiel",
+        "perméabilité capillaire"
+      ],
+      "description": "L'œdème alvéolaire est une complication grave qui peut entraîner une insuffisance respiratoire sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème alvéolaire",
+        "œdème pulmonaire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rapport ventilation/perfusion",
+      "definition": "Le rapport ventilation/perfusion (V/Q) est une mesure de l'efficacité de l'échange gazeux dans les poumons, indiquant la proportion de ventilation par rapport à la perfusion sanguine.",
+      "category": "physiologie",
+      "synonyms": [
+        "V/Q ratio"
+      ],
+      "related_terms": [
+        "échange gazeux",
+        "ventilation",
+        "perfusion"
+      ],
+      "description": "Un rapport V/Q anormal peut entraîner une hypoxémie et une hypoxie tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rapport ventilation/perfusion",
+        "échange gazeux"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perfusion glomérulaire",
+      "definition": "La perfusion glomérulaire est le débit sanguin à travers les glomérules des reins, essentielle pour la filtration glomérulaire et la formation de l'urine.",
+      "category": "physiologie",
+      "synonyms": [
+        "débit sanguin glomérulaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "insuffisance rénale"
+      ],
+      "description": "Une diminution de la perfusion glomérulaire peut entraîner une insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "perfusion glomérulaire",
+        "filtration glomérulaire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atteinte tubulointerstitielle",
+      "definition": "L'atteinte tubulointerstitielle est une lésion des tubules rénaux et de l'interstitium rénal, souvent due à des processus inflammatoires ou toxiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "néphrite interstitielle"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "néphropathie"
+      ],
+      "description": "L'atteinte tubulointerstitielle peut entraîner une insuffisance rénale aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "atteinte tubulointerstitielle",
+        "néphrite interstitielle"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "translocations bactériennes",
+      "definition": "Les translocations bactériennes sont le passage de bactéries à travers la barrière intestinale vers la circulation sanguine ou d'autres tissus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "translocation bactérienne"
+      ],
+      "related_terms": [
+        "barrière intestinale",
+        "septicémie"
+      ],
+      "description": "Les translocations bactériennes peuvent entraîner une infection systémique et une activation de la réponse inflammatoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "translocations bactériennes",
+        "barrière intestinale"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "barrière hémato-encéphalique",
+      "definition": "La barrière hémato-encéphalique est une barrière physiologique qui régule le passage des substances entre le sang et le cerveau, protégeant le cerveau des toxines et des agents pathogènes.",
+      "category": "anatomie",
+      "synonyms": [
+        "BHE"
+      ],
+      "related_terms": [
+        "barrière sang-cerveau",
+        "perméabilité vasculaire"
+      ],
+      "description": "Une altération de la barrière hémato-encéphalique peut entraîner un œdème cérébral et des dysfonctions neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "barrière hémato-encéphalique",
+        "barrière sang-cerveau"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "axe corticotrope",
+      "definition": "L'axe corticotrope est un système neuroendocrinien qui régule la production de cortisol par les glandes surrénales en réponse au stress.",
+      "category": "physiologie",
+      "synonyms": [
+        "axe hypothalamo-hypophyso-surrénalien"
+      ],
+      "related_terms": [
+        "cortisol",
+        "stress"
+      ],
+      "description": "L'axe corticotrope joue un rôle crucial dans la réponse au stress et la régulation de la fonction immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "axe corticotrope",
+        "axe hypothalamo-hypophyso-surrénalien"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insulino-résistance",
+      "definition": "L'insulino-résistance est une diminution de la sensibilité des tissus à l'insuline, entraînant une diminution de l'absorption du glucose par les cellules.",
+      "category": "pathologie",
+      "synonyms": [
+        "résistance à l'insuline"
+      ],
+      "related_terms": [
+        "diabète",
+        "glucose"
+      ],
+      "description": "L'insulino-résistance est un facteur de risque pour le diabète de type 2 et les maladies cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insulino-résistance",
+        "résistance à l'insuline"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TNF-α",
+      "definition": "Le TNF-α (facteur de nécrose tumorale alpha) est une cytokine pro-inflammatoire impliquée dans la réponse immunitaire et l'inflammation.",
+      "category": "microbiologie",
+      "synonyms": [
+        "facteur de nécrose tumorale alpha"
+      ],
+      "related_terms": [
+        "cytokines",
+        "inflammation"
+      ],
+      "description": "Le TNF-α joue un rôle clé dans la régulation de la réponse immunitaire et peut contribuer à la pathogenèse de diverses maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "TNF-α",
+        "facteur de nécrose tumorale alpha"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aldostérone",
+      "definition": "L'aldostérone est une hormone minéralocorticoïde produite par les glandes surrénales, régulant l'équilibre hydrosodé et la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "minéralocorticoïde"
+      ],
+      "related_terms": [
+        "rénine",
+        "angiotensine"
+      ],
+      "description": "L'aldostérone agit principalement sur les reins pour augmenter la réabsorption de sodium et l'excrétion de potassium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aldostérone",
+        "minéralocorticoïde"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasopressine",
+      "definition": "La vasopressine, également connue sous le nom d'hormone antidiurétique (ADH), est une hormone qui régule la rétention d'eau par les reins et la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ADH",
+        "hormone antidiurétique"
+      ],
+      "related_terms": [
+        "rétention d'eau",
+        "pression artérielle"
+      ],
+      "description": "La vasopressine est sécrétée par l'hypothalamus et stockée dans la post-hypophyse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasopressine",
+        "ADH"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction mitochondriale",
+      "definition": "La dysfonction mitochondriale est une altération du fonctionnement des mitochondries, les organites cellulaires responsables de la production d'énergie.",
+      "category": "pathologie",
+      "synonyms": [
+        "altération mitochondriale"
+      ],
+      "related_terms": [
+        "mitochondries",
+        "production d'énergie"
+      ],
+      "description": "La dysfonction mitochondriale peut entraîner une diminution de la production d'ATP et une augmentation de la production de radicaux libres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dysfonction mitochondriale",
+        "altération mitochondriale"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypovolémie efficace",
+      "definition": "L'hypovolémie efficace est une diminution du volume sanguin circulant efficace, souvent due à une vasodilatation ou une fuite capillaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypovolémie relative"
+      ],
+      "related_terms": [
+        "vasodilatation",
+        "fuite capillaire"
+      ],
+      "description": "L'hypovolémie efficace peut entraîner une hypotension et une hypoperfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypovolémie efficace",
+        "hypovolémie relative"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperperméabilité capillaire",
+      "definition": "L'hyperperméabilité capillaire est une augmentation de la perméabilité des capillaires, permettant le passage excessif de liquides et de protéines dans les tissus interstitiels.",
+      "category": "pathologie",
+      "synonyms": [
+        "fuite capillaire"
+      ],
+      "related_terms": [
+        "œdème",
+        "perméabilité vasculaire"
+      ],
+      "description": "L'hyperperméabilité capillaire peut entraîner un œdème tissulaire et une hypovolémie efficace.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyperperméabilité capillaire",
+        "fuite capillaire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rénine",
+      "definition": "La rénine est une enzyme sécrétée par les cellules juxtaglomérulaires des reins, qui catalyse la conversion de l'angiotensinogène en angiotensine I.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "enzyme rénine"
+      ],
+      "related_terms": [
+        "angiotensine",
+        "système rénine-angiotensine"
+      ],
+      "description": "La rénine joue un rôle clé dans la régulation de la pression artérielle et du volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rénine",
+        "enzyme rénine"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arginine-vasopressine",
+      "definition": "L'arginine-vasopressine est une hormone peptidique qui régule la rétention d'eau par les reins et la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopressine",
+        "ADH"
+      ],
+      "related_terms": [
+        "rétention d'eau",
+        "pression artérielle"
+      ],
+      "description": "L'arginine-vasopressine est sécrétée par l'hypothalamus et stockée dans la post-hypophyse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "arginine-vasopressine",
+        "vasopressine"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs α",
+      "definition": "Les récepteurs α sont des récepteurs adrénergiques qui médient les effets vasoconstricteurs des catécholamines comme la noradrénaline et l'adrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs alpha-adrénergiques"
+      ],
+      "related_terms": [
+        "catécholamines",
+        "vasoconstriction"
+      ],
+      "description": "Les récepteurs α sont impliqués dans la régulation de la pression artérielle et du tonus vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs α",
+        "récepteurs alpha-adrénergiques"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cortisol",
+      "definition": "Le cortisol est une hormone stéroïdienne produite par les glandes surrénales, ayant des effets anti-inflammatoires et immunosuppresseurs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hydrocortisone"
+      ],
+      "related_terms": [
+        "glucocorticoïdes",
+        "stress"
+      ],
+      "description": "Le cortisol joue un rôle crucial dans la réponse au stress et la régulation de la fonction immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cortisol",
+        "hydrocortisone"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anions peroxynitrites",
+      "definition": "Les anions peroxynitrites sont des molécules réactives formées par la réaction du monoxyde d'azote (NO) avec le superoxyde, ayant des effets oxydants et cytotoxiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "peroxynitrite"
+      ],
+      "related_terms": [
+        "monoxyde d'azote",
+        "superoxyde"
+      ],
+      "description": "Les anions peroxynitrites peuvent contribuer à la dysfonction endothéliale et à l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anions peroxynitrites",
+        "peroxynitrite"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maldistribution",
+      "definition": "Distribution inégale du débit sanguin entre différents territoires vasculaires, entraînant une perfusion tissulaire inadéquate.",
+      "category": "physiologie",
+      "synonyms": [
+        "distribution hétérogène"
+      ],
+      "related_terms": [
+        "hypoperfusion",
+        "ischémie"
+      ],
+      "description": "La maldistribution est souvent observée dans le choc septique et contribue à l'hypoxie tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son impact sur la perfusion tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maldistribution",
+        "distribution hétérogène"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombifibrino-plaquettaires",
+      "definition": "Thrombus composés de fibrine et de plaquettes, obstruant les vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombus"
+      ],
+      "related_terms": [
+        "coagulation",
+        "thrombose"
+      ],
+      "description": "Les thrombifibrino-plaquettaires sont souvent observés dans la CIVD et contribuent à l'obstruction des capillaires.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de leur rôle dans l'obstruction vasculaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombifibrino-plaquettaires",
+        "thrombus"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NO synthase inductible",
+      "definition": "Enzyme responsable de la production de NO en réponse à des stimuli inflammatoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "iNOS"
+      ],
+      "related_terms": [
+        "NO",
+        "inflammation"
+      ],
+      "description": "L'expression inhomogène de la NO synthase inductible contribue aux anomalies de la distribution en oxygène dans le sepsis.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son rôle dans la production de NO.",
+      "normal_values": null,
+      "image_search_terms": [
+        "NO synthase inductible",
+        "iNOS"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "shunt artério-veineux",
+      "definition": "Passage anormal de sang directement des artères aux veines, contournant les capillaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "shunt AV"
+      ],
+      "related_terms": [
+        "shunt",
+        "circulation sanguine"
+      ],
+      "description": "Les shunts artério-veineux contribuent à la maldistribution du débit sanguin dans le sepsis.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de leur impact sur la perfusion tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "shunt artério-veineux",
+        "shunt AV"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anaérobiose",
+      "definition": "État de manque d'oxygène dans les tissus, entraînant une production d'énergie par des voies anaérobies.",
+      "category": "physiologie",
+      "synonyms": [
+        "anaérobie"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "glycolyse anaérobie"
+      ],
+      "description": "L'anaérobiose est souvent observée dans le sepsis en raison de l'hypoperfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son impact sur la production d'énergie cellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anaérobiose",
+        "anaérobie"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactate",
+      "definition": "Produit de la glycolyse anaérobie, utilisé comme marqueur de l'hypoxie tissulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "acide lactique"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "glycolyse"
+      ],
+      "description": "L'élévation de la lactatémie est un marqueur d'inadéquation entre les apports et les besoins en oxygène.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son rôle comme marqueur de l'hypoxie tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lactate",
+        "acide lactique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pyruvate",
+      "definition": "Produit intermédiaire du métabolisme du glucose, converti en acétyl-CoA ou en lactate.",
+      "category": "physiologie",
+      "synonyms": [
+        "acide pyruvique"
+      ],
+      "related_terms": [
+        "glycolyse",
+        "cycle de Krebs"
+      ],
+      "description": "Le pyruvate s'accumule en cas de blocage du cycle de Krebs, contribuant à la production de lactate.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son rôle dans le métabolisme énergétique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pyruvate",
+        "acide pyruvique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cycle de Krebs",
+      "definition": "Série de réactions chimiques par lesquelles les cellules génèrent de l'énergie sous forme d'ATP.",
+      "category": "physiologie",
+      "synonyms": [
+        "cycle de l'acide citrique"
+      ],
+      "related_terms": [
+        "métabolisme",
+        "ATP"
+      ],
+      "description": "Le blocage du cycle de Krebs contribue à l'accumulation de pyruvate et à la production de lactate.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son rôle central dans le métabolisme énergétique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cycle de Krebs",
+        "cycle de l'acide citrique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysoxie cellulaire",
+      "definition": "Incapacité des cellules à utiliser l'oxygène disponible, malgré un apport adéquat.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypoxie cytopathique"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "métabolisme cellulaire"
+      ],
+      "description": "La dysoxie cellulaire est souvent observée dans le sepsis et contribue à la réduction de l'activité énergétique cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son impact sur le métabolisme cellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dysoxie cellulaire",
+        "hypoxie cytopathique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoxie cytopathique",
+      "definition": "Incapacité des cellules à utiliser l'oxygène disponible, malgré un apport adéquat.",
+      "category": "physiologie",
+      "synonyms": [
+        "dysoxie cellulaire"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "métabolisme cellulaire"
+      ],
+      "description": "L'hypoxie cytopathique est souvent observée dans le sepsis et contribue à la réduction de l'activité énergétique cellulaire.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son impact sur le métabolisme cellulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoxie cytopathique",
+        "dysoxie cellulaire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL6",
+      "definition": "Interleukine-6, une cytokine pro-inflammatoire impliquée dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine-6"
+      ],
+      "related_terms": [
+        "cytokines",
+        "inflammation"
+      ],
+      "description": "L'IL6 est libérée en réponse à l'infection et contribue à la réponse inflammatoire dans le sepsis.",
+      "expansion": null,
+      "clinical_significance": "Importance clinique en raison de son rôle dans la réponse inflammatoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IL6",
+        "interleukine-6"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neutropénie",
+      "definition": "Diminution du nombre de neutrophiles dans le sang, pouvant entraîner une susceptibilité accrue aux infections.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutropénie"
+      ],
+      "related_terms": [
+        "neutrophiles",
+        "infections"
+      ],
+      "description": "La neutropénie peut être causée par diverses conditions, y compris les infections, les médicaments, ou les maladies hématologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "neutropénie",
+        "neutrophiles"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome inflammatoire",
+      "definition": "Ensemble de réactions systémiques en réponse à une infection, une blessure ou une inflammation, caractérisé par des signes cliniques et biologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "réponse inflammatoire systémique"
+      ],
+      "related_terms": [
+        "infection",
+        "inflammation",
+        "protéine C réactive",
+        "procalcitonine"
+      ],
+      "description": "Le syndrome inflammatoire peut inclure des symptômes tels que la fièvre, la tachycardie, la tachypnée, et des anomalies des globules blancs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome inflammatoire",
+        "réponse inflammatoire systémique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactates",
+      "definition": "Produit du métabolisme anaérobie, utilisé comme marqueur de l'hypoperfusion tissulaire et de l'ischémie.",
+      "category": "physiologie",
+      "synonyms": [
+        "acide lactique"
+      ],
+      "related_terms": [
+        "hypoperfusion tissulaire",
+        "ischémie",
+        "métabolisme anaérobie"
+      ],
+      "description": "Les lactates sont un marqueur important de l'hypoperfusion tissulaire et de l'ischémie, souvent utilisés pour évaluer la gravité des états de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lactates",
+        "acide lactique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gaz du sang",
+      "definition": "Analyse des gaz dissous dans le sang, incluant l'oxygène, le dioxyde de carbone, et le pH, utilisée pour évaluer la fonction respiratoire et l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "gazométrie"
+      ],
+      "related_terms": [
+        "oxygène",
+        "dioxyde de carbone",
+        "pH",
+        "équilibre acido-basique"
+      ],
+      "description": "Les gaz du sang sont utilisés pour diagnostiquer et surveiller diverses conditions respiratoires et métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gaz du sang",
+        "gazométrie"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de détresse respiratoire aigüe",
+      "definition": "Condition caractérisée par une inflammation pulmonaire aiguë, entraînant une insuffisance respiratoire sévère et une hypoxémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "SDRA"
+      ],
+      "related_terms": [
+        "insuffisance respiratoire",
+        "hypoxémie",
+        "inflammation pulmonaire"
+      ],
+      "description": "Le syndrome de détresse respiratoire aigüe est une urgence médicale nécessitant une ventilation mécanique et un support intensif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de détresse respiratoire aigüe",
+        "SDRA"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ETT",
+      "definition": "Échographie trans-thoracique, une technique d'imagerie non invasive utilisée pour évaluer la structure et la fonction cardiaque.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie trans-thoracique"
+      ],
+      "related_terms": [
+        "échographie",
+        "imagerie cardiaque"
+      ],
+      "description": "L'ETT est utilisée pour diagnostiquer et surveiller diverses conditions cardiaques, y compris les valvulopathies, les cardiomyopathies, et les anomalies congénitales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ETT",
+        "échographie trans-thoracique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Swan-Ganz",
+      "definition": "Cathéter de flottement utilisé pour mesurer les pressions cardiaques et pulmonaires, ainsi que le débit cardiaque.",
+      "category": "imagerie",
+      "synonyms": [
+        "cathéter de Swan-Ganz"
+      ],
+      "related_terms": [
+        "cathétérisme cardiaque",
+        "débit cardiaque"
+      ],
+      "description": "Le cathéter de Swan-Ganz est utilisé pour évaluer la fonction cardiaque et hémodynamique chez les patients en état de choc ou en insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Swan-Ganz",
+        "cathéter de Swan-Ganz"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Still",
+      "definition": "Maladie inflammatoire systémique de l'adulte, caractérisée par une fièvre récurrente, des éruptions cutanées, et des arthrites.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Still de l'adulte"
+      ],
+      "related_terms": [
+        "fièvre",
+        "éruptions cutanées",
+        "arthrites"
+      ],
+      "description": "La maladie de Still de l'adulte est une maladie auto-inflammatoire rare, souvent difficile à diagnostiquer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Still",
+        "maladie de Still de l'adulte"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DRESS syndrome",
+      "definition": "Syndrome d'hypersensibilité médicamenteuse avec éosinophilie et symptômes systémiques, pouvant inclure des éruptions cutanées, une fièvre, et des atteintes d'organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome DRESS"
+      ],
+      "related_terms": [
+        "hypersensibilité médicamenteuse",
+        "éosinophilie",
+        "éruptions cutanées"
+      ],
+      "description": "Le syndrome DRESS est une réaction grave aux médicaments, nécessitant l'arrêt immédiat du médicament en cause et un traitement intensif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "DRESS syndrome",
+        "syndrome DRESS"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IAS",
+      "definition": "Infection Associée aux Soins, une infection qui survient au cours ou au décours d'une prise en charge de soins et qui n'était ni présente ni en incubation au début de la prise en charge.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "infection nosocomiale"
+      ],
+      "description": "",
+      "expansion": "Infection Associée aux Soins",
+      "clinical_significance": "Importante pour la prévention et le contrôle des infections dans les établissements de santé.",
+      "normal_values": "",
+      "image_search_terms": [
+        "infection associée aux soins",
+        "IAS"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infection nosocomiale",
+      "definition": "Infection contractée dans un établissement de santé alors qu'elle n'était ni présente ni en incubation à l'admission, avec un délai de 48 heures entre l'admission et l'état infectieux.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "IAS"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la prévention et le contrôle des infections dans les établissements de santé.",
+      "normal_values": "",
+      "image_search_terms": [
+        "infection nosocomiale"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bactéries multi résistantes (BMR)",
+      "definition": "Bactéries qui sont résistantes à plusieurs types d'antibiotiques, rendant leur traitement plus difficile.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "germes multi résistants"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des infections et la sélection des antibiotiques appropriés.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bactéries multi résistantes",
+        "BMR"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie cardiaque valvulaire",
+      "definition": "Intervention chirurgicale sur les valves cardiaques pour corriger des anomalies ou des dysfonctionnements.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des complications post-opératoires et des infections.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chirurgie cardiaque valvulaire"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "germes multi résistants",
+      "definition": "Micro-organismes qui sont résistants à plusieurs types d'antibiotiques, rendant leur traitement plus difficile.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries multi résistantes"
+      ],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des infections et la sélection des antibiotiques appropriés.",
+      "normal_values": "",
+      "image_search_terms": [
+        "germes multi résistants"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunodéprimés",
+      "definition": "État où le système immunitaire est affaibli, rendant l'individu plus susceptible aux infections.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des infections et la prévention des complications.",
+      "normal_values": "",
+      "image_search_terms": [
+        "immunodéprimés"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dispositif invasif",
+      "definition": "Équipement médical qui pénètre dans le corps, comme les cathéters vasculaires ou les sondes urinaires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la prévention des infections associées aux soins.",
+      "normal_values": "",
+      "image_search_terms": [
+        "dispositif invasif"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Franck-Starling",
+      "definition": "Principe physiologique qui décrit la relation entre la précharge ventriculaire et le volume d'éjection systolique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion de l'hémodynamique et le traitement du choc septique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "Franck-Starling"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "soluté salé isotonique",
+      "definition": "Solution de chlorure de sodium à 0.9% utilisée pour le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum physiologique"
+      ],
+      "related_terms": [
+        "cristalloïdes"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion de l'hémodynamique et le traitement du choc septique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "soluté salé isotonique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum physiologique",
+      "definition": "Solution de chlorure de sodium à 0.9% utilisée pour le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "soluté salé isotonique"
+      ],
+      "related_terms": [
+        "cristalloïdes"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion de l'hémodynamique et le traitement du choc septique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "sérum physiologique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose hyperchlorémique",
+      "definition": "État d'acidose métabolique causé par un excès de chlorure dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des déséquilibres électrolytiques et acido-basiques.",
+      "normal_values": "",
+      "image_search_terms": [
+        "acidose hyperchlorémique"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression pulsée",
+      "definition": "Différence entre la pression artérielle systolique et diastolique, utilisée pour évaluer la réponse au remplissage vasculaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression artérielle"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion de l'hémodynamique et le traitement du choc septique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pression pulsée"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation mécanique invasive",
+      "definition": "Technique de ventilation artificielle où un tube est inséré dans la trachée pour assister la respiration.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "Importante pour la gestion des patients en état critique et la prévention des complications.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ventilation mécanique invasive"
+      ],
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression oncotique",
+      "definition": "Pression exercée par les protéines dans le plasma sanguin qui aide à maintenir l'équilibre des fluides entre les compartiments vasculaire et interstitiel.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression colloïdo-osmotique"
+      ],
+      "related_terms": [
+        "colloïdes",
+        "albumine humaine"
+      ],
+      "description": "La pression oncotique est cruciale pour le maintien de l'équilibre des fluides dans le corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "albumine humaine",
+      "definition": "Protéine dérivée du plasma sanguin humain utilisée comme colloïde naturel pour le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérum albumine humaine"
+      ],
+      "related_terms": [
+        "colloïdes naturels",
+        "soluté de remplissage vasculaire"
+      ],
+      "description": "L'albumine humaine est utilisée pour le remplissage vasculaire mais est coûteuse et dérivée du sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gélatines",
+      "definition": "Colloïdes de synthèse utilisés pour l'expansion volémique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solutions de gélatine"
+      ],
+      "related_terms": [
+        "colloïdes de synthèse",
+        "hydroxyéthylamidons"
+      ],
+      "description": "Les gélatines sont une classe de colloïdes de synthèse utilisés pour l'expansion volémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "soluté de remplissage vasculaire",
+      "definition": "Solution utilisée pour augmenter le volume sanguin et maintenir la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "soluté de remplissage"
+      ],
+      "related_terms": [
+        "albumine humaine",
+        "cristalloïdes"
+      ],
+      "description": "Les solutés de remplissage vasculaire sont essentiels pour maintenir la pression artérielle et le volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sérum salé",
+      "definition": "Solution cristalloïde contenant du chlorure de sodium utilisée pour l'expansion volémique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solution saline"
+      ],
+      "related_terms": [
+        "cristalloïdes",
+        "ringer lactate"
+      ],
+      "description": "Le sérum salé est une solution cristalloïde couramment utilisée pour l'expansion volémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose métabolique hyperchlorémique",
+      "definition": "État pathologique caractérisé par une accumulation excessive de chlore dans le sang, entraînant une acidose métabolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperchlorémie"
+      ],
+      "related_terms": [
+        "sérum salé",
+        "ringer lactate"
+      ],
+      "description": "L'acidose métabolique hyperchlorémique est souvent rencontrée avec l'usage de sérum salé à 9 pour mille.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SSC 2021",
+      "definition": "Recommandations de la Surviving Sepsis Campaign de 2021 pour la gestion des états septiques graves.",
+      "category": "classification",
+      "synonyms": [
+        "recommandations SSC 2021"
+      ],
+      "related_terms": [
+        "sepsis",
+        "choc septique"
+      ],
+      "description": "Les recommandations SSC 2021 fournissent des lignes directrices pour la gestion des états septiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoperfusion périphérique",
+      "definition": "Réduction du flux sanguin vers les tissus périphériques, souvent observée dans les états de choc.",
+      "category": "pathologie",
+      "synonyms": [
+        "perfusion périphérique réduite"
+      ],
+      "related_terms": [
+        "remplissage vasculaire",
+        "hypotension artérielle"
+      ],
+      "description": "L'hypoperfusion périphérique est un signe de choc nécessitant une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstricteur",
+      "definition": "Substance provoquant la constriction des vaisseaux sanguins, augmentant ainsi la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "agent vasoconstricteur"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "vasopresseur"
+      ],
+      "description": "Les vasoconstricteurs sont utilisés pour augmenter la pression artérielle en réduisant le diamètre des vaisseaux sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc réfractaire",
+      "definition": "État de choc qui ne répond pas aux traitements conventionnels de remplissage vasculaire et de vasopresseurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc non répondant"
+      ],
+      "related_terms": [
+        "choc septique",
+        "vasopressine"
+      ],
+      "description": "Le choc réfractaire nécessite des interventions supplémentaires comme l'administration de vasopressine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dobutamine",
+      "definition": "Agent inotrope positif utilisé pour améliorer la fonction myocardique et augmenter le débit cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dobutrex"
+      ],
+      "related_terms": [
+        "inotrope positif",
+        "dysfonction myocardique"
+      ],
+      "description": "La dobutamine est utilisée pour traiter la dysfonction myocardique et augmenter le débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfonction myocardique",
+      "definition": "Altération de la fonction contractile du myocarde, entraînant une réduction du débit cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance myocardique"
+      ],
+      "related_terms": [
+        "dobutamine",
+        "inotrope positif"
+      ],
+      "description": "La dysfonction myocardique est une altération de la fonction contractile du myocarde nécessitant un traitement inotrope positif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inotrope positif",
+      "definition": "Agent pharmacologique qui augmente la force de contraction du myocarde, améliorant ainsi le débit cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "agent inotrope"
+      ],
+      "related_terms": [
+        "dobutamine",
+        "dysfonction myocardique"
+      ],
+      "description": "Les inotropes positifs sont utilisés pour améliorer la fonction myocardique et augmenter le débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "synergique",
+      "definition": "Effet combiné de deux ou plusieurs agents qui est supérieur à la somme de leurs effets individuels.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "effet synergique"
+      ],
+      "related_terms": [
+        "antibiothérapie",
+        "bactéricide"
+      ],
+      "description": "L'effet synergique est recherché dans les traitements antibiotiques pour augmenter l'efficacité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bacilles à Gram négatif",
+      "definition": "Bactéries en forme de bâtonnet qui ne retiennent pas le colorant de Gram et apparaissent roses au microscope.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries Gram négatif"
+      ],
+      "related_terms": [
+        "cocci à Gram positif",
+        "multirésistance bactérienne"
+      ],
+      "description": "Les bacilles à Gram négatif sont souvent impliqués dans les infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cocci à Gram positif",
+      "definition": "Bactéries de forme sphérique qui retiennent le colorant de Gram et apparaissent violets au microscope.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries Gram positif"
+      ],
+      "related_terms": [
+        "bacilles à Gram négatif",
+        "multirésistance bactérienne"
+      ],
+      "description": "Les cocci à Gram positif sont souvent impliqués dans les infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "multirésistance bactérienne",
+      "definition": "Résistance d'une bactérie à au moins trois classes d'antibiotiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries multirésistantes"
+      ],
+      "related_terms": [
+        "bacilles à Gram négatif",
+        "cocci à Gram positif"
+      ],
+      "description": "La multirésistance bactérienne est un défi majeur dans le traitement des infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bactéries multirésistantes (BMR)",
+      "definition": "Bactéries présentant une résistance à au moins trois classes d'antibiotiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "BMR"
+      ],
+      "related_terms": [
+        "multirésistance bactérienne",
+        "Staphylococcus aureus résistant à la méticilline"
+      ],
+      "description": "Les bactéries multirésistantes sont un défi majeur dans le traitement des infections nosocomiales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Staphylococcus aureus résistant à la méticilline (SARM)",
+      "definition": "Souche de Staphylococcus aureus résistante à la méticilline et à d'autres antibiotiques bêta-lactamines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "SARM"
+      ],
+      "related_terms": [
+        "bactéries multirésistantes",
+        "méticilline"
+      ],
+      "description": "Le SARM est une bactérie multirésistante responsable d'infections nosocomiales graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méticilline",
+      "definition": "Antibiotique bêta-lactamine utilisé pour traiter les infections à Staphylococcus aureus.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "methicillin"
+      ],
+      "related_terms": [
+        "Staphylococcus aureus résistant à la méticilline",
+        "bêta-lactamines"
+      ],
+      "description": "La méticilline est un antibiotique utilisé pour traiter les infections à Staphylococcus aureus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entérobactéries productrices de bêta-lactamases à spectre étendu (EBLSE)",
+      "definition": "Bactéries de la famille des entérobactéries qui produisent des enzymes capables de dégrader un large spectre de bêta-lactamines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "EBLSE"
+      ],
+      "related_terms": [
+        "bêta-lactamases",
+        "bactéries multirésistantes"
+      ],
+      "description": "Les EBLSE sont des bactéries multirésistantes responsables d'infections nosocomiales graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperproductrices de céphalosporinases",
+      "definition": "Bactéries produisant des enzymes capables de dégrader les céphalosporines, une classe d'antibiotiques bêta-lactamines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "HPCase"
+      ],
+      "related_terms": [
+        "bêta-lactamases",
+        "bêta-lactamines"
+      ],
+      "description": "Les hyperproductrices de céphalosporinases sont des bactéries résistantes aux céphalosporines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Carbapénémases",
+      "definition": "Enzymes produites par certaines bactéries capables de dégrader les carbapénèmes, une classe d'antibiotiques bêta-lactamines.",
+      "category": "microbiologie",
+      "synonyms": [
+        "carbapenemases"
+      ],
+      "related_terms": [
+        "bêta-lactamases",
+        "bêta-lactamines"
+      ],
+      "description": "Les carbapénémases sont des enzymes responsables de la résistance aux carbapénèmes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entérocoques résistants à la vancomycine (ERV)",
+      "definition": "Bactéries de la famille des entérocoques qui sont résistantes à la vancomycine, un antibiotique de dernier recours.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ERV"
+      ],
+      "related_terms": [
+        "bactéries multirésistantes",
+        "vancomycine"
+      ],
+      "description": "Les ERV sont des bactéries multirésistantes responsables d'infections nosocomiales graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désescalade",
+      "definition": "Réduction du spectre de l'antibiothérapie en fonction des résultats de l'antibiogramme pour éviter la résistance bactérienne.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "réduction du spectre antibiotique"
+      ],
+      "related_terms": [
+        "antibiothérapie",
+        "antibiogramme"
+      ],
+      "description": "La désescalade est une stratégie pour réduire le spectre de l'antibiothérapie en fonction des résultats de l'antibiogramme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bactériémie",
+      "definition": "Présence de bactéries dans le sang, souvent associée à une infection systémique.",
+      "category": "pathologie",
+      "synonyms": [
+        "septicémie"
+      ],
+      "related_terms": [
+        "sepsis",
+        "Staphylococcus aureus"
+      ],
+      "description": "La bactériémie est la présence de bactéries dans le sang, souvent associée à une infection systémique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance surrénalienne",
+      "definition": "Déficit de production de cortisol par les glandes surrénales, pouvant être primaire ou secondaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance corticosurrénale"
+      ],
+      "related_terms": [
+        "maladie d'Addison",
+        "hypocortisolisme"
+      ],
+      "description": "Peut être relative dans le contexte du choc septique, nécessitant une supplémentation en corticoïdes.",
+      "expansion": null,
+      "clinical_significance": "Peut aggraver l'état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrocortisone",
+      "definition": "Corticostéroïde utilisé pour traiter l'insuffisance surrénalienne et comme adjuvant dans le choc septique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "cortisol"
+      ],
+      "related_terms": [
+        "corticothérapie",
+        "glucocorticoïdes"
+      ],
+      "description": "Utilisée à faible dose pour améliorer l'hémodynamique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Peut réduire la durée du choc septique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémisuccinate d'hydrocortisone",
+      "definition": "Forme d'hydrocortisone utilisée pour la corticothérapie substitutive.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hydrocortisone hémisuccinate"
+      ],
+      "related_terms": [
+        "hydrocortisone",
+        "corticothérapie"
+      ],
+      "description": "Utilisé à une dose de 200 mg/j pendant 5 à 7 jours dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Peut améliorer l'hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasopresseurs",
+      "definition": "Médicaments utilisés pour augmenter la pression artérielle en stimulant la vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasoconstricteurs"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "dopamine"
+      ],
+      "description": "Utilisés dans le choc septique pour maintenir la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la stabilisation hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coronarienne",
+      "definition": "Relatif aux artères coronaires, qui alimentent le muscle cardiaque en sang.",
+      "category": "anatomie",
+      "synonyms": [
+        "artères coronaires"
+      ],
+      "related_terms": [
+        "maladie coronarienne",
+        "infarctus du myocarde"
+      ],
+      "description": "Pathologie coronarienne avérée nécessite des taux d'hémoglobine plus élevés.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de complications cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plaquettes",
+      "definition": "Cellules sanguines impliquées dans la coagulation et la réparation des vaisseaux sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "thrombocytes"
+      ],
+      "related_terms": [
+        "thrombopénie",
+        "hémostase"
+      ],
+      "description": "Transfusées lorsque leur concentration est < 10000/mm³.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "150000-450000/mm³",
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PEP",
+      "definition": "Pression expiratoire positive, utilisée en ventilation mécanique pour maintenir les alvéoles ouverts.",
+      "category": "physiologie",
+      "synonyms": [
+        "PEEP"
+      ],
+      "related_terms": [
+        "ventilation mécanique",
+        "SDRA"
+      ],
+      "description": "Utilisée pour améliorer l'oxygénation dans le SDRA.",
+      "expansion": null,
+      "clinical_significance": "Améliore l'oxygénation et réduit le risque de barotraumatisme.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumopathies",
+      "definition": "Infections ou inflammations des poumons, souvent d'origine bactérienne ou virale.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumonie"
+      ],
+      "related_terms": [
+        "infection pulmonaire",
+        "bronchopneumopathie"
+      ],
+      "description": "Risque accru sous ventilation mécanique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement antibiotique approprié.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épuration extra-rénale",
+      "definition": "Techniques de dialyse utilisées pour remplacer la fonction rénale en cas de défaillance rénale aiguë.",
+      "category": "physiologie",
+      "synonyms": [
+        "dialyse rénale"
+      ],
+      "related_terms": [
+        "hémodialyse",
+        "hémofiltration"
+      ],
+      "description": "Utilisée pour préserver l'état hémodynamique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion de l'insuffisance rénale aiguë.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémofiltration",
+      "definition": "Technique d'épuration extra-rénale utilisant un filtre pour éliminer les toxines et l'excès de liquide du sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "hémofiltration continue"
+      ],
+      "related_terms": [
+        "dialyse",
+        "épuration extra-rénale"
+      ],
+      "description": "Utilisée pour préserver l'état hémodynamique dans le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Alternative à l'hémodialyse en soins intensifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparine",
+      "definition": "Anticoagulant utilisé pour prévenir la formation de caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "héparine non fractionnée"
+      ],
+      "related_terms": [
+        "HBPM",
+        "anticoagulants"
+      ],
+      "description": "Utilisée pour la thrombophylaxie dans le sepsis ou le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Prévient les complications thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparine de bas poids moléculaire",
+      "definition": "Forme d'héparine avec une action anticoagulante plus prévisible et un risque réduit de complications.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HBPM"
+      ],
+      "related_terms": [
+        "héparine",
+        "anticoagulants"
+      ],
+      "description": "Utilisée pour la thrombophylaxie dans le sepsis ou le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Préférée pour sa sécurité et son efficacité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombophylaxie",
+      "definition": "Prévention de la formation de caillots sanguins (thrombose) par des moyens pharmacologiques ou mécaniques.",
+      "category": "physiologie",
+      "synonyms": [
+        "prophylaxie thromboembolique"
+      ],
+      "related_terms": [
+        "héparine",
+        "anticoagulants"
+      ],
+      "description": "Utilisée pour prévenir les complications thromboemboliques dans le sepsis ou le choc septique.",
+      "expansion": null,
+      "clinical_significance": "Critique pour prévenir les complications thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs de la pompe à proton",
+      "definition": "Médicaments réduisant la production d'acide gastrique en inhibant l'enzyme pompe à proton.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IPP"
+      ],
+      "related_terms": [
+        "oméprazole",
+        "pantoprazole"
+      ],
+      "description": "Utilisés pour la prophylaxie de l'ulcère de stress.",
+      "expansion": null,
+      "clinical_significance": "Prévient les saignements gastro-intestinaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-H2",
+      "definition": "Médicaments bloquant les récepteurs H2 de l'histamine, réduisant ainsi la production d'acide gastrique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antihistaminiques H2"
+      ],
+      "related_terms": [
+        "ranitidine",
+        "famotidine"
+      ],
+      "description": "Utilisés pour la prophylaxie de l'ulcère de stress.",
+      "expansion": null,
+      "clinical_significance": "Prévient les saignements gastro-intestinaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alimentation entérale",
+      "definition": "Nutrition administrée directement dans le tube digestif via une sonde.",
+      "category": "physiologie",
+      "synonyms": [
+        "nutrition entérale"
+      ],
+      "related_terms": [
+        "sonde nasogastrique",
+        "nutrition"
+      ],
+      "description": "Initiée le plus tôt possible en soins intensifs.",
+      "expansion": null,
+      "clinical_significance": "Préférée pour maintenir la fonction intestinale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alimentation parentérale",
+      "definition": "Nutrition administrée directement dans la circulation sanguine, contournant le tube digestif.",
+      "category": "physiologie",
+      "synonyms": [
+        "nutrition intraveineuse"
+      ],
+      "related_terms": [
+        "nutrition",
+        "cathéter central"
+      ],
+      "description": "Utilisée en cas de contre-indication à l'alimentation entérale.",
+      "expansion": null,
+      "clinical_significance": "Nécessaire en cas d'intolérance digestive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prokinétiques",
+      "definition": "Médicaments stimulant la motilité gastro-intestinale.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "médicaments prokinétiques"
+      ],
+      "related_terms": [
+        "metoclopramide",
+        "domperidone"
+      ],
+      "description": "Utilisés en cas d'intolérance alimentaire.",
+      "expansion": null,
+      "clinical_significance": "Améliore la tolérance à l'alimentation entérale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlactatémie",
+      "definition": "Élévation anormale des niveaux de lactate dans le sang, souvent due à une hypoperfusion tissulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "lactate élevé"
+      ],
+      "related_terms": [
+        "lactate",
+        "hypoperfusion"
+      ],
+      "description": "Indicateur de défaillance circulatoire ou de choc.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et une correction rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlébite",
+      "definition": "Inflammation d'une veine, souvent due à un caillot sanguin (thrombose).",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombophlébite"
+      ],
+      "related_terms": [
+        "thrombose veineuse",
+        "embolie pulmonaire"
+      ],
+      "description": "Complication potentielle du décubitus prolongé.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une anticoagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "précharge dépendance ventriculaire",
+      "definition": "Capacité du ventricule à augmenter son débit cardiaque en réponse à une augmentation du volume sanguin (précharge).",
+      "category": "physiologie",
+      "synonyms": [
+        "réponse à la précharge"
+      ],
+      "related_terms": [
+        "débit cardiaque",
+        "précharge"
+      ],
+      "description": "Évaluée par les variations respiratoires de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de la réserve cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PICCO",
+      "definition": "Système de monitorage continu du débit cardiaque basé sur l'analyse du contour de l'onde de pouls.",
+      "category": "imagerie",
+      "synonyms": [
+        "PiCCO"
+      ],
+      "related_terms": [
+        "débit cardiaque",
+        "monitorage hémodynamique"
+      ],
+      "description": "Alternative peu invasive à l'échographie cardiaque ou au cathétérisme de Swan-Ganz.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour guider la réanimation hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie cardiaque",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser le cœur et évaluer sa fonction.",
+      "category": "imagerie",
+      "synonyms": [
+        "échocardiographie"
+      ],
+      "related_terms": [
+        "échocardiogramme",
+        "ultrasons"
+      ],
+      "description": "Utilisée pour évaluer le débit cardiaque et la fonction ventriculaire.",
+      "expansion": null,
+      "clinical_significance": "Outil essentiel en cardiologie et en soins intensifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathétérisme de Swan-Ganz",
+      "definition": "Technique invasive utilisant un cathéter pour mesurer les pressions cardiaques et le débit cardiaque.",
+      "category": "imagerie",
+      "synonyms": [
+        "cathétérisme pulmonaire"
+      ],
+      "related_terms": [
+        "débit cardiaque",
+        "pression artérielle pulmonaire"
+      ],
+      "description": "Utilisé pour un monitorage hémodynamique avancé.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des états de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SvcO2",
+      "definition": "Saturation veineuse centrale en oxygène, mesurée à l'entrée de l'oreillette droite.",
+      "category": "physiologie",
+      "synonyms": [
+        "saturation veineuse centrale"
+      ],
+      "related_terms": [
+        "SvO2",
+        "oxygénation"
+      ],
+      "description": "Indicateur de l'adéquation entre apports et consommation tissulaire en oxygène.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'état hémodynamique.",
+      "normal_values": ">70%",
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SvO2",
+      "definition": "Saturation veineuse en oxygène, mesurée au niveau de l'artère pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "saturation veineuse mixte"
+      ],
+      "related_terms": [
+        "SvcO2",
+        "oxygénation"
+      ],
+      "description": "Indicateur de l'adéquation entre apports et consommation tissulaire en oxygène.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de l'état hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PK/PD",
+      "definition": "Pharmacocinétique/pharmacodynamique, étude de l'action des médicaments dans le corps et de leurs effets thérapeutiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pharmacocinétique/pharmacodynamique"
+      ],
+      "related_terms": [
+        "pharmacocinétique",
+        "pharmacodynamique"
+      ],
+      "description": "Utilisé pour évaluer l'efficacité des antibiotiques.",
+      "expansion": null,
+      "clinical_significance": "Critique pour l'optimisation des traitements antibiotiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharmacocinétique",
+      "definition": "Étude de l'absorption, la distribution, le métabolisme et l'élimination des médicaments dans le corps.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "PK"
+      ],
+      "related_terms": [
+        "pharmacodynamique",
+        "métabolisme des médicaments"
+      ],
+      "description": "Perturbée dans les états septiques en raison de la fuite capillaire.",
+      "expansion": null,
+      "clinical_significance": "Critique pour l'ajustement des doses de médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "temps-dépendant",
+      "definition": "Activité antibiotique dépendant de la durée pendant laquelle la concentration du médicament reste au-dessus de la concentration minimale inhibitrice (CMI).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antibiotiques temps-dépendants"
+      ],
+      "related_terms": [
+        "bêtalactamines",
+        "glycopeptides"
+      ],
+      "description": "Exemples incluent les bêtalactamines et les glycopeptides.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un dosage fréquent pour maintenir l'efficacité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "concentration-dépendant",
+      "definition": "Activité antibiotique dépendant de la concentration maximale atteinte par le médicament dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antibiotiques concentration-dépendants"
+      ],
+      "related_terms": [
+        "aminosides",
+        "fluoroquinolones"
+      ],
+      "description": "Exemples incluent les aminosides et les fluoroquinolones.",
+      "expansion": null,
+      "clinical_significance": "Nécessite des doses élevées pour maximiser l'efficacité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharmacodynamique",
+      "definition": "Étude des effets des médicaments sur le corps, y compris leurs mécanismes d'action et leurs effets thérapeutiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "PD"
+      ],
+      "related_terms": [
+        "pharmacocinétique",
+        "effets thérapeutiques"
+      ],
+      "description": "Utilisée pour ajuster les doses d'antibiotiques en fonction des exigences toxicologiques.",
+      "expansion": null,
+      "clinical_significance": "Critique pour l'optimisation des traitements.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "drogues vasoactives",
+      "definition": "Médicaments qui agissent sur les vaisseaux sanguins pour modifier leur diamètre et la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseurs",
+        "vasodilatateurs"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "dopamine"
+      ],
+      "description": "Utilisés pour maintenir la pression artérielle dans les états de choc septique.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour stabiliser l'hémodynamique chez les patients en état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traitement anti-infectieux",
+      "definition": "Thérapie visant à éliminer ou contrôler une infection bactérienne, virale, fongique ou parasitaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antibiothérapie",
+        "antiviraux"
+      ],
+      "related_terms": [
+        "antibiotiques",
+        "antifongiques"
+      ],
+      "description": "Critique dans le traitement des infections sévères pour prévenir la progression vers un état septique.",
+      "expansion": null,
+      "clinical_significance": "Un traitement précoce et adapté est crucial pour améliorer le pronostic.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance multi viscérale",
+      "definition": "Syndrome caractérisé par la défaillance simultanée de plusieurs organes vitaux, souvent suite à un choc septique.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance multiorgane"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "insuffisance respiratoire"
+      ],
+      "description": "Complication grave des états septiques, souvent fatale si non traitée.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de mauvais pronostic nécessitant une prise en charge intensive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Systemic Inflammatory Response Syndrome",
+      "definition": "Réponse inflammatoire systémique non spécifique à une infection, caractérisée par des signes cliniques et biologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "SIRS"
+      ],
+      "related_terms": [
+        "sepsis",
+        "sepsis sévère"
+      ],
+      "description": "Peut être causé par des infections, des traumatismes, des brûlures, etc.",
+      "expansion": "Syndrome de Réponse Inflammatoire Systémique",
+      "clinical_significance": "Indicateur précoce de sepsis potentiel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sepsis sévère",
+      "definition": "Sepsis compliqué par une ou plusieurs dysfonctions d'organes, nécessitant une prise en charge intensive.",
+      "category": "pathologie",
+      "synonyms": [
+        "sepsis grave"
+      ],
+      "related_terms": [
+        "sepsis",
+        "choc septique"
+      ],
+      "description": "Stade avancé du sepsis avec risque élevé de mortalité.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de mauvais pronostic nécessitant une surveillance étroite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie",
+      "definition": "Altération diffuse du fonctionnement cérébral, souvent due à une cause métabolique ou toxique.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie métabolique"
+      ],
+      "related_terms": [
+        "syndrome confusionnel",
+        "coma"
+      ],
+      "description": "Peut être observée dans les états septiques graves.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de dysfonctionnement cérébral nécessitant une évaluation neurologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PaO2/FiO2",
+      "definition": "Rapport entre la pression partielle d'oxygène dans le sang artériel et la fraction d'oxygène inspiré, utilisé pour évaluer la fonction respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "rapport de PaO2/FiO2"
+      ],
+      "related_terms": [
+        "syndrome de détresse respiratoire aiguë",
+        "hypoxémie"
+      ],
+      "description": "Indicateur de la capacité des poumons à oxygéner le sang.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour diagnostiquer et suivre les syndromes de détresse respiratoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperbilirubinémie",
+      "definition": "Augmentation du taux de bilirubine dans le sang, souvent indicative d'une dysfonction hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperbilirubinemia"
+      ],
+      "related_terms": [
+        "ictère",
+        "insuffisance hépatique"
+      ],
+      "description": "Peut être observée dans les états septiques graves.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de dysfonctionnement hépatique nécessitant une évaluation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperlactatemie",
+      "definition": "Augmentation du taux de lactate dans le sang, souvent indicative d'une hypoperfusion tissulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperlactatemia"
+      ],
+      "related_terms": [
+        "acidose lactique",
+        "hypoxie tissulaire"
+      ],
+      "description": "Peut être observée dans les états de choc septique.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de mauvaise perfusion tissulaire nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "état de choc septique",
+      "definition": "État critique caractérisé par une hypotension persistante malgré un remplissage vasculaire adéquat, nécessitant l'utilisation de vasopresseurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "septic shock"
+      ],
+      "related_terms": [
+        "sepsis sévère",
+        "choc hypovolémique"
+      ],
+      "description": "Complication grave des infections sévères, souvent fatale si non traitée.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge intensive et rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entérobactéries",
+      "definition": "Famille de bactéries à Gram négatif, souvent impliquées dans les infections digestives et urinaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Enterobacteriaceae"
+      ],
+      "related_terms": [
+        "E. coli",
+        "Klebsiella"
+      ],
+      "description": "Fréquemment responsables d'infections nosocomiales et communautaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une antibiothérapie adaptée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Staphylococcus aureus méticilline résistant",
+      "definition": "Bactérie à Gram positif résistante à la méticilline, souvent impliquée dans les infections nosocomiales et communautaires.",
+      "category": "microbiologie",
+      "synonyms": [
+        "SARM",
+        "MRSA"
+      ],
+      "related_terms": [
+        "Staphylococcus aureus",
+        "infection à SARM"
+      ],
+      "description": "Fréquemment responsable d'infections graves nécessitant une antibiothérapie spécifique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite des mesures de prévention et de contrôle strictes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Clostridium difficile",
+      "definition": "Bactérie à Gram positif, souvent impliquée dans les infections nosocomiales, notamment la colite pseudo-membraneuse.",
+      "category": "microbiologie",
+      "synonyms": [
+        "C. difficile"
+      ],
+      "related_terms": [
+        "colite à Clostridium difficile",
+        "infection à C. difficile"
+      ],
+      "description": "Fréquemment responsable de diarrhées sévères chez les patients hospitalisés.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une antibiothérapie spécifique et des mesures de prévention strictes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Candida",
+      "definition": "Genre de levures, souvent impliquées dans les infections fongiques, notamment les candidoses.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Candida spp."
+      ],
+      "related_terms": [
+        "candidose",
+        "infection à Candida"
+      ],
+      "description": "Fréquemment responsables d'infections nosocomiales et communautaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une antifongothérapie adaptée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BMR",
+      "definition": "Bactéries multirésistantes, résistantes à plusieurs classes d'antibiotiques, souvent impliquées dans les infections nosocomiales.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bactéries multirésistantes"
+      ],
+      "related_terms": [
+        "infection nosocomiale",
+        "antibiorésistance"
+      ],
+      "description": "Nécessite une antibiothérapie adaptée et des mesures de prévention strictes.",
+      "expansion": "Bactéries Multirésistantes",
+      "clinical_significance": "Augmente le risque de complications et de mortalité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "b37c6746-00ea-4eb0-86b5-8fd2f1127fec",
+      "source_file": "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/États Septiques Graves/Courses/30 Les états septiques graves.md"
+  ],
+  "total_terms": 205
+}

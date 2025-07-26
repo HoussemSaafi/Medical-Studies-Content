@@ -1,0 +1,1336 @@
+{
+  "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+  "terms": [
+    {
+      "term": "méninges",
+      "definition": "Membranes protectrices qui enveloppent le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "Membranes méningées"
+      ],
+      "related_terms": [
+        "Dure-mère",
+        "Arachnoïde",
+        "Pie-mère"
+      ],
+      "description": "Les méninges comprennent trois couches : la dure-mère, l'arachnoïde et la pie-mère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "liquide cérébro-spinal",
+      "definition": "Fluide clair et incolore qui circule dans les espaces sous-arachnoïdiens et les ventricules cérébraux.",
+      "category": "anatomie",
+      "synonyms": [
+        "Liquide céphalo-rachidien",
+        "LCS"
+      ],
+      "related_terms": [
+        "Ventricules cérébraux",
+        "Plexus choroïdes"
+      ],
+      "description": "Le LCS joue un rôle crucial dans la protection et le soutien du cerveau et de la moelle épinière.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ponction lombaire",
+      "definition": "Procédure médicale consistant à prélever du liquide cérébro-spinal à l'aide d'une aiguille insérée dans l'espace sous-arachnoïdien au niveau de la colonne lombaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "Rachicentèse"
+      ],
+      "related_terms": [
+        "Liquide cérébro-spinal",
+        "Méningite"
+      ],
+      "description": "La ponction lombaire est utilisée pour diagnostiquer des infections du système nerveux central, des hémorragies sous-arachnoïdiennes et d'autres conditions neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "lymphocytaire",
+      "definition": "Relatif aux lymphocytes, un type de globules blancs impliqués dans la réponse immunitaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Lymphocytes"
+      ],
+      "related_terms": [
+        "Leucocytes",
+        "Immunité"
+      ],
+      "description": "Les lymphocytes jouent un rôle clé dans l'immunité adaptative en reconnaissant et en répondant aux agents pathogènes spécifiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus West Nile",
+      "definition": "Arbovirus de la famille des Flaviviridae, transmis par les moustiques et responsable de méningites et d'encéphalites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VWN"
+      ],
+      "related_terms": [
+        "Flaviviridae",
+        "Encéphalite"
+      ],
+      "description": "Le virus West Nile est souvent associé à des épidémies en fin d'été et au début de l'automne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningocoque",
+      "definition": "Bactérie Gram négatif responsable de la méningite bactérienne.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Neisseria meningitidis"
+      ],
+      "related_terms": [
+        "Méningite",
+        "Bactériémie"
+      ],
+      "description": "Le méningocoque est une cause fréquente de méningite bactérienne, souvent associée à des épidémies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "streptocoque B",
+      "definition": "Bactérie Gram positif responsable de diverses infections, y compris la méningite néonatale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Streptococcus agalactiae"
+      ],
+      "related_terms": [
+        "Méningite",
+        "Infections néonatales"
+      ],
+      "description": "Le streptocoque B est une cause fréquente de méningite néonatale et de septicémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "Escherichia coli K1",
+      "definition": "Souche spécifique d'Escherichia coli, une bactérie Gram-négative, souvent trouvée dans la flore intestinale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "E. coli K1"
+      ],
+      "related_terms": [
+        "Escherichia coli",
+        "flore intestinale"
+      ],
+      "description": "Cette souche est particulièrement associée aux infections néonatales, y compris les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Listeria monocytogenes",
+      "definition": "Bactérie Gram-positive responsable de la listériose, une infection pouvant causer des méningites, surtout chez les nouveau-nés et les personnes immunodéprimées.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "listériose"
+      ],
+      "description": "Cette bactérie est particulièrement dangereuse pour les nouveau-nés et les personnes âgées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "N. meningitidis",
+      "definition": "Bactérie Gram-négative responsable de la méningite à méningocoque, une infection potentiellement mortelle.",
+      "category": "microbiologie",
+      "synonyms": [
+        "méningocoque"
+      ],
+      "related_terms": [
+        "Neisseria meningitidis"
+      ],
+      "description": "Le méningocoque est une cause fréquente de méningite bactérienne, surtout chez les enfants et les jeunes adultes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brèche dure-mérienne",
+      "definition": "Ouverture anormale entre la dure-mère et les structures environnantes, souvent due à un traumatisme ou une intervention chirurgicale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "dure-mère",
+        "traumatisme crânien"
+      ],
+      "description": "Une brèche dure-mérienne peut prédisposer à des infections du système nerveux central, y compris les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dérivation ventriculaire",
+      "definition": "Dispositif chirurgical utilisé pour drainer le liquide céphalo-rachidien des ventricules cérébraux vers une autre partie du corps.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ventricules cérébraux",
+        "liquide céphalo-rachidien"
+      ],
+      "description": "L'implantation d'une dérivation ventriculaire peut entraîner des complications infectieuses, y compris les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite récurrente",
+      "definition": "Forme de méningite qui se répète à plusieurs reprises, souvent due à une brèche ostéoméningée ou un déficit immunitaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "brèche ostéoméningée"
+      ],
+      "description": "La méningite récurrente est souvent associée à des anomalies anatomiques ou des déficits immunitaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brèche ostéoméningée",
+      "definition": "Ouverture anormale entre l'os et les méninges, souvent due à un traumatisme ou une malformation congénitale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "méninges",
+        "traumatisme"
+      ],
+      "description": "Une brèche ostéoméningée peut prédisposer à des infections récurrentes du système nerveux central, y compris les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit en complément",
+      "definition": "Déficit immunitaire dû à une insuffisance des protéines du complément, un système de défense immunitaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "complément",
+        "déficit immunitaire"
+      ],
+      "description": "Un déficit en complément prédispose aux infections à germes encapsulés, y compris les méningites à méningocoque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningites infectieuses",
+      "definition": "Infections des méninges causées par des bactéries, virus, parasites ou champignons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "infection"
+      ],
+      "description": "Les méningites infectieuses peuvent être causées par divers agents pathogènes et varient en gravité et en traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "listériose",
+      "definition": "Infection causée par Listeria monocytogenes, pouvant entraîner des méningites, surtout chez les nouveau-nés et les personnes immunodéprimées.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Listeria monocytogenes"
+      ],
+      "description": "La listériose est une infection grave qui peut causer des méningites, surtout chez les populations vulnérables.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningites purulentes",
+      "definition": "Forme de méningite caractérisée par une inflammation purulente des méninges, souvent causée par des bactéries pyogènes.",
+      "category": "pathologie",
+      "synonyms": [
+        "MP"
+      ],
+      "related_terms": [
+        "méningite bactérienne",
+        "purulente"
+      ],
+      "description": "Les méningites purulentes sont souvent causées par des bactéries pyogènes et nécessitent un traitement antibiotique rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ceinture méningitique",
+      "definition": "Région géographique en Afrique sub-saharienne où l'incidence des méningites à méningocoque est particulièrement élevée.",
+      "category": "épidémiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Afrique sub-saharienne",
+        "méningite à méningocoque"
+      ],
+      "description": "La ceinture méningitique est une région où les épidémies de méningite à méningocoque sont fréquentes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalosporines de 3ème génération",
+      "definition": "Classe d'antibiotiques bêta-lactamines utilisés pour traiter diverses infections bactériennes, y compris les méningites.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "C3G"
+      ],
+      "related_terms": [
+        "antibiotiques",
+        "bêta-lactamines"
+      ],
+      "description": "Les céphalosporines de 3ème génération sont souvent utilisées pour traiter les méningites bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signe de Brudzinski",
+      "definition": "Signe clinique de raideur méningée où la flexion passive de la nuque entraîne la flexion involontaire des membres inférieurs.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "raideur méningée",
+        "signe clinique"
+      ],
+      "description": "Le signe de Brudzinski est un indicateur de raideur méningée et est souvent présent dans les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signe de Kernig",
+      "definition": "Signe clinique de raideur méningée où il est impossible de fléchir les cuisses sur le tronc sans fléchir les genoux.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "raideur méningée",
+        "signe clinique"
+      ],
+      "description": "Le signe de Kernig est un indicateur de raideur méningée et est souvent présent dans les méningites.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LCS",
+      "definition": "Liquide céphalo-rachidien, un fluide clair et incolore qui circule dans le système nerveux central et protège le cerveau et la moelle épinière.",
+      "category": "anatomie",
+      "synonyms": [
+        "liquide céphalo-rachidien"
+      ],
+      "related_terms": [
+        "ponction lombaire",
+        "méningite"
+      ],
+      "description": "Le LCS est analysé pour diagnostiquer diverses conditions neurologiques, y compris les infections et les hémorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GSG",
+      "definition": "Glasgow Coma Scale, une échelle utilisée pour évaluer le niveau de conscience d'un patient, notamment après un traumatisme crânien.",
+      "category": "classification",
+      "synonyms": [
+        "Glasgow Coma Scale"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "état de conscience"
+      ],
+      "description": "Le GSG évalue la réponse oculaire, verbale et motrice pour déterminer la gravité de l'état neurologique du patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéinorachie",
+      "definition": "Concentration de protéines dans le liquide céphalo-rachidien (LCS).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "LCS",
+        "glycorachie"
+      ],
+      "description": "Une protéinorachie élevée peut indiquer une infection, une inflammation ou une hémorragie dans le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "0,20 g/l à 0,40 g/l pour l'adulte, ≤ 1,2 g/l pour le nouveau-né",
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycorachie",
+      "definition": "Concentration de glucose dans le liquide céphalo-rachidien (LCS).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "LCS",
+        "protéinorachie"
+      ],
+      "description": "Une glycorachie basse peut indiquer une infection bactérienne ou fongique du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "≥ à la moitié de la glycémie, soit 0,50 à 0,60 g/l ou 2,8 à 3,3 mmol/l",
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorurorachie",
+      "definition": "Concentration de chlorure dans le liquide céphalo-rachidien (LCS).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "LCS",
+        "protéinorachie",
+        "glycorachie"
+      ],
+      "description": "La chlorurorachie est généralement mesurée dans le cadre de l'analyse biochimique du LCS.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "120 mmol/l",
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloration de Gram",
+      "definition": "Technique de coloration utilisée pour différencier les bactéries en Gram positif et Gram négatif.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bactéries",
+        "méningite"
+      ],
+      "description": "La coloration de Gram est essentielle pour l'identification rapide des bactéries dans les échantillons cliniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloration de Ziehl-Nielsen",
+      "definition": "Technique de coloration utilisée pour identifier les bactéries acido-alcoolo-résistantes, notamment Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose",
+        "bactéries"
+      ],
+      "description": "La coloration de Ziehl-Nielsen est utilisée pour diagnostiquer la tuberculose et d'autres infections mycobactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cryptocoque",
+      "definition": "Champignon pathogène responsable de la cryptococcose, une infection fongique qui peut affecter les poumons et le système nerveux central.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cryptococcose",
+        "méningite"
+      ],
+      "description": "Le cryptocoque est un champignon encapsulé qui peut causer des infections graves chez les personnes immunodéprimées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Neisseria meningitidis",
+      "definition": "Bactérie Gram négatif responsable de la méningite bactérienne.",
+      "category": "microbiologie",
+      "synonyms": [
+        "méningocoque"
+      ],
+      "related_terms": [
+        "méningite",
+        "LCS"
+      ],
+      "description": "Neisseria meningitidis est une bactérie hautement contagieuse qui peut causer des infections graves du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Streptococcus pneumoniæ",
+      "definition": "Bactérie Gram positif responsable de la pneumonie et de la méningite.",
+      "category": "microbiologie",
+      "synonyms": [
+        "pneumocoque"
+      ],
+      "related_terms": [
+        "méningite",
+        "pneumonie"
+      ],
+      "description": "Streptococcus pneumoniæ est une bactérie encapsulée qui peut causer des infections respiratoires et neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hæmophilus influenzæ",
+      "definition": "Bactérie Gram négatif responsable de diverses infections, y compris la méningite et la pneumonie.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "pneumonie"
+      ],
+      "description": "Hæmophilus influenzæ est une bactérie qui peut causer des infections graves chez les enfants et les adultes immunodéprimés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CMI",
+      "definition": "Concentration minimale inhibitrice, la plus faible concentration d'un antibiotique nécessaire pour inhiber la croissance visible d'une bactérie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "concentration minimale inhibitrice"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "bactéries"
+      ],
+      "description": "La CMI est utilisée pour déterminer la sensibilité des bactéries aux antibiotiques et pour guider le traitement des infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ensemencement",
+      "definition": "Processus de culture de micro-organismes sur des milieux de croissance pour les identifier et les étudier.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bactéries",
+        "culture"
+      ],
+      "description": "L'ensemencement est une technique essentielle en microbiologie pour l'identification des agents pathogènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lowenstein",
+      "definition": "Milieu de culture utilisé pour l'isolement et la croissance des mycobactéries, notamment Mycobacterium tuberculosis.",
+      "category": "microbiologie",
+      "synonyms": [
+        "milieu de Lowenstein"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "mycobactéries"
+      ],
+      "description": "Le milieu de Lowenstein est utilisé pour le diagnostic de la tuberculose et d'autres infections mycobactériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sabouraud",
+      "definition": "Milieu de culture utilisé pour l'isolement et la croissance des champignons pathogènes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "milieu de Sabouraud"
+      ],
+      "related_terms": [
+        "champignons",
+        "culture"
+      ],
+      "description": "Le milieu de Sabouraud est utilisé pour le diagnostic des infections fongiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CIE",
+      "definition": "Technique de contre-immuno-électrophorèse, une méthode de laboratoire utilisée pour détecter des antigènes solubles dans des échantillons biologiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "contre-immuno-électrophorèse"
+      ],
+      "related_terms": [
+        "antigènes",
+        "méningite"
+      ],
+      "description": "La CIE est utilisée pour le diagnostic rapide de certaines infections bactériennes, notamment la méningite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite décapitée",
+      "definition": "Forme de méningite bactérienne où les symptômes cliniques sont atténués en raison d'un traitement antibiotique précoce.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "antibiotique"
+      ],
+      "description": "La méningite décapitée peut être diagnostiquée par des tests de laboratoire, notamment la PCR, malgré l'absence de signes cliniques typiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite virale",
+      "definition": "Infection du système nerveux central causée par un virus, généralement moins grave que la méningite bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "virus"
+      ],
+      "description": "La méningite virale est souvent diagnostiquée par l'analyse du LCS et la recherche de virus ou de leurs génomes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite à liquide clair",
+      "definition": "Forme de méningite caractérisée par un liquide céphalo-rachidien clair, souvent causée par des virus ou des bactéries spécifiques comme la listériose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "LCS"
+      ],
+      "description": "La méningite à liquide clair peut être virale ou bactérienne et nécessite une analyse approfondie du LCS pour le diagnostic.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite puriforme aseptique",
+      "definition": "Forme de méningite caractérisée par un liquide céphalo-rachidien trouble mais sans preuve de bactéries à l'examen direct ou à la culture.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "LCS"
+      ],
+      "description": "La méningite puriforme aseptique peut être causée par des virus ou d'autres agents pathogènes non bactériens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus des oreillons",
+      "definition": "Virus responsable des oreillons, une maladie infectieuse caractérisée par une inflammation des glandes salivaires.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite ourlienne",
+        "parotidite",
+        "sousmaxillite"
+      ],
+      "description": "La méningite ourlienne survient par épidémies, surtout au printemps, et peut être concomitante des autres manifestations des oreillons.",
+      "expansion": null,
+      "clinical_significance": "Peut précéder les atteintes salivaires ou rester isolée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arbovirus neurotropes",
+      "definition": "Groupe de virus transmis par des arthropodes et capables d'infecter le système nerveux central.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "virus West-Nile",
+        "flavivirus"
+      ],
+      "description": "Les arbovirus neurotropes sont dominés par le virus West-Nile, transmis à l'homme par la piqûre d'un moustique infecté.",
+      "expansion": null,
+      "clinical_significance": "Évolue par poussée épidémique suite à une saison chaude et pluvieuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus West-Nile",
+      "definition": "Flavivirus transmis à l'homme par la piqûre d'un moustique infecté, responsable de méningites et d'encéphalites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "flavivirus"
+      ],
+      "related_terms": [
+        "arbovirus neurotropes",
+        "méningite",
+        "encéphalite"
+      ],
+      "description": "Le virus West-Nile est transmis à l'homme par la piqûre d'un moustique infecté suite à un repas sanguin sur un oiseau porteur du virus.",
+      "expansion": null,
+      "clinical_significance": "Évolue par poussée épidémique suite à une saison chaude et pluvieuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningo-encéphalite herpétique",
+      "definition": "Inflammation méningée et cérébrale causée par la réplication du virus herpes simplex (HSV1 ou 2) au niveau des neurones.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "HSV1",
+        "HSV2",
+        "encéphalite",
+        "névrose"
+      ],
+      "description": "La méningo-encéphalite herpétique est une pathologie grave associée à une morbi-mortalité élevée, responsable d'une nécrose neuronale.",
+      "expansion": null,
+      "clinical_significance": "Seule encéphalite virale bénéficiant d'un traitement efficace.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningite tuberculeuse",
+      "definition": "Infection du système nerveux central causée par Mycobacterium tuberculosis, caractérisée par une inflammation des méninges.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose",
+        "méningite"
+      ],
+      "description": "La méningite tuberculeuse est rare mais grave, se manifestant par un syndrome méningé fébrile d'installation progressive avec des signes neurologiques.",
+      "expansion": null,
+      "clinical_significance": "La cytologie du LCS montre une prédominance lymphocytaire ou une formule panachée avec une forte élévation des protéines et une baisse du glucose et des chlorures.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie de Behçet",
+      "definition": "Maladie inflammatoire chronique caractérisée par des ulcères buccaux et génitaux, ainsi que des lésions oculaires et cutanées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "sarcoïdose",
+        "lupus"
+      ],
+      "description": "La maladie de Behçet peut causer des méningites subaiguës ou chroniques.",
+      "expansion": null,
+      "clinical_significance": "Maladie inflammatoire chronique avec diverses manifestations cliniques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Plasmodium falciparum",
+      "definition": "Protozoaire parasite responsable de la forme la plus grave de paludisme, souvent associée à des complications sévères et potentiellement mortelles.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Plasmodium"
+      ],
+      "related_terms": [
+        "paludisme",
+        "malaria"
+      ],
+      "description": "Plasmodium falciparum est le parasite responsable de la forme la plus sévère de paludisme, caractérisée par des crises de fièvre, des anémies et des complications neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Parasite responsable de la forme la plus grave de paludisme, avec un risque élevé de complications sévères.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Plasmodium falciparum",
+        "paludisme"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Borrelia burgdorferi",
+      "definition": "Bactérie spirochète responsable de la maladie de Lyme, une infection transmise par les tiques et pouvant affecter plusieurs systèmes organiques.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Borrelia"
+      ],
+      "related_terms": [
+        "maladie de Lyme",
+        "borréliose"
+      ],
+      "description": "Borrelia burgdorferi est la bactérie responsable de la maladie de Lyme, caractérisée par une éruption cutanée en forme de cible et pouvant entraîner des complications neurologiques et articulaires.",
+      "expansion": null,
+      "clinical_significance": "Agent pathogène responsable de la maladie de Lyme, avec un risque de complications neurologiques et articulaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Borrelia burgdorferi",
+        "maladie de Lyme"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coccidioïdomycose",
+      "definition": "Infection fongique causée par Coccidioides immitis ou Coccidioides posadasii, souvent transmise par inhalation de spores présentes dans le sol des régions arides.",
+      "category": "pathologie",
+      "synonyms": [
+        "Coccidioides"
+      ],
+      "related_terms": [
+        "coccidioïdomycose pulmonaire",
+        "coccidioïdomycose disséminée"
+      ],
+      "description": "La coccidioïdomycose est une infection fongique qui peut affecter les poumons et d'autres organes, entraînant des symptômes variés allant de la fièvre et de la toux à des complications graves.",
+      "expansion": null,
+      "clinical_significance": "Infection fongique pouvant entraîner des complications pulmonaires et systémiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "coccidioïdomycose",
+        "Coccidioides"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Virus de la chorioméningite lymphocytaire",
+      "definition": "Virus responsable de la chorioméningite lymphocytaire, une infection virale pouvant entraîner une méningite aseptique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "LCMV"
+      ],
+      "related_terms": [
+        "chorioméningite lymphocytaire",
+        "méningite aseptique"
+      ],
+      "description": "Le virus de la chorioméningite lymphocytaire est un agent pathogène qui peut causer une méningite aseptique, caractérisée par une inflammation des méninges et une présence de lymphocytes dans le liquide céphalo-rachidien.",
+      "expansion": null,
+      "clinical_significance": "Virus responsable de la chorioméningite lymphocytaire, une infection pouvant entraîner une méningite aseptique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "virus de la chorioméningite lymphocytaire",
+        "LCMV"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sécrétion inappropriée d'ADH",
+      "definition": "Trouble caractérisé par une sécrétion excessive d'hormone antidiurétique (ADH), entraînant une rétention d'eau et une hyponatrémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "SIADH"
+      ],
+      "related_terms": [
+        "hormone antidiurétique",
+        "hyponatrémie"
+      ],
+      "description": "La sécrétion inappropriée d'ADH est un trouble caractérisé par une sécrétion excessive d'hormone antidiurétique, entraînant une rétention d'eau et une hyponatrémie.",
+      "expansion": null,
+      "clinical_significance": "Trouble caractérisé par une sécrétion excessive d'hormone antidiurétique, entraînant une rétention d'eau et une hyponatrémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sécrétion inappropriée d'ADH",
+        "SIADH"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Listeria",
+      "definition": "Genre de bactéries à Gram positif, responsable de la listériose, une infection potentiellement grave.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Listeria monocytogenes"
+      ],
+      "related_terms": [
+        "listériose",
+        "méningite"
+      ],
+      "description": "Listeria est une bactérie qui peut causer des infections graves, y compris des méningites, surtout chez les personnes immunodéprimées.",
+      "expansion": null,
+      "clinical_significance": "Agent pathogène important dans les infections chez les personnes immunodéprimées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventriculite",
+      "definition": "Inflammation des ventricules cérébraux, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "infection cérébrale"
+      ],
+      "description": "La ventriculite peut compliquer le traitement des infections du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications des infections cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "suppuration intra-cérébrale",
+      "definition": "Formation de pus à l'intérieur du cerveau, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "abcès cérébral"
+      ],
+      "related_terms": [
+        "méningite",
+        "infection bactérienne"
+      ],
+      "description": "La suppuration intra-cérébrale peut causer des symptômes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des infections cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cloisonnement méningé",
+      "definition": "Formation de cloisons fibreuses dans les méninges, souvent suite à une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "infection cérébrale"
+      ],
+      "description": "Le cloisonnement méningé peut compliquer le traitement des infections du système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications des infections cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrocéphalie",
+      "definition": "Accumulation excessive de liquide céphalo-rachidien dans le cerveau, causant une dilatation des ventricules cérébraux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "infection cérébrale"
+      ],
+      "description": "L'hydrocéphalie peut causer des symptômes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des complications des infections cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularite cérébrale",
+      "definition": "Inflammation des vaisseaux sanguins du cerveau, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasculite cérébrale"
+      ],
+      "related_terms": [
+        "méningite",
+        "infection cérébrale"
+      ],
+      "description": "La vascularite cérébrale peut causer des symptômes neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et le traitement des complications des infections cérébrales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "troubles hydro-électrolytiques",
+      "definition": "Déséquilibres dans les électrolytes et l'eau corporelle, souvent dus à des maladies ou des traitements médicaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "déséquilibres électrolytiques"
+      ],
+      "related_terms": [
+        "méningite",
+        "infection cérébrale"
+      ],
+      "description": "Les troubles hydro-électrolytiques peuvent compliquer le traitement des infections.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des complications des infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méningisme",
+      "definition": "Syndrome clinique caractérisé par des signes méningés sans infection réelle des méninges.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "méningite",
+        "LCS"
+      ],
+      "description": "Le méningisme peut être observé dans diverses maladies fébriles infectieuses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic différentiel des infections du système nerveux central.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pénicillines A",
+      "definition": "Classe d'antibiotiques bêta-lactamines, souvent utilisés pour traiter les infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "pénicillines"
+      ],
+      "related_terms": [
+        "amoxicilline",
+        "antibiothérapie"
+      ],
+      "description": "Les pénicillines A sont des antibiotiques bactéricides utilisés pour traiter diverses infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des méningites bactériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "céphalosporines de troisième génération",
+      "definition": "Classe d'antibiotiques bêta-lactamines, souvent utilisés pour traiter les infections bactériennes graves.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "C3G"
+      ],
+      "related_terms": [
+        "céfotaxime",
+        "ceftriaxone",
+        "antibiothérapie"
+      ],
+      "description": "Les céphalosporines de troisième génération sont des antibiotiques bactéricides utilisés pour traiter diverses infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des méningites bactériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "E coli",
+      "definition": "Bactérie à Gram négatif, souvent responsable de méningites néonatales.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Escherichia coli"
+      ],
+      "related_terms": [
+        "méningite",
+        "antibiothérapie"
+      ],
+      "description": "E coli est une bactérie encapsulée qui peut causer des infections graves, y compris des méningites néonatales.",
+      "expansion": null,
+      "clinical_significance": "Principal agent causal de méningites néonatales, nécessitant une antibiothérapie rapide et adaptée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "B lactamines",
+      "definition": "Classe d'antibiotiques caractérisée par la présence d'un noyau bêta-lactame, incluant les pénicillines et les céphalosporines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-lactamines"
+      ],
+      "related_terms": [
+        "antibiothérapie",
+        "pénicillines",
+        "céphalosporines"
+      ],
+      "description": "Les B lactamines sont des antibiotiques bactéricides utilisés pour traiter diverses infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Important dans le traitement des méningites bactériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram +",
+      "definition": "Classification des bactéries basée sur la coloration de Gram, où les bactéries Gram positif retiennent le colorant violet de gentiane.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Gram positif"
+      ],
+      "related_terms": [
+        "Gram négatif",
+        "coloration de Gram"
+      ],
+      "description": "Les bactéries Gram positif ont une paroi cellulaire épaisse et retiennent le colorant violet de gentiane lors de la coloration de Gram.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Gram positif",
+        "coloration de Gram"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram -",
+      "definition": "Classification des bactéries basée sur la coloration de Gram, où les bactéries Gram négatif ne retiennent pas le colorant violet de gentiane.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Gram négatif"
+      ],
+      "related_terms": [
+        "Gram positif",
+        "coloration de Gram"
+      ],
+      "description": "Les bactéries Gram négatif ont une paroi cellulaire fine et ne retiennent pas le colorant violet de gentiane lors de la coloration de Gram.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Gram négatif",
+        "coloration de Gram"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Asplénie",
+      "definition": "Absence fonctionnelle de la rate, souvent due à une splénectomie ou à une maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "asplénie"
+      ],
+      "related_terms": [
+        "splénectomie",
+        "rate"
+      ],
+      "description": "L'asplénie augmente le risque d'infections graves, notamment par des bactéries encapsulées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Asplénie",
+        "splénectomie"
+      ],
+      "subject_id": "5331152a-4408-42a0-a3c0-5d44b45e2866",
+      "source_file": "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Infectieux/Méningites Bactériennes & Virales/Courses/52 Méningites bactériennes et virales 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM.md"
+  ],
+  "total_terms": 68
+}

@@ -1,0 +1,2947 @@
+{
+  "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+  "terms": [
+    {
+      "term": "tub digestif",
+      "definition": "Le tube digestif, ou tractus gastro-intestinal, est l'ensemble des organes creux qui permettent la digestion et l'absorption des aliments, allant de la bouche à l'anus.",
+      "category": "anatomie",
+      "synonyms": [
+        "tractus gastro-intestinal",
+        "appareil digestif"
+      ],
+      "related_terms": [
+        "œsophage",
+        "estomac",
+        "intestin grêle",
+        "colon"
+      ],
+      "description": "Le tube digestif est essentiel pour le processus de digestion et d'absorption des nutriments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urgence médico-chirurgicale",
+      "definition": "Une situation médicale nécessitant une intervention chirurgicale immédiate pour éviter des complications graves ou la mort.",
+      "category": "classification",
+      "synonyms": [
+        "urgence chirurgicale"
+      ],
+      "related_terms": [
+        "urgence vitale",
+        "intervention chirurgicale"
+      ],
+      "description": "Les occlusions intestinales aiguës sont des urgences médico-chirurgicales car elles peuvent rapidement évoluer vers des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "OIA",
+      "definition": "Occlusion Intestinale Aiguë, une obstruction soudaine et complète du transit intestinal.",
+      "category": "acronyme",
+      "synonyms": [
+        "occlusion intestinale"
+      ],
+      "related_terms": [
+        "occlusion mécanique",
+        "occlusion fonctionnelle"
+      ],
+      "description": "Les OIA nécessitent une intervention rapide pour éviter des complications graves.",
+      "expansion": "Occlusion Intestinale Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléus biliaire",
+      "definition": "Une occlusion intestinale causée par un calcul biliaire qui passe à travers une fistule bilio-digestive.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion biliaire"
+      ],
+      "related_terms": [
+        "calcul biliaire",
+        "fistule bilio-digestive"
+      ],
+      "description": "L'iléus biliaire est souvent causé par un gros calcul biliaire qui obstrue l'intestin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phytobézoard",
+      "definition": "Une masse de matériel végétal indigeste qui se forme dans le tractus gastro-intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "bézoard végétal"
+      ],
+      "related_terms": [
+        "trichobézoard",
+        "fécalome"
+      ],
+      "description": "Les phytobézoards sont souvent trouvés chez les patients édentés qui consomment des aliments riches en cellulose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trichobézoard",
+      "definition": "Une masse de cheveux ingérés qui se forme dans le tractus gastro-intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "bézoard de cheveux"
+      ],
+      "related_terms": [
+        "phytobézoard",
+        "fécalome"
+      ],
+      "description": "Les trichobézoards sont souvent trouvés chez les patients souffrant de troubles mentaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fécalome",
+      "definition": "Une masse dure de selles accumulées dans le rectum ou le côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "impaction fécale"
+      ],
+      "related_terms": [
+        "constipation",
+        "occlusion intestinale"
+      ],
+      "description": "Les fécalomes peuvent causer une occlusion intestinale et nécessitent souvent une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MICI",
+      "definition": "Maladies Inflammatoires Chroniques de l'Intestin, incluant la maladie de Crohn et la rectocolite hémorragique.",
+      "category": "acronyme",
+      "synonyms": [
+        "maladies inflammatoires de l'intestin"
+      ],
+      "related_terms": [
+        "maladie de Crohn",
+        "rectocolite hémorragique"
+      ],
+      "description": "Les MICI peuvent causer des sténoses inflammatoires et des occlusions intestinales.",
+      "expansion": "Maladies Inflammatoires Chroniques de l'Intestin",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NN",
+      "definition": "Nouveau-né, un bébé âgé de moins de 28 jours.",
+      "category": "acronyme",
+      "synonyms": [
+        "nouveau-né"
+      ],
+      "related_terms": [
+        "nourrisson",
+        "prématuré"
+      ],
+      "description": "Les atrésies intestinales sont souvent congénitales et affectent les nouveau-nés.",
+      "expansion": "Nouveau-né",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinose péritonéale",
+      "definition": "La dissémination de cellules cancéreuses dans le péritoine, souvent associée à des cancers de l'ovaire ou du côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "carcinose péritonéale"
+      ],
+      "related_terms": [
+        "cancer de l'ovaire",
+        "cancer du côlon"
+      ],
+      "description": "La carcinose péritonéale peut causer des occlusions intestinales par compression extrinsèque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hernie pariétale",
+      "definition": "Une hernie qui se produit à travers une ouverture dans la paroi abdominale.",
+      "category": "pathologie",
+      "synonyms": [
+        "hernie abdominale"
+      ],
+      "related_terms": [
+        "hernie inguinale",
+        "hernie crurale"
+      ],
+      "description": "Les hernies pariétales peuvent causer des occlusions intestinales par étranglement herniaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hernie interne",
+      "definition": "Une hernie qui se produit à travers une ouverture dans les structures internes de l'abdomen.",
+      "category": "pathologie",
+      "synonyms": [
+        "hernie intrapéritonéale"
+      ],
+      "related_terms": [
+        "hernie de Winslow",
+        "hernie para-duodénale"
+      ],
+      "description": "Les hernies internes sont moins fréquentes mais peuvent causer des occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volvulus",
+      "definition": "Une rotation anormale de l'intestin autour de son axe mésentérique, causant une occlusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "volvulus intestinal"
+      ],
+      "related_terms": [
+        "volvulus du sigmoïde",
+        "volvulus du cæcum"
+      ],
+      "description": "Le volvulus peut causer une occlusion intestinale et une ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AII",
+      "definition": "Invagination Intestinale Aiguë, une condition où un segment intestinal se télescope dans un autre.",
+      "category": "acronyme",
+      "synonyms": [
+        "invagination intestinale"
+      ],
+      "related_terms": [
+        "intussusception",
+        "télescopage intestinal"
+      ],
+      "description": "L'AII peut causer une occlusion intestinale et nécessite souvent une intervention chirurgicale.",
+      "expansion": "Invagination Intestinale Aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valvule iléo-cæcale",
+      "definition": "Une valve située entre l'iléon et le cæcum, régulant le passage du contenu intestinal.",
+      "category": "anatomie",
+      "synonyms": [
+        "valve iléo-cæcale"
+      ],
+      "related_terms": [
+        "iléon",
+        "cæcum"
+      ],
+      "description": "La valvule iléo-cæcale joue un rôle crucial dans la régulation du transit intestinal.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite stercorale",
+      "definition": "Une inflammation du péritoine causée par la perforation du côlon et la libération de matières fécales dans la cavité abdominale.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite fécale"
+      ],
+      "related_terms": [
+        "péritonite",
+        "perforation intestinale"
+      ],
+      "description": "La péritonite stercorale est une complication grave des occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "translocation bactérienne",
+      "definition": "Le passage de bactéries de l'intestin vers d'autres sites, souvent causant une infection systémique.",
+      "category": "microbiologie",
+      "synonyms": [
+        "translocation bactérienne"
+      ],
+      "related_terms": [
+        "sepsis",
+        "infection systémique"
+      ],
+      "description": "La translocation bactérienne peut survenir en cas de distension intestinale et d'ischémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "météorisme",
+      "definition": "Accumulation excessive de gaz dans l'intestin, causant une distension abdominale.",
+      "category": "pathologie",
+      "synonyms": [
+        "ballonnement",
+        "distension abdominale"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "péristaltisme"
+      ],
+      "description": "Le météorisme peut être un signe d'occlusion intestinale ou d'autres troubles gastro-intestinaux.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une occlusion intestinale nécessitant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "distension abdominale",
+        "ballonnement intestinal"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bruits hydro-aériques",
+      "definition": "Sons produits par le mouvement des liquides et des gaz dans l'intestin, entendus à l'auscultation.",
+      "category": "physiologie",
+      "synonyms": [
+        "bruits intestinaux"
+      ],
+      "related_terms": [
+        "péristaltisme",
+        "auscultation"
+      ],
+      "description": "Les bruits hydro-aériques peuvent être absents ou présents de manière anormale en cas d'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": "Aide à évaluer la motilité intestinale et à diagnostiquer une occlusion.",
+      "normal_values": null,
+      "image_search_terms": [
+        "auscultation abdominale",
+        "bruits intestinaux"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusion par strangulation",
+      "definition": "Type d'occlusion intestinale où une boucle intestinale est étranglée, souvent par une bride ou une hernie, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion étranglée"
+      ],
+      "related_terms": [
+        "brides",
+        "hernie étranglée",
+        "ischémie intestinale"
+      ],
+      "description": "Nécessite une intervention chirurgicale urgente pour éviter la nécrose intestinale.",
+      "expansion": null,
+      "clinical_significance": "Condition chirurgicale urgente avec un risque élevé de complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "occlusion intestinale",
+        "ischémie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusion par obstruction",
+      "definition": "Type d'occlusion intestinale où le passage du contenu intestinal est bloqué par un obstacle mécanique.",
+      "category": "pathologie",
+      "synonyms": [
+        "occlusion mécanique"
+      ],
+      "related_terms": [
+        "tumeur sténosante",
+        "volvulus"
+      ],
+      "description": "Peut nécessiter une intervention chirurgicale si les signes de gravité sont présents.",
+      "expansion": null,
+      "clinical_significance": "Condition nécessitant une évaluation rapide et une intervention appropriée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "occlusion intestinale",
+        "obstruction intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "brides",
+      "definition": "Adhérences ou bandes de tissu fibreux qui peuvent se former après une chirurgie abdominale ou une inflammation.",
+      "category": "anatomie",
+      "synonyms": [
+        "adhérences"
+      ],
+      "related_terms": [
+        "occlusion par strangulation",
+        "hernie étranglée"
+      ],
+      "description": "Les brides peuvent causer des occlusions intestinales en étranglant une boucle intestinale.",
+      "expansion": null,
+      "clinical_significance": "Peuvent nécessiter une intervention chirurgicale pour sectionner les brides.",
+      "normal_values": null,
+      "image_search_terms": [
+        "adhérences intestinales",
+        "brides intestinales"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hernie étranglée",
+      "definition": "Hernie où une boucle intestinale est piégée et étranglée, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hernie incarcérée"
+      ],
+      "related_terms": [
+        "brides",
+        "occlusion par strangulation"
+      ],
+      "description": "Nécessite une intervention chirurgicale urgente pour éviter la nécrose intestinale.",
+      "expansion": null,
+      "clinical_significance": "Condition chirurgicale urgente avec un risque élevé de complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hernie étranglée",
+        "ischémie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeur sténosante",
+      "definition": "Tumeur qui cause une obstruction intestinale en rétrécissant le passage intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur obstructive"
+      ],
+      "related_terms": [
+        "occlusion par obstruction",
+        "résection intestinale"
+      ],
+      "description": "Nécessite souvent une résection intestinale pour traiter l'obstruction.",
+      "expansion": null,
+      "clinical_significance": "Condition nécessitant une évaluation et une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tumeur intestinale",
+        "obstruction intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volvulus du colon",
+      "definition": "Torsion du colon sur lui-même, causant une occlusion intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "volvulus colique"
+      ],
+      "related_terms": [
+        "sigmoïdectomie",
+        "colectomie"
+      ],
+      "description": "Nécessite une intervention chirurgicale pour détordre le colon et traiter l'occlusion.",
+      "expansion": null,
+      "clinical_significance": "Condition chirurgicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "volvulus du colon",
+        "sigmoïdectomie"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "invagination intestinale aiguë",
+      "definition": "Condition où une partie de l'intestin s'invagine dans une autre, causant une occlusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "intussusception"
+      ],
+      "related_terms": [
+        "résection intestinale",
+        "lavements aux hydrosolubles"
+      ],
+      "description": "Nécessite souvent une intervention chirurgicale pour traiter l'occlusion.",
+      "expansion": null,
+      "clinical_significance": "Condition nécessitant une évaluation et une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "invagination intestinale",
+        "intussusception"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ischémie muqueuse",
+      "definition": "Réduction de l'apport sanguin à la muqueuse intestinale, pouvant entraîner une nécrose.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie intestinale"
+      ],
+      "related_terms": [
+        "laparotomie",
+        "colonoscopie"
+      ],
+      "description": "Nécessite une intervention chirurgicale urgente pour éviter des complications.",
+      "expansion": null,
+      "clinical_significance": "Condition chirurgicale urgente avec un risque élevé de complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ischémie muqueuse",
+        "ischémie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perforation diastatique",
+      "definition": "Perforation de l'intestin due à une distension excessive, souvent en raison d'une occlusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "perforation intestinale"
+      ],
+      "related_terms": [
+        "laparotomie",
+        "sigmoïdectomie"
+      ],
+      "description": "Nécessite une intervention chirurgicale urgente pour traiter la perforation.",
+      "expansion": null,
+      "clinical_significance": "Condition chirurgicale urgente avec un risque élevé de complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "perforation intestinale",
+        "perforation diastatique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sigmoïdectomie",
+      "definition": "Résection chirurgicale du sigmoïde, souvent réalisée en cas de volvulus ou de tumeur sténosante.",
+      "category": "chirurgie",
+      "synonyms": [
+        "résection du sigmoïde"
+      ],
+      "related_terms": [
+        "volvulus du colon",
+        "tumeur sténosante"
+      ],
+      "description": "Intervention chirurgicale pour traiter les occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": "Intervention chirurgicale nécessitant une évaluation et une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sigmoïdectomie",
+        "résection du sigmoïde"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusion intestinale aiguë",
+      "definition": "Arrêt permanent et complet du transit intestinal au niveau d'un segment du tube digestif situé entre l'angle duodéno-jéjunal et l'anus.",
+      "category": "pathologie",
+      "synonyms": [
+        "OIA"
+      ],
+      "related_terms": [
+        "nécrose intestinale",
+        "hydro-électrolytiques"
+      ],
+      "description": "Urgence médico-chirurgicale fréquente caractérisée par le polymorphisme de sa présentation clinique et par la multiplicité de ses étiologies.",
+      "expansion": null,
+      "clinical_significance": "La nécrose et la perforation intestinales constituent la complication la plus redoutable et représentent la principale cause de mortalité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diagnostic positif",
+      "definition": "Diagnostic confirmant la présence d'une maladie ou d'une condition médicale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Établi à partir des données de l'examen clinique et de la radiographie de l'abdomen sans préparation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "étiologie",
+      "definition": "Étude des causes des maladies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Identifie la cause de l'occlusion intestinale aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "nécrose intestinale",
+      "definition": "Mort cellulaire d'une partie de l'intestin due à une interruption de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Complication grave des occlusions intestinales aiguës pouvant entraîner la mortalité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "duodéno-jéjunal",
+      "definition": "Relatif à la jonction entre le duodénum et le jéjunum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Point de référence anatomique pour localiser l'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "bilio-digestive",
+      "definition": "Relatif à la communication entre les voies biliaires et le système digestif.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "iléus biliaire"
+      ],
+      "description": "Fistule permettant la migration d'un calcul biliaire dans l'intestin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "bézoard",
+      "definition": "Masse de matière indigeste accumulée dans le système digestif.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "phytobézoard",
+        "trichobézoard"
+      ],
+      "description": "Peut causer une occlusion intestinale par obstruction.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "atrésie",
+      "definition": "Absence ou fermeture congénitale d'un orifice naturel.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Peut être limitée ou étendue du grêle chez le nouveau-né.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "adhérence",
+      "definition": "Bande de tissu fibreux qui se forme entre deux surfaces normalement séparées dans le corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Peut causer une occlusion intestinale par compression.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "bride",
+      "definition": "Bande de tissu fibreux qui se forme entre deux surfaces normalement séparées dans le corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "adhérence"
+      ],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Peut causer une occlusion intestinale par compression.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "ischémie intestinale",
+      "definition": "Réduction de l'apport sanguin à l'intestin, entraînant un manque d'oxygène.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Peut aboutir à des lésions graves de nécrose et de perforation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "étranglement herniaire",
+      "definition": "Incarération d'une anse intestinale avec son méso dans un anneau fibreux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Peut causer une occlusion intestinale par strangulation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "contractilité",
+      "definition": "Capacité des muscles à se contracter.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion fonctionnelle"
+      ],
+      "description": "Anomalie de contractilité de l'intestin sans atteinte anatomique vraie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "congestion passive",
+      "definition": "Accumulation de sang dans les vaisseaux sanguins, souvent due à une obstruction.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale aiguë"
+      ],
+      "description": "Stade où l'anse est distendue, ses parois sont amincies, blanchâtres et lisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "per-opératoire",
+      "definition": "Période pendant laquelle une intervention chirurgicale est en cours.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitalité",
+      "definition": "État de viabilité d'un tissu ou d'un organe, souvent évalué en chirurgie pour déterminer si une partie du corps peut être conservée.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résection intestinale",
+      "definition": "Procédure chirurgicale consistant à enlever une partie de l'intestin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcérations",
+      "definition": "Lésions ouvertes sur la peau ou les muqueuses, souvent causées par une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colon",
+      "definition": "Partie du gros intestin qui s'étend du cæcum au rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "grêle",
+      "definition": "Partie de l'intestin qui s'étend de l'estomac au gros intestin, composée du duodénum, du jéjunum et de l'iléon.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusions coliques",
+      "definition": "Obstruction du colon, empêchant le passage normal des matières fécales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valvule iléo-caecale",
+      "definition": "Valve située entre l'iléon et le cæcum, régulant le passage du contenu intestinal de l'intestin grêle au gros intestin.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distension colique",
+      "definition": "Gonflement anormal du colon dû à une accumulation de gaz ou de liquides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distension cæcale",
+      "definition": "Gonflement anormal du cæcum, la première partie du gros intestin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perforation cæcale",
+      "definition": "Rupture de la paroi du cæcum, permettant au contenu intestinal de s'échapper dans la cavité abdominale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "décompression rétrograde",
+      "definition": "Réduction de la pression dans une partie du corps en permettant le retour du contenu vers une région antérieure.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "strangulation",
+      "definition": "Compression excessive d'un organe ou d'un tissu, souvent due à une torsion ou une obstruction, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "occlusion intestinale aigüe",
+      "definition": "Obstruction soudaine et complète du passage intestinal, empêchant le transit normal des matières fécales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distension intestinale",
+      "definition": "Gonflement anormal de l'intestin dû à une accumulation de gaz ou de liquides.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularisation digestive",
+      "definition": "Système de vaisseaux sanguins qui apporte le sang aux organes du système digestif.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "retentissement général",
+      "definition": "Effet systémique d'une condition locale sur l'ensemble de l'organisme.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperpression",
+      "definition": "Augmentation anormale de la pression dans une cavité ou un organe.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastro-intestinale",
+      "definition": "Relatif à l'estomac et à l'intestin.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilio-pancréatique",
+      "definition": "Relatif à la bile et au pancréas.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exhémie plasmatique",
+      "definition": "Passage de plasma sanguin à travers les parois des vaisseaux sanguins dans les tissus environnants.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fermentations intestinales",
+      "definition": "Processus par lequel les bactéries intestinales décomposent les aliments non digérés, produisant des gaz.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aéro-liquidienne",
+      "definition": "Relatif à la présence de gaz et de liquides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plexus nerveux intra-muraux",
+      "definition": "Réseaux de fibres nerveuses situés dans les parois des organes, contrôlant les fonctions locales.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atonie intestinale",
+      "definition": "Perte de tonus musculaire de l'intestin, entraînant une diminution de la motilité intestinale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plexus nerveux péri-vasculaires",
+      "definition": "Réseaux de fibres nerveuses situés autour des vaisseaux sanguins, contrôlant les fonctions vasculaires locales.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stase lymphatique",
+      "definition": "Accumulation anormale de lymphe dans les tissus due à un blocage du système lymphatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "défaillance multiviscérale",
+      "definition": "Dysfonctionnement simultané de plusieurs organes vitaux, souvent en réponse à une maladie grave ou un traumatisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "météorisme abdominal",
+      "definition": "Accumulation anormale de gaz dans l'abdomen, causant une distension abdominale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péri-ombilical",
+      "definition": "Région autour du nombril, souvent utilisée pour décrire la localisation de douleurs abdominales.",
+      "category": "anatomie",
+      "synonyms": [
+        "péribuccal"
+      ],
+      "related_terms": [
+        "ombilic",
+        "abdomen"
+      ],
+      "description": "La douleur péri-ombilicale peut être un signe d'appendicite ou d'autres pathologies abdominales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ondulations péristaltiques",
+      "definition": "Mouvements ondulatoires des muscles intestinaux qui propulsent le contenu intestinal.",
+      "category": "physiologie",
+      "synonyms": [
+        "péristaltisme"
+      ],
+      "related_terms": [
+        "motilité intestinale",
+        "transit intestinal"
+      ],
+      "description": "Les ondulations péristaltiques sont essentielles pour le transit intestinal et peuvent être observées lors des paroxysmes douloureux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "contracture pariétale",
+      "definition": "Contraction involontaire et prolongée des muscles de la paroi abdominale, souvent signe de péritonite.",
+      "category": "pathologie",
+      "synonyms": [
+        "défense abdominale"
+      ],
+      "related_terms": [
+        "péritonite",
+        "abdomen aigu"
+      ],
+      "description": "La contracture pariétale est un signe clinique important indiquant une irritation péritonéale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiographie de l'abdomen sans préparation (ASP)",
+      "definition": "Examen radiologique de l'abdomen réalisé sans préparation spécifique, utilisé pour diagnostiquer des pathologies abdominales aiguës.",
+      "category": "imagerie",
+      "synonyms": [
+        "ASP"
+      ],
+      "related_terms": [
+        "radiographie abdominale",
+        "occlusion intestinale"
+      ],
+      "description": "L'ASP est souvent le premier examen réalisé en cas de suspicion d'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "niveaux hydro-aériques (NHA)",
+      "definition": "Interface visible sur une radiographie entre le liquide et le gaz dans les anses intestinales, souvent signe d'occlusion intestinale.",
+      "category": "imagerie",
+      "synonyms": [
+        "NHA"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "radiographie abdominale"
+      ],
+      "description": "Les NHA sont des signes radiologiques importants pour le diagnostic d'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimation chirurgicale",
+      "definition": "Unité de soins spécialisée dans la prise en charge des patients nécessitant une intervention chirurgicale urgente et une réanimation.",
+      "category": "classification",
+      "synonyms": [
+        "soins intensifs chirurgicaux"
+      ],
+      "related_terms": [
+        "réanimation",
+        "soins intensifs"
+      ],
+      "description": "La réanimation chirurgicale est essentielle pour stabiliser les patients avant une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sonde naso-gastrique",
+      "definition": "Tube flexible inséré par le nez jusqu'à l'estomac pour aspirer le contenu gastrique ou administrer des substances.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sonde gastrique"
+      ],
+      "related_terms": [
+        "aspiration gastrique",
+        "alimentation entérale"
+      ],
+      "description": "La sonde naso-gastrique est utilisée pour décomprimer l'estomac ou administrer des médicaments directement dans l'estomac.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péritonite",
+      "definition": "Inflammation du péritoine, souvent due à une infection ou une perforation intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "péritonite aiguë"
+      ],
+      "related_terms": [
+        "péritoine",
+        "infection abdominale"
+      ],
+      "description": "La péritonite est une urgence chirurgicale nécessitant une intervention rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance hépatique aiguë",
+      "definition": "Défaillance soudaine et sévère de la fonction hépatique, souvent due à une hépatite fulminante ou une intoxication.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance hépatique aiguë"
+      ],
+      "related_terms": [
+        "hépatite",
+        "foie"
+      ],
+      "description": "L'insuffisance hépatique aiguë est une urgence médicale nécessitant une prise en charge intensive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œdème pariétal",
+      "definition": "Accumulation de liquide dans la paroi intestinale, souvent indicative d'une inflammation ou d'une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème intestinal"
+      ],
+      "related_terms": [
+        "inflammation intestinale",
+        "ischémie intestinale"
+      ],
+      "description": "L'œdème pariétal peut être visualisé par imagerie médicale et est souvent associé à des conditions inflammatoires ou ischémiques de l'intestin.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une pathologie sous-jacente nécessitant une évaluation et un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "œdème pariétal scanner",
+        "œdème intestinal"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumatose pariétale",
+      "definition": "Présence d'air dans la paroi intestinale, souvent associée à une ischémie ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "pneumatose intestinale"
+      ],
+      "related_terms": [
+        "ischémie intestinale",
+        "infection intestinale"
+      ],
+      "description": "La pneumatose pariétale peut être détectée par imagerie et est un signe de gravité nécessitant une évaluation rapide.",
+      "expansion": null,
+      "clinical_significance": "Indique une pathologie sous-jacente grave nécessitant une intervention.",
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumatose pariétale scanner",
+        "pneumatose intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aéroportie",
+      "definition": "Présence d'air dans les vaisseaux portes, souvent indicative d'une ischémie intestinale sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "air dans les vaisseaux portes"
+      ],
+      "related_terms": [
+        "ischémie intestinale",
+        "nécrose intestinale"
+      ],
+      "description": "L'aéroportie est un signe radiologique grave souvent associé à une ischémie intestinale avancée et à un pronostic défavorable.",
+      "expansion": null,
+      "clinical_significance": "Indique une urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "aéroportie scanner",
+        "air dans les vaisseaux portes"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vomissements fécaloïdes",
+      "definition": "Vomissements contenant des matières fécales, indicatifs d'une occlusion intestinale prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "vomissements de matières fécales"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "pullulation microbienne"
+      ],
+      "description": "Les vomissements fécaloïdes sont un signe de gravité indiquant une occlusion intestinale prolongée et nécessitant une intervention chirurgicale rapide.",
+      "expansion": null,
+      "clinical_significance": "Indique une occlusion intestinale sévère nécessitant une intervention urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vomissements fécaloïdes",
+        "occlusion intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anses intestinales",
+      "definition": "Segments de l'intestin grêle ou du côlon formant des boucles ou des plis.",
+      "category": "anatomie",
+      "synonyms": [
+        "boucles intestinales"
+      ],
+      "related_terms": [
+        "intestin grêle",
+        "côlon"
+      ],
+      "description": "Les anses intestinales sont des segments de l'intestin qui peuvent être visualisés par imagerie médicale et sont importants pour le diagnostic des occlusions intestinales.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des occlusions intestinales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anses intestinales radiographie",
+        "boucles intestinales"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AMG",
+      "definition": "Arrêt des matières et des gaz, indicatif d'une occlusion intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "arrêt des matières et des gaz"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "météorisme"
+      ],
+      "description": "L'AMG est un signe clinique important dans le diagnostic des occlusions intestinales, indiquant une obstruction du transit intestinal.",
+      "expansion": null,
+      "clinical_significance": "Indique une occlusion intestinale nécessitant une évaluation et un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AMG occlusion intestinale",
+        "arrêt des matières et des gaz"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valvules conniventes",
+      "definition": "Pliures circulaires de la muqueuse de l'intestin grêle, visibles sur les radiographies abdominales.",
+      "category": "anatomie",
+      "synonyms": [
+        "plis circulaires"
+      ],
+      "related_terms": [
+        "intestin grêle",
+        "muqueuse intestinale"
+      ],
+      "description": "Les valvules conniventes sont des structures anatomiques importantes pour le diagnostic des occlusions intestinales, visibles sur les radiographies abdominales.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des occlusions intestinales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "valvules conniventes radiographie",
+        "plis circulaires"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "haustrations coliques",
+      "definition": "Pliures semi-lunaires de la muqueuse du côlon, visibles sur les radiographies abdominales.",
+      "category": "anatomie",
+      "synonyms": [
+        "plis coliques"
+      ],
+      "related_terms": [
+        "côlon",
+        "muqueuse colique"
+      ],
+      "description": "Les haustrations coliques sont des structures anatomiques importantes pour le diagnostic des occlusions intestinales, visibles sur les radiographies abdominales.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des occlusions intestinales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "haustrations coliques radiographie",
+        "plis coliques"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Koenig",
+      "definition": "Syndrome caractérisé par des douleurs abdominales, un ballonnement et des débâcles diarrhéiques, souvent précédant une occlusion intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Koenig"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "douleurs abdominales"
+      ],
+      "description": "Le syndrome de Koenig est un ensemble de symptômes qui peuvent précéder une occlusion intestinale et nécessitent une évaluation médicale.",
+      "expansion": null,
+      "clinical_significance": "Indique une occlusion intestinale nécessitant une évaluation et un traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Koenig",
+        "occlusion intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "whirl sign",
+      "definition": "Signe radiologique en forme de tourbillon, indicatif d'une torsion des vaisseaux irriguant un segment intestinal volvulé.",
+      "category": "imagerie",
+      "synonyms": [
+        "signe du tourbillon"
+      ],
+      "related_terms": [
+        "volvulus",
+        "torsion vasculaire"
+      ],
+      "description": "Le whirl sign est un signe radiologique important pour le diagnostic des occlusions intestinales par volvulus, visible sur la tomodensitométrie.",
+      "expansion": null,
+      "clinical_significance": "Indique une occlusion intestinale par volvulus nécessitant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "whirl sign tomodensitométrie",
+        "signe du tourbillon"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ASP",
+      "definition": "Abdomen Sans Préparation, une radiographie abdominale réalisée sans préparation spécifique.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiographie abdominale sans préparation"
+      ],
+      "related_terms": [
+        "radiographie",
+        "abdomen"
+      ],
+      "description": null,
+      "expansion": "Abdomen Sans Préparation",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ASP radiographie",
+        "radiographie abdominale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'Ogilvie",
+      "definition": "Pseudo-obstruction colique aiguë, une dilatation massive du côlon sans obstacle mécanique.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudo-obstruction colique"
+      ],
+      "related_terms": [
+        "côlon",
+        "obstruction"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome d'Ogilvie",
+        "pseudo-obstruction colique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inguinal",
+      "definition": "Relatif à l'aine, souvent utilisé pour décrire des hernies situées dans cette région.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "aine",
+        "hernie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hernie inguinale",
+        "aine"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crural",
+      "definition": "Relatif à la cuisse, souvent utilisé pour décrire des hernies situées dans cette région.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "cuisse",
+        "hernie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hernie crurale",
+        "cuisse"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ombilical",
+      "definition": "Relatif à l'ombilic ou au nombril, souvent utilisé pour décrire des hernies situées dans cette région.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ombilic",
+        "nombril",
+        "hernie"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hernie ombilicale",
+        "ombilic"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "para duodénales",
+      "definition": "Relatif aux structures situées à côté du duodénum, souvent utilisé pour décrire des hernies internes.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "duodénum",
+        "hernie interne"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hernie para duodénale",
+        "duodénum"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose intestinale",
+      "definition": "Infection de l'intestin par Mycobacterium tuberculosis, entraînant une inflammation et des complications intestinales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tuberculose",
+        "intestin",
+        "Mycobacterium tuberculosis"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tuberculose intestinale",
+        "intestin"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Crohn",
+      "definition": "Maladie inflammatoire chronique de l'intestin, caractérisée par des ulcérations et des sténoses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "MICI",
+        "intestin",
+        "inflammation"
+      ],
+      "description": null,
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie de Crohn",
+        "intestin"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "valvule de Bauhin",
+      "definition": "La valvule de Bauhin, également connue sous le nom de valvule iléo-cæcale, est une valve située à la jonction entre l'iléon et le cæcum, qui régule le passage du contenu intestinal de l'intestin grêle au gros intestin.",
+      "category": "anatomie",
+      "synonyms": [
+        "valvule iléo-cæcale"
+      ],
+      "related_terms": [
+        "iléon",
+        "cæcum"
+      ],
+      "description": "La valvule de Bauhin joue un rôle crucial dans la prévention du reflux du contenu cæcal vers l'iléon.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "valvule de Bauhin",
+        "valvule iléo-cæcale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistule bilio-digestive",
+      "definition": "Une fistule bilio-digestive est une communication anormale entre les voies biliaires et le tractus digestif, souvent due à une inflammation ou une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "voies biliaires",
+        "tractus digestif"
+      ],
+      "description": "Les fistules bilio-digestives peuvent être causées par des conditions telles que la cholécystite ou des interventions chirurgicales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fistule bilio-digestive",
+        "voies biliaires"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "invagination intestinale",
+      "definition": "L'invagination intestinale est une condition où une partie de l'intestin s'invagine dans une autre partie, causant une obstruction.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "occlusion intestinale",
+        "intestin"
+      ],
+      "description": "L'invagination intestinale peut être idiopathique chez les nourrissons ou secondaire à une tumeur ou un polype chez les adultes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "invagination intestinale",
+        "occlusion intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer colorectal",
+      "definition": "Le cancer colorectal est une tumeur maligne qui se développe dans le côlon ou le rectum.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénocarcinome",
+        "colon sigmoïde"
+      ],
+      "description": "Le cancer colorectal est souvent responsable des occlusions coliques et se manifeste par des troubles du transit ou des rectorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer colorectal",
+        "adénocarcinome"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colon sigmoïde",
+      "definition": "Le colon sigmoïde est la partie du côlon située entre le côlon descendant et le rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "côlon",
+        "rectum"
+      ],
+      "description": "Le colon sigmoïde est une zone fréquente de développement de cancers colorectaux en raison de son diamètre réduit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "colon sigmoïde",
+        "côlon"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cæcum",
+      "definition": "Le cæcum est la première partie du gros intestin, située à la jonction de l'intestin grêle et du côlon ascendant.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "gros intestin",
+        "côlon ascendant"
+      ],
+      "description": "Le cæcum est une zone où les occlusions peuvent se produire, avec un risque de perforation diastasique à partir de 12 cm de diamètre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cæcum",
+        "gros intestin"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dolicho-sigmoïde",
+      "definition": "Le dolicho-sigmoïde est un allongement anormal du côlon sigmoïde, souvent associé à une constipation chronique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "côlon sigmoïde",
+        "constipation chronique"
+      ],
+      "description": "Le dolicho-sigmoïde peut prédisposer à des volvulus du sigmoïde, une forme d'occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dolicho-sigmoïde",
+        "côlon sigmoïde"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FID",
+      "definition": "La FID (Fosse Iliaque Droite) est une région anatomique située dans la partie inférieure droite de l'abdomen.",
+      "category": "anatomie",
+      "synonyms": [
+        "Fosse Iliaque Droite"
+      ],
+      "related_terms": [
+        "abdomen",
+        "cavité péritonéale"
+      ],
+      "description": "La FID est une région où des anomalies peuvent être observées en imagerie, comme la présence du colon droit au centre de la cavité péritonéale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FID",
+        "fosse iliaque droite"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer gynécologique",
+      "definition": "Le cancer gynécologique est une tumeur maligne qui se développe dans les organes reproducteurs féminins, tels que l'utérus, les ovaires ou le col de l'utérus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "utérus",
+        "ovaires",
+        "col de l'utérus"
+      ],
+      "description": "Le cancer gynécologique peut envahir localement le colon, le rectum ou le grêle, causant une occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer gynécologique",
+        "tumeur maligne"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer de la vessie",
+      "definition": "Le cancer de la vessie est une tumeur maligne qui se développe dans la paroi de la vessie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vessie",
+        "tumeur maligne"
+      ],
+      "description": "Le cancer de la vessie peut envahir localement le colon, le rectum ou le grêle, causant une occlusion intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cancer de la vessie",
+        "tumeur maligne"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sténose ischémique",
+      "definition": "La sténose ischémique est un rétrécissement pathologique d'un segment intestinal dû à une insuffisance de l'apport sanguin.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sténose",
+        "ischémie"
+      ],
+      "description": "La sténose ischémique est souvent observée dans le colon gauche et est associée à des conditions vasculaires telles que l'insuffisance coronarienne ou l'artériopathie des membres inférieurs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sténose ischémique",
+        "sténose intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crohn",
+      "definition": "La maladie de Crohn est une maladie inflammatoire chronique de l'intestin qui peut affecter n'importe quelle partie du tractus gastro-intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Crohn"
+      ],
+      "related_terms": [
+        "MICI",
+        "rectocolite hémorragique"
+      ],
+      "description": "La maladie de Crohn peut causer des sténoses intestinales et est souvent associée à des douleurs abdominales et des diarrhées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Crohn",
+        "maladie de Crohn"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RCH",
+      "definition": "La rectocolite hémorragique (RCH) est une maladie inflammatoire chronique qui affecte le rectum et le côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "rectocolite hémorragique"
+      ],
+      "related_terms": [
+        "MICI",
+        "maladie de Crohn"
+      ],
+      "description": "La RCH peut causer des sténoses intestinales et est souvent associée à des saignements rectaux et des douleurs abdominales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "RCH",
+        "rectocolite hémorragique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléus inflammatoire",
+      "definition": "L'iléus inflammatoire est une occlusion intestinale causée par un foyer inflammatoire ou infectieux intra ou rétro-péritonéal.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "iléus",
+        "occlusion intestinale"
+      ],
+      "description": "L'iléus inflammatoire se manifeste par des symptômes d'occlusion fébrile et peut être causé par des conditions telles que l'appendicite ou la pancréatite aiguë.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "iléus inflammatoire",
+        "occlusion intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "appendicite mésocœliaque",
+      "definition": "L'appendicite mésocœliaque est une inflammation de l'appendice située dans le mésocœlon, une partie du péritoine.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "appendicite",
+        "mésocœlon"
+      ],
+      "description": "L'appendicite mésocœliaque peut causer un iléus inflammatoire et se manifeste par des douleurs abdominales et de la fièvre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "appendicite mésocœliaque",
+        "appendicite"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diverticulite sigmoïdienne",
+      "definition": "La diverticulite sigmoïdienne est une inflammation des diverticules (petites poches) dans le côlon sigmoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "diverticules",
+        "côlon sigmoïde"
+      ],
+      "description": "La diverticulite sigmoïdienne peut causer un iléus inflammatoire et se manifeste par des douleurs abdominales et de la fièvre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "diverticulite sigmoïdienne",
+        "diverticules"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholécystite aiguë",
+      "definition": "La cholécystite aiguë est une inflammation soudaine et sévère de la vésicule biliaire, souvent causée par des calculs biliaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vésicule biliaire",
+        "calculs biliaires"
+      ],
+      "description": "La cholécystite aiguë peut causer un iléus inflammatoire et se manifeste par des douleurs abdominales et de la fièvre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cholécystite aiguë",
+        "vésicule biliaire"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "salpingite aiguë",
+      "definition": "La salpingite aiguë est une inflammation soudaine et sévère des trompes de Fallope, souvent causée par une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "trompes de Fallope",
+        "infection"
+      ],
+      "description": "La salpingite aiguë peut causer un iléus inflammatoire et se manifeste par des douleurs abdominales et de la fièvre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "salpingite aiguë",
+        "trompes de Fallope"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléus réflexe",
+      "definition": "Arrêt temporaire du péristaltisme intestinal en réponse à une stimulation douloureuse ou à une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "iléus paralytique"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "péristaltisme"
+      ],
+      "description": "L'iléus réflexe est une réaction physiologique de l'intestin qui cesse de se contracter en réponse à une douleur intense ou une inflammation, souvent observée après une chirurgie abdominale ou en présence d'une infection.",
+      "expansion": null,
+      "clinical_significance": "Important à reconnaître pour éviter des complications comme la distension abdominale et la perforation intestinale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IDM inférieur",
+      "definition": "Infarctus du myocarde affectant la partie inférieure du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "infarctus du myocarde inférieur"
+      ],
+      "related_terms": [
+        "infarctus du myocarde",
+        "crise cardiaque"
+      ],
+      "description": "L'IDM inférieur est causé par une occlusion des artères coronaires alimentant la partie inférieure du cœur, entraînant une nécrose du tissu cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide pour restaurer le flux sanguin et prévenir des dommages cardiaques étendus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angor mésentérique",
+      "definition": "Douleur abdominale due à une ischémie intestinale, souvent causée par une insuffisance vasculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie mésentérique"
+      ],
+      "related_terms": [
+        "ischémie intestinale",
+        "angor abdominal"
+      ],
+      "description": "L'angor mésentérique est caractérisé par une douleur abdominale intense, souvent postprandiale, due à une réduction du flux sanguin vers l'intestin.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une ischémie mésentérique chronique nécessitant une évaluation vasculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colique hépatique",
+      "definition": "Douleur intense causée par l'obstruction des voies biliaires, souvent par des calculs biliaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "crise de colique biliaire"
+      ],
+      "related_terms": [
+        "lithiase biliaire",
+        "cholécystite"
+      ],
+      "description": "La colique hépatique est caractérisée par une douleur aiguë dans le quadrant supérieur droit de l'abdomen, souvent irradiant vers l'épaule droite.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention pour soulager la douleur et prévenir les complications comme la cholécystite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colon droit",
+      "definition": "Partie droite du gros intestin, comprenant le cæcum et le côlon ascendant.",
+      "category": "anatomie",
+      "synonyms": [
+        "côlon ascendant"
+      ],
+      "related_terms": [
+        "cæcum",
+        "côlon transverse"
+      ],
+      "description": "Le colon droit est la première partie du gros intestin, où le contenu intestinal passe du cæcum au côlon transverse.",
+      "expansion": null,
+      "clinical_significance": "Site fréquent de pathologies comme les occlusions et les tumeurs coliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rectum",
+      "definition": "Segment terminal du gros intestin, situé entre le sigmoïde et l'anus.",
+      "category": "anatomie",
+      "synonyms": [
+        "ampoule rectale"
+      ],
+      "related_terms": [
+        "sigmoïde",
+        "anus"
+      ],
+      "description": "Le rectum est la dernière partie du gros intestin, où les selles sont stockées avant l'évacuation.",
+      "expansion": null,
+      "clinical_significance": "Site de pathologies comme les tumeurs rectales et les prolapsus.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Hirschprung",
+      "definition": "Maladie congénitale caractérisée par l'absence de cellules ganglionnaires dans une partie du côlon, entraînant une occlusion intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "mégacôlon congénital"
+      ],
+      "related_terms": [
+        "aganglionose",
+        "occlusion intestinale"
+      ],
+      "description": "La maladie de Hirschprung est souvent diagnostiquée chez les nourrissons et les jeunes enfants, et nécessite une intervention chirurgicale pour corriger l'occlusion.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une occlusion intestinale sévère si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère mésentérique supérieure",
+      "definition": "Artère principale qui irrigue la majeure partie de l'intestin grêle et du côlon droit.",
+      "category": "anatomie",
+      "synonyms": [
+        "AMS"
+      ],
+      "related_terms": [
+        "artère mésentérique inférieure",
+        "vascularisation intestinale"
+      ],
+      "description": "L'artère mésentérique supérieure est une branche de l'aorte abdominale et joue un rôle crucial dans la vascularisation de l'intestin grêle et du côlon droit.",
+      "expansion": null,
+      "clinical_significance": "Une occlusion de cette artère peut entraîner un infarctus mésentérique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "infarctus mésentérique",
+      "definition": "Nécrose de l'intestin due à une occlusion de l'artère mésentérique, souvent causée par une embolie ou une thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie mésentérique"
+      ],
+      "related_terms": [
+        "embolie",
+        "thrombose"
+      ],
+      "description": "L'infarctus mésentérique est une urgence médicale nécessitant une intervention rapide pour restaurer le flux sanguin et prévenir la nécrose intestinale.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une péritonite et un choc septique si non traité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholécystite",
+      "definition": "Inflammation de la vésicule biliaire, souvent causée par des calculs biliaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation de la vésicule biliaire"
+      ],
+      "related_terms": [
+        "lithiase biliaire",
+        "cholécystectomie"
+      ],
+      "description": "La cholécystite est caractérisée par une douleur abdominale, de la fièvre et des nausées.",
+      "expansion": null,
+      "clinical_significance": "Nécessite souvent une cholécystectomie pour éviter des complications comme la péritonite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stent colique",
+      "definition": "Dispositif médical utilisé pour maintenir ouvert le lumen du côlon en cas d'obstruction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "endoprothèse colique"
+      ],
+      "related_terms": [
+        "stent",
+        "endoprothèse"
+      ],
+      "description": "Le stent colique est utilisé comme traitement palliatif pour les occlusions coliques, notamment en cas de tumeurs non résécables.",
+      "expansion": null,
+      "clinical_significance": "Permet de soulager l'obstruction et d'améliorer la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "invagination intestinale aigue",
+      "definition": "Condition où une partie de l'intestin s'invagine dans une autre, causant une occlusion.",
+      "category": "pathologie",
+      "synonyms": [
+        "intussusception"
+      ],
+      "related_terms": [
+        "occlusion intestinale",
+        "invagination"
+      ],
+      "description": "L'invagination intestinale aiguë est souvent observée chez les nourrissons et peut être traitée par des lavements aux hydrosolubles.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention rapide pour éviter la nécrose et la perforation intestinale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entérotomie",
+      "definition": "Incision chirurgicale de l'intestin, souvent réalisée pour extraire un corps étranger ou traiter une obstruction.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "laparotomie",
+        "gastrotomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "entérotomie",
+        "chirurgie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résection",
+      "definition": "Ablation chirurgicale d'une partie d'un organe ou d'un tissu, souvent réalisée pour traiter une tumeur ou une infection.",
+      "category": "anatomie",
+      "synonyms": [
+        "ablation",
+        "exérèse"
+      ],
+      "related_terms": [
+        "anastomose",
+        "colectomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "résection intestinale",
+        "chirurgie digestive"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose",
+      "definition": "Connexion chirurgicale entre deux structures tubulaires, comme deux segments d'intestin, pour rétablir la continuité.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "résection",
+        "colectomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "anastomose intestinale",
+        "chirurgie digestive"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colectomie droite",
+      "definition": "Ablation chirurgicale de la partie droite du côlon, incluant le cæcum et le côlon ascendant.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "colectomie gauche",
+        "hémicolectomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colectomie droite",
+        "chirurgie colique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléo transverse",
+      "definition": "Connexion chirurgicale entre l'iléon et le côlon transverse, souvent réalisée après une résection du côlon droit.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "anastomose iléorectale",
+        "anastomose colo-colique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "anastomose iléo transverse",
+        "chirurgie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colostomie",
+      "definition": "Ouverture chirurgicale du côlon à travers la paroi abdominale pour créer une stomie, permettant l'évacuation des selles.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "iléostomie",
+        "stomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colostomie",
+        "stomie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colectomie totale",
+      "definition": "Ablation chirurgicale de l'ensemble du côlon.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "colectomie partielle",
+        "proctocolectomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colectomie totale",
+        "chirurgie colique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomose iléorectale",
+      "definition": "Connexion chirurgicale entre l'iléon et le rectum, souvent réalisée après une colectomie totale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "anastomose iléo-anale",
+        "anastomose colo-rectale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "anastomose iléorectale",
+        "chirurgie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bouilly-Wolkmann",
+      "definition": "Intervention chirurgicale consistant en une sigmoïdectomie avec double stomie, utilisée pour traiter le volvulus du sigmoïde.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "sigmoïdectomie",
+        "volvulus"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "Bouilly-Wolkmann",
+        "sigmoïdectomie"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réduction",
+      "definition": "Technique chirurgicale ou endoscopique visant à remettre en place un organe ou une structure déplacée, comme dans le cas d'un volvulus ou d'une invagination.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "dévolvulation",
+        "résection"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "réduction intestinale",
+        "chirurgie digestive"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lavement",
+      "definition": "Introduction de liquide dans le rectum et le côlon pour évacuer les selles ou administrer un médicament.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "enema",
+        "irrigation colique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lavement",
+        "enema"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydrosolubles",
+      "definition": "Substances solubles dans l'eau, souvent utilisées dans des solutions de lavement pour éviter l'irritation ou l'absorption de toxines.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "solutions isotoniques",
+        "solutions hypertoniques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "hydrosolubles",
+        "solutions de lavement"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "souffrance intestinale",
+      "definition": "État de détresse ou de dysfonctionnement de l'intestin, souvent dû à une ischémie, une obstruction ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ischémie intestinale",
+        "occlusion intestinale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "souffrance intestinale",
+        "ischémie intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résection chirurgicale",
+      "definition": "Ablation chirurgicale d'une partie d'un organe ou d'un tissu, souvent réalisée pour traiter une tumeur ou une infection.",
+      "category": "anatomie",
+      "synonyms": [
+        "exérèse chirurgicale"
+      ],
+      "related_terms": [
+        "anastomose",
+        "colectomie"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "résection chirurgicale",
+        "chirurgie digestive"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "boudin d'invagination",
+      "definition": "Segment d'intestin qui s'est invaginé dans un autre segment, créant une obstruction.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "invagination intestinale",
+        "occlusion intestinale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "boudin d'invagination",
+        "invagination intestinale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polymorphisme clinique",
+      "definition": "Variabilité des manifestations cliniques d'une maladie, souvent due à des différences génétiques ou environnementales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hétérogénéité clinique",
+        "variabilité phénotypique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "polymorphisme clinique",
+        "variabilité phénotypique"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "irréversibles",
+      "definition": "Lésions ou dommages qui ne peuvent pas être inversés ou réparés, souvent dus à une ischémie prolongée ou une nécrose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "permanent",
+        "définitif"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "irréversibles",
+        "lésions permanentes"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pronostic",
+      "definition": "Évaluation de l'évolution probable d'une maladie, incluant les chances de guérison, de récidive ou de décès.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "prognose",
+        "prévision médicale"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "pronostic",
+        "prognose"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "multifactoriel",
+      "definition": "Dépendant de plusieurs facteurs ou causes, souvent utilisé pour décrire des maladies ou des conditions complexes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "plurifactoriel",
+        "polyfactoriel"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "multifactoriel",
+        "causes multiples"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prise en charge",
+      "definition": "Ensemble des soins et des traitements administrés à un patient, incluant le diagnostic, le traitement et le suivi.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gestion médicale",
+        "soins"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "prise en charge",
+        "gestion médicale"
+      ],
+      "subject_id": "62944f9f-c2eb-46fb-b776-a87f48a7c4f2",
+      "source_file": "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Chirurgie Générale/Occlusions Intestinales Aiguës/Resumes/occlusionIntestinaleAigu%C3%AB_Final.md",
+    "Chirurgie Générale/Occlusions Intestinales Aiguës/Courses/54 Occlusions intestinales aiguës 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md"
+  ],
+  "total_terms": 149
+}

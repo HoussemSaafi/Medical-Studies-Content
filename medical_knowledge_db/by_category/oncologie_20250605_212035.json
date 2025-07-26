@@ -1,0 +1,28 @@
+{
+  "category": "oncologie",
+  "terms": [
+    {
+      "term": "radiothérapie thoracique",
+      "definition": "Traitement par rayonnement ionisant dirigé vers la région thoracique, utilisé pour traiter divers cancers.",
+      "category": "oncologie",
+      "synonyms": [
+        "irradiation thoracique"
+      ],
+      "related_terms": [
+        "radiothérapie",
+        "cancer",
+        "rayonnement ionisant"
+      ],
+      "description": "La radiothérapie thoracique à un jeune âge peut induire des cancers secondaires, y compris le cancer du sein.",
+      "expansion": null,
+      "clinical_significance": "Risque de cancer radio-induit.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "4375d34c-623e-42fa-bc64-cb978cd240db",
+      "source_file": "Gynécologie-Obstétrique/Cancer du Sein/Courses/14 Cancer du sein 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 1,
+  "extraction_date": "20250605_212035"
+}

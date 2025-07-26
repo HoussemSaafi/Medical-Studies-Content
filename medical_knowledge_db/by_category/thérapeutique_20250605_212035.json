@@ -1,0 +1,78 @@
+{
+  "category": "thérapeutique",
+  "terms": [
+    {
+      "term": "oxygénothérapie hyperbare",
+      "definition": "Traitement médical utilisant l'oxygène à haute pression dans une chambre hyperbare pour augmenter la concentration d'oxygène dans le sang et les tissus.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "HBOT",
+        "thérapie hyperbare"
+      ],
+      "related_terms": [
+        "oxygénothérapie",
+        "chambre hyperbare"
+      ],
+      "description": "Utilisée pour traiter les intoxications au monoxyde de carbone (CO) et autres intoxications hypoxémiantes.",
+      "expansion": null,
+      "clinical_significance": "Peut être cruciale dans le traitement des intoxications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oxygénothérapie hyperbare",
+        "chambre hyperbare"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "analgésie multimodale",
+      "definition": "Approche de gestion de la douleur utilisant plusieurs classes de médicaments et techniques pour cibler différents mécanismes de la douleur.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "analgésie combinée"
+      ],
+      "related_terms": [
+        "antalgiques",
+        "morphine",
+        "paracétamol"
+      ],
+      "description": "Utilisée pour gérer la douleur intense et souvent majorée par le stress lié aux circonstances de l'accident.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour le confort du patient et la réduction du stress.",
+      "normal_values": null,
+      "image_search_terms": [
+        "analgésie multimodale",
+        "gestion de la douleur"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réanimation volémique",
+      "definition": "Traitement visant à restaurer le volume sanguin et la pression artérielle par l'administration de liquides intraveineux.",
+      "category": "thérapeutique",
+      "synonyms": [
+        "réanimation liquidienne"
+      ],
+      "related_terms": [
+        "réanimation",
+        "perfusion"
+      ],
+      "description": "Guidée par la surveillance hémodynamique invasive pour ajuster les volumes perfusés.",
+      "expansion": null,
+      "clinical_significance": "Important pour éviter les défaillances viscérales et l'œdème.",
+      "normal_values": null,
+      "image_search_terms": [
+        "réanimation volémique",
+        "réanimation liquidienne"
+      ],
+      "subject_id": "5bc42931-819f-4e94-baae-0beee11324e3",
+      "source_file": "Réanimation/Brûlures Cutanées/Courses/10 Brûlures Cutanées Récentes.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 3,
+  "extraction_date": "20250605_212035"
+}

@@ -1,0 +1,3380 @@
+{
+  "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+  "terms": [
+    {
+      "term": "bronchopneumopathie chronique obstructive",
+      "definition": "Maladie respiratoire caractérisée par des symptômes respiratoires persistants et une limitation des débits aériens due à des anomalies des voies aériennes et/ou des alvéoles.",
+      "category": "pathologie",
+      "synonyms": [
+        "BPCO"
+      ],
+      "related_terms": [
+        "emphysème",
+        "bronchite chronique"
+      ],
+      "description": "La BPCO est une maladie fréquente qui peut être prévenue et guérie, caractérisée par une limitation des débits aériens secondaire à des anomalies des voies aériennes et/ou des alvéoles.",
+      "expansion": null,
+      "clinical_significance": "La BPCO est une cause majeure de morbidité et de mortalité, souvent associée à une exposition à des particules ou des gaz nocifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Global Initiative on Obstructive Lung Disease",
+      "definition": "Initiative mondiale visant à améliorer la prévention et le traitement des maladies pulmonaires obstructives.",
+      "category": "classification",
+      "synonyms": [
+        "GOLD"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "GOLD fournit des recommandations et des lignes directrices pour la gestion des maladies pulmonaires obstructives.",
+      "expansion": null,
+      "clinical_significance": "Les recommandations GOLD sont largement utilisées pour le diagnostic et le traitement de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit ventilatoire obstructif",
+      "definition": "Réduction de la capacité des voies aériennes à permettre le passage de l'air, souvent mesurée par la spirométrie.",
+      "category": "physiologie",
+      "synonyms": [
+        "DVO"
+      ],
+      "related_terms": [
+        "spirométrie",
+        "VEMS",
+        "CVF"
+      ],
+      "description": "Le DVO est caractérisé par un rapport VEMS/CVF postbronchodilatateur inférieur à 70%.",
+      "expansion": null,
+      "clinical_significance": "Le DVO est un indicateur clé de la BPCO et d'autres maladies respiratoires obstructives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchite chronique",
+      "definition": "Inflammation chronique des bronches caractérisée par une toux productive pendant au moins trois mois par an pendant deux années consécutives.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "BPCO",
+        "emphysème"
+      ],
+      "description": "La bronchite chronique peut être simple ou obstructive, seule la forme obstructive fait partie de la BPCO.",
+      "expansion": null,
+      "clinical_significance": "La bronchite chronique est une composante importante de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "emphysème",
+      "definition": "Destruction des alvéoles pulmonaires, souvent associée à une obstruction bronchique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "BPCO",
+        "bronchite chronique"
+      ],
+      "description": "L'emphysème est caractérisé par une destruction des alvéoles et fait partie de la BPCO s'il y a obstruction bronchique.",
+      "expansion": null,
+      "clinical_significance": "L'emphysème contribue à la limitation des débits aériens dans la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volume expiratoire maximum seconde",
+      "definition": "Volume d'air expiré en une seconde lors d'une expiration forcée, utilisé pour évaluer la fonction pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "VEMS"
+      ],
+      "related_terms": [
+        "spirométrie",
+        "CVF",
+        "DVO"
+      ],
+      "description": "Le VEMS est un indicateur clé de la fonction pulmonaire et est utilisé pour diagnostiquer la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Un VEMS réduit est un signe de limitation des débits aériens.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capacité vitale forcée",
+      "definition": "Volume d'air expiré de manière forcée après une inspiration maximale.",
+      "category": "physiologie",
+      "synonyms": [
+        "CVF"
+      ],
+      "related_terms": [
+        "spirométrie",
+        "VEMS",
+        "DVO"
+      ],
+      "description": "La CVF est utilisée pour évaluer la fonction pulmonaire et diagnostiquer la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Une CVF réduite peut indiquer une obstruction des voies aériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation alvéolaire",
+      "definition": "Processus de renouvellement de l'air dans les alvéoles pulmonaires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ventilation",
+        "alvéoles"
+      ],
+      "description": "La ventilation alvéolaire est essentielle pour les échanges gazeux dans les poumons.",
+      "expansion": null,
+      "clinical_significance": "Une ventilation alvéolaire altérée peut entraîner des troubles respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles respiratoires",
+      "definition": "Groupes de muscles impliqués dans le processus de respiration, incluant l'inspiration et l'expiration.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "diaphragme",
+        "muscles intercostaux"
+      ],
+      "description": "Les muscles respiratoires jouent un rôle crucial dans la mécanique ventilatoire.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement des muscles respiratoires peut affecter la ventilation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles intercostaux externes",
+      "definition": "Muscles situés entre les côtes, impliqués dans l'inspiration.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscles respiratoires",
+        "ventilation"
+      ],
+      "description": "Les muscles intercostaux externes élèvent les côtes pour augmenter le volume thoracique.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement de ces muscles peut affecter la ventilation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles scalènes",
+      "definition": "Muscles du cou impliqués dans l'inspiration.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscles respiratoires",
+        "ventilation"
+      ],
+      "description": "Les muscles scalènes aident à élever les côtes pendant l'inspiration.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement de ces muscles peut affecter la ventilation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles sterno-cleido-mastoïdiens",
+      "definition": "Muscles du cou impliqués dans l'inspiration forcée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscles respiratoires",
+        "ventilation"
+      ],
+      "description": "Les muscles sterno-cleido-mastoïdiens sont des muscles inspiratoires accessoires.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement de ces muscles peut affecter la ventilation forcée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles intercostaux internes",
+      "definition": "Muscles situés entre les côtes, impliqués dans l'expiration forcée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscles respiratoires",
+        "ventilation"
+      ],
+      "description": "Les muscles intercostaux internes abaissent les côtes pour réduire le volume thoracique.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement de ces muscles peut affecter l'expiration forcée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles abdominaux",
+      "definition": "Muscles de la paroi abdominale impliqués dans l'expiration forcée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muscles respiratoires",
+        "ventilation"
+      ],
+      "description": "Les muscles abdominaux augmentent la pression abdominale pour aider à l'expiration forcée.",
+      "expansion": null,
+      "clinical_significance": "Un dysfonctionnement de ces muscles peut affecter l'expiration forcée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distensibilité",
+      "definition": "Capacité d'un organe ou d'un tissu à se distendre ou à s'étirer sous l'effet d'une pression.",
+      "category": "physiologie",
+      "synonyms": [
+        "élasticité"
+      ],
+      "related_terms": [
+        "compliance",
+        "élasticité"
+      ],
+      "description": "La distensibilité est une mesure de la capacité des poumons à se dilater en réponse à une pression appliquée.",
+      "expansion": null,
+      "clinical_significance": "Importante pour évaluer la fonction pulmonaire et diagnostiquer des maladies respiratoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "élasticité",
+      "definition": "Propriété d'un tissu à reprendre sa forme initiale après avoir été étiré ou comprimé.",
+      "category": "physiologie",
+      "synonyms": [
+        "distensibilité"
+      ],
+      "related_terms": [
+        "compliance",
+        "distensibilité"
+      ],
+      "description": "L'élasticité des poumons permet de maintenir leur structure et fonction pendant la respiration.",
+      "expansion": null,
+      "clinical_significance": "Altérations de l'élasticité peuvent indiquer des pathologies pulmonaires comme l'emphysème.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compliance",
+      "definition": "Mesure de la capacité des poumons à se distendre en réponse à une pression appliquée, exprimée en litres par centimètre d'eau (l/cmH2O).",
+      "category": "physiologie",
+      "synonyms": [
+        "distensibilité",
+        "élasticité"
+      ],
+      "related_terms": [
+        "élasticité",
+        "distensibilité"
+      ],
+      "description": "La compliance est un indicateur clé de la fonction pulmonaire et peut être affectée par des maladies respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Une compliance réduite peut indiquer une fibrose pulmonaire ou d'autres pathologies restrictives.",
+      "normal_values": "Environ 0,2 l/cmH2O pour un sujet jeune.",
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "capacité résiduelle fonctionnelle (CRF)",
+      "definition": "Volume de gaz restant dans les poumons après une expiration normale.",
+      "category": "physiologie",
+      "synonyms": [
+        "CRF"
+      ],
+      "related_terms": [
+        "volume de relaxation",
+        "pression de rétraction élastique"
+      ],
+      "description": "La CRF est un indicateur important de la fonction pulmonaire et peut être affectée par des maladies obstructives ou restrictives.",
+      "expansion": null,
+      "clinical_significance": "Une CRF élevée peut indiquer une obstruction des voies aériennes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression alvéolaire",
+      "definition": "Pression exercée à l'intérieur des alvéoles pulmonaires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression pleurale",
+        "pression transpulmonaire"
+      ],
+      "description": "La pression alvéolaire est cruciale pour l'échange de gaz dans les poumons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression pleurale",
+      "definition": "Pression exercée dans la cavité pleurale entre les feuillets de la plèvre.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression alvéolaire",
+        "pression transpulmonaire"
+      ],
+      "description": "La pression pleurale est négative et aide à maintenir les poumons en expansion.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression transpulmonaire",
+      "definition": "Différence entre la pression alvéolaire et la pression pleurale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "pression alvéolaire",
+        "pression pleurale"
+      ],
+      "description": "La pression transpulmonaire est un indicateur de la distension des poumons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibres",
+      "definition": "Structures filamenteuses composées de protéines qui forment le tissu conjonctif.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "tissu conjonctif",
+        "matrice pulmonaire"
+      ],
+      "description": "Les fibres dans le poumon incluent l'élastine et le collagène, qui contribuent à l'élasticité pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tissu conjonctif pleural",
+      "definition": "Tissu de soutien qui entoure les poumons et tapisse la cavité thoracique.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "plèvre",
+        "fibres"
+      ],
+      "description": "Le tissu conjonctif pleural contient des fibres qui contribuent à l'élasticité des poumons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaisseaux",
+      "definition": "Structures tubulaires qui transportent le sang à travers le corps.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "bronches hilaires",
+        "tissu conjonctif"
+      ],
+      "description": "Les vaisseaux sanguins dans les poumons sont entourés de tissu conjonctif contenant des fibres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronches hilaires",
+      "definition": "Structures tubulaires qui transportent l'air vers les poumons.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "vaisseaux",
+        "tissu conjonctif"
+      ],
+      "description": "Les bronches hilaires sont entourées de tissu conjonctif contenant des fibres.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "élastine",
+      "definition": "Protéine fibreuse qui confère élasticité et résilience aux tissus.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "collagène",
+        "glycoprotéines",
+        "protéoglycanes"
+      ],
+      "description": "L'élastine est une composante clé du tissu pulmonaire, contribuant à son élasticité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéoglycanes",
+      "definition": "Protéines liées à des glycosaminoglycanes, jouant un rôle dans la structure et la fonction des tissus.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "élastine",
+        "collagène",
+        "glycoprotéines"
+      ],
+      "description": "Les protéoglycanes sont des composantes du tissu pulmonaire, contribuant à son élasticité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α-1-antitrypsine",
+      "definition": "Protéine inhibitrice de protéases, principalement produite par le foie, qui protège les tissus pulmonaires contre la dégradation.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "protéases",
+        "emphysème"
+      ],
+      "description": "L'α-1-antitrypsine est cruciale pour limiter le catabolisme des protéines du tissu pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Un déficit en α-1-antitrypsine peut conduire à l'emphysème.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phosphatidyl Choline",
+      "definition": "Phospholipide majeur du surfactant pulmonaire, essentiel pour réduire la tension superficielle dans les alvéoles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "surfactant",
+        "Dipalmitoyl Phosphatidyl Choline (DPPC)"
+      ],
+      "description": "Le Phosphatidyl Choline est crucial pour la fonction du surfactant et la stabilité des alvéoles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dipalmitoyl Phosphatidyl Choline (DPPC)",
+      "definition": "Forme spécifique de Phosphatidyl Choline, particulièrement efficace pour réduire la tension superficielle dans les alvéoles.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Phosphatidyl Choline",
+        "surfactant"
+      ],
+      "description": "Le DPPC est une composante clé du surfactant, essentielle pour la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pneumocytes II",
+      "definition": "Cellules épithéliales des alvéoles pulmonaires responsables de la production de surfactant.",
+      "category": "anatomie",
+      "synonyms": [
+        "cellules alvéolaires de type II"
+      ],
+      "related_terms": [
+        "surfactant",
+        "alvéoles pulmonaires"
+      ],
+      "description": "Les pneumocytes II jouent un rôle crucial dans la production de surfactant, essentiel pour la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pneumocytes II",
+        "alvéoles pulmonaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "compliance pulmonaire",
+      "definition": "Mesure de la distensibilité des poumons, c'est-à-dire la capacité des poumons à s'étirer et à se contracter pendant la respiration.",
+      "category": "physiologie",
+      "synonyms": [
+        "distensibilité pulmonaire"
+      ],
+      "related_terms": [
+        "tension de surface",
+        "surfactant"
+      ],
+      "description": "Une compliance pulmonaire réduite peut être observée dans des conditions comme la fibrose pulmonaire et la pneumonie.",
+      "expansion": null,
+      "clinical_significance": "Une diminution de la compliance pulmonaire peut indiquer des pathologies pulmonaires graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "compliance pulmonaire",
+        "distensibilité pulmonaire"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tension de surface",
+      "definition": "Force exercée par la surface d'un liquide, qui tend à minimiser la surface libre du liquide.",
+      "category": "physiologie",
+      "synonyms": [
+        "tension superficielle"
+      ],
+      "related_terms": [
+        "surfactant",
+        "compliance pulmonaire"
+      ],
+      "description": "La tension de surface est réduite par le surfactant, facilitant ainsi l'expansion des alvéoles pulmonaires.",
+      "expansion": null,
+      "clinical_significance": "Une tension de surface élevée peut entraîner un collapsus alvéolaire et une détresse respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tension de surface",
+        "alvéoles pulmonaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie des membranes hyalines",
+      "definition": "Condition respiratoire grave chez les nouveau-nés prématurés, caractérisée par un déficit en surfactant et la formation de membranes hyalines dans les alvéoles.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de détresse respiratoire du nouveau-né"
+      ],
+      "related_terms": [
+        "surfactant",
+        "prématuré"
+      ],
+      "description": "La maladie des membranes hyalines est une cause majeure de morbidité et de mortalité chez les prématurés.",
+      "expansion": null,
+      "clinical_significance": "Le traitement inclut l'administration de surfactant exogène et un support respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie des membranes hyalines",
+        "détresse respiratoire du nouveau-né"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronche lobaire",
+      "definition": "Division des bronches souches qui conduisent aux lobes pulmonaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronche lobulaire"
+      ],
+      "related_terms": [
+        "bronche souche",
+        "bronche segmentaire"
+      ],
+      "description": "Les bronches lobaires se ramifient en bronches segmentaires et plus petites bronches.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronche lobaire",
+        "lobes pulmonaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronche segmentaire",
+      "definition": "Division des bronches lobaires qui conduisent aux segments pulmonaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronche segmentaire"
+      ],
+      "related_terms": [
+        "bronche lobaire",
+        "bronche lobulaire"
+      ],
+      "description": "Les bronches segmentaires se ramifient en bronchioles et plus petites bronches.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronche segmentaire",
+        "segments pulmonaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Système Nerveux Végétatif",
+      "definition": "Partie du système nerveux qui contrôle les fonctions involontaires du corps, telles que la respiration, la digestion et la fréquence cardiaque.",
+      "category": "anatomie",
+      "synonyms": [
+        "système nerveux autonome"
+      ],
+      "related_terms": [
+        "muscle lisse",
+        "innervation"
+      ],
+      "description": "Le système nerveux végétatif est divisé en systèmes sympathique et parasympathique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Système Nerveux Végétatif",
+        "système nerveux autonome"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "classification anatomique",
+      "definition": "Système de classification basé sur la structure et la disposition des organes et des tissus dans le corps.",
+      "category": "classification",
+      "synonyms": [
+        "classification morphologique"
+      ],
+      "related_terms": [
+        "classification fonctionnelle",
+        "arbre bronchique"
+      ],
+      "description": "La classification anatomique est utilisée pour décrire la structure des voies aériennes et d'autres organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "classification anatomique",
+        "arbre bronchique"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "classification fonctionnelle",
+      "definition": "Système de classification basé sur la fonction des organes et des tissus dans le corps.",
+      "category": "classification",
+      "synonyms": [
+        "classification physiologique"
+      ],
+      "related_terms": [
+        "classification anatomique",
+        "voies aériennes"
+      ],
+      "description": "La classification fonctionnelle divise l'arbre bronchique en zones centrales et périphériques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "classification fonctionnelle",
+        "voies aériennes"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voies aériennes centrales",
+      "definition": "Zone de l'arbre bronchique qui s'étend de la trachée aux petites bronches, caractérisée par une armature cartilagineuse.",
+      "category": "anatomie",
+      "synonyms": [
+        "voies aériennes proximal"
+      ],
+      "related_terms": [
+        "voies aériennes périphériques",
+        "bronche souche"
+      ],
+      "description": "Les voies aériennes centrales sont riches en cartilage et ont un diamètre plus large.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "voies aériennes centrales",
+        "arbre bronchique"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voies aériennes périphériques",
+      "definition": "Zone de l'arbre bronchique qui comprend les bronchioles et les canaux alvéolaires, caractérisée par l'absence de cartilage.",
+      "category": "anatomie",
+      "synonyms": [
+        "voies aériennes distales"
+      ],
+      "related_terms": [
+        "voies aériennes centrales",
+        "bronchioles"
+      ],
+      "description": "Les voies aériennes périphériques sont entourées de muscle lisse et ont un diamètre plus petit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "voies aériennes périphériques",
+        "bronchioles"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchioles terminales",
+      "definition": "Petites divisions des bronchioles qui conduisent aux bronchioles respiratoires et aux canaux alvéolaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronchioles distales"
+      ],
+      "related_terms": [
+        "bronchioles respiratoires",
+        "canaux alvéolaires"
+      ],
+      "description": "Les bronchioles terminales sont les plus petites divisions des voies aériennes avant les alvéoles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchioles terminales",
+        "bronchioles respiratoires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchioles respiratoires",
+      "definition": "Divisions des bronchioles terminales qui conduisent aux canaux alvéolaires et participent à l'échange gazeux.",
+      "category": "anatomie",
+      "synonyms": [
+        "bronchioles alvéolaires"
+      ],
+      "related_terms": [
+        "bronchioles terminales",
+        "canaux alvéolaires"
+      ],
+      "description": "Les bronchioles respiratoires sont impliquées dans l'échange gazeux et la ventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchioles respiratoires",
+        "canaux alvéolaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "canaux alvéolaires",
+      "definition": "Petites divisions des bronchioles respiratoires qui conduisent aux alvéoles pulmonaires.",
+      "category": "anatomie",
+      "synonyms": [
+        "canaux alvéolaires"
+      ],
+      "related_terms": [
+        "bronchioles respiratoires",
+        "alvéoles pulmonaires"
+      ],
+      "description": "Les canaux alvéolaires sont les plus petites divisions des voies aériennes avant les alvéoles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "canaux alvéolaires",
+        "alvéoles pulmonaires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "laminaire",
+      "definition": "Type d'écoulement de fluide où les couches de fluide glissent les unes sur les autres de manière ordonnée et parallèle.",
+      "category": "physiologie",
+      "synonyms": [
+        "écoulement laminaire"
+      ],
+      "related_terms": [
+        "turbulent"
+      ],
+      "description": "L'écoulement laminaire est caractérisé par une faible vitesse du gaz et une proportionnalité entre pression et débit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "turbulent",
+      "definition": "Type d'écoulement de fluide caractérisé par des mouvements chaotiques et irréguliers des particules de fluide.",
+      "category": "physiologie",
+      "synonyms": [
+        "écoulement turbulent"
+      ],
+      "related_terms": [
+        "laminaire"
+      ],
+      "description": "L'écoulement turbulent se produit à des vitesses de gaz élevées et nécessite une pression motrice plus grande pour assurer le débit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voies aériennes supérieures",
+      "definition": "Partie des voies respiratoires comprenant le nez, le pharynx et le larynx.",
+      "category": "anatomie",
+      "synonyms": [
+        "voies respiratoires supérieures"
+      ],
+      "related_terms": [
+        "voies aériennes centrales",
+        "voies aériennes périphériques"
+      ],
+      "description": "Les voies aériennes supérieures sont impliquées dans la filtration, l'humidification et le réchauffement de l'air inhalé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résistances bronchiques",
+      "definition": "Opposition au flux d'air dans les bronches, mesurée en termes de pression nécessaire pour maintenir un débit d'air donné.",
+      "category": "physiologie",
+      "synonyms": [
+        "résistance des voies aériennes"
+      ],
+      "related_terms": [
+        "conductance des voies aériennes"
+      ],
+      "description": "Les résistances bronchiques varient en fonction du volume pulmonaire et de l'état des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "conductance des voies aériennes",
+      "definition": "Inverse des résistances bronchiques, mesurant la facilité avec laquelle l'air circule dans les voies aériennes.",
+      "category": "physiologie",
+      "synonyms": [
+        "conductance bronchique"
+      ],
+      "related_terms": [
+        "résistances bronchiques"
+      ],
+      "description": "La conductance des voies aériennes est une mesure de la perméabilité des voies respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles ventilatoires",
+      "definition": "Muscles impliqués dans le processus de ventilation, incluant principalement le diaphragme et les muscles intercostaux.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscles respiratoires"
+      ],
+      "related_terms": [
+        "résistance mécanique",
+        "compliance pulmonaire"
+      ],
+      "description": "Les muscles ventilatoires doivent vaincre les forces élastiques des poumons et de la paroi thoracique pour permettre la ventilation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résistance mécanique",
+      "definition": "Opposition au mouvement des structures élastiques des poumons et de la paroi thoracique.",
+      "category": "physiologie",
+      "synonyms": [
+        "résistance élastique"
+      ],
+      "related_terms": [
+        "muscles ventilatoires",
+        "compliance pulmonaire"
+      ],
+      "description": "La résistance mécanique doit être surmontée par les muscles ventilatoires pour permettre l'inspiration et l'expiration.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fumée du tabac",
+      "definition": "Principal facteur de risque de la BPCO, impliqué dans 90% des cas, avec une relation effet/dose et des susceptibilités individuelles.",
+      "category": "pathologie",
+      "synonyms": [
+        "tabagisme"
+      ],
+      "related_terms": [
+        "BPCO",
+        "pollution aérienne domestique"
+      ],
+      "description": "La fumée du tabac contient des substances toxiques qui endommagent les voies respiratoires et augmentent le risque de BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pollution aérienne domestique",
+      "definition": "Facteur de risque de la BPCO dû à l'utilisation de biocombustibles pour la cuisine et le chauffage dans des habitations mal ventilées.",
+      "category": "pathologie",
+      "synonyms": [
+        "pollution intérieure"
+      ],
+      "related_terms": [
+        "fumée du tabac",
+        "expositions professionnelles"
+      ],
+      "description": "La pollution aérienne domestique affecte particulièrement les femmes dans les pays en voie de développement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "expositions professionnelles",
+      "definition": "Facteurs de risque de la BPCO liés à l'exposition à des poussières organiques et inorganiques, des agents chimiques et des fumées sur le lieu de travail.",
+      "category": "pathologie",
+      "synonyms": [
+        "exposition professionnelle"
+      ],
+      "related_terms": [
+        "pollution aérienne domestique",
+        "pollution de l'air extérieur"
+      ],
+      "description": "Les expositions professionnelles sont des facteurs de risque sous-évalués de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pollution de l'air extérieur",
+      "definition": "Facteur de risque de la BPCO lié à l'exposition à des particules inhalées dans l'air extérieur.",
+      "category": "pathologie",
+      "synonyms": [
+        "pollution atmosphérique"
+      ],
+      "related_terms": [
+        "expositions professionnelles",
+        "facteurs génétiques"
+      ],
+      "description": "La pollution de l'air extérieur contribue à la charge pulmonaire totale de particules inhalées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs génétiques",
+      "definition": "Facteurs de risque de la BPCO liés à des prédispositions génétiques, comme le déficit héréditaire sévère homozygote en alpha-1-antitrypsine (AATD).",
+      "category": "pathologie",
+      "synonyms": [
+        "prédispositions génétiques"
+      ],
+      "related_terms": [
+        "pollution de l'air extérieur",
+        "âge et sexe"
+      ],
+      "description": "Les facteurs génétiques peuvent augmenter la susceptibilité à la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alpha-1-antitrypsine (AATD)",
+      "definition": "Protéine sérique qui inhibe la protéase neutrophile élastase, dont le déficit héréditaire sévère homozygote est un facteur de risque de la BPCO.",
+      "category": "microbiologie",
+      "synonyms": [
+        "AATD"
+      ],
+      "related_terms": [
+        "facteurs génétiques"
+      ],
+      "description": "Le déficit en alpha-1-antitrypsine peut entraîner une dégradation accrue des tissus pulmonaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperréactivité des voies aériennes",
+      "definition": "Réponse excessive des voies respiratoires à divers stimuli, caractérisée par une contraction accrue des muscles lisses bronchiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperréactivité bronchique"
+      ],
+      "related_terms": [
+        "asthme"
+      ],
+      "description": "L'hyperréactivité des voies aériennes est souvent associée à l'asthme et peut être un facteur de risque pour la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inflammation chronique",
+      "definition": "Processus inflammatoire persistant dans le temps, souvent associé à des maladies chroniques comme la BPCO.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation persistante"
+      ],
+      "related_terms": [
+        "BPCO",
+        "stress oxydant"
+      ],
+      "description": "L'inflammation chronique dans la BPCO est caractérisée par une infiltration de cellules inflammatoires dans les voies respiratoires, entraînant des modifications structurales et fonctionnelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stress oxydant",
+      "definition": "Déséquilibre entre la production de radicaux libres et la capacité antioxydante de l'organisme, contribuant à des dommages cellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "stress oxydatif"
+      ],
+      "related_terms": [
+        "inflammation chronique",
+        "BPCO"
+      ],
+      "description": "Le stress oxydant joue un rôle clé dans la pathogenèse de la BPCO en favorisant l'inflammation et les dommages tissulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protéase-anti-protéase",
+      "definition": "Balance entre les enzymes protéolytiques (protéases) et leurs inhibiteurs (anti-protéases) qui régule la dégradation des protéines.",
+      "category": "physiologie",
+      "synonyms": [
+        "équilibre protéase-anti-protéase"
+      ],
+      "related_terms": [
+        "élastase",
+        "alpha-1 antitrypsine"
+      ],
+      "description": "Un déséquilibre de cette balance est impliqué dans la destruction tissulaire observée dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GOLD III",
+      "definition": "Stade de gravité de la BPCO selon la classification GOLD, caractérisé par une obstruction sévère des voies aériennes.",
+      "category": "classification",
+      "synonyms": [
+        "GOLD 3"
+      ],
+      "related_terms": [
+        "GOLD IV",
+        "BPCO"
+      ],
+      "description": "Les patients au stade GOLD III présentent une diminution significative de la fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GOLD IV",
+      "definition": "Stade de gravité de la BPCO selon la classification GOLD, caractérisé par une obstruction très sévère des voies aériennes.",
+      "category": "classification",
+      "synonyms": [
+        "GOLD 4"
+      ],
+      "related_terms": [
+        "GOLD III",
+        "BPCO"
+      ],
+      "description": "Les patients au stade GOLD IV ont une fonction pulmonaire très altérée et une qualité de vie réduite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PG",
+      "definition": "Prostaglandines, des médiateurs lipidiques dérivés de l'acide arachidonique, impliqués dans divers processus physiologiques et pathologiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "prostaglandines"
+      ],
+      "related_terms": [
+        "thromboxane",
+        "PGD2",
+        "PGF2α"
+      ],
+      "description": "Les prostaglandines jouent un rôle dans l'inflammation et la contraction des muscles lisses bronchiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MMP-9",
+      "definition": "Métalloprotéinase matricielle 9, une enzyme protéolytique impliquée dans la dégradation de la matrice extracellulaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "métalloprotéinase 9"
+      ],
+      "related_terms": [
+        "élastase",
+        "cathepsine G"
+      ],
+      "description": "La MMP-9 est impliquée dans le remodelage tissulaire et l'inflammation dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MMP",
+      "definition": "Métalloprotéinases matricielles, une famille d'enzymes protéolytiques impliquées dans la dégradation de la matrice extracellulaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "métalloprotéinases"
+      ],
+      "related_terms": [
+        "MMP-9",
+        "élastase"
+      ],
+      "description": "Les MMP jouent un rôle dans le remodelage tissulaire et l'inflammation dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDAC2",
+      "definition": "Histone deacetylase 2, une enzyme impliquée dans la régulation de l'expression génique par la modification des histones.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "histone deacetylase 2"
+      ],
+      "related_terms": [
+        "COPD",
+        "inflammation"
+      ],
+      "description": "HDAC2 est impliquée dans la régulation de l'inflammation dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "COPD",
+      "definition": "Chronic Obstructive Pulmonary Disease, terme anglais pour la Broncho-Pneumopathie Chronique Obstructive.",
+      "category": "pathologie",
+      "synonyms": [
+        "BPCO"
+      ],
+      "related_terms": [
+        "emphysème",
+        "bronchite chronique"
+      ],
+      "description": "La COPD est une maladie respiratoire chronique caractérisée par une obstruction persistante des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CV",
+      "definition": "Capacité Vitale, volume d'air maximal expiré après une inspiration maximale.",
+      "category": "physiologie",
+      "synonyms": [
+        "capacité vitale"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF"
+      ],
+      "description": "La CV est une mesure de la fonction pulmonaire utilisée dans les tests de fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEMM",
+      "definition": "Débit Expiratoire Moyen Maximal, mesure du débit d'air expiré entre 25% et 75% de la capacité vitale forcée.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEF25-75"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF"
+      ],
+      "description": "Le DEMM est une mesure de la fonction pulmonaire utilisée pour évaluer l'obstruction des petites voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEM25%",
+      "definition": "Débit Expiratoire Maximal à 25% de la capacité vitale forcée, mesure du débit d'air expiré à 25% de la CVF.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEF25"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF"
+      ],
+      "description": "Le DEM25% est une mesure de la fonction pulmonaire utilisée pour évaluer l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DEM50%",
+      "definition": "Débit Expiratoire Maximal à 50% de la capacité vitale forcée, mesure du débit d'air expiré à 50% de la CVF.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEF50"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF"
+      ],
+      "description": "Le DEM50% est une mesure de la fonction pulmonaire utilisée pour évaluer l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Raw",
+      "definition": "Résistance des Voies Aériennes, mesure de la résistance à l'écoulement de l'air dans les voies respiratoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "résistance des voies aériennes"
+      ],
+      "related_terms": [
+        "BPCO",
+        "emphysème"
+      ],
+      "description": "La Raw est une mesure de la fonction pulmonaire utilisée pour évaluer l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mMRC",
+      "definition": "Modified Medical Research Council, une échelle utilisée pour évaluer la sévérité de la dyspnée.",
+      "category": "classification",
+      "synonyms": [
+        "échelle MRC modifiée"
+      ],
+      "related_terms": [
+        "dyspnée",
+        "essoufflement"
+      ],
+      "description": "L'échelle mMRC classe la dyspnée en 5 grades de sévérité croissante, allant de l'essoufflement à l'effort intense à l'essoufflement au repos.",
+      "expansion": "Modified Medical Research Council",
+      "clinical_significance": "Utilisée pour évaluer l'impact de la dyspnée sur la qualité de vie des patients.",
+      "normal_values": null,
+      "image_search_terms": [
+        "mMRC scale",
+        "dyspnea scale"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Polypnée de repos",
+      "definition": "Augmentation de la fréquence respiratoire au repos, souvent observée dans les maladies respiratoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "tachypnée"
+      ],
+      "related_terms": [
+        "fréquence respiratoire",
+        "hyperventilation"
+      ],
+      "description": "La polypnée de repos est un signe d'insuffisance respiratoire et peut être observée dans les stades avancés de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polypnea",
+        "tachypnea"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "Respiration à lèvres pincées",
+      "definition": "Technique respiratoire où les lèvres sont pincées pendant l'expiration pour ralentir le flux d'air.",
+      "category": "physiologie",
+      "synonyms": [
+        "pursed-lip breathing"
+      ],
+      "related_terms": [
+        "expiration prolongée",
+        "collapsus expiratoire"
+      ],
+      "description": "Cette technique aide à maintenir les voies aériennes ouvertes et à améliorer l'échange gazeux chez les patients atteints de BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pursed-lip breathing",
+        "respiratory technique"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "Signe de Hoover",
+      "definition": "Diminution paradoxale du diamètre thoracique inférieur pendant l'inspiration, contrastant avec une distension de la partie supérieure.",
+      "category": "physiologie",
+      "synonyms": [
+        "Hoover's sign"
+      ],
+      "related_terms": [
+        "distension thoracique",
+        "inspiration paradoxale"
+      ],
+      "description": "Le signe de Hoover est souvent observé dans les maladies pulmonaires obstructives comme la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Hoover's sign",
+        "thoracic distension"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Signe de Campbell",
+      "definition": "Descente inspiratoire de la trachée, observée dans certaines maladies respiratoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "Campbell's sign"
+      ],
+      "related_terms": [
+        "trachée",
+        "inspiration"
+      ],
+      "description": "Le signe de Campbell est un indicateur de l'effort respiratoire accru et peut être observé dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Campbell's sign",
+        "tracheal descent"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "CDD",
+      "definition": "Complications Directement Dépendantes, des complications qui sont directement liées à la maladie principale.",
+      "category": "pathologie",
+      "synonyms": [
+        "complications directement dépendantes"
+      ],
+      "related_terms": [
+        "complications",
+        "maladie principale"
+      ],
+      "description": "Les CDD de la BPCO incluent l'IRC et l'IRA, qui sont des complications graves de la maladie.",
+      "expansion": "Complications Directement Dépendantes",
+      "clinical_significance": "Les CDD nécessitent une gestion spécifique et peuvent aggraver le pronostic de la maladie principale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "directly dependent complications",
+        "CDD"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "Emphysème Centrolobulaire",
+      "definition": "Type d'emphysème affectant principalement les lobules centraux des poumons, souvent associé au tabagisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "centrilobular emphysema"
+      ],
+      "related_terms": [
+        "emphysème",
+        "tabagisme"
+      ],
+      "description": "L'emphysème centrolobulaire est une forme commune d'emphysème observée dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "centrilobular emphysema",
+        "lung emphysema"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Murmure vésiculaire",
+      "definition": "Son respiratoire normal entendu à l'auscultation, produit par le mouvement de l'air dans les alvéoles pulmonaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "vesicular breath sound"
+      ],
+      "related_terms": [
+        "auscultation",
+        "alvéoles pulmonaires"
+      ],
+      "description": "Une diminution du murmure vésiculaire peut indiquer une obstruction des voies aériennes ou une consolidation pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vesicular breath sound",
+        "lung auscultation"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.89
+    },
+    {
+      "term": "Râles bronchiques",
+      "definition": "Sons respiratoires anormaux entendus à l'auscultation, caractérisés par des bruits rauques ou gargouillants.",
+      "category": "physiologie",
+      "synonyms": [
+        "bronchial breath sounds"
+      ],
+      "related_terms": [
+        "auscultation",
+        "bronches"
+      ],
+      "description": "Les râles bronchiques peuvent indiquer une présence de sécrétions dans les bronches ou une consolidation pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchial breath sounds",
+        "lung auscultation"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.87
+    },
+    {
+      "term": "Cœur pulmonaire chronique",
+      "definition": "Condition où le cœur droit est hypertrophié en réponse à une hypertension pulmonaire chronique, souvent due à une maladie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "cor pulmonale"
+      ],
+      "related_terms": [
+        "hypertension pulmonaire",
+        "insuffisance cardiaque droite"
+      ],
+      "description": "Le cœur pulmonaire chronique est une complication grave de la BPCO et d'autres maladies pulmonaires chroniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cor pulmonale",
+        "chronic pulmonary heart disease"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.86
+    },
+    {
+      "term": "Turgescence spontanée",
+      "definition": "Gonflement visible des veines jugulaires, souvent observé dans l'insuffisance cardiaque droite.",
+      "category": "physiologie",
+      "synonyms": [
+        "jugular venous distension"
+      ],
+      "related_terms": [
+        "veines jugulaires",
+        "insuffisance cardiaque"
+      ],
+      "description": "La turgescence spontanée des veines jugulaires est un signe d'augmentation de la pression veineuse centrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "jugular venous distension",
+        "venous pressure"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "Reflux hépato-jugulaire",
+      "definition": "Augmentation de la pression veineuse jugulaire lors de la compression du foie, indiquant une insuffisance cardiaque droite.",
+      "category": "physiologie",
+      "synonyms": [
+        "hepatojugular reflux"
+      ],
+      "related_terms": [
+        "veines jugulaires",
+        "foie",
+        "insuffisance cardiaque"
+      ],
+      "description": "Le reflux hépato-jugulaire est un signe clinique important dans l'évaluation de l'insuffisance cardiaque droite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hepatojugular reflux",
+        "venous pressure"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.84
+    },
+    {
+      "term": "Éclat de B2",
+      "definition": "Augmentation de l'intensité du deuxième bruit cardiaque (B2) au foyer pulmonaire, souvent due à une hypertension pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "loud P2"
+      ],
+      "related_terms": [
+        "bruit cardiaque",
+        "hypertension pulmonaire"
+      ],
+      "description": "L'éclat de B2 est un signe clinique important dans l'évaluation de l'hypertension pulmonaire et du cœur pulmonaire chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "loud P2",
+        "pulmonary hypertension"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.82
+    },
+    {
+      "term": "Souffle systolique xiphoïdien",
+      "definition": "Souffle cardiaque entendu pendant la systole au niveau du processus xiphoïde, souvent associé à une insuffisance tricuspide.",
+      "category": "physiologie",
+      "synonyms": [
+        "xiphoid systolic murmur"
+      ],
+      "related_terms": [
+        "souffle cardiaque",
+        "insuffisance tricuspide"
+      ],
+      "description": "Le souffle systolique xiphoïdien est un signe clinique important dans l'évaluation de l'insuffisance cardiaque droite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "xiphoid systolic murmur",
+        "tricuspid regurgitation"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.81
+    },
+    {
+      "term": "volumes mobilisables",
+      "definition": "Volumes pulmonaires qui peuvent être mobilisés lors de la respiration, incluant le volume courant (VT), le volume de réserve inspiratoire (VRI), le volume de réserve expiratoire (VRE) et la capacité vitale (CV).",
+      "category": "physiologie",
+      "synonyms": [
+        "volumes respiratoires mobilisables"
+      ],
+      "related_terms": [
+        "volume courant",
+        "volume de réserve inspiratoire",
+        "volume de réserve expiratoire",
+        "capacité vitale"
+      ],
+      "description": "Ces volumes sont mesurés par spirométrie et sont essentiels pour évaluer la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volumes non mobilisables",
+      "definition": "Volumes pulmonaires qui ne peuvent pas être mobilisés lors de la respiration, incluant la capacité résiduelle fonctionnelle (CRF), le volume résiduel (VR) et la capacité pulmonaire totale (CPT).",
+      "category": "physiologie",
+      "synonyms": [
+        "volumes respiratoires non mobilisables"
+      ],
+      "related_terms": [
+        "capacité résiduelle fonctionnelle",
+        "volume résiduel",
+        "capacité pulmonaire totale"
+      ],
+      "description": "Ces volumes sont mesurés par pléthysmographie corporelle totale ou par dilution gazeuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pléthysmographie corporelle totale",
+      "definition": "Technique de mesure des volumes pulmonaires non mobilisables en plaçant le patient dans une cabine étanche et en mesurant les changements de pression et de volume.",
+      "category": "imagerie",
+      "synonyms": [
+        "pléthysmographie"
+      ],
+      "related_terms": [
+        "volumes non mobilisables",
+        "capacité résiduelle fonctionnelle",
+        "volume résiduel",
+        "capacité pulmonaire totale"
+      ],
+      "description": "Utilisée pour évaluer les volumes pulmonaires non mobilisables dans le diagnostic de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dilution gazeuse",
+      "definition": "Méthode de mesure des volumes pulmonaires non mobilisables en utilisant des gaz inertes comme l'hélium ou l'azote pour déterminer les volumes résiduels.",
+      "category": "physiologie",
+      "synonyms": [
+        "rinçage d'azote",
+        "dilution d'hélium"
+      ],
+      "related_terms": [
+        "volumes non mobilisables",
+        "capacité résiduelle fonctionnelle",
+        "volume résiduel",
+        "capacité pulmonaire totale"
+      ],
+      "description": "Utilisée pour évaluer les volumes pulmonaires non mobilisables dans le diagnostic de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit ventilatoire obstructif (DVO)",
+      "definition": "Réduction du flux d'air dans les voies respiratoires, caractérisée par un rapport VEMS/CV ou VEMS/CVF inférieur à la limite inférieure de la normale (LIN) ou un z-score <-1,64.",
+      "category": "pathologie",
+      "synonyms": [
+        "obstruction bronchique"
+      ],
+      "related_terms": [
+        "asthme",
+        "BPCO",
+        "VEMS/CV",
+        "VEMS/CVF",
+        "LIN",
+        "z-score"
+      ],
+      "description": "Le DVO peut être proximal ou distal et est souvent associé à l'asthme ou à la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VEMS/CV",
+      "definition": "Rapport entre le volume expiratoire maximal en une seconde (VEMS) et la capacité vitale (CV), utilisé pour évaluer la fonction respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "Tiffeneau"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CV",
+        "déficit ventilatoire obstructif"
+      ],
+      "description": "Un rapport VEMS/CV inférieur à la limite inférieure de la normale (LIN) ou un z-score <-1,64 indique un déficit ventilatoire obstructif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VEMS/CVF",
+      "definition": "Rapport entre le volume expiratoire maximal en une seconde (VEMS) et la capacité vitale forcée (CVF), utilisé pour évaluer la fonction respiratoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "VEMS/FVC"
+      ],
+      "related_terms": [
+        "VEMS",
+        "CVF",
+        "déficit ventilatoire obstructif"
+      ],
+      "description": "Un rapport VEMS/CVF inférieur à la limite inférieure de la normale (LIN) ou un z-score <-1,64 indique un déficit ventilatoire obstructif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit ventilatoire restrictif (DVR)",
+      "definition": "Réduction de la capacité pulmonaire totale (CPT) en dessous de la limite inférieure de la normale (LIN) ou un z-score <-1,64, indiquant une restriction des volumes pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "restriction pulmonaire"
+      ],
+      "related_terms": [
+        "fibrose pulmonaire",
+        "CPT",
+        "LIN",
+        "z-score"
+      ],
+      "description": "Le DVR est souvent associé à des maladies comme la fibrose pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome mixte",
+      "definition": "Combinaison d'un déficit ventilatoire obstructif et restrictif, caractérisée par un rapport VEMS/CV ou VEMS/CVF inférieur à la LIN ou un z-score <-1,64 et une CPT inférieure à la LIN.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome obstructif et restrictif"
+      ],
+      "related_terms": [
+        "déficit ventilatoire obstructif",
+        "déficit ventilatoire restrictif",
+        "VEMS/CV",
+        "VEMS/CVF",
+        "CPT",
+        "LIN",
+        "z-score"
+      ],
+      "description": "Le syndrome mixte est une combinaison de deux types de déficits ventilatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α1 antitrypsine",
+      "definition": "Protéine sérique qui inhibe la trypsine et d'autres protéases, dont le déficit est associé à l'emphysème pulmonaire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "alpha-1 antitrypsine"
+      ],
+      "related_terms": [
+        "emphysème",
+        "déficit en α1 antitrypsine"
+      ],
+      "description": "Le dosage de l'α1 antitrypsine est demandé en cas de maladie précoce sans antécédents de tabagisme et avec des antécédents familiaux d'emphysème.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxymétrie nocturne",
+      "definition": "Mesure de la saturation en oxygène du sang pendant la nuit pour détecter la désaturation nocturne.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxymétrie de pouls nocturne"
+      ],
+      "related_terms": [
+        "désaturation nocturne"
+      ],
+      "description": "Utilisée pour rechercher une désaturation nocturne chez les patients atteints de BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polysomnographie",
+      "definition": "Examen de sommeil qui enregistre plusieurs paramètres physiologiques pendant le sommeil, y compris l'activité cérébrale, les mouvements oculaires, la respiration et les niveaux d'oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "étude du sommeil"
+      ],
+      "related_terms": [
+        "syndrome d'apnées obstructives du sommeil (SAOS)",
+        "HTAP",
+        "polyglobulie"
+      ],
+      "description": "Utilisée pour diagnostiquer le syndrome d'apnées obstructives du sommeil (SAOS) et d'autres troubles du sommeil.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome d'apnées obstructives du sommeil (SAOS)",
+      "definition": "Trouble du sommeil caractérisé par des pauses respiratoires répétées pendant le sommeil en raison de l'obstruction des voies respiratoires supérieures.",
+      "category": "pathologie",
+      "synonyms": [
+        "apnée du sommeil"
+      ],
+      "related_terms": [
+        "polysomnographie",
+        "HTAP",
+        "polyglobulie"
+      ],
+      "description": "Le SAOS est souvent associé à la BPCO et peut aggraver l'hypoxémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CAT",
+      "definition": "COPD Assessment Test, un auto-questionnaire utilisé pour évaluer l'impact de la BPCO sur la qualité de vie des patients.",
+      "category": "classification",
+      "synonyms": [
+        "COPD Assessment Test"
+      ],
+      "related_terms": [
+        "BPCO",
+        "mMRC"
+      ],
+      "description": "Le CAT est utilisé pour évaluer la sévérité des symptômes de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GOLD",
+      "definition": "Global Initiative for Chronic Obstructive Lung Disease, une initiative mondiale qui fournit des recommandations pour le diagnostic, le traitement et la prise en charge de la BPCO.",
+      "category": "classification",
+      "synonyms": [
+        "Global Initiative for Chronic Obstructive Lung Disease"
+      ],
+      "related_terms": [
+        "BPCO",
+        "VEMS",
+        "mMRC",
+        "CAT"
+      ],
+      "description": "Les recommandations GOLD incluent l'évaluation de la sévérité de l'obstruction bronchique, des symptômes et du risque d'exacerbations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pathologies cardio-vasculaires",
+      "definition": "Maladies affectant le cœur et les vaisseaux sanguins, souvent associées à un risque accru de complications chez les patients atteints de BPCO.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies cardiovasculaires"
+      ],
+      "related_terms": [
+        "BPCO"
+      ],
+      "description": "Les pathologies cardio-vasculaires sont des comorbidités fréquentes et importantes dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéoporose",
+      "definition": "Maladie caractérisée par une diminution de la densité osseuse, entraînant une fragilité osseuse et un risque accru de fractures.",
+      "category": "pathologie",
+      "synonyms": [
+        "fragilité osseuse"
+      ],
+      "related_terms": [
+        "BPCO"
+      ],
+      "description": "L'ostéoporose est une comorbidité fréquente et souvent sous-diagnostiquée chez les patients atteints de BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dépression/anxiété",
+      "definition": "Troubles mentaux caractérisés par des sentiments de tristesse, de désespoir, d'anxiété et de perte d'intérêt pour les activités quotidiennes.",
+      "category": "pathologie",
+      "synonyms": [
+        "troubles de l'humeur"
+      ],
+      "related_terms": [
+        "BPCO"
+      ],
+      "description": "La dépression et l'anxiété sont des comorbidités fréquentes et importantes dans la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "reflux gastro-œsophagien (RGO)",
+      "definition": "Remontée de l'acide gastrique dans l'œsophage, causant des symptômes comme les brûlures d'estomac et les régurgitations.",
+      "category": "pathologie",
+      "synonyms": [
+        "reflux acide"
+      ],
+      "related_terms": [
+        "BPCO",
+        "exacerbations"
+      ],
+      "description": "Le RGO est associé à un risque accru d'exacerbations chez les patients atteints de BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phénotype",
+      "definition": "Ensemble des caractéristiques apparentes d'un individu résultant de l'interaction entre le génotype et l'environnement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "génotype",
+        "environnement"
+      ],
+      "description": "Le phénotype est utilisé pour classer les patients en sous-groupes ayant des caractéristiques cliniques similaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "obstruction",
+      "definition": "Blocage partiel ou total des voies respiratoires, empêchant le passage normal de l'air.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "L'obstruction des voies aériennes est une caractéristique principale de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réversibilité",
+      "definition": "Capacité des voies aériennes à revenir à un état normal après un traitement.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronchodilatateurs",
+        "asthme"
+      ],
+      "description": "La réversibilité est souvent évaluée par des tests de fonction pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "distension",
+      "definition": "Étirement ou expansion anormale des tissus ou des organes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "emphysème",
+        "BPCO"
+      ],
+      "description": "La distension pulmonaire est souvent observée dans l'emphysème.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diffusion",
+      "definition": "Processus par lequel les gaz respiratoires passent à travers la membrane alvéolo-capillaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "capacité de diffusion",
+        "monoxyde de carbone"
+      ],
+      "description": "La diffusion est essentielle pour l'échange de gaz dans les poumons.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tolérance à l'exercice",
+      "definition": "Capacité d'un individu à effectuer des activités physiques sans développer de symptômes limitants.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "BPCO",
+        "dyspnée"
+      ],
+      "description": "La tolérance à l'exercice est souvent réduite dans les maladies respiratoires chroniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TNF alpha",
+      "definition": "Facteur de nécrose tumorale alpha, une cytokine pro-inflammatoire.",
+      "category": "microbiologie",
+      "synonyms": [
+        "TNF-α"
+      ],
+      "related_terms": [
+        "inflammation",
+        "cytokine"
+      ],
+      "description": "Le TNF alpha joue un rôle clé dans la réponse immunitaire et l'inflammation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IL8",
+      "definition": "Interleukine 8, une cytokine pro-inflammatoire impliquée dans la chimiotaxie des neutrophiles.",
+      "category": "microbiologie",
+      "synonyms": [
+        "interleukine 8"
+      ],
+      "related_terms": [
+        "inflammation",
+        "neutrophiles"
+      ],
+      "description": "L'IL8 est impliquée dans les réponses inflammatoires et immunitaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTP",
+      "definition": "Hypertension pulmonaire, une augmentation de la pression dans les artères pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypertension artérielle pulmonaire"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque",
+        "emphysème"
+      ],
+      "description": "L'HTP peut entraîner une insuffisance cardiaque droite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ACO",
+      "definition": "Asthma-COPD Overlap, un syndrome où les patients présentent des caractéristiques à la fois de l'asthme et de la BPCO.",
+      "category": "pathologie",
+      "synonyms": [
+        "chevauchement asthme-BPCO"
+      ],
+      "related_terms": [
+        "asthme",
+        "BPCO"
+      ],
+      "description": "L'ACO nécessite une approche thérapeutique spécifique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GOLD 2020",
+      "definition": "Global Initiative for Chronic Obstructive Lung Disease, une initiative mondiale visant à améliorer la prévention et le traitement de la BPCO.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "BPCO",
+        "classification"
+      ],
+      "description": "La classification GOLD 2020 est utilisée pour évaluer la sévérité de la BPCO et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exacerbations aiguës",
+      "definition": "Aggravation soudaine des symptômes respiratoires chez un patient atteint de BPCO, nécessitant une modification thérapeutique.",
+      "category": "pathologie",
+      "synonyms": [
+        "EA"
+      ],
+      "related_terms": [
+        "dyspnée",
+        "toux",
+        "expectorations"
+      ],
+      "description": "Les exacerbations aiguës sont souvent d'origine infectieuse et peuvent nécessiter une hospitalisation.",
+      "expansion": null,
+      "clinical_significance": "Les exacerbations aiguës sont des événements cliniques importants qui peuvent accélérer la progression de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "gazométries",
+      "definition": "Analyse des gaz du sang artériel pour mesurer les niveaux d'oxygène, de dioxyde de carbone et le pH.",
+      "category": "imagerie",
+      "synonyms": [
+        "gazométrie artérielle"
+      ],
+      "related_terms": [
+        "PaO2",
+        "PaCO2",
+        "pH"
+      ],
+      "description": "Les gazométries sont essentielles pour évaluer la fonction respiratoire et l'équilibre acido-basique.",
+      "expansion": null,
+      "clinical_significance": "Les gazométries sont utilisées pour diagnostiquer et surveiller l'insuffisance respiratoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "hypertension pulmonaire",
+      "definition": "Augmentation de la pression artérielle dans les artères pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cœur pulmonaire chronique"
+      ],
+      "description": "L'hypertension pulmonaire peut entraîner une insuffisance cardiaque droite.",
+      "expansion": null,
+      "clinical_significance": "L'hypertension pulmonaire est une complication grave de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.93
+    },
+    {
+      "term": "emphysème centro-lobulaire",
+      "definition": "Forme d'emphysème affectant principalement les lobules centraux des poumons.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "emphysème"
+      ],
+      "description": "L'emphysème centro-lobulaire est souvent associé à la bronchite chronique.",
+      "expansion": null,
+      "clinical_significance": "L'emphysème centro-lobulaire contribue à la progression de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "signe de Harzer",
+      "definition": "Signe clinique caractérisé par un bruit cardiaque anormalement fort ou accentué, souvent associé à une hypertension pulmonaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "éclat de B2",
+        "bruit de Galop"
+      ],
+      "description": "Le signe de Harzer est un signe clinique de retentissement cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Le signe de Harzer peut indiquer une hypertension pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.88
+    },
+    {
+      "term": "bruit de Galop",
+      "definition": "Bruit cardiaque additionnel, souvent un troisième ou quatrième bruit, indiquant une dysfonction ventriculaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "éclat de B2",
+        "signe de Harzer"
+      ],
+      "description": "Le bruit de Galop est un signe clinique de retentissement cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Le bruit de Galop peut indiquer une insuffisance cardiaque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.87
+    },
+    {
+      "term": "insuffisance tricuspide fonctionnelle",
+      "definition": "Dysfonction de la valve tricuspide du cœur, souvent secondaire à une hypertension pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "foie cardiaque",
+        "stase sanguine"
+      ],
+      "description": "L'insuffisance tricuspide fonctionnelle est une complication du cœur pulmonaire chronique.",
+      "expansion": null,
+      "clinical_significance": "L'insuffisance tricuspide fonctionnelle peut entraîner une congestion hépatique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.86
+    },
+    {
+      "term": "foie cardiaque",
+      "definition": "Hypertrophie du foie due à une congestion passive, souvent secondaire à une insuffisance cardiaque droite.",
+      "category": "pathologie",
+      "synonyms": [
+        "hépatomégalie"
+      ],
+      "related_terms": [
+        "insuffisance tricuspide fonctionnelle",
+        "stase sanguine"
+      ],
+      "description": "Le foie cardiaque est un signe de retentissement cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Le foie cardiaque peut indiquer une insuffisance cardiaque droite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.85
+    },
+    {
+      "term": "stase sanguine",
+      "definition": "Accumulation anormale de sang dans les veines, souvent due à une insuffisance cardiaque.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance tricuspide fonctionnelle",
+        "foie cardiaque"
+      ],
+      "description": "La stase sanguine est un signe de retentissement cardiaque.",
+      "expansion": null,
+      "clinical_significance": "La stase sanguine peut entraîner des œdèmes périphériques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.84
+    },
+    {
+      "term": "épanchements pleuraux",
+      "definition": "Accumulation de liquide dans la cavité pleurale, souvent due à une insuffisance cardiaque ou une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pneumothorax"
+      ],
+      "description": "Les épanchements pleuraux peuvent être un signe de retentissement cardiaque ou d'infection.",
+      "expansion": null,
+      "clinical_significance": "Les épanchements pleuraux peuvent nécessiter une ponction évacuatrice.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.83
+    },
+    {
+      "term": "SABD",
+      "definition": "Bronchodilatateurs à durée d'action courte, utilisés pour traiter les exacerbations aiguës de BPCO.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronchodilatateurs"
+      ],
+      "description": "Les SABD sont utilisés pour soulager les symptômes respiratoires aigus.",
+      "expansion": null,
+      "clinical_significance": "Les SABD sont essentiels dans le traitement des exacerbations aiguës de BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.82
+    },
+    {
+      "term": "béta2+",
+      "definition": "Bêta-2 agonistes, médicaments utilisés pour traiter l'asthme et la BPCO en relaxant les muscles des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-2 agonistes"
+      ],
+      "related_terms": [
+        "bronchodilatateurs",
+        "BPCO",
+        "asthme"
+      ],
+      "description": "Les bêta-2 agonistes sont souvent utilisés en inhalation pour soulager les symptômes respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-2 agonistes",
+        "bronchodilatateurs"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "LDE",
+      "definition": "Limitation du Débit Expiratoire, une mesure de la capacité des voies respiratoires à expirer de l'air.",
+      "category": "physiologie",
+      "synonyms": [
+        "Limitation du Débit Expiratoire"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "La LDE est un indicateur important de la fonction pulmonaire et de la sévérité de l'obstruction des voies aériennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "LDE",
+        "Limitation du Débit Expiratoire"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tests cutanés (TC)",
+      "definition": "Tests utilisés pour détecter les allergies en injectant de petites quantités d'allergènes sous la peau.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Tests cutanés"
+      ],
+      "related_terms": [
+        "IgE",
+        "asthme"
+      ],
+      "description": "Les tests cutanés sont couramment utilisés pour identifier les allergènes spécifiques responsables des symptômes allergiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Tests cutanés",
+        "allergies"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "monoxyde d'azote exhalé (FeNO)",
+      "definition": "Mesure de la concentration de monoxyde d'azote dans l'air exhalé, utilisée pour évaluer l'inflammation des voies respiratoires.",
+      "category": "physiologie",
+      "synonyms": [
+        "FeNO"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "Le FeNO est un marqueur de l'inflammation des voies respiratoires et est souvent élevé dans l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FeNO",
+        "monoxyde d'azote exhalé"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "VA",
+      "definition": "Voies Aériennes, les passages par lesquels l'air circule dans les poumons.",
+      "category": "anatomie",
+      "synonyms": [
+        "Voies Aériennes"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "Les VA peuvent être affectées par des maladies respiratoires comme la BPCO et l'asthme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "VA",
+        "Voies Aériennes"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.89
+    },
+    {
+      "term": "bronchodilatateurs",
+      "definition": "Médicaments utilisés pour dilater les voies respiratoires et améliorer la respiration.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bronchodilatateurs"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "Les bronchodilatateurs sont couramment utilisés pour traiter l'asthme et la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bronchodilatateurs",
+        "médicaments respiratoires"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.88
+    },
+    {
+      "term": "EA",
+      "definition": "Exacerbation Aiguë, une aggravation soudaine des symptômes d'une maladie chronique.",
+      "category": "pathologie",
+      "synonyms": [
+        "Exacerbation Aiguë"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "Les EA sont des périodes de détérioration rapide des symptômes respiratoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EA",
+        "Exacerbation Aiguë"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.87
+    },
+    {
+      "term": "VNI",
+      "definition": "Ventilation Non Invasive, une méthode de ventilation qui n'utilise pas de tube endotrachéal.",
+      "category": "physiologie",
+      "synonyms": [
+        "Ventilation Non Invasive"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "La VNI est utilisée pour soutenir la respiration sans intubation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "VNI",
+        "Ventilation Non Invasive"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.84
+    },
+    {
+      "term": "purulence",
+      "definition": "Présence de pus dans les expectorations, souvent indicative d'une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "purulence"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "La purulence des expectorations est un signe d'infection respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purulence",
+        "expectorations purulentes"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.82
+    },
+    {
+      "term": "SPLF",
+      "definition": "Société de Pneumologie de Langue Française, une organisation professionnelle dédiée à l'étude et au traitement des maladies respiratoires.",
+      "category": "acronyme",
+      "synonyms": [
+        "Société de Pneumologie de Langue Française"
+      ],
+      "related_terms": [
+        "BPCO",
+        "asthme"
+      ],
+      "description": "La SPLF fournit des recommandations et des lignes directrices pour la gestion des maladies respiratoires.",
+      "expansion": "Société de Pneumologie de Langue Française",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SPLF",
+        "Société de Pneumologie de Langue Française"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.81
+    },
+    {
+      "term": "Fagerström",
+      "definition": "Test de Fagerström, un questionnaire utilisé pour évaluer le niveau de dépendance à la nicotine chez les fumeurs.",
+      "category": "classification",
+      "synonyms": [
+        "test de dépendance à la nicotine"
+      ],
+      "related_terms": [
+        "sevrage tabagique",
+        "dépendance à la nicotine"
+      ],
+      "description": "Le test de Fagerström aide à déterminer le degré de dépendance à la nicotine et à guider les interventions de sevrage tabagique.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour évaluer la dépendance à la nicotine et planifier des interventions de sevrage tabagique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "test de Fagerström",
+        "dépendance à la nicotine"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bupropion",
+      "definition": "Médicament utilisé comme aide au sevrage tabagique en réduisant les envies de nicotine et les symptômes de sevrage.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Zyban"
+      ],
+      "related_terms": [
+        "Varénicline",
+        "substituts nicotiniques"
+      ],
+      "description": "Le Bupropion agit en inhibant la recapture de la dopamine et de la noradrénaline, réduisant ainsi les envies de nicotine.",
+      "expansion": null,
+      "clinical_significance": "Utilisé en deuxième ou troisième intention pour le sevrage tabagique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Bupropion",
+        "Zyban"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Varénicline",
+      "definition": "Médicament utilisé comme aide au sevrage tabagique en agissant sur les récepteurs nicotiniques pour réduire les envies de nicotine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Champix"
+      ],
+      "related_terms": [
+        "Bupropion",
+        "substituts nicotiniques"
+      ],
+      "description": "La Varénicline est un agoniste partiel des récepteurs nicotiniques, ce qui aide à réduire les envies de nicotine et les symptômes de sevrage.",
+      "expansion": null,
+      "clinical_significance": "Utilisé en deuxième intention pour le sevrage tabagique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Varénicline",
+        "Champix"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigrippale",
+      "definition": "Vaccination contre la grippe, destinée à prévenir l'infection par le virus de la grippe.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin antigrippal"
+      ],
+      "related_terms": [
+        "vaccination",
+        "grippe"
+      ],
+      "description": "La vaccination antigrippale est recommandée pour réduire le risque de complications graves de la grippe, notamment chez les personnes à risque.",
+      "expansion": null,
+      "clinical_significance": "Réduit le risque de complications graves de la grippe chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vaccin antigrippal",
+        "vaccination"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antipneumococcique",
+      "definition": "Vaccination contre les infections à pneumocoque, une bactérie responsable de pneumonies et d'autres infections graves.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin antipneumococcique"
+      ],
+      "related_terms": [
+        "vaccination",
+        "pneumocoque"
+      ],
+      "description": "La vaccination antipneumococcique est recommandée pour prévenir les infections à pneumocoque, notamment chez les personnes âgées et celles avec des comorbidités.",
+      "expansion": null,
+      "clinical_significance": "Réduit le risque de pneumonies et d'autres infections graves chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vaccin antipneumococcique",
+        "vaccination"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PPSV23",
+      "definition": "Vaccin polysaccharidique pneumococcique 23-valent, utilisé pour prévenir les infections à pneumocoque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pneumovax 23"
+      ],
+      "related_terms": [
+        "vaccination antipneumococcique",
+        "pneumocoque"
+      ],
+      "description": "Le PPSV23 est recommandé pour les personnes âgées et celles avec des comorbidités pour prévenir les infections à pneumocoque.",
+      "expansion": null,
+      "clinical_significance": "Réduit le risque de pneumonies et d'autres infections graves chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PPSV23",
+        "Pneumovax 23"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β2 adrénergiques",
+      "definition": "Médicaments qui stimulent les récepteurs bêta-2 adrénergiques, provoquant la relaxation des muscles lisses des voies respiratoires et la dilatation des bronches.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta2-agonistes"
+      ],
+      "related_terms": [
+        "bronchodilatateurs",
+        "salbutamol"
+      ],
+      "description": "Les β2 adrénergiques sont utilisés pour traiter l'asthme et la BPCO en améliorant la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Améliore la respiration et réduit les symptômes de la BPCO et de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "β2 adrénergiques",
+        "bêta2-agonistes"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méthyl xanthines",
+      "definition": "Classe de médicaments qui inclut la théophylline, utilisée pour traiter l'asthme et la BPCO en relaxant les muscles lisses des voies respiratoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "xanthines"
+      ],
+      "related_terms": [
+        "théophylline",
+        "bronchodilatateurs"
+      ],
+      "description": "Les méthyl xanthines sont utilisées pour traiter l'asthme et la BPCO en améliorant la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Améliore la respiration et réduit les symptômes de la BPCO et de l'asthme.",
+      "normal_values": null,
+      "image_search_terms": [
+        "méthyl xanthines",
+        "xanthines"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LABA",
+      "definition": "Bêta2-agonistes à longue durée d'action, utilisés pour un contrôle à long terme des symptômes de l'asthme et de la BPCO.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Long-Acting Beta Agonists"
+      ],
+      "related_terms": [
+        "salmétérol",
+        "formotérol"
+      ],
+      "description": "Les LABA sont utilisés pour un contrôle à long terme des symptômes de l'asthme et de la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour un contrôle à long terme des symptômes de l'asthme et de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LABA",
+        "Long-Acting Beta Agonists"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SAMA",
+      "definition": "Anticholinergiques à courte durée d'action, utilisés pour un soulagement rapide des symptômes de la BPCO.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Short-Acting Muscarinic Antagonists"
+      ],
+      "related_terms": [
+        "ipratropium",
+        "oxitropium"
+      ],
+      "description": "Les SAMA sont utilisés pour un soulagement rapide des symptômes de la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour un soulagement rapide des symptômes de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SAMA",
+        "Short-Acting Muscarinic Antagonists"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LAMA",
+      "definition": "Anticholinergiques à longue durée d'action, utilisés pour un contrôle à long terme des symptômes de la BPCO.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Long-Acting Muscarinic Antagonists"
+      ],
+      "related_terms": [
+        "tiotropium",
+        "aclidinium"
+      ],
+      "description": "Les LAMA sont utilisés pour un contrôle à long terme des symptômes de la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour un contrôle à long terme des symptômes de la BPCO.",
+      "normal_values": null,
+      "image_search_terms": [
+        "LAMA",
+        "Long-Acting Muscarinic Antagonists"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exacerbations",
+      "definition": "Épisodes aigus de détérioration des symptômes respiratoires chez les patients atteints de BPCO, souvent nécessitant une intervention médicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "poussées"
+      ],
+      "related_terms": [
+        "BPCO",
+        "dyspnée"
+      ],
+      "description": "Les exacerbations de la BPCO sont souvent déclenchées par des infections respiratoires ou des irritants environnementaux.",
+      "expansion": null,
+      "clinical_significance": "Les exacerbations de la BPCO peuvent nécessiter une hospitalisation et un traitement intensif.",
+      "normal_values": null,
+      "image_search_terms": [
+        "exacerbations",
+        "BPCO"
+      ],
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "β2 agonistes",
+      "definition": "Les β2 agonistes sont des médicaments bronchodilatateurs qui agissent en stimulant les récepteurs β2-adrénergiques, provoquant la relaxation des muscles lisses des voies respiratoires et facilitant ainsi la respiration.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "β2-adrénergiques",
+        "β2-mimétiques"
+      ],
+      "related_terms": [
+        "bronchodilatateurs",
+        "salbutamol",
+        "formotérol"
+      ],
+      "description": "Utilisés principalement dans le traitement de l'asthme et de la BPCO pour soulager les symptômes de bronchoconstriction.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour le traitement de l'asthme et de la BPCO, mais doivent être utilisés avec précaution en raison de leurs effets secondaires potentiels.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "théophylline",
+      "definition": "La théophylline est un médicament bronchodilatateur appartenant à la classe des méthylxanthines, utilisé pour traiter l'asthme et la BPCO en raison de ses propriétés bronchodilatatrices et anti-inflammatoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "méthylxanthine"
+      ],
+      "related_terms": [
+        "aminophylline",
+        "doxophylline"
+      ],
+      "description": "Utilisée pour ses effets bronchodilatateurs et anti-inflammatoires, mais avec une marge thérapeutique étroite et de nombreuses interactions médicamenteuses.",
+      "expansion": null,
+      "clinical_significance": "Utilisée en deuxième intention en raison de sa marge thérapeutique étroite et de ses interactions médicamenteuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PDE",
+      "definition": "Les inhibiteurs de la 4-Phosphodiestérase (PDE) sont des médicaments utilisés pour réduire l'inflammation et les exacerbations dans la BPCO.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "inhibiteurs de la phosphodiestérase"
+      ],
+      "related_terms": [
+        "roflumilast"
+      ],
+      "description": "Utilisés pour réduire les exacerbations dans la BPCO sévère à très sévère, particulièrement chez les bronchitiques chroniques.",
+      "expansion": null,
+      "clinical_significance": "Utiles pour réduire les exacerbations dans la BPCO sévère à très sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VEMS < 50%",
+      "definition": "Un VEMS inférieur à 50% indique une obstruction sévère des voies respiratoires, souvent observée dans les stades avancés de la BPCO.",
+      "category": "physiologie",
+      "synonyms": [
+        "FEV1 < 50%"
+      ],
+      "related_terms": [
+        "spirométrie",
+        "capacité vitale forcée"
+      ],
+      "description": "Indicateur d'une obstruction sévère des voies respiratoires, souvent observée dans les stades avancés de la BPCO.",
+      "expansion": null,
+      "clinical_significance": "Indicateur d'une obstruction sévère des voies respiratoires nécessitant une gestion intensive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réhabilitation respiratoire",
+      "definition": "La réhabilitation respiratoire est une approche multidisciplinaire visant à améliorer la capacité d'exercice, la dyspnée, la qualité de vie et la consommation de soins chez les patients atteints de BPCO.",
+      "category": "classification",
+      "synonyms": [
+        "réadaptation pulmonaire"
+      ],
+      "related_terms": [
+        "kinésithérapie respiratoire",
+        "éducation thérapeutique"
+      ],
+      "description": "Approche globale pour améliorer la capacité d'exercice, la dyspnée, la qualité de vie et la consommation de soins chez les patients atteints de BPCO.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour améliorer la qualité de vie et réduire la consommation de soins chez les patients atteints de BPCO.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxygénothérapie de longue durée",
+      "definition": "L'oxygénothérapie de longue durée est un traitement consistant à administrer de l'oxygène supplémentaire pour améliorer la survie chez les patients atteints de BPCO avec hypoxémie chronique.",
+      "category": "classification",
+      "synonyms": [
+        "oxygénothérapie chronique"
+      ],
+      "related_terms": [
+        "hypoxémie",
+        "insuffisance respiratoire"
+      ],
+      "description": "Traitement visant à améliorer la survie chez les patients atteints de BPCO avec hypoxémie chronique.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour améliorer la survie chez les patients atteints de BPCO avec hypoxémie chronique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ventilation assistée au long cours",
+      "definition": "La ventilation assistée au long cours est une méthode de soutien respiratoire utilisée chez les patients atteints de BPCO sévère avec hypercapnie, souvent administrée de manière non invasive.",
+      "category": "classification",
+      "synonyms": [
+        "ventilation non invasive"
+      ],
+      "related_terms": [
+        "VNI",
+        "hypercapnie"
+      ],
+      "description": "Méthode de soutien respiratoire utilisée chez les patients atteints de BPCO sévère avec hypercapnie, souvent administrée de manière non invasive.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour le soutien respiratoire chez les patients atteints de BPCO sévère avec hypercapnie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie de réduction de volume pulmonaire",
+      "definition": "La chirurgie de réduction de volume pulmonaire est une intervention chirurgicale visant à réséquer les zones pulmonaires les plus emphysémateuses pour améliorer la fonction respiratoire.",
+      "category": "classification",
+      "synonyms": [
+        "réduction de volume pulmonaire"
+      ],
+      "related_terms": [
+        "emphysème",
+        "chirurgie thoracique"
+      ],
+      "description": "Intervention chirurgicale visant à réséquer les zones pulmonaires les plus emphysémateuses pour améliorer la fonction respiratoire.",
+      "expansion": null,
+      "clinical_significance": "Option chirurgicale pour améliorer la fonction respiratoire chez les patients atteints d'emphysème sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie de réduction du volume pulmonaire",
+      "definition": "Intervention chirurgicale visant à retirer les parties les plus endommagées des poumons pour améliorer la fonction respiratoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "réduction du volume pulmonaire",
+        "chirurgie pulmonaire"
+      ],
+      "description": "Cette chirurgie est souvent utilisée pour les patients atteints de BPCO sévère avec une hypercapnie importante et une hypertension pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PaO2",
+      "definition": "Pression partielle de l'oxygène dans le sang artériel, un indicateur de l'oxygénation du sang.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "gazométrie artérielle",
+        "oxygénation"
+      ],
+      "description": "Une PaO2 inférieure à 55 mmHg indique une hypoxémie sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PaCO2",
+      "definition": "Pression partielle de dioxyde de carbone dans le sang artériel, un indicateur de la ventilation.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "gazométrie artérielle",
+        "ventilation"
+      ],
+      "description": "Une PaCO2 supérieure à 50 mmHg indique une hypercapnie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Eos",
+      "definition": "Taux d'éosinophiles dans le sang, un type de globule blanc impliqué dans les réponses immunitaires.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "éosinophiles",
+        "globules blancs"
+      ],
+      "description": "Un taux élevé d'éosinophiles peut indiquer une inflammation ou une réponse allergique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exacerbation aigue",
+      "definition": "Aggravation soudaine des symptômes d'une maladie chronique, souvent due à une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "exacerbation aiguë"
+      ],
+      "related_terms": [
+        "exacerbation",
+        "crise aiguë"
+      ],
+      "description": "Les exacerbations aiguës de la BPCO peuvent nécessiter une hospitalisation et un traitement intensif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ABCD",
+      "definition": "Classification des patients atteints de BPCO en fonction de la sévérité des symptômes et du risque d'exacerbation.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "classification GOLD",
+        "stades de la BPCO"
+      ],
+      "description": "La classification ABCD aide à guider le traitement et la gestion de la BPCO.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "0c2cf38b-af7d-4b5c-84c9-f01bb5914ee6",
+      "source_file": "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pneumologie/Broncho-Pneumopathie Chronique Obstructive/Courses/9 Broncho pneumopathie chronique obstructive 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.10 AM.md"
+  ],
+  "total_terms": 164
+}

@@ -1,0 +1,3100 @@
+{
+  "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+  "terms": [
+    {
+      "term": "organophosphorés",
+      "definition": "Composés chimiques utilisés principalement comme insecticides et agents de guerre chimique, qui inhibent l'acétylcholinestérase, entraînant une accumulation d'acétylcholine et une hyperstimulation des récepteurs cholinergiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "organophosphates"
+      ],
+      "related_terms": [
+        "acétylcholinestérase",
+        "acétylcholine"
+      ],
+      "description": "L'intoxication aux organophosphorés peut provoquer des symptômes muscariniques, nicotiniques et centraux, nécessitant une prise en charge médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "Les intoxications aiguës peuvent être mortelles sans traitement approprié, tandis que les intoxications chroniques peuvent entraîner des neuropathies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "intoxication aux organophosphorés",
+        "acétylcholinestérase"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxycarbonée",
+      "definition": "Terme désignant une intoxication au monoxyde de carbone, où le CO se lie à l'hémoglobine pour former la carboxyhémoglobine, réduisant la capacité du sang à transporter l'oxygène.",
+      "category": "pathologie",
+      "synonyms": [
+        "intoxication au CO"
+      ],
+      "related_terms": [
+        "monoxyde de carbone",
+        "hémoglobine"
+      ],
+      "description": "L'intoxication oxycarbonée peut entraîner des symptômes allant de maux de tête et nausées à des complications graves comme des lésions cérébrales et la mort.",
+      "expansion": null,
+      "clinical_significance": "La prise en charge de l'intoxication oxycarbonée peut inclure l'administration d'oxygène hyperbare.",
+      "normal_values": null,
+      "image_search_terms": [
+        "intoxication oxycarbonée",
+        "carboxyhémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxygène",
+      "definition": "Élément chimique gazeux essentiel pour la respiration aérobie, transporté par l'hémoglobine dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "O₂"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "respiration"
+      ],
+      "description": "L'oxygène est transporté des poumons vers les tissus par l'hémoglobine et est utilisé dans les processus métaboliques pour produire de l'énergie.",
+      "expansion": null,
+      "clinical_significance": "Une insuffisance en oxygène peut entraîner une hypoxie tissulaire et des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oxygène",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gaz carbonique",
+      "definition": "Dioxyde de carbone, un gaz produit par le métabolisme cellulaire et transporté par le sang des tissus vers les poumons pour être éliminé.",
+      "category": "physiologie",
+      "synonyms": [
+        "CO₂"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "métabolisme"
+      ],
+      "description": "Le gaz carbonique est transporté sous forme dissoute, combinée à l'hémoglobine et sous forme de bicarbonates.",
+      "expansion": null,
+      "clinical_significance": "Des niveaux élevés de gaz carbonique peuvent entraîner une acidose respiratoire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "dioxyde de carbone",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "globulines",
+      "definition": "Protéines globulaires présentes dans le sang, incluant les immunoglobulines et les transporteurs de molécules comme l'hémoglobine.",
+      "category": "anatomie",
+      "synonyms": [
+        "protéines globulaires"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "immunoglobulines"
+      ],
+      "description": "Les globulines jouent un rôle crucial dans le transport de molécules et la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Des anomalies dans les globulines peuvent être associées à des maladies comme l'anémie et les troubles immunitaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "globulines",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alpha-globulines",
+      "definition": "Sous-unité de la molécule d'hémoglobine, présente dans les globules rouges et impliquée dans le transport de l'oxygène.",
+      "category": "anatomie",
+      "synonyms": [
+        "chaînes alpha"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "globules rouges"
+      ],
+      "description": "Les chaînes alpha-globulines sont présentes dans l'hémoglobine adulte et fœtale.",
+      "expansion": null,
+      "clinical_significance": "Des mutations dans les chaînes alpha-globulines peuvent entraîner des hémoglobinopathies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "alpha-globulines",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêta-globulines",
+      "definition": "Sous-unité de la molécule d'hémoglobine adulte, présente dans les globules rouges et impliquée dans le transport de l'oxygène.",
+      "category": "anatomie",
+      "synonyms": [
+        "chaînes bêta"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "globules rouges"
+      ],
+      "description": "Les chaînes bêta-globulines remplacent progressivement les chaînes gamma pendant la croissance de l'enfant.",
+      "expansion": null,
+      "clinical_significance": "Des mutations dans les chaînes bêta-globulines peuvent entraîner des hémoglobinopathies comme la drépanocytose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-globulines",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gamma-globulines",
+      "definition": "Sous-unité de la molécule d'hémoglobine fœtale, présente dans les globules rouges et impliquée dans le transport de l'oxygène.",
+      "category": "anatomie",
+      "synonyms": [
+        "chaînes gamma"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "globules rouges"
+      ],
+      "description": "Les chaînes gamma-globulines sont progressivement remplacées par des chaînes bêta pendant la croissance de l'enfant.",
+      "expansion": null,
+      "clinical_significance": "Des anomalies dans les chaînes gamma-globulines peuvent être associées à des hémoglobinopathies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gamma-globulines",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxyphorique",
+      "definition": "Capacité du sang à transporter de l'oxygène, augmentée par la présence d'hémoglobine.",
+      "category": "physiologie",
+      "synonyms": [
+        "transport d'oxygène"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "oxygène"
+      ],
+      "description": "Le pouvoir oxyphorique du sang est essentiel pour fournir de l'oxygène aux tissus.",
+      "expansion": null,
+      "clinical_significance": "Une diminution du pouvoir oxyphorique peut entraîner une hypoxie tissulaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oxyphorique",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HBG",
+      "definition": "Hémoglobine adulte normale, composée de deux chaînes alpha-globulines et deux chaînes bêta-globulines.",
+      "category": "anatomie",
+      "synonyms": [
+        "hémoglobine adulte"
+      ],
+      "related_terms": [
+        "alpha-globulines",
+        "bêta-globulines"
+      ],
+      "description": "L'HBG est la forme principale d'hémoglobine chez les adultes, responsable du transport de l'oxygène.",
+      "expansion": null,
+      "clinical_significance": "Des mutations dans l'HBG peuvent entraîner des hémoglobinopathies.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HBG",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oxyhémoglobine",
+      "definition": "Forme d'hémoglobine liée à l'oxygène, responsable du transport de l'oxygène des poumons vers les tissus.",
+      "category": "anatomie",
+      "synonyms": [
+        "HbO2"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "oxygène"
+      ],
+      "description": "L'oxyhémoglobine a une forme légèrement plus petite que l'hémoglobine non oxygénée.",
+      "expansion": null,
+      "clinical_significance": "Des anomalies dans l'oxyhémoglobine peuvent entraîner des troubles du transport de l'oxygène.",
+      "normal_values": null,
+      "image_search_terms": [
+        "oxyhémoglobine",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "2-3DPG",
+      "definition": "2,3-diphosphoglycérate, un composé présent dans les globules rouges qui régule l'affinité de l'hémoglobine pour l'oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "2,3-diphosphoglycérate"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "oxygène"
+      ],
+      "description": "Le 2,3-DPG diminue l'affinité de l'hémoglobine pour l'oxygène, facilitant la libération de l'oxygène dans les tissus.",
+      "expansion": null,
+      "clinical_significance": "Des niveaux élevés de 2,3-DPG peuvent être observés en réponse à l'hypoxie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "2,3-DPG",
+        "2,3-diphosphoglycérate"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "courbe de Barcroft",
+      "definition": "Courbe de dissociation de l'oxyhémoglobine, mettant en relation la saturation de l'hémoglobine et la pression partielle en oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "courbe de dissociation de l'oxyhémoglobine"
+      ],
+      "related_terms": [
+        "oxyhémoglobine",
+        "saturation"
+      ],
+      "description": "La courbe de Barcroft a une forme sigmoïde, indiquant la relation non linéaire entre la saturation de l'hémoglobine et la pression partielle en oxygène.",
+      "expansion": null,
+      "clinical_significance": "La courbe de Barcroft est utilisée pour évaluer l'oxygénation du sang.",
+      "normal_values": null,
+      "image_search_terms": [
+        "courbe de Barcroft",
+        "courbe de dissociation de l'oxyhémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HbO2",
+      "definition": "Forme d'hémoglobine liée à l'oxygène, également appelée oxyhémoglobine.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxyhémoglobine"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "carboxyhémoglobine"
+      ],
+      "description": "L'oxyhémoglobine est la forme d'hémoglobine qui transporte l'oxygène dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oxyhémoglobine",
+        "globules rouges"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PO2",
+      "definition": "Pression partielle de l'oxygène dans le sang, mesurée en millimètres de mercure (mmHg).",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PCO2",
+        "PaO2"
+      ],
+      "description": "La PO2 est une mesure importante pour évaluer l'oxygénation des tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "80-100 mmHg (au niveau des artères)",
+      "image_search_terms": [
+        "PO2",
+        "oxygénation"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SO2",
+      "definition": "Saturation en oxygène du sang, exprimée en pourcentage.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PO2",
+        "hémoglobine"
+      ],
+      "description": "La SO2 indique le pourcentage d'hémoglobine saturée en oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "95-100% (au niveau des artères)",
+      "image_search_terms": [
+        "SO2",
+        "saturation en oxygène"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet Bohr",
+      "definition": "Phénomène où l'augmentation de la pression partielle de dioxyde de carbone (PCO2) diminue l'affinité de l'hémoglobine pour l'oxygène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "effet Haldane",
+        "hémoglobine"
+      ],
+      "description": "L'effet Bohr facilite la libération d'oxygène dans les tissus actifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "effet Bohr",
+        "échange gazeux"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCO2",
+      "definition": "Pression partielle de dioxyde de carbone dans le sang, mesurée en millimètres de mercure (mmHg).",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "PO2",
+        "PaO2"
+      ],
+      "description": "La PCO2 est une mesure importante pour évaluer la ventilation et l'élimination du dioxyde de carbone.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "35-45 mmHg (au niveau des artères)",
+      "image_search_terms": [
+        "PCO2",
+        "dioxyde de carbone"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "2,3 Diphosphoglycérates (DPG)",
+      "definition": "Métabolite de la glycolyse dans les globules rouges qui régule l'affinité de l'hémoglobine pour l'oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "2,3-DPG"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "glycolyse"
+      ],
+      "description": "Le 2,3-DPG joue un rôle crucial dans l'adaptation de l'hémoglobine aux conditions physiologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "2,3-DPG",
+        "globules rouges"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carbonates",
+      "definition": "Sels ou esters de l'acide carbonique, souvent présents sous forme de bicarbonates dans le corps.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "bicarbonates",
+        "acide carbonique"
+      ],
+      "description": "Les carbonates jouent un rôle dans le transport du dioxyde de carbone dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carbonates",
+        "bicarbonates"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasma",
+      "definition": "Partie liquide du sang dans laquelle les cellules sanguines sont en suspension.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "érythrocytes",
+        "globules rouges"
+      ],
+      "description": "Le plasma transporte les nutriments, les hormones et les déchets métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plasma",
+        "sang"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "érythrocytes",
+      "definition": "Cellules sanguines responsables du transport de l'oxygène, également appelées globules rouges.",
+      "category": "anatomie",
+      "synonyms": [
+        "globules rouges"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "plasma"
+      ],
+      "description": "Les érythrocytes contiennent de l'hémoglobine qui transporte l'oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "érythrocytes",
+        "globules rouges"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ppm",
+      "definition": "Parties par million, une unité de mesure de concentration.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "concentration",
+        "mesure"
+      ],
+      "description": "Le ppm est utilisé pour mesurer de très faibles concentrations de substances dans l'air ou dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ppm",
+        "concentration"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carboxyhémoglobine",
+      "definition": "Forme d'hémoglobine liée au monoxyde de carbone (CO), rendant l'hémoglobine incapable de transporter l'oxygène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémoglobine",
+        "monoxyde de carbone"
+      ],
+      "description": "La carboxyhémoglobine est formée lorsque le monoxyde de carbone se lie à l'hémoglobine, réduisant la capacité de transport de l'oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "carboxyhémoglobine",
+        "hémoglobine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytochrome aa3",
+      "definition": "Enzyme mitochondriale également connue sous le nom de cytochrome oxydase, qui catalyse la réduction de l'oxygène moléculaire en eau.",
+      "category": "physiologie",
+      "synonyms": [
+        "cytochrome oxydase"
+      ],
+      "related_terms": [
+        "chaîne respiratoire",
+        "mitochondrie"
+      ],
+      "description": "Le cytochrome aa3 est essentiel pour la production d'énergie dans les cellules et peut être affecté par le monoxyde de carbone.",
+      "expansion": null,
+      "clinical_significance": "Important pour la production d'énergie cellulaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "cytochrome aa3",
+        "chaîne respiratoire"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "anoxémie",
+      "definition": "Réduction de la quantité d'oxygène dans le sang, pouvant entraîner une anoxie tissulaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "oxygène",
+        "sang"
+      ],
+      "description": "L'anoxémie peut être causée par une intoxication au monoxyde de carbone, entraînant une réduction de la capacité du sang à transporter l'oxygène.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anoxie tissulaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anoxémie",
+        "oxygène"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "hémoglobine fœtale",
+      "definition": "Forme d'hémoglobine présente chez le fœtus, ayant une affinité plus élevée pour l'oxygène que l'hémoglobine adulte.",
+      "category": "physiologie",
+      "synonyms": [
+        "HbF"
+      ],
+      "related_terms": [
+        "hémoglobine",
+        "fœtus"
+      ],
+      "description": "L'hémoglobine fœtale a une affinité plus élevée pour le monoxyde de carbone, ce qui peut entraîner des risques accrus pour le fœtus en cas d'intoxication.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le transport de l'oxygène chez le fœtus.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hémoglobine fœtale",
+        "fœtus"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ataxie",
+      "definition": "Trouble de la coordination des mouvements volontaires, souvent dû à une atteinte du cervelet ou des voies cérébelleuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cérébellite",
+        "syndrome cérébelleux"
+      ],
+      "description": "L'ataxie peut se manifester par une démarche instable, des mouvements saccadés et une difficulté à effectuer des tâches motrices fines.",
+      "expansion": null,
+      "clinical_significance": "L'ataxie peut être un signe de diverses pathologies neurologiques, y compris des intoxications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ataxie",
+        "cérébellite"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "opistotonos",
+      "definition": "Spasme musculaire sévère entraînant une hyperextension du corps, souvent observé dans les cas graves de méningite ou d'intoxication.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "spasme",
+        "hyperextension"
+      ],
+      "description": "L'opistotonos est un signe de gravité neurologique, souvent associé à des troubles de la conscience et à une hypertonie musculaire.",
+      "expansion": null,
+      "clinical_significance": "L'opistotonos est un signe de mauvais pronostic dans les intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": [
+        "opistotonos",
+        "hyperextension"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myocardite toxique",
+      "definition": "Inflammation du muscle cardiaque due à une exposition à des substances toxiques, pouvant entraîner une insuffisance cardiaque et des arythmies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "myocardite",
+        "intoxication"
+      ],
+      "description": "La myocardite toxique peut être causée par divers agents, y compris le monoxyde de carbone, et peut nécessiter un traitement intensif.",
+      "expansion": null,
+      "clinical_significance": "La myocardite toxique est une complication grave des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": [
+        "myocardite toxique",
+        "myocardite"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HbCO",
+      "definition": "Hémoglobine carbonée, forme d'hémoglobine liée au monoxyde de carbone (CO), réduisant la capacité de l'hémoglobine à transporter l'oxygène.",
+      "category": "pathologie",
+      "synonyms": [
+        "carboxyhémoglobine"
+      ],
+      "related_terms": [
+        "monoxyde de carbone",
+        "hémoglobine"
+      ],
+      "description": "La mesure de l'HbCO est cruciale pour évaluer la sévérité de l'intoxication au CO.",
+      "expansion": null,
+      "clinical_significance": "Un taux élevé d'HbCO indique une intoxication sévère au CO, nécessitant une intervention médicale urgente.",
+      "normal_values": "0.3-0.7%",
+      "image_search_terms": [
+        "carboxyhémoglobine",
+        "intoxication CO"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gazs du sang",
+      "definition": "Analyse des gaz dissous dans le sang, incluant l'oxygène, le dioxyde de carbone et l'acidité (pH), utilisée pour évaluer la fonction respiratoire et l'équilibre acido-basique.",
+      "category": "physiologie",
+      "synonyms": [
+        "gazométrie",
+        "analyse des gaz du sang"
+      ],
+      "related_terms": [
+        "acidose métabolique",
+        "hypokaliémie"
+      ],
+      "description": "Les gaz du sang sont essentiels pour diagnostiquer et surveiller les troubles respiratoires et métaboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gazométrie",
+        "analyse des gaz du sang"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "FiO2",
+      "definition": "Fraction inspirée d'oxygène, pourcentage d'oxygène dans le gaz inspiré, utilisé pour ajuster l'oxygénothérapie.",
+      "category": "physiologie",
+      "synonyms": [
+        "fraction inspirée d'oxygène"
+      ],
+      "related_terms": [
+        "oxygénothérapie",
+        "ventilation mécanique"
+      ],
+      "description": "La FiO2 est ajustée pour maintenir une oxygénation adéquate chez les patients en détresse respiratoire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "FiO2",
+        "oxygénothérapie"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "OHB",
+      "definition": "Oxygénothérapie hyperbare, traitement utilisant de l'oxygène à haute pression pour augmenter la dissolution de l'oxygène dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "oxygénothérapie hyperbare"
+      ],
+      "related_terms": [
+        "caisson hyperbare",
+        "intoxication au CO"
+      ],
+      "description": "L'OHB est utilisée pour traiter les intoxications au CO, les embolies gazeuses et certaines infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oxygénothérapie hyperbare",
+        "caisson hyperbare"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome neurologique persistant",
+      "definition": "Ensemble de symptômes neurologiques qui persistent après une intoxication au monoxyde de carbone, incluant des céphalées, fatigue, irritabilité, et troubles mnésiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome neurologique tardif",
+        "anoxie histotoxique"
+      ],
+      "description": "Ce syndrome peut inclure des symptômes moteurs périphériques et des atteintes sensitivomotrices.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome neurologique persistant",
+        "atteinte sensitivomotrice"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "syndrome neurologique tardif",
+      "definition": "Ensemble de symptômes neurologiques qui apparaissent plusieurs jours à plusieurs mois après une intoxication au monoxyde de carbone, souvent lié à l'anoxie histotoxique.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome post-intervallaire"
+      ],
+      "related_terms": [
+        "anoxie histotoxique",
+        "démyélinisation"
+      ],
+      "description": "Ce syndrome peut inclure des troubles de la mémoire, du comportement, de l'humeur, et des anomalies du tonus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome neurologique tardif",
+        "anoxie histotoxique"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "anoxie histotoxique",
+      "definition": "État où les cellules sont incapables d'utiliser l'oxygène disponible, souvent dû à l'inhibition des enzymes respiratoires par des toxines comme le monoxyde de carbone.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoxie",
+        "intoxication au CO"
+      ],
+      "description": "L'anoxie histotoxique peut entraîner une démyélinisation de la substance blanche cérébrale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anoxie histotoxique",
+        "démyélinisation"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "cholinestérases",
+      "definition": "Enzymes qui hydrolysent l'acétylcholine, un neurotransmetteur, en choline et acide acétique, permettant la transmission de l'influx nerveux.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acétylcholine",
+        "acétylcholinestérases"
+      ],
+      "description": "L'inhibition des cholinestérases par les organophosphorés entraîne une accumulation d'acétylcholine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cholinestérases",
+        "acétylcholine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acétylcholinestérases",
+      "definition": "Enzymes spécifiques qui hydrolysent l'acétylcholine, un neurotransmetteur, en choline et acide acétique.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholinestérases",
+        "acétylcholine"
+      ],
+      "description": "Les acétylcholinestérases sont inhibées par les organophosphorés, entraînant une accumulation d'acétylcholine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acétylcholinestérases",
+        "acétylcholine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "butyrylcholinestérases",
+      "definition": "Enzymes présentes dans le foie et le plasma, également appelées pseudocholinestérases, qui hydrolysent divers esters de choline.",
+      "category": "physiologie",
+      "synonyms": [
+        "pseudocholinestérases"
+      ],
+      "related_terms": [
+        "cholinestérases",
+        "acétylcholine"
+      ],
+      "description": "Les butyrylcholinestérases sont sensibles aux inhibiteurs de cholinestérases comme les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "butyrylcholinestérases",
+        "pseudocholinestérases"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aging",
+      "definition": "Processus de vieillissement irréversible de l'enzyme cholinestérase après inhibition par les organophosphorés, rendant l'enzyme non fonctionnelle et non réactivable.",
+      "category": "physiologie",
+      "synonyms": [
+        "vieillissement de l'enzyme"
+      ],
+      "related_terms": [
+        "cholinestérases",
+        "organophosphorés"
+      ],
+      "description": "L'aging des cholinestérases nécessite la synthèse de nouvelles enzymes pour le retour à une activité fonctionnelle normale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "aging",
+        "vieillissement de l'enzyme"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "nicotiniques",
+      "definition": "Récepteurs cholinergiques présents dans les jonctions neuromusculaires et le système nerveux central, activés par l'acétylcholine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs nicotiniques"
+      ],
+      "related_terms": [
+        "acétylcholine",
+        "jonction neuromusculaire"
+      ],
+      "description": "Les récepteurs nicotiniques jouent un rôle crucial dans la transmission des signaux nerveux, notamment dans les muscles striés et le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système parasympathique",
+      "definition": "Partie du système nerveux autonome responsable des fonctions involontaires du corps, souvent associée à la relaxation et à la conservation de l'énergie.",
+      "category": "anatomie",
+      "synonyms": [
+        "système nerveux parasympathique"
+      ],
+      "related_terms": [
+        "système nerveux autonome",
+        "système sympathique"
+      ],
+      "description": "Le système parasympathique régule des fonctions comme la digestion, la salivation, et la fréquence cardiaque au repos.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscariniques",
+      "definition": "Récepteurs cholinergiques présents dans les organes innervés par le système parasympathique, activés par l'acétylcholine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs muscariniques"
+      ],
+      "related_terms": [
+        "acétylcholine",
+        "système parasympathique"
+      ],
+      "description": "Les récepteurs muscariniques sont impliqués dans la régulation de nombreuses fonctions corporelles, telles que la sécrétion glandulaire et la contraction des muscles lisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système nerveux central",
+      "definition": "Partie du système nerveux comprenant le cerveau et la moelle épinière, responsable de la coordination des fonctions corporelles et de l'intégration des informations sensorielles.",
+      "category": "anatomie",
+      "synonyms": [
+        "SNC"
+      ],
+      "related_terms": [
+        "cerveau",
+        "moelle épinière"
+      ],
+      "description": "Le système nerveux central est essentiel pour le contrôle des mouvements volontaires, la perception sensorielle, et les fonctions cognitives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuropathytargetesterase",
+      "definition": "Enzyme présente dans le système nerveux central et les leucocytes, cible des organophosphorés, dont la diminution est un facteur prédictif de complications tardives.",
+      "category": "pathologie",
+      "synonyms": [
+        "NTE",
+        "estérase neurotoxique"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "leucocytes"
+      ],
+      "description": "La neuropathytargetesterase est une enzyme dont l'inhibition par les organophosphorés peut entraîner des complications neurologiques à long terme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "estérase neurotoxique",
+      "definition": "Enzyme cible des organophosphorés, dont l'inhibition peut entraîner des complications neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "NTE",
+        "neuropathytargetesterase"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "leucocytes"
+      ],
+      "description": "L'estérase neurotoxique est une enzyme dont la diminution est un facteur prédictif de complications neurologiques tardives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neurotoxines organophosphorées",
+      "definition": "Composés organophosphorés utilisés comme armes de guerre, hautement toxiques pour le système nerveux central.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "neurotoxines OP"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "système nerveux central"
+      ],
+      "description": "Les neurotoxines organophosphorées sont des agents chimiques de guerre qui perturbent la transmission nerveuse en inhibant l'acétylcholinestérase.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxidrome",
+      "definition": "Ensemble de signes et symptômes caractéristiques d'une intoxication par une substance spécifique.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome toxique"
+      ],
+      "related_terms": [
+        "intoxication",
+        "symptômes"
+      ],
+      "description": "Un toxidrome est un ensemble de manifestations cliniques spécifiques à une intoxication par une substance donnée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypersécrétion",
+      "definition": "Augmentation excessive de la sécrétion des glandes endocrines et exocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "sécrétion excessive"
+      ],
+      "related_terms": [
+        "glandes endocrines",
+        "glandes exocrines"
+      ],
+      "description": "L'hypersécrétion est une condition où les glandes produisent une quantité excessive de sécrétions, souvent observée dans les intoxications par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fasciculations",
+      "definition": "Contractions musculaires involontaires et rapides, souvent observées dans les intoxications par les organophosphorés.",
+      "category": "pathologie",
+      "synonyms": [
+        "contractions musculaires"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "muscles striés"
+      ],
+      "description": "Les fasciculations sont des contractions musculaires involontaires et rapides, pouvant être un signe d'intoxication par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parésie",
+      "definition": "Faiblesse partielle ou paralysie incomplète d'un groupe musculaire, souvent observée dans les intoxications par les organophosphorés.",
+      "category": "pathologie",
+      "synonyms": [
+        "faiblesse musculaire partielle"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "muscles striés"
+      ],
+      "description": "La parésie est une faiblesse partielle ou une paralysie incomplète d'un groupe musculaire, pouvant être un signe d'intoxication par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "confusion",
+      "definition": "État de désorientation et de trouble de la pensée, souvent observé dans les intoxications par les organophosphorés.",
+      "category": "pathologie",
+      "synonyms": [
+        "désorientation"
+      ],
+      "related_terms": [
+        "pensée",
+        "intoxication"
+      ],
+      "description": "La confusion est un état de désorientation et de trouble de la pensée, pouvant être un signe d'intoxication par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dynatrémie",
+      "definition": "Trouble de la concentration de sodium dans le sang, souvent observé dans les intoxications par les organophosphorés.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble du sodium"
+      ],
+      "related_terms": [
+        "sodium",
+        "sang"
+      ],
+      "description": "La dynatrémie est un trouble de la concentration de sodium dans le sang, pouvant être un signe d'intoxication par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paranitrophénol",
+      "definition": "Métabolite de la parathion, un organophosphoré, détecté dans les urines en cas d'intoxication.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "PNP"
+      ],
+      "related_terms": [
+        "parathion",
+        "organophosphorés"
+      ],
+      "description": "Le paranitrophénol est un métabolite de la parathion, utilisé comme marqueur d'intoxication par les organophosphorés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parathion",
+      "definition": "Organophosphoré utilisé comme insecticide, dont le métabolite paranitrophénol est détecté dans les urines en cas d'intoxication.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "parathion"
+      ],
+      "related_terms": [
+        "paranitrophénol",
+        "organophosphorés"
+      ],
+      "description": "La parathion est un organophosphoré utilisé comme insecticide, dont l'intoxication peut être détectée par la présence de paranitrophénol dans les urines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholinestérases plasmatiques",
+      "definition": "Enzymes présentes dans le plasma sanguin qui hydrolysent divers esters de choline, y compris l'acétylcholine.",
+      "category": "physiologie",
+      "synonyms": [
+        "pseudocholinestérases",
+        "buthyrylcholinestérases"
+      ],
+      "related_terms": [
+        "acétylcholine",
+        "plasma sanguin"
+      ],
+      "description": "Elles jouent un rôle dans la détoxification des substances exogènes et endogènes.",
+      "expansion": null,
+      "clinical_significance": "Leur dosage est utilisé pour évaluer l'exposition aux organophosphorés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholinestérases globulaires",
+      "definition": "Enzymes présentes dans les globules rouges qui hydrolysent l'acétylcholine, jouant un rôle crucial dans la transmission nerveuse.",
+      "category": "physiologie",
+      "synonyms": [
+        "ACG",
+        "vraies cholinestérases"
+      ],
+      "related_terms": [
+        "globules rouges",
+        "acétylcholine"
+      ],
+      "description": "Leur inhibition est un marqueur de gravité dans les intoxications aux organophosphorés.",
+      "expansion": null,
+      "clinical_significance": "Leur régénération est lente, prenant environ 120 jours.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Neuropathy Target Esterase (NTE)",
+      "definition": "Enzyme présente dans le système nerveux qui est une cible pour certains composés neurotoxiques, notamment les organophosphorés.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "neurotoxiques",
+        "organophosphorés"
+      ],
+      "description": "L'inhibition de la NTE peut entraîner une neuropathie tardive.",
+      "expansion": null,
+      "clinical_significance": "Le dosage de la NTE peut être prédictif de la survenue de neuropathies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "charbon activé",
+      "definition": "Forme de charbon traité pour avoir une surface poreuse, utilisée pour absorber les toxines dans le tractus gastro-intestinal.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "carbomix"
+      ],
+      "related_terms": [
+        "toxines",
+        "tractus gastro-intestinal"
+      ],
+      "description": "Utilisé dans le traitement des intoxications pour prévenir l'absorption des toxines.",
+      "expansion": null,
+      "clinical_significance": "Son efficacité dans les intoxications aux organophosphorés est controversée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidotes",
+      "definition": "Substances utilisées pour neutraliser les effets toxiques d'un poison ou d'une toxine.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "poison",
+        "toxine"
+      ],
+      "description": "Utilisés dans le traitement des intoxications pour annuler les effets toxiques.",
+      "expansion": null,
+      "clinical_significance": "Essentiels dans la prise en charge des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bronchorrhée",
+      "definition": "Sécrétion excessive de mucus dans les bronches, souvent due à une inflammation ou une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bronches",
+        "mucus"
+      ],
+      "description": "Peut être un signe d'intoxication aux organophosphorés ou d'autres conditions respiratoires.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important dans l'évaluation des intoxications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sulfate d'atropine",
+      "definition": "Médicament anticholinergique utilisé pour traiter les intoxications aux organophosphorés en bloquant les récepteurs muscariniques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticholinergique",
+        "organophosphorés"
+      ],
+      "description": "Utilisé pour réverser les symptômes muscariniques de l'intoxication.",
+      "expansion": null,
+      "clinical_significance": "Essentiel dans la prise en charge des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "délirium anticholinergique",
+      "definition": "État de confusion et d'agitation causé par un excès d'anticholinergiques, souvent caractérisé par des hallucinations et une désorientation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "anticholinergiques",
+        "hallucinations"
+      ],
+      "description": "Peut survenir en cas de surdosage en atropine ou autres anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important dans la surveillance des traitements anticholinergiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Méthylsulfate de Pralidoxime (PAM-2)",
+      "definition": "Médicament utilisé pour traiter les intoxications aux organophosphorés en réactivant les cholinestérases inhibées.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Contrathion®"
+      ],
+      "related_terms": [
+        "organophosphorés",
+        "cholinestérases"
+      ],
+      "description": "Agit en hydrolysant la liaison enzyme-inhibiteur et en régénérant les acétylcholinestérases.",
+      "expansion": null,
+      "clinical_significance": "Essentiel dans la prise en charge des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oximes",
+      "definition": "Classe de médicaments utilisés pour traiter les intoxications aux organophosphorés en réactivant les cholinestérases inhibées.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "organophosphorés",
+        "cholinestérases"
+      ],
+      "description": "Agissent en hydrolysant la liaison enzyme-inhibiteur et en régénérant les acétylcholinestérases.",
+      "expansion": null,
+      "clinical_significance": "Essentiels dans la prise en charge des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DL50",
+      "definition": "Dose létale médiane, la dose nécessaire pour tuer 50% d'une population testée, souvent utilisée pour évaluer la toxicité d'une substance.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "toxicité",
+        "dose létale"
+      ],
+      "description": "Utilisée pour comparer la toxicité de différentes substances.",
+      "expansion": null,
+      "clinical_significance": "Importante dans l'évaluation des risques d'intoxication.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Radiographie du thorax",
+      "definition": "Examen d'imagerie médicale utilisant les rayons X pour visualiser les structures du thorax, y compris les poumons, le cœur et les os.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "rayons X",
+        "thorax"
+      ],
+      "description": "Utilisée pour diagnostiquer diverses conditions pulmonaires et cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Essentielle dans l'évaluation des complications respiratoires et cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "E.C.G",
+      "definition": "Électrocardiogramme, un examen qui enregistre l'activité électrique du cœur pour détecter les anomalies cardiaques.",
+      "category": "imagerie",
+      "synonyms": [
+        "électrocardiogramme"
+      ],
+      "related_terms": [
+        "activité électrique",
+        "cœur"
+      ],
+      "description": "Utilisé pour diagnostiquer les troubles du rythme cardiaque et d'autres conditions cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Essentiel dans l'évaluation des complications cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholinergique",
+      "definition": "Relatif à l'acétylcholine, un neurotransmetteur impliqué dans la transmission des signaux nerveux.",
+      "category": "physiologie",
+      "synonyms": [
+        "acétylcholinique"
+      ],
+      "related_terms": [
+        "acétylcholine",
+        "neurotransmetteur"
+      ],
+      "description": "Les récepteurs cholinergiques sont impliqués dans la transmission des signaux nerveux au niveau des synapses.",
+      "expansion": null,
+      "clinical_significance": "Les médicaments cholinergiques sont utilisés pour traiter diverses conditions neurologiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acétylcholine",
+        "neurotransmetteur"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychisme",
+      "definition": "Ensemble des phénomènes psychiques et mentaux d'un individu, incluant la pensée, l'émotion et la volonté.",
+      "category": "physiologie",
+      "synonyms": [
+        "esprit",
+        "mental"
+      ],
+      "related_terms": [
+        "pensée",
+        "émotion",
+        "volonté"
+      ],
+      "description": "Le psychisme est étudié en psychologie et en psychiatrie.",
+      "expansion": null,
+      "clinical_significance": "Les troubles du psychisme peuvent nécessiter une intervention médicale ou psychologique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "psychisme",
+        "esprit"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psycholeptiques",
+      "definition": "Substances qui ont un effet sédatif ou dépresseur sur le système nerveux central.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sédatifs",
+        "dépresseurs"
+      ],
+      "related_terms": [
+        "système nerveux central",
+        "sédatif"
+      ],
+      "description": "Les psycholeptiques incluent les hypnotiques, les anxiolytiques et les neuroleptiques.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter l'anxiété, l'insomnie et les troubles psychotiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "psycholeptiques",
+        "sédatifs"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tonus mental",
+      "definition": "État de tension psychique qui détermine la vigilance et l'humeur d'un individu.",
+      "category": "physiologie",
+      "synonyms": [
+        "état mental"
+      ],
+      "related_terms": [
+        "vigilance",
+        "humeur"
+      ],
+      "description": "Le tonus mental est influencé par divers facteurs psychologiques et physiologiques.",
+      "expansion": null,
+      "clinical_significance": "Les troubles du tonus mental peuvent être associés à des troubles mentaux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "tonus mental",
+        "état mental"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychoanaleptiques",
+      "definition": "Substances qui élèvent le tonus mental, augmentant la vigilance et l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "stimulants"
+      ],
+      "related_terms": [
+        "tonus mental",
+        "vigilance",
+        "humeur"
+      ],
+      "description": "Les psychoanaleptiques incluent les antidépresseurs et les stimulants de la vigilance.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter la dépression et les troubles de l'attention.",
+      "normal_values": null,
+      "image_search_terms": [
+        "psychoanaleptiques",
+        "stimulants"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychodysleptiques",
+      "definition": "Substances qui perturbent l'activité mentale, entraînant une distorsion du tonus mental.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "hallucinogènes"
+      ],
+      "related_terms": [
+        "activité mentale",
+        "distorsion"
+      ],
+      "description": "Les psychodysleptiques incluent les hallucinogènes et les dissociatifs.",
+      "expansion": null,
+      "clinical_significance": "Peuvent causer des intoxications et des troubles mentaux.",
+      "normal_values": null,
+      "image_search_terms": [
+        "psychodysleptiques",
+        "hallucinogènes"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "H1",
+      "definition": "Récepteurs de l'histamine de type 1, impliqués dans les réponses allergiques et inflammatoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs histaminiques H1"
+      ],
+      "related_terms": [
+        "antihistaminiques",
+        "sédation",
+        "prise de poids"
+      ],
+      "description": "Le blocage des récepteurs H1 peut entraîner une sédation et une prise de poids.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alpha 1 adrénergique",
+      "definition": "Récepteurs adrénergiques de type alpha 1, impliqués dans la régulation de la pression artérielle et la vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs alpha 1"
+      ],
+      "related_terms": [
+        "hypotension orthostatique"
+      ],
+      "description": "Le blocage des récepteurs alpha 1 adrénergiques peut entraîner une hypotension artérielle, notamment en position debout.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "M1",
+      "definition": "Récepteurs cholinergiques muscariniques de type 1, impliqués dans la transmission nerveuse parasympathique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "récepteurs muscariniques M1"
+      ],
+      "related_terms": [
+        "atropine",
+        "bouche sèche",
+        "constipation",
+        "mydriase",
+        "tachycardie"
+      ],
+      "description": "Le blocage des récepteurs M1 peut entraîner des effets périphériques et centraux similaires à ceux de l'atropine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "5HT",
+      "definition": "5-hydroxytryptamine, également connue sous le nom de sérotonine, un neurotransmetteur impliqué dans la régulation de l'humeur, de l'appétit et du sommeil.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sérotonine",
+        "5-hydroxytryptamine"
+      ],
+      "related_terms": [
+        "prise de poids",
+        "stimulation de l'appétit"
+      ],
+      "description": "Le blocage des récepteurs 5HT peut entraîner une prise de poids et une stimulation de l'appétit.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monoamine oxydase",
+      "definition": "Enzyme qui dégrade les monoamines, y compris la sérotonine, la noradrénaline et la dopamine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "MAO"
+      ],
+      "related_terms": [
+        "IMAO",
+        "monoamines"
+      ],
+      "description": "L'inhibition de la monoamine oxydase augmente les niveaux de monoamines dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "imipraminiques",
+      "definition": "Classe de médicaments antidépresseurs tricycliques, dérivés de l'imipramine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antidépresseurs tricycliques"
+      ],
+      "related_terms": [
+        "imipramine"
+      ],
+      "description": "Les imipraminiques sont utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithiémie",
+      "definition": "Concentration de lithium dans le sang.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "niveaux de lithium"
+      ],
+      "related_terms": [
+        "lithium"
+      ],
+      "description": "La lithiémie doit être surveillée régulièrement pour éviter la toxicité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "0.5-0.8 mmoles/L",
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs tri ou tétra cycliques",
+      "definition": "Classe de médicaments antidépresseurs avec une structure chimique à trois ou quatre cycles.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antidépresseurs tricycliques",
+        "antidépresseurs tétracycliques"
+      ],
+      "related_terms": [
+        "amitriptyline",
+        "imipramine"
+      ],
+      "description": "Ces antidépresseurs agissent en augmentant les niveaux de sérotonine et de noradrénaline dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs de la recapture de la sérotonine",
+      "definition": "Classe de médicaments antidépresseurs qui augmentent les niveaux de sérotonine dans le cerveau en inhibant sa recapture.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ISRS"
+      ],
+      "related_terms": [
+        "sérotonine",
+        "fluoxétine"
+      ],
+      "description": "Les ISRS sont utilisés pour traiter la dépression, l'anxiété et d'autres troubles de l'humeur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "opiacés",
+      "definition": "Classe de médicaments utilisés principalement pour le traitement de la douleur, agissant sur les récepteurs opioïdes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "opioïdes"
+      ],
+      "related_terms": [
+        "morphine",
+        "codéine"
+      ],
+      "description": "Les opiacés sont utilisés pour soulager la douleur, mais peuvent entraîner une dépendance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dose Supposée Ingérée",
+      "definition": "Estimation de la quantité de toxique ingérée par un patient, souvent exprimée en grammes ou en grammes par kilogramme de poids corporel.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "DSI"
+      ],
+      "related_terms": [
+        "intoxication",
+        "surdosage"
+      ],
+      "description": "La DSI est utilisée pour évaluer la gravité d'une intoxication et guider le traitement.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxidromes",
+      "definition": "Ensemble de signes et symptômes cliniques qui permettent d'identifier une classe de toxiques ou de médicaments responsables d'une intoxication.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome confusionnel",
+        "syndrome malin des neuroleptiques"
+      ],
+      "description": "Les toxidromes sont utilisés pour guider le diagnostic et le traitement des intoxications aiguës.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "médicaments sérotoninomimétiques",
+      "definition": "Médicaments qui imitent ou augmentent l'action de la sérotonine, un neurotransmetteur, dans le système nerveux central.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "inhibiteurs de la monoamine oxydase",
+        "lithium"
+      ],
+      "description": "Les médicaments sérotoninomimétiques peuvent provoquer un syndrome sérotoninergique en cas de surdosage ou d'interaction médicamenteuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome sérotoninergique",
+      "definition": "Ensemble de symptômes résultant d'une hyperstimulation des récepteurs sérotoninergiques, souvent due à une interaction médicamenteuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "myoclonies",
+        "hypertonicité"
+      ],
+      "description": "Le syndrome sérotoninergique peut inclure des symptômes psychiques, moteurs et neurovégétatifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs imipraminiques",
+      "definition": "Classe d'antidépresseurs tricycliques, dont l'imipramine est le prototype, utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "tricycliques"
+      ],
+      "related_terms": [
+        "anticholinergiques",
+        "antiadrénergiques alpha-1"
+      ],
+      "description": "Les antidépresseurs imipraminiques peuvent provoquer des effets anticholinergiques et cardiovasculaires en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiadrénergiques alpha-1",
+      "definition": "Médicaments qui bloquent les récepteurs alpha-1 adrénergiques, réduisant ainsi l'effet de l'adrénaline et de la noradrénaline.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseurs imipraminiques"
+      ],
+      "description": "Les antiadrénergiques alpha-1 sont utilisés pour traiter l'hypertension et d'autres conditions cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "quinidiniques",
+      "definition": "Effets similaires à ceux de la quinidine, un antiarythmique de classe Ia, qui bloque les canaux sodiques et prolonge la repolarisation cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "torsade de pointes"
+      ],
+      "description": "Les effets quinidiniques peuvent inclure des troubles du rythme cardiaque comme la torsade de pointes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome atropinique",
+      "definition": "Ensemble de symptômes résultant d'une intoxication par l'atropine ou d'autres substances anticholinergiques, caractérisé par une sécheresse des muqueuses, une tachycardie, une mydriase et une rétention urinaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome anticholinergique"
+      ],
+      "related_terms": [
+        "atropine"
+      ],
+      "description": "Le syndrome atropinique peut être grave en cas de surdosage, nécessitant une intervention médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan électrolytique sanguin",
+      "definition": "Mesure des électrolytes dans le sang, incluant le sodium, le potassium, le chlore, le bicarbonate, le calcium et le magnésium.",
+      "category": "imagerie",
+      "synonyms": [
+        "électrolytes sanguins"
+      ],
+      "related_terms": [
+        "gazométrie artérielle"
+      ],
+      "description": "Le bilan électrolytique sanguin est utilisé pour évaluer l'équilibre hydroélectrolytique et la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan hépatique",
+      "definition": "Ensemble de tests sanguins utilisés pour évaluer la fonction et la santé du foie, incluant les transaminases, la bilirubine, les phosphatases alcalines et l'albumine.",
+      "category": "imagerie",
+      "synonyms": [
+        "tests de la fonction hépatique"
+      ],
+      "related_terms": [
+        "transaminases",
+        "bilirubine"
+      ],
+      "description": "Le bilan hépatique est utilisé pour diagnostiquer et surveiller les maladies du foie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan d'hémostase",
+      "definition": "Ensemble de tests sanguins utilisés pour évaluer la coagulation sanguine, incluant le temps de prothrombine (TP), le temps de céphaline activée (TCA) et le taux de fibrinogène.",
+      "category": "imagerie",
+      "synonyms": [
+        "tests de coagulation"
+      ],
+      "related_terms": [
+        "TP",
+        "TCA"
+      ],
+      "description": "Le bilan d'hémostase est utilisé pour diagnostiquer et surveiller les troubles de la coagulation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidote",
+      "definition": "Substance administrée pour neutraliser les effets toxiques d'un poison ou d'une toxine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antitoxine"
+      ],
+      "related_terms": [
+        "chélateur",
+        "épuration extrarénale"
+      ],
+      "description": "Les antidotes sont utilisés en toxicologie pour contrer les effets nocifs de substances toxiques ingérées ou inhalées.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prise en charge des intoxications aiguës.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chélateur",
+      "definition": "Agent chimique qui se lie aux ions métalliques pour former des complexes stables, facilitant leur élimination de l'organisme.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "chélatant"
+      ],
+      "related_terms": [
+        "antidote",
+        "épuration extrarénale"
+      ],
+      "description": "Utilisé pour traiter les intoxications par métaux lourds comme le plomb ou le mercure.",
+      "expansion": null,
+      "clinical_significance": "Essentiel dans le traitement des intoxications métalliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "toxidrome neurotrope",
+      "definition": "Ensemble de symptômes neurologiques causés par l'exposition à des substances toxiques affectant le système nerveux central.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "coma",
+        "hallucinations"
+      ],
+      "description": "Peut inclure des symptômes tels que la somnolence, l'agitation, les hallucinations et le coma.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic différentiel des intoxications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hb-CO",
+      "definition": "Hémoglobine liée au monoxyde de carbone, réduisant la capacité de l'hémoglobine à transporter l'oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "carboxyhémoglobine"
+      ],
+      "related_terms": [
+        "intoxication au monoxyde de carbone"
+      ],
+      "description": "Mesurée pour évaluer l'intoxication au monoxyde de carbone.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'intoxication au monoxyde de carbone.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cocaïne",
+      "definition": "Alcaloïde tropanique extrait des feuilles de coca, utilisé comme anesthésique local et stimulant illégal.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "cannabis",
+        "héroïne"
+      ],
+      "description": "Peut causer des effets stimulants et des complications cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Intoxication nécessite une prise en charge médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cannabis",
+      "definition": "Plante dont les feuilles et les fleurs contiennent des cannabinoïdes, utilisée pour ses effets psychoactifs.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "marijuana"
+      ],
+      "related_terms": [
+        "cocaïne",
+        "héroïne"
+      ],
+      "description": "Peut causer des effets euphorisants et des troubles de la mémoire.",
+      "expansion": null,
+      "clinical_significance": "Utilisation récréative et médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héroïne",
+      "definition": "Opioïde dérivé de la morphine, utilisé illégalement pour ses effets euphorisants et analgésiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "diacétylmorphine"
+      ],
+      "related_terms": [
+        "cocaïne",
+        "cannabis"
+      ],
+      "description": "Peut causer une dépression respiratoire et une dépendance.",
+      "expansion": null,
+      "clinical_significance": "Intoxication nécessite une prise en charge médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IA",
+      "definition": "Intoxication Aiguë, état résultant de l'exposition à une substance toxique en quantité suffisante pour causer des symptômes immédiats.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "intoxication",
+        "surdosage"
+      ],
+      "description": "Nécessite une prise en charge médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des intoxications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc vasoplégique",
+      "definition": "État de choc circulatoire caractérisé par une vasodilatation excessive et une hypotension sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc distributif"
+      ],
+      "related_terms": [
+        "collapsus cardiovasculaire",
+        "coma"
+      ],
+      "description": "Nécessite une prise en charge médicale urgente.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic et le traitement des intoxications graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BZD",
+      "definition": "Benzodiazépines, classe de médicaments psychoactifs utilisés pour leurs propriétés anxiolytiques, hypnotiques, anticonvulsivantes et myorelaxantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "benzodiazépines"
+      ],
+      "related_terms": [
+        "lorazépam",
+        "coma"
+      ],
+      "description": "Utilisées pour traiter l'anxiété et les troubles du sommeil.",
+      "expansion": null,
+      "clinical_significance": "Intoxication nécessite une prise en charge médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-hallucinatoire",
+      "definition": "Propriété de certains médicaments à réduire ou éliminer les hallucinations.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "neuroleptiques",
+        "psychoses"
+      ],
+      "description": "Utilisé dans le traitement des psychoses et des troubles bipolaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour le traitement des symptômes psychotiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alimémazine",
+      "definition": "Antihistaminique utilisé pour ses propriétés sédatives et anticholinergiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Théralène®"
+      ],
+      "related_terms": [
+        "antihistaminiques",
+        "prométhazine"
+      ],
+      "description": "Peut causer des effets secondaires anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les allergies et les réactions inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "prométhazine",
+      "definition": "Antihistaminique utilisé pour ses propriétés sédatives et anticholinergiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Phénergan®"
+      ],
+      "related_terms": [
+        "antihistaminiques",
+        "alimémazine"
+      ],
+      "description": "Peut causer des effets secondaires anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les allergies et les réactions inflammatoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atropiniques",
+      "definition": "Effets secondaires causés par l'inhibition de l'acétylcholine, incluant la mydriase, la sécheresse buccale, la tachycardie et la rétention urinaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "antihistaminiques",
+        "mydriase"
+      ],
+      "description": "Peuvent être causés par des médicaments anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thiopropérazine",
+      "definition": "Antipsychotique de la classe des phénothiazines pipérazinés, utilisé pour traiter les psychoses et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Majeptil®"
+      ],
+      "related_terms": [
+        "phénothiazines",
+        "thioridazine"
+      ],
+      "description": "Peut causer des effets secondaires anticholinergiques et des troubles de la conduction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les psychoses et les troubles bipolaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thioridazine",
+      "definition": "Antipsychotique de la classe des phénothiazines pipéridinés, utilisé pour traiter les psychoses et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Melleril®"
+      ],
+      "related_terms": [
+        "phénothiazines",
+        "thiopropérazine"
+      ],
+      "description": "Peut causer des effets secondaires anticholinergiques et des troubles de la conduction cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les psychoses et les troubles bipolaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoenzymatique",
+      "definition": "Technique de dosage utilisant des anticorps marqués par des enzymes pour détecter et quantifier des substances spécifiques.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "dosage",
+        "analyse toxicologique"
+      ],
+      "description": "Utilisée pour la détection et la quantification de substances toxiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des intoxications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fièvre élevée",
+      "definition": "Élévation anormale de la température corporelle, souvent causée par une infection ou une inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperthermie"
+      ],
+      "related_terms": [
+        "syndrome malin des neuroleptiques",
+        "insuffisance rénale aiguë"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des infections et des inflammations.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs cycliques",
+      "definition": "Classe d'antidépresseurs tricycliques, utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "tricycliques"
+      ],
+      "related_terms": [
+        "antidépresseurs",
+        "antidépresseurs polycycliques"
+      ],
+      "description": "Peuvent causer des effets secondaires graves en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs polycycliques",
+      "definition": "Classe d'antidépresseurs, utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseurs",
+        "antidépresseurs cycliques"
+      ],
+      "description": "Peuvent causer des effets secondaires graves en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour traiter la dépression et d'autres troubles de l'humeur.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathie anticholinergique",
+      "definition": "Trouble neurologique causé par l'inhibition de l'acétylcholine, caractérisé par une confusion, des hallucinations et des troubles de la mémoire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseurs polycycliques",
+        "coma"
+      ],
+      "description": "Peut être causée par des médicaments anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperréflexivité ostéotendineuse",
+      "definition": "État d'exagération des réflexes ostéotendineux, souvent causé par des troubles neurologiques ou des intoxications.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie anticholinergique",
+        "coma"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trépidation épileptoïde",
+      "definition": "Tremblements fins et rapides des extrémités, souvent causés par des troubles neurologiques ou des intoxications.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie anticholinergique",
+        "coma"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome neurovégétatif atropinique",
+      "definition": "Ensemble de symptômes causés par l'inhibition de l'acétylcholine, incluant la tachycardie, la sécheresse des muqueuses et la mydriase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie anticholinergique",
+        "coma"
+      ],
+      "description": "Peut être causé par des médicaments anticholinergiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mydriase bilatérale",
+      "definition": "Dilatation des pupilles des deux yeux, souvent causée par des médicaments ou des troubles neurologiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome neurovégétatif atropinique",
+        "coma"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rétention urinaire",
+      "definition": "Incapacité à vider complètement la vessie, souvent causée par des troubles neurologiques ou des médicaments.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome neurovégétatif atropinique",
+        "coma"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "abolition des bruits intestinaux",
+      "definition": "Absence de bruits intestinaux, souvent causée par une stagnation des comprimés et une absorption prolongée.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome neurovégétatif atropinique",
+        "coma"
+      ],
+      "description": "Peut être un signe de complications graves.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des troubles gastro-intestinaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "effet stabilisant de membrane",
+      "definition": "Effet des médicaments qui inhibent les canaux sodiques rapides, réduisant l'excitabilité des membranes cellulaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ESM"
+      ],
+      "related_terms": [
+        "tricycliques",
+        "QRS"
+      ],
+      "description": "Peut causer des anomalies des mouvements ioniques au niveau du potentiel d'action membranaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour le diagnostic des effets secondaires des médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "auriculo-ventriculaires",
+      "definition": "Relatif à la conduction électrique entre les oreillettes et les ventricules du cœur.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "BAV",
+        "tachycardie ventriculaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "conduction auriculo-ventriculaire",
+        "système de conduction cardiaque"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arythmie ventriculaire",
+      "definition": "Trouble du rythme cardiaque originaire des ventricules, pouvant inclure la fibrillation ventriculaire et la tachycardie ventriculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrillation ventriculaire",
+        "tachycardie ventriculaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "arythmie ventriculaire",
+        "ECG arythmie ventriculaire"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance circulatoire",
+      "definition": "Incapacité du système circulatoire à fournir un débit sanguin adéquat aux organes, souvent due à une dysfonction cardiaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc circulatoire"
+      ],
+      "related_terms": [
+        "inotrope négative",
+        "vasoplégique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "insuffisance circulatoire",
+        "choc cardiogénique"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inotrope négative",
+      "definition": "Effet de diminution de la force de contraction du myocarde, souvent associé à des médicaments ou toxines.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance circulatoire",
+        "vasoplégique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "inotrope négative",
+        "effet inotrope"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoplégique",
+      "definition": "Effet de dilatation des vaisseaux sanguins, souvent associé à une diminution de la résistance vasculaire périphérique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasodilatation"
+      ],
+      "related_terms": [
+        "insuffisance circulatoire",
+        "inotrope négative"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "vasoplégie",
+        "vasodilatation"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "asystole",
+      "definition": "Absence totale d'activité électrique et mécanique du cœur, souvent fatale si non traitée immédiatement.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "fibrillation ventriculaire",
+        "arrêt cardiaque"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "asystole",
+        "ECG asystole"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoenzymatiques",
+      "definition": "Techniques de dosage utilisant des réactions enzymatiques pour détecter des substances spécifiques, souvent utilisées en toxicologie.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseurs tricycliques",
+        "antidépresseurs tétracycliques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "immunoenzymatiques",
+        "dosage immunoenzymatique"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antidépresseurs tétracycliques",
+      "definition": "Classe de médicaments antidépresseurs ayant une structure chimique à quatre cycles, utilisés pour traiter la dépression.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antidépresseurs tricycliques",
+        "immunoenzymatiques"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "antidépresseurs tétracycliques",
+        "médicaments tétracycliques"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-dépresseurs inhibiteurs de la recapture de la sérotonine",
+      "definition": "Classe de médicaments antidépresseurs qui augmentent les niveaux de sérotonine dans le cerveau en inhibant sa recapture.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ISRS"
+      ],
+      "related_terms": [
+        "fluoxétine",
+        "sertraline"
+      ],
+      "description": "",
+      "expansion": "Inhibiteurs Sélectifs de la Recapture de la Sérotonine",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "ISRS",
+        "antidépresseurs sérotoninergiques"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fluoxétine",
+      "definition": "Médicament antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Prozac"
+      ],
+      "related_terms": [
+        "fluvoxamine",
+        "paroxétine"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "fluoxétine",
+        "Prozac"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fluvoxamine",
+      "definition": "Médicament antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Floxyfral"
+      ],
+      "related_terms": [
+        "fluoxétine",
+        "paroxétine"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "fluvoxamine",
+        "Floxyfral"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trazodone",
+      "definition": "Médicament antidépresseur atypique utilisé pour traiter la dépression et l'insomnie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Trazolan"
+      ],
+      "related_terms": [
+        "citalopram",
+        "escitalopram"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "trazodone",
+        "Trazolan"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "citalopram",
+      "definition": "Médicament antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Seropram"
+      ],
+      "related_terms": [
+        "escitalopram",
+        "sertraline"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "citalopram",
+        "Seropram"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "escitalopram",
+      "definition": "Médicament antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Seroplex"
+      ],
+      "related_terms": [
+        "citalopram",
+        "sertraline"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "escitalopram",
+        "Seroplex"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sertraline",
+      "definition": "Médicament antidépresseur de la classe des inhibiteurs sélectifs de la recapture de la sérotonine (ISRS).",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Zoloft"
+      ],
+      "related_terms": [
+        "citalopram",
+        "escitalopram"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "sertraline",
+        "Zoloft"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lithémie",
+      "definition": "Concentration de lithium dans le sang, utilisée pour surveiller le traitement par le lithium.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "Lithium",
+        "diabète insipide néphrogénique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lithémie",
+        "concentration de lithium"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lavage gastrique",
+      "definition": "Procédure d'évacuation du contenu de l'estomac par irrigation et aspiration, utilisée en cas d'intoxication.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "charbon activé",
+        "évacuation digestive"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lavage gastrique",
+        "évacuation gastrique"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurèse forcée",
+      "definition": "Technique médicale visant à augmenter la production d'urine pour accélérer l'élimination des toxines.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémodialyse",
+        "antidotes"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "diurèse forcée",
+        "production d'urine"
+      ],
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glossoptose",
+      "definition": "La glossoptose est l'affaissement de la langue vers l'arrière, pouvant obstruer les voies aériennes supérieures.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "obstruction des voies aériennes"
+      ],
+      "description": "La glossoptose peut être causée par une perte de tonus musculaire, souvent observée dans des états de coma ou de sédation profonde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flumazénil",
+      "definition": "Le flumazénil est un antagoniste des récepteurs GABAergiques des benzodiazépines, utilisé pour inverser les effets sédatifs des benzodiazépines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anexate®"
+      ],
+      "related_terms": [
+        "benzodiazépines",
+        "GABAergiques"
+      ],
+      "description": "Le flumazénil est utilisé en situation d'urgence pour réveiller les patients intoxiqués par les benzodiazépines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GABAergiques",
+      "definition": "Les récepteurs GABAergiques sont des récepteurs qui répondent à l'acide gamma-aminobutyrique (GABA), le principal neurotransmetteur inhibiteur du système nerveux central.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "GABA",
+        "benzodiazépines"
+      ],
+      "description": "Les récepteurs GABAergiques jouent un rôle crucial dans la régulation de l'anxiété, la sédation et le contrôle moteur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "buprénorphine",
+      "definition": "La buprénorphine est un opioïde partiel agoniste des récepteurs μ, utilisé pour le traitement de la douleur et la dépendance aux opiacés.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Temgésic",
+        "Subutex"
+      ],
+      "related_terms": [
+        "opiacés",
+        "récepteurs μ"
+      ],
+      "description": "La buprénorphine a une forte affinité pour les récepteurs μ, ce qui peut compliquer l'antagonisme par la naloxone.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sels de lithium",
+      "definition": "Médicaments utilisés principalement pour traiter les troubles bipolaires en stabilisant l'humeur.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Lithium"
+      ],
+      "related_terms": [
+        "Régulateurs de l'humeur"
+      ],
+      "description": "Les sels de lithium agissent en modulant les niveaux de neurotransmetteurs dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour prévenir les épisodes maniaques et dépressifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Divalproate de sodium",
+      "definition": "Médicament anticonvulsivant utilisé pour traiter l'épilepsie et les troubles bipolaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Divalproate de sodium"
+      ],
+      "related_terms": [
+        "Régulateurs de l'humeur",
+        "Anticonvulsivants"
+      ],
+      "description": "Le divalproate de sodium agit en augmentant les niveaux de GABA dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour traiter les crises épileptiques et les troubles bipolaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mescaline",
+      "definition": "Alcaloïde hallucinogène dérivé du peyotl, utilisé pour ses effets psychédéliques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Mescaline"
+      ],
+      "related_terms": [
+        "Hallucinogènes"
+      ],
+      "description": "La mescaline agit en modulant les récepteurs sérotoninergiques dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour ses effets hallucinogènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "LSD",
+      "definition": "Drogue hallucinogène dérivée de l'ergot de seigle, connue pour ses effets psychédéliques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "LSD"
+      ],
+      "related_terms": [
+        "Hallucinogènes"
+      ],
+      "description": "Le LSD agit en modulant les récepteurs sérotoninergiques dans le cerveau.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour ses effets hallucinogènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "700125e5-4ed8-4a91-aa34-3e06e8967a22",
+      "source_file": "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/Intoxications Aiguës/Courses/48 Intoxications par le CO, les organophosphorés et les psychotropes 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM 3.09.58 AM 3.10.21 AM.md"
+  ],
+  "total_terms": 150
+}

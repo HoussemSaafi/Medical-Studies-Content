@@ -1,0 +1,4555 @@
+{
+  "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+  "terms": [
+    {
+      "term": "manométrie anorectale",
+      "definition": "Technique de mesure de la pression dans le rectum et l'anus pour évaluer la fonction du sphincter anal et du rectum.",
+      "category": "imagerie",
+      "synonyms": [
+        "manométrie rectale"
+      ],
+      "related_terms": [
+        "incontinence anale",
+        "dysfonction anorectale"
+      ],
+      "description": "Utilisée pour diagnostiquer des troubles de la défécation et de l'incontinence fécale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "afécales",
+      "definition": "Émissions qui ne contiennent pas de matières fécales, souvent glaireuses ou sanglantes.",
+      "category": "pathologie",
+      "synonyms": [
+        "émissions non fécales"
+      ],
+      "related_terms": [
+        "rectocolite hémorragique",
+        "ulcère solitaire du rectum"
+      ],
+      "description": "Les émissions afécales peuvent être un signe de maladies rectales comme les tumeurs ou les ulcères.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rectoscopie",
+      "definition": "Examen endoscopique du rectum et du sigmoïde à l'aide d'un rectoscope.",
+      "category": "imagerie",
+      "synonyms": [
+        "sigmoïdoscopie"
+      ],
+      "related_terms": [
+        "colonoscopie",
+        "endoscopie digestive"
+      ],
+      "description": "Utilisée pour diagnostiquer des pathologies rectales et colorectales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "villosités intestinales",
+      "definition": "Projections en forme de doigts de la muqueuse intestinale qui augmentent la surface d'absorption.",
+      "category": "anatomie",
+      "synonyms": [
+        "villi intestinaux"
+      ],
+      "related_terms": [
+        "valvules conniventes",
+        "bordure en brosse"
+      ],
+      "description": "Les villosités intestinales sont essentielles pour l'absorption des nutriments dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "H+ ATPase",
+      "definition": "Enzyme de transport actif qui utilise l'énergie de l'ATP pour transporter les ions hydrogène à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe à protons"
+      ],
+      "related_terms": [
+        "Na+/K+ ATPase",
+        "Ca2+ ATPase"
+      ],
+      "description": "Cette enzyme est importante pour la régulation du pH intracellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "H+/K+ ATPase",
+      "definition": "Enzyme de transport actif qui utilise l'énergie de l'ATP pour transporter les ions hydrogène et potassium à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe à protons-potassium"
+      ],
+      "related_terms": [
+        "Na+/K+ ATPase",
+        "Ca2+ ATPase"
+      ],
+      "description": "Cette enzyme est essentielle pour la sécrétion d'acide gastrique dans l'estomac.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ca2+ ATPase",
+      "definition": "Enzyme de transport actif qui utilise l'énergie de l'ATP pour transporter les ions calcium à travers les membranes cellulaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "pompe à calcium"
+      ],
+      "related_terms": [
+        "Na+/K+ ATPase",
+        "H+ ATPase"
+      ],
+      "description": "Cette enzyme est cruciale pour la régulation des niveaux intracellulaires de calcium.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléon",
+      "definition": "Partie terminale de l'intestin grêle située après le jéjunum, où se déroule la réabsorption des sels biliaires et l'absorption de la vitamine B12.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "jéjunum",
+        "duodénum"
+      ],
+      "description": "L'iléon joue un rôle crucial dans l'absorption de certains nutriments et la réabsorption des sels biliaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amylase salivaire",
+      "definition": "Enzyme présente dans la salive qui dégrade l'amidon en maltose et en dextrines.",
+      "category": "physiologie",
+      "synonyms": [
+        "ptyaline"
+      ],
+      "related_terms": [
+        "α-amylase pancréatique",
+        "disaccharidases"
+      ],
+      "description": "L'amylase salivaire initie la digestion des glucides dans la bouche.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α-amylase pancréatique",
+      "definition": "Enzyme sécrétée par le pancréas qui dégrade l'amidon en maltose et en dextrines.",
+      "category": "physiologie",
+      "synonyms": [
+        "amylase pancréatique"
+      ],
+      "related_terms": [
+        "amylase salivaire",
+        "disaccharidases"
+      ],
+      "description": "L'α-amylase pancréatique continue la digestion des glucides dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "disaccharidases",
+      "definition": "Enzymes qui hydrolysent les disaccharides en monosaccharides, facilitant leur absorption intestinale.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "amylase salivaire",
+        "α-amylase pancréatique"
+      ],
+      "description": "Les disaccharidases sont essentielles pour la digestion des sucres complexes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SGTL1",
+      "definition": "Transporteur actif secondaire qui couple le passage du glucose et du galactose avec celui du sodium.",
+      "category": "physiologie",
+      "synonyms": [
+        "SGLT1"
+      ],
+      "related_terms": [
+        "GLUT2",
+        "GLUT5"
+      ],
+      "description": "SGTL1 est crucial pour l'absorption intestinale du glucose et du galactose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GLUT2",
+      "definition": "Transporteur de glucose qui facilite la diffusion du glucose et du galactose à travers la membrane basolatérale des entérocytes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "SGTL1",
+        "GLUT5"
+      ],
+      "description": "GLUT2 joue un rôle clé dans l'absorption intestinale du glucose et du galactose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GLUT5",
+      "definition": "Transporteur de fructose qui facilite la diffusion du fructose à travers la membrane apicale des entérocytes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "SGTL1",
+        "GLUT2"
+      ],
+      "description": "GLUT5 est essentiel pour l'absorption intestinale du fructose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipases gastrique",
+      "definition": "Enzymes sécrétées par l'estomac qui hydrolysent les triglycérides en acides gras et glycérol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipases",
+        "triglycérides"
+      ],
+      "description": "Les lipases gastriques sont actives en milieu acide et jouent un rôle dans la digestion initiale des lipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lipases pancréatique",
+      "definition": "Enzymes sécrétées par le pancréas qui hydrolysent les triglycérides en acides gras et glycérol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipases",
+        "triglycérides"
+      ],
+      "description": "Les lipases pancréatiques sont activées par la co-lipase et sont essentielles pour la digestion des lipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "co-lipase",
+      "definition": "Protéine qui facilite l'action des lipases pancréatiques en les ancrant aux gouttelettes de lipides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipases pancréatiques",
+        "lipides"
+      ],
+      "description": "La co-lipase améliore l'efficacité de la digestion des lipides en stabilisant les lipases pancréatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diacylglycérol",
+      "definition": "Lipide constitué de deux acides gras liés à une molécule de glycérol, intermédiaire dans la digestion des triglycérides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "triglycérides",
+        "acides gras"
+      ],
+      "description": "Le diacylglycérol est un produit intermédiaire de la dégradation des triglycérides par les lipases.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acides gras",
+      "definition": "Molécules organiques constituées d'une chaîne hydrocarbonée terminée par un groupe carboxyle, composants des lipides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipides",
+        "triglycérides"
+      ],
+      "description": "Les acides gras sont des composants essentiels des lipides et jouent un rôle crucial dans le métabolisme énergétique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "esters de cholestérol",
+      "definition": "Formes de cholestérol liées à un acide gras, utilisées pour le transport et le stockage du cholestérol.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "acides gras"
+      ],
+      "description": "Les esters de cholestérol sont des formes de cholestérol stockées dans les lipoprotéines pour le transport dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cholestérol estérase pancréatique",
+      "definition": "Enzyme sécrétée par le pancréas qui hydrolyse les esters de cholestérol en cholestérol libre et acides gras.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "esters de cholestérol"
+      ],
+      "description": "La cholestérol estérase pancréatique est essentielle pour la digestion et l'absorption du cholestérol alimentaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sels biliaires",
+      "definition": "Dérivés acides du cholestérol sécrétés par le foie, essentiels pour l'émulsification et l'absorption des lipides.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "cholestérol",
+        "lipides"
+      ],
+      "description": "Les sels biliaires facilitent la digestion et l'absorption des lipides en formant des micelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "membrane entérocytaire",
+      "definition": "Membrane des cellules épithéliales de l'intestin grêle, impliquée dans l'absorption des nutriments.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "entérocytes",
+        "intestin grêle"
+      ],
+      "description": "La membrane entérocytaire est la surface d'absorption des nutriments dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stéatorrhée physiologique",
+      "definition": "Présence normale de graisses dans les selles, généralement inférieure à 7 g/24 h.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "stéatorrhée",
+        "selles"
+      ],
+      "description": "La stéatorrhée physiologique est une petite quantité de graisses non absorbées présentes dans les selles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamines liposolubles",
+      "definition": "Vitamines solubles dans les lipides, incluant les vitamines A, D, E et K.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vitamines",
+        "lipides"
+      ],
+      "description": "Les vitamines liposolubles sont absorbées avec les lipides et stockées dans les tissus adipeux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FI-VitB12",
+      "definition": "Complexe formé par la vitamine B12 et le facteur intrinsèque, nécessaire pour l'absorption de la vitamine B12.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "vitamine B12",
+        "facteur intrinsèque"
+      ],
+      "description": "Le complexe FI-VitB12 est essentiel pour l'absorption de la vitamine B12 dans l'iléon.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chyme",
+      "definition": "Mélange semi-liquide de nourriture partiellement digérée et de sécrétions gastriques.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "digestion",
+        "sécrétions gastriques"
+      ],
+      "description": "Le chyme est le produit de la digestion gastrique qui passe dans l'intestin grêle pour une digestion et absorption ultérieures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angle de Treitz",
+      "definition": "Jonction entre le duodénum et le jéjunum, marquée par le ligament de Treitz.",
+      "category": "anatomie",
+      "synonyms": [
+        "ligament de Treitz"
+      ],
+      "related_terms": [
+        "duodénum",
+        "jéjunum"
+      ],
+      "description": "L'angle de Treitz est un repère anatomique important pour la transition entre le duodénum et le jéjunum.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CFTR",
+      "definition": "Protéine de transport du chlore, impliquée dans la régulation de l'équilibre hydrique et électrolytique.",
+      "category": "physiologie",
+      "synonyms": [
+        "Cystic Fibrosis Transmembrane Conductance Regulator"
+      ],
+      "related_terms": [
+        "chlore",
+        "électrolytes"
+      ],
+      "description": "Le CFTR est une protéine de transport ionique dont les mutations sont responsables de la mucoviscidose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "impérieux",
+      "definition": "Caractère des selles qui ne peuvent être différées plus de 15 minutes, souvent associé à des troubles intestinaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "selles",
+        "diarrhée"
+      ],
+      "description": "Les selles impérieuses sont un symptôme de troubles intestinaux nécessitant une évaluation médicale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ralentisseurs du transit",
+      "definition": "Médicaments utilisés pour réduire la motilité intestinale et traiter la diarrhée.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antidiarrhéiques"
+      ],
+      "related_terms": [
+        "diarrhée",
+        "motilité intestinale"
+      ],
+      "description": "Les ralentisseurs du transit sont utilisés pour contrôler les symptômes de la diarrhée en réduisant la fréquence des selles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastro-duodénal",
+      "definition": "Relatif à l'estomac et au duodénum, souvent utilisé pour décrire des ulcères ou des inflammations.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "estomac",
+        "duodénum"
+      ],
+      "description": "Les ulcères gastro-duodénaux sont des lésions de la muqueuse de l'estomac et du duodénum.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "affection thyroïdienne",
+      "definition": "Troubles de la glande thyroïde, incluant l'hypothyroïdie et l'hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïde",
+        "hypothyroïdie",
+        "hyperthyroïdie"
+      ],
+      "description": "Les affections thyroïdiennes affectent la production d'hormones thyroïdiennes et peuvent avoir des effets systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "auto-immunes",
+      "definition": "Maladies où le système immunitaire attaque les tissus de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "système immunitaire",
+        "maladies"
+      ],
+      "description": "Les maladies auto-immunes résultent d'une réponse immunitaire anormale dirigée contre les propres tissus de l'organisme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néoplasies familiales",
+      "definition": "Tumeurs ou cancers ayant une composante génétique héréditaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeurs",
+        "cancers"
+      ],
+      "description": "Les néoplasies familiales sont des cancers ayant une prédisposition génétique héréditaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome carentiel",
+      "definition": "Ensemble de symptômes résultant d'une carence en nutriments essentiels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "carence",
+        "nutriments"
+      ],
+      "description": "Le syndrome carentiel peut inclure des symptômes tels que la fatigue, l'anémie et des troubles cutanés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasomoteurs",
+      "definition": "Relatif à la vasomotricité, c'est-à-dire la capacité des vaisseaux sanguins à se contracter ou se dilater.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasomotricité",
+        "vasomotricité"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "vasodilatation"
+      ],
+      "description": "Les signes vasomoteurs peuvent inclure des changements de couleur de la peau, des sensations de chaleur ou de froid.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "flush syndrome",
+      "definition": "Syndrome caractérisé par une sensation de chaleur intense, transpiration, tachycardie et érythème paroxystique.",
+      "category": "pathologie",
+      "synonyms": [
+        "flush",
+        "bouffée de chaleur"
+      ],
+      "related_terms": [
+        "syndrome carcinoïde",
+        "érythème"
+      ],
+      "description": "Le flush syndrome peut être associé à des conditions comme le syndrome carcinoïde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carentiel",
+      "definition": "Relatif à une carence, c'est-à-dire un manque ou une insuffisance en nutriments essentiels.",
+      "category": "pathologie",
+      "synonyms": [
+        "carence",
+        "déficience"
+      ],
+      "related_terms": [
+        "malnutrition",
+        "anémie"
+      ],
+      "description": "Un syndrome carentiel peut inclure des signes comme l'amaigrissement, les œdèmes, et la mélanodermie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Chvostek",
+      "definition": "Signe clinique caractérisé par la contraction des muscles faciaux en réponse à la percussion du nerf facial.",
+      "category": "pathologie",
+      "synonyms": [
+        "signe de Chvostek"
+      ],
+      "related_terms": [
+        "hypocalcémie",
+        "tétanie"
+      ],
+      "description": "Le signe de Chvostek est souvent associé à l'hypocalcémie et peut indiquer une tétanie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Trousseau",
+      "definition": "Signe clinique caractérisé par la contraction des muscles de la main en réponse à l'occlusion de la circulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "signe de Trousseau"
+      ],
+      "related_terms": [
+        "hypocalcémie",
+        "tétanie"
+      ],
+      "description": "Le signe de Trousseau est souvent associé à l'hypocalcémie et peut indiquer une tétanie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sécrétoire",
+      "definition": "Relatif à la sécrétion, c'est-à-dire la production et l'émission de substances par les glandes.",
+      "category": "physiologie",
+      "synonyms": [
+        "sécrétion",
+        "sécrétoire"
+      ],
+      "related_terms": [
+        "diarrhée sécrétoire",
+        "glande"
+      ],
+      "description": "Une diarrhée sécrétoire est causée par une sécrétion excessive de fluides dans l'intestin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "graisseuse",
+      "definition": "Relatif à la présence de graisses, souvent utilisée pour décrire des selles contenant des graisses non digérées.",
+      "category": "pathologie",
+      "synonyms": [
+        "stéatorrhée",
+        "selles graisseuses"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "insuffisance pancréatique"
+      ],
+      "description": "Une diarrhée graisseuse peut indiquer une malabsorption des graisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "motrice",
+      "definition": "Relatif à la motricité, c'est-à-dire le mouvement ou l'activité musculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "motricité",
+        "mouvement"
+      ],
+      "related_terms": [
+        "diarrhée motrice",
+        "transit intestinal"
+      ],
+      "description": "Une diarrhée motrice est causée par une augmentation de la motricité intestinale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microcytaire",
+      "definition": "Relatif à des globules rouges de petite taille, souvent associé à une carence en fer.",
+      "category": "pathologie",
+      "synonyms": [
+        "anémie microcytaire"
+      ],
+      "related_terms": [
+        "anémie",
+        "ferritinémie"
+      ],
+      "description": "L'anémie microcytaire est souvent due à une carence en fer.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dimorphe",
+      "definition": "Relatif à une population de globules rouges de tailles variées, souvent observée dans les anémies mixtes.",
+      "category": "pathologie",
+      "synonyms": [
+        "anémie dimorphe"
+      ],
+      "related_terms": [
+        "anémie",
+        "globules rouges"
+      ],
+      "description": "L'anémie dimorphe peut indiquer une carence mixte en fer et en vitamine B12 ou en folates.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome inflammatoire biologique",
+      "definition": "Ensemble de signes biologiques indiquant une inflammation, souvent caractérisé par une élévation de la CRP et de la VS.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation"
+      ],
+      "related_terms": [
+        "CRP",
+        "VS"
+      ],
+      "description": "Un syndrome inflammatoire biologique peut être observé dans diverses maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exsudative",
+      "definition": "Relatif à une exsudation, c'est-à-dire une fuite de liquide ou de protéines à travers une membrane.",
+      "category": "pathologie",
+      "synonyms": [
+        "exsudation"
+      ],
+      "related_terms": [
+        "diarrhée exsudative",
+        "fuite intestinale"
+      ],
+      "description": "Une diarrhée exsudative peut être causée par une fuite intestinale d'albumine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "malabsorption protéique",
+      "definition": "Absorption insuffisante des protéines dans l'intestin grêle.",
+      "category": "pathologie",
+      "synonyms": [
+        "malabsorption des protéines"
+      ],
+      "related_terms": [
+        "hypoalbuminémie",
+        "diarrhée exsudative"
+      ],
+      "description": "La malabsorption protéique peut entraîner une hypoalbuminémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocholestérolémie",
+      "definition": "Concentration anormalement basse de cholestérol dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocholestérolémie"
+      ],
+      "related_terms": [
+        "cholestérolémie",
+        "malabsorption"
+      ],
+      "description": "L'hypocholestérolémie peut être causée par une malabsorption des graisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "congénital",
+      "definition": "Présent à la naissance, souvent dû à des anomalies génétiques ou développementales.",
+      "category": "pathologie",
+      "synonyms": [
+        "congénital"
+      ],
+      "related_terms": [
+        "maladie congénitale",
+        "génétique"
+      ],
+      "description": "Une maladie congénitale est présente dès la naissance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acquis",
+      "definition": "Développé après la naissance, souvent dû à des facteurs environnementaux ou à des maladies.",
+      "category": "pathologie",
+      "synonyms": [
+        "acquis"
+      ],
+      "related_terms": [
+        "maladie acquise",
+        "infection"
+      ],
+      "description": "Une maladie acquise se développe après la naissance.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "exsudation protéique digestive majeure",
+      "definition": "Fuite importante de protéines dans la lumière intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "exsudation protéique"
+      ],
+      "related_terms": [
+        "hypoalbuminémie",
+        "malabsorption protéique"
+      ],
+      "description": "Une exsudation protéique digestive majeure peut entraîner une hypoalbuminémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-transglutaminase",
+      "definition": "Anticorps dirigés contre l'enzyme transglutaminase, utilisés pour diagnostiquer la maladie cœliaque.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anti-transglutaminase"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "IgA antiendomysium"
+      ],
+      "description": "Les anticorps anti-transglutaminase sont souvent élevés dans la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgA antiendomysium",
+      "definition": "Anticorps dirigés contre l'endomysium, utilisés pour diagnostiquer la maladie cœliaque.",
+      "category": "microbiologie",
+      "synonyms": [
+        "antiendomysium"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "anticorps anti-transglutaminase"
+      ],
+      "description": "Les IgA antiendomysium sont souvent élevés dans la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parasitose intestinale",
+      "definition": "Infection de l'intestin par des parasites, souvent causée par la consommation d'eau ou d'aliments contaminés.",
+      "category": "microbiologie",
+      "synonyms": [
+        "parasitose intestinale"
+      ],
+      "related_terms": [
+        "parasites",
+        "diarrhée"
+      ],
+      "description": "Les parasitoses intestinales peuvent entraîner des symptômes comme la diarrhée, les douleurs abdominales, et la perte de poids.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coproculture",
+      "definition": "Culture de selles pour identifier les bactéries pathogènes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "coproculture"
+      ],
+      "related_terms": [
+        "selles",
+        "bactéries"
+      ],
+      "description": "La coproculture est souvent utilisée pour diagnostiquer les infections bactériennes intestinales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fécalogramme",
+      "definition": "Examen des selles pour évaluer les mécanismes d'une diarrhée chronique.",
+      "category": "imagerie",
+      "synonyms": [
+        "fécalogramme"
+      ],
+      "related_terms": [
+        "diarrhée chronique",
+        "stéatorrhée"
+      ],
+      "description": "Le fécalogramme permet de mesurer le poids fécal, l'osmolarité fécale, et la stéatorrhée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "osmolarité fécale",
+      "definition": "Mesure de la concentration de particules dissoutes dans les selles.",
+      "category": "physiologie",
+      "synonyms": [
+        "osmolarité fécale"
+      ],
+      "related_terms": [
+        "fécalogramme",
+        "diarrhée osmotique"
+      ],
+      "description": "L'osmolarité fécale est normalement isoosmotique au plasma (environ 290 mOsm/kg).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée factice",
+      "definition": "Diarrhée causée par l'ajout volontaire de substances hypotoniques dans les selles.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée factice"
+      ],
+      "related_terms": [
+        "diarrhée",
+        "osmolarité fécale"
+      ],
+      "description": "La diarrhée factice peut être détectée par une osmolarité fécale basse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée osmotique",
+      "definition": "Diarrhée causée par la présence de substances non absorbées dans l'intestin, entraînant une rétention d'eau.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée osmotique"
+      ],
+      "related_terms": [
+        "diarrhée",
+        "osmolarité fécale"
+      ],
+      "description": "La diarrhée osmotique est caractérisée par un trou osmotique supérieur à 125 mOsm/kg.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée sécrétoire",
+      "definition": "Diarrhée causée par une sécrétion excessive de fluides dans l'intestin.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée sécrétoire"
+      ],
+      "related_terms": [
+        "diarrhée",
+        "osmolarité fécale"
+      ],
+      "description": "La diarrhée sécrétoire est caractérisée par un trou osmotique inférieur à 50 mOsm/kg.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stéatorrhée",
+      "definition": "Présence excessive de graisses dans les selles, souvent due à une malabsorption des graisses.",
+      "category": "pathologie",
+      "synonyms": [
+        "stéatorrhée"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "insuffisance pancréatique"
+      ],
+      "description": "La stéatorrhée est pathologique si elle est ≥ 7 g/24 h.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "grélique",
+      "definition": "Relatif à l'intestin grêle.",
+      "category": "anatomie",
+      "synonyms": [
+        "intestin grêle"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "stéatorrhée"
+      ],
+      "description": "Une atteinte grélique peut entraîner une malabsorption des graisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance pancréatique exocrine",
+      "definition": "Incapacité du pancréas à produire suffisamment d'enzymes digestives.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance pancréatique"
+      ],
+      "related_terms": [
+        "pancréas",
+        "lipases"
+      ],
+      "description": "L'insuffisance pancréatique exocrine peut entraîner une malabsorption des graisses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clairance de l'alpha-1-antitrypsine",
+      "definition": "Mesure de la fuite de l'alpha-1-antitrypsine dans les selles, utilisée pour évaluer l'exsudation protéique intestinale.",
+      "category": "physiologie",
+      "synonyms": [
+        "clairance de l'alpha-1-antitrypsine"
+      ],
+      "related_terms": [
+        "alpha-1-antitrypsine",
+        "exsudation protéique"
+      ],
+      "description": "Une clairance supérieure à 20 ml par jour traduit une exsudation protéique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "concentration fécale en élastase pancréatique",
+      "definition": "Mesure de l'élastase pancréatique dans les selles pour évaluer la fonction exocrine du pancréas.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "insuffisance pancréatique exocrine"
+      ],
+      "description": "Un taux inférieur à 200 µg/kg indique une insuffisance pancréatique exocrine sévère.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de la digestion et de l'absorption des nutriments.",
+      "normal_values": ">200 µg/kg",
+      "image_search_terms": [
+        "élastase pancréatique",
+        "selles"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calprotectine fécale",
+      "definition": "Protéine présente dans les polynucléaires neutrophiles, utilisée comme marqueur de l'inflammation intestinale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lésions inflammatoires intestinales"
+      ],
+      "description": "Un taux supérieur à 50-75 µg/g indique une inflammation intestinale.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les maladies inflammatoires de l'intestin.",
+      "normal_values": "<50-75 µg/g",
+      "image_search_terms": [
+        "calprotectine",
+        "inflammation intestinale"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "test au rouge carmin",
+      "definition": "Test utilisé pour mesurer le temps de transit oro-anal et détecter une diarrhée motrice.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "diarrhée motrice"
+      ],
+      "description": "Un temps inférieur à 8 heures indique une accélération du transit intestinal.",
+      "expansion": "",
+      "clinical_significance": "Important pour évaluer la motricité intestinale.",
+      "normal_values": ">8 heures",
+      "image_search_terms": [
+        "rouge carmin",
+        "transit intestinal"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pullulation bactérienne",
+      "definition": "Prolifération excessive de bactéries dans l'intestin grêle.",
+      "category": "microbiologie",
+      "synonyms": [
+        "pullulation microbienne"
+      ],
+      "related_terms": [
+        "test respiratoire au glucose"
+      ],
+      "description": "Peut entraîner une fermentation du glucose et une production excessive d'hydrogène.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de la digestion et de l'absorption des nutriments.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bactéries intestinales",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "test d'absorption du D-Xylose",
+      "definition": "Test utilisé pour évaluer la fonction d'absorption du grêle proximal.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "malabsorption"
+      ],
+      "description": "Un taux de xylosémie <250 mg/l ou de xylosurie <4 g indique une malabsorption.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'absorption intestinale.",
+      "normal_values": "xylosémie >250 mg/l, xylosurie >4 g",
+      "image_search_terms": [
+        "D-Xylose",
+        "absorption intestinale"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chromgranine",
+      "definition": "Protéine sécrétée par les cellules neuroendocrines, utilisée comme marqueur des tumeurs neuroendocrines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur neuroendocrine digestive"
+      ],
+      "description": "Élevée en cas de tumeur neuroendocrine digestive.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs neuroendocrines.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chromgranine",
+        "tumeur neuroendocrine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "5-HIAA",
+      "definition": "Métabolite urinaire de la sérotonine, utilisé comme marqueur des tumeurs neuroendocrines.",
+      "category": "pathologie",
+      "synonyms": [
+        "5-Hydroxy-IndoleAcétique Acid"
+      ],
+      "related_terms": [
+        "tumeur neuroendocrine digestive"
+      ],
+      "description": "Élevé chez 88% des patients présentant une tumeur neuroendocrine.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs neuroendocrines.",
+      "normal_values": "",
+      "image_search_terms": [
+        "5-HIAA",
+        "sérotonine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeur neuroendocrine digestive",
+      "definition": "Tumeur se développant à partir des cellules neuroendocrines du système digestif.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "chromgranine",
+        "5-HIAA"
+      ],
+      "description": "Peut entraîner des diarrhées chroniques et des troubles vasomoteurs.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs neuroendocrines.",
+      "normal_values": "",
+      "image_search_terms": [
+        "tumeur neuroendocrine",
+        "système digestif"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastrinémie",
+      "definition": "Mesure du taux de gastrine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypergastrinémie",
+        "gastrinome"
+      ],
+      "description": "Élevée en cas de production excessive de gastrine par une tumeur de type gastrinome.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer le syndrome de Zollinger-Ellison.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gastrine",
+        "gastrinome"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypergastrinémie",
+      "definition": "Élévation anormale du taux de gastrine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrinémie",
+        "gastrinome"
+      ],
+      "description": "Peut être due à une tumeur de type gastrinome.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer le syndrome de Zollinger-Ellison.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gastrine",
+        "gastrinome"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastrinome",
+      "definition": "Tumeur sécrétant de la gastrine, souvent associée au syndrome de Zollinger-Ellison.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrinémie",
+        "hypergastrinémie"
+      ],
+      "description": "Peut entraîner une hypergastrinémie et des ulcères gastro-duodénaux.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer le syndrome de Zollinger-Ellison.",
+      "normal_values": "",
+      "image_search_terms": [
+        "gastrinome",
+        "syndrome de Zollinger-Ellison"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vipémie",
+      "definition": "Mesure du taux de VIP (vasoactive intestinal peptide) dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypervipémie",
+        "vipome"
+      ],
+      "description": "Élevée en cas de vipome.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs sécrétant du VIP.",
+      "normal_values": "",
+      "image_search_terms": [
+        "VIP",
+        "vipome"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypervipémie",
+      "definition": "Élévation anormale du taux de VIP (vasoactive intestinal peptide) dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vipémie",
+        "vipome"
+      ],
+      "description": "Peut être due à un vipome.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs sécrétant du VIP.",
+      "normal_values": "",
+      "image_search_terms": [
+        "VIP",
+        "vipome"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tryptase sérique",
+      "definition": "Enzyme sécrétée par les mastocytes, utilisée comme marqueur de la mastocytose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "mastocytose"
+      ],
+      "description": "Élevée en cas de mastocytose.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer la mastocytose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "tryptase",
+        "mastocytose"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mastocytose",
+      "definition": "Prolifération anormale des mastocytes dans les tissus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tryptase sérique"
+      ],
+      "description": "Peut entraîner des symptômes allergiques et des diarrhées.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles liés aux mastocytes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "mastocytose",
+        "mastocytes"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atrophie villositaire",
+      "definition": "Réduction ou disparition des villosités intestinales, souvent associée à la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endoscopie digestive haute",
+        "biopsies duodenales"
+      ],
+      "description": "Peut entraîner une malabsorption des nutriments.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer la maladie cœliaque.",
+      "normal_values": "",
+      "image_search_terms": [
+        "atrophie villositaire",
+        "villosités intestinales"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coloscopie totale",
+      "definition": "Examen endoscopique permettant d'explorer le côlon et l'iléon.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "iléoscopie rétrograde",
+        "biopsies iléales et coliques"
+      ],
+      "description": "Permet de réaliser des biopsies pour rechercher une colite microscopique.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles du côlon et de l'iléon.",
+      "normal_values": "",
+      "image_search_terms": [
+        "coloscopie",
+        "côlon",
+        "iléon"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléoscopie rétrograde",
+      "definition": "Examen endoscopique permettant d'explorer l'iléon terminal.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "coloscopie totale",
+        "biopsies iléales"
+      ],
+      "description": "Permet de réaliser des biopsies iléales pour rechercher une colite microscopique.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'iléon.",
+      "normal_values": "",
+      "image_search_terms": [
+        "iléoscopie",
+        "iléon"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colite microscopique",
+      "definition": "Inflammation du côlon visible uniquement au microscope, souvent associée à des diarrhées chroniques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "coloscopie totale",
+        "iléoscopie rétrograde"
+      ],
+      "description": "Peut entraîner des diarrhées chroniques.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles inflammatoires du côlon.",
+      "normal_values": "",
+      "image_search_terms": [
+        "colite microscopique",
+        "côlon"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéroscopie",
+      "definition": "Examen endoscopique permettant d'explorer une grande partie de l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "biopsies"
+      ],
+      "description": "Permet de réaliser des biopsies pour diagnostiquer les troubles de l'intestin grêle.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'intestin grêle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "entéroscopie",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "examen du grêle par vidéocapsule",
+      "definition": "Examen endoscopique utilisant une capsule ingérée pour enregistrer des images de la muqueuse de l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "vidéocapsule"
+      ],
+      "description": "Permet d'explorer l'intestin grêle mais ne permet pas de faire des biopsies.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'intestin grêle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "vidéocapsule",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéro-IRM",
+      "definition": "Technique d'imagerie par résonance magnétique permettant d'évaluer la paroi de l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [
+        "entéro scanner"
+      ],
+      "related_terms": [
+        "transit baryté du grêle"
+      ],
+      "description": "Remplace actuellement le transit baryté du grêle pour évaluer la paroi de l'intestin grêle.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'intestin grêle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "entéro-IRM",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéro scanner",
+      "definition": "Technique d'imagerie par scanner permettant d'évaluer la paroi de l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [
+        "entéro-IRM"
+      ],
+      "related_terms": [
+        "transit baryté du grêle"
+      ],
+      "description": "Remplace actuellement le transit baryté du grêle pour évaluer la paroi de l'intestin grêle.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'intestin grêle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "entéro scanner",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "transit baryté du grêle",
+      "definition": "Examen radiologique utilisant un produit de contraste baryté pour visualiser l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "entéro-IRM",
+        "entéro scanner"
+      ],
+      "description": "Délaissé au profit de l'entéro-IRM et de l'entéro scanner.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'intestin grêle.",
+      "normal_values": "",
+      "image_search_terms": [
+        "transit baryté",
+        "intestin grêle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TDM abdomino-pelvienne",
+      "definition": "Technique d'imagerie par tomodensitométrie permettant d'explorer l'abdomen et le pelvis.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur pancréatique",
+        "adénopathies intra abdominales",
+        "lymphome digestif"
+      ],
+      "description": "Permet de diagnostiquer des tumeurs, des adénopathies et d'explorer les axes vasculaires digestifs.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles abdominaux et pelviens.",
+      "normal_values": "",
+      "image_search_terms": [
+        "TDM",
+        "abdomen",
+        "pelvis"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pancréto-cholangio-IRM",
+      "definition": "Technique d'imagerie par résonance magnétique permettant d'explorer le pancréas et les voies biliaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "pancréatite chronique"
+      ],
+      "description": "Sensibilité de 98% et spécificité de 100% pour le diagnostic de pancréatite chronique.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles du pancréas et des voies biliaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pancréto-cholangio-IRM",
+        "pancréas",
+        "voies biliaires"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pancréatite chronique",
+      "definition": "Inflammation chronique du pancréas entraînant une destruction progressive du tissu pancréatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pancréto-cholangio-IRM"
+      ],
+      "description": "Peut entraîner une insuffisance pancréatique exocrine et endocrine.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles du pancréas.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pancréatite chronique",
+        "pancréas"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "echoendoscopie duodenopancréatique",
+      "definition": "Technique d'imagerie utilisant une sonde endoscopique pour explorer le duodénum et le pancréas.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur pancréatique",
+        "pancréatite chronique"
+      ],
+      "description": "Permet d'étudier la paroi duodénale et le pancréas.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles du duodénum et du pancréas.",
+      "normal_values": "",
+      "image_search_terms": [
+        "echoendoscopie",
+        "duodénum",
+        "pancréas"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "octréoscan",
+      "definition": "Technique d'imagerie utilisant un traceur radioactif pour détecter les tumeurs neuroendocrines.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur endocrine"
+      ],
+      "description": "Indiqué en cas de suspicion de tumeur endocrine.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs neuroendocrines.",
+      "normal_values": "",
+      "image_search_terms": [
+        "octréoscan",
+        "tumeur endocrine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeur endocrine",
+      "definition": "Tumeur se développant à partir des cellules endocrines, souvent sécrétant des hormones.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "octréoscan"
+      ],
+      "description": "Peut entraîner des symptômes liés à la sécrétion excessive d'hormones.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles liés aux hormones.",
+      "normal_values": "",
+      "image_search_terms": [
+        "tumeur endocrine",
+        "cellules endocrines"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer colique",
+      "definition": "Tumeur maligne se développant dans le côlon.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "coloscopie"
+      ],
+      "description": "Peut entraîner des diarrhées chroniques et des saignements rectaux.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les tumeurs du côlon.",
+      "normal_values": "",
+      "image_search_terms": [
+        "cancer colique",
+        "côlon"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroscopie digestive",
+      "definition": "Examen endoscopique permettant d'explorer l'estomac et le duodénum.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "biopsies duodenales",
+        "syndrome de malabsorption"
+      ],
+      "description": "Permet de réaliser des biopsies duodenales pour diagnostiquer un syndrome de malabsorption.",
+      "expansion": "",
+      "clinical_significance": "Important pour diagnostiquer les troubles de l'estomac et du duodénum.",
+      "normal_values": "",
+      "image_search_terms": [
+        "fibroscopie",
+        "estomac",
+        "duodénum"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microbiote colique",
+      "definition": "Ensemble des micro-organismes présents dans le côlon, jouant un rôle crucial dans la digestion et la santé intestinale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "flore intestinale",
+        "microbiote intestinal"
+      ],
+      "related_terms": [
+        "probiotiques",
+        "dysbiose"
+      ],
+      "description": "Le microbiote colique est impliqué dans la fermentation des glucides et des protéines non absorbées, produisant des acides gras à chaîne courte.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "microbiote colique",
+        "flore intestinale"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acides gras à chaîne longue",
+      "definition": "Acides gras contenant plus de 12 atomes de carbone, souvent trouvés dans les graisses alimentaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "AGCL"
+      ],
+      "related_terms": [
+        "acides gras saturés",
+        "acides gras insaturés"
+      ],
+      "description": "Les acides gras à chaîne longue sont essentiels pour la structure des membranes cellulaires et la production d'énergie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acides gras à chaîne longue",
+        "AGCL"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrolytes",
+      "definition": "Ions présents dans le corps, essentiels pour de nombreuses fonctions physiologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "ions"
+      ],
+      "related_terms": [
+        "sodium",
+        "potassium"
+      ],
+      "description": "Les électrolytes jouent un rôle crucial dans l'équilibre hydrique et la conduction nerveuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "électrolytes",
+        "ions"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligoéléments",
+      "definition": "Éléments minéraux présents en faibles quantités dans l'organisme, essentiels pour diverses fonctions biologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "micronutriments"
+      ],
+      "related_terms": [
+        "zinc",
+        "sélénium"
+      ],
+      "description": "Les oligoéléments jouent un rôle crucial dans les réactions enzymatiques et la santé cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oligoéléments",
+        "micronutriments"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéomalacie",
+      "definition": "Maladie osseuse caractérisée par un ramollissement des os dû à une carence en vitamine D.",
+      "category": "pathologie",
+      "synonyms": [
+        "ramollissement osseux"
+      ],
+      "related_terms": [
+        "rachitisme",
+        "vitamine D"
+      ],
+      "description": "L'ostéomalacie entraîne des douleurs osseuses et une fragilité osseuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéomalacie",
+        "ramollissement osseux"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anémie microcytaire ferriprive",
+      "definition": "Type d'anémie caractérisée par des globules rouges de petite taille, due à une carence en fer.",
+      "category": "pathologie",
+      "synonyms": [
+        "anémie ferriprive"
+      ],
+      "related_terms": [
+        "ferritine",
+        "sidérophiline"
+      ],
+      "description": "L'anémie microcytaire ferriprive est souvent causée par une alimentation pauvre en fer ou une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anémie microcytaire ferriprive",
+        "anémie ferriprive"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocalciurie",
+      "definition": "Excrétion urinaire anormalement basse de calcium.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocalciurie"
+      ],
+      "related_terms": [
+        "calcium",
+        "hypocalcémie"
+      ],
+      "description": "L'hypocalciurie peut être due à une carence en vitamine D ou à des troubles rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypocalciurie",
+        "calcium"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sidérophiline",
+      "definition": "Protéine de transport du fer dans le sang, également connue sous le nom de transferrine.",
+      "category": "physiologie",
+      "synonyms": [
+        "transferrine"
+      ],
+      "related_terms": [
+        "fer",
+        "ferritine"
+      ],
+      "description": "La sidérophiline joue un rôle crucial dans le transport du fer vers les tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sidérophiline",
+        "transferrine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs de coagulation vitamine K-dépendants",
+      "definition": "Protéines nécessaires à la coagulation sanguine, dont la synthèse dépend de la vitamine K.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteurs de coagulation"
+      ],
+      "related_terms": [
+        "vitamine K",
+        "coagulation"
+      ],
+      "description": "Les facteurs de coagulation vitamine K-dépendants incluent les facteurs II, VII, IX et X.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "facteurs de coagulation vitamine K-dépendants",
+        "facteurs de coagulation"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA DQ2",
+      "definition": "Allèle du système HLA (antigène leucocytaire humain) associé à une prédisposition génétique à la maladie cœliaque.",
+      "category": "classification",
+      "synonyms": [
+        "HLA-DQ2"
+      ],
+      "related_terms": [
+        "HLA DQ8",
+        "maladie cœliaque"
+      ],
+      "description": "HLA DQ2 est présent chez la majorité des patients atteints de maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA DQ2",
+        "HLA-DQ2"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA DQ8",
+      "definition": "Allèle du système HLA (antigène leucocytaire humain) associé à une prédisposition génétique à la maladie cœliaque.",
+      "category": "classification",
+      "synonyms": [
+        "HLA-DQ8"
+      ],
+      "related_terms": [
+        "HLA DQ2",
+        "maladie cœliaque"
+      ],
+      "description": "HLA DQ8 est présent chez certains patients atteints de maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "HLA DQ8",
+        "HLA-DQ8"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéropathie auto-immune",
+      "definition": "Maladie auto-immune affectant l'intestin grêle, souvent associée à une réaction immunitaire contre des composants alimentaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "entéropathie"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "gluten"
+      ],
+      "description": "L'entéropathie auto-immune peut entraîner une malabsorption et des carences nutritionnelles.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "entéropathie auto-immune",
+        "entéropathie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéropathie sensible au gluten",
+      "definition": "Réaction immunitaire de l'intestin grêle au gluten, caractéristique de la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "intolérance au gluten"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "gliadine"
+      ],
+      "description": "L'entéropathie sensible au gluten entraîne une atrophie villositaire et une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "entéropathie sensible au gluten",
+        "intolérance au gluten"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intolérance à la gliadine",
+      "definition": "Réaction immunitaire à la gliadine, une protéine présente dans le gluten, caractéristique de la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "sensibilité à la gliadine"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "gluten"
+      ],
+      "description": "L'intolérance à la gliadine entraîne une atrophie villositaire et une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "intolérance à la gliadine",
+        "sensibilité à la gliadine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dermatite herpétiforme",
+      "definition": "Maladie cutanée auto-immune associée à la maladie cœliaque, caractérisée par des éruptions prurigineuses.",
+      "category": "pathologie",
+      "synonyms": [
+        "dermatite herpétiforme de Duhring"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "gluten"
+      ],
+      "description": "La dermatite herpétiforme est souvent associée à une sensibilité au gluten.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dermatite herpétiforme",
+        "dermatite herpétiforme de Duhring"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes intra-épithéliaux",
+      "definition": "Lymphocytes présents dans l'épithélium intestinal, dont l'augmentation est un signe précoce de la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphocytes intra-épithéliaux"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "gluten"
+      ],
+      "description": "L'augmentation des lymphocytes intra-épithéliaux est un signe histologique caractéristique de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphocytes intra-épithéliaux",
+        "lymphocytes intra-épithéliaux"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphoplasmocytaire",
+      "definition": "Infiltrat inflammatoire composé de lymphocytes et de plasmocytes, souvent observé dans la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "infiltrat lymphoplasmocytaire"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "inflammation"
+      ],
+      "description": "L'infiltrat lymphoplasmocytaire est un signe histologique de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphoplasmocytaire",
+        "infiltrat lymphoplasmocytaire"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polynucléaires éosinophiles",
+      "definition": "Type de globules blancs contenant des granules éosinophiles, souvent présents dans les réactions allergiques et les infections parasitaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "éosinophiles"
+      ],
+      "related_terms": [
+        "allergie",
+        "parasitose"
+      ],
+      "description": "Les polynucléaires éosinophiles jouent un rôle dans la réponse immunitaire contre les parasites et les allergènes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polynucléaires éosinophiles",
+        "éosinophiles"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sprue réfractaire",
+      "definition": "Forme de maladie cœliaque qui ne répond pas au régime sans gluten, souvent due à des complications telles que le lymphome.",
+      "category": "pathologie",
+      "synonyms": [
+        "sprue réfractaire"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "lymphome"
+      ],
+      "description": "La sprue réfractaire est une complication grave de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sprue réfractaire",
+        "sprue réfractaire"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcérations duodéno-jéjuno-iléales",
+      "definition": "Lésions ulcéreuses affectant le duodénum, le jéjunum et l'iléon, pouvant être une complication de la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcérations intestinales"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "ulcère"
+      ],
+      "description": "Les ulcérations duodéno-jéjuno-iléales peuvent entraîner des complications graves telles que des perforations ou des hémorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ulcérations duodéno-jéjuno-iléales",
+        "ulcérations intestinales"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sprue collagène",
+      "definition": "Maladie auto-immune rare caractérisée par une atrophie villositaire et un dépôt de collagène sous-épithélial.",
+      "category": "pathologie",
+      "synonyms": [
+        "sprue collagène"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "atrophie villositaire"
+      ],
+      "description": "La sprue collagène est une maladie auto-immune rare affectant l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sprue collagène",
+        "sprue collagène"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ostéopénie",
+      "definition": "Réduction de la densité minérale osseuse, souvent observée dans la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "ostéopénie"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "ostéoporose"
+      ],
+      "description": "L'ostéopénie peut entraîner une fragilité osseuse et un risque accru de fractures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ostéopénie",
+        "ostéopénie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyposplénisme",
+      "definition": "Fonction réduite de la rate, souvent associée à des maladies auto-immunes telles que la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyposplénisme"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "rate"
+      ],
+      "description": "L'hyposplénisme peut entraîner une susceptibilité accrue aux infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hyposplénisme",
+        "hyposplénisme"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cavitation ganglionnaire",
+      "definition": "Formation de cavités dans les ganglions lymphatiques, souvent due à des infections ou des maladies auto-immunes.",
+      "category": "pathologie",
+      "synonyms": [
+        "cavitation ganglionnaire"
+      ],
+      "related_terms": [
+        "ganglions lymphatiques",
+        "infection"
+      ],
+      "description": "La cavitation ganglionnaire peut être une complication de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cavitation ganglionnaire",
+        "cavitation ganglionnaire"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-transglutaminases",
+      "definition": "Anticorps dirigés contre les transglutaminases, souvent présents dans la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anti-tTG"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "transglutaminases"
+      ],
+      "description": "Les anticorps anti-transglutaminases sont utilisés dans le diagnostic de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-transglutaminases",
+        "anticorps anti-tTG"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-endomysium",
+      "definition": "Anticorps dirigés contre l'endomysium, souvent présents dans la maladie cœliaque.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps anti-EMA"
+      ],
+      "related_terms": [
+        "maladie cœliaque",
+        "endomysium"
+      ],
+      "description": "Les anticorps anti-endomysium sont utilisés dans le diagnostic de la maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps anti-endomysium",
+        "anticorps anti-EMA"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endoscopie haute",
+      "definition": "Examen endoscopique de l'œsophage, de l'estomac et du duodénum, utilisé pour diagnostiquer diverses maladies gastro-intestinales.",
+      "category": "imagerie",
+      "synonyms": [
+        "endoscopie digestive haute"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "gastroscopie"
+      ],
+      "description": "L'endoscopie haute permet de visualiser les muqueuses et de prélever des biopsies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endoscopie haute",
+        "endoscopie digestive haute"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "giardiose",
+      "definition": "Infection intestinale causée par le protozoaire Giardia intestinalis, souvent responsable de diarrhée par malabsorption.",
+      "category": "pathologie",
+      "synonyms": [
+        "giardiase",
+        "lambliase"
+      ],
+      "related_terms": [
+        "Giardia intestinalis",
+        "diarrhée"
+      ],
+      "description": "La giardiose est une parasitose intestinale courante, souvent associée à des troubles de malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "giardiose",
+        "giardiase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Giardia intestinalis",
+      "definition": "Protozoaire flagellé responsable de la giardiose, une infection intestinale courante.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Giardia lamblia"
+      ],
+      "related_terms": [
+        "giardiose",
+        "protozoaire"
+      ],
+      "description": "Giardia intestinalis colonise la partie supérieure de l'intestin grêle, entraînant des diarrhées et une malabsorption.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Giardia intestinalis",
+        "Giardia lamblia"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "duodénite",
+      "definition": "Inflammation de la muqueuse du duodénum, la première partie de l'intestin grêle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrite",
+        "entérite"
+      ],
+      "description": "La duodénite peut être causée par divers agents infectieux, y compris des parasites.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des douleurs épigastriques et des diarrhées.",
+      "normal_values": null,
+      "image_search_terms": [
+        "duodénite",
+        "inflammation duodénum"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "G.intestinalis",
+      "definition": "Giardia intestinalis, un parasite protozoaire qui infecte l'intestin grêle et peut causer la giardiase.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Giardia lamblia"
+      ],
+      "related_terms": [
+        "giardiase",
+        "parasite intestinal"
+      ],
+      "description": "G.intestinalis est un parasite courant qui peut être transmis par l'eau contaminée ou par contact direct.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des diarrhées chroniques et un syndrome de malabsorption.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Giardia intestinalis",
+        "giardiase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "trophozoïtes",
+      "definition": "Forme active et mobile de certains protozoaires, y compris Giardia intestinalis.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "protozoaire",
+        "Giardia intestinalis"
+      ],
+      "description": "Les trophozoïtes sont la forme de Giardia qui se fixe à la muqueuse intestinale et cause des symptômes.",
+      "expansion": null,
+      "clinical_significance": "La présence de trophozoïtes dans les selles ou les biopsies intestinales est indicative d'une infection active.",
+      "normal_values": null,
+      "image_search_terms": [
+        "trophozoïtes",
+        "Giardia intestinalis"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anguillulose",
+      "definition": "Infection par le nématode Strongyloides stercoralis, qui peut causer des diarrhées chroniques et un syndrome de malabsorption.",
+      "category": "pathologie",
+      "synonyms": [
+        "strongyloïdose"
+      ],
+      "related_terms": [
+        "nématode",
+        "parasite intestinal"
+      ],
+      "description": "L'anguillulose est une infection parasitaire qui peut être chronique et difficile à éradiquer.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des diarrhées chroniques et un syndrome de malabsorption.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anguillulose",
+        "strongyloïdose"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ankylostomose",
+      "definition": "Infection par les nématodes Ancylostoma duodenale ou Necator americanus, qui peuvent causer des diarrhées chroniques et une anémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "ankylostomiase"
+      ],
+      "related_terms": [
+        "nématode",
+        "parasite intestinal"
+      ],
+      "description": "L'ankylostomose est une infection parasitaire qui peut être chronique et entraîner une anémie ferriprive.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des diarrhées chroniques et une anémie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ankylostomose",
+        "ankylostomiase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sprue tropicale",
+      "definition": "Entéropathie chronique d'origine bactérienne, caractérisée par un syndrome de malabsorption acquise en zone d'endémie tropicale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "entéropathie",
+        "malabsorption"
+      ],
+      "description": "La sprue tropicale est une maladie rare qui affecte principalement les voyageurs et les résidents des régions tropicales.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des diarrhées chroniques et une malabsorption.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Sprue tropicale",
+        "entéropathie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entéropathie radique",
+      "definition": "Entéropathie résultant d'une irradiation abdomino-pelvienne, caractérisée par une inflammation et une atrophie de la muqueuse intestinale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "entéropathie",
+        "radiothérapie"
+      ],
+      "description": "L'entéropathie radique est une complication de la radiothérapie abdomino-pelvienne.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des diarrhées chroniques et une malabsorption.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Entéropathie radique",
+        "entéropathie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lymphome du grêle",
+      "definition": "Tumeur maligne des cellules lymphoïdes affectant l'intestin grêle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphome",
+        "tumeur intestinale"
+      ],
+      "description": "Le lymphome du grêle peut être primaire ou secondaire à une maladie cœliaque.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des douleurs abdominales, des diarrhées et une obstruction intestinale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Lymphome du grêle",
+        "lymphome intestinal"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MC",
+      "definition": "Maladie cœliaque, une maladie auto-immune caractérisée par une intolérance au gluten.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie cœliaque"
+      ],
+      "related_terms": [
+        "intolérance au gluten",
+        "entéropathie"
+      ],
+      "description": "La maladie cœliaque peut causer des diarrhées chroniques, une malabsorption et une atrophie villositaire.",
+      "expansion": null,
+      "clinical_significance": "Peut être associée à un risque accru de lymphome T.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Maladie cœliaque",
+        "intolérance au gluten"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "steatorrhée",
+      "definition": "Présence de graisses non absorbées dans les selles, indicative d'une malabsorption des graisses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "malabsorption",
+        "selles graisseuses"
+      ],
+      "description": "La steatorrhée est un signe de malabsorption des graisses, souvent associée à des diarrhées chroniques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une malabsorption intestinale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "steatorrhée",
+        "selles graisseuses"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie des chaînes lourdes à IgA",
+      "definition": "Prolifération monoclonale de cellules lymphoïdes B secrétant une IgA anormale faite de chaînes lourdes incomplètes et dépourvues de chaînes légères.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IgA",
+        "chaînes lourdes"
+      ],
+      "description": "La maladie des chaînes lourdes à IgA est une maladie rare qui touche principalement les adultes jeunes de faible niveau socio-économique.",
+      "expansion": null,
+      "clinical_significance": "Peut causer un syndrome tumoral abdominal ou des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Maladie des chaînes lourdes à IgA",
+        "IgA"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie de Whipple",
+      "definition": "Maladie rare secondaire à une infection par le bacille Tropheryma whipplei, caractérisée par une atteinte multi-systémique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Tropheryma whipplei",
+        "infection bactérienne"
+      ],
+      "description": "La maladie de Whipple peut affecter divers systèmes, y compris le tube digestif, le cœur, le poumon et le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Peut causer une polyarthrite séronégative, une diarrhée chronique et une malabsorption intestinale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Maladie de Whipple",
+        "Tropheryma whipplei"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tropheryma whipplei",
+      "definition": "Bacille responsable de la maladie de Whipple, une infection multi-systémique.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "Maladie de Whipple",
+        "bacille"
+      ],
+      "description": "Tropheryma whipplei est un bacille qui peut infecter divers systèmes, y compris le tube digestif, le cœur, le poumon et le système nerveux central.",
+      "expansion": null,
+      "clinical_significance": "Peut causer une polyarthrite séronégative, une diarrhée chronique et une malabsorption intestinale.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Tropheryma whipplei",
+        "Maladie de Whipple"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyarthrite séronégative",
+      "definition": "Inflammation de plusieurs articulations sans présence d'anticorps spécifiques dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "arthrite",
+        "séronégatif"
+      ],
+      "description": "La polyarthrite séronégative est souvent associée à des maladies systémiques, y compris la maladie de Whipple.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de maladie de Whipple.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polyarthrite séronégative",
+        "arthrite"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyadénomégalie",
+      "definition": "Augmentation du volume de plusieurs ganglions lymphatiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénopathie",
+        "ganglions lymphatiques"
+      ],
+      "description": "La polyadénomégalie peut être un signe de diverses conditions, y compris des infections et des maladies systémiques.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe de maladie de Whipple.",
+      "normal_values": null,
+      "image_search_terms": [
+        "polyadénomégalie",
+        "adénopathie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAS+",
+      "definition": "Coloration positive au Periodic Acid-Schiff, une technique de coloration utilisée pour détecter les polysaccharides et les glycoprotéines.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Periodic Acid-Schiff",
+        "coloration PAS"
+      ],
+      "description": "La coloration PAS+ est utilisée pour détecter les inclusions dans les macrophages dans la maladie de Whipple.",
+      "expansion": null,
+      "clinical_significance": "Peut aider au diagnostic de la maladie de Whipple.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PAS+",
+        "coloration PAS"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gram+",
+      "definition": "Coloration positive à la coloration de Gram, une technique de coloration utilisée pour différencier les bactéries en Gram positif et Gram négatif.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "coloration de Gram",
+        "Gram positif"
+      ],
+      "description": "La coloration Gram+ est utilisée pour détecter les bactéries Gram positif, y compris Tropheryma whipplei.",
+      "expansion": null,
+      "clinical_significance": "Peut aider au diagnostic de la maladie de Whipple.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Gram+",
+        "coloration de Gram"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SIERACKI",
+      "definition": "Corpuscules de SIERACKI, inclusions intracellulaires caractéristiques de la maladie de Whipple, visibles à la coloration PAS.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Maladie de Whipple",
+        "inclusions intracellulaires"
+      ],
+      "description": "Les corpuscules de SIERACKI sont des inclusions intracellulaires caractéristiques de la maladie de Whipple.",
+      "expansion": null,
+      "clinical_significance": "Peut aider au diagnostic de la maladie de Whipple.",
+      "normal_values": null,
+      "image_search_terms": [
+        "SIERACKI",
+        "corpuscules de SIERACKI"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastroentérite à éosinophile",
+      "definition": "Inflammation de l'estomac et de l'intestin grêle caractérisée par une infiltration d'éosinophiles dans la muqueuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "éosinophilie",
+        "gastroentérite"
+      ],
+      "description": "La gastroentérite à éosinophile est souvent associée à des allergies alimentaires ou des infections parasitaires.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des douleurs abdominales, des diarrhées et des vomissements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gastroentérite à éosinophile",
+        "éosinophilie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maldigestion",
+      "definition": "Incapacité à digérer les aliments de manière adéquate, souvent due à un déficit en enzymes digestives.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "digestion",
+        "enzymes digestives"
+      ],
+      "description": "La maldigestion peut entraîner une malabsorption des nutriments et des diarrhées.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par diverses conditions, y compris des infections parasitaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maldigestion",
+        "digestion"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Colonisation bactérienne chronique du grêle",
+      "definition": "Présence anormale de bactéries dans le grêle proximal, souvent due à une stase intestinale ou à une diminution des défenses de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "CBCG"
+      ],
+      "related_terms": [
+        "bactéries intestinales",
+        "stase intestinale"
+      ],
+      "description": "La colonisation bactérienne chronique du grêle peut entraîner une malabsorption et des diarrhées.",
+      "expansion": null,
+      "clinical_significance": "Peut être causée par diverses conditions, y compris des infections parasitaires.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Colonisation bactérienne chronique du grêle",
+        "CBCG"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Insuffisance en sels biliaires",
+      "definition": "Incapacité à produire ou à sécréter suffisamment de sels biliaires, entraînant une maldigestion des graisses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "sels biliaires",
+        "maldigestion"
+      ],
+      "description": "L'insuffisance en sels biliaires peut être causée par diverses conditions, y compris la cholestase prolongée.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une maldigestion des graisses et une malabsorption.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Insuffisance en sels biliaires",
+        "sels biliaires"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Waldmann",
+      "definition": "Maladie caractérisée par des télangiectasies intestinales primitives.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "télangiectasies intestinales"
+      ],
+      "description": "La maladie de Waldmann est une condition rare caractérisée par des télangiectasies intestinales primitives, entraînant une entéropathie exsudative.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic différentiel des entéropathies exsudatives.",
+      "normal_values": "",
+      "image_search_terms": [
+        "télangiectasies intestinales"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α1-antitrypsine",
+      "definition": "Protéine sérique utilisée pour mesurer la clairance intestinale dans les entéropathies exsudatives.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "clairance de l'α1-antitrypsine"
+      ],
+      "description": "La clairance de l'α1-antitrypsine est un marqueur de la perte de protéines dans le tractus intestinal.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des entéropathies exsudatives.",
+      "normal_values": "Clairance < 20 mL/jour",
+      "image_search_terms": [
+        "α1-antitrypsine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocriniennes",
+      "definition": "Relatif aux hormones et aux glandes endocrines.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hormones",
+        "glandes endocrines"
+      ],
+      "description": "Les affections endocriniennes peuvent affecter le système nerveux autonome et causer des diarrhées motrices.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des diarrhées motrices.",
+      "normal_values": "",
+      "image_search_terms": [
+        "glandes endocrines"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neurologiques",
+      "definition": "Relatif au système nerveux.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "système nerveux autonome"
+      ],
+      "description": "Les affections neurologiques peuvent affecter le système nerveux autonome et causer des diarrhées motrices.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des diarrhées motrices.",
+      "normal_values": "",
+      "image_search_terms": [
+        "système nerveux autonome"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "5HIAA",
+      "definition": "Acide 5-hydroxyindolacétique, métabolite de la sérotonine, utilisé comme marqueur des tumeurs carcinoïdes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "acide 5-hydroxyindolacétique"
+      ],
+      "related_terms": [
+        "syndrome carcinoïde"
+      ],
+      "description": "Le dosage urinaire de 5HIAA est utilisé pour diagnostiquer les tumeurs carcinoïdes.",
+      "expansion": "5-Hydroxyindoleacetic Acid",
+      "clinical_significance": "Importante pour le diagnostic des tumeurs carcinoïdes.",
+      "normal_values": "2-9 mg/24h",
+      "image_search_terms": [
+        "5HIAA"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "octreoscann",
+      "definition": "Technique d'imagerie utilisant des analogues de la somatostatine pour détecter les tumeurs neuroendocrines.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome carcinoïde"
+      ],
+      "description": "L'octreoscann est utilisé pour localiser les tumeurs neuroendocrines.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la localisation des tumeurs neuroendocrines.",
+      "normal_values": "",
+      "image_search_terms": [
+        "octreoscann"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ROME IV",
+      "definition": "Critères diagnostiques pour les troubles fonctionnels gastro-intestinaux, incluant le syndrome de l'intestin irritable.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome de l'intestin irritable"
+      ],
+      "description": "Les critères de Rome IV sont utilisés pour diagnostiquer le syndrome de l'intestin irritable.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic des troubles fonctionnels gastro-intestinaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "ROME IV"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SII",
+      "definition": "Syndrome de l'intestin irritable, caractérisé par des douleurs abdominales et des troubles du transit intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de l'intestin irritable"
+      ],
+      "related_terms": [
+        "ROME IV"
+      ],
+      "description": "Le diagnostic de SII repose sur les critères de Rome IV.",
+      "expansion": "Syndrome de l'Intestin Irritable",
+      "clinical_significance": "Importante pour le diagnostic des troubles fonctionnels gastro-intestinaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "SII"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactulose",
+      "definition": "Sucre non absorbable utilisé comme laxatif osmotique.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "laxatifs osmotiques"
+      ],
+      "description": "Le lactulose est utilisé pour traiter la constipation et l'encéphalopathie hépatique.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le traitement de la constipation et de l'encéphalopathie hépatique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lactulose"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactose",
+      "definition": "Sucre présent dans le lait, nécessitant la lactase pour être digéré.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "intolérance au lactose"
+      ],
+      "description": "L'intolérance au lactose est due à un déficit en lactase.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic de l'intolérance au lactose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "lactose"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit en lactase",
+      "definition": "Incapacité à digérer le lactose due à une insuffisance de l'enzyme lactase.",
+      "category": "pathologie",
+      "synonyms": [
+        "intolérance au lactose"
+      ],
+      "related_terms": [
+        "lactose"
+      ],
+      "description": "Le déficit en lactase cause une intolérance au lactose.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic de l'intolérance au lactose.",
+      "normal_values": "",
+      "image_search_terms": [
+        "déficit en lactase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit en saccharose-isomaltase",
+      "definition": "Incapacité à digérer le saccharose et l'isomaltose due à une insuffisance de l'enzyme saccharose-isomaltase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "malabsorption des sucres"
+      ],
+      "description": "Le déficit en saccharose-isomaltase cause une malabsorption des sucres.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le diagnostic de la malabsorption des sucres.",
+      "normal_values": "",
+      "image_search_terms": [
+        "déficit en saccharose-isomaltase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colites microscopiques",
+      "definition": "Terme général désignant des inflammations du côlon visibles uniquement au microscope, incluant la colite collagène et la colite lymphocytaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colite collagène",
+        "colite lymphocytaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colite microscopique",
+        "biopsie colique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colite collagène",
+      "definition": "Type de colite microscopique caractérisée par un dépôt de collagène en bande sous la membrane basale, d'une épaisseur de plus de 10 µm.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colite microscopique",
+        "colite lymphocytaire"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colite collagène",
+        "biopsie colique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colite lymphocytaire",
+      "definition": "Type de colite microscopique caractérisée par un infiltrat inflammatoire intra-épithélial prononcé (> 25 lymphocytes pour 100 cellules épithéliales).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "colite microscopique",
+        "colite collagène"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "colite lymphocytaire",
+        "biopsie colique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vipomes",
+      "definition": "Tumeurs endocrines sécrétant du VIP (vasoactive intestinal peptide), causant des diarrhées sécrétoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "VIP",
+        "mastocytoses"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "vipomes",
+        "tumeurs endocrines"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mastocytoses",
+      "definition": "Maladies caractérisées par une prolifération anormale de mastocytes, sécrétant des médiateurs proinflammatoires comme l'histamine et la tryptase.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vipomes",
+        "histamine",
+        "tryptase"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "mastocytoses",
+        "mastocytes"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome dysentérique",
+      "definition": "Ensemble de symptômes incluant des évacuations afécales glaireuses et/ou hémorragiques, souvent associé à des selles normales.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rectocolite hémorragique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome dysentérique",
+        "dysenterie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dystrophies architecturales",
+      "definition": "Altérations de la structure normale des cryptes intestinales, incluant l'atrophie, les cryptes raccourcies, et la transformation villeuse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "rectocolite hémorragique"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "dystrophies architecturales",
+        "cryptes intestinales"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "NOD2/CARD15",
+      "definition": "Gène dont la mutation est associée à une susceptibilité génétique à la maladie de Crohn.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Crohn"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "NOD2/CARD15",
+        "mutation génétique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lympho-plasmocytaire",
+      "definition": "Infiltration de lymphocytes et de plasmocytes dans le chorion muqueux, souvent observée dans la maladie de Crohn.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Crohn",
+        "chorion muqueux"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "lympho-plasmocytaire",
+        "infiltration lymphocytaire"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chorion muqueux",
+      "definition": "Couche de tissu conjonctif sous-jacent à la muqueuse intestinale, souvent impliqué dans les infiltrations inflammatoires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "lympho-plasmocytaire",
+        "maladie de Crohn"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "chorion muqueux",
+        "muqueuse intestinale"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomes épithélioïdes",
+      "definition": "Structures inflammatoires composées de cellules épithélioïdes, souvent présentes dans la maladie de Crohn.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Crohn",
+        "granulomes gigantocellulaires"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "granulomes épithélioïdes",
+        "granulomes"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomes gigantocellulaires",
+      "definition": "Structures inflammatoires composées de cellules géantes, souvent présentes dans la maladie de Crohn.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Crohn",
+        "granulomes épithélioïdes"
+      ],
+      "description": "",
+      "expansion": "",
+      "clinical_significance": "",
+      "normal_values": "",
+      "image_search_terms": [
+        "granulomes gigantocellulaires",
+        "granulomes"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scléro-lipomatose",
+      "definition": "Transformation pathologique du tissu adipeux en une masse dure et fibreuse, souvent associée à une inflammation chronique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "lipomatose",
+        "sclérose"
+      ],
+      "description": "La scléro-lipomatose est une condition où le tissu adipeux devient fibreux et dur, souvent observée dans des contextes inflammatoires chroniques comme la maladie de Crohn.",
+      "expansion": "",
+      "clinical_significance": "Peut indiquer une inflammation chronique sévère.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "scléro-lipomatose",
+        "tissu adipeux fibreux"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulome épithélioïde",
+      "definition": "Agrégat de cellules épithélioïdes (macrophages modifiés) formant une structure nodulaire, souvent observée dans les infections chroniques et les maladies inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulome"
+      ],
+      "related_terms": [
+        "granulome gigantocellulaire",
+        "tuberculose"
+      ],
+      "description": "Les granulomes épithélioïdes sont des structures nodulaires formées par des macrophages modifiés, souvent observées dans des conditions comme la tuberculose et la maladie de Crohn.",
+      "expansion": "",
+      "clinical_significance": "Indicateur important de maladies inflammatoires chroniques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "granulome épithélioïde",
+        "macrophages modifiés"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulome gigantocellulaire",
+      "definition": "Type de granulome contenant des cellules géantes multinucléées, souvent observé dans des réactions inflammatoires chroniques.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulome à cellules géantes"
+      ],
+      "related_terms": [
+        "granulome épithélioïde",
+        "cellules géantes de Langhans"
+      ],
+      "description": "Les granulomes gigantocellulaires sont des structures inflammatoires contenant des cellules géantes multinucléées, souvent observées dans des conditions comme la tuberculose et la sarcoïdose.",
+      "expansion": "",
+      "clinical_significance": "Indicateur de réactions inflammatoires chroniques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "granulome gigantocellulaire",
+        "cellules géantes multinucléées"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamine A",
+      "definition": "Vitamine liposoluble essentielle pour la vision, la fonction immunitaire et la croissance cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "rétinol"
+      ],
+      "related_terms": [
+        "héméralopie",
+        "carence en vitamine A"
+      ],
+      "description": "La vitamine A est essentielle pour la vision, la fonction immunitaire et la croissance cellulaire.",
+      "expansion": "",
+      "clinical_significance": "Carence peut entraîner héméralopie et autres troubles visuels.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "vitamine A",
+        "rétinol"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamine E",
+      "definition": "Vitamine liposoluble avec des propriétés antioxydantes, essentielle pour la fonction immunitaire et la santé cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "tocophérol"
+      ],
+      "related_terms": [
+        "antioxydant",
+        "neuropathie"
+      ],
+      "description": "La vitamine E est une vitamine liposoluble avec des propriétés antioxydantes, essentielle pour la fonction immunitaire et la santé cellulaire.",
+      "expansion": "",
+      "clinical_significance": "Carence peut entraîner neuropathie périphérique.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "vitamine E",
+        "tocophérol"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamine K",
+      "definition": "Vitamine liposoluble essentielle pour la coagulation sanguine et la santé osseuse.",
+      "category": "physiologie",
+      "synonyms": [
+        "phylloquinone"
+      ],
+      "related_terms": [
+        "coagulation",
+        "hémorragie"
+      ],
+      "description": "La vitamine K est essentielle pour la coagulation sanguine et la santé osseuse.",
+      "expansion": "",
+      "clinical_significance": "Carence peut entraîner des hémorragies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "vitamine K",
+        "phylloquinone"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitamine PP",
+      "definition": "Vitamine hydrosoluble essentielle pour le métabolisme énergétique et la santé de la peau.",
+      "category": "physiologie",
+      "synonyms": [
+        "niacine"
+      ],
+      "related_terms": [
+        "pellagre",
+        "dermatose"
+      ],
+      "description": "La vitamine PP (niacine) est essentielle pour le métabolisme énergétique et la santé de la peau.",
+      "expansion": "",
+      "clinical_significance": "Carence peut entraîner la pellagre.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "vitamine PP",
+        "niacine"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "côlon irritable",
+      "definition": "Syndrome fonctionnel caractérisé par des douleurs abdominales et des troubles du transit intestinal sans lésions organiques identifiables.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de l'intestin irritable"
+      ],
+      "related_terms": [
+        "douleurs abdominales",
+        "troubles du transit"
+      ],
+      "description": "Le côlon irritable est un syndrome fonctionnel caractérisé par des douleurs abdominales et des troubles du transit intestinal sans lésions organiques identifiables.",
+      "expansion": "",
+      "clinical_significance": "Diagnostic basé sur les symptômes et l'exclusion d'autres pathologies.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "côlon irritable",
+        "syndrome de l'intestin irritable"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "α1 anti Trypsine",
+      "definition": "Protéine sérique qui inhibe la trypsine et d'autres protéases, utilisée comme marqueur de fuite protéique dans les entéropathies exsudatives.",
+      "category": "pathologie",
+      "synonyms": [
+        "alpha-1 antitrypsine"
+      ],
+      "related_terms": [
+        "entéropathies exsudatives",
+        "fuite protéique"
+      ],
+      "description": "La mesure de l'α1 anti Trypsine dans les selles permet de détecter une fuite protéique intestinale, souvent associée à des entéropathies exsudatives.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de l'α1 anti Trypsine dans les selles peut indiquer une entéropathie exsudative, nécessitant une investigation plus approfondie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "α1 anti Trypsine",
+        "entéropathies exsudatives"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "test respiratoire à l'hydrogène",
+      "definition": "Test diagnostique utilisé pour détecter la malabsorption des glucides, en mesurant l'hydrogène expiré après ingestion de lactose.",
+      "category": "pathologie",
+      "synonyms": [
+        "breath test"
+      ],
+      "related_terms": [
+        "malabsorption du lactose",
+        "intolérance au lactose"
+      ],
+      "description": "Le test respiratoire à l'hydrogène repose sur la fermentation bactérienne des glucides non absorbés, produisant de l'hydrogène détectable dans l'air expiré.",
+      "expansion": null,
+      "clinical_significance": "Ce test est utile pour diagnostiquer l'intolérance au lactose et d'autres troubles de malabsorption des glucides.",
+      "normal_values": null,
+      "image_search_terms": [
+        "test respiratoire à l'hydrogène",
+        "breath test"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "biopsie du grêle",
+      "definition": "Prélèvement de tissu de l'intestin grêle pour examen histologique, souvent réalisé par endoscopie.",
+      "category": "anatomie",
+      "synonyms": [
+        "biopsie intestinale"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "histologie"
+      ],
+      "description": "La biopsie du grêle permet de diagnostiquer des conditions telles que la maladie cœliaque, les entéropathies exsudatives, et d'autres maladies intestinales.",
+      "expansion": null,
+      "clinical_significance": "C'est un examen clé pour le diagnostic étiologique des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "biopsie du grêle",
+        "endoscopie intestinale"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "élastase fécale",
+      "definition": "Enzyme pancréatique non digestible, utilisée comme marqueur de l'insuffisance pancréatique exocrine.",
+      "category": "pathologie",
+      "synonyms": [
+        "élastase-1 fécale"
+      ],
+      "related_terms": [
+        "insuffisance pancréatique exocrine",
+        "stéatorrhée"
+      ],
+      "description": "Le dosage de l'élastase fécale dans les selles permet de diagnostiquer une insuffisance pancréatique exocrine en cas de valeur très basse.",
+      "expansion": null,
+      "clinical_significance": "C'est un marqueur fiable pour évaluer la fonction exocrine du pancréas.",
+      "normal_values": null,
+      "image_search_terms": [
+        "élastase fécale",
+        "insuffisance pancréatique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan inflammatoire",
+      "definition": "Ensemble d'examens visant à évaluer l'état inflammatoire du corps, incluant des tests sanguins et des marqueurs spécifiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "bilan inflammatoire sanguin"
+      ],
+      "related_terms": [
+        "NFS",
+        "CRP",
+        "électrophorèse des protéines"
+      ],
+      "description": "Le bilan inflammatoire inclut des tests tels que la NFS, la CRP, et l'électrophorèse des protéines pour détecter des signes d'inflammation.",
+      "expansion": null,
+      "clinical_significance": "Il est utile pour diagnostiquer des conditions inflammatoires telles que les maladies inflammatoires de l'intestin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bilan inflammatoire",
+        "tests sanguins"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "électrophorèse des protéines",
+      "definition": "Technique de séparation des protéines sanguines pour évaluer leur distribution et détecter des anomalies.",
+      "category": "pathologie",
+      "synonyms": [
+        "électrophorèse des protéines sériques"
+      ],
+      "related_terms": [
+        "bilan inflammatoire",
+        "NFS",
+        "CRP"
+      ],
+      "description": "L'électrophorèse des protéines permet de détecter des anomalies dans la distribution des protéines sanguines, indiquant des conditions inflammatoires ou autres pathologies.",
+      "expansion": null,
+      "clinical_significance": "C'est un examen utile pour évaluer l'état inflammatoire et détecter des conditions telles que les maladies inflammatoires de l'intestin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "électrophorèse des protéines",
+        "protéines sériques"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "échographie abdominale",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les structures abdominales, y compris l'intestin.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie"
+      ],
+      "related_terms": [
+        "entéro-IRM",
+        "iléocoloscopie"
+      ],
+      "description": "L'échographie abdominale permet de détecter des anomalies telles que l'épaississement colique, les adénopathies, et d'autres pathologies intestinales.",
+      "expansion": null,
+      "clinical_significance": "C'est un examen non invasif utile pour évaluer les conditions intestinales chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "échographie abdominale",
+        "ultrasons abdominaux"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iléocoloscopie",
+      "definition": "Examen endoscopique de l'iléon et du côlon, permettant de visualiser directement la muqueuse intestinale.",
+      "category": "anatomie",
+      "synonyms": [
+        "colonoscopie avec iléoscopie"
+      ],
+      "related_terms": [
+        "fibroscopie",
+        "biopsies étagées"
+      ],
+      "description": "L'iléocoloscopie permet de détecter des anomalies telles que l'inflammation, les ulcérations, et les polypes, et de prélever des biopsies pour examen histologique.",
+      "expansion": null,
+      "clinical_significance": "C'est un examen clé pour le diagnostic des maladies inflammatoires de l'intestin.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iléocoloscopie",
+        "colonoscopie"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome du colon irritable",
+      "definition": "Trouble fonctionnel de la motricité colique, caractérisé par des douleurs abdominales et des troubles du transit intestinal.",
+      "category": "pathologie",
+      "synonyms": [
+        "colopathie fonctionnelle"
+      ],
+      "related_terms": [
+        "diarrhée",
+        "constipation"
+      ],
+      "description": "Le syndrome du colon irritable est souvent associé à des facteurs psycho-somatiques et à une ingestion excessive de glucides ou de lactose.",
+      "expansion": null,
+      "clinical_significance": "C'est une cause fréquente de diarrhée chronique chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome du colon irritable",
+        "colopathie fonctionnelle"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactase",
+      "definition": "Enzyme qui dégrade le lactose en glucose et galactose, essentielle pour la digestion du lactose.",
+      "category": "pathologie",
+      "synonyms": [
+        "lactase intestinale"
+      ],
+      "related_terms": [
+        "intolérance au lactose",
+        "malabsorption du lactose"
+      ],
+      "description": "Un déficit en lactase peut être transitoire, secondaire à une diarrhée, ou primitif et génétiquement programmé.",
+      "expansion": null,
+      "clinical_significance": "Un déficit en lactase entraîne une intolérance au lactose, causant des symptômes digestifs tels que la diarrhée et les ballonnements.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lactase",
+        "intolérance au lactose"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intolérance au lactose",
+      "definition": "Incapacité à digérer le lactose, un sucre présent dans le lait, en raison d'un déficit en lactase.",
+      "category": "pathologie",
+      "synonyms": [
+        "intolérance au lactose"
+      ],
+      "related_terms": [
+        "lactase",
+        "malabsorption du lactose"
+      ],
+      "description": "L'intolérance au lactose peut être transitoire ou primaire, et se manifeste par des symptômes digestifs tels que la diarrhée, les ballonnements, et les flatulences.",
+      "expansion": null,
+      "clinical_significance": "C'est une cause fréquente de diarrhée chez les nourrissons et les enfants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "intolérance au lactose",
+        "lactase"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ESPGHAN",
+      "definition": "Société Européenne de Gastroentérologie, Hépatologie et Nutrition Pédiatriques.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "maladie cœliaque",
+        "diagnostic pédiatrique"
+      ],
+      "description": "Organisation professionnelle qui établit des lignes directrices pour le diagnostic et le traitement des maladies gastro-intestinales chez les enfants.",
+      "expansion": "European Society for Paediatric Gastroenterology, Hepatology and Nutrition",
+      "clinical_significance": "Autorité en matière de recommandations cliniques pour les troubles gastro-intestinaux pédiatriques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ESPGHAN",
+        "gastroentérologie pédiatrique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allergie aux protéines du lait de vache (APLV)",
+      "definition": "Réaction immunologique anormale aux protéines du lait de vache, pouvant entraîner des symptômes gastro-intestinaux et cutanés.",
+      "category": "pathologie",
+      "synonyms": [
+        "allergie au lait de vache"
+      ],
+      "related_terms": [
+        "IgE",
+        "hypersensibilité immédiate"
+      ],
+      "description": "Peut se manifester par des symptômes aigus ou chroniques, et est diagnostiquée par des tests cutanés et des dosages d'IgE spécifiques.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques chez le nourrisson.",
+      "normal_values": null,
+      "image_search_terms": [
+        "allergie alimentaire",
+        "prick-test"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lamblia",
+      "definition": "Parasite intestinal, également connu sous le nom de Giardia, responsable de la giardiase, une infection intestinale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Giardia"
+      ],
+      "related_terms": [
+        "giardiase",
+        "diarrhée chronique"
+      ],
+      "description": "Peut causer des diarrhées prolongées et une malabsorption, surtout en cas d'infestation massive.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Giardia",
+        "parasite intestinal"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "marasme",
+      "definition": "Forme de malnutrition sévère caractérisée par une déficience énergétique chronique, entraînant une perte de poids et une atrophie musculaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "malnutrition sévère"
+      ],
+      "related_terms": [
+        "kwashiorkor",
+        "malnutrition"
+      ],
+      "description": "Peut être causée par une insuffisance alimentaire prolongée ou des troubles de l'absorption.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic et la prise en charge des troubles nutritionnels.",
+      "normal_values": null,
+      "image_search_terms": [
+        "marasme",
+        "malnutrition"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphangiectasies intestinales",
+      "definition": "Maladie rare caractérisée par une dilatation des vaisseaux lymphatiques intestinaux, entraînant une perte de protéines et de lymphocytes dans les selles.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphangiectasie"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "Peut causer une malabsorption et une diarrhée chronique.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "lymphangiectasie",
+        "vaisseaux lymphatiques"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "a-β lipoprotéinémie",
+      "definition": "Maladie génétique caractérisée par une déficience en apolipoprotéine B, entraînant une malabsorption des lipides et une accumulation de graisses dans les cellules intestinales.",
+      "category": "pathologie",
+      "synonyms": [
+        "abétalipoprotéinémie"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "Peut causer une diarrhée chronique et une dénutrition.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "abétalipoprotéinémie",
+        "malabsorption"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acrodermatitis entéropathica",
+      "definition": "Maladie génétique rare caractérisée par une anomalie de l'absorption du zinc, entraînant des lésions cutanées, des diarrhées et des troubles de croissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "acrodermatite entéropathique"
+      ],
+      "related_terms": [
+        "zinc",
+        "diarrhée chronique"
+      ],
+      "description": "Peut être traitée par une supplémentation en zinc.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "acrodermatite entéropathique",
+        "lésions cutanées"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entéropathies auto-immunes",
+      "definition": "Maladies auto-immunes affectant l'intestin grêle, caractérisées par une atrophie villositaire et une malabsorption.",
+      "category": "pathologie",
+      "synonyms": [
+        "entéropathie auto-immune"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "Peuvent causer une diarrhée chronique et une dénutrition.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "entéropathie auto-immune",
+        "atrophie villositaire"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit en IgA",
+      "definition": "Déficience immunitaire caractérisée par une diminution ou une absence des immunoglobulines A, entraînant une susceptibilité accrue aux infections et aux allergies.",
+      "category": "microbiologie",
+      "synonyms": [
+        "déficit immunitaire"
+      ],
+      "related_terms": [
+        "IgA",
+        "infections récurrentes"
+      ],
+      "description": "Peut être associé à des diarrhées chroniques et des infections récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "déficit en IgA",
+        "immunoglobulines"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "déficit commun variable",
+      "definition": "Déficience immunitaire caractérisée par une diminution des immunoglobulines, entraînant une susceptibilité accrue aux infections et aux maladies auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "hypogammaglobulinémie commune variable"
+      ],
+      "related_terms": [
+        "immunoglobulines",
+        "infections récurrentes"
+      ],
+      "description": "Peut être associé à des diarrhées chroniques et des infections récurrentes.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic différentiel des diarrhées chroniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "déficit commun variable",
+        "immunoglobulines"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance pancréatique externe (IPE)",
+      "definition": "Déficience de la fonction exocrine du pancréas, entraînant une insuffisance de production des enzymes pancréatiques nécessaires à la digestion.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance pancréatique exocrine"
+      ],
+      "related_terms": [
+        "pancréas",
+        "enzymes pancréatiques"
+      ],
+      "description": "Peut causer une malabsorption et une diarrhée chronique.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic des troubles de la digestion.",
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance pancréatique",
+        "pancréas"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Elastase fécale",
+      "definition": "Enzyme pancréatique présente dans les selles, utilisée comme marqueur de la fonction exocrine du pancréas.",
+      "category": "pathologie",
+      "synonyms": [
+        "élastase-1 fécale"
+      ],
+      "related_terms": [
+        "pancréas",
+        "insuffisance pancréatique"
+      ],
+      "description": "Un faible niveau d'élastase fécale indique une insuffisance pancréatique exocrine.",
+      "expansion": null,
+      "clinical_significance": "Importante pour le diagnostic des troubles de la digestion.",
+      "normal_values": null,
+      "image_search_terms": [
+        "élastase fécale",
+        "enzyme pancréatique"
+      ],
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée de fermentation",
+      "definition": "Type de diarrhée causée par la fermentation de sucres non absorbés dans le côlon, souvent associée à une carence en lactase.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée osmotique"
+      ],
+      "related_terms": [
+        "intolérance au lactose",
+        "malabsorption"
+      ],
+      "description": "La diarrhée de fermentation est caractérisée par des selles acides et aqueuses.",
+      "expansion": null,
+      "clinical_significance": "Indicateur de malabsorption des sucres.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "saccharase-isomaltase",
+      "definition": "Enzyme intestinale qui hydrolyse le saccharose et l'isomaltose en monosaccharides.",
+      "category": "physiologie",
+      "synonyms": [
+        "sucrase-isomaltase"
+      ],
+      "related_terms": [
+        "intolérance au saccharose",
+        "malabsorption"
+      ],
+      "description": "La déficience en saccharase-isomaltase peut entraîner une malabsorption des sucres.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de malabsorption des sucres.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose iléo-coecale",
+      "definition": "Infection par le bacille de Koch affectant l'iléon et le cæcum, souvent observée dans les populations à risque.",
+      "category": "pathologie",
+      "synonyms": [
+        "tuberculose intestinale"
+      ],
+      "related_terms": [
+        "tuberculose pulmonaire",
+        "bacille de Koch"
+      ],
+      "description": "La tuberculose iléo-coecale est une forme de tuberculose affectant l'intestin.",
+      "expansion": null,
+      "clinical_significance": "Maladie infectieuse nécessitant un traitement spécifique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colite à collagène",
+      "definition": "Type de colite microscopique caractérisée par une bande de collagène sous-épithéliale dans la muqueuse colique.",
+      "category": "pathologie",
+      "synonyms": [
+        "colite collagène"
+      ],
+      "related_terms": [
+        "colite microscopique",
+        "colite lymphocytaire"
+      ],
+      "description": "La colite à collagène est une forme de colite microscopique.",
+      "expansion": null,
+      "clinical_significance": "Maladie inflammatoire de l'intestin nécessitant une gestion spécifique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "atrophie micro-villositaire congénitale",
+      "definition": "Maladie rare caractérisée par une atrophie des microvillosités intestinales, entraînant une malabsorption sévère.",
+      "category": "pathologie",
+      "synonyms": [
+        "atrophie des microvillosités"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "L'atrophie micro-villositaire congénitale est une maladie rare entraînant une malabsorption sévère.",
+      "expansion": null,
+      "clinical_significance": "Maladie grave nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysplasie épithéliale",
+      "definition": "Anomalie du développement de l'épithélium intestinal, souvent associée à des maladies génétiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysplasie intestinale"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "La dysplasie épithéliale est une anomalie du développement de l'épithélium intestinal.",
+      "expansion": null,
+      "clinical_significance": "Maladie génétique nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée chlorée congénitale",
+      "definition": "Maladie rare caractérisée par une perte excessive de chlorure dans les selles, entraînant une diarrhée chronique.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée congénitale au chlorure"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "La diarrhée chlorée congénitale est une maladie rare entraînant une diarrhée chronique.",
+      "expansion": null,
+      "clinical_significance": "Maladie grave nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diarrhée sodée congénitale",
+      "definition": "Maladie rare caractérisée par une perte excessive de sodium dans les selles, entraînant une diarrhée chronique.",
+      "category": "pathologie",
+      "synonyms": [
+        "diarrhée congénitale au sodium"
+      ],
+      "related_terms": [
+        "malabsorption",
+        "diarrhée chronique"
+      ],
+      "description": "La diarrhée sodée congénitale est une maladie rare entraînant une diarrhée chronique.",
+      "expansion": null,
+      "clinical_significance": "Maladie grave nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastrinômes",
+      "definition": "Tumeurs sécrétant de la gastrine, souvent associées au syndrome de Zollinger-Ellison.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeurs à gastrine"
+      ],
+      "related_terms": [
+        "syndrome de Zollinger-Ellison",
+        "ulcères gastroduodénaux"
+      ],
+      "description": "Les gastrinômes sont des tumeurs sécrétant de la gastrine.",
+      "expansion": null,
+      "clinical_significance": "Tumeurs nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeurs pancréatiques",
+      "definition": "Tumeurs affectant le pancréas, pouvant être bénignes ou malignes.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer du pancréas"
+      ],
+      "related_terms": [
+        "adénocarcinome pancréatique",
+        "tumeurs neuroendocrines"
+      ],
+      "description": "Les tumeurs pancréatiques sont des tumeurs affectant le pancréas.",
+      "expansion": null,
+      "clinical_significance": "Tumeurs nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ganglioneurome",
+      "definition": "Tumeur bénigne dérivée des cellules nerveuses, souvent localisée dans le système nerveux sympathique.",
+      "category": "pathologie",
+      "synonyms": [
+        "ganglioneuroma"
+      ],
+      "related_terms": [
+        "neuroblastome",
+        "tumeurs neuroendocrines"
+      ],
+      "description": "Le ganglioneurome est une tumeur bénigne dérivée des cellules nerveuses.",
+      "expansion": null,
+      "clinical_significance": "Tumeur bénigne nécessitant une surveillance.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Hirschsprung",
+      "definition": "Maladie congénitale caractérisée par l'absence de cellules ganglionnaires dans une partie du côlon, entraînant une obstruction intestinale.",
+      "category": "pathologie",
+      "synonyms": [
+        "mégacôlon congénital"
+      ],
+      "related_terms": [
+        "pseudo-obstruction intestinale",
+        "maladie intestinale"
+      ],
+      "description": "La maladie de Hirschsprung est une maladie congénitale entraînant une obstruction intestinale.",
+      "expansion": null,
+      "clinical_significance": "Maladie nécessitant une intervention chirurgicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudo-obstruction intestinale chronique",
+      "definition": "Syndrome caractérisé par des symptômes d'obstruction intestinale sans cause mécanique identifiable.",
+      "category": "pathologie",
+      "synonyms": [
+        "pseudo-obstruction intestinale"
+      ],
+      "related_terms": [
+        "maladie de Hirschsprung",
+        "maladie intestinale"
+      ],
+      "description": "La pseudo-obstruction intestinale chronique est un syndrome entraînant des symptômes d'obstruction intestinale.",
+      "expansion": null,
+      "clinical_significance": "Syndrome nécessitant une prise en charge spécialisée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "10d61997-5e47-4ae3-89ff-b29ec17aca67",
+      "source_file": "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Gastrologie-Entérologie/Diarrhées Chroniques/Courses/21 Diarrhées chroniques 2.51.49 AM 2.53.07 AM 2.55.03 AM.md"
+  ],
+  "total_terms": 217
+}

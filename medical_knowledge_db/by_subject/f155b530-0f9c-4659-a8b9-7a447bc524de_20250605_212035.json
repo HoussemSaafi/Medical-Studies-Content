@@ -1,0 +1,2394 @@
+{
+  "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+  "terms": [
+    {
+      "term": "métaboliques",
+      "definition": "Relatif aux processus chimiques et physiques qui permettent le fonctionnement et la croissance des cellules et des organismes.",
+      "category": "physiologie",
+      "synonyms": [
+        "métabolisme"
+      ],
+      "related_terms": [
+        "catabolisme",
+        "anabolisme"
+      ],
+      "description": "Les processus métaboliques incluent la production d'énergie, la synthèse de molécules complexes, et la dégradation de substances.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperthyroïdies",
+      "definition": "État pathologique caractérisé par une production excessive d'hormones thyroïdiennes par la glande thyroïde.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyrotoxicose"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "euthyroïdie"
+      ],
+      "description": "L'hyperthyroïdie peut entraîner divers symptômes tels que la tachycardie, la perte de poids, et l'anxiété.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperfonctionnement",
+      "definition": "Fonctionnement excessif d'un organe ou d'un système, souvent associé à une production accrue de substances spécifiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperactivité"
+      ],
+      "related_terms": [
+        "hypofonctionnement",
+        "dysfonctionnement"
+      ],
+      "description": "L'hyperfonctionnement de la glande thyroïde entraîne une production excessive d'hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AMP-cyclique",
+      "definition": "Adénosine monophosphate cyclique, un messager secondaire impliqué dans de nombreuses voies de signalisation intracellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "cAMP"
+      ],
+      "related_terms": [
+        "AMP",
+        "GMP-cyclique"
+      ],
+      "description": "L'AMP-cyclique joue un rôle crucial dans la régulation de diverses fonctions cellulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdites",
+      "definition": "Inflammation de la glande thyroïde pouvant entraîner une hyperthyroïdie ou une hypothyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation thyroïdienne"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "thyroïdite de De Quervain"
+      ],
+      "description": "Les thyroïdites peuvent être auto-immunes, infectieuses ou médicamenteuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite de De Quervain",
+      "definition": "Inflammation subaiguë de la glande thyroïde, souvent d'origine virale, caractérisée par une douleur thyroïdienne et une hyperthyroïdie transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite subaiguë"
+      ],
+      "related_terms": [
+        "thyroïdite de Hashimoto",
+        "thyroïdite post-partum"
+      ],
+      "description": "La thyroïdite de De Quervain est souvent précédée d'une infection virale des voies respiratoires supérieures.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inhibiteurs de tyrosine kinase",
+      "definition": "Médicaments utilisés pour traiter certains cancers en inhibant l'activité des enzymes tyrosine kinases.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "TKI"
+      ],
+      "related_terms": [
+        "Interleukine 2",
+        "Interféron"
+      ],
+      "description": "Les inhibiteurs de tyrosine kinase peuvent induire des effets secondaires thyroïdiens, y compris l'hyperthyroïdie ou l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunothérapies",
+      "definition": "Traitement visant à stimuler ou à restaurer les défenses immunitaires de l'organisme pour combattre les maladies, notamment le cancer.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "thérapies immunologiques"
+      ],
+      "related_terms": [
+        "Interféron",
+        "Interleukine 2"
+      ],
+      "description": "Les immunothérapies peuvent induire des effets secondaires thyroïdiens, y compris l'hyperthyroïdie ou l'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome hypophysaire thyréotrope",
+      "definition": "Tumeur bénigne de l'hypophyse qui sécrète de la TSH, entraînant une hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "adénome TSH-sécrétant"
+      ],
+      "related_terms": [
+        "adénome hypophysaire",
+        "TSH"
+      ],
+      "description": "L'adénome hypophysaire thyréotrope peut causer une hyperthyroïdie en raison de la sécrétion excessive de TSH.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tératomes ovariens",
+      "definition": "Tumeurs bénignes des ovaires contenant des tissus de différents types, y compris parfois du tissu thyroïdien.",
+      "category": "pathologie",
+      "synonyms": [
+        "tératome"
+      ],
+      "related_terms": [
+        "tératome testiculaire",
+        "tératome médiastinal"
+      ],
+      "description": "Les tératomes ovariens contenant du tissu thyroïdien peuvent entraîner une hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "humanchorio-gonadotrophin",
+      "definition": "Hormone produite par le placenta pendant la grossesse, similaire à la TSH et pouvant stimuler la glande thyroïde.",
+      "category": "physiologie",
+      "synonyms": [
+        "hCG"
+      ],
+      "related_terms": [
+        "TSH",
+        "gonadotrophines"
+      ],
+      "description": "La hCG peut induire une hyperthyroïdie pendant la grossesse ou dans certains cancers comme le choriocarcinome.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choriocarcinome",
+      "definition": "Tumeur maligne trophoblastique qui sécrète de la hCG, pouvant entraîner une hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hCG",
+        "tumeur trophoblastique"
+      ],
+      "description": "Le choriocarcinome est une tumeur rare mais agressive, souvent associée à une grossesse molaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "carcinome thyroïdien folliculaire métastatique",
+      "definition": "Cancer de la glande thyroïde qui se propage à d'autres parties du corps, souvent associé à une hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "carcinome folliculaire métastatique"
+      ],
+      "related_terms": [
+        "carcinome thyroïdien",
+        "métastase"
+      ],
+      "description": "Le carcinome thyroïdien folliculaire métastatique peut entraîner une hyperthyroïdie en raison de la production excessive d'hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperfiltration",
+      "definition": "Augmentation du débit de filtration glomérulaire, souvent observée dans l'hyperthyroïdie.",
+      "category": "physiologie",
+      "synonyms": [
+        "hyperfiltration glomérulaire"
+      ],
+      "related_terms": [
+        "filtration glomérulaire",
+        "débit de filtration glomérulaire"
+      ],
+      "description": "L'hyperfiltration peut entraîner une augmentation de l'excrétion urinaire et une diminution des niveaux de créatinine sérique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperpulsatilité",
+      "definition": "Augmentation de l'amplitude des pulsations artérielles, souvent due à une augmentation du débit cardiaque.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pouls bondissant",
+        "élargissement de la différentielle"
+      ],
+      "description": "La hyperpulsatilité des gros axes artériels est un signe d'augmentation du débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Peut être un signe d'hyperthyroïdie ou d'autres conditions cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polyphagie",
+      "definition": "Augmentation anormale de l'appétit, souvent associée à une perte de poids malgré une alimentation accrue.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "amaigrissement"
+      ],
+      "description": "La polyphagie est souvent observée dans les hyperthyroïdies, où l'appétit est augmenté mais le poids diminue.",
+      "expansion": null,
+      "clinical_significance": "Indicateur possible d'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Réflexes ostéotendineux vifs",
+      "definition": "Réflexes tendineux exagérés, souvent observés dans les états d'hyperréflexie.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperréflexie"
+      ],
+      "related_terms": [
+        "nervosité",
+        "agitation psychomotrice"
+      ],
+      "description": "Les réflexes ostéotendineux vifs sont un signe d'hyperréflexie, souvent observé dans les troubles neuropsychiques.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hyperthyroïdie ou d'autres troubles neurologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leuco-neutropénie",
+      "definition": "Diminution du nombre de leucocytes et de neutrophiles dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutropénie"
+      ],
+      "related_terms": [
+        "lymphocytose relative"
+      ],
+      "description": "La leuco-neutropénie peut être observée dans diverses conditions, y compris la thyrotoxicose.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une infection, une toxicité médicamenteuse ou une maladie hématologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T4 libre (FT4)",
+      "definition": "Forme libre de la thyroxine, une hormone thyroïdienne, non liée aux protéines plasmatiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "FT4"
+      ],
+      "related_terms": [
+        "TSH",
+        "T3 libre"
+      ],
+      "description": "Le dosage de la T4 libre est utilisé pour évaluer la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Niveaux élevés de FT4 peuvent indiquer une hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "T3 libre (FT3)",
+      "definition": "Forme libre de la triiodothyronine, une hormone thyroïdienne, non liée aux protéines plasmatiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "FT3"
+      ],
+      "related_terms": [
+        "TSH",
+        "T4 libre"
+      ],
+      "description": "Le dosage de la T3 libre est utilisé pour évaluer la fonction thyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Niveaux élevés de FT3 peuvent indiquer une hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyperthyroïdie subclinique",
+      "definition": "État où la TSH est basse mais les niveaux de T4 libre et T3 libre sont normaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperthyroïdie infraclinique"
+      ],
+      "related_terms": [
+        "TSH",
+        "T4 libre",
+        "T3 libre"
+      ],
+      "description": "L'hyperthyroïdie subclinique peut avoir des risques potentiels à long terme, notamment osseux et cardiaques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et parfois un traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fibrillation auriculaire (FA)",
+      "definition": "Trouble du rythme cardiaque caractérisé par des contractions rapides et irrégulières des oreillettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrillation atriale"
+      ],
+      "related_terms": [
+        "flutter",
+        "tachycardie atriale"
+      ],
+      "description": "La fibrillation auriculaire est un trouble du rythme supra-ventriculaire.",
+      "expansion": null,
+      "clinical_significance": "Peut être associée à une hyperthyroïdie ou d'autres conditions cardiaques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crise aiguë thyrotoxique",
+      "definition": "Complication grave de l'hyperthyroïdie caractérisée par une exacerbation des symptômes thyrotoxiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "tempête thyrotoxique"
+      ],
+      "related_terms": [
+        "hyperthermie",
+        "tachycardie sinusale",
+        "agitation"
+      ],
+      "description": "La crise aiguë thyrotoxique peut mettre en jeu le pronostic vital.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Paralysie périodique thyrotoxique hypokaliémique",
+      "definition": "Complication de l'hyperthyroïdie caractérisée par une paralysie musculaire et une hypokaliémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "paralysie périodique"
+      ],
+      "related_terms": [
+        "hypokaliémie",
+        "transfert massif de potassium"
+      ],
+      "description": "La paralysie périodique thyrotoxique hypokaliémique est une complication potentiellement létale.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Myopathie thyrotoxique",
+      "definition": "Affection musculaire associée à l'hyperthyroïdie, caractérisée par un déficit musculaire et une amyotrophie.",
+      "category": "pathologie",
+      "synonyms": [
+        "myopathie"
+      ],
+      "related_terms": [
+        "amyotrophie",
+        "thyrotoxicose"
+      ],
+      "description": "La myopathie thyrotoxique est une complication de l'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une faiblesse musculaire significative.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ophtalmopathie Basedowienne",
+      "definition": "Manifestation oculaire spécifique de la maladie de Basedow, caractérisée par une inflammation des tissus orbitaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "orbitopathie Basedowienne"
+      ],
+      "related_terms": [
+        "exophtalmie",
+        "myosite"
+      ],
+      "description": "L'ophtalmopathie Basedowienne peut inclure des symptômes tels que l'exophtalmie, l'œdème des paupières, et la photophobie.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement spécifique pour prévenir les complications oculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "thyrotoxicose iatrogène",
+      "definition": "Hyperthyroïdie induite par des médicaments ou des substances exogènes, comme l'amiodarone ou le lithium.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperthyroïdie médicamenteuse"
+      ],
+      "related_terms": [
+        "amiodarone",
+        "lithium"
+      ],
+      "description": "La thyrotoxicose iatrogène peut survenir après l'administration de certains médicaments ou de produits de contraste iodés.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter l'arrêt du médicament causal et un traitement spécifique de l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "thérapie immunomodulatrice",
+      "definition": "Traitement visant à moduler la réponse immunitaire, souvent utilisé dans le traitement des maladies auto-immunes et des cancers.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunothérapie"
+      ],
+      "related_terms": [
+        "cytokines",
+        "inhibiteurs de tyrosine kinase"
+      ],
+      "description": "La thérapie immunomodulatrice peut inclure des cytokines et des inhibiteurs de tyrosine kinase.",
+      "expansion": null,
+      "clinical_significance": "Peut induire des effets secondaires thyroïdiens, nécessitant une surveillance médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps antirécepteurs de la TSH",
+      "definition": "Anticorps dirigés contre le récepteur de la TSH, souvent impliqués dans la maladie de Basedow.",
+      "category": "microbiologie",
+      "synonyms": [
+        "anticorps anti-RTSH"
+      ],
+      "related_terms": [
+        "maladie de Basedow",
+        "TSH"
+      ],
+      "description": "Ces anticorps stimulent le récepteur de la TSH, entraînant une hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Leur présence est un marqueur diagnostique de la maladie de Basedow.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "anticorps antithyroperoxydase",
+      "definition": "Anticorps dirigés contre l'enzyme thyroperoxydase, souvent présents dans les maladies thyroïdiennes auto-immunes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ATPO"
+      ],
+      "related_terms": [
+        "thyroïdite auto-immune"
+      ],
+      "description": "Ces anticorps sont souvent élevés dans la thyroïdite de Hashimoto et la thyroïdite du post-partum.",
+      "expansion": null,
+      "clinical_significance": "Leur présence aide au diagnostic des thyroïdites auto-immunes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "scintigraphie thyroïdienne",
+      "definition": "Examen d'imagerie nucléaire utilisant des isotopes radioactifs pour visualiser la glande thyroïde.",
+      "category": "imagerie",
+      "synonyms": [
+        "scintigraphie de la thyroïde"
+      ],
+      "related_terms": [
+        "iode 131",
+        "technétium"
+      ],
+      "description": "La scintigraphie thyroïdienne aide à déterminer le mécanisme des hyperthyroïdies en visualisant la fixation des isotopes.",
+      "expansion": null,
+      "clinical_significance": "Contre-indiquée pendant la grossesse et l'allaitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "nodule toxique",
+      "definition": "Nodule thyroïdien autonome produisant des hormones thyroïdiennes de manière excessive.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénome toxique",
+        "goitre multinodulaire toxique"
+      ],
+      "description": "Un nodule toxique peut être visualisé par échographie et scintigraphie.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement spécifique pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "thyroïdites subaiguës",
+      "definition": "Inflammation aiguë de la glande thyroïde, souvent d'origine virale ou auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïdite de De Quervain"
+      ],
+      "description": "Les thyroïdites subaiguës peuvent présenter des plages hypoéchogènes à l'échographie.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement anti-inflammatoire et une surveillance thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.96
+    },
+    {
+      "term": "Hashitoxicose",
+      "definition": "Hyperthyroïdie transitoire observée dans la phase initiale de la thyroïdite de Hashimoto.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïdite de Hashimoto"
+      ],
+      "description": "La Hashitoxicose est souvent suivie d'une hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et un traitement spécifique en fonction de l'évolution.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "thyroïdite du post-partum",
+      "definition": "Inflammation auto-immune de la thyroïde survenant après l'accouchement, souvent associée à une hyperthyroïdie transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite lymphocytaire subaiguë du post-partum"
+      ],
+      "related_terms": [
+        "anticorps anti-thyropéroxydase"
+      ],
+      "description": "La thyroïdite du post-partum peut évoluer vers une hypothyroïdie transitoire ou définitive.",
+      "expansion": null,
+      "clinical_significance": "Peut récidiver après chaque grossesse, nécessitant une surveillance thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "goitre multinodulaire toxique",
+      "definition": "Goitre caractérisé par la présence de plusieurs nodules autonomes produisant des hormones thyroïdiennes de manière excessive.",
+      "category": "pathologie",
+      "synonyms": [
+        "GMNT"
+      ],
+      "related_terms": [
+        "nodule toxique",
+        "hyperthyroïdie"
+      ],
+      "description": "Le goitre multinodulaire toxique est souvent observé dans les régions carencées en iode.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement spécifique pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "adénome toxique",
+      "definition": "Tumeur bénigne de la thyroïde produisant des hormones thyroïdiennes de manière autonome.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nodule toxique",
+        "mutation somatique"
+      ],
+      "description": "L'adénome toxique est souvent dû à une mutation somatique activatrice du récepteur de la TSH.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter une chirurgie ou un traitement par iode radioactif.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "récepteur de la TSH",
+      "definition": "Récepteur membranaire de la thyroïde qui se lie à la TSH pour stimuler la production d'hormones thyroïdiennes.",
+      "category": "physiologie",
+      "synonyms": [
+        "TSHR"
+      ],
+      "related_terms": [
+        "anticorps antirécepteurs de la TSH",
+        "TSH"
+      ],
+      "description": "Les mutations du récepteur de la TSH peuvent entraîner une hyperthyroïdie ou une hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Cible des anticorps dans la maladie de Basedow.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.99
+    },
+    {
+      "term": "ophtalmomètre de Hertel",
+      "definition": "Instrument utilisé pour mesurer la protrusion du globe oculaire.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "exophtalmie"
+      ],
+      "description": "L'ophtalmomètre de Hertel est utilisé pour évaluer l'exophtalmie dans la maladie de Basedow.",
+      "expansion": null,
+      "clinical_significance": "Aide à la surveillance et à l'évaluation de l'ophtalmopathie Basedowienne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "photophobie",
+      "definition": "Sensibilité anormale à la lumière, souvent observée dans les maladies inflammatoires oculaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ophtalmopathie Basedowienne",
+        "chémosis"
+      ],
+      "description": "La photophobie peut être associée à d'autres signes inflammatoires oculaires comme le chémosis.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement anti-inflammatoire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "myxoedème prétibial",
+      "definition": "Manifestation cutanée spécifique de la maladie de Basedow, caractérisée par un épaississement de la peau des jambes.",
+      "category": "pathologie",
+      "synonyms": [
+        "dermopathie"
+      ],
+      "related_terms": [
+        "maladie de Basedow"
+      ],
+      "description": "Le myxoedème prétibial est souvent observé sur la face antérieure des jambes.",
+      "expansion": null,
+      "clinical_significance": "Peut nécessiter un traitement spécifique pour prévenir les complications cutanées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "FT3",
+      "definition": "Forme libre de la triiodothyronine, une hormone thyroïdienne active.",
+      "category": "physiologie",
+      "synonyms": [
+        "triiodothyronine libre"
+      ],
+      "related_terms": [
+        "FT4",
+        "TSH",
+        "hyperthyroïdie"
+      ],
+      "description": "La FT3 peut être normale sous traitement par amiodarone malgré une élévation de la FT4.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "2.5-5.8 pmol/L",
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goitres nodulaires",
+      "definition": "Hypertrophie de la glande thyroïde avec présence de nodules, souvent bénins mais pouvant être cancéreux.",
+      "category": "pathologie",
+      "synonyms": [
+        "goitre multinodulaire"
+      ],
+      "related_terms": [
+        "iode",
+        "hyperthyroïdie"
+      ],
+      "description": "Les goitres nodulaires peuvent être exacerbés par des produits de contraste iodés et certains médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "interférons",
+      "definition": "Cytokines impliquées dans la régulation de l'immunité, utilisées dans le traitement de certaines maladies.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "dysthyroïdies",
+        "anticorps antithyroïdiens"
+      ],
+      "description": "Les interférons peuvent provoquer des dysthyroïdies, surtout chez les patients prédisposés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite subaiguë de De-Quervain",
+      "definition": "Inflammation de la glande thyroïde d'origine virale, souvent précédée d'un syndrome grippal.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de De-Quervain"
+      ],
+      "related_terms": [
+        "goitre douloureux",
+        "C-Réactive Protéine",
+        "échographie",
+        "scintigraphie"
+      ],
+      "description": "La thyroïdite subaiguë de De-Quervain se manifeste par une phase initiale d'hyperthyroïdie suivie d'une phase d'hypothyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goitre douloureux",
+      "definition": "Hypertrophie de la glande thyroïde accompagnée de douleur, souvent associée à une inflammation.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïdite subaiguë de De-Quervain"
+      ],
+      "description": "Le goitre douloureux est un signe clinique de la thyroïdite subaiguë de De-Quervain.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C-Réactive Protéine",
+      "definition": "Protéine de phase aiguë utilisée comme marqueur de l'inflammation.",
+      "category": "physiologie",
+      "synonyms": [
+        "CRP"
+      ],
+      "related_terms": [
+        "thyroïdite subaiguë de De-Quervain"
+      ],
+      "description": "La C-Réactive Protéine est augmentée dans la thyroïdite subaiguë de De-Quervain.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "<10 mg/L",
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dystrophie thyroïdienne",
+      "definition": "Altération de la structure de la glande thyroïde, souvent associée à des troubles fonctionnels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyrotoxicose",
+        "thyroglobuline"
+      ],
+      "description": "L'absence de dystrophie thyroïdienne peut indiquer une thyrotoxicose factice.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de résistance aux hormones thyroïdiennes",
+      "definition": "État pathologique caractérisé par une résistance des tissus aux hormones thyroïdiennes, souvent due à une mutation du récepteur β.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthyroïdie"
+      ],
+      "description": "Le syndrome de résistance aux hormones thyroïdiennes est une cause rare d'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénome thyréotrope",
+      "definition": "Tumeur bénigne de l'hypophyse sécrétant de la TSH.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénome hypophysaire",
+        "TSH"
+      ],
+      "description": "Un adénome thyréotrope peut causer une hyperthyroïdie par sécrétion excessive de TSH.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métastases massives",
+      "definition": "Propagation massive de cellules cancéreuses à partir d'une tumeur primaire vers d'autres parties du corps.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer thyroïdien vésiculaire différencié"
+      ],
+      "description": "Les métastases massives d'un cancer thyroïdien vésiculaire différencié peuvent sécréter des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer thyroïdien vésiculaire différencié",
+      "definition": "Type de cancer thyroïdien dérivé des cellules folliculaires thyroïdiennes, souvent bien différencié.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "métastases massives"
+      ],
+      "description": "Le cancer thyroïdien vésiculaire différencié peut sécréter des hormones thyroïdiennes en cas de métastases massives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "moles hydatiformes",
+      "definition": "Tumeur trophoblastique bénigne résultant d'une grossesse anormale, caractérisée par une prolifération excessive de tissu trophoblastique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hCG",
+        "choriocarcinome"
+      ],
+      "description": "Les moles hydatiformes peuvent sécréter de l'hCG, causant une hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hCG",
+      "definition": "Hormone chorionique gonadotrope, produite par le placenta pendant la grossesse.",
+      "category": "physiologie",
+      "synonyms": [
+        "hormone chorionique gonadotrope"
+      ],
+      "related_terms": [
+        "moles hydatiformes",
+        "choriocarcinome"
+      ],
+      "description": "L'hCG peut avoir un effet stimulant sur le récepteur de la TSH, causant une hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goitre ovarien toxique",
+      "definition": "Hypertrophie de la glande thyroïde due à une tumeur ovarienne sécrétant des hormones thyroïdiennes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthyroïdie"
+      ],
+      "description": "Le goitre ovarien toxique est une cause rare d'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "inocclusion palpébrale",
+      "definition": "Incapacité de fermer complètement les paupières, exposant la cornée.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "exophtalmie",
+        "panophtalmie"
+      ],
+      "description": "L'inocclusion palpébrale peut entraîner une ulcération cornéenne voire une panophtalmie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "panophtalmie",
+      "definition": "Inflammation sévère de l'ensemble du globe oculaire, souvent due à une infection.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "exophtalmie",
+        "inocclusion palpébrale"
+      ],
+      "description": "La panophtalmie peut résulter d'une inocclusion palpébrale dans l'ophtalmopathie basedowienne sévère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles oculomoteurs",
+      "definition": "Muscles responsables des mouvements de l'œil.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "diplopie",
+        "neuropathie optique"
+      ],
+      "description": "La paralysie des muscles oculomoteurs peut causer une diplopie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "neuropathie optique",
+      "definition": "Atteinte du nerf optique, souvent due à une compression.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "nerf optique",
+        "hypertonie oculaire"
+      ],
+      "description": "La neuropathie optique peut être causée par une compression du nerf optique dans l'ophtalmopathie basedowienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cornée",
+      "definition": "Couche transparente à l'avant de l'œil, responsable de la réfraction de la lumière.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "acuité visuelle",
+        "papille",
+        "oculomotricité",
+        "champ visuel"
+      ],
+      "description": "L'examen de la cornée est essentiel dans l'examen ophtalmologique spécialisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "papille",
+      "definition": "Point d'entrée du nerf optique dans la rétine, également appelé disque optique.",
+      "category": "anatomie",
+      "synonyms": [
+        "disque optique"
+      ],
+      "related_terms": [
+        "acuité visuelle",
+        "cornée",
+        "oculomotricité",
+        "champ visuel"
+      ],
+      "description": "L'état de la papille est évalué dans l'examen ophtalmologique spécialisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oculomotricité",
+      "definition": "Mouvements des yeux contrôlés par les muscles oculomoteurs.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acuité visuelle",
+        "cornée",
+        "papille",
+        "champ visuel"
+      ],
+      "description": "L'étude de l'oculomotricité est essentielle dans l'examen ophtalmologique spécialisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "champ visuel",
+      "definition": "Étendue de l'espace visible par l'œil dans des conditions données.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acuité visuelle",
+        "cornée",
+        "papille",
+        "oculomotricité"
+      ],
+      "description": "L'examen du champ visuel est essentiel dans l'examen ophtalmologique spécialisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IRM orbitaire",
+      "definition": "Technique d'imagerie par résonance magnétique utilisée pour visualiser les structures orbitaires.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "protrusion",
+        "hypertrophie",
+        "muscles",
+        "graisse retro orbitaires",
+        "nerf optique"
+      ],
+      "description": "L'IRM orbitaire permet de mesurer le degré de protrusion et de visualiser l'hypertrophie des muscles et de la graisse retro orbitaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "protrusion",
+      "definition": "Déplacement vers l'avant, souvent utilisé pour décrire la protrusion du globe oculaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM orbitaire",
+        "hypertrophie",
+        "muscles",
+        "graisse retro orbitaires",
+        "nerf optique"
+      ],
+      "description": "Le degré de protrusion peut être mesuré par l'IRM orbitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "muscles",
+      "definition": "Tissus contractiles responsables des mouvements du corps.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM orbitaire",
+        "protrusion",
+        "hypertrophie",
+        "graisse retro orbitaires",
+        "nerf optique"
+      ],
+      "description": "L'hypertrophie des muscles peut être visualisée par l'IRM orbitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "graisse retro orbitaires",
+      "definition": "Tissu adipeux situé derrière l'orbite, souvent impliqué dans les maladies oculaires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "IRM orbitaire",
+        "protrusion",
+        "hypertrophie",
+        "muscles",
+        "nerf optique"
+      ],
+      "description": "L'hypertrophie de la graisse retro orbitaires peut être visualisée par l'IRM orbitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-récepteur de la TSH",
+      "definition": "Anticorps dirigés contre le récepteur de la TSH, souvent associés à la maladie de Basedow.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Basedow",
+        "TSH"
+      ],
+      "description": "Les anticorps anti-récepteur de la TSH peuvent traverser le placenta et causer une hyperthyroïdie fœtale et néonatale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperactivité",
+      "definition": "État d'activité excessive, souvent observé dans les troubles thyroïdiens.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Basedow",
+        "signes oculaires"
+      ],
+      "description": "L'hyperactivité peut être un signe de la maladie de Basedow acquise.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "signes oculaires",
+      "definition": "Manifestations oculaires associées à des maladies, souvent observées dans la maladie de Basedow.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Basedow",
+        "hyperactivité"
+      ],
+      "description": "Les signes oculaires peuvent être présents dans la maladie de Basedow acquise.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fausse couche",
+      "definition": "Perte spontanée du fœtus avant la 20ème semaine de grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "avortement spontané"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "accouchement prématuré",
+        "retards de croissance intra-utérins",
+        "pré-éclampsie",
+        "insuffisance cardiaque"
+      ],
+      "description": "L'hyperthyroïdie pendant la grossesse est associée à un risque augmenté de fausse couche.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "retards de croissance intra-utérins",
+      "definition": "Ralentissement de la croissance fœtale pendant la grossesse, souvent dû à des facteurs maternels ou placentaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthyroïdie",
+        "fausse couche",
+        "accouchement prématuré",
+        "pré-éclampsie",
+        "insuffisance cardiaque"
+      ],
+      "description": "L'hyperthyroïdie pendant la grossesse est associée à un risque augmenté de retards de croissance intra-utérins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyrotoxicose gestationnelle",
+      "definition": "État d'hyperthyroïdie transitoire pendant la grossesse, souvent due à l'effet stimulant de l'hCG sur le récepteur de la TSH.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hormone chorionique gonadotrope",
+        "TSH",
+        "hyperemesis gravidarum"
+      ],
+      "description": "La thyrotoxicose gestationnelle régresse spontanément à la deuxième partie de la gestation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hormone chorionique gonadotrope",
+      "definition": "Hormone produite par le placenta pendant la grossesse, ayant un effet stimulant sur le récepteur de la TSH.",
+      "category": "physiologie",
+      "synonyms": [
+        "hCG"
+      ],
+      "related_terms": [
+        "thyrotoxicose gestationnelle",
+        "TSH"
+      ],
+      "description": "L'hormone chorionique gonadotrope peut causer une thyrotoxicose gestationnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperemesis gravidarum",
+      "definition": "Vomissements sévères et persistants pendant la grossesse, souvent associés à une thyrotoxicose gestationnelle.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyrotoxicose gestationnelle"
+      ],
+      "description": "L'hyperemesis gravidarum peut nécessiter une hospitalisation dans les formes sévères de thyrotoxicose gestationnelle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïde fœtale",
+      "definition": "Glande thyroïde du fœtus, essentielle pour le développement et la croissance.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "anticorps",
+        "maladie de Basedow",
+        "IRA",
+        "chirurgie"
+      ],
+      "description": "La surveillance échographique de la thyroïde fœtale est nécessaire en cas de maladie de Basedow.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie",
+      "definition": "Intervention médicale consistant à traiter des maladies ou des blessures par des procédures manuelles et instrumentales.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïde fœtale",
+        "maladie de Basedow",
+        "IRA"
+      ],
+      "description": "Les anticorps doivent être recherchés même en cas de maladie de Basedow traitée avant la grossesse par IRA ou chirurgie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "forme apathique",
+      "definition": "Forme de thyrotoxicose chez le sujet âgé, caractérisée par une altération importante de l'état général.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cachexie",
+        "insuffisance cardiaque"
+      ],
+      "description": "La forme apathique de la thyrotoxicose peut se manifester par une cachexie et une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goitre multi-nodulaire toxique",
+      "definition": "Hypertrophie de la glande thyroïde avec présence de nodules multiples, souvent associée à une hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "adénome toxique"
+      ],
+      "description": "Le goitre multi-nodulaire toxique est une cause fréquente de thyrotoxicose chez le sujet âgé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "crise aigue thyrotoxique",
+      "definition": "État d'hyperthyroïdie sévère et soudaine, souvent déclenché par un stress physique ou émotionnel.",
+      "category": "pathologie",
+      "synonyms": [
+        "storm thyrotoxique"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "thyrotoxicose"
+      ],
+      "description": "La crise aigue thyrotoxique est une urgence médicale nécessitant une prise en charge immédiate.",
+      "expansion": null,
+      "clinical_significance": "Peut être mortelle si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "crise thyrotoxique",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiothyréose",
+      "definition": "Complication cardiaque de l'hyperthyroïdie, caractérisée par des symptômes cardiovasculaires sévères.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthyroïdie",
+        "complications cardiaques"
+      ],
+      "description": "La cardiothyréose peut inclure des arythmies, une insuffisance cardiaque et d'autres symptômes cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une prise en charge médicale urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiothyréose",
+        "hyperthyroïdie",
+        "complications cardiaques"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "orbitopathie maligne",
+      "definition": "Inflammation sévère des tissus orbitaires, souvent associée à la maladie de Basedow.",
+      "category": "pathologie",
+      "synonyms": [
+        "ophtalmopathie maligne"
+      ],
+      "related_terms": [
+        "maladie de Basedow",
+        "ophtalmopathie"
+      ],
+      "description": "L'orbitopathie maligne peut entraîner une exophtalmie, une douleur oculaire et une perte de vision.",
+      "expansion": null,
+      "clinical_significance": "Nécessite un traitement immédiat pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "orbitopathie",
+        "ophtalmopathie",
+        "maladie de Basedow"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bêta bloquants",
+      "definition": "Médicaments qui bloquent les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension et les arythmies.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquants"
+      ],
+      "related_terms": [
+        "propranolol",
+        "hypertension",
+        "arythmies"
+      ],
+      "description": "Les bêta bloquants réduisent la tachycardie, les tremblements et l'agitation dans l'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour contrôler les symptômes de l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta bloquants",
+        "propranolol",
+        "hypertension"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "propranolol",
+      "definition": "Bêta bloquant non cardio-sélectif utilisé pour traiter l'hypertension, les arythmies et les symptômes de l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Avlocardyl®"
+      ],
+      "related_terms": [
+        "bêta bloquants",
+        "hypertension",
+        "arythmies"
+      ],
+      "description": "Le propranolol réduit la tachycardie, les tremblements et l'agitation dans l'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler les symptômes de l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "propranolol",
+        "bêta bloquants",
+        "hypertension"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monodésiodase",
+      "definition": "Enzyme qui convertit la T4 en T3 en éliminant un atome d'iode.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "T4",
+        "T3"
+      ],
+      "description": "La monodésiodase joue un rôle clé dans l'activation des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de l'activité thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "monodésiodase",
+        "T4",
+        "T3"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antithyroïdiens de synthèse (ATS)",
+      "definition": "Médicaments utilisés pour traiter l'hyperthyroïdie en inhibant la synthèse des hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "ATS"
+      ],
+      "related_terms": [
+        "Benzylthiouracile",
+        "Propylthiouracile",
+        "Thiamazole",
+        "Carbimazole"
+      ],
+      "description": "Les ATS agissent en inhibant la thyropéroxydase, enzyme clé dans la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ATS",
+        "antithyroïdiens",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Benzylthiouracile",
+      "definition": "Antithyroïdien de synthèse utilisé pour traiter l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Basdène®",
+        "BTU"
+      ],
+      "related_terms": [
+        "ATS",
+        "Propylthiouracile",
+        "Thiamazole",
+        "Carbimazole"
+      ],
+      "description": "Le Benzylthiouracile inhibe la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Benzylthiouracile",
+        "Basdène®",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Propylthiouracile",
+      "definition": "Antithyroïdien de synthèse utilisé pour traiter l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Propylex®",
+        "PTU"
+      ],
+      "related_terms": [
+        "ATS",
+        "Benzylthiouracile",
+        "Thiamazole",
+        "Carbimazole"
+      ],
+      "description": "Le Propylthiouracile inhibe la synthèse des hormones thyroïdiennes et la conversion de T4 en T3.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Propylthiouracile",
+        "Propylex®",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thiamazole",
+      "definition": "Antithyroïdien de synthèse utilisé pour traiter l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Thyrozol®"
+      ],
+      "related_terms": [
+        "ATS",
+        "Benzylthiouracile",
+        "Propylthiouracile",
+        "Carbimazole"
+      ],
+      "description": "Le Thiamazole inhibe la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Thiamazole",
+        "Thyrozol®",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Carbimazole",
+      "definition": "Antithyroïdien de synthèse utilisé pour traiter l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Neomercazole®"
+      ],
+      "related_terms": [
+        "ATS",
+        "Benzylthiouracile",
+        "Propylthiouracile",
+        "Thiamazole"
+      ],
+      "description": "Le Carbimazole inhibe la synthèse des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Carbimazole",
+        "Neomercazole®",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyropéroxydase",
+      "definition": "Enzyme clé dans la synthèse des hormones thyroïdiennes, catalysant l'organification de l'iode.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ATS",
+        "hormones thyroïdiennes"
+      ],
+      "description": "La thyropéroxydase est inhibée par les antithyroïdiens de synthèse.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la fonction thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyropéroxydase",
+        "hormones thyroïdiennes",
+        "thyroïde"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iode radioactif (Iode 131)",
+      "definition": "Isotope radioactif de l'iode utilisé pour traiter l'hyperthyroïdie en détruisant les zones hyperfonctionnelles de la thyroïde.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Iode 131"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "thyroïde"
+      ],
+      "description": "L'iode radioactif est utilisé pour traiter l'hyperthyroïdie par irradiation interne.",
+      "expansion": null,
+      "clinical_significance": "Traitement efficace pour l'hyperthyroïdie, mais nécessite des précautions pour éviter les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iode radioactif",
+        "Iode 131",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "parathyroïdes",
+      "definition": "Petites glandes situées derrière la thyroïde, responsables de la régulation du calcium dans le sang.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "thyroïde",
+        "hypocalcémie"
+      ],
+      "description": "Les parathyroïdes peuvent être endommagées lors de la chirurgie de la thyroïde, entraînant des crises de tétanies.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation du calcium dans le sang.",
+      "normal_values": null,
+      "image_search_terms": [
+        "parathyroïdes",
+        "thyroïde",
+        "hypocalcémie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdectomie totale",
+      "definition": "Ablation chirurgicale complète de la thyroïde, utilisée pour traiter certaines formes d'hyperthyroïdie.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "maladie de Basedow",
+        "goitre multinodulaire toxique"
+      ],
+      "description": "La thyroïdectomie totale est utilisée pour traiter la maladie de Basedow ou le goitre multinodulaire toxique.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une préparation médicale pour éviter les complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdectomie totale",
+        "thyroïde",
+        "chirurgie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iode stable (Lugol)",
+      "definition": "Solution d'iode utilisée pour inhiber le transport et l'organification de l'iode, réduisant la sécrétion des hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Lugol"
+      ],
+      "related_terms": [
+        "phénomène Wolff-Chaikoff",
+        "hormones thyroïdiennes"
+      ],
+      "description": "L'iode stable est utilisé pour traiter l'hyperthyroïdie en réduisant la vascularisation du goitre.",
+      "expansion": null,
+      "clinical_significance": "Utilisé pour contrôler les symptômes de l'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "iode stable",
+        "Lugol",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phénomène Wolff-Chaikoff",
+      "definition": "Effet inhibiteur de l'iode sur l'organification de l'iode dans la thyroïde, réduisant la sécrétion des hormones thyroïdiennes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "iode stable",
+        "hormones thyroïdiennes"
+      ],
+      "description": "Le phénomène Wolff-Chaikoff est utilisé pour traiter l'hyperthyroïdie en réduisant la sécrétion des hormones thyroïdiennes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la fonction thyroïdienne.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phénomène Wolff-Chaikoff",
+        "iode stable",
+        "hormones thyroïdiennes"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite subaiguë",
+      "definition": "Inflammation de la thyroïde, souvent précédée d'une infection virale, caractérisée par une douleur thyroïdienne et une hyperthyroïdie transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "thyroïdite de De Quervain"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "thyroïde"
+      ],
+      "description": "La thyroïdite subaiguë peut nécessiter un traitement par bêta bloquants et anti-inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thyroïdite subaiguë",
+        "thyroïde",
+        "hyperthyroïdie"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ATS",
+      "definition": "Anti-thyroïdiens de synthèse, médicaments utilisés pour traiter l'hyperthyroïdie en réduisant la production d'hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anti-thyroïdiens de synthèse"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "thyrotoxicose"
+      ],
+      "description": "Les ATS agissent en inhibant la synthèse des hormones thyroïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Principaux médicaments utilisés pour contrôler l'hyperthyroïdie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "anti-thyroïdiens de synthèse",
+        "ATS"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "orbitopathie Basedowienne",
+      "definition": "Manifestation oculaire de la maladie de Basedow, caractérisée par une inflammation et une exophtalmie.",
+      "category": "pathologie",
+      "synonyms": [
+        "ophtalmopathie Basedowienne"
+      ],
+      "related_terms": [
+        "maladie de Basedow",
+        "exophtalmie"
+      ],
+      "description": "L'orbitopathie Basedowienne peut entraîner des symptômes tels que la douleur oculaire, la diplopie et la perte de vision.",
+      "expansion": "",
+      "clinical_significance": "Importante car elle peut entraîner des complications oculaires graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "orbitopathie Basedowienne",
+        "ophtalmopathie Basedowienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "iode 131",
+      "definition": "Isotope radioactif de l'iode utilisé pour traiter l'hyperthyroïdie en détruisant les cellules thyroïdiennes hyperactives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "iode radioactif"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "traitement radioactif"
+      ],
+      "description": "L'iode 131 est administré par voie orale et se concentre dans la glande thyroïde, détruisant les cellules hyperactives.",
+      "expansion": "",
+      "clinical_significance": "Efficace pour le traitement définitif de l'hyperthyroïdie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "iode 131",
+        "iode radioactif"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiothérapie orbitaire",
+      "definition": "Traitement par radiation utilisé pour réduire l'inflammation et les symptômes de l'orbitopathie Basedowienne.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "orbitopathie Basedowienne",
+        "radiothérapie"
+      ],
+      "description": "La radiothérapie orbitaire est utilisée pour traiter les symptômes oculaires sévères de l'orbitopathie Basedowienne.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour réduire l'inflammation et les symptômes oculaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "radiothérapie orbitaire",
+        "orbitopathie Basedowienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie de décompression",
+      "definition": "Intervention chirurgicale visant à réduire la pression dans l'orbite en retirant du tissu ou de l'os.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "orbitopathie Basedowienne",
+        "chirurgie orbitaire"
+      ],
+      "description": "La chirurgie de décompression est utilisée pour traiter les complications sévères de l'orbitopathie Basedowienne.",
+      "expansion": "",
+      "clinical_significance": "Importante pour traiter les complications oculaires sévères.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chirurgie de décompression",
+        "orbitopathie Basedowienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chirurgie plastique et reconstructive",
+      "definition": "Intervention chirurgicale visant à corriger les déformations et à améliorer l'apparence et la fonction des structures affectées.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "chirurgie reconstructive",
+        "chirurgie plastique"
+      ],
+      "description": "La chirurgie plastique et reconstructive est utilisée pour corriger les déformations et améliorer l'apparence et la fonction des structures affectées.",
+      "expansion": "",
+      "clinical_significance": "Importante pour améliorer la qualité de vie des patients.",
+      "normal_values": "",
+      "image_search_terms": [
+        "chirurgie plastique",
+        "chirurgie reconstructive"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bétabloquants",
+      "definition": "Médicaments utilisés pour traiter l'hypertension et les troubles du rythme cardiaque en bloquant les récepteurs bêta-adrénergiques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension",
+        "troubles du rythme cardiaque"
+      ],
+      "description": "Les bétabloquants réduisent la fréquence cardiaque et la pression artérielle.",
+      "expansion": "",
+      "clinical_significance": "Essentiels dans la gestion des symptômes cardiaques de l'hyperthyroïdie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "bétabloquants",
+        "récepteurs bêta-adrénergiques"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTU",
+      "definition": "Propylthiouracile, un médicament anti-thyroïdien utilisé pour traiter l'hyperthyroïdie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "propylthiouracile"
+      ],
+      "related_terms": [
+        "hyperthyroïdie",
+        "anti-thyroïdiens"
+      ],
+      "description": "Le PTU agit en inhibant la synthèse des hormones thyroïdiennes.",
+      "expansion": "",
+      "clinical_significance": "Utilisé pour traiter l'hyperthyroïdie, mais moins fréquemment en raison de ses effets secondaires.",
+      "normal_values": "",
+      "image_search_terms": [
+        "PTU",
+        "propylthiouracile"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "méthimazole",
+      "definition": "Médicament anti-thyroïdien utilisé pour traiter l'hyperthyroïdie en inhibant la synthèse des hormones thyroïdiennes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "hyperthyroïdie",
+        "anti-thyroïdiens"
+      ],
+      "description": "Le méthimazole est souvent préféré au PTU en raison de ses effets secondaires moins graves.",
+      "expansion": "",
+      "clinical_significance": "Efficace pour le traitement de l'hyperthyroïdie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "méthimazole",
+        "anti-thyroïdiens"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdectomie",
+      "definition": "Intervention chirurgicale consistant en l'ablation partielle ou totale de la glande thyroïde.",
+      "category": "chirurgie",
+      "synonyms": [],
+      "related_terms": [
+        "glande thyroïde",
+        "chirurgie thyroïdienne"
+      ],
+      "description": "La thyroïdectomie est utilisée pour traiter l'hyperthyroïdie, les goitres et les cancers de la thyroïde.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le traitement définitif de certaines maladies thyroïdiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "thyroïdectomie",
+        "chirurgie thyroïdienne"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularites à ANCA",
+      "definition": "Inflammation des vaisseaux sanguins associée à la présence d'anticorps anticytoplasme des polynucléaires neutrophiles (ANCA).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularites",
+        "ANCA"
+      ],
+      "description": "Les vascularites à ANCA peuvent entraîner des symptômes tels que la fièvre, la fatigue et des lésions cutanées.",
+      "expansion": "",
+      "clinical_significance": "Importante car elle peut entraîner des complications graves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "vascularites à ANCA",
+        "ANCA"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de cholestase",
+      "definition": "État pathologique caractérisé par une réduction ou un arrêt de la sécrétion biliaire, entraînant une accumulation de bilirubine dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "bilirubine",
+        "cholestase"
+      ],
+      "description": "Le syndrome de cholestase peut être causé par des obstructions des voies biliaires ou des maladies du foie.",
+      "expansion": "",
+      "clinical_significance": "Important car il peut indiquer une maladie sous-jacente grave.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome de cholestase",
+        "cholestase"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperthyroïdie fœtale",
+      "definition": "Une condition où le fœtus présente une production excessive d'hormones thyroïdiennes, souvent due au passage transplacentaire d'anticorps maternels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hyperthyroïdie",
+        "Anticorps anti-récepteurs de la TSH"
+      ],
+      "description": "Elle peut entraîner des complications telles que la tachycardie, le goitre et une avance de la maturation osseuse.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance échographique régulière.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Fetal hyperthyroidism",
+        "Fetal goiter"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "goitre fœtal",
+      "definition": "Un agrandissement anormal de la thyroïde fœtale, souvent dû à une hypothyroïdie périphérique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hypothyroïdie périphérique",
+        "Anticorps anti-récepteurs de la TSH"
+      ],
+      "description": "Peut être détecté par échographie et nécessite une surveillance.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer une hypothyroïdie périphérique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Fetal goiter",
+        "Fetal thyroid enlargement"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie périphérique",
+      "definition": "Une condition où la thyroïde ne produit pas suffisamment d'hormones thyroïdiennes malgré une stimulation adéquate par la TSH.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hypothyroïdie",
+        "TSH"
+      ],
+      "description": "Peut être causée par des anticorps transplacentaires.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et un traitement pour éviter des complications.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Peripheral hypothyroidism",
+        "Thyroid hormone deficiency"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyrotoxicose néonatale",
+      "definition": "Une condition où le nouveau-né présente une production excessive d'hormones thyroïdiennes, souvent due au passage transplacentaire d'anticorps maternels.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hyperthyroïdie",
+        "Anticorps anti-récepteurs de la TSH"
+      ],
+      "description": "Nécessite une surveillance et un traitement pour éviter des complications.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications graves si non traitée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Neonatal thyrotoxicosis",
+        "Neonatal hyperthyroidism"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothyroïdie iatrogène",
+      "definition": "Une hypothyroïdie causée par un traitement médical, souvent par l'utilisation d'antithyroïdiens de synthèse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Hypothyroïdie",
+        "ATS"
+      ],
+      "description": "Nécessite une surveillance et un ajustement du traitement.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications si non surveillée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Iatrogenic hypothyroidism",
+        "Drug-induced hypothyroidism"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MB",
+      "definition": "Maladie de Basedow, une maladie auto-immune caractérisée par une hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "Maladie de Basedow",
+        "Maladie de Graves"
+      ],
+      "related_terms": [
+        "Hyperthyroïdie",
+        "Anticorps anti-récepteurs de la TSH"
+      ],
+      "description": "La MB est l'étiologie la plus fréquente de l'hyperthyroïdie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance et un traitement spécifiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Basedow's disease",
+        "Graves' disease"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scintigraphie blanche",
+      "definition": "Une technique d'imagerie nucléaire utilisée pour évaluer la fonction thyroïdienne, où la thyroïde apparaît uniformément active.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Scintigraphie thyroïdienne",
+        "Hyperthyroïdie"
+      ],
+      "description": "Utilisée pour diagnostiquer les hyperthyroïdies et les nodules toxiques.",
+      "expansion": null,
+      "clinical_significance": "Aide à différencier les différentes causes d'hyperthyroïdie.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Thyroid scintigraphy",
+        "White scintigraphy"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypogueusie",
+      "definition": "Une diminution de la capacité à percevoir les goûts, souvent due à des effets secondaires de médicaments.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Dysgueusie",
+        "Troubles du goût"
+      ],
+      "description": "Peut être un signe d'effets secondaires de médicaments ou de troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation pour déterminer la cause et le traitement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hypogeusia",
+        "Taste disorder"
+      ],
+      "subject_id": "f155b530-0f9c-4659-a8b9-7a447bc524de",
+      "source_file": "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Endocrinologie/Hyperthyroïdies/Courses/39 Les hyperthyroïdies 2.51.49 AM.md"
+  ],
+  "total_terms": 117
+}

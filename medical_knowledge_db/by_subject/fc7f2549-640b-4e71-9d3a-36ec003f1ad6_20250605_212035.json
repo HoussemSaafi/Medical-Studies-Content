@@ -1,0 +1,2914 @@
+{
+  "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+  "terms": [
+    {
+      "term": "hémorragies digestives",
+      "definition": "Saignement dont l'origine est située dans l'appareil digestif, principalement le tube digestif, et exceptionnellement les voies biliaires ou pancréatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémorragie digestive",
+        "HD"
+      ],
+      "related_terms": [
+        "hémorragie digestive haute",
+        "hémorragie digestive basse"
+      ],
+      "description": "Les hémorragies digestives peuvent être classées en hautes et basses en fonction de la localisation de la lésion causale par rapport à l'angle de Treitz.",
+      "expansion": null,
+      "clinical_significance": "Les hémorragies digestives peuvent être graves et nécessitent une évaluation rapide et une prise en charge appropriée pour éviter les récidives.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie digestive",
+        "saignement digestif"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système porte",
+      "definition": "Système veineux qui draine le sang des intestins, de la rate et du pancréas vers le foie.",
+      "category": "anatomie",
+      "synonyms": [
+        "système portail"
+      ],
+      "related_terms": [
+        "anastomoses porto-caves"
+      ],
+      "description": "Le système porte est crucial pour la détoxification et le métabolisme des substances absorbées par l'intestin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "système porte",
+        "veine porte"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragie digestive basse",
+      "definition": "Saignement situé en aval de l'angle de Treitz, au niveau de l'intestin grêle, du colon, du rectum ou du canal anal.",
+      "category": "pathologie",
+      "synonyms": [
+        "HD basse"
+      ],
+      "related_terms": [
+        "hémorragie digestive haute"
+      ],
+      "description": "Les hémorragies digestives basses représentent 10 à 20% des hémorragies digestives et sont souvent secondaires à une pathologie colique ou rectale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie digestive basse",
+        "saignement colique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémostase endoscopique",
+      "definition": "Procédure endoscopique visant à arrêter un saignement dans le tractus digestif.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "endoscopie hémostatique"
+      ],
+      "related_terms": [
+        "hémorragie digestive"
+      ],
+      "description": "Les procédures d'hémostase endoscopique sont la base de la prise en charge thérapeutique de plusieurs étiologies d'hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémostase endoscopique",
+        "endoscopie hémostatique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tronc cœliaque",
+      "definition": "Artère principale qui assure la vascularisation de plusieurs organes abdominaux, notamment le foie, l'estomac, la rate et le pancréas.",
+      "category": "anatomie",
+      "synonyms": [
+        "tronc cœliaque"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "Le tronc cœliaque naît de la face antérieure de l'aorte abdominale et se divise en trois branches principales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tronc cœliaque",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastrique gauche",
+      "definition": "Artère qui assure la vascularisation de l'estomac, notamment de la petite courbure.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère gastrique gauche"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère gastrique gauche comporte trois segments et donne deux branches terminales au contact de l'estomac le long de la petite courbure.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère gastrique gauche",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère hépatique commune",
+      "definition": "Artère qui se dirige en avant et à droite, au-dessus du bord supérieur du pancréas, et se termine en donnant deux artères principales.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère hépatique commune"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère hépatique commune se termine en donnant l'artère gastro-duodénale et l'artère gastro-omentale droite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère hépatique commune",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère splénique",
+      "definition": "Artère qui assure la vascularisation de la rate.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère splénique"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère splénique est l'une des trois branches principales du tronc cœliaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère splénique",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastro-duodénale",
+      "definition": "Artère qui descend sur la face postérieure du premier duodénum et donne plusieurs branches collatérales.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère gastro-duodénale"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère gastro-duodénale naît de l'artère hépatique commune et se termine en donnant l'artère pancréatico-duodénale supéro-antérieure et l'artère gastro-omentale droite.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère gastro-duodénale",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère pancréatico-duodénale supéro-postérieure",
+      "definition": "Artère qui forme avec son homologue inférieure, provenant de la mésentérique supérieure, l'arcade pancréatico-duodénale postérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère pancréatico-duodénale supéro-postérieure"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère pancréatico-duodénale supéro-postérieure est une branche collatérale de l'artère gastro-duodénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère pancréatico-duodénale supéro-postérieure",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère pancréatico-duodénale supéro-antérieure",
+      "definition": "Artère qui forme avec son homologue inférieure, provenant de la mésentérique supérieure, l'arcade pancréatico-duodénale antérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère pancréatico-duodénale supéro-antérieure"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère pancréatico-duodénale supéro-antérieure est une branche terminale de l'artère gastro-duodénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère pancréatico-duodénale supéro-antérieure",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastro-omentale droite",
+      "definition": "Artère qui forme avec son homologue gauche le cercle artériel de la grande courbure.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère gastro-omentale droite"
+      ],
+      "related_terms": [
+        "vascularisation artérielle"
+      ],
+      "description": "L'artère gastro-omentale droite est une branche terminale de l'artère gastro-duodénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "artère gastro-omentale droite",
+        "vascularisation artérielle"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastroduodénale",
+      "definition": "Artère qui irrigue le duodénum et une partie de l'estomac, souvent impliquée dans les hémorragies digestives.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère gastrique droite",
+        "arcade artérielle de la petite courbure"
+      ],
+      "description": "L'artère gastroduodénale est une branche de l'artère hépatique propre et est souvent impliquée dans les hémorragies digestives lorsqu'elle est érodée par un ulcère.",
+      "expansion": "",
+      "clinical_significance": "Importante dans les hémorragies digestives, notamment les ulcères duodénaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère gastroduodénale",
+        "anatomie artère gastroduodénale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastrique droite",
+      "definition": "Artère qui irrigue la petite courbure de l'estomac et le pylore.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère gastroduodénale",
+        "artère gastrique gauche"
+      ],
+      "description": "L'artère gastrique droite est une branche de l'artère hépatique propre et peut être impliquée dans les hémorragies digestives.",
+      "expansion": "",
+      "clinical_significance": "Importante dans les hémorragies digestives, notamment les ulcères de la petite courbure gastrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère gastrique droite",
+        "anatomie artère gastrique droite"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère hépatique propre",
+      "definition": "Artère qui irrigue le foie et se divise en branches droite et gauche.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère gastroduodénale",
+        "artère gastrique droite"
+      ],
+      "description": "L'artère hépatique propre est une branche de l'artère hépatique commune et se termine en deux branches qui pénètrent dans le parenchyme hépatique.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la vascularisation du foie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère hépatique propre",
+        "anatomie artère hépatique propre"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère supra-duodénale",
+      "definition": "Artère qui irrigue le bord supérieur du premier duodénum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère gastroduodénale",
+        "artère gastrique droite"
+      ],
+      "description": "L'artère supra-duodénale est une branche de l'artère hépatique propre et se divise en plusieurs rameaux pour les faces antérieure et postérieure du bulbe duodénal.",
+      "expansion": "",
+      "clinical_significance": "Importante dans les hémorragies digestives, notamment les ulcères duodénaux.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère supra-duodénale",
+        "anatomie artère supra-duodénale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère cystique",
+      "definition": "Artère qui irrigue la vésicule biliaire.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère hépatique propre"
+      ],
+      "description": "L'artère cystique est une branche de l'artère hépatique propre et irrigue la vésicule biliaire.",
+      "expansion": "",
+      "clinical_significance": "Importante dans la chirurgie de la vésicule biliaire.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère cystique",
+        "anatomie artère cystique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artères courtes",
+      "definition": "Petites artères contenues dans le ligament gastro-splénique, destinées à la grande courbure gastrique.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère splénique",
+        "ligament gastro-splénique"
+      ],
+      "description": "Les artères courtes sont des branches de l'artère splénique et irriguent la grande courbure de l'estomac.",
+      "expansion": "",
+      "clinical_significance": "Importantes pour la vascularisation de la grande courbure gastrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artères courtes",
+        "anatomie artères courtes"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère œso-cardio-tubérositaire postérieure",
+      "definition": "Artère qui irrigue la partie postérieure de l'œsophage et du cardia.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère gastrique postérieure"
+      ],
+      "related_terms": [
+        "artère splénique"
+      ],
+      "description": "L'artère œso-cardio-tubérositaire postérieure est une branche de l'artère splénique et contribue à la formation du cercle artériel de la grande courbure gastrique.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la vascularisation de l'œsophage et du cardia.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère œso-cardio-tubérositaire postérieure",
+        "anatomie artère œso-cardio-tubérositaire postérieure"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère gastro-omentale gauche",
+      "definition": "Artère qui contribue à la formation du cercle artériel de la grande courbure gastrique.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "artère splénique"
+      ],
+      "description": "L'artère gastro-omentale gauche est une branche de l'artère splénique et irrigue la grande courbure de l'estomac.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la vascularisation de la grande courbure gastrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "artère gastro-omentale gauche",
+        "anatomie artère gastro-omentale gauche"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine splénique",
+      "definition": "Veine qui draine le sang veineux de la rate et du pancréas.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte",
+        "veine mésentérique supérieure"
+      ],
+      "description": "La veine splénique se joint à la veine mésentérique supérieure pour former la veine porte.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le drainage veineux de la rate et du pancréas.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine splénique",
+        "anatomie veine splénique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine mésentérique inférieure",
+      "definition": "Veine qui draine le sang veineux de la partie gauche du côlon et du rectum.",
+      "category": "anatomie",
+      "synonyms": [
+        "veine petite mésentérique"
+      ],
+      "related_terms": [
+        "veine splénique",
+        "veine porte"
+      ],
+      "description": "La veine mésentérique inférieure se joint souvent à la veine splénique avant de former la veine porte.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le drainage veineux du côlon gauche et du rectum.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine mésentérique inférieure",
+        "anatomie veine mésentérique inférieure"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pars vasculosa",
+      "definition": "Partie du petit omentum contenant les structures vasculaires, notamment la veine porte et l'artère hépatique propre.",
+      "category": "anatomie",
+      "synonyms": [
+        "ligament hépato-duodénal"
+      ],
+      "related_terms": [
+        "veine porte",
+        "artère hépatique propre"
+      ],
+      "description": "La pars vasculosa est une partie du petit omentum qui contient les structures vasculaires importantes pour le foie.",
+      "expansion": "",
+      "clinical_significance": "Importante pour la vascularisation et le drainage veineux du foie.",
+      "normal_values": "",
+      "image_search_terms": [
+        "pars vasculosa",
+        "anatomie pars vasculosa"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine gastrique gauche",
+      "definition": "Veine qui draine le sang veineux de la petite courbure de l'estomac.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte"
+      ],
+      "description": "La veine gastrique gauche est une collatérale de la veine porte et draine le sang de la petite courbure de l'estomac.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le drainage veineux de la petite courbure gastrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine gastrique gauche",
+        "anatomie veine gastrique gauche"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine gastrique droite",
+      "definition": "Veine qui draine le sang veineux de la petite courbure de l'estomac.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte"
+      ],
+      "description": "La veine gastrique droite est une collatérale de la veine porte et draine le sang de la petite courbure de l'estomac.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le drainage veineux de la petite courbure gastrique.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine gastrique droite",
+        "anatomie veine gastrique droite"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine pancréatico-duodénale supéro-postérieure",
+      "definition": "Veine qui draine le sang veineux du pancréas et du duodénum.",
+      "category": "anatomie",
+      "synonyms": [
+        "veine pancréatico-duodénale supérieure droite",
+        "veine de Belcher"
+      ],
+      "related_terms": [
+        "veine porte",
+        "veine pancréatico-duodénale inférieure"
+      ],
+      "description": "La veine pancréatico-duodénale supéro-postérieure est une collatérale de la veine porte et s'anastomose avec la veine pancréatico-duodénale inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importante pour le drainage veineux du pancréas et du duodénum.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine pancréatico-duodénale supéro-postérieure",
+        "anatomie veine pancréatico-duodénale supéro-postérieure"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines para-ombilicales",
+      "definition": "Petites veines inconstantes unissant la région ombilicale au foie, cheminant dans le ligament rond et le ligament falciforme.",
+      "category": "anatomie",
+      "synonyms": [
+        "veines de Sappey",
+        "veines du ligament rond"
+      ],
+      "related_terms": [
+        "veine porte"
+      ],
+      "description": "Les veines para-ombilicales sont des collatérales de la veine porte et peuvent se développer en cas d'hypertension portale.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves en cas d'hypertension portale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines para-ombilicales",
+        "anatomie veines para-ombilicales"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine ombilicale",
+      "definition": "Veine fœtale qui devient le ligament rond après la naissance.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte",
+        "conduit veineux"
+      ],
+      "description": "La veine ombilicale est une structure fœtale qui devient le ligament rond après la naissance et s'implante sur la branche terminale gauche de la veine porte.",
+      "expansion": "",
+      "clinical_significance": "Importante dans le développement fœtal et les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine ombilicale",
+        "anatomie veine ombilicale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "conduit veineux",
+      "definition": "Structure fœtale qui devient le ligament veineux après la naissance.",
+      "category": "anatomie",
+      "synonyms": [
+        "canal d'Arantius"
+      ],
+      "related_terms": [
+        "veine porte",
+        "veine ombilicale"
+      ],
+      "description": "Le conduit veineux est une structure fœtale qui devient le ligament veineux après la naissance et s'implante sur la branche terminale gauche de la veine porte.",
+      "expansion": "",
+      "clinical_significance": "Important dans le développement fœtal et les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "conduit veineux",
+        "anatomie conduit veineux"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines œso-cardio-tubérositaires",
+      "definition": "Veines qui drainent le sang veineux de l'œsophage et du cardia.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte",
+        "veines œsophagiennes",
+        "veines cardiales"
+      ],
+      "description": "Les veines œso-cardio-tubérositaires sont des tributaires du système porte et peuvent se développer en varices en cas d'hypertension portale.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves et le développement de varices œsophagiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines œso-cardio-tubérositaires",
+        "anatomie veines œso-cardio-tubérositaires"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines œsophagiennes",
+      "definition": "Veines qui drainent le sang veineux de l'œsophage.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veines œso-cardio-tubérositaires",
+        "veine azygos"
+      ],
+      "description": "Les veines œsophagiennes sont des tributaires du système azygos et peuvent se développer en varices en cas d'hypertension portale.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves et le développement de varices œsophagiennes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines œsophagiennes",
+        "anatomie veines œsophagiennes"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine diaphragmatique inférieure gauche",
+      "definition": "Veine qui draine le sang veineux du diaphragme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine cave inférieure"
+      ],
+      "description": "La veine diaphragmatique inférieure gauche est une veine qui draine le sang veineux du diaphragme et se jette dans la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importante dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veine diaphragmatique inférieure gauche",
+        "anatomie veine diaphragmatique inférieure gauche"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines épigastriques supérieures",
+      "definition": "Veines qui drainent le sang veineux de la région épigastrique supérieure.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veines thoraciques internes",
+        "veine cave supérieure"
+      ],
+      "description": "Les veines épigastriques supérieures drainent le sang veineux de la région épigastrique supérieure et se jettent dans les veines thoraciques internes, qui se dirigent vers la veine cave supérieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines épigastriques supérieures",
+        "anatomie veines épigastriques supérieures"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines épigastriques inférieures",
+      "definition": "Veines qui drainent le sang veineux de la région épigastrique inférieure.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veines ilio-fémorales",
+        "veine cave inférieure"
+      ],
+      "description": "Les veines épigastriques inférieures drainent le sang veineux de la région épigastrique inférieure et se jettent dans les veines ilio-fémorales, qui se dirigent vers la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines épigastriques inférieures",
+        "anatomie veines épigastriques inférieures"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines épigastriques superficielles",
+      "definition": "Veines qui drainent le sang veineux de la région épigastrique superficielle.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veines ilio-fémorales",
+        "veine cave inférieure"
+      ],
+      "description": "Les veines épigastriques superficielles drainent le sang veineux de la région épigastrique superficielle et se jettent dans les veines ilio-fémorales, qui se dirigent vers la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines épigastriques superficielles",
+        "anatomie veines épigastriques superficielles"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome Cruveilhier-Baumgarten",
+      "definition": "Circulation veineuse collatérale sous-cutanée avec aspect en «tête de méduse» de l'ombilic en cas d'hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension portale",
+        "veines para-ombilicales"
+      ],
+      "description": "Le syndrome Cruveilhier-Baumgarten est une circulation veineuse collatérale sous-cutanée avec aspect en «tête de méduse» de l'ombilic en cas d'hypertension portale.",
+      "expansion": "",
+      "clinical_significance": "Important dans les complications de l'hypertension portale.",
+      "normal_values": "",
+      "image_search_terms": [
+        "syndrome Cruveilhier-Baumgarten",
+        "pathologie syndrome Cruveilhier-Baumgarten"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines rectales moyennes",
+      "definition": "Veines qui drainent le sang veineux de la partie moyenne du rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine cave inférieure",
+        "veines rectales supérieures et inférieures"
+      ],
+      "description": "Les veines rectales moyennes drainent le sang veineux de la partie moyenne du rectum et se jettent dans la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves et le développement d'hémorroïdes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines rectales moyennes",
+        "anatomie veines rectales moyennes"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines rectales inférieures",
+      "definition": "Veines qui drainent le sang veineux de la partie inférieure du rectum.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine cave inférieure",
+        "veines rectales supérieures et moyennes"
+      ],
+      "description": "Les veines rectales inférieures drainent le sang veineux de la partie inférieure du rectum et se jettent dans la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves et le développement d'hémorroïdes.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines rectales inférieures",
+        "anatomie veines rectales inférieures"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomoses porto-rénale",
+      "definition": "Connexions veineuses entre le système porte et le système cave inférieur dans le ligament spléno-rénal.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine splénique",
+        "veine rénale gauche"
+      ],
+      "description": "Les anastomoses porto-rénales sont des connexions veineuses entre le système porte et le système cave inférieur dans le ligament spléno-rénal.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "anastomoses porto-rénale",
+        "anatomie anastomoses porto-rénale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines de Retzius",
+      "definition": "Veines pariétales postérieures qui communiquent avec les veines du tube digestif.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine porte",
+        "veine cave inférieure"
+      ],
+      "description": "Les veines de Retzius sont des veines pariétales postérieures qui communiquent avec les veines du tube digestif et peuvent se développer en cas d'hypertension portale.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines de Retzius",
+        "anatomie veines de Retzius"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veines phréniques",
+      "definition": "Veines qui drainent le sang veineux du diaphragme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "veine cave inférieure"
+      ],
+      "description": "Les veines phréniques drainent le sang veineux du diaphragme et se jettent dans la veine cave inférieure.",
+      "expansion": "",
+      "clinical_significance": "Importantes dans les anastomoses porto-caves.",
+      "normal_values": "",
+      "image_search_terms": [
+        "veines phréniques",
+        "anatomie veines phréniques"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anastomoses porto-sus-hépatiques",
+      "definition": "Connexions anormales entre la veine porte et les veines sus-hépatiques, souvent observées dans des conditions de pression veineuse élevée.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension portale",
+        "shunts portosystémiques"
+      ],
+      "description": "Ces anastomoses peuvent se former en réponse à une hypertension portale, permettant au sang de contourner le foie.",
+      "expansion": "",
+      "clinical_significance": "Peut être un signe d'hypertension portale et de maladies hépatiques chroniques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anastomoses porto-sus-hépatiques",
+        "hypertension portale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "shunts portosystémiques",
+      "definition": "Connexions anormales entre le système porte et le système veineux systémique, permettant au sang de contourner le foie.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension portale",
+        "anastomoses porto-sus-hépatiques"
+      ],
+      "description": "Ces shunts peuvent se former en réponse à une hypertension portale et peuvent être un signe de maladies hépatiques chroniques.",
+      "expansion": "",
+      "clinical_significance": "Peut être un signe d'hypertension portale et de maladies hépatiques chroniques.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "shunts portosystémiques",
+        "hypertension portale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "varices tubérositaires",
+      "definition": "Dilatations anormales des veines présentes dans la paroi de la grosse tubérosité, souvent dues à une hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension portale",
+        "varices œsophagiennes"
+      ],
+      "description": "Peuvent être un signe de maladies hépatiques chroniques et sont à risque de rupture.",
+      "expansion": "",
+      "clinical_significance": "Rupture peut entraîner des hémorragies digestives graves nécessitant une intervention médicale urgente.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "varices tubérositaires",
+        "hypertension portale"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "arcade artérielle de la petite courbure gastrique",
+      "definition": "Réseau artériel qui irrigue la petite courbure de l'estomac.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "ulcère de l'estomac",
+        "hémorragie digestive"
+      ],
+      "description": "Érosion de cette arcade peut entraîner des hémorragies digestives abondantes.",
+      "expansion": "",
+      "clinical_significance": "Risque de saignement abondant en cas d'érosion par un ulcère.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "arcade artérielle de la petite courbure gastrique",
+        "ulcère de l'estomac"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Décompensation de la cirrhose",
+      "definition": "Détérioration soudaine de la fonction hépatique chez un patient atteint de cirrhose, souvent due à une insuffisance hépatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cirrhose hépatique",
+        "hypertension portale"
+      ],
+      "description": "Peut entraîner des complications graves telles que l'ascite, l'encéphalopathie hépatique et des hémorragies digestives.",
+      "expansion": "",
+      "clinical_significance": "Nécessite une prise en charge médicale urgente pour éviter des complications graves.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Décompensation de la cirrhose",
+        "cirrhose hépatique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pré-charge",
+      "definition": "Volume de sang qui revient au cœur à la fin de la diastole, déterminant la force de contraction du cœur.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "volémie",
+        "débit cardiaque"
+      ],
+      "description": "Diminution de la pré-charge peut entraîner une réduction du débit cardiaque.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "pré-charge",
+        "volémie"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypo perfusion",
+      "definition": "Réduction du flux sanguin vers un organe ou un tissu, entraînant une diminution de l'apport en oxygène et en nutriments.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoxie cellulaire",
+        "acidose métabolique"
+      ],
+      "description": "Peut entraîner une hypoxie cellulaire et une acidose métabolique.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypo perfusion",
+        "hypoxie cellulaire"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoxie cellulaire",
+      "definition": "État de manque d'oxygène au niveau cellulaire, souvent dû à une hypo perfusion.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "acidose métabolique",
+        "métabolisme anaérobique"
+      ],
+      "description": "Peut entraîner un métabolisme anaérobique et la formation de lactate.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "hypoxie cellulaire",
+        "acidose métabolique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "métabolisme anaérobique",
+      "definition": "Processus par lequel les cellules produisent de l'énergie en l'absence d'oxygène.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypoxie cellulaire",
+        "lactate"
+      ],
+      "description": "Peut entraîner la formation de lactate et une acidose métabolique.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "métabolisme anaérobique",
+        "hypoxie cellulaire"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ammoniac",
+      "definition": "Produit de dégradation neurotoxique des substances azotées, normalement éliminé par le foie.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "encéphalopathie hépatique",
+        "cirrhose hépatique"
+      ],
+      "description": "Accumulation d'ammoniac dans le sang peut entraîner une encéphalopathie hépatique.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "ammoniac",
+        "encéphalopathie hépatique"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glutamine",
+      "definition": "Acide aminé impliqué dans le métabolisme de l'ammoniac, utilisé par les entérocytes pour produire de l'ammoniac.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "ammoniac",
+        "encéphalopathie hépatique"
+      ],
+      "description": "Métabolisme de la glutamine peut entraîner la production d'ammoniac.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "glutamine",
+        "ammoniac"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mélénas",
+      "definition": "Émission par l'anus de sang digéré sous forme de selles noirâtres fétides pâteuses, ressemblant à du goudron.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie digestive",
+        "hématémèse"
+      ],
+      "description": "Peut se voir en cas d'une hémorragie digestive haute ou basse.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "mélénas",
+        "hémorragie digestive"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rectorragie",
+      "definition": "Émission de sang rouge par l'anus, souvent due à une hémorragie digestive basse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie digestive",
+        "mélénas"
+      ],
+      "description": "Peut être un signe d'hémorragie digestive basse.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "rectorragie",
+        "hémorragie digestive"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "touché rectal",
+      "definition": "Examen médical consistant à insérer un doigt dans le rectum pour évaluer la présence de sang ou d'autres anomalies.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie digestive",
+        "aspiration gastrique"
+      ],
+      "description": "Peut être utilisé pour vérifier la présence d'une hémorragie digestive.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "touché rectal",
+        "hémorragie digestive"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anémie chronique hypochrome microcytaire",
+      "definition": "Type d'anémie caractérisée par des globules rouges de petite taille et pâles, souvent due à une carence en fer.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie digestive",
+        "exploration endoscopique"
+      ],
+      "description": "Peut être un signe d'hémorragie digestive chronique.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anémie chronique hypochrome microcytaire",
+        "hémorragie digestive"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traitement martial",
+      "definition": "Traitement à base de fer, souvent utilisé pour corriger une anémie ferriprive.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "anémie chronique hypochrome microcytaire",
+        "hémorragie digestive"
+      ],
+      "description": "Peut causer des selles noirâtres, à différencier des mélénas.",
+      "expansion": "",
+      "clinical_significance": "Important dans la gestion des hémorragies digestives et des états de choc.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "traitement martial",
+        "anémie chronique hypochrome microcytaire"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ferriprive",
+      "definition": "État de carence en fer, souvent associé à une anémie hypochrome microcytaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "carence en fer"
+      ],
+      "related_terms": [
+        "anémie ferriprive"
+      ],
+      "description": "La carence en fer peut être due à une alimentation pauvre en fer, une mauvaise absorption ou des pertes sanguines chroniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "comorbidité",
+      "definition": "Présence d'une ou plusieurs conditions médicales supplémentaires en plus de la maladie principale.",
+      "category": "pathologie",
+      "synonyms": [
+        "comorbidité"
+      ],
+      "related_terms": [
+        "multimorbidité"
+      ],
+      "description": "Les comorbidités peuvent compliquer le traitement et le pronostic des hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance coronaire cardiaque",
+      "definition": "Incapacité du cœur à pomper suffisamment de sang pour répondre aux besoins de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance cardiaque"
+      ],
+      "related_terms": [
+        "insuffisance cardiaque congestive"
+      ],
+      "description": "Peut être exacerbée par une hémorragie digestive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcère",
+      "definition": "Lésion ouverte de la peau ou des muqueuses, souvent causée par une érosion ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcération"
+      ],
+      "related_terms": [
+        "ulcère gastrique",
+        "ulcère duodénal"
+      ],
+      "description": "Les ulcères gastriques et duodénaux sont des causes fréquentes d'hémorragies digestives hautes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DeRGO",
+      "definition": "Disease of Gastro-Esophageal Reflux, maladie caractérisée par le reflux du contenu gastrique dans l'œsophage.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "RGO",
+        "reflux gastro-œsophagien"
+      ],
+      "description": "Le RGO peut causer des ulcérations et des saignements dans l'œsophage.",
+      "expansion": "Disease of Gastro-Esophageal Reflux",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatopathie",
+      "definition": "Maladie du foie, pouvant être aiguë ou chronique.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie hépatique"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite"
+      ],
+      "description": "Les hépatopathies chroniques peuvent être associées à des hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie diverticulaire",
+      "definition": "Présence de diverticules, petites poches qui se forment dans la paroi du côlon.",
+      "category": "pathologie",
+      "synonyms": [
+        "diverticulose"
+      ],
+      "related_terms": [
+        "diverticulite"
+      ],
+      "description": "La maladie diverticulaire peut causer des hémorragies digestives basses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastro-agressifs",
+      "definition": "Médicaments qui peuvent irriter ou endommager la muqueuse gastrique, augmentant le risque d'ulcères et de saignements.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "médicaments gastro-toxiques"
+      ],
+      "related_terms": [
+        "AINS",
+        "aspirine"
+      ],
+      "description": "Les médicaments gastro-agressifs sont souvent impliqués dans les hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CVC",
+      "definition": "Circulation veineuse collatérale, développement de veines collatérales en réponse à une obstruction veineuse.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "varices œsophagiennes"
+      ],
+      "description": "La CVC peut être un signe d'hypertension portale.",
+      "expansion": "Circulation Veineuse Collatérale",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytolise",
+      "definition": "Destruction des cellules hépatiques, souvent due à une inflammation ou une toxicité.",
+      "category": "pathologie",
+      "synonyms": [
+        "cytolise hépatique"
+      ],
+      "related_terms": [
+        "cholestase",
+        "hépatite"
+      ],
+      "description": "La cytolyse peut être un signe de maladie hépatique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance hépatocellulaire",
+      "definition": "Incapacité des cellules hépatiques à fonctionner normalement, souvent due à une maladie hépatique chronique.",
+      "category": "pathologie",
+      "synonyms": [
+        "insuffisance hépatique"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite"
+      ],
+      "description": "L'insuffisance hépatocellulaire peut être un signe de maladie hépatique grave.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "videocapsule",
+      "definition": "Petite capsule contenant une caméra vidéo, ingérée par le patient pour visualiser l'intérieur du tractus gastro-intestinal.",
+      "category": "imagerie",
+      "synonyms": [
+        "capsule endoscopique"
+      ],
+      "related_terms": [
+        "fibroscopie",
+        "colonoscopie"
+      ],
+      "description": "La vidéocapsule est utilisée pour diagnostiquer les causes d'hémorragies digestives difficiles à localiser.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enteroscopie",
+      "definition": "Examen endoscopique de l'intestin grêle à l'aide d'un entéroscope.",
+      "category": "imagerie",
+      "synonyms": [
+        "enteroscopie"
+      ],
+      "related_terms": [
+        "fibroscopie",
+        "colonoscopie"
+      ],
+      "description": "L'enteroscopie est utilisée pour diagnostiquer les causes d'hémorragies digestives dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "scintigraphie au GR",
+      "definition": "Examen d'imagerie nucléaire utilisant des globules rouges marqués pour détecter les sites de saignement actif.",
+      "category": "imagerie",
+      "synonyms": [
+        "scintigraphie aux globules rouges"
+      ],
+      "related_terms": [
+        "angio-scanner",
+        "artériographie"
+      ],
+      "description": "La scintigraphie au GR est utilisée pour localiser les sites de saignement digestif actif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "enteroscanner",
+      "definition": "Examen d'imagerie utilisant un scanner pour visualiser l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [
+        "enteroscanner"
+      ],
+      "related_terms": [
+        "entero IRM",
+        "enteroscopie"
+      ],
+      "description": "L'enteroscanner est utilisé pour diagnostiquer les causes d'hémorragies digestives dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "entero IRM",
+      "definition": "Examen d'imagerie par résonance magnétique pour visualiser l'intestin grêle.",
+      "category": "imagerie",
+      "synonyms": [
+        "entéro IRM"
+      ],
+      "related_terms": [
+        "enteroscanner",
+        "enteroscopie"
+      ],
+      "description": "L'entero IRM est utilisée pour diagnostiquer les causes d'hémorragies digestives dans l'intestin grêle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDH",
+      "definition": "Hémorragie digestive haute, saignement provenant de l'œsophage, de l'estomac ou du duodénum.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "hématémèse",
+        "méléna"
+      ],
+      "description": "Les HDH sont souvent causées par des ulcères, des varices œsophagiennes ou des lésions gastroduodénales.",
+      "expansion": "Hémorragie Digestive Haute",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HDB",
+      "definition": "Hémorragie digestive basse, saignement provenant de l'intestin grêle, du côlon ou du rectum.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "méléna",
+        "HDH"
+      ],
+      "description": "Les HDB sont souvent causées par des diverticules, des cancers colorectaux ou des hémorroïdes.",
+      "expansion": "Hémorragie Digestive Basse",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Mallory Weiss",
+      "definition": "Déchirure de la muqueuse œsophagienne, souvent due à des vomissements violents, pouvant causer des hémorragies digestives.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Mallory-Weiss"
+      ],
+      "related_terms": [
+        "RGO",
+        "hématémèse"
+      ],
+      "description": "Le syndrome de Mallory-Weiss est une cause d'hémorragie digestive haute.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FORREST",
+      "definition": "Classification endoscopique des ulcères hémorragiques, utilisée pour évaluer le risque de récidive et guider le traitement.",
+      "category": "classification",
+      "synonyms": null,
+      "related_terms": [
+        "ulcère",
+        "hémorragie digestive"
+      ],
+      "description": "La classification de Forrest est utile pour l'indication du traitement endoscopique et l'évaluation du pronostic.",
+      "expansion": "Classification de Forrest",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cancer gastrique ulcériforme",
+      "definition": "Type de cancer de l'estomac qui se présente sous forme d'ulcère.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancer gastrique ulcéré"
+      ],
+      "related_terms": [
+        "ulcère gastrique",
+        "cancer de l'estomac"
+      ],
+      "description": "Le cancer gastrique ulcériforme doit être écarté en cas d'ulcère gastrique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésions aiguës gastroduodénales",
+      "definition": "Lésions soudaines et sévères affectant la muqueuse de l'estomac et du duodénum, souvent causées par des facteurs irritants ou inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ulcère gastroduodénal",
+        "gastrite aiguë"
+      ],
+      "description": "Ces lésions peuvent évoluer rapidement et nécessitent une prise en charge médicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-COX-2",
+      "definition": "Médicaments anti-inflammatoires qui inhibent sélectivement l'enzyme COX-2, réduisant ainsi les effets secondaires gastro-intestinaux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "inhibiteurs sélectifs de la COX-2"
+      ],
+      "related_terms": [
+        "célécoxib",
+        "rofécoxib"
+      ],
+      "description": "Ces médicaments sont utilisés pour traiter l'inflammation et la douleur avec moins de risques d'ulcères gastroduodénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcérations de stress",
+      "definition": "Lésions ulcéreuses qui se développent dans le tractus gastro-intestinal en réponse à un stress physiologique sévère, comme un traumatisme ou une maladie grave.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcères de stress"
+      ],
+      "related_terms": [
+        "ulcère gastrique",
+        "ulcère duodénal"
+      ],
+      "description": "Ces ulcérations peuvent se compliquer d'hémorragies et nécessitent une prise en charge rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "varices gastriques",
+      "definition": "Veines dilatées et tortueuses dans l'estomac, souvent dues à une hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [
+        "varices gastriques"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hémorragie digestive"
+      ],
+      "description": "Les varices gastriques peuvent se rompre et causer des hémorragies graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gastropathie hypertensive",
+      "definition": "Lésions de la muqueuse gastrique dues à une hypertension portale, caractérisées par une congestion et une dilatation des vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypertension portale",
+        "cirrhose"
+      ],
+      "description": "La gastropathie hypertensive peut causer des saignements gastriques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcération de Dieulafoy",
+      "definition": "Lésion ulcéreuse qui érode une artère sous-muqueuse, souvent située dans l'estomac.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémorragie digestive",
+        "ulcère gastrique"
+      ],
+      "description": "L'ulcération de Dieulafoy peut causer des hémorragies digestives graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "musculaire muqueuse",
+      "definition": "Couche de muscle lisse située sous la muqueuse, jouant un rôle dans la motilité gastro-intestinale.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "muqueuse",
+        "muscle lisse"
+      ],
+      "description": "La musculaire muqueuse est impliquée dans les mouvements péristaltiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fundus",
+      "definition": "Partie supérieure de l'estomac, située sous le diaphragme.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "estomac",
+        "diaphragme"
+      ],
+      "description": "Le fundus est une région importante pour la distension gastrique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corps gastrique",
+      "definition": "Partie centrale de l'estomac, située entre le fundus et l'antre.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "estomac",
+        "fundus",
+        "antre"
+      ],
+      "description": "Le corps gastrique est impliqué dans la sécrétion acide et la digestion.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antre",
+      "definition": "Partie inférieure de l'estomac, située avant le pylore.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "estomac",
+        "pylore"
+      ],
+      "description": "L'antre joue un rôle dans la régulation de la vidange gastrique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angiodysplasies",
+      "definition": "Malformations vasculaires acquises, souvent dégénératives, pouvant causer des hémorragies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "télangiectasies",
+        "angiomes"
+      ],
+      "description": "Les angiodysplasies sont souvent associées à des troubles de la coagulation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "wirsungorragies",
+      "definition": "Hémorragies provenant du canal de Wirsung, souvent dues à une pathologie pancréatique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pancréatite",
+        "tumeur pancréatique"
+      ],
+      "description": "Les wirsungorragies sont rares mais graves et nécessitent une intervention médicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémobilies",
+      "definition": "Présence de sang dans l'arbre biliaire, souvent due à un traumatisme ou une intervention chirurgicale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "traumatisme hépatique",
+        "drainage biliaire"
+      ],
+      "description": "Les hémobilies peuvent causer des douleurs biliaires et un ictère.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fistules aorto-digestives",
+      "definition": "Connexions anormales entre l'aorte et le tractus digestif, souvent dues à une prothèse vasculaire aortique.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "prothèse vasculaire aortique",
+        "hémorragie digestive"
+      ],
+      "description": "Les fistules aorto-digestives sont graves et nécessitent une intervention chirurgicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tumeurs stromales gastriques",
+      "definition": "Tumeurs développées à partir des cellules stromales de l'estomac, souvent bénignes mais parfois malignes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "tumeur gastrique",
+        "cellules stromales"
+      ],
+      "description": "Les tumeurs stromales gastriques peuvent causer des hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cancer de l'œsophage",
+      "definition": "Tumeur maligne développée dans l'œsophage, souvent due à une exposition à des irritants ou à des facteurs génétiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cancer",
+        "œsophage"
+      ],
+      "description": "Le cancer de l'œsophage peut causer des hémorragies digestives et nécessite une prise en charge spécialisée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "œsophagite sévère",
+      "definition": "Inflammation grave de la muqueuse œsophagienne, souvent due à un reflux gastro-œsophagien.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "reflux gastro-œsophagien",
+        "œsophage"
+      ],
+      "description": "L'œsophagite sévère peut entraîner des complications graves comme des hémorragies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diverticulose colique",
+      "definition": "Présence de diverticules dans le côlon, souvent asymptomatique mais pouvant causer des complications.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "diverticule",
+        "côlon"
+      ],
+      "description": "La diverticulose colique peut entraîner des hémorragies digestives basses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diverticule de Meckel",
+      "definition": "Résidu embryonnaire du canal omphalomésentérique, souvent asymptomatique mais pouvant causer des complications.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "canal omphalomésentérique",
+        "hémorragie digestive"
+      ],
+      "description": "Le diverticule de Meckel est une cause fréquente d'hémorragie digestive basse chez l'enfant.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ulcère gastrique hémorragique",
+      "definition": "Un ulcère gastrique qui saigne, souvent causé par une érosion de la muqueuse gastrique.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcère gastrique saignant"
+      ],
+      "related_terms": [
+        "ulcère duodénal",
+        "gastrite érosive"
+      ],
+      "description": "Les ulcères gastriques hémorragiques nécessitent une intervention rapide pour arrêter le saignement et prévenir les complications.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une anémie sévère et nécessiter une transfusion sanguine.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gastrotomie verticale",
+      "definition": "Incision chirurgicale verticale de la paroi gastrique pour accéder à l'intérieur de l'estomac.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "gastrotomie",
+        "incision gastrique"
+      ],
+      "description": "Utilisée pour traiter des conditions comme les ulcères gastriques hémorragiques.",
+      "expansion": null,
+      "clinical_significance": "Permet un accès direct pour le traitement chirurgical des ulcères gastriques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémostase par suture directe du cratère ulcéreux",
+      "definition": "Technique chirurgicale pour arrêter le saignement en suturant directement le cratère de l'ulcère.",
+      "category": "pathologie",
+      "synonyms": [
+        "suture hémostatique"
+      ],
+      "related_terms": [
+        "hémostase chirurgicale",
+        "suture ulcéreuse"
+      ],
+      "description": "Méthode efficace pour contrôler le saignement d'un ulcère gastrique.",
+      "expansion": null,
+      "clinical_significance": "Prévient les complications hémorragiques et réduit le besoin de transfusions.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Biopsie des berges de l'ulcère",
+      "definition": "Prélèvement de tissu des bords de l'ulcère pour analyse histologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "biopsie ulcéreuse"
+      ],
+      "related_terms": [
+        "biopsie gastrique",
+        "analyse histologique"
+      ],
+      "description": "Permet de déterminer la nature de l'ulcère et d'exclure des pathologies malignes.",
+      "expansion": null,
+      "clinical_significance": "Aide au diagnostic et à la planification du traitement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artériographie et embolisation",
+      "definition": "Procédure radiologique pour visualiser les artères et bloquer le flux sanguin vers une zone spécifique.",
+      "category": "imagerie",
+      "synonyms": [
+        "angiographie et embolisation"
+      ],
+      "related_terms": [
+        "embolisation artérielle",
+        "angiographie"
+      ],
+      "description": "Utilisée pour traiter les hémorragies en bloquant l'artère responsable du saignement.",
+      "expansion": null,
+      "clinical_significance": "Option thérapeutique pour les patients à haut risque chirurgical.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EHD",
+      "definition": "Équilibre hydro-électrolytique et dynamique",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "équilibre hydro-électrolytique",
+        "stabilité hémodynamique"
+      ],
+      "description": "Important pour évaluer la stabilité du patient avant une procédure.",
+      "expansion": "Équilibre hydro-électrolytique et dynamique",
+      "clinical_significance": "Un EHD stable est crucial pour la sécurité des interventions médicales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Varices œsogastriques",
+      "definition": "Veines dilatées et tortueuses dans l'œsophage et l'estomac, souvent dues à l'hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [
+        "varices œsophagiennes",
+        "varices gastriques"
+      ],
+      "related_terms": [
+        "hypertension portale",
+        "cirrhose"
+      ],
+      "description": "Peuvent se rompre et causer des hémorragies digestives graves.",
+      "expansion": null,
+      "clinical_significance": "Nécessitent une gestion médicale urgente pour prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Voies veineuses périphériques",
+      "definition": "Accès veineux obtenu par insertion d'un cathéter dans une veine périphérique.",
+      "category": "anatomie",
+      "synonyms": [
+        "cathéter veineux périphérique"
+      ],
+      "related_terms": [
+        "cathéter",
+        "accès veineux"
+      ],
+      "description": "Utilisé pour l'administration de fluides et de médicaments.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la réanimation et le traitement des patients en état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Voie centrale",
+      "definition": "Accès veineux obtenu par insertion d'un cathéter dans une veine centrale, comme la veine jugulaire ou sous-clavière.",
+      "category": "anatomie",
+      "synonyms": [
+        "cathéter veineux central"
+      ],
+      "related_terms": [
+        "cathéter",
+        "accès veineux central"
+      ],
+      "description": "Utilisé pour l'administration de fluides, de médicaments et pour la surveillance hémodynamique.",
+      "expansion": null,
+      "clinical_significance": "Peut être associé à des risques de complications comme l'infection et la thrombose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sonde black Moore",
+      "definition": "Sonde nasogastrique utilisée pour la décompression gastrique et la prévention de l'aspiration.",
+      "category": "anatomie",
+      "synonyms": [
+        "sonde nasogastrique"
+      ],
+      "related_terms": [
+        "décompression gastrique",
+        "aspiration"
+      ],
+      "description": "Utilisée pour prévenir les complications chez les patients en état de choc.",
+      "expansion": null,
+      "clinical_significance": "Aide à prévenir l'aspiration et la distension gastrique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SG 10%",
+      "definition": "Solution de glucose à 10%, utilisée pour traiter l'hypoglycémie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "glucose 10%"
+      ],
+      "related_terms": [
+        "hypoglycémie",
+        "traitement du glucose"
+      ],
+      "description": "Utilisée pour maintenir la glycémie chez les patients à risque d'hypoglycémie.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour prévenir les complications de l'hypoglycémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur VII activé",
+      "definition": "Facteur de coagulation utilisé pour traiter les troubles de la coagulation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "facteur VIIa"
+      ],
+      "related_terms": [
+        "coagulation",
+        "hémorragie"
+      ],
+      "description": "Utilisé pour améliorer la coagulation chez les patients avec insuffisance hépatocellulaire.",
+      "expansion": null,
+      "clinical_significance": "Peut être discuté en cas de troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Intubation trachéale",
+      "definition": "Procédure d'insertion d'un tube dans la trachée pour assurer la ventilation.",
+      "category": "anatomie",
+      "synonyms": [
+        "intubation"
+      ],
+      "related_terms": [
+        "ventilation assistée",
+        "réanimation"
+      ],
+      "description": "Utilisée pour maintenir la perméabilité des voies aériennes et assurer la ventilation.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour les patients en détresse respiratoire ou neurologique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bilan infectieux",
+      "definition": "Ensemble de tests pour identifier la présence d'une infection.",
+      "category": "microbiologie",
+      "synonyms": [
+        "bilan infection"
+      ],
+      "related_terms": [
+        "infection",
+        "tests microbiologiques"
+      ],
+      "description": "Utilisé pour identifier la source de l'infection et guider le traitement antibiotique.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des infections chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Antibiothérapie curative",
+      "definition": "Traitement antibiotique visant à éradiquer une infection identifiée.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "traitement antibiotique curatif"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "infection"
+      ],
+      "description": "Utilisée pour traiter les infections identifiées.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour éradiquer les infections et prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Antibiothérapie prophylactique",
+      "definition": "Traitement antibiotique visant à prévenir une infection potentielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "traitement antibiotique prophylactique"
+      ],
+      "related_terms": [
+        "antibiotique",
+        "prévention de l'infection"
+      ],
+      "description": "Utilisée pour prévenir les infections chez les patients à risque.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour réduire le risque d'infections chez les patients vulnérables.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Norfloxacine",
+      "definition": "Antibiotique de la famille des quinolones utilisé pour traiter les infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "antibiotique",
+        "infection bactérienne"
+      ],
+      "description": "Utilisée pour la prophylaxie des infections chez les patients à risque.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour prévenir les infections chez les patients vulnérables.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Médicaments vasoactifs",
+      "definition": "Médicaments qui agissent sur les vaisseaux sanguins pour modifier le flux sanguin.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasoactifs"
+      ],
+      "related_terms": [
+        "vasoconstricteurs",
+        "vasodilatateurs"
+      ],
+      "description": "Utilisés pour traiter les hémorragies digestives en réduisant le flux sanguin vers les varices.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sandostatine Octréotide®",
+      "definition": "Analogue synthétique de la somatostatine utilisé pour réduire le flux sanguin splanchnique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "octréotide"
+      ],
+      "related_terms": [
+        "somatostatine",
+        "hémorragie digestive"
+      ],
+      "description": "Utilisé pour traiter les hémorragies digestives en réduisant le flux sanguin vers les varices.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Somatostatine Somatostatine®",
+      "definition": "Hormone peptidique qui inhibe la sécrétion de plusieurs autres hormones.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "somatostatine"
+      ],
+      "related_terms": [
+        "hormone",
+        "hémorragie digestive"
+      ],
+      "description": "Utilisée pour traiter les hémorragies digestives en réduisant le flux sanguin vers les varices.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Terlipressine Glypressine®",
+      "definition": "Analogue synthétique de la vasopressine utilisé pour traiter les hémorragies digestives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "terlipressine"
+      ],
+      "related_terms": [
+        "vasopressine",
+        "hémorragie digestive"
+      ],
+      "description": "Utilisée pour traiter les hémorragies digestives en réduisant le flux sanguin vers les varices.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bolus",
+      "definition": "Dose unique de médicament administrée rapidement par voie intraveineuse.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dose de bolus"
+      ],
+      "related_terms": [
+        "administration intraveineuse",
+        "dose unique"
+      ],
+      "description": "Utilisé pour administrer rapidement des médicaments en situation d'urgence.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion rapide des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AOMI",
+      "definition": "Artériopathie oblitérante des membres inférieurs, maladie caractérisée par l'obstruction des artères des membres inférieurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "artériopathie oblitérante"
+      ],
+      "related_terms": [
+        "obstruction artérielle",
+        "ischémie des membres inférieurs"
+      ],
+      "description": "Contre-indication relative pour certains médicaments comme la terlipressine.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les complications ischémiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Laxatifs",
+      "definition": "Médicaments utilisés pour traiter la constipation en augmentant la fréquence des selles.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "constipation",
+        "traitement de la constipation"
+      ],
+      "description": "Utilisés pour prévenir l'encéphalopathie hépatique.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des complications de l'hypertension portale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Concentration plaquettaire",
+      "definition": "Produit sanguin contenant des plaquettes concentrées, utilisé pour corriger la thrombocytopénie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "concentré plaquettaire"
+      ],
+      "related_terms": [
+        "thrombocytopénie",
+        "produit sanguin"
+      ],
+      "description": "Utilisé pour corriger la thrombocytopénie chez les patients à risque.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies digestives.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ligature élastique",
+      "definition": "Technique endoscopique utilisant des élastiques pour ligaturer les varices œsophagiennes.",
+      "category": "imagerie",
+      "synonyms": [
+        "ligature à l'élastique"
+      ],
+      "related_terms": [
+        "varices œsophagiennes",
+        "ligature"
+      ],
+      "description": "Méthode de référence pour le traitement des varices œsophagiennes.",
+      "expansion": null,
+      "clinical_significance": "Efficacité élevée et complications rares.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Sclérothérapie",
+      "definition": "Technique endoscopique utilisant un agent sclérosant pour oblitérer les varices.",
+      "category": "imagerie",
+      "synonyms": [
+        "sclérose des varices"
+      ],
+      "related_terms": [
+        "varices",
+        "agent sclérosant"
+      ],
+      "description": "Utilisée pour traiter les varices en provoquant une thrombose et une compression.",
+      "expansion": null,
+      "clinical_significance": "Efficacité comparable à la ligature élastique mais avec des complications possibles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Polidocanol 1%",
+      "definition": "Agent sclérosant utilisé pour la sclérothérapie des varices.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "agent sclérosant",
+        "sclérothérapie"
+      ],
+      "description": "Utilisé pour oblitérer les varices en provoquant une thrombose et une compression.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des varices.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Douleur rétro-sternale",
+      "definition": "Douleur située derrière le sternum, souvent associée à des problèmes œsophagiens ou cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "douleur thoracique"
+      ],
+      "related_terms": [
+        "douleur",
+        "sternum"
+      ],
+      "description": "Complication possible de la sclérothérapie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une évaluation médicale pour déterminer la cause.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fièvre transitoire",
+      "definition": "Élévation temporaire de la température corporelle, souvent due à une réaction inflammatoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "fièvre temporaire"
+      ],
+      "related_terms": [
+        "fièvre",
+        "réaction inflammatoire"
+      ],
+      "description": "Complication possible de la sclérothérapie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une surveillance médicale pour déterminer la cause.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ulcère post sclérose",
+      "definition": "Ulcère qui se forme après une procédure de sclérothérapie.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcère post-sclérothérapie"
+      ],
+      "related_terms": [
+        "ulcère",
+        "sclérothérapie"
+      ],
+      "description": "Complication quasi constante de la sclérothérapie.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion médicale pour prévenir les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Injection de colle biologique",
+      "definition": "Technique endoscopique utilisant une colle biologique pour oblitérer les varices gastriques.",
+      "category": "imagerie",
+      "synonyms": [
+        "injection de colle"
+      ],
+      "related_terms": [
+        "varices gastriques",
+        "colle biologique"
+      ],
+      "description": "Utilisée pour traiter les varices gastriques.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des varices gastriques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bucrylate",
+      "definition": "Colle biologique utilisée pour l'injection dans les varices gastriques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "colle biologique",
+        "varices gastriques"
+      ],
+      "description": "Utilisée pour oblitérer les varices gastriques.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des varices gastriques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Histoacryl",
+      "definition": "Colle biologique utilisée pour l'injection dans les varices gastriques.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "colle biologique",
+        "varices gastriques"
+      ],
+      "description": "Utilisée pour oblitérer les varices gastriques.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour le traitement des varices gastriques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TIPS",
+      "definition": "Transjugular Intrahepatic Portosystemic Shunt, procédure pour créer une anastomose porto-cave par voie transjugulaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "shunt porto-systémique intra-hépatique transjugulaire"
+      ],
+      "related_terms": [
+        "anastomose porto-cave",
+        "hypertension portale"
+      ],
+      "description": "Utilisé pour traiter les hémorragies digestives dues à l'hypertension portale.",
+      "expansion": "Transjugular Intrahepatic Portosystemic Shunt",
+      "clinical_significance": "Efficace pour la gestion des hémorragies digestives réfractaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anastomoses porto-cave calibrées",
+      "definition": "Connexions chirurgicales entre la veine porte et la veine cave, utilisant un greffon de Gortex pour contrôler le flux sanguin.",
+      "category": "anatomie",
+      "synonyms": [
+        "shunt porto-cave calibré"
+      ],
+      "related_terms": [
+        "anastomose",
+        "greffon de Gortex"
+      ],
+      "description": "Utilisées pour traiter les hémorragies digestives réfractaires.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la gestion des hémorragies digestives réfractaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Gortex",
+      "definition": "Matériau synthétique utilisé pour créer des greffons vasculaires.",
+      "category": "anatomie",
+      "synonyms": [],
+      "related_terms": [
+        "greffon vasculaire",
+        "matériau synthétique"
+      ],
+      "description": "Utilisé pour créer des anastomoses porto-cave calibrées.",
+      "expansion": null,
+      "clinical_significance": "Efficace pour la gestion des hémorragies digestives réfractaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HD",
+      "definition": "Hémorragie Digestive.",
+      "category": "acronyme",
+      "synonyms": [
+        "hémorragie digestive"
+      ],
+      "related_terms": [
+        "hémorragie digestive haute",
+        "hémorragie digestive basse"
+      ],
+      "description": "L'hémorragie digestive peut être haute ou basse, selon la localisation de la source de saignement.",
+      "expansion": "Hémorragie Digestive",
+      "clinical_significance": "Les hémorragies digestives sont des urgences médicales nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie digestive",
+        "saignement gastro-intestinal"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Child-Pugh C",
+      "definition": "Score de classification de la gravité de la cirrhose, basé sur des paramètres cliniques et biologiques.",
+      "category": "classification",
+      "synonyms": [
+        "score de Child-Pugh"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "insuffisance hépatique"
+      ],
+      "description": "Le score de Child-Pugh est utilisé pour évaluer la gravité de la cirrhose et pour guider les décisions thérapeutiques.",
+      "expansion": null,
+      "clinical_significance": "Un score de Child-Pugh C indique une cirrhose sévère avec un mauvais pronostic.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Child-Pugh score",
+        "cirrhosis classification"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "b-bloquant non cardiosélectif",
+      "definition": "Médicament qui bloque les récepteurs bêta-adrénergiques sans sélectivité pour les récepteurs cardiaques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquant non cardiosélectif"
+      ],
+      "related_terms": [
+        "Propranolol",
+        "Nadolol",
+        "Carvédilol"
+      ],
+      "description": "Les bêta-bloquants non cardiosélectifs sont utilisés pour réduire la pression portale et prévenir les hémorragies variqueuses.",
+      "expansion": null,
+      "clinical_significance": "Ces médicaments sont essentiels dans la prévention primaire et secondaire des hémorragies variqueuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "bêta-bloquant",
+        "Propranolol"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ligature endoscopique",
+      "definition": "Technique endoscopique utilisée pour ligaturer les varices œsophagiennes afin de prévenir les hémorragies.",
+      "category": "imagerie",
+      "synonyms": [
+        "ligature des varices"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "varices œsophagiennes"
+      ],
+      "description": "La ligature endoscopique est une procédure efficace pour traiter et prévenir les hémorragies variqueuses.",
+      "expansion": null,
+      "clinical_significance": "Cette technique est souvent utilisée en combinaison avec des bêta-bloquants pour une meilleure efficacité.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ligature endoscopique",
+        "varices œsophagiennes"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression hépatique",
+      "definition": "Pression sanguine dans le système porte hépatique, souvent élevée dans la cirrhose.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypertension portale"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "varices œsophagiennes"
+      ],
+      "description": "L'hypertension portale est une complication majeure de la cirrhose et peut entraîner des varices œsophagiennes.",
+      "expansion": null,
+      "clinical_significance": "La réduction de la pression hépatique est un objectif thérapeutique clé dans la gestion de la cirrhose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypertension portale",
+        "cirrhose"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mmol/L",
+      "definition": "Millimoles par litre, une unité de concentration utilisée en biochimie clinique.",
+      "category": "physiologie",
+      "synonyms": [
+        "millimoles par litre"
+      ],
+      "related_terms": [
+        "hyponatrémie",
+        "électrolytes"
+      ],
+      "description": "Le mmol/L est utilisé pour mesurer les concentrations de divers électrolytes et substances dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Une hyponatrémie < 130 mmol/L est un signe de déséquilibre électrolytique sévère.",
+      "normal_values": null,
+      "image_search_terms": [
+        "mmol/L",
+        "hyponatrémie"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GD",
+      "definition": "Gastroduodénal.",
+      "category": "acronyme",
+      "synonyms": [
+        "gastroduodénal"
+      ],
+      "related_terms": [
+        "ulcère gastroduodénal",
+        "hémorragie digestive haute"
+      ],
+      "description": "Le terme gastroduodénal fait référence à l'estomac et au duodénum.",
+      "expansion": "Gastroduodénal",
+      "clinical_significance": "Les ulcères gastroduodénaux sont une cause fréquente d'hémorragies digestives hautes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "gastroduodénal",
+        "ulcère gastroduodénal"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sucralfate",
+      "definition": "Médicament cytoprotecteur utilisé pour traiter les ulcères gastroduodénaux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "sucralfate"
+      ],
+      "related_terms": [
+        "cytoprotection",
+        "ulcère gastroduodénal"
+      ],
+      "description": "Le sucralfate forme une barrière protectrice sur la muqueuse gastrique, favorisant la cicatrisation des ulcères.",
+      "expansion": null,
+      "clinical_significance": "Le sucralfate est utilisé pour prévenir les hémorragies digestives chez les patients à risque.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sucralfate",
+        "cytoprotection"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibroscopie œso-gastroduodénale",
+      "definition": "Examen endoscopique de l'œsophage, de l'estomac et du duodénum.",
+      "category": "imagerie",
+      "synonyms": [
+        "endoscopie œso-gastroduodénale"
+      ],
+      "related_terms": [
+        "endoscopie",
+        "gastroscopie"
+      ],
+      "description": "La fibroscopie œso-gastroduodénale est utilisée pour diagnostiquer et traiter les hémorragies digestives hautes.",
+      "expansion": null,
+      "clinical_significance": "Cet examen est essentiel pour identifier la source des hémorragies digestives hautes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "fibroscopie œso-gastroduodénale",
+        "endoscopie"
+      ],
+      "subject_id": "fc7f2549-640b-4e71-9d3a-36ec003f1ad6",
+      "source_file": "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Chirurgie Générale/Hémorragies Digestives/Courses/34 Les hémorragies digestives 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM.md"
+  ],
+  "total_terms": 143
+}

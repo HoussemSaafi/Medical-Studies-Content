@@ -1,0 +1,914 @@
+{
+  "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+  "terms": [
+    {
+      "term": "syndrome clinique",
+      "definition": "Ensemble de signes et symptômes cliniques qui apparaissent ensemble et caractérisent une condition médicale.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome"
+      ],
+      "related_terms": [
+        "symptôme",
+        "signes cliniques"
+      ],
+      "description": "Un syndrome clinique est un groupe de signes et symptômes qui, ensemble, caractérisent une condition médicale spécifique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychose aiguë",
+      "definition": "État mental caractérisé par une perte de contact avec la réalité, souvent accompagné d'hallucinations et de délires, survenant de manière soudaine et intense.",
+      "category": "pathologie",
+      "synonyms": [
+        "psychose"
+      ],
+      "related_terms": [
+        "hallucinations",
+        "délires"
+      ],
+      "description": "La psychose aiguë est une condition psychiatrique sévère où le patient perd le contact avec la réalité de manière soudaine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "delirium",
+      "definition": "Syndrome caractérisé par une perturbation de la conscience et une modification du comportement cognitif, souvent réversible et transitoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "confusion mentale"
+      ],
+      "related_terms": [
+        "délire onirique",
+        "hallucinations"
+      ],
+      "description": "Le delirium est un état confusionnel aigu souvent causé par une souffrance cérébrale diffuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "démence",
+      "definition": "Déclin progressif et chronique des fonctions cognitives, incluant la mémoire, le raisonnement et la pensée.",
+      "category": "pathologie",
+      "synonyms": [
+        "démence sénile"
+      ],
+      "related_terms": [
+        "Alzheimer",
+        "déficit cognitif"
+      ],
+      "description": "La démence est une condition neurodégénérative caractérisée par une perte progressive des fonctions cognitives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "faciès",
+      "definition": "Expression faciale ou apparence du visage, souvent utilisée pour décrire des caractéristiques cliniques spécifiques.",
+      "category": "anatomie",
+      "synonyms": [
+        "expression faciale"
+      ],
+      "related_terms": [
+        "mimique",
+        "visage"
+      ],
+      "description": "Le faciès est l'apparence du visage, souvent utilisée pour décrire des caractéristiques cliniques spécifiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "psychomoteur",
+      "definition": "Relatif à l'activité motrice influencée par des processus psychologiques.",
+      "category": "physiologie",
+      "synonyms": [
+        "comportement psychomoteur"
+      ],
+      "related_terms": [
+        "agitation",
+        "apathie"
+      ],
+      "description": "Le comportement psychomoteur est l'activité motrice influencée par des processus psychologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "onirisme",
+      "definition": "État mental caractérisé par des hallucinations et des illusions, souvent comparé à un état de rêve éveillé.",
+      "category": "pathologie",
+      "synonyms": [
+        "délire onirique"
+      ],
+      "related_terms": [
+        "hallucinations",
+        "illusions"
+      ],
+      "description": "L'onirisme est un état mental caractérisé par des hallucinations et des illusions, souvent comparé à un état de rêve éveillé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ecmnésie",
+      "definition": "Hallucination de la mémoire où des souvenirs du passé sont ressentis et revécus comme actuels.",
+      "category": "pathologie",
+      "synonyms": [
+        "ecmnésie"
+      ],
+      "related_terms": [
+        "hallucinations",
+        "déjà-vu"
+      ],
+      "description": "L'ecmnésie est une hallucination de la mémoire où des souvenirs du passé sont ressentis et revécus comme actuels.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "illusions visuelles",
+      "definition": "Perceptions visuelles erronées ou déformées de la réalité, souvent associées à des troubles neurologiques ou psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hallucinations visuelles"
+      ],
+      "related_terms": [
+        "illusions auditives"
+      ],
+      "description": "Les illusions visuelles peuvent être des symptômes de diverses conditions médicales, y compris les états confusionnels et les troubles psychotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "illusions auditives",
+      "definition": "Perceptions auditives erronées ou déformées de la réalité, souvent associées à des troubles neurologiques ou psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hallucinations auditives"
+      ],
+      "related_terms": [
+        "illusions visuelles"
+      ],
+      "description": "Les illusions auditives peuvent être des symptômes de diverses conditions médicales, y compris les états confusionnels et les troubles psychotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "délire",
+      "definition": "État mental caractérisé par des idées fausses et des hallucinations, souvent associé à des troubles psychiatriques ou neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "état délirant"
+      ],
+      "related_terms": [
+        "onirisme",
+        "hallucinations"
+      ],
+      "description": "Le délire peut être un symptôme de diverses conditions médicales, y compris les états confusionnels et les troubles psychotiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "zoopsies",
+      "definition": "Hallucinations visuelles caractérisées par la perception d'animaux, souvent observées dans les états confusionnels ou toxiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hallucinations animales"
+      ],
+      "related_terms": [
+        "onirisme",
+        "délire"
+      ],
+      "description": "Les zoopsies sont des hallucinations visuelles spécifiques où le patient voit des animaux, souvent dans des contextes de confusion mentale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysphasie",
+      "definition": "Trouble de la parole et du langage, souvent associé à des lésions cérébrales.",
+      "category": "pathologie",
+      "synonyms": [
+        "aphasie"
+      ],
+      "related_terms": [
+        "incoordination",
+        "incontinence urinaire"
+      ],
+      "description": "La dysphasie peut être un symptôme de diverses conditions neurologiques, y compris les accidents vasculaires cérébraux et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "incoordination",
+      "definition": "Trouble de la coordination des mouvements, souvent associé à des lésions cérébrales ou des troubles neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "ataxie"
+      ],
+      "related_terms": [
+        "dysphasie",
+        "incontinence urinaire"
+      ],
+      "description": "L'incoordination peut être un symptôme de diverses conditions neurologiques, y compris les accidents vasculaires cérébraux et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "incontinence urinaire",
+      "definition": "Incapacité à contrôler la miction, souvent associée à des troubles neurologiques ou urinaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "énurésie"
+      ],
+      "related_terms": [
+        "dysphasie",
+        "incoordination"
+      ],
+      "description": "L'incontinence urinaire peut être un symptôme de diverses conditions médicales, y compris les troubles neurologiques et les infections urinaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyperazotémie",
+      "definition": "Augmentation du taux d'azote uréique dans le sang, souvent associée à une insuffisance rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "azotémie"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "urémie"
+      ],
+      "description": "L'hyperazotémie est un indicateur de dysfonctionnement rénal et peut être associée à diverses conditions médicales, y compris les insuffisances rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hyper-protidémie",
+      "definition": "Augmentation du taux de protéines dans le sang, souvent associée à des troubles métaboliques ou rénaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "protéinémie élevée"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "dysfonctionnement hépatique"
+      ],
+      "description": "L'hyper-protidémie peut être un indicateur de diverses conditions médicales, y compris les insuffisances rénales et les dysfonctionnements hépatiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidocétose",
+      "definition": "État métabolique caractérisé par une acidité excessive du sang due à une accumulation de cétones.",
+      "category": "pathologie",
+      "synonyms": [
+        "cétose acide"
+      ],
+      "related_terms": [
+        "diabète",
+        "jeûne prolongé"
+      ],
+      "description": "L'acidocétose est souvent associée à des conditions médicales telles que le diabète et le jeûne prolongé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "aphasie",
+      "definition": "Trouble de la parole et du langage, souvent associé à des lésions cérébrales.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysphasie"
+      ],
+      "related_terms": [
+        "amnésie",
+        "apraxie"
+      ],
+      "description": "L'aphasie peut être un symptôme de diverses conditions neurologiques, y compris les accidents vasculaires cérébraux et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amnésie",
+      "definition": "Perte de mémoire, souvent associée à des troubles neurologiques ou psychiatriques.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de la mémoire"
+      ],
+      "related_terms": [
+        "aphasie",
+        "apraxie"
+      ],
+      "description": "L'amnésie peut être un symptôme de diverses conditions médicales, y compris les troubles neurologiques et les traumatismes crâniens.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apraxie",
+      "definition": "Incapacité à exécuter des mouvements volontaires malgré une motricité intacte, souvent associée à des lésions cérébrales.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de l'exécution motrice"
+      ],
+      "related_terms": [
+        "aphasie",
+        "amnésie"
+      ],
+      "description": "L'apraxie peut être un symptôme de diverses conditions neurologiques, y compris les accidents vasculaires cérébraux et les tumeurs cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BDA",
+      "definition": "Bouffée délirante aiguë, état de confusion mentale aiguë caractérisé par des hallucinations et un délire polymorphe.",
+      "category": "acronyme",
+      "synonyms": null,
+      "related_terms": [
+        "confusion mentale",
+        "delirium"
+      ],
+      "description": "La BDA est souvent associée à des troubles psychiatriques et peut être un indicateur de diverses conditions médicales.",
+      "expansion": "Bouffée délirante aiguë",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Korsakoff",
+      "definition": "Syndrome caractérisé par une amnésie sévère et des troubles de la mémoire, souvent associé à une carence en thiamine.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Korsakoff"
+      ],
+      "related_terms": [
+        "amnésie",
+        "démence"
+      ],
+      "description": "Le syndrome de Korsakoff est souvent associé à une carence en thiamine et peut être un indicateur de diverses conditions médicales, y compris l'alcoolisme chronique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "délirium",
+      "definition": "État de confusion aiguë caractérisé par une altération de la conscience, une désorientation, des hallucinations et une agitation.",
+      "category": "pathologie",
+      "synonyms": [
+        "délire aigu",
+        "syndrome confusionnel aigu"
+      ],
+      "related_terms": [
+        "confusion",
+        "hallucinations"
+      ],
+      "description": "Le délirium est souvent causé par des infections, des médicaments, des troubles métaboliques ou des intoxications.",
+      "expansion": null,
+      "clinical_significance": "Le délirium est une urgence médicale nécessitant une évaluation rapide et un traitement de la cause sous-jacente.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paraphasies",
+      "definition": "Erreurs de langage où des mots ou des syllabes sont substitués, omis ou déformés.",
+      "category": "pathologie",
+      "synonyms": [
+        "erreurs de langage"
+      ],
+      "related_terms": [
+        "aphasie",
+        "troubles du langage"
+      ],
+      "description": "Les paraphasies sont courantes dans les troubles du langage comme l'aphasie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stupeur confusionnelle",
+      "definition": "État de confusion sévère caractérisé par une diminution de la réactivité à l'environnement et une réduction de l'activité motrice.",
+      "category": "pathologie",
+      "synonyms": [
+        "stupeur",
+        "état de stupeur"
+      ],
+      "related_terms": [
+        "confusion",
+        "désorientation"
+      ],
+      "description": "La stupeur confusionnelle peut être causée par des troubles psychiatriques, des intoxications ou des lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "désorientation temporospatiale",
+      "definition": "Perte de la capacité à reconnaître le temps et l'espace, souvent associée à des troubles cognitifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "désorientation",
+        "confusion temporospatiale"
+      ],
+      "related_terms": [
+        "démence",
+        "confusion"
+      ],
+      "description": "La désorientation temporospatiale est un symptôme courant dans les états confusionnels et les démences.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Edème papillaire",
+      "definition": "Gonflement de la papille optique, souvent dû à une augmentation de la pression intracrânienne.",
+      "category": "pathologie",
+      "synonyms": [
+        "œdème papillaire"
+      ],
+      "related_terms": [
+        "papille optique",
+        "hypertension intracrânienne"
+      ],
+      "description": "L'œdème papillaire peut être causé par des tumeurs cérébrales, des hémorragies ou des infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECBU",
+      "definition": "Examen cytobactériologique des urines, un test qui analyse les urines pour détecter des infections urinaires.",
+      "category": "imagerie",
+      "synonyms": [
+        "examen cytobactériologique des urines"
+      ],
+      "related_terms": [
+        "infection urinaire",
+        "analyse d'urine"
+      ],
+      "description": "L'ECBU est utilisé pour diagnostiquer des infections urinaires et des troubles rénaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "R.A.A.",
+      "definition": "Rhumatisme articulaire aigu, une maladie inflammatoire qui peut survenir après une infection streptococcique.",
+      "category": "pathologie",
+      "synonyms": [
+        "rhumatisme articulaire aigu"
+      ],
+      "related_terms": [
+        "streptocoque",
+        "inflammation"
+      ],
+      "description": "Le R.A.A. peut affecter le cœur, les articulations, le cerveau et la peau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Encéphalopathie carentielle",
+      "definition": "Trouble cérébral causé par une carence en nutriments essentiels, souvent en vitamines.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie carentielle"
+      ],
+      "related_terms": [
+        "carence en nutriments",
+        "vitamines"
+      ],
+      "description": "L'encéphalopathie carentielle peut entraîner des troubles de la conscience, des convulsions et des troubles cognitifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tumeur cérébrale",
+      "definition": "Masse anormale de cellules dans le cerveau, pouvant être bénigne ou maligne.",
+      "category": "pathologie",
+      "synonyms": [
+        "tumeur cérébrale"
+      ],
+      "related_terms": [
+        "masse cérébrale",
+        "cancer du cerveau"
+      ],
+      "description": "Les tumeurs cérébrales peuvent causer des symptômes variés, y compris des maux de tête, des troubles de la vision et des déficits neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Return",
+      "definition": "Retour veineux, le flux sanguin retournant vers le cœur.",
+      "category": "physiologie",
+      "synonyms": [
+        "retour veineux"
+      ],
+      "related_terms": [
+        "flux sanguin",
+        "circulation"
+      ],
+      "description": "Le retour veineux est essentiel pour maintenir la circulation sanguine et la fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dysthyroïdies",
+      "definition": "Troubles de la fonction thyroïdienne, incluant l'hypothyroïdie et l'hyperthyroïdie.",
+      "category": "pathologie",
+      "synonyms": [
+        "dysthyroïdies"
+      ],
+      "related_terms": [
+        "hypothyroïdie",
+        "hyperthyroïdie"
+      ],
+      "description": "Les dysthyroïdies peuvent causer des symptômes variés, y compris des troubles de l'humeur, de la fatigue et des troubles cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Délirium tremens",
+      "definition": "État de confusion sévère et de tremblements, souvent associé au sevrage alcoolique.",
+      "category": "pathologie",
+      "synonyms": [
+        "délirium tremens"
+      ],
+      "related_terms": [
+        "sevrage alcoolique",
+        "confusion"
+      ],
+      "description": "Le délirium tremens peut entraîner des hallucinations, des convulsions et des troubles cardiovasculaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Encéphalopathie de Gayet-Wernicke",
+      "definition": "Encéphalopathie grave causée par une carence en thiamine (vitamine B1), souvent associée à l'alcoolisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie de Gayet-Wernicke"
+      ],
+      "related_terms": [
+        "thiamine",
+        "alcoolisme"
+      ],
+      "description": "L'encéphalopathie de Gayet-Wernicke peut causer des troubles de la conscience, des troubles oculomoteurs et des troubles de l'équilibre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Psychose puerpérale",
+      "definition": "Trouble psychiatrique sévère survenant après l'accouchement, caractérisé par des hallucinations, des délires et une confusion mentale.",
+      "category": "pathologie",
+      "synonyms": [
+        "Psychose post-partum"
+      ],
+      "related_terms": [
+        "Dépression post-partum",
+        "Baby blues"
+      ],
+      "description": "La psychose puerpérale est une urgence psychiatrique nécessitant une hospitalisation immédiate et un traitement médicamenteux.",
+      "expansion": null,
+      "clinical_significance": "Peut mettre en danger la vie de la mère et de l'enfant si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Schizophrénie",
+      "definition": "Trouble mental chronique caractérisé par des symptômes tels que des hallucinations, des délires, une désorganisation de la pensée et des comportements sociaux anormaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Psychose",
+        "Trouble bipolaire"
+      ],
+      "description": "La schizophrénie est souvent traitée par une combinaison de médicaments antipsychotiques et de thérapies psychosociales.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une détérioration significative du fonctionnement social et professionnel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Confusion mentale primitive",
+      "definition": "État de confusion mentale sans cause organique identifiable, souvent lié à des facteurs psychogènes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Confusion mentale psychogène"
+      ],
+      "related_terms": [
+        "Confusion mentale réactionnelle"
+      ],
+      "description": "La confusion mentale primitive est souvent traitée par des interventions psychothérapeutiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Confusion mentale post émotionnelle et réactionnelle",
+      "definition": "État de confusion mentale résultant de situations de stress intense ou de traumatismes psychiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Confusion mentale réactionnelle"
+      ],
+      "related_terms": [
+        "Stress post-traumatique",
+        "Confusion mentale primitive"
+      ],
+      "description": "Le traitement inclut souvent une prise en charge psychologique et un soutien émotionnel.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Idées fixes post-oniriques",
+      "definition": "Convictions persistantes de la réalité de scènes vécues pendant un état confusionnel, qui disparaissent généralement après quelques jours.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Délire post-onirique"
+      ],
+      "description": "Ces idées fixes peuvent nécessiter une intervention psychologique pour aider le patient à revenir à la réalité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome physique",
+      "definition": "Ensemble de symptômes physiques associés à une condition médicale sous-jacente.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Syndrome clinique"
+      ],
+      "description": "Le syndrome physique peut inclure des symptômes tels que la fièvre, la douleur, ou des troubles neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Délire chronique post-onirique",
+      "definition": "État délirant persistant après un épisode confusionnel, souvent avec des caractéristiques schizophréniques ou paranoïaques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Délire post-onirique",
+        "Schizophrénie"
+      ],
+      "description": "Le traitement peut inclure des antipsychotiques et une thérapie psychologique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Complications traumatiques",
+      "definition": "Problèmes de santé résultant de blessures physiques, souvent causées par des comportements de fuite ou des chutes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Traumatismes",
+        "Blessures"
+      ],
+      "description": "Les complications traumatiques peuvent inclure des fractures, des contusions et des lésions internes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fugue",
+      "definition": "État dissociatif caractérisé par une perte de mémoire et une errance loin de l'environnement habituel.",
+      "category": "pathologie",
+      "synonyms": [
+        "Errance dissociative"
+      ],
+      "related_terms": [
+        "Amnésie dissociative"
+      ],
+      "description": "La fugue est souvent associée à des traumatismes psychiques et nécessite une évaluation psychiatrique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Délire aigu",
+      "definition": "État de confusion mentale soudain et sévère, souvent accompagné d'agitation, de fièvre élevée et de déshydratation.",
+      "category": "pathologie",
+      "synonyms": [
+        "Délire aigu avec agitation"
+      ],
+      "related_terms": [
+        "Delirium",
+        "Encéphalopathie"
+      ],
+      "description": "Le délire aigu nécessite une intervention médicale immédiate pour traiter les symptômes et identifier la cause sous-jacente.",
+      "expansion": null,
+      "clinical_significance": "Peut être potentiellement mortel si non traité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "f0a1e16c-7721-499c-ba3a-805d653a9738",
+      "source_file": "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Psychiatrie/États Confusionnels/Courses/29 Les états confusionnels 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM 3.09.34 AM.md"
+  ],
+  "total_terms": 46
+}

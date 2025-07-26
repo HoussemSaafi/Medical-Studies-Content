@@ -1,0 +1,3671 @@
+{
+  "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+  "terms": [
+    {
+      "term": "choc hémorragique",
+      "definition": "État critique caractérisé par une diminution du volume sanguin circulant, entraînant une hypoperfusion tissulaire et une anoxie cellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "état de choc hémorragique"
+      ],
+      "related_terms": [
+        "hypoperfusion tissulaire",
+        "anoxie cellulaire"
+      ],
+      "description": "Le choc hémorragique est une urgence médicale nécessitant une intervention rapide pour restaurer l'apport en oxygène aux tissus.",
+      "expansion": null,
+      "clinical_significance": "La précocité de la prise en charge est cruciale pour éviter la défaillance multi-systémique et le décès.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc hémorragique",
+        "hypoperfusion tissulaire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microcirculatoires",
+      "definition": "Réseau de petits vaisseaux sanguins, incluant les artérioles, les capillaires et les veinules, qui assurent l'échange de gaz et de nutriments entre le sang et les tissus.",
+      "category": "anatomie",
+      "synonyms": [
+        "microcirculation"
+      ],
+      "related_terms": [
+        "artérioles",
+        "capillaires",
+        "veinules"
+      ],
+      "description": "Les altérations microcirculatoires peuvent entraîner une hypoperfusion tissulaire et des complications systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "microcirculation",
+        "capillaires"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "étiologique",
+      "definition": "Relatif à la cause ou à l'origine d'une maladie ou d'un état pathologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "causal"
+      ],
+      "related_terms": [
+        "diagnostic étiologique"
+      ],
+      "description": "Le diagnostic étiologique vise à identifier la cause sous-jacente d'un état de choc hémorragique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "diagnostic étiologique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypovolémique",
+      "definition": "Caractérisé par une diminution du volume sanguin circulant, souvent due à une perte de sang ou de fluides corporels.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypovolémie"
+      ],
+      "related_terms": [
+        "choc hypovolémique"
+      ],
+      "description": "Le choc hypovolémique est une forme de choc résultant d'une perte significative de volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypovolémie",
+        "choc hypovolémique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoperfusion tissulaire",
+      "definition": "Réduction du flux sanguin vers les tissus, entraînant une insuffisance d'apport en oxygène et en nutriments.",
+      "category": "physiologie",
+      "synonyms": [
+        "hypoperfusion"
+      ],
+      "related_terms": [
+        "anoxie cellulaire",
+        "ischémie"
+      ],
+      "description": "L'hypoperfusion tissulaire peut conduire à une anoxie cellulaire et à des dysfonctionnements organiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoperfusion",
+        "ischémie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anaérobie",
+      "definition": "Relatif à des processus biologiques qui se déroulent en l'absence d'oxygène.",
+      "category": "physiologie",
+      "synonyms": [
+        "anaérobie"
+      ],
+      "related_terms": [
+        "métabolisme anaérobie"
+      ],
+      "description": "Le métabolisme anaérobie est une voie métabolique utilisée par les cellules en l'absence d'oxygène.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "métabolisme anaérobie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose lactique",
+      "definition": "État pathologique caractérisé par une accumulation de lactate dans le sang, entraînant une acidification du milieu interne.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose"
+      ],
+      "related_terms": [
+        "lactate",
+        "acidification"
+      ],
+      "description": "L'acidose lactique est souvent associée à une hypoperfusion tissulaire et à une anoxie cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidose lactique",
+        "lactate"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sympathique",
+      "definition": "Relatif au système nerveux sympathique, une partie du système nerveux autonome responsable de la réponse 'combat ou fuite'.",
+      "category": "physiologie",
+      "synonyms": [
+        "système nerveux sympathique"
+      ],
+      "related_terms": [
+        "réponse sympathique",
+        "vasoconstriction"
+      ],
+      "description": "Le système nerveux sympathique joue un rôle crucial dans la régulation de la pression artérielle et de la réponse au stress.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "système nerveux sympathique",
+        "vasoconstriction"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "barorécepteurs",
+      "definition": "Récepteurs sensibles aux variations de pression sanguine, situés principalement dans le sinus carotidien et la crosse aortique.",
+      "category": "anatomie",
+      "synonyms": [
+        "barorécepteurs"
+      ],
+      "related_terms": [
+        "sinus carotidien",
+        "crosse aortique"
+      ],
+      "description": "Les barorécepteurs jouent un rôle clé dans la régulation de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "barorécepteurs",
+        "sinus carotidien"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "medulla oblongata",
+      "definition": "Partie du tronc cérébral responsable de fonctions vitales telles que la respiration, la régulation cardiaque et les réflexes vasomoteurs.",
+      "category": "anatomie",
+      "synonyms": [
+        "moelle allongée"
+      ],
+      "related_terms": [
+        "tronc cérébral",
+        "réflexes vasomoteurs"
+      ],
+      "description": "La medulla oblongata est essentielle pour le maintien des fonctions vitales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "medulla oblongata",
+        "tronc cérébral"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système nerveux adrénergique",
+      "definition": "Partie du système nerveux autonome utilisant l'adrénaline comme neurotransmetteur, impliquée dans la réponse au stress et la régulation de la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [
+        "système adrénergique"
+      ],
+      "related_terms": [
+        "adrénaline",
+        "réponse au stress"
+      ],
+      "description": "Le système nerveux adrénergique est activé en réponse à l'hypotension artérielle pour maintenir la pression sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "système adrénergique",
+        "adrénaline"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chémorécepteurs",
+      "definition": "Récepteurs sensibles aux variations chimiques dans le sang, tels que les changements de pH, de PaO2 et de PaCO2.",
+      "category": "anatomie",
+      "synonyms": [
+        "chémorécepteurs"
+      ],
+      "related_terms": [
+        "pH",
+        "PaO2",
+        "PaCO2"
+      ],
+      "description": "Les chémorécepteurs jouent un rôle dans la détection des changements chimiques dans le sang et la régulation de la respiration.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "chémorécepteurs",
+        "pH"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstriction",
+      "definition": "Rétrécissement des vaisseaux sanguins, entraînant une diminution du flux sanguin et une augmentation de la pression artérielle.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasoconstriction"
+      ],
+      "related_terms": [
+        "rétrécissement des vaisseaux",
+        "augmentation de la pression artérielle"
+      ],
+      "description": "La vasoconstriction est une réponse compensatoire à l'hypotension artérielle pour maintenir la perfusion des organes vitaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasoconstriction",
+        "vaisseaux sanguins"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstriction splanchnique",
+      "definition": "Rétrécissement des vaisseaux sanguins dans la région splanchnique, qui inclut les organes abdominaux tels que l'intestin, le foie et la rate.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasoconstriction splanchnique"
+      ],
+      "related_terms": [
+        "splanchnique",
+        "organes abdominaux"
+      ],
+      "description": "La vasoconstriction splanchnique peut entraîner une ischémie des organes abdominaux et contribuer au syndrome de défaillance multiviscérale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasoconstriction splanchnique",
+        "organes abdominaux"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de défaillance multiviscérale (SDMV)",
+      "definition": "État pathologique caractérisé par la défaillance simultanée de plusieurs organes vitaux, souvent consécutif à un choc sévère ou à une infection grave.",
+      "category": "pathologie",
+      "synonyms": [
+        "SDMV",
+        "défaillance multiviscérale"
+      ],
+      "related_terms": [
+        "choc sévère",
+        "infection grave"
+      ],
+      "description": "Le syndrome de défaillance multiviscérale est une complication grave du choc hémorragique, nécessitant une prise en charge intensive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de défaillance multiviscérale",
+        "défaillance multiviscérale"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "débit cardiaque",
+      "definition": "Volume de sang pompé par le cœur par minute, calculé comme le produit de la fréquence cardiaque et du volume d'éjection systolique.",
+      "category": "physiologie",
+      "synonyms": [
+        "débit cardiaque"
+      ],
+      "related_terms": [
+        "fréquence cardiaque",
+        "volume d'éjection systolique"
+      ],
+      "description": "Le débit cardiaque est un indicateur clé de la fonction cardiaque et de la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "débit cardiaque",
+        "fréquence cardiaque"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "système rénine-angiotensine",
+      "definition": "Système hormonal qui régule la pression artérielle et le bilan hydrique par la libération de rénine et la formation d'angiotensine II.",
+      "category": "physiologie",
+      "synonyms": [
+        "système rénine-angiotensine"
+      ],
+      "related_terms": [
+        "rénine",
+        "angiotensine II"
+      ],
+      "description": "Le système rénine-angiotensine joue un rôle crucial dans la régulation de la pression artérielle et la réponse à l'hypotension.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "système rénine-angiotensine",
+        "angiotensine II"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression artérielle",
+      "definition": "La pression exercée par le sang sur les parois des artères, mesurée en millimètres de mercure (mmHg).",
+      "category": "physiologie",
+      "synonyms": [
+        "tension artérielle"
+      ],
+      "related_terms": [
+        "hypertension",
+        "hypotension"
+      ],
+      "description": "La pression artérielle est un indicateur crucial de la santé cardiovasculaire et est souvent mesurée en deux valeurs : la pression systolique (pression maximale lors de la contraction du cœur) et la pression diastolique (pression minimale lors du relâchement du cœur).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "120/80 mmHg",
+      "image_search_terms": [
+        "pression artérielle",
+        "tension artérielle"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bradycardie paradoxale",
+      "definition": "Ralentissement anormal du rythme cardiaque en réponse à une situation où une accélération serait attendue, comme dans le cas d'un choc hémorragique.",
+      "category": "physiologie",
+      "synonyms": [
+        "bradycardie"
+      ],
+      "related_terms": [
+        "tachycardie",
+        "arythmie"
+      ],
+      "description": "La bradycardie paradoxale est souvent observée dans des situations de stress physiologique extrême où le cœur ne parvient pas à augmenter son rythme pour compenser la baisse de la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bradycardie",
+        "rythme cardiaque"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "catécholamines",
+      "definition": "Hormones sécrétées par la médullosurrénale, incluant l'adrénaline et la noradrénaline, qui jouent un rôle crucial dans la réponse au stress et la régulation de la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "adrénaline",
+        "noradrénaline"
+      ],
+      "related_terms": [
+        "hormones",
+        "médullosurrénale"
+      ],
+      "description": "Les catécholamines sont libérées en réponse à des situations de stress ou de danger, augmentant la fréquence cardiaque et la pression artérielle pour préparer le corps à l'action.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "catécholamines",
+        "adrénaline"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "récepteurs cardiopulmonaires",
+      "definition": "Récepteurs situés dans le cœur et les poumons qui détectent les changements de volume et de pression sanguine, jouant un rôle dans la régulation de la pression artérielle.",
+      "category": "anatomie",
+      "synonyms": [
+        "barorécepteurs",
+        "mécanorécepteurs"
+      ],
+      "related_terms": [
+        "récepteurs vasculaires",
+        "récepteurs de pression"
+      ],
+      "description": "Les récepteurs cardiopulmonaires envoient des signaux au système nerveux central pour ajuster la fréquence cardiaque et la pression artérielle en réponse aux changements de volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "récepteurs cardiopulmonaires",
+        "barorécepteurs"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasodilatation",
+      "definition": "Élargissement des vaisseaux sanguins, entraînant une diminution de la résistance vasculaire et une augmentation du flux sanguin.",
+      "category": "physiologie",
+      "synonyms": [
+        "dilatation vasculaire"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "résistance vasculaire"
+      ],
+      "description": "La vasodilatation peut être induite par des substances chimiques, des nerfs ou des changements physiques, et elle joue un rôle crucial dans la régulation de la pression artérielle et de la distribution du flux sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasodilatation",
+        "dilatation vasculaire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microcirculation",
+      "definition": "Réseau de petits vaisseaux sanguins, incluant les artérioles, les capillaires et les veinules, où se produisent les échanges de gaz et de nutriments entre le sang et les tissus.",
+      "category": "physiologie",
+      "synonyms": [
+        "circulation capillaire"
+      ],
+      "related_terms": [
+        "microvasculature",
+        "capillaires"
+      ],
+      "description": "La microcirculation est essentielle pour l'oxygénation et la nutrition des tissus, et des altérations de ce réseau peuvent entraîner des dysfonctionnements tissulaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "microcirculation",
+        "circulation capillaire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "microvasculaire",
+      "definition": "Relatif aux petits vaisseaux sanguins, tels que les artérioles, les capillaires et les veinules.",
+      "category": "anatomie",
+      "synonyms": [
+        "microvascularisation"
+      ],
+      "related_terms": [
+        "microcirculation",
+        "capillaires"
+      ],
+      "description": "Le réseau microvasculaire est crucial pour l'échange de gaz et de nutriments entre le sang et les tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "microvasculaire",
+        "microvascularisation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "O2",
+      "definition": "Symbole chimique de l'oxygène, un gaz essentiel pour la respiration et le métabolisme cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "oxygène"
+      ],
+      "related_terms": [
+        "respiration",
+        "métabolisme"
+      ],
+      "description": "L'oxygène est transporté par les globules rouges dans le sang et est utilisé par les cellules pour produire de l'énergie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "O2",
+        "oxygène"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adénosine triphosphate (ATP)",
+      "definition": "Molécule qui stocke et transporte l'énergie chimique dans les cellules, essentielle pour le métabolisme cellulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "ATP"
+      ],
+      "related_terms": [
+        "énergie cellulaire",
+        "métabolisme"
+      ],
+      "description": "L'ATP est produit par la respiration cellulaire et est utilisé pour alimenter diverses réactions chimiques dans la cellule.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "adénosine triphosphate",
+        "ATP"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EDC hémorragique traumatique",
+      "definition": "État de choc hémorragique résultant d'un traumatisme, caractérisé par une perte de sang importante et une insuffisance de perfusion tissulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc hémorragique traumatique"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "traumatisme"
+      ],
+      "description": "L'EDC hémorragique traumatique nécessite une intervention rapide pour stabiliser le patient et restaurer la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EDC hémorragique traumatique",
+        "choc hémorragique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cardiovasculaires",
+      "definition": "Relatif au système cardiovasculaire, qui comprend le cœur et les vaisseaux sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "système cardiovasculaire"
+      ],
+      "related_terms": [
+        "circulation sanguine",
+        "cœur"
+      ],
+      "description": "Le système cardiovasculaire est responsable de la circulation du sang dans le corps, fournissant de l'oxygène et des nutriments aux tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cardiovasculaires",
+        "système cardiovasculaire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "B-bloquant",
+      "definition": "Médicament qui bloque les récepteurs bêta-adrénergiques, utilisés pour traiter l'hypertension, l'angine de poitrine et d'autres conditions cardiovasculaires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "bêta-bloquant"
+      ],
+      "related_terms": [
+        "récepteurs bêta-adrénergiques",
+        "hypertension"
+      ],
+      "description": "Les bêta-bloquants réduisent la fréquence cardiaque et la force de contraction du cœur, diminuant ainsi la demande en oxygène du myocarde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "B-bloquant",
+        "bêta-bloquant"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rénine-angiotensine-aldostérone",
+      "definition": "Système hormonal qui régule la pression artérielle et l'équilibre hydrique en libérant des hormones comme l'angiotensine II et l'aldostérone.",
+      "category": "physiologie",
+      "synonyms": [
+        "RAAS"
+      ],
+      "related_terms": [
+        "hypertension",
+        "aldostérone"
+      ],
+      "description": "Le système rénine-angiotensine-aldostérone est activé en réponse à une baisse de la pression artérielle, entraînant une vasoconstriction et une rétention de sodium et d'eau pour augmenter le volume sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rénine-angiotensine-aldostérone",
+        "RAAS"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PA",
+      "definition": "Abréviation de pression artérielle, la pression exercée par le sang sur les parois des artères.",
+      "category": "physiologie",
+      "synonyms": [
+        "pression artérielle"
+      ],
+      "related_terms": [
+        "hypertension",
+        "hypotension"
+      ],
+      "description": "La PA est un indicateur crucial de la santé cardiovasculaire et est souvent mesurée en deux valeurs : la pression systolique et la pression diastolique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PA",
+        "pression artérielle"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VST",
+      "definition": "Volume sanguin total, la quantité totale de sang dans le corps.",
+      "category": "physiologie",
+      "synonyms": [
+        "volume sanguin"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "hypervolémie"
+      ],
+      "description": "Le VST est un indicateur important de l'état de perfusion tissulaire et de la fonction cardiovasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "VST",
+        "volume sanguin total"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coagulopathie",
+      "definition": "Trouble de la coagulation sanguine, caractérisé par une incapacité à former des caillots sanguins normaux, pouvant entraîner des saignements excessifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "trouble de la coagulation"
+      ],
+      "related_terms": [
+        "hémostase",
+        "saignement"
+      ],
+      "description": "La coagulopathie peut être due à des carences en facteurs de coagulation, à des médicaments ou à des conditions médicales sous-jacentes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "coagulopathie",
+        "trouble de la coagulation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs de la coagulation",
+      "definition": "Protéines présentes dans le sang qui interagissent pour former des caillots sanguins et arrêter les saignements.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteurs de coagulation"
+      ],
+      "related_terms": [
+        "hémostase",
+        "coagulation"
+      ],
+      "description": "Les facteurs de la coagulation sont essentiels pour la formation de caillots sanguins et la prévention de saignements excessifs.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "facteurs de la coagulation",
+        "coagulation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dilution",
+      "definition": "Réduction de la concentration d'une substance par l'ajout d'un liquide, souvent utilisé dans le contexte de la réanimation pour décrire la diminution de la concentration des facteurs de coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "dilution"
+      ],
+      "related_terms": [
+        "réanimation",
+        "facteurs de coagulation"
+      ],
+      "description": "La dilution peut entraîner une coagulopathie en réduisant la concentration des facteurs de coagulation dans le sang.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "dilution",
+        "réanimation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose",
+      "definition": "État pathologique caractérisé par une accumulation excessive d'acide dans le sang, entraînant une diminution du pH sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidémie"
+      ],
+      "related_terms": [
+        "alcalose",
+        "pH sanguin"
+      ],
+      "description": "L'acidose peut être causée par une insuffisance respiratoire, une insuffisance rénale ou un métabolisme anaérobie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidose",
+        "acidémie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypothermie",
+      "definition": "État de température corporelle anormalement basse, souvent en dessous de 35°C, pouvant entraîner des dysfonctionnements physiologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypothermie"
+      ],
+      "related_terms": [
+        "hyperthermie",
+        "température corporelle"
+      ],
+      "description": "L'hypothermie peut être causée par une exposition prolongée au froid, une perte de chaleur corporelle ou une réanimation massive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypothermie",
+        "température corporelle"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémostase",
+      "definition": "Processus physiologique qui arrête le saignement et maintient le sang à l'état fluide dans les vaisseaux sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "coagulation"
+      ],
+      "related_terms": [
+        "facteurs de coagulation",
+        "saignement"
+      ],
+      "description": "L'hémostase implique la formation de caillots sanguins pour arrêter les saignements et la dissolution des caillots pour maintenir la circulation sanguine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hémostase",
+        "coagulation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoperfusion",
+      "definition": "État de diminution du débit sanguin dans les tissus, entraînant une insuffisance d'apport en oxygène et en nutriments.",
+      "category": "physiologie",
+      "synonyms": [
+        "ischémie"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "anoxie"
+      ],
+      "description": "L'hypoperfusion peut être causée par une diminution du débit cardiaque, une vasoconstriction ou une obstruction vasculaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des dommages tissulaires et des dysfonctionnements d'organes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoperfusion",
+        "ischémie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasminogènes",
+      "definition": "Protéines inactives qui, lorsqu'elles sont activées, deviennent des plasmines, des enzymes qui dégradent la fibrine dans les caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "plasminogène"
+      ],
+      "related_terms": [
+        "fibrinolyse",
+        "plasmine"
+      ],
+      "description": "Les plasminogènes jouent un rôle crucial dans la dissolution des caillots sanguins et la régulation de la coagulation.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plasminogène",
+        "fibrinolyse"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fibrinolyse",
+      "definition": "Processus physiologique par lequel les caillots sanguins sont dissous par l'action de la plasmine.",
+      "category": "physiologie",
+      "synonyms": [
+        "fibrinolyse"
+      ],
+      "related_terms": [
+        "plasminogène",
+        "plasmine"
+      ],
+      "description": "La fibrinolyse est essentielle pour maintenir l'équilibre entre la coagulation et la dissolution des caillots.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "fibrinolyse",
+        "coagulation"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triade mortelle",
+      "definition": "Combinaison de coagulopathie, acidose et hypothermie, souvent observée chez les patients traumatisés avec hémorragie aiguë.",
+      "category": "pathologie",
+      "synonyms": [
+        "triade létale"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "traumatisme"
+      ],
+      "description": "La triade mortelle est associée à une augmentation significative de la mortalité chez les patients traumatisés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "triade mortelle",
+        "choc hémorragique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amines vasoactives",
+      "definition": "Médicaments utilisés pour augmenter la pression artérielle en stimulant les récepteurs adrénergiques, souvent utilisés dans le traitement du choc.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseurs"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "dopamine"
+      ],
+      "description": "Les amines vasoactives sont essentielles pour maintenir la perfusion tissulaire dans les états de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "amines vasoactives",
+        "vasopresseurs"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EDC hémorragique",
+      "definition": "État de choc hémorragique, caractérisé par une insuffisance circulatoire aiguë due à une perte de sang importante.",
+      "category": "pathologie",
+      "synonyms": [
+        "état de choc hémorragique"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "choc"
+      ],
+      "description": "L'EDC hémorragique nécessite une intervention rapide pour contrôler le saignement et restaurer la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EDC hémorragique",
+        "choc hémorragique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance circulatoire aigue",
+      "definition": "État critique où le débit sanguin est insuffisant pour répondre aux besoins métaboliques des tissus, entraînant une ischémie.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc circulatoire"
+      ],
+      "related_terms": [
+        "hypotension",
+        "hypoperfusion"
+      ],
+      "description": "L'insuffisance circulatoire aiguë peut être causée par une hémorragie, une déshydratation sévère ou une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "insuffisance circulatoire aigue",
+        "choc circulatoire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachycardie",
+      "definition": "Augmentation anormale de la fréquence cardiaque, généralement supérieure à 100 battements par minute chez l'adulte.",
+      "category": "physiologie",
+      "synonyms": [
+        "tachycardie"
+      ],
+      "related_terms": [
+        "bradycardie",
+        "arythmie"
+      ],
+      "description": "La tachycardie peut être physiologique (effort, stress) ou pathologique (fièvre, anémie, insuffisance cardiaque).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tachycardie",
+        "fréquence cardiaque"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "oligoanurie",
+      "definition": "Diminution anormale de la production d'urine, généralement inférieure à 0,5 ml/kg/h.",
+      "category": "pathologie",
+      "synonyms": [
+        "oligoanurie"
+      ],
+      "related_terms": [
+        "anurie",
+        "polyurie"
+      ],
+      "description": "L'oligoanurie peut être un signe de déshydratation, d'insuffisance rénale ou de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "oligoanurie",
+        "production d'urine"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstriction cutanée",
+      "definition": "Rétrécissement des vaisseaux sanguins cutanés, réduisant le flux sanguin vers la peau.",
+      "category": "physiologie",
+      "synonyms": [
+        "vasoconstriction"
+      ],
+      "related_terms": [
+        "vasodilatation",
+        "ischémie"
+      ],
+      "description": "La vasoconstriction cutanée peut être un mécanisme compensatoire pour maintenir la pression artérielle en cas de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vasoconstriction cutanée",
+        "vasoconstriction"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypotension artérielle",
+      "definition": "État de pression artérielle anormalement basse, généralement inférieure à 90/60 mmHg.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypotension"
+      ],
+      "related_terms": [
+        "hypertension",
+        "hypotension orthostatique"
+      ],
+      "description": "L'hypotension artérielle peut être causée par une hémorragie, une déshydratation ou une insuffisance cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypotension artérielle",
+        "pression artérielle"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypoperfusion cérébrale",
+      "definition": "Diminution du débit sanguin cérébral, entraînant une insuffisance d'apport en oxygène et en nutriments au cerveau.",
+      "category": "pathologie",
+      "synonyms": [
+        "ischémie cérébrale"
+      ],
+      "related_terms": [
+        "AVC",
+        "hypoxie cérébrale"
+      ],
+      "description": "L'hypoperfusion cérébrale peut entraîner des troubles neurologiques tels que la confusion, l'agitation ou la perte de conscience.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hypoperfusion cérébrale",
+        "ischémie cérébrale"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polypnée",
+      "definition": "Augmentation anormale de la fréquence respiratoire, généralement supérieure à 20 respirations par minute chez l'adulte.",
+      "category": "physiologie",
+      "synonyms": [
+        "tachypnée"
+      ],
+      "related_terms": [
+        "bradypnée",
+        "dyspnée"
+      ],
+      "description": "La polypnée peut être un signe de détresse respiratoire, d'acidose métabolique ou de fièvre.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polypnée",
+        "fréquence respiratoire"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acidose métabolique",
+      "definition": "État pathologique caractérisé par une accumulation d'acide dans le sang due à des processus métaboliques anormaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "acidose métabolique"
+      ],
+      "related_terms": [
+        "acidose respiratoire",
+        "alcalose métabolique"
+      ],
+      "description": "L'acidose métabolique peut être causée par une insuffisance rénale, un diabète non contrôlé ou une intoxication.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "acidose métabolique",
+        "acidose"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cyanose",
+      "definition": "Coloration bleuâtre de la peau et des muqueuses due à une insuffisance d'oxygénation du sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "cyanose"
+      ],
+      "related_terms": [
+        "hypoxie",
+        "hypoxémie"
+      ],
+      "description": "La cyanose peut être un signe de maladies cardiaques, pulmonaires ou de choc.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cyanose",
+        "hypoxie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polytraumatisme",
+      "definition": "État de blessures multiples et graves affectant plusieurs parties du corps, souvent résultant d'un accident ou d'un traumatisme majeur.",
+      "category": "pathologie",
+      "synonyms": [
+        "polytraumatisme"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "fracture"
+      ],
+      "description": "Le polytraumatisme nécessite une évaluation et une prise en charge rapides et coordonnées pour stabiliser le patient.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polytraumatisme",
+        "traumatisme"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Advanced Trauma Life Support",
+      "definition": "Programme de formation médicale visant à fournir des soins immédiats et appropriés aux patients traumatisés.",
+      "category": "classification",
+      "synonyms": [
+        "ATLS"
+      ],
+      "related_terms": [
+        "Advanced Life Support",
+        "ALS"
+      ],
+      "description": "L'ATLS est un protocole standardisé pour l'évaluation et la gestion des traumatismes graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Advanced Trauma Life Support",
+        "ATLS"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "American College of Surgeons",
+      "definition": "Organisation professionnelle de chirurgiens dédiée à l'amélioration de la qualité des soins chirurgicaux.",
+      "category": "classification",
+      "synonyms": [
+        "ACS"
+      ],
+      "related_terms": [
+        "Collège Américain des Chirurgiens"
+      ],
+      "description": "L'ACS développe des programmes de formation et des protocoles pour la gestion des traumatismes et des soins chirurgicaux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "American College of Surgeons",
+        "ACS"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ECG",
+      "definition": "Électrocardiogramme, un test qui enregistre l'activité électrique du cœur pour diagnostiquer les anomalies cardiaques.",
+      "category": "imagerie",
+      "synonyms": [
+        "électrocardiogramme"
+      ],
+      "related_terms": [
+        "électrocardiographie",
+        "ECG"
+      ],
+      "description": "L'ECG est utilisé pour détecter les arythmies, les infarctus du myocarde et d'autres troubles cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ECG",
+        "électrocardiogramme"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SpO2",
+      "definition": "Saturation pulsée en oxygène, une mesure non invasive de la saturation en oxygène du sang artériel.",
+      "category": "physiologie",
+      "synonyms": [
+        "saturation en oxygène"
+      ],
+      "related_terms": [
+        "oxymétrie de pouls",
+        "SaO2"
+      ],
+      "description": "La SpO2 est utilisée pour évaluer l'oxygénation du sang et détecter l'hypoxémie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SpO2",
+        "saturation en oxygène"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pression artérielle non invasive",
+      "definition": "Mesure de la pression artérielle sans pénétration de la peau, généralement à l'aide d'un brassard gonflable.",
+      "category": "physiologie",
+      "synonyms": [
+        "PANI"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "tensiomètre"
+      ],
+      "description": "La PANI est utilisée pour surveiller la pression artérielle de manière non invasive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Pression artérielle non invasive",
+        "PANI"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PA moyenne",
+      "definition": "Pression artérielle moyenne, calculée comme la moyenne de la pression artérielle systolique et diastolique.",
+      "category": "physiologie",
+      "synonyms": [
+        "PAM"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "pression artérielle systolique"
+      ],
+      "description": "La PAM est utilisée pour évaluer la perfusion tissulaire et la fonction cardiaque.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PA moyenne",
+        "PAM"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EDC & hémorragique",
+      "definition": "État de choc hémorragique (EDC) caractérisé par une perte de sang importante et rapide.",
+      "category": "pathologie",
+      "synonyms": [
+        "état de choc hémorragique"
+      ],
+      "related_terms": [
+        "hypovolémie",
+        "hypotension"
+      ],
+      "description": "L'EDC hémorragique nécessite une intervention rapide pour restaurer le volume sanguin et la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une défaillance multiviscérale et la mort si non traité rapidement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voies veineux périphériques",
+      "definition": "Accès veineux obtenus par insertion d'un cathéter dans une veine périphérique, généralement au niveau des bras.",
+      "category": "anatomie",
+      "synonyms": [
+        "voie veineuse périphérique",
+        "VVP"
+      ],
+      "related_terms": [
+        "cathéter veineux central",
+        "voie veineuse centrale"
+      ],
+      "description": "Les voies veineuses périphériques sont utilisées pour l'administration rapide de fluides et de médicaments.",
+      "expansion": null,
+      "clinical_significance": "Essentielles pour le traitement initial du choc hémorragique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gauge",
+      "definition": "Unité de mesure utilisée pour déterminer le diamètre des cathéters et des aiguilles.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "calibre"
+      ],
+      "related_terms": [
+        "French"
+      ],
+      "description": "Le calibre des cathéters est crucial pour l'administration rapide de fluides.",
+      "expansion": null,
+      "clinical_significance": "Un calibre approprié est essentiel pour une perfusion efficace.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathéter veineux central",
+      "definition": "Dispositif médical inséré dans une grande veine centrale pour l'administration de fluides, de médicaments ou pour la surveillance hémodynamique.",
+      "category": "anatomie",
+      "synonyms": [
+        "voie veineuse centrale"
+      ],
+      "related_terms": [
+        "voie veineuse périphérique",
+        "voie fémorale"
+      ],
+      "description": "Utilisé lorsque l'accès veineux périphérique est insuffisant ou impossible.",
+      "expansion": null,
+      "clinical_significance": "Permet l'administration de médicaments vasoactifs et la surveillance hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voie fémorale",
+      "definition": "Accès veineux obtenu par insertion d'un cathéter dans la veine fémorale, située dans la région de l'aine.",
+      "category": "anatomie",
+      "synonyms": [
+        "accès fémoral"
+      ],
+      "related_terms": [
+        "territoire cave supérieur",
+        "cathéter veineux central"
+      ],
+      "description": "Utilisée en cas d'impossibilité d'accès veineux périphérique ou central.",
+      "expansion": null,
+      "clinical_significance": "Permet l'administration rapide de fluides et de médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "territoire cave supérieur",
+      "definition": "Région anatomique comprenant les veines qui drainent le sang vers la veine cave supérieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "veine cave supérieure"
+      ],
+      "related_terms": [
+        "voie fémorale",
+        "cathéter veineux central"
+      ],
+      "description": "Utilisé pour l'insertion de cathéters veineux centraux.",
+      "expansion": null,
+      "clinical_significance": "Permet l'administration de médicaments vasoactifs et la surveillance hémodynamique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "French",
+      "definition": "Unité de mesure utilisée pour déterminer le diamètre des cathéters et des dispositifs médicaux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "calibre"
+      ],
+      "related_terms": [
+        "gauge"
+      ],
+      "description": "Le calibre des cathéters est crucial pour l'administration rapide de fluides.",
+      "expansion": null,
+      "clinical_significance": "Un calibre approprié est essentiel pour une perfusion efficace.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "amines vasopressives",
+      "definition": "Médicaments utilisés pour augmenter la pression artérielle en stimulant la vasoconstriction.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseurs"
+      ],
+      "related_terms": [
+        "adrénaline",
+        "noradrénaline"
+      ],
+      "description": "Utilisés dans le traitement du choc hémorragique pour maintenir la pression artérielle.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour stabiliser l'état hémodynamique du patient.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perfusion intra-osseuse",
+      "definition": "Technique d'accès vasculaire obtenue par insertion d'une aiguille dans la moelle osseuse pour l'administration de fluides et de médicaments.",
+      "category": "anatomie",
+      "synonyms": [
+        "accès intra-osseux"
+      ],
+      "related_terms": [
+        "voie veineuse périphérique",
+        "cathéter veineux central"
+      ],
+      "description": "Utilisée en cas d'impossibilité d'accès veineux périphérique ou central.",
+      "expansion": null,
+      "clinical_significance": "Permet l'administration rapide de fluides et de médicaments.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diurèse",
+      "definition": "Quantité d'urine produite par les reins et excrétée par l'organisme.",
+      "category": "physiologie",
+      "synonyms": [
+        "production d'urine"
+      ],
+      "related_terms": [
+        "sonde vésicale",
+        "cathéter sus-pubien"
+      ],
+      "description": "La surveillance de la diurèse est essentielle pour évaluer la fonction rénale et l'état hémodynamique.",
+      "expansion": null,
+      "clinical_significance": "Une diminution de la diurèse peut indiquer une insuffisance rénale ou une hypovolémie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sonde vésicale",
+      "definition": "Dispositif médical inséré dans la vessie pour drainer l'urine et surveiller la diurèse.",
+      "category": "anatomie",
+      "synonyms": [
+        "sonde urinaire"
+      ],
+      "related_terms": [
+        "cathéter sus-pubien",
+        "diurèse"
+      ],
+      "description": "Utilisée pour surveiller la fonction rénale et l'état hémodynamique.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour la gestion des fluides chez les patients en état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathéter sus-pubien",
+      "definition": "Dispositif médical inséré au-dessus de l'os pubien pour drainer l'urine en cas de traumatisme du bassin.",
+      "category": "anatomie",
+      "synonyms": [
+        "cathéter supra-pubien"
+      ],
+      "related_terms": [
+        "sonde vésicale",
+        "diurèse"
+      ],
+      "description": "Utilisé en cas de traumatisme du bassin pour éviter les complications liées à l'insertion d'une sonde vésicale.",
+      "expansion": null,
+      "clinical_significance": "Permet la surveillance de la diurèse et la gestion des fluides.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "groupage ABO",
+      "definition": "Détermination du groupe sanguin ABO (A, B, AB, O) pour assurer la compatibilité des transfusions sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "typage ABO"
+      ],
+      "related_terms": [
+        "Rhésus",
+        "agglutinines irrégulières"
+      ],
+      "description": "Essentiel pour éviter les réactions transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": "Permet de sélectionner des produits sanguins compatibles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rhésus",
+      "definition": "Système de groupe sanguin basé sur la présence ou l'absence de l'antigène Rh (D) sur les globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "facteur Rh"
+      ],
+      "related_terms": [
+        "groupage ABO",
+        "agglutinines irrégulières"
+      ],
+      "description": "Essentiel pour éviter les réactions transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": "Permet de sélectionner des produits sanguins compatibles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agglutinines irrégulières",
+      "definition": "Anticorps présents dans le sang qui peuvent réagir avec des antigènes érythrocytaires autres que ceux du système ABO et Rh.",
+      "category": "pathologie",
+      "synonyms": [
+        "anticorps irréguliers"
+      ],
+      "related_terms": [
+        "groupage ABO",
+        "Rhésus"
+      ],
+      "description": "Leur détection est essentielle pour éviter les réactions transfusionnelles.",
+      "expansion": null,
+      "clinical_significance": "Permet de sélectionner des produits sanguins compatibles.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémoglobine capillaire",
+      "definition": "Mesure de la concentration d'hémoglobine dans le sang capillaire, souvent réalisée au lit du malade.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hb capillaire"
+      ],
+      "related_terms": [
+        "numération de la formule sanguine",
+        "numération plaquettaire"
+      ],
+      "description": "Utilisée pour évaluer l'état hématologique du patient.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter l'anémie et de surveiller l'efficacité des transfusions.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "numération de la formule sanguine",
+      "definition": "Analyse de sang qui compte et classifie les différents types de cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "NFS"
+      ],
+      "related_terms": [
+        "numération plaquettaire",
+        "hémoglobine capillaire"
+      ],
+      "description": "Utilisée pour évaluer l'état hématologique du patient.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter l'anémie, les infections et les troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "numération plaquettaire",
+      "definition": "Mesure du nombre de plaquettes dans le sang, essentielles pour la coagulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "compte plaquettaire"
+      ],
+      "related_terms": [
+        "numération de la formule sanguine",
+        "hémoglobine capillaire"
+      ],
+      "description": "Utilisée pour évaluer la fonction de coagulation du patient.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles de la coagulation et de surveiller l'efficacité des transfusions plaquettaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "taux de prothrombine",
+      "definition": "Mesure de la coagulation sanguine en évaluant le temps nécessaire pour la formation d'un caillot après ajout de thromboplastine.",
+      "category": "pathologie",
+      "synonyms": [
+        "TP"
+      ],
+      "related_terms": [
+        "temps de céphaline activée",
+        "INR"
+      ],
+      "description": "Utilisé pour évaluer la fonction de coagulation et surveiller les traitements anticoagulants.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "temps de céphaline activée",
+      "definition": "Mesure de la coagulation sanguine en évaluant le temps nécessaire pour la formation d'un caillot après ajout de céphaline activée.",
+      "category": "pathologie",
+      "synonyms": [
+        "TCA"
+      ],
+      "related_terms": [
+        "taux de prothrombine",
+        "INR"
+      ],
+      "description": "Utilisé pour évaluer la fonction de coagulation et surveiller les traitements anticoagulants.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "INR",
+      "definition": "International Normalized Ratio, une mesure standardisée du temps de prothrombine utilisée pour surveiller les traitements anticoagulants.",
+      "category": "pathologie",
+      "synonyms": [
+        "International Normalized Ratio"
+      ],
+      "related_terms": [
+        "taux de prothrombine",
+        "temps de céphaline activée"
+      ],
+      "description": "Utilisé pour évaluer la fonction de coagulation et surveiller les traitements anticoagulants.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dosage du fibrinogène",
+      "definition": "Mesure de la concentration de fibrinogène dans le sang, une protéine essentielle pour la coagulation.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrinogène"
+      ],
+      "related_terms": [
+        "taux de prothrombine",
+        "temps de céphaline activée",
+        "INR"
+      ],
+      "description": "Utilisé pour évaluer la fonction de coagulation et surveiller les troubles de la coagulation.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ionogramme plasmatique",
+      "definition": "Analyse des électrolytes dans le plasma sanguin, incluant le sodium, le potassium, le chlorure et le bicarbonate.",
+      "category": "pathologie",
+      "synonyms": [
+        "électrolytes plasmatiques"
+      ],
+      "related_terms": [
+        "urée",
+        "créatininémie"
+      ],
+      "description": "Utilisé pour évaluer l'équilibre électrolytique et la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les déséquilibres électrolytiques et les troubles rénaux.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "urée",
+      "definition": "Produit final du métabolisme des protéines, excrété par les reins.",
+      "category": "pathologie",
+      "synonyms": [
+        "azote uréique"
+      ],
+      "related_terms": [
+        "créatininémie",
+        "ionogramme plasmatique"
+      ],
+      "description": "Utilisée pour évaluer la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de l'urée peut indiquer une insuffisance rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "créatininémie",
+      "definition": "Mesure de la créatinine dans le sang, un produit de déchet du métabolisme musculaire excrété par les reins.",
+      "category": "pathologie",
+      "synonyms": [
+        "créatinine sérique"
+      ],
+      "related_terms": [
+        "urée",
+        "ionogramme plasmatique"
+      ],
+      "description": "Utilisée pour évaluer la fonction rénale.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la créatininémie peut indiquer une insuffisance rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "glycémie",
+      "definition": "Mesure de la concentration de glucose dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "taux de sucre dans le sang"
+      ],
+      "related_terms": [
+        "calcémie",
+        "gazométrie artérielle"
+      ],
+      "description": "Utilisée pour évaluer le métabolisme du glucose et détecter le diabète.",
+      "expansion": null,
+      "clinical_significance": "Permet de surveiller et de gérer les niveaux de glucose sanguin.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "calcémie",
+      "definition": "Mesure de la concentration de calcium dans le sang.",
+      "category": "pathologie",
+      "synonyms": [
+        "taux de calcium sanguin"
+      ],
+      "related_terms": [
+        "glycémie",
+        "gazométrie artérielle"
+      ],
+      "description": "Utilisée pour évaluer l'équilibre du calcium et la fonction parathyroïdienne.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles du métabolisme du calcium.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gazométrie artérielle",
+      "definition": "Analyse des gaz du sang artériel, incluant l'oxygène, le dioxyde de carbone, le pH et les électrolytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "gaz du sang artériel"
+      ],
+      "related_terms": [
+        "lactatémie",
+        "excès de base"
+      ],
+      "description": "Utilisée pour évaluer l'état respiratoire et métabolique du patient.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles respiratoires et métaboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lactatémie",
+      "definition": "Mesure de la concentration de lactate dans le sang, un produit du métabolisme anaérobie.",
+      "category": "pathologie",
+      "synonyms": [
+        "taux de lactate sanguin"
+      ],
+      "related_terms": [
+        "gazométrie artérielle",
+        "excès de base"
+      ],
+      "description": "Utilisée pour évaluer l'état métabolique et la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la lactatémie peut indiquer une hypoperfusion tissulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "excès de base",
+      "definition": "Mesure de la quantité de base nécessaire pour ramener le pH du sang à la normale, utilisée pour évaluer l'état acido-basique.",
+      "category": "pathologie",
+      "synonyms": [
+        "base excess"
+      ],
+      "related_terms": [
+        "gazométrie artérielle",
+        "lactatémie"
+      ],
+      "description": "Utilisée pour évaluer l'état acido-basique et la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Permet de détecter les troubles acido-basiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "transaminases",
+      "definition": "Enzymes hépatiques qui catalysent la transamination, utilisées comme marqueurs de la fonction hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "aminotransférases"
+      ],
+      "related_terms": [
+        "ALAT",
+        "ASAT"
+      ],
+      "description": "Utilisées pour évaluer la fonction hépatique et détecter les lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation des transaminases peut indiquer une hépatite ou une lésion hépatique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gamma-glutamyltransférase",
+      "definition": "Enzyme hépatique utilisée comme marqueur de la fonction hépatique et de la consommation d'alcool.",
+      "category": "pathologie",
+      "synonyms": [
+        "Gamma-GT"
+      ],
+      "related_terms": [
+        "phosphatases alcalines",
+        "bilirubine"
+      ],
+      "description": "Utilisée pour évaluer la fonction hépatique et détecter les lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la gamma-glutamyltransférase peut indiquer une hépatite ou une consommation excessive d'alcool.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilirubine",
+      "definition": "Produit de la dégradation de l'hémoglobine, excrété par le foie et utilisé comme marqueur de la fonction hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "bilirubine totale"
+      ],
+      "related_terms": [
+        "phosphatases alcalines",
+        "gamma-glutamyltransférase"
+      ],
+      "description": "Utilisée pour évaluer la fonction hépatique et détecter les lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la bilirubine peut indiquer une hépatite ou une obstruction biliaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cytolyse",
+      "definition": "Destruction des cellules, souvent utilisée pour décrire la destruction des hépatocytes dans le contexte de lésions hépatiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "lyse cellulaire"
+      ],
+      "related_terms": [
+        "hypotension",
+        "traumatisme abdominal"
+      ],
+      "description": "Utilisée pour évaluer la gravité des lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": "La cytolyse peut indiquer une hépatite ou une lésion hépatique sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisme abdominal",
+      "definition": "Lésion de l'abdomen pouvant affecter les organes internes, souvent associée à un traumatisme du bassin.",
+      "category": "pathologie",
+      "synonyms": [
+        "blessure abdominale"
+      ],
+      "related_terms": [
+        "cytolyse",
+        "hypotension"
+      ],
+      "description": "Utilisée pour évaluer la gravité des lésions abdominales.",
+      "expansion": null,
+      "clinical_significance": "Un traumatisme abdominal peut entraîner des complications graves, y compris une hémorragie interne.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilirubine libre",
+      "definition": "Forme non conjuguée de la bilirubine, non liée à l'albumine, pouvant traverser la barrière hémato-encéphalique.",
+      "category": "pathologie",
+      "synonyms": [
+        "bilirubine non conjuguée"
+      ],
+      "related_terms": [
+        "accident transfusionnel",
+        "hémolyse"
+      ],
+      "description": "Utilisée pour évaluer la fonction hépatique et détecter les lésions hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Une augmentation de la bilirubine libre peut indiquer une hémolyse ou un accident transfusionnel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "accident transfusionnel",
+      "definition": "Complication survenant lors d'une transfusion sanguine, pouvant inclure des réactions allergiques, des infections ou une hémolyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "réaction transfusionnelle"
+      ],
+      "related_terms": [
+        "bilirubine libre",
+        "hémolyse"
+      ],
+      "description": "Utilisée pour évaluer la sécurité des transfusions sanguines.",
+      "expansion": null,
+      "clinical_significance": "Un accident transfusionnel peut entraîner des complications graves, y compris une hémolyse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémolyse",
+      "definition": "Destruction des globules rouges, libérant de l'hémoglobine dans le plasma sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "lyse des globules rouges"
+      ],
+      "related_terms": [
+        "bilirubine libre",
+        "accident transfusionnel"
+      ],
+      "description": "Utilisée pour évaluer la fonction hématologique et détecter les lésions hématologiques.",
+      "expansion": null,
+      "clinical_significance": "L'hémolyse peut indiquer une anémie hémolytique ou un accident transfusionnel.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HELLP syndrome",
+      "definition": "Syndrome caractérisé par une hémolyse, une élévation des enzymes hépatiques et une thrombopénie, souvent associé à la prééclampsie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome HELLP"
+      ],
+      "related_terms": [
+        "bilirubine libre",
+        "hémolyse"
+      ],
+      "description": "Utilisé pour évaluer la gravité de la prééclampsie chez les parturientes.",
+      "expansion": null,
+      "clinical_significance": "Le syndrome HELLP peut entraîner des complications graves, y compris une insuffisance hépatique et une thrombopénie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémodilution",
+      "definition": "Réduction de la concentration des composants sanguins, notamment les globules rouges et les facteurs de coagulation, due à l'ajout de fluides.",
+      "category": "physiologie",
+      "synonyms": [
+        "dilution sanguine"
+      ],
+      "related_terms": [
+        "hypothermie",
+        "coagulopathie"
+      ],
+      "description": "Utilisée pour évaluer l'effet des fluides administrés sur la composition sanguine.",
+      "expansion": null,
+      "clinical_significance": "L'hémodilution peut entraîner une anémie et des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "expansion volémique",
+      "definition": "Augmentation du volume sanguin par l'administration de fluides, utilisée pour corriger l'hypovolémie et rétablir la perfusion tissulaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "réanimation volémique"
+      ],
+      "related_terms": [
+        "hémodilution",
+        "hypothermie"
+      ],
+      "description": "Utilisée pour corriger l'hypovolémie et rétablir la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "L'expansion volémique est essentielle pour la réanimation des patients en état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Low Volume Ressuscitation",
+      "definition": "Concept de réanimation utilisant des volumes de fluides limités pour éviter les complications liées à une expansion volémique excessive.",
+      "category": "physiologie",
+      "synonyms": [
+        "réanimation à faible volume"
+      ],
+      "related_terms": [
+        "Hypotensive Ressuscitation",
+        "expansion volémique"
+      ],
+      "description": "Utilisé pour éviter les complications liées à une expansion volémique excessive.",
+      "expansion": null,
+      "clinical_significance": "Permet de maintenir une pression artérielle suffisante sans aggraver le saignement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hypotensive Ressuscitation",
+      "definition": "Concept de réanimation visant à maintenir une pression artérielle légèrement inférieure à la normale pour éviter d'aggraver le saignement.",
+      "category": "physiologie",
+      "synonyms": [
+        "réanimation hypotensive"
+      ],
+      "related_terms": [
+        "Low Volume Ressuscitation",
+        "expansion volémique"
+      ],
+      "description": "Utilisé pour éviter d'aggraver le saignement tout en maintenant une perfusion tissulaire adéquate.",
+      "expansion": null,
+      "clinical_significance": "Permet de maintenir une pression artérielle suffisante sans aggraver le saignement.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémostase chirurgicale",
+      "definition": "Processus chirurgical visant à arrêter le saignement et à rétablir l'hémostase.",
+      "category": "pathologie",
+      "synonyms": [
+        "hémostase"
+      ],
+      "related_terms": [
+        "saignement",
+        "coagulation"
+      ],
+      "description": "L'hémostase chirurgicale est cruciale pour contrôler les saignements pendant et après une intervention chirurgicale.",
+      "expansion": null,
+      "clinical_significance": "Important pour prévenir les complications hémorragiques post-opératoires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiologie interventionnelle",
+      "definition": "Technique médicale utilisant des procédures d'imagerie pour guider des interventions minimement invasives.",
+      "category": "imagerie",
+      "synonyms": [
+        "radiologie interventive"
+      ],
+      "related_terms": [
+        "angiographie",
+        "embolisation"
+      ],
+      "description": "Permet de traiter des conditions telles que les hémorragies sans recourir à une chirurgie ouverte.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour des procédures diagnostiques et thérapeutiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression artérielle systolique",
+      "definition": "Pression maximale exercée par le sang sur les parois des artères lors de la contraction du cœur.",
+      "category": "physiologie",
+      "synonyms": [
+        "PAS"
+      ],
+      "related_terms": [
+        "pression artérielle diastolique",
+        "pression artérielle moyenne"
+      ],
+      "description": "Indicateur important de la fonction cardiaque et de la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "90-120 mmHg",
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pression artérielle moyenne",
+      "definition": "Moyenne de la pression artérielle systolique et diastolique au cours d'un cycle cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "PAM"
+      ],
+      "related_terms": [
+        "pression artérielle systolique",
+        "pression artérielle diastolique"
+      ],
+      "description": "Utilisée pour évaluer la perfusion globale des organes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "70-105 mmHg",
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "traumatisme crânien grave",
+      "definition": "Lésion sévère du crâne et du cerveau, souvent associée à une perte de conscience prolongée.",
+      "category": "pathologie",
+      "synonyms": [
+        "traumatisme crânien sévère"
+      ],
+      "related_terms": [
+        "coma",
+        "hématome intracrânien"
+      ],
+      "description": "Nécessite une prise en charge urgente et spécialisée pour éviter des séquelles neurologiques graves.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des complications neurologiques sévères et nécessite une surveillance étroite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Coma Glasgow Score",
+      "definition": "Échelle utilisée pour évaluer le niveau de conscience d'un patient, allant de 3 (coma profond) à 15 (pleinement éveillé).",
+      "category": "classification",
+      "synonyms": [
+        "Glasgow Coma Scale",
+        "GCS"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "coma"
+      ],
+      "description": "Utilisée pour évaluer la gravité des lésions cérébrales et suivre l'évolution neurologique.",
+      "expansion": null,
+      "clinical_significance": "Outil essentiel pour la prise en charge des patients traumatisés crâniens.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "monitorage cérébral",
+      "definition": "Surveillance continue des paramètres cérébraux pour détecter et traiter rapidement les complications neurologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "monitoring cérébral"
+      ],
+      "related_terms": [
+        "pression intracrânienne",
+        "oxymétrie cérébrale"
+      ],
+      "description": "Inclut la mesure de la pression intracrânienne, de l'oxygénation cérébrale et de l'activité électrique du cerveau.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour la gestion des patients avec des lésions cérébrales sévères.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "norépinephrine",
+      "definition": "Catécholamine utilisée comme vasopresseur pour augmenter la pression artérielle en cas de choc.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "noradrénaline"
+      ],
+      "related_terms": [
+        "adrénaline",
+        "dopamine"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, provoquant une vasoconstriction.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour maintenir la pression artérielle dans les états de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "solutés de remplissage",
+      "definition": "Solutions utilisées pour restaurer le volume sanguin et la pression artérielle en cas de choc hémorragique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "fluides de remplissage"
+      ],
+      "related_terms": [
+        "cristalloïdes",
+        "colloïdes"
+      ],
+      "description": "Incluent les cristalloïdes et les colloïdes, utilisés pour la réanimation volémique.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la réanimation des patients en état de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cristalloïdes",
+      "definition": "Solutions aqueuses contenant des électrolytes, utilisées pour le remplissage vasculaire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solutions cristalloïdes"
+      ],
+      "related_terms": [
+        "sérum physiologique",
+        "Ringer lactate"
+      ],
+      "description": "Exemples incluent le sérum physiologique et le Ringer lactate.",
+      "expansion": null,
+      "clinical_significance": "Utilisés en première intention pour la réanimation volémique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colloïdes",
+      "definition": "Solutions contenant de grandes molécules qui restent dans le compartiment vasculaire plus longtemps que les cristalloïdes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "solutions colloïdales"
+      ],
+      "related_terms": [
+        "hydroxyéthylamidons",
+        "gélatines fluides"
+      ],
+      "description": "Incluent les hydroxyéthylamidons et les gélatines fluides.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour le remplissage vasculaire en cas de choc hémorragique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "insuffisance rénale",
+      "definition": "Défaillance des reins à filtrer les déchets et à réguler les fluides et les électrolytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance rénale"
+      ],
+      "related_terms": [
+        "urémie",
+        "dialyse"
+      ],
+      "description": "Peut être aiguë ou chronique et nécessite une prise en charge spécialisée.",
+      "expansion": null,
+      "clinical_significance": "Complication grave pouvant nécessiter une dialyse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coagulation",
+      "definition": "Processus par lequel le sang se transforme de l'état liquide à l'état de gel, formant un caillot.",
+      "category": "physiologie",
+      "synonyms": [
+        "hémostase"
+      ],
+      "related_terms": [
+        "plaquettes",
+        "fibrinogène"
+      ],
+      "description": "Essentiel pour arrêter les saignements et réparer les vaisseaux sanguins endommagés.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement peut entraîner des saignements excessifs ou des thromboses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydroxyéthylamidons",
+      "definition": "Type de colloïde utilisé pour le remplissage vasculaire, dérivé de l'amidon.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HES"
+      ],
+      "related_terms": [
+        "colloïdes",
+        "gélatines fluides"
+      ],
+      "description": "Utilisé pour le remplissage vasculaire mais peut entraîner des effets indésirables.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des troubles de la coagulation et de l'insuffisance rénale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gélatines fluides",
+      "definition": "Type de colloïde utilisé pour le remplissage vasculaire, dérivé de la gélatine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "gélatines"
+      ],
+      "related_terms": [
+        "colloïdes",
+        "hydroxyéthylamidons"
+      ],
+      "description": "Utilisé pour le remplissage vasculaire mais peut entraîner des réactions allergiques.",
+      "expansion": null,
+      "clinical_significance": "Peut causer des réactions allergiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cascade inflammatoire",
+      "definition": "Série de réactions biochimiques qui se produisent en réponse à une infection ou à une blessure, impliquant des cytokines et des cellules immunitaires.",
+      "category": "physiologie",
+      "synonyms": [
+        "réponse inflammatoire"
+      ],
+      "related_terms": [
+        "cytokines",
+        "choc septique"
+      ],
+      "description": "Peut conduire à un syndrome de défaillances multiviscérales si non contrôlée.",
+      "expansion": null,
+      "clinical_significance": "Joue un rôle clé dans la réponse immunitaire mais peut devenir délétère si excessive.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de défaillances multiviscérales",
+      "definition": "Dysfonctionnement simultané de plusieurs organes, souvent en réponse à une infection sévère ou à un traumatisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "défaillance multiviscérale"
+      ],
+      "related_terms": [
+        "choc septique",
+        "sepsis"
+      ],
+      "description": "Condition grave avec un taux de mortalité élevé, nécessitant une prise en charge en soins intensifs.",
+      "expansion": null,
+      "clinical_significance": "Complication grave des états de choc et des infections sévères.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasoconstricteurs",
+      "definition": "Médicaments qui provoquent la constriction des vaisseaux sanguins, augmentant la pression artérielle.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasopresseurs"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "adrénaline"
+      ],
+      "description": "Utilisés pour traiter l'hypotension et le choc.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la gestion des états de choc mais peuvent avoir des effets délétères si mal utilisés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypovolémie",
+      "definition": "Diminution anormale du volume sanguin, souvent due à une perte de sang ou de fluides.",
+      "category": "pathologie",
+      "synonyms": [
+        "déshydratation"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "déshydratation"
+      ],
+      "description": "Peut entraîner une hypotension et une diminution de la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une réanimation volémique rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "résistances systémiques",
+      "definition": "Résistance totale au flux sanguin dans le système vasculaire systémique.",
+      "category": "physiologie",
+      "synonyms": [
+        "résistance vasculaire systémique"
+      ],
+      "related_terms": [
+        "pression artérielle",
+        "débit cardiaque"
+      ],
+      "description": "Déterminée par la pression artérielle et le débit cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la pression artérielle et de la perfusion tissulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perfusion d'organes",
+      "definition": "Flux sanguin vers les organes, essentiel pour leur fonctionnement et leur survie.",
+      "category": "physiologie",
+      "synonyms": [
+        "perfusion tissulaire"
+      ],
+      "related_terms": [
+        "débit cardiaque",
+        "pression artérielle"
+      ],
+      "description": "Une perfusion adéquate est cruciale pour éviter l'ischémie et la nécrose tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Altération de la perfusion peut entraîner des défaillances d'organes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "circulations rénales",
+      "definition": "Flux sanguin vers les reins, essentiel pour leur fonction de filtration et de régulation des fluides et des électrolytes.",
+      "category": "physiologie",
+      "synonyms": [
+        "perfusion rénale"
+      ],
+      "related_terms": [
+        "débit sanguin rénal",
+        "filtration glomérulaire"
+      ],
+      "description": "Une diminution de la circulation rénale peut entraîner une insuffisance rénale.",
+      "expansion": null,
+      "clinical_significance": "Important pour la fonction rénale et la régulation des fluides et des électrolytes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "circulations splanchniques",
+      "definition": "Flux sanguin vers les organes abdominaux, y compris l'intestin, le foie et la rate.",
+      "category": "physiologie",
+      "synonyms": [
+        "perfusion splanchnique"
+      ],
+      "related_terms": [
+        "ischémie intestinale",
+        "perfusion hépatique"
+      ],
+      "description": "Une diminution de la circulation splanchnique peut entraîner une ischémie intestinale et des complications hépatiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la fonction digestive et la prévention des complications abdominales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc septique",
+      "definition": "État de choc résultant d'une infection sévère, souvent associée à une réponse inflammatoire systémique.",
+      "category": "pathologie",
+      "synonyms": [
+        "sepsis sévère"
+      ],
+      "related_terms": [
+        "sepsis",
+        "syndrome de défaillances multiviscérales"
+      ],
+      "description": "Caractérisé par une hypotension réfractaire, une hypoperfusion tissulaire et une défaillance d'organes.",
+      "expansion": null,
+      "clinical_significance": "Condition grave avec un taux de mortalité élevé, nécessitant une prise en charge en soins intensifs.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Noradrénaline",
+      "definition": "Catécholamine utilisée comme vasopresseur pour augmenter la pression artérielle en cas de choc.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "norépinephrine"
+      ],
+      "related_terms": [
+        "adrénaline",
+        "dopamine"
+      ],
+      "description": "Agoniste des récepteurs alpha-1 adrénergiques, provoquant une vasoconstriction.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour maintenir la pression artérielle dans les états de choc.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Adrénaline",
+      "definition": "Hormone et neurotransmetteur utilisé comme vasopresseur et inotrope pour augmenter la pression artérielle et le débit cardiaque.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "épinéphrine"
+      ],
+      "related_terms": [
+        "noradrénaline",
+        "dopamine"
+      ],
+      "description": "Agoniste des récepteurs alpha et bêta adrénergiques, provoquant une vasoconstriction et une augmentation de la fréquence cardiaque.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour traiter l'hypotension et le choc anaphylactique.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "coagulation biologique",
+      "definition": "Processus par lequel le sang se transforme de l'état liquide à l'état de gel, formant un caillot.",
+      "category": "physiologie",
+      "synonyms": [
+        "hémostase"
+      ],
+      "related_terms": [
+        "plaquettes",
+        "fibrinogène"
+      ],
+      "description": "Essentiel pour arrêter les saignements et réparer les vaisseaux sanguins endommagés.",
+      "expansion": null,
+      "clinical_significance": "Dysfonctionnement peut entraîner des saignements excessifs ou des thromboses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TaO2",
+      "definition": "Transport d'oxygène dans le sang, déterminé par le contenu artériel en oxygène et le débit cardiaque.",
+      "category": "physiologie",
+      "synonyms": [
+        "transport d'oxygène artériel"
+      ],
+      "related_terms": [
+        "CaO2",
+        "DC"
+      ],
+      "description": "Indicateur important de la capacité du sang à transporter l'oxygène aux tissus.",
+      "expansion": null,
+      "clinical_significance": "Altération peut entraîner une hypoxie tissulaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CaO2",
+      "definition": "Contenu artériel en oxygène, mesuré en millilitres d'oxygène par litre de sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "contenu artériel en oxygène"
+      ],
+      "related_terms": [
+        "TaO2",
+        "hémoglobine"
+      ],
+      "description": "Déterminé par la concentration d'hémoglobine, la saturation en oxygène et la quantité d'oxygène dissous dans le sang.",
+      "expansion": null,
+      "clinical_significance": "Indicateur important de la capacité du sang à transporter l'oxygène.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémoglobine",
+      "definition": "Protéine présente dans les globules rouges, responsable du transport de l'oxygène dans le sang.",
+      "category": "physiologie",
+      "synonyms": [
+        "Hb"
+      ],
+      "related_terms": [
+        "globules rouges",
+        "oxygène"
+      ],
+      "description": "Essentielle pour le transport de l'oxygène des poumons aux tissus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "12-16 g/dL",
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasma frais congelé",
+      "definition": "Produit sanguin obtenu par centrifugation du sang total et congelé, contenant des facteurs de coagulation et des protéines plasmatiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "PFC"
+      ],
+      "related_terms": [
+        "concentrés de globules rouges",
+        "plaquettes"
+      ],
+      "description": "Utilisé pour corriger les troubles de la coagulation et remplacer les protéines plasmatiques.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion des hémorragies et des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "concentrés de globules rouges",
+      "definition": "Produit sanguin obtenu par centrifugation du sang total, contenant principalement des globules rouges.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "CGR"
+      ],
+      "related_terms": [
+        "plasma frais congelé",
+        "plaquettes"
+      ],
+      "description": "Utilisé pour augmenter la masse de globules rouges et améliorer le transport de l'oxygène.",
+      "expansion": null,
+      "clinical_significance": "Essentiel pour la gestion de l'anémie et des hémorragies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PFC",
+      "definition": "Plasma frais congelé, un produit sanguin utilisé pour remplacer les facteurs de coagulation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "plasma frais congelé"
+      ],
+      "related_terms": [
+        "facteurs de coagulation",
+        "transfusion"
+      ],
+      "description": "Le PFC est utilisé pour traiter les troubles de la coagulation et les hémorragies graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypocalcémie ionisée",
+      "definition": "Niveau bas de calcium ionisé dans le sang, la forme biologiquement active du calcium.",
+      "category": "pathologie",
+      "synonyms": [
+        "hypocalcémie ionisée"
+      ],
+      "related_terms": [
+        "calcium",
+        "hypocalcémie"
+      ],
+      "description": "L'hypocalcémie ionisée peut entraîner des troubles cardiovasculaires et neuromusculaires.",
+      "expansion": null,
+      "clinical_significance": "Peut aggraver la défaillance cardiovasculaire et les troubles de l'hémostase.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chlorure de calcium",
+      "definition": "Un sel de calcium utilisé pour traiter l'hypocalcémie et les troubles de l'hémostase.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "chlorure de calcium"
+      ],
+      "related_terms": [
+        "calcium",
+        "hypocalcémie"
+      ],
+      "description": "Le chlorure de calcium est administré pour maintenir des niveaux normaux de calcium ionisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gluconate de calcium",
+      "definition": "Un sel de calcium utilisé pour traiter l'hypocalcémie et les troubles de l'hémostase.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "gluconate de calcium"
+      ],
+      "related_terms": [
+        "calcium",
+        "hypocalcémie"
+      ],
+      "description": "Le gluconate de calcium est administré pour maintenir des niveaux normaux de calcium ionisé.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "acide tranéxamique",
+      "definition": "Un antifibrinolytique utilisé pour prévenir ou traiter les hémorragies excessives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "acide tranéxamique"
+      ],
+      "related_terms": [
+        "antifibrinolytique",
+        "hémorragie"
+      ],
+      "description": "L'acide tranéxamique inhibe la dégradation des caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GCS",
+      "definition": "Glasgow Coma Scale, un score utilisé pour évaluer le niveau de conscience d'un patient.",
+      "category": "classification",
+      "synonyms": [
+        "Glasgow Coma Scale"
+      ],
+      "related_terms": [
+        "coma",
+        "conscience"
+      ],
+      "description": "Le GCS est utilisé pour évaluer la gravité des lésions cérébrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": "15 (éveillé et alerte) à 3 (coma profond)",
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "détresse respiratoire",
+      "definition": "Difficulté respiratoire sévère nécessitant une intervention médicale immédiate.",
+      "category": "pathologie",
+      "synonyms": [
+        "détresse respiratoire"
+      ],
+      "related_terms": [
+        "respiration",
+        "insuffisance respiratoire"
+      ],
+      "description": "La détresse respiratoire peut être causée par diverses conditions médicales.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner une insuffisance respiratoire et la mort si non traitée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FAST echo",
+      "definition": "Focused Assessment with Sonography for Trauma, une échographie rapide utilisée pour évaluer les traumatismes.",
+      "category": "imagerie",
+      "synonyms": [
+        "FAST echo"
+      ],
+      "related_terms": [
+        "échographie",
+        "traumatisme"
+      ],
+      "description": "Le FAST echo est utilisé pour détecter rapidement les hémorragies internes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Damage Control Surgery",
+      "definition": "Stratégie chirurgicale pour stabiliser les patients gravement traumatisés avant de procéder à une réparation définitive.",
+      "category": "classification",
+      "synonyms": [
+        "Damage Control Surgery"
+      ],
+      "related_terms": [
+        "chirurgie",
+        "traumatisme"
+      ],
+      "description": "Le DCS vise à contrôler les lésions et à stabiliser le patient avant une intervention chirurgicale définitive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Damage Control Ressuscitation",
+      "definition": "Stratégie de réanimation visant à limiter le remplissage par les cristalloïdes et à transfuser du sang dès que possible.",
+      "category": "classification",
+      "synonyms": [
+        "Damage Control Ressuscitation"
+      ],
+      "related_terms": [
+        "réanimation",
+        "transfusion"
+      ],
+      "description": "La DCR est utilisée pour éviter l'hémodilution et aggraver la coagulopathie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ulcère gastroduodénal",
+      "definition": "Ulcère situé dans l'estomac ou le duodénum, souvent causé par une infection à Helicobacter pylori ou l'utilisation de médicaments anti-inflammatoires.",
+      "category": "pathologie",
+      "synonyms": [
+        "ulcère gastroduodénal"
+      ],
+      "related_terms": [
+        "ulcère",
+        "estomac",
+        "duodénum"
+      ],
+      "description": "Les ulcères gastroduodénaux peuvent causer des douleurs abdominales et des saignements.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des hémorragies digestives graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Mallory-Weiss",
+      "definition": "Déchirure de la muqueuse de l'œsophage ou de l'estomac, souvent causée par des vomissements violents.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Mallory-Weiss"
+      ],
+      "related_terms": [
+        "œsophage",
+        "estomac",
+        "vomissements"
+      ],
+      "description": "Le syndrome de Mallory-Weiss peut causer des hémorragies digestives.",
+      "expansion": null,
+      "clinical_significance": "Peut entraîner des hémorragies digestives graves.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endoscopie digestive",
+      "definition": "Procédure médicale utilisant un endoscope pour examiner le tractus digestif.",
+      "category": "imagerie",
+      "synonyms": [
+        "endoscopie digestive"
+      ],
+      "related_terms": [
+        "endoscope",
+        "tractus digestif"
+      ],
+      "description": "L'endoscopie digestive est utilisée pour diagnostiquer et traiter les conditions du tractus digestif.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gynéco-obstétricales",
+      "definition": "Relatif à la gynécologie et à l'obstétrique, c'est-à-dire aux soins médicaux concernant les organes reproducteurs féminins et la grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "gynécologiques",
+        "obstétricales"
+      ],
+      "related_terms": [
+        "postpartum",
+        "hystérectomie"
+      ],
+      "description": "Les hémorragies gynéco-obstétricales peuvent survenir pendant la grossesse, l'accouchement ou le postpartum et nécessitent une prise en charge rapide et adaptée.",
+      "expansion": null,
+      "clinical_significance": "Les hémorragies gynéco-obstétricales sont une cause majeure de morbidité et de mortalité maternelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie postpartum",
+        "hystérectomie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "postpartum",
+      "definition": "Période suivant immédiatement l'accouchement, généralement les six premières semaines après la naissance.",
+      "category": "pathologie",
+      "synonyms": [
+        "post-partum",
+        "postnatal"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "hystérectomie"
+      ],
+      "description": "Le postpartum est une période critique où des complications comme les hémorragies peuvent survenir.",
+      "expansion": null,
+      "clinical_significance": "La surveillance et la gestion des complications postpartum sont essentielles pour la santé maternelle.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hémorragie postpartum",
+        "soins postpartum"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hystérectomie d'hémostase",
+      "definition": "Ablation chirurgicale de l'utérus réalisée pour contrôler une hémorragie sévère qui ne peut être arrêtée par d'autres moyens.",
+      "category": "pathologie",
+      "synonyms": [
+        "hystérectomie",
+        "ablation de l'utérus"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "postpartum"
+      ],
+      "description": "L'hystérectomie d'hémostase est une procédure de dernier recours pour arrêter une hémorragie massive.",
+      "expansion": null,
+      "clinical_significance": "Cette intervention est vitale dans les cas d'hémorragie postpartum non contrôlée par d'autres méthodes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hystérectomie",
+        "hémorragie postpartum"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-vitamines K",
+      "definition": "Médicaments anticoagulants qui inhibent la synthèse des facteurs de coagulation dépendants de la vitamine K.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "antivitamines K",
+        "anticoagulants oraux"
+      ],
+      "related_terms": [
+        "PPSB",
+        "hémorragie"
+      ],
+      "description": "Les anti-vitamines K sont utilisés pour prévenir les thromboses mais peuvent causer des hémorragies en cas de surdosage.",
+      "expansion": null,
+      "clinical_significance": "La gestion du surdosage en anti-vitamines K est cruciale pour éviter des complications hémorragiques graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "anticoagulants",
+        "hémorragie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PPSB",
+      "definition": "Complexe prothrombinique contenant les facteurs de coagulation II, VII, IX et X, utilisé pour traiter les hémorragies dues à un surdosage en anti-vitamines K.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "complexe prothrombinique",
+        "PPSB"
+      ],
+      "related_terms": [
+        "anti-vitamines K",
+        "hémorragie"
+      ],
+      "description": "Le PPSB est essentiel pour rétablir rapidement la coagulation sanguine en cas de surdosage en anti-vitamines K.",
+      "expansion": null,
+      "clinical_significance": "L'administration rapide de PPSB peut être vitale dans la gestion des hémorragies sévères.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PPSB",
+        "complexe prothrombinique"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Glasgow",
+      "definition": "Échelle de Glasgow, un système de notation utilisé pour évaluer le niveau de conscience d'un patient, souvent utilisé en traumatologie et en réanimation.",
+      "category": "classification",
+      "synonyms": [
+        "score de Glasgow",
+        "échelle de Glasgow"
+      ],
+      "related_terms": [
+        "traumatisme crânien",
+        "coma"
+      ],
+      "description": "Le score de Glasgow est un outil clinique essentiel pour évaluer la gravité des lésions cérébrales et suivre l'évolution neurologique.",
+      "expansion": null,
+      "clinical_significance": "Un score de Glasgow bas indique une atteinte neurologique sévère nécessitant une intervention urgente.",
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Glasgow",
+        "échelle de Glasgow"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hématologique",
+      "definition": "Relatif au sang, à sa composition et à ses fonctions, ainsi qu'aux maladies qui l'affectent.",
+      "category": "pathologie",
+      "synonyms": [
+        "sanguin",
+        "hématologie"
+      ],
+      "related_terms": [
+        "anémie",
+        "leucémie"
+      ],
+      "description": "Les défaillances hématologiques peuvent inclure des anomalies des globules rouges, des globules blancs ou des plaquettes.",
+      "expansion": null,
+      "clinical_significance": "Les troubles hématologiques peuvent avoir des conséquences graves, notamment des hémorragies ou des infections.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hématologie",
+        "globules rouges"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatique",
+      "definition": "Relatif au foie, à ses fonctions et aux maladies qui l'affectent.",
+      "category": "pathologie",
+      "synonyms": [
+        "foie",
+        "hépatologie"
+      ],
+      "related_terms": [
+        "cirrhose",
+        "hépatite"
+      ],
+      "description": "Les défaillances hépatiques peuvent inclure des troubles de la synthèse des protéines, de la détoxification et de la production de bile.",
+      "expansion": null,
+      "clinical_significance": "Les maladies hépatiques peuvent entraîner des complications graves, notamment une insuffisance hépatique.",
+      "normal_values": null,
+      "image_search_terms": [
+        "foie",
+        "hépatologie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sepsis",
+      "definition": "Réponse inflammatoire systémique sévère à une infection, souvent associée à une défaillance d'organe.",
+      "category": "pathologie",
+      "synonyms": [
+        "septicémie",
+        "infection systémique"
+      ],
+      "related_terms": [
+        "bactériémie",
+        "choc septique"
+      ],
+      "description": "Le sepsis est une urgence médicale nécessitant une intervention rapide pour éviter des complications graves, voire mortelles.",
+      "expansion": null,
+      "clinical_significance": "Le sepsis est une cause majeure de mortalité dans les unités de soins intensifs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "sepsis",
+        "septicémie"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "choc hypovolémique",
+      "definition": "État de choc résultant d'une diminution du volume sanguin, souvent due à une hémorragie, une déshydratation ou une perte de fluides.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc hypovolémique",
+        "choc par perte de volume"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "déshydratation"
+      ],
+      "description": "Le choc hypovolémique est une urgence médicale nécessitant une réhydratation rapide et une restauration du volume sanguin.",
+      "expansion": null,
+      "clinical_significance": "Un choc hypovolémique non traité peut entraîner une défaillance d'organe et la mort.",
+      "normal_values": null,
+      "image_search_terms": [
+        "choc hypovolémique",
+        "choc par perte de volume"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "volémie",
+      "definition": "Volume total de sang circulant dans le système vasculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "volume sanguin",
+        "volémie"
+      ],
+      "related_terms": [
+        "hémorragie",
+        "réhydratation"
+      ],
+      "description": "La volémie est un indicateur crucial de l'état hémodynamique et de la perfusion tissulaire.",
+      "expansion": null,
+      "clinical_significance": "Une volémie insuffisante peut entraîner un choc hypovolémique nécessitant une réhydratation rapide.",
+      "normal_values": null,
+      "image_search_terms": [
+        "volémie",
+        "volume sanguin"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Crisis Ressource Management",
+      "definition": "Approche de gestion des ressources en situation de crise visant à améliorer la communication et la coordination entre les membres de l'équipe soignante.",
+      "category": "classification",
+      "synonyms": [
+        "CRM",
+        "gestion des ressources en crise"
+      ],
+      "related_terms": [
+        "communication",
+        "équipe soignante"
+      ],
+      "description": "Le Crisis Ressource Management est essentiel pour garantir une prise en charge optimale des patients en situation de crise.",
+      "expansion": null,
+      "clinical_significance": "Une bonne communication et coordination selon les principes du CRM peuvent améliorer les résultats cliniques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Crisis Ressource Management",
+        "CRM"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "varices oesophagiennes",
+      "definition": "Veines dilatées et tortueuses situées dans la paroi de l'œsophage, souvent dues à une hypertension portale.",
+      "category": "pathologie",
+      "synonyms": [
+        "varices œsophagiennes",
+        "varices"
+      ],
+      "related_terms": [
+        "hypertension portale",
+        "hémorragie"
+      ],
+      "description": "Les varices œsophagiennes peuvent se rompre et causer des hémorragies massives nécessitant une intervention urgente.",
+      "expansion": null,
+      "clinical_significance": "La rupture des varices œsophagiennes est une urgence médicale nécessitant une intervention rapide pour contrôler le saignement.",
+      "normal_values": null,
+      "image_search_terms": [
+        "varices œsophagiennes",
+        "varices"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bilan de coagulation",
+      "definition": "Ensemble d'analyses sanguines visant à évaluer la capacité du sang à coaguler, incluant des tests comme le TP (temps de prothrombine), le TCA (temps de céphaline activée), et le dosage des plaquettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "coagulogramme"
+      ],
+      "related_terms": [
+        "TP",
+        "TCA",
+        "plaquettes"
+      ],
+      "description": "Utilisé pour diagnostiquer des troubles de la coagulation et surveiller les patients sous anticoagulants.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des hémorragies et des risques thrombotiques.",
+      "normal_values": "TP: 11-13 secondes, TCA: 25-35 secondes, Plaquettes: 150-400 x 10^9/L",
+      "image_search_terms": [
+        "coagulation cascade",
+        "blood clotting"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Délivrance artificielle",
+      "definition": "Procédure obstétricale consistant à extraire manuellement le placenta après l'accouchement, souvent nécessaire en cas de rétention placentaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "extraction manuelle du placenta"
+      ],
+      "related_terms": [
+        "rétention placentaire",
+        "accouchement"
+      ],
+      "description": "Utilisée pour prévenir les complications post-partum telles que l'hémorragie.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des complications obstétricales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "manual placenta removal",
+        "postpartum hemorrhage"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "intrarectal",
+      "definition": "Mode d'administration de médicaments par le rectum, souvent utilisé pour des suppositoires ou des lavements.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "rectal"
+      ],
+      "related_terms": [
+        "suppositoire",
+        "lavement"
+      ],
+      "description": "Utilisé pour des médicaments nécessitant une absorption rapide ou pour des patients incapables de prendre des médicaments par voie orale.",
+      "expansion": null,
+      "clinical_significance": "Alternative efficace pour l'administration de médicaments.",
+      "normal_values": null,
+      "image_search_terms": [
+        "rectal administration",
+        "suppository"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intraveineuse directe",
+      "definition": "Administration de médicaments ou de fluides directement dans une veine, souvent utilisée pour des traitements nécessitant une action rapide.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IV directe"
+      ],
+      "related_terms": [
+        "perfusion",
+        "cathéter"
+      ],
+      "description": "Méthode rapide et efficace pour administrer des médicaments en situation d'urgence.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la réanimation et le traitement des chocs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "IV administration",
+        "intravenous catheter"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "recherche d'agglutinines irrégulières",
+      "definition": "Test sanguin visant à détecter la présence d'anticorps irréguliers dans le sang, souvent utilisé avant une transfusion sanguine pour éviter des réactions transfusionnelles.",
+      "category": "pathologie",
+      "synonyms": [
+        "RAI"
+      ],
+      "related_terms": [
+        "transfusion sanguine",
+        "anticorps"
+      ],
+      "description": "Important pour prévenir les réactions immunitaires lors des transfusions.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la sécurité des transfusions sanguines.",
+      "normal_values": null,
+      "image_search_terms": [
+        "blood transfusion",
+        "antibody testing"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "révision Utérine",
+      "definition": "Procédure chirurgicale consistant à explorer et nettoyer l'utérus après un accouchement ou une fausse couche pour enlever les débris placentaires ou les caillots sanguins.",
+      "category": "pathologie",
+      "synonyms": [
+        "curettage utérin"
+      ],
+      "related_terms": [
+        "fausse couche",
+        "accouchement"
+      ],
+      "description": "Utilisée pour prévenir les infections et les hémorragies post-partum.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la gestion des complications obstétricales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "uterine revision",
+        "postpartum hemorrhage"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "hémorragie",
+      "definition": "Perte de sang importante et souvent rapide, pouvant être interne ou externe, et nécessitant une intervention médicale urgente.",
+      "category": "pathologie",
+      "synonyms": [
+        "saignement"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "transfusion sanguine"
+      ],
+      "description": "Peut être causée par des traumatismes, des complications chirurgicales, ou des troubles de la coagulation.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "hemorrhage",
+        "blood loss"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ABCDE approach",
+      "definition": "Méthode systématique d'évaluation et de traitement des patients en situation d'urgence, couvrant les voies aériennes (Airway), la respiration (Breathing), la circulation (Circulation), la dysfonction neurologique (Disability), et l'exposition/environnement (Exposure).",
+      "category": "classification",
+      "synonyms": [
+        "approche ABCDE"
+      ],
+      "related_terms": [
+        "réanimation",
+        "urgence médicale"
+      ],
+      "description": "Utilisée pour une évaluation rapide et structurée des patients critiques.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la gestion des urgences médicales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "ABCDE approach",
+        "emergency assessment"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vasopressors",
+      "definition": "Médicaments utilisés pour augmenter la pression artérielle en stimulant la vasoconstriction, souvent utilisés dans le traitement du choc hémorragique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vasoconstricteurs"
+      ],
+      "related_terms": [
+        "choc hémorragique",
+        "hypotension"
+      ],
+      "description": "Utilisés pour maintenir la perfusion tissulaire en cas de choc.",
+      "expansion": null,
+      "clinical_significance": "Importants pour la réanimation et le traitement des chocs.",
+      "normal_values": null,
+      "image_search_terms": [
+        "vasopressors",
+        "blood pressure management"
+      ],
+      "subject_id": "d843d886-89ef-4860-9e06-466c8d4e31b8",
+      "source_file": "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Réanimation/État de Choc Hémorragique/Courses/28 L’état de choc hémorragique.md"
+  ],
+  "total_terms": 170
+}

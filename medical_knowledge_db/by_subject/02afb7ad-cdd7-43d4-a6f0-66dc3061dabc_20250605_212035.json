@@ -1,0 +1,2524 @@
+{
+  "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+  "terms": [
+    {
+      "term": "vaccins",
+      "definition": "Préparations antigéniques utilisées pour stimuler la réponse immunitaire contre des agents infectieux spécifiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "préparations vaccinales"
+      ],
+      "related_terms": [
+        "immunisation",
+        "vaccination"
+      ],
+      "description": "Les vaccins peuvent être vivants atténués, inactivés, à sous-unités, ou à base d'ARN/ADN.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la prévention de maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccination",
+      "definition": "Procédé d'immunisation active artificielle visant à protéger contre des maladies infectieuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunisation active"
+      ],
+      "related_terms": [
+        "vaccins",
+        "immunisation"
+      ],
+      "description": "La vaccination stimule le système immunitaire pour produire une réponse protectrice contre des agents infectieux.",
+      "expansion": null,
+      "clinical_significance": "Prévention primaire des maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "variole",
+      "definition": "Maladie virale hautement contagieuse causée par le virus de la variole, éradiquée en 1980.",
+      "category": "pathologie",
+      "synonyms": [
+        "petite vérole"
+      ],
+      "related_terms": [
+        "vaccination",
+        "éradication"
+      ],
+      "description": "La variole était caractérisée par des éruptions cutanées et une forte mortalité.",
+      "expansion": null,
+      "clinical_significance": "Première maladie humaine éradiquée par la vaccination.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tétanos",
+      "definition": "Maladie bactérienne causée par Clostridium tetani, caractérisée par des spasmes musculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "trismus"
+      ],
+      "related_terms": [
+        "vaccination",
+        "toxine tétanique"
+      ],
+      "description": "Le tétanos peut être fatal sans traitement.",
+      "expansion": null,
+      "clinical_significance": "Vaccination essentielle pour prévenir la maladie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite B",
+      "definition": "Maladie virale causée par le virus de l'hépatite B, affectant le foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "HBV"
+      ],
+      "related_terms": [
+        "vaccination",
+        "hépatite"
+      ],
+      "description": "L'hépatite B peut être aiguë ou chronique.",
+      "expansion": null,
+      "clinical_significance": "Vaccination recommandée pour prévenir l'infection et les complications.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite A",
+      "definition": "Maladie virale causée par le virus de l'hépatite A, affectant le foie.",
+      "category": "pathologie",
+      "synonyms": [
+        "HAV"
+      ],
+      "related_terms": [
+        "vaccination",
+        "hépatite"
+      ],
+      "description": "L'hépatite A est généralement une infection aiguë.",
+      "expansion": null,
+      "clinical_significance": "Vaccination recommandée pour les voyageurs et les personnes à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Haemophilus influenzae de type B (Hib)",
+      "definition": "Bactérie responsable de méningites et d'autres infections graves chez les enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Hib"
+      ],
+      "related_terms": [
+        "vaccination",
+        "méningite"
+      ],
+      "description": "Hib peut être prévenu par la vaccination.",
+      "expansion": null,
+      "clinical_significance": "Vaccination essentielle pour prévenir les infections graves chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccin anti-pneumococciques",
+      "definition": "Vaccin contre les infections causées par Streptococcus pneumoniae.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin pneumococcique"
+      ],
+      "related_terms": [
+        "vaccination",
+        "pneumonie"
+      ],
+      "description": "Le vaccin anti-pneumococciques protège contre les infections pneumococciques.",
+      "expansion": null,
+      "clinical_significance": "Recommandé pour les enfants et les adultes à risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rotavirus",
+      "definition": "Virus responsable de la gastro-entérite aiguë chez les enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus du rotavirus"
+      ],
+      "related_terms": [
+        "vaccination",
+        "gastro-entérite"
+      ],
+      "description": "Le rotavirus peut être prévenu par la vaccination.",
+      "expansion": null,
+      "clinical_significance": "Vaccination recommandée pour les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HPV (papillomavirus humain)",
+      "definition": "Virus responsable de verrues génitales et de certains cancers, notamment le cancer du col de l'utérus.",
+      "category": "microbiologie",
+      "synonyms": [
+        "papillomavirus humain"
+      ],
+      "related_terms": [
+        "vaccination",
+        "cancer du col de l'utérus"
+      ],
+      "description": "Le HPV peut être prévenu par la vaccination.",
+      "expansion": null,
+      "clinical_significance": "Vaccination recommandée pour les adolescents et les jeunes adultes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunisation",
+      "definition": "Processus par lequel une personne devient protégée contre une maladie par l'acquisition d'une immunité.",
+      "category": "physiologie",
+      "synonyms": [
+        "immunité"
+      ],
+      "related_terms": [
+        "vaccination",
+        "antigène"
+      ],
+      "description": "L'immunisation peut être active ou passive.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour la prévention des maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunité adaptative",
+      "definition": "Réponse immunitaire spécifique à un antigène, capable de mémoire.",
+      "category": "physiologie",
+      "synonyms": [
+        "immunité acquise"
+      ],
+      "related_terms": [
+        "lymphocytes",
+        "antigène"
+      ],
+      "description": "L'immunité adaptative est médiée par les lymphocytes T et B.",
+      "expansion": null,
+      "clinical_significance": "Cruciale pour la protection contre les infections récurrentes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épitope",
+      "definition": "Partie d'un antigène reconnue par le système immunitaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "déterminant antigénique"
+      ],
+      "related_terms": [
+        "antigène",
+        "lymphocytes"
+      ],
+      "description": "Les épitopes sont spécifiques et uniques à chaque antigène.",
+      "expansion": null,
+      "clinical_significance": "Important pour la reconnaissance immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigène",
+      "definition": "Substance étrangère reconnue par le système immunitaire et capable de déclencher une réponse immunitaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "immunogène"
+      ],
+      "related_terms": [
+        "lymphocytes",
+        "immunité"
+      ],
+      "description": "Les antigènes peuvent être des protéines, des polysaccharides ou des lipides.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour la reconnaissance immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules présentatrices de l'antigène (CPA)",
+      "definition": "Cellules capables de capturer, apprêter et présenter des antigènes aux lymphocytes T.",
+      "category": "physiologie",
+      "synonyms": [
+        "APC (Antigen Presenting Cells)"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "antigène"
+      ],
+      "description": "Les CPA incluent les cellules dendritiques, les macrophages et les lymphocytes B.",
+      "expansion": null,
+      "clinical_significance": "Essentielles pour l'initiation de la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellule dendritique (CD)",
+      "definition": "Type de cellule présentatrice d'antigène spécialisée dans la capture et la présentation des antigènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "dendritic cell"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "antigène"
+      ],
+      "description": "Les CD jouent un rôle crucial dans l'activation des lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Importantes pour l'initiation de la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CMH",
+      "definition": "Complexe majeur d'histocompatibilité, un ensemble de gènes codant pour des protéines de surface cellulaire impliquées dans la présentation des antigènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "MHC (Major Histocompatibility Complex)"
+      ],
+      "related_terms": [
+        "antigène",
+        "lymphocytes T"
+      ],
+      "description": "Le CMH est essentiel pour la reconnaissance des antigènes par les lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour la compatibilité des greffes et la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "costimulation",
+      "definition": "Signal secondaire nécessaire pour l'activation complète des lymphocytes T.",
+      "category": "physiologie",
+      "synonyms": [
+        "signal de costimulation"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "antigène"
+      ],
+      "description": "La costimulation est fournie par les cellules présentatrices d'antigène.",
+      "expansion": null,
+      "clinical_significance": "Essentielle pour l'activation des lymphocytes T.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anergie",
+      "definition": "État d'inactivité des lymphocytes T due à une activation incomplète.",
+      "category": "physiologie",
+      "synonyms": [
+        "tolérance immunitaire"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "antigène"
+      ],
+      "description": "L'anergie peut être induite par l'absence de costimulation.",
+      "expansion": null,
+      "clinical_significance": "Importante pour la tolérance immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules de Langerhans",
+      "definition": "Type de cellules dendritiques présentes dans la peau, spécialisées dans la capture des antigènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "Langerhans cells"
+      ],
+      "related_terms": [
+        "antigène",
+        "cellules dendritiques"
+      ],
+      "description": "Les cellules de Langerhans jouent un rôle crucial dans la présentation des antigènes cutanés.",
+      "expansion": null,
+      "clinical_significance": "Importantes pour la défense immunitaire de la peau.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAMPs (Pathogen Associated Molecular Patterns)",
+      "definition": "Motifs moléculaires associés aux pathogènes, reconnus par les récepteurs de reconnaissance de motifs.",
+      "category": "physiologie",
+      "synonyms": [
+        "motifs moléculaires associés aux pathogènes"
+      ],
+      "related_terms": [
+        "PRRs",
+        "récepteurs de reconnaissance de motifs"
+      ],
+      "description": "Les PAMPs sont des signaux de danger pour le système immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la reconnaissance des pathogènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PRRs (Pattern recognition receptors)",
+      "definition": "Récepteurs capables de reconnaître des motifs moléculaires associés aux pathogènes (PAMPs).",
+      "category": "physiologie",
+      "synonyms": [
+        "récepteurs de reconnaissance de motifs"
+      ],
+      "related_terms": [
+        "PAMPs",
+        "système immunitaire"
+      ],
+      "description": "Les PRRs jouent un rôle crucial dans la reconnaissance des pathogènes.",
+      "expansion": null,
+      "clinical_significance": "Importants pour l'initiation de la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HLA (Human Leukocyte Antigen)",
+      "definition": "Complexe majeur d'histocompatibilité chez l'humain, impliqué dans la présentation des antigènes.",
+      "category": "physiologie",
+      "synonyms": [
+        "antigène leucocytaire humain"
+      ],
+      "related_terms": [
+        "CMH",
+        "lymphocytes T"
+      ],
+      "description": "Le HLA est essentiel pour la reconnaissance des antigènes par les lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour la compatibilité des greffes et la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT CD4",
+      "definition": "Lymphocytes T CD4+, également appelés lymphocytes T auxiliaires, jouent un rôle crucial dans l'activation et la régulation de la réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphocytes T auxiliaires",
+        "lymphocytes T CD4+"
+      ],
+      "related_terms": [
+        "Th1",
+        "Th2",
+        "Th0"
+      ],
+      "description": "Les lymphocytes T CD4+ sont essentiels pour l'activation des lymphocytes B, des lymphocytes T CD8+, et des macrophages.",
+      "expansion": null,
+      "clinical_significance": "Déficience en lymphocytes T CD4+ peut entraîner une immunodéficience sévère.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellule dendritique",
+      "definition": "Cellule présentatrice d'antigène qui joue un rôle clé dans l'initiation de la réponse immunitaire adaptative.",
+      "category": "pathologie",
+      "synonyms": [
+        "CD"
+      ],
+      "related_terms": [
+        "lymphocytes T CD4+",
+        "lymphocytes T CD8+"
+      ],
+      "description": "Les cellules dendritiques captent, traitent et présentent les antigènes aux lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Essentielles pour la vaccination et la réponse immunitaire contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CMH-peptide/TCR",
+      "definition": "Complexe majeur d'histocompatibilité (CMH) présentant un peptide antigénique au récepteur des cellules T (TCR).",
+      "category": "pathologie",
+      "synonyms": [
+        "MHC-peptide/TCR"
+      ],
+      "related_terms": [
+        "CMH",
+        "TCR"
+      ],
+      "description": "Interaction clé pour l'activation des lymphocytes T.",
+      "expansion": null,
+      "clinical_significance": "Important pour la reconnaissance des antigènes et l'initiation de la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Th1",
+      "definition": "Sous-type de lymphocytes T auxiliaires qui produisent des cytokines comme l'IL-2 et l'IFN-γ, activant la réponse immunitaire cellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "lymphocytes Th1"
+      ],
+      "related_terms": [
+        "Th2",
+        "Th0"
+      ],
+      "description": "Les lymphocytes Th1 jouent un rôle clé dans l'activation des lymphocytes T CD8+, des cellules NK et des macrophages.",
+      "expansion": null,
+      "clinical_significance": "Important pour la défense contre les infections intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IFN-γ",
+      "definition": "Interféron gamma, une cytokine produite par les lymphocytes T Th1, activant les macrophages et augmentant leur pouvoir microbicide.",
+      "category": "pathologie",
+      "synonyms": [
+        "interféron gamma"
+      ],
+      "related_terms": [
+        "IL-2",
+        "IL-4"
+      ],
+      "description": "L'IFN-γ est essentiel pour la défense contre les infections intracellulaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'activation des macrophages et la défense contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lymphocytes T CD8 cytotoxiques",
+      "definition": "Sous-type de lymphocytes T qui détruisent les cellules infectées par des virus ou des bactéries intracellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "CTL",
+        "lymphocytes T CD8+"
+      ],
+      "related_terms": [
+        "lymphocytes T CD4+",
+        "macrophages"
+      ],
+      "description": "Les lymphocytes T CD8+ sont activés par les cellules dendritiques présentant l'antigène sur les molécules CMH de classe I.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la défense contre les infections virales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules NK",
+      "definition": "Cellules tueuses naturelles, un type de lymphocytes qui détruisent les cellules infectées par des virus ou des cellules tumorales.",
+      "category": "pathologie",
+      "synonyms": [
+        "NK cells"
+      ],
+      "related_terms": [
+        "lymphocytes T CD8+",
+        "macrophages"
+      ],
+      "description": "Les cellules NK jouent un rôle important dans la défense innée contre les infections virales et les tumeurs.",
+      "expansion": null,
+      "clinical_significance": "Important pour la défense immunitaire innée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "plasmocytes",
+      "definition": "Cellules différenciées des lymphocytes B qui produisent et sécrètent des anticorps.",
+      "category": "pathologie",
+      "synonyms": [
+        "plasma cells"
+      ],
+      "related_terms": [
+        "lymphocytes B",
+        "anticorps"
+      ],
+      "description": "Les plasmocytes sont essentiels pour la réponse immunitaire humorale.",
+      "expansion": null,
+      "clinical_significance": "Important pour la production d'anticorps et la défense contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "micro-organisme",
+      "definition": "Organisme microscopique, incluant les bactéries, les virus, les champignons et les parasites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "microbe"
+      ],
+      "related_terms": [
+        "bactéries",
+        "virus",
+        "champignons",
+        "parasites"
+      ],
+      "description": "Les micro-organismes peuvent être pathogènes ou non pathogènes.",
+      "expansion": null,
+      "clinical_significance": "Important pour les infections et les maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FasL/Fas",
+      "definition": "Ligand Fas (FasL) et récepteur Fas, une paire de protéines impliquées dans l'apoptose des cellules.",
+      "category": "pathologie",
+      "synonyms": [
+        "Fas ligand/Fas receptor"
+      ],
+      "related_terms": [
+        "apoptose",
+        "cytotoxicité"
+      ],
+      "description": "L'interaction FasL/Fas induit l'apoptose des cellules cibles.",
+      "expansion": null,
+      "clinical_significance": "Important pour la régulation de la mort cellulaire programmée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "perforines",
+      "definition": "Protéines cytotoxiques sécrétées par les lymphocytes T CD8+ et les cellules NK, formant des pores dans la membrane des cellules cibles.",
+      "category": "pathologie",
+      "synonyms": [
+        "perforin"
+      ],
+      "related_terms": [
+        "granzymes",
+        "cytotoxicité"
+      ],
+      "description": "Les perforines facilitent l'entrée des granzymes dans les cellules cibles, induisant leur mort.",
+      "expansion": null,
+      "clinical_significance": "Important pour la cytotoxicité des lymphocytes T CD8+ et des cellules NK.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granzymes",
+      "definition": "Enzymes protéolytiques sécrétées par les lymphocytes T CD8+ et les cellules NK, induisant l'apoptose des cellules cibles.",
+      "category": "pathologie",
+      "synonyms": [
+        "granzyme"
+      ],
+      "related_terms": [
+        "perforines",
+        "cytotoxicité"
+      ],
+      "description": "Les granzymes pénètrent dans les cellules cibles via les pores formés par les perforines et induisent leur mort.",
+      "expansion": null,
+      "clinical_significance": "Important pour la cytotoxicité des lymphocytes T CD8+ et des cellules NK.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Mycobacterium",
+      "definition": "Genre de bactéries responsables de maladies telles que la tuberculose et la lèpre.",
+      "category": "microbiologie",
+      "synonyms": [
+        "mycobacteria"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "lèpre"
+      ],
+      "description": "Les mycobactéries sont des bactéries intracellulaires résistantes à la lyse.",
+      "expansion": null,
+      "clinical_significance": "Important pour les infections bactériennes intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leishmania",
+      "definition": "Genre de parasites protozoaires responsables de la leishmaniose, une maladie parasitaire transmise par les phlébotomes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "leishmania"
+      ],
+      "related_terms": [
+        "leishmaniose",
+        "phlébotomes"
+      ],
+      "description": "Les leishmanies sont des parasites intracellulaires résistants à la lyse.",
+      "expansion": null,
+      "clinical_significance": "Important pour les infections parasitaires intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thymo-indépendant",
+      "definition": "Antigènes capables d'activer les lymphocytes B sans l'aide des lymphocytes T.",
+      "category": "pathologie",
+      "synonyms": [
+        "TI"
+      ],
+      "related_terms": [
+        "thymo-dépendant",
+        "antigènes"
+      ],
+      "description": "Les antigènes thymo-indépendants sont souvent des polysaccharides avec une structure répétitive.",
+      "expansion": null,
+      "clinical_significance": "Important pour la réponse immunitaire humorale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thymo-dépendant",
+      "definition": "Antigènes nécessitant l'aide des lymphocytes T pour activer les lymphocytes B.",
+      "category": "pathologie",
+      "synonyms": [
+        "TD"
+      ],
+      "related_terms": [
+        "thymo-indépendant",
+        "antigènes"
+      ],
+      "description": "Les antigènes thymo-dépendants sont souvent des protéines nécessitant une présentation par les cellules dendritiques.",
+      "expansion": null,
+      "clinical_significance": "Important pour la réponse immunitaire humorale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BCR",
+      "definition": "Récepteur des cellules B, une protéine de surface qui reconnaît et se lie aux antigènes.",
+      "category": "pathologie",
+      "synonyms": [
+        "B Cell Receptor"
+      ],
+      "related_terms": [
+        "antigènes",
+        "lymphocytes B"
+      ],
+      "description": "Le BCR est essentiel pour l'activation des lymphocytes B.",
+      "expansion": null,
+      "clinical_significance": "Important pour la reconnaissance des antigènes et la réponse immunitaire humorale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CD40L/CD40",
+      "definition": "Paire de protéines impliquées dans la costimulation des lymphocytes B par les lymphocytes T.",
+      "category": "pathologie",
+      "synonyms": [
+        "CD40 ligand/CD40 receptor"
+      ],
+      "related_terms": [
+        "costimulation",
+        "lymphocytes B",
+        "lymphocytes T"
+      ],
+      "description": "L'interaction CD40L/CD40 est essentielle pour la différenciation des lymphocytes B en plasmocytes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la réponse immunitaire humorale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hypermutations somatiques",
+      "definition": "Processus par lequel les lymphocytes B introduisent des mutations dans les gènes codant pour les régions variables des immunoglobulines, augmentant l'affinité pour l'antigène.",
+      "category": "pathologie",
+      "synonyms": [
+        "somatic hypermutation"
+      ],
+      "related_terms": [
+        "lymphocytes B",
+        "immunoglobulines"
+      ],
+      "description": "Les hypermutations somatiques sont essentielles pour l'affinité accrue des anticorps.",
+      "expansion": null,
+      "clinical_significance": "Important pour la maturation de l'affinité des anticorps.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "switch",
+      "definition": "Processus de commutation de classe des immunoglobulines, permettant aux lymphocytes B de produire différentes classes d'anticorps.",
+      "category": "pathologie",
+      "synonyms": [
+        "class switching"
+      ],
+      "related_terms": [
+        "IgG",
+        "IgA",
+        "IgE"
+      ],
+      "description": "Le switch permet la production d'anticorps plus efficaces contre différents types de pathogènes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la diversité de la réponse immunitaire humorale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phagocytose",
+      "definition": "Processus par lequel les cellules phagocytaires ingèrent et détruisent les micro-organismes et les débris cellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "phagocytosis"
+      ],
+      "related_terms": [
+        "macrophages",
+        "neutrophiles"
+      ],
+      "description": "La phagocytose est essentielle pour la défense contre les infections bactériennes.",
+      "expansion": null,
+      "clinical_significance": "Important pour la défense immunitaire innée.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunité cellulaire",
+      "definition": "Réponse immunitaire médiée par les lymphocytes T, essentielle pour la défense contre les infections intracellulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "cell-mediated immunity"
+      ],
+      "related_terms": [
+        "lymphocytes T CD8+",
+        "macrophages"
+      ],
+      "description": "L'immunité cellulaire est cruciale pour la défense contre les infections virales et bactériennes intracellulaires.",
+      "expansion": null,
+      "clinical_significance": "Important pour la défense contre les infections intracellulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps neutralisants",
+      "definition": "Anticorps capables de neutraliser les pathogènes en empêchant leur entrée dans les cellules cibles.",
+      "category": "pathologie",
+      "synonyms": [
+        "neutralizing antibodies"
+      ],
+      "related_terms": [
+        "anticorps",
+        "virus"
+      ],
+      "description": "Les anticorps neutralisants sont essentiels pour la défense contre les infections virales.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention des infections virales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épitopes",
+      "definition": "Parties spécifiques d'un antigène reconnues par les anticorps ou les récepteurs des lymphocytes T.",
+      "category": "pathologie",
+      "synonyms": [
+        "antigenic determinants"
+      ],
+      "related_terms": [
+        "antigènes",
+        "anticorps"
+      ],
+      "description": "Les épitopes sont essentiels pour la reconnaissance des antigènes par le système immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Important pour la spécificité de la réponse immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunogénicité",
+      "definition": "Capacité d'un antigène à induire une réponse immunitaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "immunogenicity"
+      ],
+      "related_terms": [
+        "antigènes",
+        "vaccins"
+      ],
+      "description": "L'immunogénicité est essentielle pour l'efficacité des vaccins.",
+      "expansion": null,
+      "clinical_significance": "Important pour la conception des vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anatoxine diphtérique",
+      "definition": "Forme inactivée de la toxine diphtérique utilisée dans les vaccins pour induire une réponse immunitaire sans causer la maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "toxoïde diphtérique"
+      ],
+      "related_terms": [
+        "diphtérie",
+        "toxine diphtérique"
+      ],
+      "description": "L'anatoxine diphtérique est obtenue par inactivation de la toxine diphtérique, permettant de stimuler le système immunitaire sans risque de toxicité.",
+      "expansion": null,
+      "clinical_significance": "Utilisée dans les vaccins pour prévenir la diphtérie, une maladie infectieuse grave.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anatoxine tétanique",
+      "definition": "Forme inactivée de la toxine tétanique utilisée dans les vaccins pour induire une réponse immunitaire sans causer la maladie.",
+      "category": "pathologie",
+      "synonyms": [
+        "toxoïde tétanique"
+      ],
+      "related_terms": [
+        "tétanos",
+        "toxine tétanique"
+      ],
+      "description": "L'anatoxine tétanique est obtenue par inactivation de la toxine tétanique, permettant de stimuler le système immunitaire sans risque de toxicité.",
+      "expansion": null,
+      "clinical_significance": "Utilisée dans les vaccins pour prévenir le tétanos, une maladie infectieuse grave.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "OMP",
+      "definition": "Protéines de la membrane externe (Outer Membrane Proteins) de certaines bactéries, utilisées dans les vaccins conjugués.",
+      "category": "microbiologie",
+      "synonyms": [
+        "protéines de la membrane externe"
+      ],
+      "related_terms": [
+        "Neisseria meningitidis",
+        "vaccins conjugués"
+      ],
+      "description": "Les OMP sont des composants de la membrane externe de certaines bactéries, utilisées dans les vaccins pour améliorer l'immunogénicité.",
+      "expansion": null,
+      "clinical_significance": "Utilisées dans les vaccins contre les infections bactériennes comme la méningite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adjuvants",
+      "definition": "Substances ajoutées aux vaccins pour améliorer la réponse immunitaire contre les antigènes vaccinaux.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "sels d'aluminium",
+        "phosphate d'aluminium",
+        "hydroxyde d'aluminium"
+      ],
+      "description": "Les adjuvants augmentent l'efficacité des vaccins en stimulant une réponse immunitaire plus forte et prolongée.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour améliorer l'immunogénicité des vaccins, surtout ceux à base d'antigènes inactivés ou purifiés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cellules présentatrices d'antigènes",
+      "definition": "Cellules du système immunitaire qui capturent, traitent et présentent les antigènes aux lymphocytes T pour initier une réponse immunitaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "CPA"
+      ],
+      "related_terms": [
+        "lymphocytes T",
+        "molécules de costimulation",
+        "cytokines"
+      ],
+      "description": "Les CPA jouent un rôle crucial dans l'initiation et la régulation de la réponse immunitaire adaptative.",
+      "expansion": null,
+      "clinical_significance": "Essentielles pour la reconnaissance et la réponse immunitaire contre les pathogènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BCG",
+      "definition": "Vaccin vivant atténué contre la tuberculose, composé de bacilles de Calmette et Guérin.",
+      "category": "classification",
+      "synonyms": [
+        "Bacille de Calmette et Guérin"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "vaccins vivants atténués"
+      ],
+      "description": "Le BCG est utilisé pour prévenir la tuberculose, une maladie infectieuse grave.",
+      "expansion": null,
+      "clinical_significance": "Vaccin essentiel dans les programmes de santé publique pour la prévention de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPI",
+      "definition": "Vaccin poliomyélitique inactivé, utilisé pour prévenir la poliomyélite.",
+      "category": "classification",
+      "synonyms": [
+        "vaccin antipoliomyélitique inactivé"
+      ],
+      "related_terms": [
+        "poliomyélite",
+        "vaccins inactivés"
+      ],
+      "description": "Le VPI est un vaccin à base de virus polio inactivé, utilisé pour induire une réponse immunitaire sans risque de réplication virale.",
+      "expansion": null,
+      "clinical_significance": "Utilisé dans les programmes de vaccination pour éradiquer la poliomyélite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hib",
+      "definition": "Haemophilus influenzae type b, une bactérie responsable de méningites et d'autres infections graves.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Haemophilus influenzae type b"
+      ],
+      "related_terms": [
+        "méningite",
+        "vaccins conjugués"
+      ],
+      "description": "Le Hib est une bactérie encapsulée qui peut causer des infections graves, notamment chez les enfants.",
+      "expansion": null,
+      "clinical_significance": "Vaccination essentielle pour prévenir les infections à Hib.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPC-10",
+      "definition": "Vaccin antipneumococcique conjugué contenant 10 sérotypes de Streptococcus pneumoniae.",
+      "category": "classification",
+      "synonyms": [
+        "vaccin pneumococcique conjugué 10"
+      ],
+      "related_terms": [
+        "Streptococcus pneumoniae",
+        "vaccins conjugués"
+      ],
+      "description": "Le VPC-10 est utilisé pour prévenir les infections à pneumocoque, une cause majeure de pneumonie et de méningite.",
+      "expansion": null,
+      "clinical_significance": "Vaccin important pour la prévention des infections pneumococciques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPC-13",
+      "definition": "Vaccin antipneumococcique conjugué contenant 13 sérotypes de Streptococcus pneumoniae.",
+      "category": "classification",
+      "synonyms": [
+        "vaccin pneumococcique conjugué 13"
+      ],
+      "related_terms": [
+        "Streptococcus pneumoniae",
+        "vaccins conjugués"
+      ],
+      "description": "Le VPC-13 est utilisé pour prévenir les infections à pneumocoque, une cause majeure de pneumonie et de méningite.",
+      "expansion": null,
+      "clinical_significance": "Vaccin important pour la prévention des infections pneumococciques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LT auxiliaires CD4+",
+      "definition": "Lymphocytes T auxiliaires exprimant le marqueur CD4, jouant un rôle crucial dans la régulation de la réponse immunitaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "lymphocytes T CD4+"
+      ],
+      "related_terms": [
+        "réponse immunitaire",
+        "lymphocytes T"
+      ],
+      "description": "Les LT auxiliaires CD4+ aident à activer d'autres cellules immunitaires et à coordonner la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la réponse immunitaire adaptative et la défense contre les infections.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "LB",
+      "definition": "Lymphocytes B, cellules du système immunitaire responsables de la production d'anticorps.",
+      "category": "physiologie",
+      "synonyms": [
+        "lymphocytes B"
+      ],
+      "related_terms": [
+        "anticorps",
+        "réponse immunitaire"
+      ],
+      "description": "Les LB jouent un rôle crucial dans l'immunité humorale en produisant des anticorps spécifiques contre les antigènes.",
+      "expansion": null,
+      "clinical_significance": "Essentiels pour la défense contre les infections et la mémoire immunitaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vaccins vivants atténués",
+      "definition": "Vaccins contenant des agents pathogènes vivants mais affaiblis, capables de provoquer une réponse immunitaire sans causer la maladie.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccins atténués"
+      ],
+      "related_terms": [
+        "vaccins inactivés",
+        "vaccins sous-unitaires"
+      ],
+      "description": "Les vaccins vivants atténués induisent une réponse immunitaire plus durable et nécessitent généralement moins de doses de rappel.",
+      "expansion": null,
+      "clinical_significance": "Utilisés pour des maladies comme la rougeole, la rubéole et les oreillons.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "réversion de pathogènes atténués",
+      "definition": "Processus par lequel un pathogène atténué retrouve sa virulence originale.",
+      "category": "microbiologie",
+      "synonyms": [
+        "réversion virulente"
+      ],
+      "related_terms": [
+        "pathogène atténué",
+        "virulence"
+      ],
+      "description": "Un risque rare mais possible avec les vaccins vivants atténués.",
+      "expansion": null,
+      "clinical_significance": "Important pour la surveillance post-vaccinale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "antigénicité",
+      "definition": "Capacité d'un antigène à être reconnu par le système immunitaire et à induire une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigénicité"
+      ],
+      "related_terms": [
+        "immunogénicité",
+        "antigène"
+      ],
+      "description": "Importante pour le développement de vaccins efficaces.",
+      "expansion": null,
+      "clinical_significance": "Détermine l'efficacité des vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "VPO",
+      "definition": "Vaccin Polio Oral, un vaccin vivant atténué contre la poliomyélite.",
+      "category": "acronyme",
+      "synonyms": [
+        "vaccin antipoliomyélitique oral"
+      ],
+      "related_terms": [
+        "poliomyélite",
+        "vaccin inactivé"
+      ],
+      "description": "Nécessite plusieurs doses pour une séroconversion efficace.",
+      "expansion": "Vaccin Polio Oral",
+      "clinical_significance": "Utilisé pour l'éradication de la poliomyélite.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "adjuvant",
+      "definition": "Substance ajoutée à un vaccin pour en augmenter l'immunogénicité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "adjuvant vaccinal"
+      ],
+      "related_terms": [
+        "sel d'aluminium",
+        "phosphate d'aluminium"
+      ],
+      "description": "Le sel d'aluminium est l'adjuvant le plus couramment utilisé.",
+      "expansion": null,
+      "clinical_significance": "Améliore la réponse immunitaire et la durabilité de l'immunité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ID",
+      "definition": "Voie intradermique, une méthode d'administration de vaccins dans la couche dermique de la peau.",
+      "category": "acronyme",
+      "synonyms": [
+        "intradermique"
+      ],
+      "related_terms": [
+        "voie intramusculaire",
+        "voie sous-cutanée"
+      ],
+      "description": "Utilisée pour certains vaccins comme le BCG.",
+      "expansion": "Intradermique",
+      "clinical_significance": "Permet une meilleure immunogénicité grâce à la présence de cellules présentatrices d'antigènes.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rougeole-Oreillons-Rubéole",
+      "definition": "Vaccin combiné contre la rougeole, les oreillons et la rubéole.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin ROR"
+      ],
+      "related_terms": [
+        "rougeole",
+        "oreillons",
+        "rubéole"
+      ],
+      "description": "Confère une protection durable, souvent à vie.",
+      "expansion": null,
+      "clinical_significance": "Important pour la prévention de ces maladies virales.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chaîne du froid",
+      "definition": "Système de stockage et de transport des vaccins à des températures spécifiques pour maintenir leur efficacité.",
+      "category": "classification",
+      "synonyms": [
+        "chaîne de froid"
+      ],
+      "related_terms": [
+        "OMS",
+        "vaccins à ARN"
+      ],
+      "description": "Températures de conservation entre 2°C et 8°C, jusqu'à -80°C pour les vaccins à ARN.",
+      "expansion": null,
+      "clinical_significance": "Critique pour la conservation des vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "deltoïde",
+      "definition": "Muscle de l'épaule, souvent utilisé comme site d'injection pour les vaccins.",
+      "category": "anatomie",
+      "synonyms": [
+        "muscle deltoïde"
+      ],
+      "related_terms": [
+        "voie intramusculaire",
+        "vaccination"
+      ],
+      "description": "Site d'injection courant pour les vaccins après l'âge de 2 ans.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'administration correcte des vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "voie muqueuse",
+      "definition": "Voie d'administration des vaccins par les muqueuses, souvent utilisée pour les infections des voies respiratoires ou digestives.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "voie mucosale"
+      ],
+      "related_terms": [
+        "vaccin anti-polio",
+        "voie orale"
+      ],
+      "description": "Utilisée pour l'immunisation contre les agents infectieux des voies respiratoires ou digestives.",
+      "expansion": null,
+      "clinical_significance": "Important pour l'administration de certains vaccins.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "chimio",
+      "definition": "Chimiothérapie, traitement médicamenteux utilisé pour détruire les cellules cancéreuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "chimiothérapie"
+      ],
+      "related_terms": [
+        "cancer",
+        "radiothérapie"
+      ],
+      "description": "La chimiothérapie est souvent utilisée en combinaison avec d'autres traitements contre le cancer.",
+      "expansion": "Chimiothérapie",
+      "clinical_significance": "Important pour la gestion des patients immunodéprimés.",
+      "normal_values": null,
+      "image_search_terms": [
+        "chimiothérapie",
+        "traitement cancer"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "néphropathies",
+      "definition": "Maladies affectant les reins, pouvant entraîner une altération de la fonction rénale.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladies rénales"
+      ],
+      "related_terms": [
+        "insuffisance rénale",
+        "glomérulonéphrite"
+      ],
+      "description": "Les néphropathies peuvent être aiguës ou chroniques et affecter diverses parties du rein.",
+      "expansion": "Néphropathies",
+      "clinical_significance": "Important pour la gestion des patients avec des contre-indications temporaires à la vaccination.",
+      "normal_values": null,
+      "image_search_terms": [
+        "néphropathies",
+        "maladies rénales"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "CI",
+      "definition": "Contre-indication, situation où un traitement ou une intervention médicale ne doit pas être utilisée en raison de risques potentiels.",
+      "category": "classification",
+      "synonyms": [
+        "contre-indication"
+      ],
+      "related_terms": [
+        "effet secondaire",
+        "risque médical"
+      ],
+      "description": "Les contre-indications sont des critères importants pour la sécurité des patients.",
+      "expansion": "Contre-indication",
+      "clinical_significance": "Important pour la gestion des patients avec des contre-indications temporaires à la vaccination.",
+      "normal_values": null,
+      "image_search_terms": [
+        "contre-indication",
+        "risque médical"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MAPI",
+      "definition": "Manifestation Post-vaccinale Indésirable, tout incident médical survenant après la vaccination.",
+      "category": "vaccination",
+      "synonyms": [
+        "effet secondaire vaccinal"
+      ],
+      "related_terms": [
+        "vaccination",
+        "effet indésirable"
+      ],
+      "description": "Les MAPI peuvent inclure des réactions locales, des symptômes systémiques ou des complications graves.",
+      "expansion": "Manifestation Post-vaccinale Indésirable",
+      "clinical_significance": "Important pour la surveillance de la sécurité des vaccins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "MAPI",
+        "effet secondaire vaccinal"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Vidal",
+      "definition": "Ouvrage de référence en pharmacologie contenant des informations sur les médicaments et les produits de santé.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Dictionnaire Vidal"
+      ],
+      "related_terms": [
+        "pharmacovigilance",
+        "médicament"
+      ],
+      "description": "Le Vidal est utilisé par les professionnels de santé pour obtenir des informations détaillées sur les médicaments.",
+      "expansion": "Vidal",
+      "clinical_significance": "Important pour la gestion des effets indésirables des vaccins.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Vidal",
+        "Dictionnaire Vidal"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "encéphalopathies aiguës",
+      "definition": "Troubles neurologiques sévères caractérisés par une altération de la fonction cérébrale, survenant rapidement.",
+      "category": "pathologie",
+      "synonyms": [
+        "encéphalopathie"
+      ],
+      "related_terms": [
+        "encéphalite",
+        "convulsions"
+      ],
+      "description": "Les encéphalopathies aiguës peuvent inclure des convulsions, des troubles de la conscience et de l'hyperthermie.",
+      "expansion": "Encéphalopathies aiguës",
+      "clinical_significance": "Important pour la gestion des complications post-vaccinales.",
+      "normal_values": null,
+      "image_search_terms": [
+        "encéphalopathies aiguës",
+        "encéphalopathie"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mycobactérium bovis",
+      "definition": "Bactérie responsable de la tuberculose bovine, utilisée sous forme atténuée dans le vaccin BCG.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Mycobacterium bovis"
+      ],
+      "related_terms": [
+        "tuberculose",
+        "BCG"
+      ],
+      "description": "Mycobacterium bovis est une mycobactérie pathogène pour les bovins et les humains.",
+      "expansion": "Mycobacterium bovis",
+      "clinical_significance": "Important pour la prévention de la tuberculose.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Mycobacterium bovis",
+        "tuberculose bovine"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "intra dermique",
+      "definition": "Injection effectuée dans la couche dermique de la peau.",
+      "category": "anatomie",
+      "synonyms": [
+        "injection intradermique"
+      ],
+      "related_terms": [
+        "injection",
+        "derme"
+      ],
+      "description": "L'injection intradermique est utilisée pour certains vaccins et tests cutanés.",
+      "expansion": "Intra dermique",
+      "clinical_significance": "Important pour l'administration correcte du vaccin BCG.",
+      "normal_values": null,
+      "image_search_terms": [
+        "injection intradermique",
+        "derme"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Haemophilus influenzae de type b",
+      "definition": "Bactérie responsable de diverses infections, y compris la méningite et la pneumonie, particulièrement dangereuse pour les jeunes enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Hib"
+      ],
+      "related_terms": [
+        "méningite",
+        "pneumonie"
+      ],
+      "description": "Haemophilus influenzae de type b peut être prévenu par la vaccination.",
+      "expansion": "Haemophilus influenzae de type b",
+      "clinical_significance": "Important pour la prévention par la vaccination.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Haemophilus influenzae de type b",
+        "Hib"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tuberculose miliaire",
+      "definition": "Forme sévère de tuberculose caractérisée par la dissémination des bacilles tuberculeux dans le sang et les organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "tuberculose disséminée"
+      ],
+      "related_terms": [
+        "BCG",
+        "méningites"
+      ],
+      "description": "La tuberculose miliaire est souvent mortelle et nécessite un traitement antituberculeux intensif.",
+      "expansion": "N/A",
+      "clinical_significance": "Forme grave de tuberculose nécessitant une intervention médicale urgente.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "miliary tuberculosis",
+        "disseminated tuberculosis"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "BCGites",
+      "definition": "Réactions locales bénignes au site d'injection du vaccin BCG, souvent sous forme de nodules ou d'ulcérations.",
+      "category": "pathologie",
+      "synonyms": [
+        "réactions locales au BCG"
+      ],
+      "related_terms": [
+        "BCG",
+        "ulcération cutanée"
+      ],
+      "description": "Les BCGites sont des effets secondaires courants du vaccin BCG et ne nécessitent généralement pas de traitement.",
+      "expansion": "N/A",
+      "clinical_significance": "Effets secondaires bénins du vaccin BCG.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "BCG vaccine reaction",
+        "BCGite"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anatoxine",
+      "definition": "Forme inactivée d'une toxine qui conserve son immunogénicité mais perd sa toxicité.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "toxoïde"
+      ],
+      "related_terms": [
+        "vaccin antidiphtérique",
+        "formol"
+      ],
+      "description": "Les anatoxines sont utilisées dans les vaccins pour stimuler une réponse immunitaire sans causer de maladie.",
+      "expansion": "N/A",
+      "clinical_significance": "Composant clé des vaccins contre la diphtérie et le tétanos.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "anatoxin",
+        "toxoid"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DT coq",
+      "definition": "Vaccin combiné contre la diphtérie et le tétanos, utilisé principalement chez les enfants.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin diphtérie-tétanos"
+      ],
+      "related_terms": [
+        "anatoxine",
+        "vaccin antidiphtérique"
+      ],
+      "description": "Le DT coq est un vaccin couramment utilisé pour protéger les enfants contre la diphtérie et le tétanos.",
+      "expansion": "N/A",
+      "clinical_significance": "Vaccin essentiel dans le calendrier vaccinal des enfants.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "DT coq vaccine",
+        "diphtheria-tetanus vaccine"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoglobulines humaines",
+      "definition": "Protéines du système immunitaire utilisées pour fournir une immunité passive contre certaines infections.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IgG",
+        "gamma globulines"
+      ],
+      "related_terms": [
+        "sérum antitétanique",
+        "tétanos"
+      ],
+      "description": "Les immunoglobulines humaines sont administrées pour prévenir ou traiter des infections spécifiques en fournissant des anticorps prêts à l'emploi.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisées en cas de plaies majeures pour prévenir le tétanos.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "human immunoglobulins",
+        "IgG"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tétanos néonatal",
+      "definition": "Forme de tétanos qui affecte les nouveau-nés, généralement due à des conditions d'hygiène insuffisantes lors de l'accouchement.",
+      "category": "pathologie",
+      "synonyms": [
+        "tétanos du nouveau-né"
+      ],
+      "related_terms": [
+        "tétanos",
+        "vaccin antitétanique"
+      ],
+      "description": "Le tétanos néonatal est une urgence médicale nécessitant une intervention immédiate et une vaccination préventive des mères.",
+      "expansion": "N/A",
+      "clinical_significance": "Maladie grave et souvent fatale chez les nouveau-nés.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "neonatal tetanus",
+        "newborn tetanus"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Bordetella",
+      "definition": "Genre de bactéries Gram-négatives responsables de la coqueluche.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Bordetella pertussis"
+      ],
+      "related_terms": [
+        "coqueluche",
+        "vaccin anticoquelucheux"
+      ],
+      "description": "Bordetella pertussis est l'agent causal de la coqueluche, une infection respiratoire hautement contagieuse.",
+      "expansion": "N/A",
+      "clinical_significance": "Agent pathogène responsable de la coqueluche.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Bordetella pertussis",
+        "pertussis bacteria"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antigènes immunogènes",
+      "definition": "Substances capables de stimuler une réponse immunitaire.",
+      "category": "immunologie",
+      "synonyms": [
+        "antigènes"
+      ],
+      "related_terms": [
+        "vaccin acellulaire",
+        "Bordetella"
+      ],
+      "description": "Les antigènes immunogènes sont utilisés dans les vaccins pour provoquer une réponse immunitaire protectrice.",
+      "expansion": "N/A",
+      "clinical_significance": "Composants clés des vaccins acellulaires.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "immunogenic antigens",
+        "vaccine components"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome des cris persistants",
+      "definition": "Réaction indésirable au vaccin coquelucheux caractérisée par des épisodes prolongés de cris aigus.",
+      "category": "pathologie",
+      "synonyms": [
+        "crises de hurlement"
+      ],
+      "related_terms": [
+        "vaccin anticoquelucheux",
+        "encéphalopathie"
+      ],
+      "description": "Le syndrome des cris persistants est un effet secondaire rare mais grave du vaccin coquelucheux.",
+      "expansion": "N/A",
+      "clinical_significance": "Effet secondaire grave nécessitant une surveillance médicale.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "persistent crying syndrome",
+        "vaccine side effect"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus morbilleux hyper atténué",
+      "definition": "Forme affaiblie du virus de la rougeole utilisée dans les vaccins pour induire une réponse immunitaire sans provoquer la maladie.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus de la rougeole atténué"
+      ],
+      "related_terms": [
+        "vaccin anti-rougeoleux",
+        "vaccination"
+      ],
+      "description": "Le virus morbilleux hyper atténué est cultivé sur des cultures primaires d'embryon de poulet pour produire des vaccins efficaces.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "virus morbilleux",
+        "vaccin rougeole"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "vaccin anti rougeoleux",
+      "definition": "Vaccin conçu pour prévenir la rougeole en utilisant une forme atténuée du virus morbilleux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin contre la rougeole"
+      ],
+      "related_terms": [
+        "virus morbilleux",
+        "vaccination"
+      ],
+      "description": "Le vaccin anti-rougeoleux est administré en deux doses pour assurer une protection optimale contre la rougeole.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vaccin rougeole",
+        "vaccination rougeole"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "panencéphalite sclérosante subaiguë",
+      "definition": "Complication rare et grave de la rougeole, caractérisée par une inflammation chronique du cerveau entraînant une dégénérescence neurologique.",
+      "category": "pathologie",
+      "synonyms": [
+        "SSPE"
+      ],
+      "related_terms": [
+        "rougeole",
+        "encéphalite"
+      ],
+      "description": "La panencéphalite sclérosante subaiguë est une maladie neurologique progressive qui survient généralement plusieurs années après une infection par la rougeole.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "panencéphalite sclérosante subaiguë",
+        "SSPE"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "génie génétique",
+      "definition": "Technique de manipulation directe de l'ADN pour modifier les caractéristiques d'un organisme ou produire des protéines spécifiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "biotechnologie",
+        "ADN recombinant"
+      ],
+      "related_terms": [
+        "vaccin",
+        "Ag Hbs"
+      ],
+      "description": "Le génie génétique est utilisé pour produire des vaccins, comme celui contre l'hépatite B, en insérant des gènes spécifiques dans des organismes hôtes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "génie génétique",
+        "ADN recombinant"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHB2",
+      "definition": "Deuxième dose du vaccin contre l'hépatite B, souvent administrée sous forme de vaccin combiné comme le Penta 1.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "deuxième dose vaccin hépatite B"
+      ],
+      "related_terms": [
+        "Penta 1",
+        "vaccin hépatite B"
+      ],
+      "description": "La VHB2 est une étape cruciale dans le schéma vaccinal contre l'hépatite B pour assurer une protection durable.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "VHB2",
+        "vaccin hépatite B"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Penta 1",
+      "definition": "Vaccin combiné contenant cinq composants, incluant le vaccin contre l'hépatite B, administré aux nourrissons.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin pentavalent"
+      ],
+      "related_terms": [
+        "VHB2",
+        "vaccin hépatite B"
+      ],
+      "description": "Le Penta 1 est utilisé pour simplifier le schéma vaccinal en combinant plusieurs vaccins en une seule injection.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Penta 1",
+        "vaccin pentavalent"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "embryofoetopathie",
+      "definition": "Ensemble des anomalies congénitales résultant de l'infection par la rubéole pendant la grossesse.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de rubéole congénitale"
+      ],
+      "related_terms": [
+        "rubéole",
+        "grossesse"
+      ],
+      "description": "L'embryofoetopathie due à la rubéole peut entraîner des malformations graves chez le fœtus, y compris la surdité, la cataracte et les malformations cardiaques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "embryofoetopathie",
+        "syndrome de rubéole congénitale"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "haemophilus influenzae type b",
+      "definition": "Bactérie encapsulée responsable de méningites et d'autres infections graves chez les jeunes enfants.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Hib"
+      ],
+      "related_terms": [
+        "vaccin polysaccharidique",
+        "méningite"
+      ],
+      "description": "Haemophilus influenzae type b est une cause majeure de méningite bactérienne chez les enfants non vaccinés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "haemophilus influenzae type b",
+        "Hib"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCV13",
+      "definition": "Vaccin conjugué contre le pneumocoque contenant 13 sérotypes différents, offrant une protection étendue contre les infections pneumococciques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin pneumococcique conjugué 13-valent"
+      ],
+      "related_terms": [
+        "pneumocoque",
+        "vaccin conjugué"
+      ],
+      "description": "Le PCV13 est utilisé pour prévenir les infections invasives à pneumocoque, y compris les méningites et les pneumonies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PCV13",
+        "vaccin pneumococcique"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCV10",
+      "definition": "Vaccin conjugué contre le pneumocoque contenant 10 sérotypes différents, offrant une protection contre les infections pneumococciques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin pneumococcique conjugué 10-valent"
+      ],
+      "related_terms": [
+        "pneumocoque",
+        "vaccin conjugué"
+      ],
+      "description": "Le PCV10 est utilisé pour prévenir les infections invasives à pneumocoque, y compris les méningites et les pneumonies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PCV10",
+        "vaccin pneumococcique"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PNV",
+      "definition": "Programme National de Vaccination, un ensemble de recommandations et de schémas vaccinaux mis en place par les autorités de santé publique.",
+      "category": "classification",
+      "synonyms": [
+        "calendrier vaccinal"
+      ],
+      "related_terms": [
+        "vaccination",
+        "santé publique"
+      ],
+      "description": "Le PNV vise à assurer une couverture vaccinale optimale pour prévenir les maladies infectieuses dans la population.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PNV",
+        "calendrier vaccinal"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "rhino-pharyngé",
+      "definition": "Relatif à la région du rhinopharynx, la partie supérieure de la gorge située derrière le nez.",
+      "category": "anatomie",
+      "synonyms": [
+        "nasopharyngé"
+      ],
+      "related_terms": [
+        "rhinopharynx",
+        "pharynx"
+      ],
+      "description": "Le portage rhino-pharyngé fait référence à la présence de bactéries dans le rhinopharynx, souvent sans symptômes cliniques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "rhino-pharyngé",
+        "rhinopharynx"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "dT3",
+      "definition": "Troisième dose du vaccin contre la diphtérie et le tétanos.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dT-3"
+      ],
+      "related_terms": [
+        "dT1",
+        "dT2",
+        "dT4",
+        "dT5"
+      ],
+      "description": "La troisième dose du vaccin combiné contre la diphtérie et le tétanos, administrée un an après la deuxième dose.",
+      "expansion": "diphtérie-tétanos 3",
+      "clinical_significance": "Assure une protection prolongée contre la diphtérie et le tétanos.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dT4",
+      "definition": "Quatrième dose du vaccin contre la diphtérie et le tétanos.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dT-4"
+      ],
+      "related_terms": [
+        "dT1",
+        "dT2",
+        "dT3",
+        "dT5"
+      ],
+      "description": "La quatrième dose du vaccin combiné contre la diphtérie et le tétanos, administrée cinq ans après la troisième dose.",
+      "expansion": "diphtérie-tétanos 4",
+      "clinical_significance": "Maintient l'immunité contre la diphtérie et le tétanos.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dT5",
+      "definition": "Cinquième dose du vaccin contre la diphtérie et le tétanos.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "dT-5"
+      ],
+      "related_terms": [
+        "dT1",
+        "dT2",
+        "dT3",
+        "dT4"
+      ],
+      "description": "La cinquième dose du vaccin combiné contre la diphtérie et le tétanos, administrée tous les dix ans après la quatrième dose.",
+      "expansion": "diphtérie-tétanos 5",
+      "clinical_significance": "Assure une protection continue contre la diphtérie et le tétanos.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHB-0",
+      "definition": "Première dose du vaccin contre l'hépatite B, administrée à la naissance.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "VHB0"
+      ],
+      "related_terms": [
+        "hépatite B",
+        "sérologie de l'hépatite B"
+      ],
+      "description": "La première dose du vaccin contre l'hépatite B, administrée dans les 24 heures suivant la naissance pour prévenir l'infection.",
+      "expansion": "Vaccin Hépatite B 0",
+      "clinical_significance": "Crucial pour prévenir la transmission mère-enfant de l'hépatite B.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Pentavalent-1",
+      "definition": "Première dose du vaccin pentavalent, combinant les vaccins contre l'hépatite B, la diphtérie, le tétanos, la coqueluche et l'haemophilus type b.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pentavalent 1"
+      ],
+      "related_terms": [
+        "Pentavalent-2",
+        "Pentavalent-3",
+        "DTC",
+        "itib"
+      ],
+      "description": "La première dose du vaccin pentavalent, administrée à 2 mois, protège contre plusieurs maladies infectieuses.",
+      "expansion": "Vaccin Pentavalent 1",
+      "clinical_significance": "Important pour la prévention de multiples infections graves chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VPC-1",
+      "definition": "Première dose du vaccin pneumococcique.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "VPC1"
+      ],
+      "related_terms": [
+        "VPC-2",
+        "VPC-3",
+        "pneumococcique"
+      ],
+      "description": "La première dose du vaccin pneumococcique, administrée à 2 mois, protège contre les infections à pneumocoque.",
+      "expansion": "Vaccin Pneumococcique 1",
+      "clinical_significance": "Important pour prévenir les infections graves à pneumocoque chez les nourrissons.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DTC",
+      "definition": "Vaccin combiné contre la diphtérie, le tétanos et la coqueluche.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Diphtérie-Tétanos-Coqueluche"
+      ],
+      "related_terms": [
+        "diphtérie",
+        "tétanos",
+        "coqueluche"
+      ],
+      "description": "Le vaccin DTC protège contre trois maladies infectieuses graves : la diphtérie, le tétanos et la coqueluche.",
+      "expansion": "Diphtérie-Tétanos-Coqueluche",
+      "clinical_significance": "Crucial pour la prévention de ces maladies chez les enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "itib",
+      "definition": "Vaccin contre l'haemophilus influenzae type b.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Hib"
+      ],
+      "related_terms": [
+        "haemophilus type b",
+        "Pentavalent-1"
+      ],
+      "description": "Le vaccin itib protège contre les infections causées par l'haemophilus influenzae type b, une bactérie responsable de méningites et d'autres infections graves.",
+      "expansion": "Haemophilus Influenzae Type B",
+      "clinical_significance": "Important pour prévenir les infections graves chez les nourrissons et les jeunes enfants.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RR-1",
+      "definition": "Première dose du vaccin contre la rougeole et la rubéole.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "RR1"
+      ],
+      "related_terms": [
+        "RR-2",
+        "rougeole",
+        "rubéole"
+      ],
+      "description": "La première dose du vaccin combiné contre la rougeole et la rubéole, administrée à 12 mois.",
+      "expansion": "Rougeole-Rubéole 1",
+      "clinical_significance": "Important pour la prévention de la rougeole et de la rubéole, deux maladies virales contagieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "surveillance épidémiologique",
+      "definition": "Processus de suivi et d'analyse de la distribution et des déterminants des événements de santé dans une population.",
+      "category": "classification",
+      "synonyms": [
+        "épidémiosurveillance"
+      ],
+      "related_terms": [
+        "taux de couverture vaccinale",
+        "MDO"
+      ],
+      "description": "La surveillance épidémiologique permet d'évaluer l'impact des programmes de vaccination et d'ajuster les stratégies en conséquence.",
+      "expansion": null,
+      "clinical_significance": "Crucial pour la gestion et le contrôle des maladies infectieuses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "taux de couverture vaccinale",
+      "definition": "Proportion de la population cible ayant reçu une dose spécifique de vaccin.",
+      "category": "classification",
+      "synonyms": [
+        "couverture vaccinale"
+      ],
+      "related_terms": [
+        "surveillance épidémiologique",
+        "MDO"
+      ],
+      "description": "Le taux de couverture vaccinale est un indicateur clé de l'efficacité des programmes de vaccination.",
+      "expansion": null,
+      "clinical_significance": "Un taux élevé de couverture vaccinale est essentiel pour atteindre l'immunité collective.",
+      "normal_values": "Varie selon le vaccin et la population cible",
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MDO",
+      "definition": "Maladies à déclaration obligatoire, maladies dont la notification est requise par les autorités de santé.",
+      "category": "classification",
+      "synonyms": [
+        "maladies notifiables"
+      ],
+      "related_terms": [
+        "surveillance épidémiologique",
+        "taux de couverture vaccinale"
+      ],
+      "description": "Les MDO sont des maladies dont la déclaration est obligatoire pour permettre une surveillance et un contrôle efficaces.",
+      "expansion": "Maladies à Déclaration Obligatoire",
+      "clinical_significance": "Important pour la détection précoce et la gestion des épidémies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "paralysies flasques aiguës",
+      "definition": "Paralysie soudaine et sévère des membres, souvent associée à la poliomyélite.",
+      "category": "pathologie",
+      "synonyms": [
+        "PFA"
+      ],
+      "related_terms": [
+        "poliomyélite",
+        "surveillance épidémiologique"
+      ],
+      "description": "Les paralysies flasques aiguës sont un symptôme caractéristique de la poliomyélite et d'autres infections virales.",
+      "expansion": null,
+      "clinical_significance": "La surveillance des PFA est cruciale pour l'éradication de la poliomyélite.",
+      "normal_values": null,
+      "image_search_terms": [
+        "symptômes paralysie flasque aiguë",
+        "poliomyélite"
+      ],
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "virus vivant atténué",
+      "definition": "Un virus vivant atténué est un virus qui a été modifié pour réduire sa virulence tout en conservant sa capacité à induire une réponse immunitaire protectrice.",
+      "category": "microbiologie",
+      "synonyms": [
+        "virus atténué"
+      ],
+      "related_terms": [
+        "vaccin",
+        "immunité"
+      ],
+      "description": "Les vaccins à virus vivant atténué sont souvent utilisés pour des maladies comme la fièvre jaune et la rougeole.",
+      "expansion": null,
+      "clinical_significance": "Ces vaccins peuvent conférer une immunité durable mais ne doivent pas être utilisés chez les personnes immunodéprimées.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyosidique quadrivalent",
+      "definition": "Un vaccin polyosidique quadrivalent est un vaccin qui contient des polysaccharides de quatre sérotypes différents de bactéries, souvent utilisé pour prévenir les infections à méningocoques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin quadrivalent"
+      ],
+      "related_terms": [
+        "méningocoque",
+        "vaccin"
+      ],
+      "description": "Ce type de vaccin est couramment utilisé pour prévenir les infections à méningocoques des sérotypes A, C, W135 et Y.",
+      "expansion": null,
+      "clinical_significance": "Il est souvent requis pour les pèlerins se rendant à La Mecque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Omra",
+      "definition": "L'Omra est un pèlerinage musulman à La Mecque qui peut être effectué à tout moment de l'année, contrairement au Hadj qui a lieu à une période spécifique.",
+      "category": "classification",
+      "synonyms": [
+        "petit pèlerinage"
+      ],
+      "related_terms": [
+        "Hadj",
+        "pèlerinage"
+      ],
+      "description": "Les vaccinations spécifiques sont souvent requises pour les pèlerins effectuant l'Omra.",
+      "expansion": null,
+      "clinical_significance": "Les exigences de vaccination pour l'Omra sont similaires à celles du Hadj.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hadj",
+      "definition": "Le Hadj est un pèlerinage musulman à La Mecque qui doit être effectué au moins une fois dans la vie d'un musulman capable, pendant le mois de Dhou al-Hijja.",
+      "category": "classification",
+      "synonyms": [
+        "grand pèlerinage"
+      ],
+      "related_terms": [
+        "Omra",
+        "pèlerinage"
+      ],
+      "description": "Les vaccinations spécifiques sont souvent requises pour les pèlerins effectuant le Hadj.",
+      "expansion": null,
+      "clinical_significance": "Les exigences de vaccination pour le Hadj incluent souvent des vaccins contre la méningite et la grippe.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "d.T",
+      "definition": "Le vaccin d.T est un vaccin combiné contre la diphtérie et le tétanos.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin diphtérie-tétanos"
+      ],
+      "related_terms": [
+        "diphtérie",
+        "tétanos",
+        "vaccin"
+      ],
+      "description": "Le vaccin d.T est souvent utilisé pour les rappels chez les adultes et les grands enfants non scolarisés.",
+      "expansion": null,
+      "clinical_significance": "Les rappels sont recommandés tous les 10 ans pour maintenir l'immunité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "VHB10 μg",
+      "definition": "Le vaccin contre l'hépatite B pédiatrique (VHB10 μg) est un vaccin utilisé pour prévenir l'hépatite B chez les enfants.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "vaccin hépatite B pédiatrique"
+      ],
+      "related_terms": [
+        "hépatite B",
+        "vaccin"
+      ],
+      "description": "Le VHB10 μg est utilisé jusqu'à l'âge de 15 ans pour la primo-vaccination contre l'hépatite B.",
+      "expansion": null,
+      "clinical_significance": "La vaccination contre l'hépatite B est recommandée pour les voyageurs se rendant dans des zones à forte ou moyenne endémicité.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "couverture vaccinale",
+      "definition": "La couverture vaccinale est le pourcentage de la population qui a reçu un vaccin spécifique.",
+      "category": "classification",
+      "synonyms": [
+        "taux de vaccination"
+      ],
+      "related_terms": [
+        "vaccination",
+        "épidémiologie"
+      ],
+      "description": "Une couverture vaccinale élevée est essentielle pour prévenir les épidémies de maladies évitables par la vaccination.",
+      "expansion": null,
+      "clinical_significance": "La surveillance de la couverture vaccinale est une priorité dans la gestion des programmes de vaccination.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "02afb7ad-cdd7-43d4-a6f0-66dc3061dabc",
+      "source_file": "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Pédiatrie/Vaccinations/Courses/75 Vaccinations 2.51.50 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM 3.05.51 AM 3.06.53 AM.md"
+  ],
+  "total_terms": 120
+}

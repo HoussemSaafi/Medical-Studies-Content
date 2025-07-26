@@ -1,0 +1,2524 @@
+{
+  "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+  "terms": [
+    {
+      "term": "maladie veineuse thrombo-embolique",
+      "definition": "Pathologie caractérisée par la formation de caillots sanguins dans les veines, pouvant entraîner une thrombose veineuse profonde ou une embolie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "MVTE"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "embolie pulmonaire"
+      ],
+      "description": "La MVTE est une pathologie fréquente et grave, souvent associée à d'autres maladies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tomodensitométrie spiralée",
+      "definition": "Technique de scanner utilisant des rayons X pour obtenir des images détaillées des poumons et des artères pulmonaires.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner spiralé",
+        "CT spiralé"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "scanner"
+      ],
+      "description": "La tomodensitométrie spiralée est l'examen de référence pour le diagnostic de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lésion endothéliale",
+      "definition": "Dommage à la couche interne des vaisseaux sanguins, favorisant l'adhérence des plaquettes et la formation de caillots.",
+      "category": "pathologie",
+      "synonyms": [
+        "altération endothéliale"
+      ],
+      "related_terms": [
+        "endothélium",
+        "vascularites"
+      ],
+      "description": "Les lésions endothéliales peuvent être causées par divers facteurs, y compris l'hypoxie et les maladies inflammatoires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombine",
+      "definition": "Enzyme clé dans le processus de coagulation, convertissant le fibrinogène en fibrine pour former des caillots sanguins.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteur IIa"
+      ],
+      "related_terms": [
+        "fibrinogène",
+        "fibrine"
+      ],
+      "description": "La thrombine joue un rôle central dans la formation et la régulation des caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PC-PS-Thrombomoduline",
+      "definition": "Système régulateur de la coagulation qui inactive les facteurs Va et VIIIa, contrôlant ainsi la génération de thrombine.",
+      "category": "physiologie",
+      "synonyms": [
+        "système protéine C-protéine S-thrombomoduline"
+      ],
+      "related_terms": [
+        "protéine C",
+        "protéine S"
+      ],
+      "description": "Ce système joue un rôle crucial dans la régulation de la coagulation et la prévention des thromboses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antithrombine",
+      "definition": "Principal inhibiteur physiologique de la coagulation, agissant sur la thrombine et d'autres facteurs de coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "AT"
+      ],
+      "related_terms": [
+        "héparine",
+        "coagulation"
+      ],
+      "description": "L'antithrombine est essentielle pour l'activité anticoagulante de l'héparine.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombi",
+      "definition": "Les thrombi sont des caillots sanguins formés dans les vaisseaux sanguins, composés principalement de fibrine et de globules rouges.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombus"
+      ],
+      "related_terms": [
+        "fibrine",
+        "globules rouges"
+      ],
+      "description": "Les thrombi peuvent obstruer les vaisseaux sanguins et causer des complications telles que l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "lignes de Zahn",
+      "definition": "Les lignes de Zahn sont des dépôts minces de plaquettes qui se forment entre les couches de fibrine et de globules rouges dans un thrombus.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombus",
+        "fibrine"
+      ],
+      "description": "Les lignes de Zahn témoignent de la progression par strates successives du thrombus rouge.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie veineuse post-thrombotique",
+      "definition": "La maladie veineuse post-thrombotique est une complication de la thrombose veineuse profonde, caractérisée par une incontinence valvulaire et des symptômes chroniques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "incontinence valvulaire"
+      ],
+      "description": "Cette maladie peut entraîner des douleurs, des œdèmes et des ulcères veineux.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "stase veineuse",
+      "definition": "La stase veineuse est le ralentissement ou l'arrêt de la circulation sanguine dans les veines, souvent causé par des lésions endothéliales.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose",
+        "thrombus"
+      ],
+      "description": "La stase veineuse prédispose à la formation de thrombus.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MVTE",
+      "definition": "MVTE est l'acronyme pour Maladies Veineuses Thrombo-Emboliques, qui incluent la thrombose veineuse profonde et l'embolie pulmonaire.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "embolie pulmonaire"
+      ],
+      "description": null,
+      "expansion": "Maladies Veineuses Thrombo-Emboliques",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "EP",
+      "definition": "EP est l'acronyme pour Embolie Pulmonaire, une obstruction d'une artère pulmonaire par un thrombus.",
+      "category": "acronyme",
+      "synonyms": [],
+      "related_terms": [
+        "embolie pulmonaire",
+        "thrombus"
+      ],
+      "description": null,
+      "expansion": "Embolie Pulmonaire",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Phlegmatia Alba Dolens",
+      "definition": "Phlegmatia Alba Dolens est une forme de thrombose veineuse profonde non compliquée, caractérisée par une douleur et un œdème sans signes inflammatoires marqués.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose veineuse profonde"
+      ],
+      "description": "Cette condition est souvent associée à une douleur et un œdème localisés.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pouls grimpant de Mahler",
+      "definition": "Le pouls grimpant de Mahler est une augmentation progressive de la fréquence cardiaque, souvent observée dans les thromboses veineuses profondes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombose veineuse profonde"
+      ],
+      "description": "Ce signe peut être un indicateur de la progression de la thrombose veineuse.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Wells",
+      "definition": "Score de Wells, un outil clinique utilisé pour évaluer la probabilité de thrombose veineuse profonde (TVP) en fonction de critères cliniques.",
+      "category": "classification",
+      "synonyms": [
+        "score de Wells pour TVP"
+      ],
+      "related_terms": [
+        "score de probabilité clinique",
+        "TVP"
+      ],
+      "description": "Le score de Wells aide à stratifier les patients en fonction de leur risque de TVP, guidant ainsi les décisions diagnostiques et thérapeutiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Wells",
+        "évaluation TVP"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Echo-doppler",
+      "definition": "Technique d'imagerie utilisant les ultrasons pour visualiser les vaisseaux sanguins et le flux sanguin, souvent utilisée pour diagnostiquer les thromboses veineuses.",
+      "category": "imagerie",
+      "synonyms": [
+        "échographie doppler",
+        "doppler veineux"
+      ],
+      "related_terms": [
+        "ultrasons",
+        "imagerie vasculaire"
+      ],
+      "description": "L'écho-doppler est l'examen de référence pour le diagnostic de la TVP, permettant de visualiser les thrombus et d'évaluer la compressibilité des veines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "écho-doppler veineux",
+        "doppler TVP"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "Baker",
+      "definition": "Kyste poplité de Baker, une hernie synoviale située à l'arrière du genou, souvent associée à des pathologies articulaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "kyste de Baker"
+      ],
+      "related_terms": [
+        "hernie synoviale",
+        "genou"
+      ],
+      "description": "Le kyste de Baker peut se rompre et provoquer des symptômes similaires à ceux d'une TVP.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "kyste de Baker",
+        "hernie synoviale"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "tendinite",
+      "definition": "Inflammation d'un tendon, souvent due à une surutilisation ou à un traumatisme, caractérisée par une douleur et une sensibilité localisées.",
+      "category": "pathologie",
+      "synonyms": [
+        "inflammation tendineuse"
+      ],
+      "related_terms": [
+        "tendon",
+        "inflammation"
+      ],
+      "description": "La tendinite peut provoquer une douleur et être confondue avec une TVP.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "tendinite",
+        "inflammation tendineuse"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "Phlegmatia coerulea dolens",
+      "definition": "Forme sévère de thrombose veineuse profonde caractérisée par une obstruction massive des veines, entraînant une ischémie du membre affecté.",
+      "category": "pathologie",
+      "synonyms": [
+        "phlébite bleue"
+      ],
+      "related_terms": [
+        "TVP",
+        "ischémie"
+      ],
+      "description": "La phlegmatia coerulea dolens est une urgence vasculaire nécessitant une intervention rapide pour éviter des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "phlegmatia coerulea dolens",
+        "phlébite bleue"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.91
+    },
+    {
+      "term": "thrombectomie",
+      "definition": "Procédure chirurgicale visant à retirer un thrombus (caillot sanguin) d'un vaisseau sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "ablation de thrombus"
+      ],
+      "related_terms": [
+        "thrombus",
+        "chirurgie vasculaire"
+      ],
+      "description": "La thrombectomie est souvent nécessaire dans les cas de TVP sévère pour rétablir le flux sanguin.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombectomie",
+        "ablation de thrombus"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "TVS",
+      "definition": "Thrombose veineuse superficielle, une condition où un caillot sanguin se forme dans une veine superficielle.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose veineuse superficielle"
+      ],
+      "related_terms": [
+        "thrombose",
+        "veine superficielle"
+      ],
+      "description": "Les TVS peuvent survenir suite à des traumatismes ou des injections intraveineuses et nécessitent une attention similaire aux TVP.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose veineuse superficielle",
+        "TVS"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.88
+    },
+    {
+      "term": "thromboses veineuses",
+      "definition": "Formation de caillots sanguins dans les veines, obstruant partiellement ou totalement le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose veineuse"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "embolie pulmonaire"
+      ],
+      "description": "Les thromboses veineuses peuvent survenir dans diverses parties du corps et sont souvent associées à des facteurs de risque tels que l'immobilité prolongée, les interventions chirurgicales, ou des anomalies de l'hémostase.",
+      "expansion": null,
+      "clinical_significance": "Les thromboses veineuses peuvent entraîner des complications graves comme l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombose veineuse",
+        "caillot sanguin"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cathéter",
+      "definition": "Tube flexible inséré dans le corps pour drainer des fluides, injecter des médicaments ou permettre l'accès à des vaisseaux sanguins.",
+      "category": "anatomie",
+      "synonyms": [
+        "cathéter veineux"
+      ],
+      "related_terms": [
+        "cathéter d'hémodialyse",
+        "cathéter central"
+      ],
+      "description": "Les cathéters sont couramment utilisés en médecine pour diverses procédures, mais peuvent également être une source de complications comme les thromboses veineuses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cathéter",
+        "cathéter veineux"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Paget-Schroetter",
+      "definition": "Thrombose veineuse profonde du membre supérieur induite par l'effort, souvent observée chez les athlètes ou les travailleurs manuels.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose veineuse d'effort"
+      ],
+      "related_terms": [
+        "thrombose veineuse",
+        "effort physique"
+      ],
+      "description": "Ce syndrome est caractérisé par une thrombose veineuse due à des efforts répétés ou intenses du membre supérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Paget-Schroetter",
+        "thrombose veineuse d'effort"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome du défilé thoracique veineux",
+      "definition": "Compression de la veine sous-clavière dans la pince costo-claviculaire, souvent due à des anomalies anatomiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de la pince costo-claviculaire"
+      ],
+      "related_terms": [
+        "thrombose veineuse",
+        "anomalie anatomique"
+      ],
+      "description": "Ce syndrome peut entraîner une thrombose veineuse et des symptômes tels que douleur et œdème du membre supérieur.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome du défilé thoracique veineux",
+        "pince costo-claviculaire"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angio-scanner",
+      "definition": "Technique d'imagerie médicale utilisant le scanner pour visualiser les vaisseaux sanguins.",
+      "category": "imagerie",
+      "synonyms": null,
+      "related_terms": [
+        "angiographie",
+        "scanner"
+      ],
+      "description": "L'angio-scanner est utilisé pour diagnostiquer des conditions telles que les thromboses veineuses et les anévrismes.",
+      "expansion": "Angiographie par Scanner",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "angio-scanner",
+        "angiographie par scanner"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur V Leiden",
+      "definition": "Mutation génétique du facteur V qui le rend résistant à l'inactivation par la protéine C activée, augmentant le risque de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "Mutation Leiden"
+      ],
+      "related_terms": [
+        "Protéine C",
+        "Thrombophilie"
+      ],
+      "description": "La mutation du facteur V Leiden est une cause fréquente de thrombophilie héréditaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Entéropathie inflammatoire chronique",
+      "definition": "Inflammation chronique de l'intestin, incluant la maladie de Crohn et la colite ulcéreuse, souvent associée à un risque accru de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "MICI"
+      ],
+      "related_terms": [
+        "Maladie de Crohn",
+        "Colite ulcéreuse"
+      ],
+      "description": "Les entéropathies inflammatoires chroniques peuvent entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thromboangéite oblitérante de Léo Buerger",
+      "definition": "Maladie inflammatoire des petites et moyennes artères et veines, souvent associée à un risque accru de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "Maladie de Buerger"
+      ],
+      "related_terms": [
+        "Thrombose",
+        "Vascularite"
+      ],
+      "description": "La thromboangéite oblitérante de Léo Buerger peut entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thrombopénie induite à l'héparine",
+      "definition": "Réaction immunitaire à l'héparine entraînant une diminution des plaquettes et un risque accru de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "HIT"
+      ],
+      "related_terms": [
+        "Héparine",
+        "Thrombose"
+      ],
+      "description": "La thrombopénie induite à l'héparine peut entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Artériopathie décompensée",
+      "definition": "Maladie des artères caractérisée par une obstruction progressive de l'apport sanguin, souvent associée à un risque accru de thrombose.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Thrombose",
+        "Insuffisance cardiaque"
+      ],
+      "description": "L'artériopathie décompensée peut entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Cockett",
+      "definition": "Compression de la veine iliaque commune gauche par l'artère iliaque commune droite, souvent associée à un risque accru de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome de May-Thurner"
+      ],
+      "related_terms": [
+        "Thrombose",
+        "Compression veineuse"
+      ],
+      "description": "Le syndrome de Cockett peut entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "C-protéine réactive",
+      "definition": "Protéine de phase aiguë produite par le foie en réponse à une inflammation, utilisée comme marqueur de l'inflammation.",
+      "category": "pathologie",
+      "synonyms": [
+        "CRP"
+      ],
+      "related_terms": [
+        "Inflammation",
+        "Marqueur de l'inflammation"
+      ],
+      "description": "La C-protéine réactive est un indicateur non spécifique de l'inflammation.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Colonoscopie",
+      "definition": "Examen endoscopique du côlon à l'aide d'un colonoscope.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Endoscopie",
+        "Colonoscope"
+      ],
+      "description": "La colonoscopie est utilisée pour diagnostiquer des affections du côlon.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Frottis cervico-vaginal",
+      "definition": "Prélèvement de cellules du col de l'utérus et du vagin pour examen cytologique.",
+      "category": "imagerie",
+      "synonyms": [
+        "Frottis de Papanicolaou"
+      ],
+      "related_terms": [
+        "Cytologie",
+        "Col de l'utérus"
+      ],
+      "description": "Le frottis cervico-vaginal est utilisé pour détecter des anomalies cellulaires.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Test pathergique",
+      "definition": "Test cutané utilisé pour diagnostiquer la maladie de Behçet, consistant à provoquer une réaction inflammatoire par une petite piqûre.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "Maladie de Behçet",
+        "Test cutané"
+      ],
+      "description": "Le test pathergique est utilisé pour diagnostiquer la maladie de Behçet.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des risques de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémopathies malignes",
+      "definition": "Maladies malignes du sang et des organes hématopoïétiques, incluant les leucémies, les lymphomes et les myélomes.",
+      "category": "pathologie",
+      "synonyms": [
+        "cancers du sang"
+      ],
+      "related_terms": [
+        "leucémie",
+        "lymphome",
+        "myélome"
+      ],
+      "description": "Les hémopathies malignes affectent la production et la fonction des cellules sanguines et peuvent entraîner des complications graves.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "leucémie",
+        "lymphome"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "triade de Virchow",
+      "definition": "Trois facteurs contribuant à la thrombose : altération de la paroi vasculaire, altération du flux sanguin et altération de la composition sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "triade de Virchow"
+      ],
+      "related_terms": [
+        "hypercoagulabilité",
+        "stase",
+        "endothélium"
+      ],
+      "description": "Ces trois facteurs sont essentiels pour comprendre le mécanisme de formation des thromboses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "triade de Virchow",
+        "thrombose"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pro-coagulant",
+      "definition": "Substance ou facteur qui favorise la coagulation sanguine.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "facteur pro-coagulant"
+      ],
+      "related_terms": [
+        "anticoagulant",
+        "hémostase"
+      ],
+      "description": "Les pro-coagulants sont des facteurs qui favorisent la formation de caillots sanguins.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pro-coagulant",
+        "coagulation"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps antiphospholipides",
+      "definition": "Anticorps dirigés contre les phospholipides, associés à des troubles de la coagulation et des fausses couches à répétition.",
+      "category": "pathologie",
+      "synonyms": [
+        "APL"
+      ],
+      "related_terms": [
+        "SAPL",
+        "thrombose"
+      ],
+      "description": "Les anticorps antiphospholipides sont impliqués dans le syndrome des antiphospholipides et peuvent entraîner des complications thromboemboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps antiphospholipides",
+        "APL"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticoagulant circulant",
+      "definition": "Anticorps qui interfère avec la coagulation sanguine, souvent associé au syndrome des antiphospholipides.",
+      "category": "pathologie",
+      "synonyms": [
+        "lupus anticoagulant"
+      ],
+      "related_terms": [
+        "SAPL",
+        "anticorps antiphospholipides"
+      ],
+      "description": "L'anticoagulant circulant est un type d'anticorps qui peut allonger le temps de coagulation in vitro.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticoagulant circulant",
+        "lupus anticoagulant"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SAPORRO",
+      "definition": "Critères de classification pour le syndrome des antiphospholipides, révisés en 2006.",
+      "category": "classification",
+      "synonyms": [
+        "Sapporo"
+      ],
+      "related_terms": [
+        "SAPL",
+        "anticorps antiphospholipides"
+      ],
+      "description": "Les critères de Sapporo sont utilisés pour diagnostiquer le syndrome des antiphospholipides en se basant sur des manifestations cliniques et biologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "SAPORRO",
+        "Sapporo"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MAI",
+      "definition": "Maladie auto-immune, trouble où le système immunitaire attaque les tissus sains de l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie auto-immune"
+      ],
+      "related_terms": [
+        "auto-immunité",
+        "anticorps"
+      ],
+      "description": "Les MAI peuvent affecter divers organes et systèmes, entraînant des symptômes variés.",
+      "expansion": "Maladie Auto-Immune",
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "MAI",
+        "maladie auto-immune"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "corticoïde",
+      "definition": "Médicament anti-inflammatoire stéroïdien utilisé pour traiter diverses conditions inflammatoires et auto-immunes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "stéroïde",
+        "glucocorticoïde"
+      ],
+      "related_terms": [
+        "inflammation",
+        "auto-immunité"
+      ],
+      "description": "Les corticoïdes sont utilisés pour réduire l'inflammation et moduler la réponse immunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "corticoïde",
+        "stéroïde"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Léo Buerger",
+      "definition": "Maladie inflammatoire des vaisseaux sanguins, principalement des artères et des veines des membres inférieurs, souvent associée au tabagisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboangéite oblitérante"
+      ],
+      "related_terms": [
+        "vascularite",
+        "tabagisme"
+      ],
+      "description": "La maladie de Léo Buerger peut entraîner des troubles trophiques et des ulcérations.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie de Léo Buerger",
+        "thromboangéite oblitérante"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Covid-19",
+      "definition": "Maladie infectieuse causée par le virus SARS-CoV-2, caractérisée par des symptômes respiratoires et systémiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Covid-19"
+      ],
+      "related_terms": [
+        "SARS-CoV-2",
+        "infection respiratoire"
+      ],
+      "description": "Le Covid-19 peut entraîner des complications graves, y compris des thromboses et des pneumonies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Covid-19",
+        "SARS-CoV-2"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombocytose",
+      "definition": "Augmentation du nombre de plaquettes dans le sang, souvent due à une production excessive par la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombocytémie"
+      ],
+      "related_terms": [
+        "plaquettes",
+        "moelle osseuse"
+      ],
+      "description": "La thrombocytose peut entraîner un risque accru de thrombose.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thrombocytose",
+        "thrombocytémie"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Budd Chiari",
+      "definition": "Obstruction des veines hépatiques, entraînant une hypertension portale et une insuffisance hépatique.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Budd-Chiari"
+      ],
+      "related_terms": [
+        "veines hépatiques",
+        "hypertension portale"
+      ],
+      "description": "Le syndrome de Budd Chiari peut être causé par diverses conditions, y compris des maladies myéloprolifératives.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Budd Chiari",
+        "syndrome de Budd-Chiari"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Jak2",
+      "definition": "Gène codant pour une tyrosine kinase impliquée dans la signalisation cellulaire et souvent muté dans les syndromes myéloprolifératifs.",
+      "category": "pathologie",
+      "synonyms": [
+        "JAK2"
+      ],
+      "related_terms": [
+        "tyrosine kinase",
+        "syndromes myéloprolifératifs"
+      ],
+      "description": "Les mutations de Jak2 sont fréquentes dans les syndromes myéloprolifératifs et peuvent entraîner une prolifération cellulaire excessive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Jak2",
+        "JAK2"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombotique",
+      "definition": "Relatif à la formation de thrombus, un caillot sanguin qui peut obstruer un vaisseau sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombogène"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Le risque thrombotique peut être augmenté par certains médicaments comme les œstrogènes de synthèse.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des maladies thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thalidomide",
+      "definition": "Médicament immunomodulateur utilisé dans le traitement du myélome multiple.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Thalidomide"
+      ],
+      "related_terms": [
+        "myélome multiple",
+        "immunomodulateur"
+      ],
+      "description": "Utilisé pour traiter le myélome multiple, nécessite une anticoagulation avant le début du traitement.",
+      "expansion": null,
+      "clinical_significance": "Risque accru de thrombose veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombopénie induite par l'héparine (TIH)",
+      "definition": "Réduction du nombre de plaquettes sanguines induite par l'administration d'héparine, pouvant entraîner des complications thrombotiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "TIH"
+      ],
+      "related_terms": [
+        "héparine",
+        "thrombopénie"
+      ],
+      "description": "Phénomène rare mais grave, nécessitant l'arrêt immédiat de l'héparine.",
+      "expansion": null,
+      "clinical_significance": "Risque de thrombose artérielle et veineuse.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombose artérielle",
+      "definition": "Formation d'un caillot sanguin dans une artère, obstruant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thrombose artérielle"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Complication grave pouvant entraîner une ischémie des tissus.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une intervention rapide pour prévenir les dommages tissulaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparine-facteur 4 plaquettaire (H-FP4)",
+      "definition": "Complexe formé à la surface des plaquettes en présence d'héparine, impliqué dans la pathogénie de la thrombopénie induite par l'héparine.",
+      "category": "physiologie",
+      "synonyms": [
+        "H-FP4"
+      ],
+      "related_terms": [
+        "héparine",
+        "facteur 4 plaquettaire"
+      ],
+      "description": "Formation de ce complexe active les anticorps anti-H-PF4, induisant l'activation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la compréhension de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-H-PF4",
+      "definition": "Anticorps dirigés contre le complexe héparine-facteur 4 plaquettaire, impliqués dans la thrombopénie induite par l'héparine.",
+      "category": "immunologie",
+      "synonyms": [
+        "anti-H-PF4"
+      ],
+      "related_terms": [
+        "anticorps",
+        "héparine"
+      ],
+      "description": "Ces anticorps activent les fragments Fc des anticorps de type IgG, induisant l'activation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogénie de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FcR II",
+      "definition": "Récepteur pour la région Fc des anticorps de type IgG, présent sur les plaquettes.",
+      "category": "immunologie",
+      "synonyms": [
+        "FcR II"
+      ],
+      "related_terms": [
+        "récepteur Fc",
+        "IgG"
+      ],
+      "description": "La fixation des fragments Fc des IgG sur ces récepteurs induit l'activation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la pathogénie de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparines de bas poids moléculaire (HBPM)",
+      "definition": "Forme d'héparine avec un poids moléculaire plus faible, utilisée pour prévenir les thromboses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HBPM"
+      ],
+      "related_terms": [
+        "héparine",
+        "anticoagulant"
+      ],
+      "description": "Moins susceptibles de causer une TIH que l'héparine non fractionnée.",
+      "expansion": null,
+      "clinical_significance": "Utilisées pour la prévention des thromboses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "héparine non fractionnée (HNF)",
+      "definition": "Forme d'héparine non modifiée, utilisée pour prévenir les thromboses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HNF"
+      ],
+      "related_terms": [
+        "héparine",
+        "anticoagulant"
+      ],
+      "description": "Plus susceptible de causer une TIH que les héparines de bas poids moléculaire.",
+      "expansion": null,
+      "clinical_significance": "Utilisée pour la prévention des thromboses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "J2",
+      "definition": "Jour 2, deuxième jour de surveillance ou de traitement.",
+      "category": "classification",
+      "synonyms": [
+        "J2"
+      ],
+      "related_terms": [
+        "J5",
+        "surveillance"
+      ],
+      "description": "Utilisé pour indiquer le deuxième jour de surveillance des plaquettes.",
+      "expansion": null,
+      "clinical_significance": "Important dans la surveillance de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "J5",
+      "definition": "Jour 5, cinquième jour de surveillance ou de traitement.",
+      "category": "classification",
+      "synonyms": [
+        "J5"
+      ],
+      "related_terms": [
+        "J2",
+        "surveillance"
+      ],
+      "description": "Utilisé pour indiquer le cinquième jour de surveillance des plaquettes.",
+      "expansion": null,
+      "clinical_significance": "Important dans la surveillance de la TIH.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteurs V et VIII",
+      "definition": "Facteurs de coagulation impliqués dans la cascade de coagulation sanguine.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteur V",
+        "facteur VIII"
+      ],
+      "related_terms": [
+        "coagulation",
+        "hémostase"
+      ],
+      "description": "Augmentation de ces facteurs peut être observée dans les infections et autres conditions inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "veine iliaque primitive gauche",
+      "definition": "Veine située dans le bassin, drainant le sang de la jambe gauche vers la veine cave inférieure.",
+      "category": "anatomie",
+      "synonyms": [
+        "veine iliaque primitive gauche"
+      ],
+      "related_terms": [
+        "veine iliaque",
+        "veine cave inférieure"
+      ],
+      "description": "Peut être comprimée dans le syndrome de Cockett.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic du syndrome de Cockett.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artère iliaque primitive droite",
+      "definition": "Artère située dans le bassin, fournissant le sang à la jambe droite.",
+      "category": "anatomie",
+      "synonyms": [
+        "artère iliaque primitive droite"
+      ],
+      "related_terms": [
+        "artère iliaque",
+        "artère fémorale"
+      ],
+      "description": "Peut comprimer la veine iliaque primitive gauche dans le syndrome de Cockett.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic du syndrome de Cockett.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "diabète non insulinodépendant",
+      "definition": "Type de diabète caractérisé par une résistance à l'insuline et une production insuffisante d'insuline par le pancréas.",
+      "category": "pathologie",
+      "synonyms": [
+        "diabète de type 2"
+      ],
+      "related_terms": [
+        "diabète",
+        "insuline"
+      ],
+      "description": "Associé à un risque accru de TVP et de maladie athéromateuse.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion pour prévenir les complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie athéromateuse",
+      "definition": "Condition caractérisée par l'accumulation de plaques d'athérome dans les artères, entraînant une obstruction du flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "athérosclérose"
+      ],
+      "related_terms": [
+        "athérome",
+        "artériosclérose"
+      ],
+      "description": "Facteurs de risque classiques incluent l'hypertriglycéridémie et le diabète non insulinodépendant.",
+      "expansion": null,
+      "clinical_significance": "Nécessite une gestion pour prévenir les complications cardiovasculaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MTVE",
+      "definition": "Maladies thromboemboliques veineuses, incluant la thrombose veineuse profonde et l'embolie pulmonaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "MTVE"
+      ],
+      "related_terms": [
+        "TVP",
+        "embolie pulmonaire"
+      ],
+      "description": "Complications graves nécessitant une anticoagulation pour prévenir les récidives.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des maladies thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anti-thrombine (AT)",
+      "definition": "Protéine qui inhibe plusieurs facteurs de coagulation, jouant un rôle crucial dans la régulation de la coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "anti-thrombine"
+      ],
+      "related_terms": [
+        "coagulation",
+        "hémostase"
+      ],
+      "description": "Un déficit en AT est associé à un risque élevé de TV.",
+      "expansion": null,
+      "clinical_significance": "Important dans la prévention des thromboses.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "nécroses cutanées",
+      "definition": "Mort cellulaire de la peau, souvent due à une ischémie ou une infection.",
+      "category": "pathologie",
+      "synonyms": [
+        "nécroses cutanées"
+      ],
+      "related_terms": [
+        "nécrose",
+        "ischémie"
+      ],
+      "description": "Peuvent survenir en cas de déficit en protéine C ou S lors d'un traitement par AVK.",
+      "expansion": null,
+      "clinical_significance": "Complication grave nécessitant une intervention médicale.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thromboses",
+      "definition": "Formation de caillots sanguins dans les vaisseaux sanguins, obstruant le flux sanguin.",
+      "category": "pathologie",
+      "synonyms": [
+        "thromboses"
+      ],
+      "related_terms": [
+        "thrombose",
+        "embolie"
+      ],
+      "description": "Complications graves nécessitant une anticoagulation pour prévenir les récidives.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des maladies thromboemboliques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PCa",
+      "definition": "Protéine C activée, forme active de la protéine C qui inhibe les facteurs de coagulation V et VIII.",
+      "category": "physiologie",
+      "synonyms": [
+        "protéine C activée"
+      ],
+      "related_terms": [
+        "protéine C",
+        "coagulation"
+      ],
+      "description": "Utilisée dans le test de résistance à l'action de la protéine C activée (RPCa).",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "temps de céphaline activée (TCa)",
+      "definition": "Test de laboratoire mesurant le temps de coagulation du sang après activation par la céphaline.",
+      "category": "imagerie",
+      "synonyms": [
+        "TCa"
+      ],
+      "related_terms": [
+        "coagulation",
+        "céphaline"
+      ],
+      "description": "Utilisé pour évaluer la résistance à l'action de la protéine C activée (RPCa).",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "RPCa",
+      "definition": "Résistance à l'action de la protéine C activée, une anomalie constitutionnelle responsable de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "RPCa"
+      ],
+      "related_terms": [
+        "protéine C activée",
+        "thrombose"
+      ],
+      "description": "Due à une mutation du facteur V ou facteur Leiden.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur Leiden",
+      "definition": "Mutation du facteur V (remplacement d'une arginine par une glutamine en position 506) qui empêche son activation physiologique par la protéine C activée.",
+      "category": "pathologie",
+      "synonyms": [
+        "facteur Leiden"
+      ],
+      "related_terms": [
+        "facteur V",
+        "protéine C activée"
+      ],
+      "description": "Responsable de la RPCa, une anomalie constitutionnelle responsable de thrombose.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AT",
+      "definition": "Antithrombine, une protéine qui inhibe plusieurs enzymes de la coagulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Antithrombine"
+      ],
+      "related_terms": [
+        "PC",
+        "PS"
+      ],
+      "description": "Un déficit en antithrombine peut entraîner une thrombophilie, augmentant le risque de thrombose.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de la thrombophilie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PS",
+      "definition": "Protéine S, une protéine dépendante de la vitamine K qui agit comme un cofacteur pour la protéine C activée.",
+      "category": "pathologie",
+      "synonyms": [
+        "Protéine S"
+      ],
+      "related_terms": [
+        "PC",
+        "AT"
+      ],
+      "description": "Un déficit en protéine S peut entraîner une thrombophilie.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de la thrombophilie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "G20210A",
+      "definition": "Mutation du gène de la prothrombine qui augmente le risque de thrombose.",
+      "category": "pathologie",
+      "synonyms": [
+        "Variant G20210A"
+      ],
+      "related_terms": [
+        "prothrombine"
+      ],
+      "description": "Associée à une augmentation du potentiel thrombotique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de la thrombophilie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dysfibrinogènémie",
+      "definition": "Anomalie du fibrinogène, une protéine essentielle dans la coagulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Anomalie du fibrinogène"
+      ],
+      "related_terms": [
+        "facteur VIII"
+      ],
+      "description": "Peut entraîner une thrombose.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de la thrombophilie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur VIII",
+      "definition": "Protéine essentielle dans la cascade de la coagulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Facteur VIII"
+      ],
+      "related_terms": [
+        "dysfibrinogènémie"
+      ],
+      "description": "Une élévation du facteur VIII peut entraîner une thrombose.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de la thrombophilie.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MTHFR",
+      "definition": "Méthyl-tétra-hydro-folate-réductase, une enzyme impliquée dans la reméthylation de l'homocystéine en méthionine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Méthyl-tétra-hydro-folate-réductase"
+      ],
+      "related_terms": [
+        "homocystéine",
+        "méthionine"
+      ],
+      "description": "Les polymorphismes de la MTHFR sont des facteurs de risque de MVTE.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation du risque cardiovasculaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "homocystinurie",
+      "definition": "Maladie génétique rare caractérisée par une accumulation d'homocystéine et de méthionine dans l'organisme.",
+      "category": "pathologie",
+      "synonyms": [
+        "Homocystinurie"
+      ],
+      "related_terms": [
+        "cystathionine bêta-synthase"
+      ],
+      "description": "Associée à des thromboses vasculaires, une ostéoporose et des anomalies neurologiques.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation du risque de thrombose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cystathionine bêta-synthase",
+      "definition": "Enzyme impliquée dans la conversion de l'homocystéine en cystathionine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cystathionine bêta-synthase"
+      ],
+      "related_terms": [
+        "homocystinurie"
+      ],
+      "description": "Un déficit en cette enzyme entraîne l'homocystinurie.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation du risque de thrombose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "tachypnée",
+      "definition": "Respiration rapide, souvent associée à une détresse respiratoire.",
+      "category": "pathologie",
+      "synonyms": [
+        "Tachypnée"
+      ],
+      "related_terms": [
+        "embolie pulmonaire"
+      ],
+      "description": "Signe clinique fréquent de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HAD",
+      "definition": "Hypertrophie auriculaire droite, une augmentation de la taille de l'oreillette droite du cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hypertrophie auriculaire droite"
+      ],
+      "related_terms": [
+        "embolie pulmonaire"
+      ],
+      "description": "Signe de sévérité de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "péricardite aiguë",
+      "definition": "Inflammation aiguë du péricarde, la membrane entourant le cœur.",
+      "category": "pathologie",
+      "synonyms": [
+        "Péricardite aiguë"
+      ],
+      "related_terms": [
+        "embolie pulmonaire"
+      ],
+      "description": "Diagnostic différentiel de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioscanner spiralé thoracique multibarette",
+      "definition": "Technique d'imagerie utilisant un scanner pour visualiser les vaisseaux sanguins du thorax.",
+      "category": "imagerie",
+      "synonyms": [
+        "Angioscanner spiralé thoracique multibarette"
+      ],
+      "related_terms": [
+        "embolie pulmonaire"
+      ],
+      "description": "Utilisé pour le diagnostic de l'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome post-phlébitique",
+      "definition": "Complication chronique de la thrombose veineuse profonde, caractérisée par des symptômes tels que l'œdème, la douleur et les ulcères.",
+      "category": "pathologie",
+      "synonyms": [
+        "Syndrome post-phlébitique"
+      ],
+      "related_terms": [
+        "TVP"
+      ],
+      "description": "Complication à long terme de la TVP.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation du risque de thrombose.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "angioscanner thoracique",
+      "definition": "Technique d'imagerie utilisant un scanner avec injection de produit de contraste pour visualiser les vaisseaux sanguins du thorax.",
+      "category": "imagerie",
+      "synonyms": [
+        "angioscanner pulmonaire"
+      ],
+      "related_terms": [
+        "scanner thoracique",
+        "angiographie"
+      ],
+      "description": "Utilisé pour diagnostiquer l'embolie pulmonaire en visualisant les obstructions dans les artères pulmonaires.",
+      "expansion": null,
+      "clinical_significance": "Très spécifique pour confirmer le diagnostic d'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.98
+    },
+    {
+      "term": "scintigraphie pulmonaire Ventilation / Perfusion",
+      "definition": "Examen nucléaire qui évalue la ventilation et la perfusion des poumons en utilisant des traceurs radioactifs.",
+      "category": "imagerie",
+      "synonyms": [
+        "scintigraphie V/Q"
+      ],
+      "related_terms": [
+        "scintigraphie pulmonaire",
+        "examen V/Q"
+      ],
+      "description": "Utilisé pour diagnostiquer l'embolie pulmonaire en détectant des anomalies de la perfusion pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Sensible mais peu spécifique, utilisé en cas de contre-indication à l'angioscanner.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.97
+    },
+    {
+      "term": "sPESI",
+      "definition": "Pulmonary Embolism Severity Index simplifié, un score utilisé pour évaluer la gravité de l'embolie pulmonaire.",
+      "category": "classification",
+      "synonyms": [
+        "PESI simplifié"
+      ],
+      "related_terms": [
+        "PESI",
+        "score de mortalité"
+      ],
+      "description": "Utilisé pour classer les patients en fonction du risque de mortalité à 30 jours.",
+      "expansion": null,
+      "clinical_significance": "Aide à la prise de décision clinique et à la stratification du risque.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.94
+    },
+    {
+      "term": "choc obstructif",
+      "definition": "Type de choc caractérisé par une obstruction mécanique au débit cardiaque, souvent due à une embolie pulmonaire massive.",
+      "category": "pathologie",
+      "synonyms": [
+        "choc cardiogénique obstructif"
+      ],
+      "related_terms": [
+        "choc cardiogénique",
+        "embolie pulmonaire massive"
+      ],
+      "description": "Caractérisé par une hypotension et une hypoperfusion des organes.",
+      "expansion": null,
+      "clinical_significance": "Urgence médicale nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.92
+    },
+    {
+      "term": "VD",
+      "definition": "Ventricule droit, l'une des quatre cavités du cœur responsable de pomper le sang vers les poumons.",
+      "category": "anatomie",
+      "synonyms": [
+        "ventricule droit"
+      ],
+      "related_terms": [
+        "ventricule gauche",
+        "cœur droit"
+      ],
+      "description": "La dysfonction du ventricule droit peut être un signe d'embolie pulmonaire.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation de la fonction cardiaque et la gravité de l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Héparine à bas poids moléculaire",
+      "definition": "Type d'héparine avec une structure moléculaire plus petite, utilisée pour ses propriétés anticoagulantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "HBPM"
+      ],
+      "related_terms": [
+        "Héparine non fractionnée",
+        "Anticoagulants"
+      ],
+      "description": "Utilisée en phase aiguë et au long cours, avec un risque modéré de TIH.",
+      "expansion": null,
+      "clinical_significance": "Facilité d'utilisation et administration sous-cutanée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Héparine à bas poids moléculaire",
+        "HBPM"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Antagonistes de la vitamine K",
+      "definition": "Médicaments anticoagulants qui inhibent la synthèse des facteurs de coagulation dépendants de la vitamine K.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "AVK"
+      ],
+      "related_terms": [
+        "Anticoagulants oraux directs",
+        "Warfarine"
+      ],
+      "description": "Utilisés pour le traitement au long cours, avec un effet retardé et variable.",
+      "expansion": null,
+      "clinical_significance": "Interactions médicamenteuses fréquentes.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Antagonistes de la vitamine K",
+        "AVK"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anticoagulants oraux directs (anti Xa)",
+      "definition": "Médicaments anticoagulants qui inhibent directement le facteur Xa, sans nécessiter de surveillance régulière.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "AOD",
+        "Anti Xa"
+      ],
+      "related_terms": [
+        "Antagonistes de la vitamine K",
+        "Rivaroxaban"
+      ],
+      "description": "Utilisés en phase aiguë et au long cours, avec une posologie fixe.",
+      "expansion": null,
+      "clinical_significance": "Absence d'antidote.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anticoagulants oraux directs",
+        "Anti Xa"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Taux de prothrombine (TP)",
+      "definition": "Test de laboratoire mesurant le temps de coagulation du sang, utilisé pour évaluer la fonction de la coagulation.",
+      "category": "imagerie",
+      "synonyms": [
+        "TP"
+      ],
+      "related_terms": [
+        "INR",
+        "Temps de Quick"
+      ],
+      "description": "Utilisé pour le bilan pré-thérapeutique avant traitement par héparine.",
+      "expansion": null,
+      "clinical_significance": "Important pour ajuster la posologie des anticoagulants.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Taux de prothrombine",
+        "TP"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Temps de céphaline activé (TCA)",
+      "definition": "Test de laboratoire mesurant le temps de coagulation du sang via la voie intrinsèque, utilisé pour surveiller l'effet des anticoagulants.",
+      "category": "imagerie",
+      "synonyms": [
+        "TCA"
+      ],
+      "related_terms": [
+        "APTT",
+        "Temps de céphaline"
+      ],
+      "description": "Utilisé pour ajuster la posologie de l'héparine non fractionnée.",
+      "expansion": null,
+      "clinical_significance": "Objectif thérapeutique est un rapport TCA malade/témoin entre 1,5 et 2,5.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Temps de céphaline activé",
+        "TCA"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémorragie patente",
+      "definition": "Saignement visible et évident, souvent associé à une blessure ou une lésion.",
+      "category": "pathologie",
+      "synonyms": [
+        "Saignement patent"
+      ],
+      "related_terms": [
+        "Hémorragie",
+        "Saignement"
+      ],
+      "description": "Contre-indication absolue au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque élevé de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hémorragie patente",
+        "Saignement patent"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AVC hémorragique récent",
+      "definition": "Accident vasculaire cérébral causé par un saignement dans le cerveau, survenu récemment.",
+      "category": "pathologie",
+      "synonyms": [
+        "AVC hémorragique"
+      ],
+      "related_terms": [
+        "AVC",
+        "Hémorragie cérébrale"
+      ],
+      "description": "Contre-indication absolue au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque élevé de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "AVC hémorragique récent",
+        "AVC hémorragique"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thrombopénie (plq<50000 G/I)",
+      "definition": "Réduction du nombre de plaquettes sanguines en dessous de 50000/µL, augmentant le risque de saignement.",
+      "category": "pathologie",
+      "synonyms": [
+        "Thrombopénie"
+      ],
+      "related_terms": [
+        "Plaquettes",
+        "Saignement"
+      ],
+      "description": "Contre-indication absolue au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque élevé de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Thrombopénie",
+        "Plaquettes"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anomalie sévère de l'hémostase",
+      "definition": "Dysfonctionnement grave du processus de coagulation sanguine, augmentant le risque de saignement.",
+      "category": "pathologie",
+      "synonyms": [
+        "Anomalie de l'hémostase"
+      ],
+      "related_terms": [
+        "Hémostase",
+        "Coagulation"
+      ],
+      "description": "Contre-indication absolue au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque élevé de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Anomalie sévère de l'hémostase",
+        "Hémostase"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hémorragie digestive récente",
+      "definition": "Saignement dans le tractus gastro-intestinal, survenu récemment.",
+      "category": "pathologie",
+      "synonyms": [
+        "Hémorragie digestive"
+      ],
+      "related_terms": [
+        "Hémorragie",
+        "Saignement gastro-intestinal"
+      ],
+      "description": "Contre-indication relative au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Hémorragie digestive récente",
+        "Hémorragie digestive"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "HTA sévère non contrôlée",
+      "definition": "Hypertension artérielle sévère non contrôlée par le traitement, augmentant le risque de complications cardiovasculaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "HTA sévère"
+      ],
+      "related_terms": [
+        "Hypertension",
+        "HTA"
+      ],
+      "description": "Contre-indication relative au traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Risque de complications hémorragiques.",
+      "normal_values": null,
+      "image_search_terms": [
+        "HTA sévère non contrôlée",
+        "HTA sévère"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Calciparine",
+      "definition": "Forme d'héparine non fractionnée administrée par voie sous-cutanée.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Calciparine"
+      ],
+      "related_terms": [
+        "Héparine non fractionnée",
+        "HNF"
+      ],
+      "description": "Utilisée pour le traitement anticoagulant.",
+      "expansion": null,
+      "clinical_significance": "Administrée toutes les 8 ou 12 heures.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Calciparine",
+        "Héparine non fractionnée"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Daltéparine",
+      "definition": "Forme d'héparine de bas poids moléculaire utilisée pour ses propriétés anticoagulantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Fragmine®"
+      ],
+      "related_terms": [
+        "Héparine de bas poids moléculaire",
+        "HBPM"
+      ],
+      "description": "Administrée en deux injections sous-cutanées par 24 heures.",
+      "expansion": null,
+      "clinical_significance": "Dose de 100 UI/kg/12 h.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Daltéparine",
+        "Fragmine®"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Nadroparine",
+      "definition": "Forme d'héparine de bas poids moléculaire utilisée pour ses propriétés anticoagulantes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Fraxiparine®"
+      ],
+      "related_terms": [
+        "Héparine de bas poids moléculaire",
+        "HBPM"
+      ],
+      "description": "Administrée en deux injections sous-cutanées par 24 heures.",
+      "expansion": null,
+      "clinical_significance": "Dose de 85 UI/kg/12 h.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Nadroparine",
+        "Fraxiparine®"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Tinzaparine",
+      "definition": "Un type d'héparine de bas poids moléculaire utilisée pour la prévention et le traitement des thromboses veineuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Innohep®"
+      ],
+      "related_terms": [
+        "HBPM",
+        "Nadroparine"
+      ],
+      "description": "La Tinzaparine est administrée par injection sous-cutanée pour prévenir et traiter les thromboses veineuses.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisée pour la prévention et le traitement des thromboses veineuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Tinzaparine",
+        "Innohep®"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MTEV",
+      "definition": "Maladie thromboembolique veineuse, une condition où un caillot sanguin se forme dans une veine.",
+      "category": "pathologie",
+      "synonyms": [
+        "Maladie thromboembolique veineuse"
+      ],
+      "related_terms": [
+        "TVP",
+        "EP"
+      ],
+      "description": "La MTEV est une condition grave qui peut entraîner des complications telles que l'embolie pulmonaire.",
+      "expansion": "Maladie thromboembolique veineuse",
+      "clinical_significance": "Condition grave qui peut entraîner des complications telles que l'embolie pulmonaire.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Maladie thromboembolique veineuse",
+        "MTEV"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AOD",
+      "definition": "Anticoagulants oraux directs, des médicaments qui inhibent directement les facteurs de la coagulation.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Anticoagulants oraux directs"
+      ],
+      "related_terms": [
+        "AVK",
+        "HBPM"
+      ],
+      "description": "Les AOD agissent en inhibant directement les facteurs de la coagulation, avec une variabilité intra et inter-individuelle moindre que les AVK.",
+      "expansion": "Anticoagulants oraux directs",
+      "clinical_significance": "Utilisés pour la prévention et le traitement des thromboses veineuses, avec un risque d'interactions médicamenteuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Anticoagulants oraux directs",
+        "AOD"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "dabigatran",
+      "definition": "Un inhibiteur direct de la thrombine utilisé comme anticoagulant oral.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Pradaxa"
+      ],
+      "related_terms": [
+        "thrombine",
+        "rivaroxaban",
+        "apixaban"
+      ],
+      "description": "Le dabigatran est utilisé pour la prévention et le traitement des thromboses veineuses.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisé pour la prévention et le traitement des thromboses veineuses, avec un risque d'interactions médicamenteuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Dabigatran",
+        "Pradaxa"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "rivaroxaban",
+      "definition": "Un inhibiteur direct du facteur Xa utilisé comme anticoagulant oral.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Xarelto"
+      ],
+      "related_terms": [
+        "facteur Xa",
+        "dabigatran",
+        "apixaban"
+      ],
+      "description": "Le rivaroxaban est utilisé pour la prévention et le traitement des thromboses veineuses.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisé pour la prévention et le traitement des thromboses veineuses, avec un risque d'interactions médicamenteuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Rivaroxaban",
+        "Xarelto"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "apixaban",
+      "definition": "Un inhibiteur direct du facteur Xa utilisé comme anticoagulant oral.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Eliquis"
+      ],
+      "related_terms": [
+        "facteur Xa",
+        "dabigatran",
+        "rivaroxaban"
+      ],
+      "description": "L'apixaban est utilisé pour la prévention et le traitement des thromboses veineuses.",
+      "expansion": "N/A",
+      "clinical_significance": "Utilisé pour la prévention et le traitement des thromboses veineuses, avec un risque d'interactions médicamenteuses.",
+      "normal_values": "N/A",
+      "image_search_terms": [
+        "Apixaban",
+        "Eliquis"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PESI",
+      "definition": "Pulmonary Embolism Severity Index, un score utilisé pour évaluer la gravité de l'embolie pulmonaire et le risque de mortalité.",
+      "category": "classification",
+      "synonyms": [
+        "Pulmonary Embolism Severity Index"
+      ],
+      "related_terms": [
+        "embolie pulmonaire",
+        "score de mortalité"
+      ],
+      "description": "Le PESI aide à stratifier les patients avec une embolie pulmonaire en fonction de leur risque de mortalité.",
+      "expansion": "Pulmonary Embolism Severity Index",
+      "clinical_significance": "Le PESI est un outil important pour la gestion des patients avec une embolie pulmonaire, permettant une prise en charge adaptée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "PESI",
+        "embolie pulmonaire"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie post-thrombotique",
+      "definition": "Complication chronique de la thrombose veineuse profonde, caractérisée par des symptômes tels que l'œdème, la douleur et les ulcères.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome post-thrombotique"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "complication veineuse"
+      ],
+      "description": "La maladie post-thrombotique peut affecter la qualité de vie des patients et nécessite une gestion à long terme.",
+      "expansion": "Maladie Post-Thrombotique",
+      "clinical_significance": "La maladie post-thrombotique est une complication sérieuse de la thrombose veineuse profonde qui nécessite une prise en charge appropriée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "maladie post-thrombotique",
+        "complication veineuse"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "phlébite bleue",
+      "definition": "Forme sévère de thrombose veineuse profonde caractérisée par une cyanose et un œdème important du membre affecté.",
+      "category": "pathologie",
+      "synonyms": [
+        "phlegmasia cerulea dolens"
+      ],
+      "related_terms": [
+        "thrombose veineuse profonde",
+        "cyanose"
+      ],
+      "description": "La phlébite bleue est une urgence médicale nécessitant une intervention rapide pour éviter des complications graves.",
+      "expansion": "Phlegmasia Cerulea Dolens",
+      "clinical_significance": "La phlébite bleue est une condition médicale sérieuse qui nécessite une intervention rapide pour éviter des complications graves.",
+      "normal_values": null,
+      "image_search_terms": [
+        "phlébite bleue",
+        "thrombose veineuse"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Dalteparine",
+      "definition": "Héparine de bas poids moléculaire utilisée pour la prévention et le traitement des thromboses veineuses.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Fragmine"
+      ],
+      "related_terms": [
+        "héparine",
+        "anticoagulant"
+      ],
+      "description": "La Dalteparine est utilisée pour prévenir et traiter les thromboses veineuses, notamment en milieu chirurgical.",
+      "expansion": "Dalteparine",
+      "clinical_significance": "La Dalteparine est un anticoagulant essentiel dans la prévention et le traitement des thromboses veineuses.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Dalteparine",
+        "héparine"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Maladie Veineuse Thromboembolique (MVTE)",
+      "definition": "La maladie veineuse thromboembolique (MVTE) est une pathologie caractérisée par la formation de caillots sanguins dans les veines, incluant la thrombose veineuse profonde (TVP) et l'embolie pulmonaire (EP).",
+      "category": "pathologie",
+      "synonyms": [
+        "Thromboembolie veineuse"
+      ],
+      "related_terms": [
+        "Thrombose veineuse profonde",
+        "Embolie pulmonaire"
+      ],
+      "description": "La MVTE est une condition grave qui peut entraîner des complications sévères, y compris des récidives et le syndrome post-phlébitique.",
+      "expansion": "Maladie Veineuse Thromboembolique",
+      "clinical_significance": "La MVTE est une urgence médicale nécessitant une intervention rapide pour prévenir des complications potentiellement mortelles.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Thrombose veineuse",
+        "Embolie pulmonaire"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "écho doppler veineux",
+      "definition": "L'écho doppler veineux est une technique d'imagerie utilisant les ultrasons pour visualiser le flux sanguin dans les veines et détecter des anomalies telles que des thromboses.",
+      "category": "imagerie",
+      "synonyms": [
+        "Échographie doppler veineuse"
+      ],
+      "related_terms": [
+        "Ultrasonographie",
+        "Doppler"
+      ],
+      "description": "Cette technique est souvent utilisée en première intention pour diagnostiquer la thrombose veineuse profonde.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Écho doppler",
+        "Ultrasonographie veineuse"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Thrombose Veineuse Profonde (TVP)",
+      "definition": "La thrombose veineuse profonde (TVP) est la formation d'un caillot sanguin dans une veine profonde, généralement dans les jambes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Phlébothrombose"
+      ],
+      "related_terms": [
+        "Thrombose",
+        "Veine profonde"
+      ],
+      "description": "La TVP peut entraîner des complications graves comme l'embolie pulmonaire si le caillot se déplace vers les poumons.",
+      "expansion": "Thrombose Veineuse Profonde",
+      "clinical_significance": "La TVP nécessite un traitement anticoagulant pour prévenir l'extension du caillot et l'embolie pulmonaire.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Thrombose veineuse",
+        "Caillot sanguin"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Embolie Pulmonaire (EP)",
+      "definition": "L'embolie pulmonaire (EP) est l'obstruction d'une artère pulmonaire par un caillot sanguin, généralement provenant d'une thrombose veineuse profonde.",
+      "category": "pathologie",
+      "synonyms": [
+        "Thromboembolie pulmonaire"
+      ],
+      "related_terms": [
+        "Thrombose veineuse profonde",
+        "Artère pulmonaire"
+      ],
+      "description": "L'EP est une urgence médicale qui peut entraîner une insuffisance respiratoire aiguë et nécessite un traitement immédiat.",
+      "expansion": "Embolie Pulmonaire",
+      "clinical_significance": "L'EP est une cause majeure de mortalité et de morbidité, nécessitant une prise en charge rapide et appropriée.",
+      "normal_values": null,
+      "image_search_terms": [
+        "Embolie pulmonaire",
+        "Thromboembolie"
+      ],
+      "subject_id": "3243d452-f9e5-4ed9-b0f1-8235f4da9e43",
+      "source_file": "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Cardiologie CCV/Maladies Veineuses Thrombo-Emboliques/Courses/51 Maladies veineuses thrombo-emboliques.md"
+  ],
+  "total_terms": 119
+}

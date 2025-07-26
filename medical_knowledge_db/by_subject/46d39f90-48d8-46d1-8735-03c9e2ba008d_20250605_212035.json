@@ -1,0 +1,2708 @@
+{
+  "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+  "terms": [
+    {
+      "term": "purpura",
+      "definition": "Symptôme clinique caractérisé par des tâches cutanées et/ou muqueuses rouges pourpres, résultant de l'extravasation d'hématies à travers des petits vaisseaux du derme et de l'hypoderme.",
+      "category": "pathologie",
+      "synonyms": [
+        "pétéchies",
+        "ecchymoses"
+      ],
+      "related_terms": [
+        "thrombopénie",
+        "vascularite"
+      ],
+      "description": "Le purpura peut être causé par des anomalies plaquettaires ou vasculaires et nécessite une enquête étiologique pour déterminer le traitement approprié.",
+      "expansion": null,
+      "clinical_significance": "Peut indiquer des conditions graves comme l'endocardite infectieuse ou le purpura fulminans.",
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura cutané",
+        "pétéchies",
+        "ecchymoses"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vitro-pression",
+      "definition": "Technique d'examen physique où une pression est appliquée sur une lésion cutanée pour vérifier si elle s'efface, aidant à distinguer les purpuras des érythèmes.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "érythème"
+      ],
+      "description": "Utilisée pour différencier les purpuras des autres lésions cutanées.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vitro-pression",
+        "examen cutané"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "endocardite infectieuse",
+      "definition": "Infection de l'endocarde, souvent des valvules cardiaques, causée par des bactéries ou des champignons, pouvant entraîner des complications graves comme des embolies.",
+      "category": "pathologie",
+      "synonyms": [
+        "endocardite bactérienne"
+      ],
+      "related_terms": [
+        "purpura fulminans",
+        "embolie"
+      ],
+      "description": "Condition médicale urgente nécessitant un traitement antibiotique rapide.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endocardite infectieuse",
+        "valvules cardiaques infectées"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura fulminans",
+      "definition": "Forme sévère de purpura caractérisée par une nécrose cutanée extensive et une défaillance multiviscérale, souvent due à une infection bactérienne.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "endocardite infectieuse",
+        "septicémie"
+      ],
+      "description": "Condition médicale urgente nécessitant une prise en charge intensive.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura fulminans",
+        "nécrose cutanée"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "mégacaryopoïèse",
+      "definition": "Processus de production des mégacaryocytes, précurseurs des plaquettes, dans la moelle osseuse.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombopénie",
+        "plaquettes"
+      ],
+      "description": "Anomalies de la mégacaryopoïèse peuvent entraîner des thrombopénies centrales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "mégacaryopoïèse",
+        "mégacaryocytes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "vascularite",
+      "definition": "Inflammation des vaisseaux sanguins, pouvant entraîner des lésions cutanées comme le purpura.",
+      "category": "pathologie",
+      "synonyms": [
+        "vasculite"
+      ],
+      "related_terms": [
+        "purpura",
+        "inflammation"
+      ],
+      "description": "Peut être d'origine infectieuse, toxique, médicamenteuse ou dysimmunitaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularite",
+        "inflammation vasculaire"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "myxome",
+      "definition": "Tumeur bénigne du cœur, souvent située dans l'oreillette gauche, pouvant causer des embolies.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "embolie"
+      ],
+      "description": "Peut entraîner des symptômes cardiaques et des complications emboliques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "myxome",
+        "tumeur cardiaque"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "biligénèse",
+      "definition": "Processus de dégradation de l'hémoglobine, entraînant des changements de couleur des lésions cutanées de bleu à jaune.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "hémoglobine"
+      ],
+      "description": "Observée dans l'évolution des ecchymoses et des hématomes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "biligénèse",
+        "dégradation de l'hémoglobine"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "gingivorragie",
+      "definition": "Saignement des gencives, souvent associé à des troubles de l'hémostase ou à des maladies gingivales.",
+      "category": "pathologie",
+      "synonyms": [
+        "saignement gingival"
+      ],
+      "related_terms": [
+        "purpura",
+        "hémostase"
+      ],
+      "description": "Peut être un signe de thrombopénie ou de maladie hémorragique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gingivorragie",
+        "saignement gingival"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "D-Dimères",
+      "definition": "Produits de dégradation de la fibrine, marqueurs de l'activation de la coagulation et de la fibrinolyse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "CIVD",
+        "hémostase"
+      ],
+      "description": "Élevés dans la CIVD et les thromboses.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "D-Dimères",
+        "fibrinolyse"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Buchanan",
+      "definition": "Score hémorragique utilisé pour évaluer la gravité des saignements chez les enfants, avec un risque fonctionnel ou vital immédiat si grade ≥ 3.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "hémostase"
+      ],
+      "description": "Utilisé pour évaluer la gravité des saignements chez les enfants.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Buchanan",
+        "évaluation des saignements"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Créteil",
+      "definition": "Score hémorragique utilisé pour évaluer la gravité des saignements chez les adultes, avec un risque fonctionnel ou vital immédiat si grade ≥ 8.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "hémostase"
+      ],
+      "description": "Utilisé pour évaluer la gravité des saignements chez les adultes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Créteil",
+        "évaluation des saignements"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "Khellaf",
+      "definition": "Score hémorragique utilisé pour évaluer la gravité des saignements chez les adultes, similaire au score de Créteil.",
+      "category": "classification",
+      "synonyms": [],
+      "related_terms": [
+        "purpura",
+        "hémostase"
+      ],
+      "description": "Utilisé pour évaluer la gravité des saignements chez les adultes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "score de Khellaf",
+        "évaluation des saignements"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.9
+    },
+    {
+      "term": "immunoglobulines intraveineuses",
+      "definition": "Les immunoglobulines intraveineuses (IgIV) sont des préparations de protéines d'immunoglobulines extraites du plasma sanguin humain, utilisées pour traiter diverses conditions immunologiques et inflammatoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "IgIV"
+      ],
+      "related_terms": [
+        "corticoïdes"
+      ],
+      "description": "Les IgIV sont utilisées pour moduler le système immunitaire et réduire l'inflammation dans des conditions telles que le purpura thrombopénique auto-immun.",
+      "expansion": null,
+      "clinical_significance": "Utilisées en combinaison avec les corticoïdes pour les patients ayant un score hémorragique supérieur à 8.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "IgIV",
+      "definition": "Les immunoglobulines intraveineuses (IgIV) sont des préparations de protéines d'immunoglobulines extraites du plasma sanguin humain, utilisées pour traiter diverses conditions immunologiques et inflammatoires.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "immunoglobulines intraveineuses"
+      ],
+      "related_terms": [
+        "corticoïdes"
+      ],
+      "description": "Les IgIV sont utilisées pour moduler le système immunitaire et réduire l'inflammation dans des conditions telles que le purpura thrombopénique auto-immun.",
+      "expansion": null,
+      "clinical_significance": "Utilisées en combinaison avec les corticoïdes pour les patients ayant un score hémorragique supérieur à 8.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "numération formule sanguine (NFS)",
+      "definition": "La numération formule sanguine (NFS) est un examen de laboratoire qui mesure les différents types de cellules sanguines, y compris les globules rouges, les globules blancs et les plaquettes.",
+      "category": "pathologie",
+      "synonyms": [
+        "NFS"
+      ],
+      "related_terms": [
+        "purpura thrombopénique",
+        "purpura vasculaire"
+      ],
+      "description": "La NFS est essentielle pour diagnostiquer les conditions hématologiques telles que la thrombopénie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "globules rouges",
+        "globules blancs",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura thrombopénique",
+      "definition": "Le purpura thrombopénique est une condition caractérisée par une diminution du nombre de plaquettes sanguines, entraînant des saignements cutanés et muqueux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura vasculaire",
+        "thrombopénie"
+      ],
+      "description": "Le purpura thrombopénique peut être causé par une destruction périphérique des plaquettes ou une production médullaire insuffisante.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura pétéchial",
+        "purpura ecchymotique"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura vasculaire",
+      "definition": "Le purpura vasculaire est une condition caractérisée par une inflammation des vaisseaux sanguins, entraînant des saignements cutanés et muqueux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura thrombopénique",
+        "vasculite"
+      ],
+      "description": "Le purpura vasculaire peut être causé par diverses conditions inflammatoires ou auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura pétéchial",
+        "purpura ecchymotique"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura cutanéo-muqueux",
+      "definition": "Le purpura cutanéo-muqueux est une éruption cutanée caractérisée par des taches rouges ou violettes causées par des hémorragies sous-cutanées, affectant à la fois la peau et les muqueuses.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura pétéchial",
+        "purpura ecchymotique"
+      ],
+      "description": "Le purpura cutanéo-muqueux peut être pétéchial (petites taches) ou ecchymotique (plus grandes taches).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura pétéchial",
+        "purpura ecchymotique"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragies muqueuses",
+      "definition": "Les hémorragies muqueuses sont des saignements qui se produisent au niveau des muqueuses, telles que les épistaxis, les gingivorragies et les bulles hémorragiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épistaxis",
+        "gingivorragies"
+      ],
+      "description": "Les hémorragies muqueuses peuvent être un signe de thrombopénie ou de thrombopathie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "épistaxis",
+        "gingivorragies"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémorragies viscérales",
+      "definition": "Les hémorragies viscérales sont des saignements qui se produisent à l'intérieur des organes internes, tels que le foie, la rate ou les intestins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "saignement gastrointestinal"
+      ],
+      "description": "Les hémorragies viscérales peuvent être graves et nécessiter une intervention médicale urgente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "saignement gastrointestinal"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombopathie",
+      "definition": "La thrombopathie est une anomalie fonctionnelle des plaquettes sanguines, entraînant un risque accru de saignements.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombopénie"
+      ],
+      "description": "La thrombopathie peut être congénitale ou acquise et peut entraîner des saignements même avec un nombre normal de plaquettes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "numération de plaquettes",
+      "definition": "La numération de plaquettes est un examen de laboratoire qui mesure le nombre de plaquettes dans le sang.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "frottis sanguin",
+        "agrégats plaquettaires"
+      ],
+      "description": "La numération de plaquettes est essentielle pour diagnostiquer la thrombopénie et d'autres troubles hématologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "frottis sanguin"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "frottis sanguin",
+      "definition": "Le frottis sanguin est un examen de laboratoire qui consiste à étaler une goutte de sang sur une lame de verre pour examiner les cellules sanguines au microscope.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "numération de plaquettes",
+        "agrégats plaquettaires"
+      ],
+      "description": "Le frottis sanguin permet d'estimer le nombre de plaquettes et de détecter la présence d'agrégats plaquettaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "frottis sanguin"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "agrégats plaquettaires",
+      "definition": "Les agrégats plaquettaires sont des amas de plaquettes qui peuvent se former dans le sang, souvent en réponse à des stimuli tels que des anticorps ou des agents agglutinants.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "frottis sanguin",
+        "numération de plaquettes"
+      ],
+      "description": "Les agrégats plaquettaires peuvent fausser la numération de plaquettes et indiquer une fausse thrombopénie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "frottis sanguin"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Ethylène diamine tetra-acétate (EDTA)",
+      "definition": "L'Ethylène diamine tetra-acétate (EDTA) est un anticoagulant utilisé pour prévenir la coagulation du sang dans les échantillons de laboratoire.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "EDTA"
+      ],
+      "related_terms": [
+        "numération plaquettaire",
+        "fausse thrombopénie"
+      ],
+      "description": "L'EDTA peut parfois provoquer une agglutination in vitro des plaquettes, entraînant une pseudo-thrombopénie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "EDTA",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "fausse thrombopénie",
+      "definition": "La fausse thrombopénie est une diminution apparente du nombre de plaquettes dans le sang, souvent due à des erreurs de prélèvement ou à des agrégats plaquettaires.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "numération de plaquettes",
+        "agrégats plaquettaires"
+      ],
+      "description": "La fausse thrombopénie peut être confirmée par un frottis sanguin montrant des agrégats plaquettaires.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "frottis sanguin"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pseudo-thrombopénie",
+      "definition": "La pseudo-thrombopénie est une diminution apparente du nombre de plaquettes dans le sang due à une agglutination in vitro des plaquettes en présence de l'EDTA.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "EDTA",
+        "numération plaquettaire"
+      ],
+      "description": "La pseudo-thrombopénie peut être confirmée par une numération plaquettaire sur un tube citraté.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "EDTA"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "macroplaquettes",
+      "definition": "Les macroplaquettes sont des plaquettes de grande taille qui peuvent être comptabilisées en tant que globules rouges par certains analyseurs, conduisant à une sous-estimation de la numération plaquettaire.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "numération plaquettaire",
+        "frottis sanguin"
+      ],
+      "description": "La présence de macroplaquettes peut indiquer la nécessité d'un comptage manuel des plaquettes ou d'une autre technique automatisée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "plaquettes",
+        "frottis sanguin"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hépatite virale C",
+      "definition": "L'hépatite virale C est une infection virale du foie causée par le virus de l'hépatite C (VHC), pouvant entraîner une inflammation chronique du foie.",
+      "category": "microbiologie",
+      "synonyms": [
+        "VHC"
+      ],
+      "related_terms": [
+        "VIH",
+        "CMV",
+        "EBV"
+      ],
+      "description": "L'hépatite virale C peut provoquer une thrombopénie par un mécanisme immunoallergique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "hépatite virale C",
+        "VHC"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allo-immunisation",
+      "definition": "L'allo-immunisation est le processus par lequel un individu développe des anticorps contre des antigènes étrangers, souvent après une transfusion sanguine ou une grossesse.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "alloanticorps anti plaquettes"
+      ],
+      "description": "L'allo-immunisation peut entraîner une thrombopénie post-transfusionnelle ou par passage placentaire d'alloanticorps anti plaquettes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alloanticorps",
+        "transfusion sanguine"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lupus érythémateux systémique",
+      "definition": "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique qui peut affecter divers organes et systèmes du corps.",
+      "category": "pathologie",
+      "synonyms": [
+        "LES"
+      ],
+      "related_terms": [
+        "syndrome d'Evans",
+        "polyarthrite rhumatoïde",
+        "syndrome des antiphospholipides"
+      ],
+      "description": "Le LES peut provoquer une thrombopénie auto-immune.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "lupus érythémateux systémique",
+        "auto-immune"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome des antiphospholipides",
+      "definition": "Le syndrome des antiphospholipides est une maladie auto-immune caractérisée par la présence d'anticorps antiphospholipides, entraînant des thromboses et des fausses couches récurrentes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "Lupus érythémateux systémique",
+        "syndrome d'Evans",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Le syndrome des antiphospholipides peut être associé à une thrombopénie auto-immune.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "anticorps antiphospholipides",
+        "thromboses"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura thrombopénique auto-immun (PTAI)",
+      "definition": "Le purpura thrombopénique auto-immun (PTAI) est une condition dans laquelle le système immunitaire attaque et détruit les plaquettes, entraînant une thrombopénie.",
+      "category": "pathologie",
+      "synonyms": [
+        "PTAI"
+      ],
+      "related_terms": [
+        "purpura thrombopénique idiopathique (PTI)",
+        "purpura thrombopénique immunologique"
+      ],
+      "description": "Le PTAI est le désordre hématologique le plus fréquent chez l'enfant et le sujet de plus de 60 ans.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura thrombopénique",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura thrombopénique idiopathique (PTI)",
+      "definition": "Le purpura thrombopénique idiopathique (PTI) est une ancienne dénomination du purpura thrombopénique auto-immun (PTAI).",
+      "category": "pathologie",
+      "synonyms": [
+        "PTI"
+      ],
+      "related_terms": [
+        "purpura thrombopénique auto-immun (PTAI)",
+        "purpura thrombopénique immunologique"
+      ],
+      "description": "Le PTI est caractérisé par une destruction périphérique des plaquettes et une insuffisance de production médullaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura thrombopénique",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura thrombopénique immunologique",
+      "definition": "Le purpura thrombopénique immunologique est une ancienne dénomination du purpura thrombopénique auto-immun (PTAI).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura thrombopénique auto-immun (PTAI)",
+        "purpura thrombopénique idiopathique (PTI)"
+      ],
+      "description": "Le purpura thrombopénique immunologique est caractérisé par une destruction périphérique des plaquettes et une insuffisance de production médullaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura thrombopénique",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "épistaxis",
+      "definition": "L'épistaxis est un saignement de nez, souvent causé par une thrombopénie ou une thrombopathie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "gingivorragies",
+        "bulles hémorragiques"
+      ],
+      "description": "L'épistaxis peut être unilatérale ou bilatérale et peut indiquer un syndrome hémorragique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "épistaxis",
+        "saignement de nez"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "gingivorragies",
+      "definition": "Les gingivorragies sont des saignements des gencives, souvent causés par une thrombopénie ou une thrombopathie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épistaxis",
+        "bulles hémorragiques"
+      ],
+      "description": "Les gingivorragies peuvent indiquer un syndrome hémorragique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "gingivorragies",
+        "saignements des gencives"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bulles hémorragiques",
+      "definition": "Les bulles hémorragiques sont des ampoules remplies de sang, souvent causées par une thrombopénie ou une thrombopathie.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "épistaxis",
+        "gingivorragies"
+      ],
+      "description": "Les bulles hémorragiques peuvent indiquer un syndrome hémorragique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bulles hémorragiques",
+        "ampoules remplies de sang"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pétéchies",
+      "definition": "Les pétéchies sont de petites taches rouges ou violettes sur la peau, causées par des hémorragies sous-cutanées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ecchymoses",
+        "purpura pétéchial"
+      ],
+      "description": "Les pétéchies peuvent être un signe de thrombopénie ou de thrombopathie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pétéchies",
+        "hémorragies sous-cutanées"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ecchymoses",
+      "definition": "Les ecchymoses sont des taches plus grandes que les pétéchies, causées par des hémorragies sous-cutanées.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "pétéchies",
+        "purpura ecchymotique"
+      ],
+      "description": "Les ecchymoses peuvent être un signe de thrombopénie ou de thrombopathie.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "ecchymoses",
+        "hémorragies sous-cutanées"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SMD",
+      "definition": "Syndrome myélodysplasique, un groupe de troubles hématologiques caractérisés par une production inefficace de cellules sanguines dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome myélodysplasique"
+      ],
+      "related_terms": [
+        "anémie",
+        "leucopénie",
+        "thrombopénie"
+      ],
+      "description": "Les SMD peuvent évoluer vers une leucémie aiguë myéloïde.",
+      "expansion": null,
+      "clinical_significance": "Important à éliminer chez les patients de plus de 60 ans présentant des anomalies sanguines.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Immunoglobulines polyvalentes",
+      "definition": "Préparations de protéines immunitaires dérivées du plasma sanguin, utilisées pour traiter diverses conditions immunologiques.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Ig polyvalentes"
+      ],
+      "related_terms": [
+        "syndrome hémorragique",
+        "immunothérapie"
+      ],
+      "description": "Utilisées en cas de syndrome hémorragique sévère pour leur action rapide mais souvent transitoire.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des syndromes hémorragiques sévères.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Splénectomie",
+      "definition": "Ablation chirurgicale de la rate, souvent réalisée pour traiter certaines maladies hématologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "ablation de la rate"
+      ],
+      "related_terms": [
+        "hypersplénisme",
+        "thrombopénie"
+      ],
+      "description": "Utilisée en cas d'échec des corticoïdes dans le traitement des purpuras.",
+      "expansion": null,
+      "clinical_significance": "Intervention chirurgicale majeure avec des risques associés.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Rituximab",
+      "definition": "Anticorps monoclonal dirigé contre le CD20, utilisé dans le traitement de certaines maladies auto-immunes et cancers.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "anti-CD20"
+      ],
+      "related_terms": [
+        "immunothérapie",
+        "lymphome"
+      ],
+      "description": "Utilisé en cas d'échec des corticoïdes dans le traitement des purpuras.",
+      "expansion": null,
+      "clinical_significance": "Efficace dans le traitement des maladies auto-immunes et certains cancers.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Eltrombopag",
+      "definition": "Médicament agoniste du récepteur de la thrombopoïétine, utilisé pour augmenter la production de plaquettes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "thrombopénie",
+        "thrombopoïétine"
+      ],
+      "description": "Utilisé en cas d'échec des corticoïdes dans le traitement des purpuras.",
+      "expansion": null,
+      "clinical_significance": "Important dans la gestion des thrombopénies réfractaires.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PDF",
+      "definition": "Produits de Dégradation de la Fibrine, des marqueurs de la fibrinolyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "produits de dégradation de la fibrine"
+      ],
+      "related_terms": [
+        "D-dimères",
+        "fibrinolyse"
+      ],
+      "description": "Utilisés dans le diagnostic de la CIVD.",
+      "expansion": null,
+      "clinical_significance": "Important dans l'évaluation des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MAT",
+      "definition": "Micro-angiopathies Thrombotiques, un groupe de maladies caractérisées par une anémie hémolytique mécanique et une thrombopénie.",
+      "category": "pathologie",
+      "synonyms": [
+        "micro-angiopathies thrombotiques"
+      ],
+      "related_terms": [
+        "SHU",
+        "PTT"
+      ],
+      "description": "Inclut des conditions telles que le syndrome hémolytique urémique et le purpura thrombotique thrombocytopénique.",
+      "expansion": null,
+      "clinical_significance": "Conditions graves nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "SHU",
+      "definition": "Syndrome Hémolytique Urémique, une maladie caractérisée par une anémie hémolytique, une insuffisance rénale aiguë et une thrombopénie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome hémolytique urémique"
+      ],
+      "related_terms": [
+        "MAT",
+        "PTT"
+      ],
+      "description": "Souvent causé par une infection à E. coli productrice de shigatoxines.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTT",
+      "definition": "Purpura Thrombotique Thrombocytopénique, une micro-angiopathie thrombotique caractérisée par une anémie hémolytique et une thrombopénie.",
+      "category": "pathologie",
+      "synonyms": [
+        "purpura thrombotique thrombocytopénique",
+        "syndrome de Moschowitz"
+      ],
+      "related_terms": [
+        "MAT",
+        "SHU",
+        "ADAMTS-13"
+      ],
+      "description": "Liée à un déficit en ADAMTS-13, une métalloprotéase qui clive les multimères de facteur von Willebrand.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ADAMTS-13",
+      "definition": "Une métalloprotéase qui clive les multimères de facteur von Willebrand.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PTT",
+        "facteur von Willebrand"
+      ],
+      "description": "Un déficit en ADAMTS-13 est associé au purpura thrombotique thrombocytopénique.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic et la gestion du PTT.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Myélodysplasie",
+      "definition": "Un groupe de troubles hématologiques caractérisés par une production inefficace de cellules sanguines dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome myélodysplasique"
+      ],
+      "related_terms": [
+        "anémie",
+        "leucopénie",
+        "thrombopénie"
+      ],
+      "description": "Peut évoluer vers une leucémie aiguë myéloïde.",
+      "expansion": null,
+      "clinical_significance": "Important à éliminer chez les patients de plus de 60 ans présentant des anomalies sanguines.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Leucémie Aigue",
+      "definition": "Un cancer des cellules sanguines caractérisé par une prolifération rapide de cellules immatures dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "leucémie aiguë"
+      ],
+      "related_terms": [
+        "lymphome",
+        "myélome"
+      ],
+      "description": "Peut être causée par divers facteurs, y compris les radiations, les produits chimiques et les infections virales.",
+      "expansion": null,
+      "clinical_significance": "Condition grave nécessitant une intervention rapide.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Amégacaryocytose auto-immune",
+      "definition": "Une condition caractérisée par une diminution ou une absence de mégacaryocytes dans la moelle osseuse due à une réponse auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "mégacaryocytes",
+        "thrombopénie"
+      ],
+      "description": "Peut être causée par divers facteurs, y compris les maladies auto-immunes et les infections.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des thrombopénies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Schizocytose",
+      "definition": "La présence de schizocytes dans le sang, souvent observée dans les anémies hémolytiques mécaniques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "schizocytes",
+        "anémie hémolytique"
+      ],
+      "description": "Présente dans les frottis sanguins en cas de micro-angiopathies thrombotiques.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des anémies hémolytiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Hyper leucocytose",
+      "definition": "Une augmentation du nombre de leucocytes dans le sang, souvent observée dans les infections et les maladies hématologiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "hyperleucocytose"
+      ],
+      "related_terms": [
+        "leucocytes",
+        "infections"
+      ],
+      "description": "Peut être causée par diverses conditions, y compris les infections, les maladies hématologiques et les réactions inflammatoires.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles hématologiques.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cellules blastiques",
+      "definition": "Cellules immatures présentes dans la moelle osseuse, souvent observées dans les leucémies.",
+      "category": "pathologie",
+      "synonyms": [
+        "blastes"
+      ],
+      "related_terms": [
+        "leucémie",
+        "moelle osseuse"
+      ],
+      "description": "Présentes dans le sang et la moelle osseuse en cas de leucémies aiguës.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des leucémies.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Fg",
+      "definition": "Fibrinogène, une protéine essentielle dans la coagulation sanguine.",
+      "category": "pathologie",
+      "synonyms": [
+        "fibrinogène"
+      ],
+      "related_terms": [
+        "coagulation",
+        "CIVD"
+      ],
+      "description": "Une diminution du taux de fibrinogène est observée dans la CIVD.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "DD",
+      "definition": "D-dimères, des produits de dégradation de la fibrine, utilisés comme marqueurs de la fibrinolyse.",
+      "category": "pathologie",
+      "synonyms": [
+        "D-dimères"
+      ],
+      "related_terms": [
+        "fibrinolyse",
+        "CIVD"
+      ],
+      "description": "Utilisés dans le diagnostic de la CIVD et des thromboses.",
+      "expansion": null,
+      "clinical_significance": "Important dans le diagnostic des troubles de la coagulation.",
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "MNI test",
+      "definition": "Test de détection des anticorps anti-nucléaires, utilisé pour diagnostiquer les maladies auto-immunes.",
+      "category": "pathologie",
+      "synonyms": [
+        "ANA test"
+      ],
+      "related_terms": [
+        "lupus érythémateux disséminé",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Le MNI test détecte les anticorps dirigés contre les composants du noyau cellulaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "MNI test",
+        "ANA test",
+        "anticorps anti-nucléaires"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "AAN",
+      "definition": "Anticorps anti-nucléaires, des auto-anticorps dirigés contre les composants du noyau cellulaire.",
+      "category": "pathologie",
+      "synonyms": [
+        "ANA"
+      ],
+      "related_terms": [
+        "lupus érythémateux disséminé",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Les AAN sont des marqueurs importants pour le diagnostic des maladies auto-immunes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "AAN",
+        "ANA",
+        "anticorps anti-nucléaires"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "temps d'occlusion plaquettaire (TOP)",
+      "definition": "Mesure du temps nécessaire pour former un bouchon plaquettaire occlusif dans un dispositif simulant une lésion vasculaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "PFA-100 closure time"
+      ],
+      "related_terms": [
+        "PFA",
+        "Platelet Function Analyzer"
+      ],
+      "description": "Le TOP est utilisé pour évaluer la fonction plaquettaire et détecter les thrombopathies.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "temps d'occlusion plaquettaire",
+        "PFA-100",
+        "Platelet Function Analyzer"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PFA",
+      "definition": "Platelet Function Analyzer, un dispositif utilisé pour mesurer la fonction plaquettaire.",
+      "category": "imagerie",
+      "synonyms": [
+        "Platelet Function Analyzer"
+      ],
+      "related_terms": [
+        "TOP",
+        "temps d'occlusion plaquettaire"
+      ],
+      "description": "Le PFA simule les conditions hémodynamiques de l'adhésion et de l'agrégation plaquettaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "PFA",
+        "Platelet Function Analyzer",
+        "temps d'occlusion plaquettaire"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GPIIb IIIa",
+      "definition": "Complexe glycoprotéique membranaire plaquettaire, récepteur du fibrinogène, essentiel pour l'agrégation plaquettaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "Glycoprotein IIb/IIIa"
+      ],
+      "related_terms": [
+        "thrombasthénie de Glanzman",
+        "agrégation plaquettaire"
+      ],
+      "description": "Le complexe GPIIb IIIa joue un rôle crucial dans la formation du thrombus plaquettaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "GPIIb IIIa",
+        "Glycoprotein IIb/IIIa",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "GPIb",
+      "definition": "Glycoprotéine membranaire plaquettaire, récepteur du facteur de von Willebrand, impliquée dans l'adhésion plaquettaire.",
+      "category": "anatomie",
+      "synonyms": [
+        "Glycoprotein Ib"
+      ],
+      "related_terms": [
+        "facteur de von Willebrand",
+        "dystrophie thrombocytaire de Bernard Soulier"
+      ],
+      "description": "La GPIb est essentielle pour l'adhésion des plaquettes aux sites de lésion vasculaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "GPIb",
+        "Glycoprotein Ib",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "facteur de von Willebrand",
+      "definition": "Protéine multimérique impliquée dans l'adhésion plaquettaire et la coagulation.",
+      "category": "physiologie",
+      "synonyms": [
+        "von Willebrand factor",
+        "vWF"
+      ],
+      "related_terms": [
+        "maladie de von Willebrand",
+        "GPIb"
+      ],
+      "description": "Le facteur de von Willebrand joue un rôle crucial dans l'hémostase primaire et secondaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "facteur de von Willebrand",
+        "von Willebrand factor",
+        "vWF"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Agrégométrie plaquettaire",
+      "definition": "Mesure de l'agrégation plaquettaire en réponse à divers agonistes, utilisée pour évaluer la fonction plaquettaire.",
+      "category": "physiologie",
+      "synonyms": [
+        "Platelet aggregometry"
+      ],
+      "related_terms": [
+        "thrombopathie",
+        "GPIIb IIIa"
+      ],
+      "description": "L'agrégométrie plaquettaire est un outil diagnostique important pour les troubles de l'hémostase.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Agrégométrie plaquettaire",
+        "Platelet aggregometry",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Cytométrie de flux",
+      "definition": "Technique de mesure des caractéristiques physiques et chimiques des cellules en suspension dans un flux de fluide.",
+      "category": "imagerie",
+      "synonyms": [
+        "Flow cytometry"
+      ],
+      "related_terms": [
+        "GPIIb IIIa",
+        "GPIb"
+      ],
+      "description": "La cytométrie de flux permet l'analyse quantitative et qualitative des cellules, y compris les plaquettes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Cytométrie de flux",
+        "Flow cytometry",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndromes myélo-prolifératifs",
+      "definition": "Groupe de maladies caractérisées par une prolifération excessive des cellules myéloïdes dans la moelle osseuse.",
+      "category": "pathologie",
+      "synonyms": [
+        "Myeloproliferative neoplasms"
+      ],
+      "related_terms": [
+        "leucémie",
+        "polycythémie vraie"
+      ],
+      "description": "Les syndromes myélo-prolifératifs peuvent entraîner une augmentation des globules rouges, des plaquettes ou des granulocytes.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndromes myélo-prolifératifs",
+        "Myeloproliferative neoplasms",
+        "moelle osseuse"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularite leucocytoclasique",
+      "definition": "Inflammation des petits vaisseaux sanguins caractérisée par la présence de fragments de noyaux de leucocytes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Leukocytoclastic vasculitis"
+      ],
+      "related_terms": [
+        "purpura vasculaire",
+        "vascularite"
+      ],
+      "description": "La vascularite leucocytoclasique est souvent associée à des réactions d'hypersensibilité.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "vascularite leucocytoclasique",
+        "Leukocytoclastic vasculitis",
+        "vascularite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "endocardite subaiguë d'Osler",
+      "definition": "Infection bactérienne de l'endocarde, souvent causée par des streptocoques, entraînant des végétations sur les valves cardiaques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Subacute bacterial endocarditis"
+      ],
+      "related_terms": [
+        "endocardite",
+        "valvulopathie"
+      ],
+      "description": "L'endocardite subaiguë d'Osler est une maladie grave qui peut entraîner des complications cardiaques et systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "endocardite subaiguë d'Osler",
+        "Subacute bacterial endocarditis",
+        "endocardite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "bétalactamines",
+      "definition": "Classe d'antibiotiques contenant un noyau bêta-lactame, incluant les pénicillines et les céphalosporines.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Beta-lactam antibiotics"
+      ],
+      "related_terms": [
+        "pénicillines",
+        "céphalosporines"
+      ],
+      "description": "Les bétalactamines agissent en inhibant la synthèse de la paroi cellulaire bactérienne.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "bétalactamines",
+        "Beta-lactam antibiotics",
+        "pénicillines"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "sulfamides",
+      "definition": "Classe d'antibiotiques contenant un groupe sulfamide, utilisés pour traiter diverses infections bactériennes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Sulfonamides"
+      ],
+      "related_terms": [
+        "triméthoprime",
+        "sulfaméthoxazole"
+      ],
+      "description": "Les sulfamides agissent en inhibant la synthèse de l'acide folique chez les bactéries.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "sulfamides",
+        "Sulfonamides",
+        "triméthoprime"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thiazidiques",
+      "definition": "Classe de diurétiques utilisés pour traiter l'hypertension et l'œdème en inhibant la réabsorption du sodium dans les reins.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Thiazide diuretics"
+      ],
+      "related_terms": [
+        "hydrochlorothiazide",
+        "chlorthalidone"
+      ],
+      "description": "Les thiazidiques augmentent l'excrétion urinaire de sodium et d'eau.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "thiazidiques",
+        "Thiazide diuretics",
+        "hydrochlorothiazide"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "alpha-méthyl dopa",
+      "definition": "Médicament antihypertenseur agissant comme un agoniste des récepteurs alpha-2 adrénergiques centraux.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Methyldopa"
+      ],
+      "related_terms": [
+        "hypertension",
+        "récepteurs alpha-2 adrénergiques"
+      ],
+      "description": "L'alpha-méthyl dopa réduit la pression artérielle en diminuant la résistance vasculaire périphérique.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "alpha-méthyl dopa",
+        "Methyldopa",
+        "hypertension"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "allopurinol",
+      "definition": "Médicament utilisé pour traiter la goutte et l'hyperuricémie en inhibant la xanthine oxydase.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "Allopurinol"
+      ],
+      "related_terms": [
+        "goutte",
+        "hyperuricémie"
+      ],
+      "description": "L'allopurinol réduit la production d'acide urique dans le corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "allopurinol",
+        "Allopurinol",
+        "goutte"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "pharmacovigilance",
+      "definition": "Surveillance des effets indésirables des médicaments après leur mise sur le marché.",
+      "category": "classification",
+      "synonyms": [
+        "Drug safety surveillance"
+      ],
+      "related_terms": [
+        "effets indésirables",
+        "médicaments"
+      ],
+      "description": "La pharmacovigilance vise à identifier et évaluer les risques associés aux médicaments.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "pharmacovigilance",
+        "Drug safety surveillance",
+        "effets indésirables"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "cryoglobulinémie",
+      "definition": "Présence dans le sérum de protéines formées d'immunoglobulines et de fractions de complément qui précipitent au froid.",
+      "category": "pathologie",
+      "synonyms": [
+        "Cryoglobulinemia"
+      ],
+      "related_terms": [
+        "immunoglobulines",
+        "complément"
+      ],
+      "description": "La cryoglobulinémie peut entraîner des manifestations vasculaires et rénales.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "cryoglobulinémie",
+        "Cryoglobulinemia",
+        "immunoglobulines"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunoglobulines",
+      "definition": "Protéines du système immunitaire qui agissent comme anticorps pour neutraliser les antigènes.",
+      "category": "microbiologie",
+      "synonyms": [
+        "Immunoglobulins"
+      ],
+      "related_terms": [
+        "anticorps",
+        "système immunitaire"
+      ],
+      "description": "Les immunoglobulines jouent un rôle crucial dans la défense contre les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "immunoglobulines",
+        "Immunoglobulins",
+        "anticorps"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Raynaud",
+      "definition": "Trouble vasculaire caractérisé par une vasoconstriction excessive des extrémités en réponse au froid ou au stress.",
+      "category": "pathologie",
+      "synonyms": [
+        "Raynaud's syndrome"
+      ],
+      "related_terms": [
+        "vasoconstriction",
+        "extrémités"
+      ],
+      "description": "Le syndrome de Raynaud peut entraîner une pâleur, une cyanose et une rougeur des doigts et des orteils.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "syndrome de Raynaud",
+        "Raynaud's syndrome",
+        "vasoconstriction"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyneuropathie",
+      "definition": "Atteinte simultanée de plusieurs nerfs périphériques, entraînant des symptômes sensoriels et moteurs.",
+      "category": "pathologie",
+      "synonyms": [
+        "Polyneuropathy"
+      ],
+      "related_terms": [
+        "nerfs périphériques",
+        "symptômes sensoriels"
+      ],
+      "description": "La polyneuropathie peut être causée par diverses conditions, y compris le diabète et les infections.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "polyneuropathie",
+        "Polyneuropathy",
+        "nerfs périphériques"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "connectivites",
+      "definition": "Groupe de maladies auto-immunes caractérisées par une inflammation du tissu conjonctif.",
+      "category": "pathologie",
+      "synonyms": [
+        "Connective tissue diseases"
+      ],
+      "related_terms": [
+        "lupus érythémateux disséminé",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Les connectivites peuvent affecter divers organes et systèmes du corps.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "connectivites",
+        "Connective tissue diseases",
+        "lupus érythémateux disséminé"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Lupus Érythémateux Systémique (LES)",
+      "definition": "Maladie auto-immune chronique caractérisée par une inflammation systémique affectant divers organes.",
+      "category": "pathologie",
+      "synonyms": [
+        "Systemic Lupus Erythematosus (SLE)"
+      ],
+      "related_terms": [
+        "anticorps anti-nucléaires",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "Le LES peut entraîner des manifestations cutanées, articulaires, rénales et neurologiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Lupus Érythémateux Systémique",
+        "Systemic Lupus Erythematosus",
+        "anticorps anti-nucléaires"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti DNA natifs",
+      "definition": "Anticorps dirigés contre l'ADN double brin, marqueurs spécifiques du lupus érythémateux disséminé.",
+      "category": "pathologie",
+      "synonyms": [
+        "Anti-dsDNA antibodies"
+      ],
+      "related_terms": [
+        "lupus érythémateux disséminé",
+        "anticorps anti-nucléaires"
+      ],
+      "description": "Les anti-DNA natifs sont utilisés pour le diagnostic et le suivi du LES.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Anti DNA natifs",
+        "Anti-dsDNA antibodies",
+        "lupus érythémateux disséminé"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Syndrome de Gougerot-Sjögren (SGS)",
+      "definition": "Maladie auto-immune caractérisée par une sécheresse des muqueuses et des manifestations systémiques.",
+      "category": "pathologie",
+      "synonyms": [
+        "Sjögren's syndrome"
+      ],
+      "related_terms": [
+        "sécheresse oculaire",
+        "sécheresse buccale"
+      ],
+      "description": "Le SGS est souvent associé à une infiltration lymphoplasmocytaire des glandes exocrines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "Syndrome de Gougerot-Sjögren",
+        "Sjögren's syndrome",
+        "sécheresse oculaire"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpura vasculaire de Waldentröm",
+      "definition": "Type de purpura associé à une hypergammaglobulinémie, souvent observé dans le syndrome de Gougerot-Sjögren.",
+      "category": "pathologie",
+      "synonyms": [
+        "Waldenström's purpura"
+      ],
+      "related_terms": [
+        "hypergammaglobulinémie",
+        "Syndrome de Gougerot-Sjögren"
+      ],
+      "description": "Le purpura vasculaire de Waldentröm est caractérisé par des lésions cutanées et des manifestations systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": [
+        "purpura vasculaire de Waldentröm",
+        "Waldenström's purpura",
+        "hypergammaglobulinémie"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "connectivite mixte",
+      "definition": "Maladie auto-immune caractérisée par la présence d'anticorps anti-U1-RNP et des symptômes communs à plusieurs maladies auto-immunes.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Sharp"
+      ],
+      "related_terms": [
+        "syndrome de Raynaud"
+      ],
+      "description": "La connectivite mixte peut provoquer des doigts boudinés et des manifestations de syndrome de Raynaud.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polychondrite atrophiante",
+      "definition": "Maladie inflammatoire rare affectant le cartilage, notamment celui des oreilles, du nez et des articulations.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura vasculaire"
+      ],
+      "description": "La polychondrite atrophiante peut être responsable de purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hémopathies",
+      "definition": "Maladies du sang, incluant les leucémies, lymphomes, myélomes et syndromes myélodysplasiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cryoglobulinémie",
+        "purpura vasculaire"
+      ],
+      "description": "Les hémopathies peuvent être révélées par un purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome myélodysplasiques",
+      "definition": "Groupe de maladies de la moelle osseuse caractérisées par une production inefficace de cellules sanguines.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hémopathies",
+        "purpura vasculaire"
+      ],
+      "description": "Les syndromes myélodysplasiques peuvent être associés à un purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Gougerot-Sjögren",
+      "definition": "Maladie auto-immune caractérisée par une sécheresse des muqueuses, notamment des yeux et de la bouche.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypergammaglobulinémie",
+        "purpura vasculaire"
+      ],
+      "description": "Le syndrome de Gougerot-Sjögren peut être à l'origine d'un purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thyroïdite",
+      "definition": "Inflammation de la glande thyroïde, souvent d'origine auto-immune.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "hypergammaglobulinémie",
+        "purpura vasculaire"
+      ],
+      "description": "La thyroïdite auto-immune peut être à l'origine d'un purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularites systémiques primitives",
+      "definition": "Inflammation des vaisseaux sanguins de petite taille, souvent associée à un purpura vasculaire (PV).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura vasculaire"
+      ],
+      "description": "Les vascularites systémiques primitives touchant les petits vaisseaux sont plus à l'origine d'un purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Purpura Rhumatoïde",
+      "definition": "Vascularite la plus fréquente chez l'enfant et l'adolescent, également connue sous le nom de maladie de Schönlein-Henoch.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Schönlein-Henoch"
+      ],
+      "related_terms": [
+        "vascularite",
+        "IgA"
+      ],
+      "description": "Le purpura rhumatoïde peut survenir après une infection ORL et s'associe à des arthralgies, des manifestations abdominales et une atteinte rénale.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularite cryoglobulinémique essentielle",
+      "definition": "Inflammation des vaisseaux sanguins due à la présence de cryoglobulines sans cause évidente.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "cryoglobulinémie"
+      ],
+      "description": "La vascularite cryoglobulinémique essentielle est une forme de cryoglobulinémie sans cause évidente.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticorps anti-cytoplasme des polynucléaires neutrophiles (ANCA)",
+      "definition": "Anticorps dirigés contre des composants du cytoplasme des polynucléaires neutrophiles, utilisés comme marqueurs de certaines vascularites.",
+      "category": "microbiologie",
+      "synonyms": [
+        "ANCA"
+      ],
+      "related_terms": [
+        "vascularites",
+        "granulomatose avec polyangéite",
+        "granulomateuse éosinophilique avec angéite",
+        "polyangéite microscopique"
+      ],
+      "description": "Les ANCA sont des marqueurs importants pour les vascularites associées à des manifestations multi-systémiques.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomatose avec polyangéite",
+      "definition": "Maladie inflammatoire caractérisée par une vascularite nécrosante des petits vaisseaux, souvent associée à des manifestations ORL et pulmonaires.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Wegener"
+      ],
+      "related_terms": [
+        "ANCA",
+        "vascularites"
+      ],
+      "description": "La granulomatose avec polyangéite est souvent associée à des ANCA positifs dans 80 % des cas.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "granulomateuse éosinophilique avec angéite",
+      "definition": "Maladie inflammatoire caractérisée par une vascularite nécrosante des petits vaisseaux, associée à un asthme tardif et sévère avec hyperéosinophilie.",
+      "category": "pathologie",
+      "synonyms": [
+        "syndrome de Churg Strauss"
+      ],
+      "related_terms": [
+        "ANCA",
+        "vascularites"
+      ],
+      "description": "La granulomateuse éosinophilique avec angéite est associée à des ANCA anti-myéloperoxidases (MPO) dans 40 % des cas.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "polyangéite microscopique",
+      "definition": "Vascularite nécrosante des petits vaisseaux, souvent associée à une capillarite pulmonaire et rénale.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ANCA",
+        "vascularites"
+      ],
+      "description": "La polyangéite microscopique est associée à des ANCA anti-MPO dans 60 % des cas.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "périartérite noueuse",
+      "definition": "Vascularite nécrosante des artères de moyen calibre, souvent associée à des manifestations systémiques.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularites"
+      ],
+      "description": "La périartérite noueuse s'accompagne rarement de purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Kawasaki",
+      "definition": "Vascularite systémique affectant principalement les enfants, caractérisée par une inflammation des artères de moyen calibre.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularites"
+      ],
+      "description": "La maladie de Kawasaki s'accompagne rarement de purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "artérite à cellule géante",
+      "definition": "Vascularite granulomateuse des gros vaisseaux, souvent associée à des maux de tête et une perte de vision.",
+      "category": "pathologie",
+      "synonyms": [
+        "maladie de Horton"
+      ],
+      "related_terms": [
+        "vascularites"
+      ],
+      "description": "L'artérite à cellule géante ne s'accompagne pas de purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "maladie de Takayasu",
+      "definition": "Vascularite granulomateuse des gros vaisseaux, souvent associée à une faiblesse des pouls et une hypertension.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularites"
+      ],
+      "description": "La maladie de Takayasu ne s'accompagne pas de purpura vasculaire (PV).",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpuras emboliques",
+      "definition": "Purpuras résultant de l'obstruction des vaisseaux sanguins par des emboles.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura vasculaire"
+      ],
+      "description": "Les purpuras emboliques peuvent être associés à une vascularite du derme.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "purpuras thrombotiques",
+      "definition": "Purpuras résultant de la formation de thrombus dans les vaisseaux sanguins.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "purpura vasculaire"
+      ],
+      "description": "Les purpuras thrombotiques peuvent être observés dans le syndrome des antiphospholipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiphospholipides",
+      "definition": "Anticorps dirigés contre les phospholipides, impliqués dans le syndrome des antiphospholipides.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome des antiphospholipides",
+        "purpuras thrombotiques"
+      ],
+      "description": "Les antiphospholipides incluent les anticardiolipines et les anti-bêta 2 microglobulines.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "anticoagulant circulant de type lupique",
+      "definition": "Anticorps dirigé contre les phospholipides, souvent associé au syndrome des antiphospholipides.",
+      "category": "microbiologie",
+      "synonyms": [],
+      "related_terms": [
+        "syndrome des antiphospholipides",
+        "antiphospholipides"
+      ],
+      "description": "L'anticoagulant circulant de type lupique est un marqueur important du syndrome des antiphospholipides.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "ANCA",
+      "definition": "Anticorps anti-neutrophiles cytoplasmiques, marqueurs utilisés pour diagnostiquer certaines vascularites.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "p-ANCA",
+        "c-ANCA"
+      ],
+      "description": "Les ANCA sont des auto-anticorps dirigés contre des antigènes présents dans les granules cytoplasmiques des neutrophiles. Ils sont utilisés pour diagnostiquer des maladies comme la granulomatose avec polyangéite (Wegener) et la polyangéite microscopique.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic des vascularites systémiques.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "ANCA",
+        "vascularite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "p-ANCA",
+      "definition": "Anticorps anti-neutrophiles cytoplasmiques avec un motif périnucléaire, associés à la polyangéite microscopique et la granulomatose éosinophilique avec polyangéite (Churg-Strauss).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ANCA",
+        "c-ANCA"
+      ],
+      "description": "Les p-ANCA sont des auto-anticorps dirigés contre des antigènes présents dans les granules cytoplasmiques des neutrophiles, avec un motif périnucléaire. Ils sont utilisés pour diagnostiquer des maladies comme la polyangéite microscopique et la granulomatose éosinophilique avec polyangéite.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic des vascularites systémiques.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "p-ANCA",
+        "vascularite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "c-ANCA",
+      "definition": "Anticorps anti-neutrophiles cytoplasmiques avec un motif cytoplasmique, associés à la granulomatose avec polyangéite (Wegener).",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "ANCA",
+        "p-ANCA"
+      ],
+      "description": "Les c-ANCA sont des auto-anticorps dirigés contre des antigènes présents dans les granules cytoplasmiques des neutrophiles, avec un motif cytoplasmique. Ils sont utilisés pour diagnostiquer des maladies comme la granulomatose avec polyangéite.",
+      "expansion": "",
+      "clinical_significance": "Important pour le diagnostic des vascularites systémiques.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "c-ANCA",
+        "vascularite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Complément Sérique",
+      "definition": "Ensemble de protéines présentes dans le sang qui jouent un rôle dans le système immunitaire.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "système immunitaire",
+        "inflammation"
+      ],
+      "description": "Le complément sérique est un ensemble de protéines qui aident à la défense immunitaire en amplifiant la réponse inflammatoire et en facilitant la destruction des agents pathogènes.",
+      "expansion": "",
+      "clinical_significance": "Diminution en cas de LES ou de cryoglobulinémie.",
+      "normal_values": "Valeurs normales dépendent des protéines spécifiques mesurées.",
+      "image_search_terms": [
+        "complément sérique",
+        "système immunitaire"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Facteur Rhumatoïde",
+      "definition": "Auto-anticorps dirigés contre la partie Fc des immunoglobulines G, souvent associés à la polyarthrite rhumatoïde.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "polyarthrite rhumatoïde",
+        "auto-anticorps"
+      ],
+      "description": "Le facteur rhumatoïde est un auto-anticorps dirigé contre la partie Fc des immunoglobulines G, souvent présent dans la polyarthrite rhumatoïde et d'autres maladies auto-immunes.",
+      "expansion": "",
+      "clinical_significance": "Marqueur diagnostique pour la polyarthrite rhumatoïde.",
+      "normal_values": "Négatif",
+      "image_search_terms": [
+        "facteur rhumatoïde",
+        "polyarthrite rhumatoïde"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "immunofluoréscence directe",
+      "definition": "Technique de laboratoire utilisée pour détecter des anticorps ou des antigènes dans des tissus en utilisant des anticorps marqués par des fluorochromes.",
+      "category": "imagerie",
+      "synonyms": [],
+      "related_terms": [
+        "biopsie cutanée",
+        "anticorps"
+      ],
+      "description": "L'immunofluoréscence directe est une technique de laboratoire utilisée pour détecter des anticorps ou des antigènes dans des tissus en utilisant des anticorps marqués par des fluorochromes.",
+      "expansion": "",
+      "clinical_significance": "Utilisée pour diagnostiquer des maladies auto-immunes et des infections.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "immunofluoréscence directe",
+        "biopsie cutanée"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PAN",
+      "definition": "Polyangéite microscopique, une vascularite nécrosante des petits vaisseaux.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularite",
+        "ANCA"
+      ],
+      "description": "La polyangéite microscopique est une vascularite nécrosante des petits vaisseaux, souvent associée à la présence d'ANCA.",
+      "expansion": "Polyangéite microscopique",
+      "clinical_significance": "Peut nécessiter une artériographie pour le diagnostic.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "PAN",
+        "polyangéite microscopique"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Granulomatose de Wegener",
+      "definition": "Granulomatose avec polyangéite, une vascularite systémique affectant les petits et moyens vaisseaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulomatose avec polyangéite"
+      ],
+      "related_terms": [
+        "vascularite",
+        "ANCA"
+      ],
+      "description": "La granulomatose avec polyangéite est une vascularite systémique affectant les petits et moyens vaisseaux, souvent associée à la présence d'ANCA.",
+      "expansion": "Granulomatose avec polyangéite",
+      "clinical_significance": "Peut nécessiter une TDM thoracique pour le diagnostic.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "Granulomatose de Wegener",
+        "granulomatose avec polyangéite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "syndrome de Churg Strauss",
+      "definition": "Granulomatose éosinophilique avec polyangéite, une vascularite systémique affectant les petits et moyens vaisseaux.",
+      "category": "pathologie",
+      "synonyms": [
+        "granulomatose éosinophilique avec polyangéite"
+      ],
+      "related_terms": [
+        "vascularite",
+        "ANCA"
+      ],
+      "description": "Le syndrome de Churg-Strauss est une vascularite systémique affectant les petits et moyens vaisseaux, souvent associée à la présence d'ANCA.",
+      "expansion": "Granulomatose éosinophilique avec polyangéite",
+      "clinical_significance": "Peut nécessiter une TDM thoracique pour le diagnostic.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "syndrome de Churg Strauss",
+        "granulomatose éosinophilique avec polyangéite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "TDM thoraco-abdomino-pelvienne",
+      "definition": "Tomodensitométrie thoraco-abdomino-pelvienne, une technique d'imagerie utilisant les rayons X pour visualiser les structures thoraciques, abdominales et pelviennes.",
+      "category": "imagerie",
+      "synonyms": [
+        "scanner thoraco-abdomino-pelvien"
+      ],
+      "related_terms": [
+        "tomodensitométrie",
+        "rayons X"
+      ],
+      "description": "La TDM thoraco-abdomino-pelvienne est une technique d'imagerie utilisant les rayons X pour visualiser les structures thoraciques, abdominales et pelviennes.",
+      "expansion": "Tomodensitométrie thoraco-abdomino-pelvienne",
+      "clinical_significance": "Utilisée pour diagnostiquer des néoplasies.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "TDM thoraco-abdomino-pelvienne",
+        "scanner thoraco-abdomino-pelvien"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTAI",
+      "definition": "Purpura thrombopénique auto-immun, une maladie auto-immune caractérisée par une diminution des plaquettes sanguines.",
+      "category": "pathologie",
+      "synonyms": [
+        "purpura thrombocytopénique idiopathique"
+      ],
+      "related_terms": [
+        "thrombopénie",
+        "auto-immunité"
+      ],
+      "description": "Le PTAI est une maladie auto-immune caractérisée par une diminution des plaquettes sanguines, entraînant des saignements et des ecchymoses.",
+      "expansion": "Purpura thrombopénique auto-immun",
+      "clinical_significance": "Peut nécessiter un traitement par corticoïdes ou immunoglobulines intraveineuses.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "PTAI",
+        "purpura thrombocytopénique idiopathique"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "thrombopoïétine",
+      "definition": "Hormone qui stimule la production de plaquettes par la moelle osseuse.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "plaquettes",
+        "moelle osseuse"
+      ],
+      "description": "La thrombopoïétine est une hormone qui stimule la production de plaquettes par la moelle osseuse, jouant un rôle crucial dans la régulation de l'hémostase.",
+      "expansion": "",
+      "clinical_significance": "Utilisée dans le traitement du PTAI lorsque la splénectomie est contre-indiquée.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "thrombopoïétine",
+        "plaquettes"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "FW",
+      "definition": "Facteur von Willebrand, une protéine impliquée dans l'hémostase et la coagulation sanguine.",
+      "category": "physiologie",
+      "synonyms": [
+        "facteur von Willebrand"
+      ],
+      "related_terms": [
+        "hémostase",
+        "coagulation"
+      ],
+      "description": "Le facteur von Willebrand est une protéine impliquée dans l'hémostase et la coagulation sanguine, jouant un rôle crucial dans la formation de caillots sanguins.",
+      "expansion": "Facteur von Willebrand",
+      "clinical_significance": "Important pour le traitement du PTT.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "FW",
+        "facteur von Willebrand"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "Anti-CD 20",
+      "definition": "Anticorps monoclonal dirigé contre le CD20, une protéine présente à la surface des lymphocytes B.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "rituximab"
+      ],
+      "related_terms": [
+        "anticorps monoclonal",
+        "lymphocytes B"
+      ],
+      "description": "Les anti-CD20 sont des anticorps monoclonaux dirigés contre le CD20, une protéine présente à la surface des lymphocytes B, utilisés pour traiter diverses maladies auto-immunes et cancers hématologiques.",
+      "expansion": "",
+      "clinical_significance": "Utilisés dans le traitement du PTT en cas d'échec des échanges plasmatiques.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "Anti-CD 20",
+        "rituximab"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "clearance lymphocytaire B",
+      "definition": "Processus de diminution ou d'élimination des lymphocytes B, souvent par l'utilisation d'anticorps monoclonaux comme le rituximab.",
+      "category": "physiologie",
+      "synonyms": [],
+      "related_terms": [
+        "lymphocytes B",
+        "rituximab"
+      ],
+      "description": "La clearance lymphocytaire B est le processus de diminution ou d'élimination des lymphocytes B, souvent par l'utilisation d'anticorps monoclonaux comme le rituximab, utilisé pour traiter diverses maladies auto-immunes.",
+      "expansion": "",
+      "clinical_significance": "Utilisée dans le traitement du PTT en cas d'échec des échanges plasmatiques.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "clearance lymphocytaire B",
+        "lymphocytes B"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "PTT acquis",
+      "definition": "Forme acquise du purpura thrombotique thrombocytopénique, souvent due à des auto-anticorps dirigés contre l'ADAMTS-13.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "PTT",
+        "ADAMTS-13"
+      ],
+      "description": "Le PTT acquis est une forme acquise du purpura thrombotique thrombocytopénique, souvent due à des auto-anticorps dirigés contre l'ADAMTS-13.",
+      "expansion": "Purpura thrombotique thrombocytopénique acquis",
+      "clinical_significance": "Traitement d'urgence par échanges plasmatiques et corticothérapie.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "PTT acquis",
+        "purpura thrombotique thrombocytopénique acquis"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "antiagrégants plaquettaires",
+      "definition": "Médicaments qui inhibent l'agrégation plaquettaire, utilisés pour prévenir la formation de caillots sanguins.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "aspirine",
+        "thrombose"
+      ],
+      "description": "Les antiagrégants plaquettaires sont des médicaments qui inhibent l'agrégation plaquettaire, utilisés pour prévenir la formation de caillots sanguins, comme l'aspirine.",
+      "expansion": "",
+      "clinical_significance": "Non efficaces dans le traitement du PTT.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "antiagrégants plaquettaires",
+        "aspirine"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "colchicine",
+      "definition": "Médicament utilisé pour traiter la goutte et d'autres maladies inflammatoires, agissant en inhibant la migration des leucocytes.",
+      "category": "pharmacologie",
+      "synonyms": [],
+      "related_terms": [
+        "goutte",
+        "inflammation"
+      ],
+      "description": "La colchicine est un médicament utilisé pour traiter la goutte et d'autres maladies inflammatoires, agissant en inhibant la migration des leucocytes.",
+      "expansion": "",
+      "clinical_significance": "Utilisée dans le traitement du purpura vasculaire en cas de rechute.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "colchicine",
+        "goutte"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "hydroxychloroquine",
+      "definition": "Médicament antipaludéen et immunomodulateur utilisé pour traiter diverses maladies auto-immunes.",
+      "category": "pharmacologie",
+      "synonyms": [
+        "plaquenil"
+      ],
+      "related_terms": [
+        "lupus",
+        "polyarthrite rhumatoïde"
+      ],
+      "description": "L'hydroxychloroquine est un médicament antipaludéen et immunomodulateur utilisé pour traiter diverses maladies auto-immunes, comme le lupus et la polyarthrite rhumatoïde.",
+      "expansion": "",
+      "clinical_significance": "Utilisée dans le traitement du purpura vasculaire en cas de rechute.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "hydroxychloroquine",
+        "plaquenil"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "vascularites systémiques",
+      "definition": "Groupe de maladies caractérisées par une inflammation des vaisseaux sanguins, affectant plusieurs organes.",
+      "category": "pathologie",
+      "synonyms": [],
+      "related_terms": [
+        "vascularite",
+        "inflammation"
+      ],
+      "description": "Les vascularites systémiques sont un groupe de maladies caractérisées par une inflammation des vaisseaux sanguins, affectant plusieurs organes, comme la granulomatose avec polyangéite et le syndrome de Churg-Strauss.",
+      "expansion": "",
+      "clinical_significance": "Peuvent nécessiter un traitement par corticoïdes et immunosuppresseurs.",
+      "normal_values": "Non applicable",
+      "image_search_terms": [
+        "vascularites systémiques",
+        "vascularite"
+      ],
+      "subject_id": "46d39f90-48d8-46d1-8735-03c9e2ba008d",
+      "source_file": "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "source_files": [
+    "Hématologie/Purpuras/Courses/62 Les Purpuras 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.57 AM.md"
+  ],
+  "total_terms": 127
+}

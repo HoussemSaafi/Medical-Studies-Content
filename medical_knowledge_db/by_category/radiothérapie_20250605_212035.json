@@ -1,0 +1,65 @@
+{
+  "category": "radiothérapie",
+  "terms": [
+    {
+      "term": "irradiation",
+      "definition": "Utilisation de rayonnements ionisants pour traiter les tumeurs.",
+      "category": "radiothérapie",
+      "synonyms": [
+        "radiothérapie"
+      ],
+      "related_terms": [
+        "curiethérapie",
+        "radiothérapie externe"
+      ],
+      "description": "L'irradiation peut être curative, palliative ou complémentaire.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "curiethérapie endobronchique",
+      "definition": "Technique de radiothérapie où une source radioactive est placée directement dans les bronches pour traiter les tumeurs localisées.",
+      "category": "radiothérapie",
+      "synonyms": [
+        "brachythérapie endobronchique"
+      ],
+      "related_terms": [
+        "curiethérapie",
+        "radiothérapie interne"
+      ],
+      "description": "Utilisée pour traiter les tumeurs bronchiques de manière localisée.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    },
+    {
+      "term": "radiothérapie métabolique",
+      "definition": "Technique de radiothérapie utilisant des radio-isotopes pour cibler les tissus à haute activité métabolique, comme les métastases osseuses.",
+      "category": "radiothérapie",
+      "synonyms": [],
+      "related_terms": [
+        "radiothérapie interne",
+        "scintigraphie osseuse"
+      ],
+      "description": "Utilisée pour traiter les lésions lytiques osseuses multiples.",
+      "expansion": null,
+      "clinical_significance": null,
+      "normal_values": null,
+      "image_search_terms": null,
+      "subject_id": "e697f089-b302-4d85-87d3-5e1011e23375",
+      "source_file": "Pneumologie/Cancers Broncho-Pulmonaires/Courses/11 Les cancers broncho-pulmonaires primitifs 2.51.49 AM 2.53.07 AM 2.55.03 AM 2.56.32 AM 2.58.10 AM 2.59.56 AM 3.01.27 AM 3.01.58 AM 3.04.35 AM 3.04.58 AM.md",
+      "confidence_score": 0.95
+    }
+  ],
+  "total_count": 3,
+  "extraction_date": "20250605_212035"
+}
